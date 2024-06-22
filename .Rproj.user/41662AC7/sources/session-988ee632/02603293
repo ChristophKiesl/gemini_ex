@@ -1,9 +1,9 @@
 {
     "id": "02603293",
-    "path": null,
-    "project_path": null,
+    "path": "D:/Uni/Ulm/Master/2. Semester/Project Economic Data Science/gemini_ex/TestingGround.R",
+    "project_path": "TestingGround.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "152830137",
     "contents": "",
     "dirty": false,
     "created": 1719061193777.0,
@@ -12,14 +12,16 @@
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "2,15",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 0,
-    "encoding": "",
+    "lastKnownWriteTime": 1719061873,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1719061193777,
+    "last_content_update": 1719061873135,
     "read_only": false,
     "read_only_alternatives": []
 }
