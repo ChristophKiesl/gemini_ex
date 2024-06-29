@@ -1,5 +1,4 @@
-The following text is a business model description. Use only information from the following text. Use at max 500 tokens for your answer. The text is the following: 
-
+Summarize the business model from the following text and use at max fivehundred tokens for your answer. Use only information from following the text:
 Item 1. | BUSINESS
 -------------------------------------------------+---------
 
