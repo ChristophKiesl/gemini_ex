@@ -1,4 +1,5 @@
-Summarize the business model from the following text and use at max fivehundred tokens for your answer. Use only information from following the text:
+Summarize the business model from the following text. Answer with a continuous text and with fivehundred tokens at max. Use only information from the following the text:
+
 Item 1.         Business.
 
 Harris & Harris Group, Inc.® (the "Company," "us," "our," and "we"), is an internally managed investment company. We have elected to be regulated as a business development company ("BDC") under the Investment Company Act of 1940, (the "1940 Act"). For tax purposes, we have elected to be treated as a regulated investment company ("RIC") under Subchapter M of the Internal Revenue Code of 1986 (the "Code"). However, as is discussed in detail in Note 10 to our Consolidated Financial Statements, we did not qualify as a RIC in 2016, but we had no taxable income. We were incorporated under the laws of the state of New York in August 1981. We are overseen by our Board of Directors and managed by our officers and have no external investment adviser.

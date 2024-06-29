@@ -1,4 +1,4 @@
-Summarize the business model from the following text and use at max fivehundred tokens for your answer. Use only information from following the text:
+Summarize the business model from the following text. Answer with a continuous text and with fivehundred tokens at max. Use only information from the following the text:
 
 Item 1. | Business
 
