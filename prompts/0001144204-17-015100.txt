@@ -1,4 +1,5 @@
-Abstract the business model from the following text. Answer with a continuous text and with fivehundred tokens at max. Set your focus on sources of revenue, the intended customer base, products, and details of financing. Use only information from the following the text:
+Sum up the business model from the following text. Answer with a continuous text and with fivehundred tokens at max. Set your focus on sources of revenue, the intended customer base, products, and details of financing. Use only information from the following the text:
+
 
 Item 1. | Business
 --------+---------
