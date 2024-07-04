@@ -1,4 +1,4 @@
-Summarize the business model from the following text. Use this definition of business model: "A business model represents the relevant activities of a company and their relations with each other in order to create, deliver, and capture value." Answer with a continuous text and with fivehundred tokens at max. Use only information from the following the text:
+Summarize the business model from the following text. Answer with a continuous text and with fivehundred tokens at max. Set your focus on sources of revenue, the intended customer base, products, and details of financing. Use only information from the following the text:
 
 ITEM 1. BUSINESS
 Overview
