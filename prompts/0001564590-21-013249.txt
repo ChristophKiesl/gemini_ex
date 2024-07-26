@@ -1,0 +1,418 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ Forte Biosciences, Inc. and its subsidiary (collectively the “Company,” “Forte,” “we,” or “us,”) is a clinical-stage biopharmaceutical company focused on advancing through clinical trials our lead product candidate, FB-401, which is a topically applied, non-steroidal, live biotherapeutic for the treatment of inflammatory skin diseases, including pediatric and adult patients with atopic dermatitis (“AD”). There is currently a significant unmet need for safe and effective therapies for pediatric AD patients. FB401 was developed in collaboration with the National Institutes of Health (“NIH”), and the National Institute of Allergy and Infectious Diseases (“NIAID”).
+ Forte entered into a business combination (“Merger”) between Forte Subsidiary, Inc. (“Forte Subsidiary”) and Tocagen, Inc. (“Tocagen”), a publicly traded biotechnology company. The Merger closed on June 15, 2020, in which Telluride Merger Sub, Inc. a wholly-owned subsidiary of Tocagen, merged with and into Forte Subsidiary, with Forte Subsidiary surviving that Merger as a wholly-owned subsidiary of Tocagen. Immediately prior to the closing of the Merger, the then outstanding shares of Tocagen common stock were adjusted with a reverse split ratio of 1-for-15. At the closing of the Merger, each share of Forte Subsidiary’s common stock was converted into the right to receive approximately 3.1624 shares of Tocagen common stock (before giving effect to the reverse split). Immediately prior to closing of the Merger, Tocagen changes its name to Forte Biosciences, Inc. Our common stock is publicly traded on the Nasdaq Capital Market under the ticker symbol FBRX. Prior to the Merger, Forte Subsidiary was a privately held company incorporated in Delaware on May 3, 2017.
+ In September 2020, we initiated a multi-center double-blinded placebo-controlled Phase 2 clinical trial of FB-401 which is enrolling children (2 years of age and older), adolescents and adults with AD. For additional information about the trial, see ClinicalTrials.gov using the identifier NCT04504279. 
+ In October 2020, the U.S. Food and Drug Administration (“FDA”) granted Fast Track Designation to FB-401 for the treatment of AD.
+ About AD
+ There is currently no cure for AD. AD is a relapsing and remitting inflammatory skin disorder that affects all age groups. It is chronic, incurable and characterized by skin-barrier disruption and immune dysregulation. AD is clinically characterized by xerosis (dry skin), erythematous crusted eruptions, lichenification (skin becomes thick and leathery), an impaired skin barrier function and intense pruritus (severe itching). AD flares are frequently triggered by exposure to environmental factors, irritants, and allergens.
+ Patients with AD have a high disease burden and their quality of life is significantly affected. AD has been shown to have a greater negative effect on patient mental health than diabetes and hypertension. Patients with moderate-to-severe AD have a higher prevalence of social dysfunction and sleep impairment, which are directly related to the severity of the disease. Depression, anxiety, and social dysfunction not only affect patients with AD, but also affect their caregivers. Compared with psoriasis, another common and debilitating skin disease, patients with AD have lower physical, vitality, social functioning, role-emotional, and mental health scores.
+ Market for Treating AD
+Although estimates of AD prevalence vary widely across different studies due to differences in data collection methodology, inconsistent age group assessment, and study periods, AD is one of the most common dermatologic diseases in the United States. We believe that approximately 17 million people have been diagnosed with AD in the United States, of which more than half are pediatric patients (<18 years old) and that 15%-30% of children and 2%-10% of adults are afflicted. A 2010 study in the United States evaluating AD severity in children found that 67% had mild disease, 26% had moderate disease and 7% had severe disease. Approximately 85% of all cases of AD begin before age five. Treatment options in particular are very limited for pediatric patients with AD.
+ Our Approach
+ We are developing a novel approach for treating inflammatory skin disease using a topical live biotherapeutic. Although bacteria are often associated with infection and disease, much of the bacteria that colonize the human body are essential for life.  A few recent scientific studies have focused on the benefits of commensal bacteria which act on the human body’s immune system to induce protective responses that prevent colonization and invasion by pathogens. 
+ 3
+
+
+The NIH was the first to culture Gram-negative bacteria from the skin and has been a thought leader in understanding the bacterial composition of the skin. The work at NIH has:
+  
+• | Identified substantial differences in the Gram-negative microbiome present on the skin of AD patients versus those of healthy volunteers (“HV”) using genetic-based microbiome analysis;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Found that the predominant species of skin commensal Gram-negative bacteria in HV was Roseomonas mucosa; and
+--+-------------------------------------------------------------------------------------------------------------
+
+
+• | Discovered that over 50% of Atopic Dermatitis patients did not have any culturable Gram-negative flora (see bar chart below), consistent with DNA-based analysis.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Myles IA, Williams KW, Reckhow JD, et al. JCI Insight. 2016;1(10)
+ Kong HH et al. Genome research. 2012;22(5):850-859
+ 
+Our product candidate, FB-401, consists of three therapeutic strains of a commensal Gram-negative bacteria, Roseomonas mucosa, which were specifically selected for their impact on key parameters of inflammatory skin disease. Our extensive preclinical and mechanism of action data demonstrate that FB-401 improves AD disease parameters by driving tissue repair and anti-inflammation. Specifically, we believe that FB-401:
+ 
+ 
+• | drives immune pathways that are defective;
+--+-------------------------------------------
+
+
+• | potentially suppresses Staphylococcus aureus (“S. aureus”) growth; and
+--+-----------------------------------------------------------------------
+
+
+• | improves skin barrier function.
+--+--------------------------------
+
+Mechanism of Action
+ Rigorous preclinical testing established a causal connection between the three strains of R. mucosa that comprise FB-401 and skin healing in AD patients. More specifically, extensive preclinical work of FB-401 by Forte, in collaboration with the NIH, has demonstrated that:
+ 
+ 
+• | Gene sequencing and mRNAseq highlights show that following exposure to FB-401, fibroblasts, keratinocytes, embryonic stem cells and dendritic cells drive tissue repair by activating the TLR5, TNFR and CXCR2 (IL-8 signaling) pathways which induce epithelial to mesenchymal transition (“EMT”) resulting in tissue repair and anti-inflammatory activity; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+
+
+ 
+• | FB-401 inhibits different strains of S. aureus, including methicillin resistant S. aureus (“MRSA”), through the phosphatidylcholine and phosphatidylethanolamine metabolites produced by the 3 strains of R. mucosa that constitute FB-401. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Based on the therapeutic potential observed in preclinical testing, FB-401 was advanced into the clinic in a Phase 1/2a proof of concept study.
+ 
+Clinical Development of FB-401 
+ 
+Phase 1/2a
+ To date, a Phase 1/2a study has been completed with pediatric and adult patients, demonstrating significant reduction in AD disease and pruritus (severe itching), as well as control of S. aureus while tapering or eliminating steroid use. 
+ 
+FB-401 is lyophilized (freeze-dried) and is reconstituted with an aqueous solution by the patient prior to use, which is then sprayed onto the affected areas of the skin. The open-label Phase 1/2a study enrolled two cohorts:
+ 
+ 
+• | Initial cohort enrolled 10 adult AD patients, 18 years and older; and
+--+----------------------------------------------------------------------
+
+
+• | Following positive safety assessment from the adult cohort, the second cohort consisted of 20 pediatric patients.
+--+------------------------------------------------------------------------------------------------------------------
+
+ The primary objective of this study was to evaluate the safety and activity of R. mucosa as a live biotherapeutic for the treatment of AD. A secondary objective was to evaluate the effect of R. mucosa on the quality of life of AD patients.
+ 
+Results
+ Adult Cohort
+ Ten adult AD patients were treated in two-week intervals with increasing dosages of 103, 104, and 105 colony-forming units (“CFU”) of R mucosa twice per week for a total of six weeks. CFU is a measure of viable bacterial cells. The history and physical characteristics of each patient’s AD was assessed at enrollment, including the measurement of AD in a blind manner using a clinical tool, SCORing Atopic Dermatitis (“SCORAD”), which assesses the extent and severity of AD. SCORAD quantifies on a scale of 0-3 each separate symptom of a patient’s AD including dryness, redness, lichenification (thick or leathery skin), excoriation (urge to itch), crusting and edema (swelling). In addition to SCORAD, each patient’s AD was measured and recorded using lab work, photographs and skin swabs. Each patient then self-reported their subjective score of pruritus (severe itching) on a scale of 0-10. An 
+ 5
+
+
+antecubital SCORAD was then recorded which is SCORAD applied only to the antecubital area (inside of arm near the elbow). Antecubital SCORAD is calculated as the sum of (i) the intensity (as determined by SCORAD) and (ii) the reported pruritus for each patient. The adults were only treated at the antecubital fossa and one other body area selected by the patients. At the end of the six-week period, each patient’s AD was again assessed.
+ No adverse events were observed in this first adult cohort study. In addition, even with a short duration of therapy, FB-401 demonstrated statistically significant improvements in this Phase I adult cohort study.
+ 
+
+Pediatric Cohort
+ Twenty pediatric/adolescent patients with active AD were then treated in four four-week intervals for a total of 16 weeks as follows:
+ 
+ 
+• | 103 CFU twice per week for four weeks;
+--+---------------------------------------
+
+
+• | 104 CFU twice per week for four weeks;
+--+---------------------------------------
+
+
+• | 105 CFU twice per week for four weeks; and
+--+-------------------------------------------
+
+
+• | 105 CFU every other day for four weeks.
+--+----------------------------------------
+
+ The dose escalation component of the study was designed to assess safety in a conservative manner. Assessments of each pediatric/adolescent patient’s AD were made at the beginning of the study (baseline) and at the end of each four-week period using the same assessment methodology described for the adult cohort. Additionally, the number of steroid applications used by each pediatric patient was recorded.
+ Key clinical parameters included:
+ 
+ 
+• | % of subjects with 50% improvement in SCORAD
+--+---------------------------------------------
+
+
+• | % of subjects with 50%, 75% and 90% improvement in Eczema Area and Severity Index (“EASI”) score
+--+-------------------------------------------------------------------------------------------------
+
+
+• | % improvement in SCORAD
+--+------------------------
+
+
+• | % improvement in EASI score
+--+----------------------------
+
+ In addition, the pediatric/adolescent study also explored the following objectives:
+ 
+ 
+• | Measure trans epidermal water loss (“TEWL”). TEWL measurements are of importance in evaluating the skin barrier function;
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+• | Characterize changes to total and specific Immunoglobulin E (“IgE”), which are antibodies produced by the immune system that are typically elevated in AD patients;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Evaluate potential changes to pre-diagnosed asthma and/or food allergies which share some of the pathways that trigger AD;
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+• | Evaluate the incidence of S. aureus infections that require treatment; and
+--+---------------------------------------------------------------------------
+
+
+• | Persistence of R mucosa colonization after treatment to assess the durable nature of the therapy.
+--+--------------------------------------------------------------------------------------------------
+
+Summary of Phase 1/2a Clinical Results
+ FB-401 was designed to improve AD symptoms by selecting three strains of R. mucosa that demonstrated improvements in the skin barrier function, enhanced immune balance, and the potential to inhibit S. aureus colonization on the skin.
+To summarize, the study demonstrated:
+ 
+ 
+• | FB-401 was well tolerated with an excellent safety profile and with no significant adverse effects noted in either the pediatric/adolescent or adult cohorts;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FB-401 resulted in statistically significant clinical improvement in the treated areas in adult subjects;
+--+----------------------------------------------------------------------------------------------------------
+
+
+• | Children treated with FB-401 had improvement in disease activity as measured by SCORAD, EASI, pruritus, TEWL and the Children’s or Family Dermatology Life Quality Index (“CDLQI” and “FDLQI”);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+
+ 
+• | EASI-50, meaning patients showing a 50% improvement, was achieved by 90% of the pediatric patients and by 100% of the subset of moderate-to-severe pediatric patients. The mean improvement in the EASI score was 77%, with improvements observed on all actively treated body regions;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The therapeutic activity of FB-401 was durable through the follow-up period of up to 8 months after the end of treatment;
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+• | Pruritus also improved by an average of 4 points (mean improvement of 58%);
+--+----------------------------------------------------------------------------
+
+
+• | FB-401 was shown in this clinical study to drive tissue repair and anti-inflammatory activity while potentially controlling harmful bacteria like S. aureus;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The degree of improvement was substantial and, despite the absence of a control group, appears to be substantially greater than would be expected from a placebo group; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | These improvements were seen despite meaningful decreases in topical steroid use.
+--+----------------------------------------------------------------------------------
+
+Phase 2 Clinical Trial 
+ On September 29, 2020, we announced that the first patient had been dosed in a Phase 2 clinical trial of FB-401.  The multi-center, double-blinded, placebo-controlled and randomized clinical trial is expected to enroll approximately 124 pediatric, adolescent and adult AD subjects aged 2 years of age and older. 
+ The primary endpoint of the trial is the proportion of subjects that achieve EASI-50 at week 16. Patients have achieved EASI-50 if they achieve at least a 50% improvement in the AD disease burden as measured by the Eczema Area and Severity Index (“EASI”). 
+ Results of this trial are expected in approximately mid-2021.
+ Manufacturing
+ The manufacturing development of FB-401 is conducted following the general principle set forth in the FDA’s June 2016 Guidance for Industry: “Early Clinical Trials with Live Biotherapeutic Products: Chemistry, Manufacturing, and Control Information”.
+ Fermentation. FB-401 is currently being manufactured at scale in accordance with current applicable FDA current Good Manufacturing Practice (“cGMP”). 
+ Formulation. FB-401 drug substance is produced by mixing the three FB-401 R. mucosa strains. FB-401 is filled into vials prior to lyophilization (freeze drying). The lyophilized product is reconstituted by the patient prior to use by mixing the powder with diluent. FB-401 is administered topically by spraying it onto the affected areas of the skin.
+ Analytical. Each of the three R mucosa strain components in FB-401 is tested before being released for formulation of drug product. 
+ Forte primarily uses contract manufacturing and testing organizations to support the manufacturing of its FB-401 drug product candidate. Forte currently expects to continue to rely on third parties for the manufacturing of FB-401 as it advances through clinical trials, as well as for commercial manufacture, if FB-401 or any of its product candidates obtain marketing approval. Forte believes that it has sufficient quantity of FB-401 to support its current and future planned clinical trial programs. Forte also believes it has multiple potential additional sources for the manufacturing of FB-401.
+ Competition
+ The biotechnology and pharmaceutical industries are characterized by rapidly advancing technologies, strong competition and an emphasis on proprietary products. We believe that the key competitive factors affecting the success of any of our product candidates will include efficacy, safety profile, method of administration, cost, level of promotional activity and intellectual property protection.
+ Although there are currently many live bacterial product candidates in development by companies that target the microbiome (e.g., Seres Therapeutics, Inc., Synlogic, Inc. and Evelo Biosciences, Inc.), we believe that we have a differentiated approach and do not consider ourselves to be in direct competition with these bacterial microbiome approaches.
+ 7
+
+
+We are aware of several marketed and investigational products for AD including but not limited to:
+ 
+ 
+• | Dupixent marketed by Regeneron/Sanofi. Dupixent is administered systemically through an injection;
+--+---------------------------------------------------------------------------------------------------
+
+
+• | Eucrisa marketed by Pfizer, Inc.; and
+--+--------------------------------------
+
+
+• | Janus Kinase (“JAK”) inhibitors marketed by various companies.
+--+---------------------------------------------------------------
+
+ We believe that there is a role for additional agents that provide meaningful efficacy with an acceptable safety profile, especially for children, and a method of administration other than by injection.
+ Intellectual Property
+ We have 7 issued U.S. patents relating to our lead product candidate, FB-401, as well as our other product candidates. These issued patents have claims directed to the formulations, manufacturing and method of use for inflammatory skin conditions including atopic dermatitis, psoriasis, rosacea, and acne. These patents are expected to expire in April 2037, absent any patent term extensions.
+ In addition to our patents, we rely on trade secrets and know-how to develop and maintain our competitive position. We seek to protect our proprietary technology and processes, and obtain and maintain ownership of certain technologies, in part, through intellectual property assignment agreements with our employees, consultants and commercial partners. 
+ Our intellectual property portfolio for our core technology was initially built through licenses from the U.S. Department of Health and Human Services as described below, the Agency for Healthcare Research and Quality and the NIH. We subsequently expanded our intellectual property portfolio by filing patent applications worldwide.
+ In-Licensed IP
+ In December 2017, the Company entered into an exclusive license agreement with the Department of Health and Human Services (“DHHS”). Under the agreement, the DHHS granted the Company an exclusive, sublicensable, worldwide license to certain patent rights under which the Company may develop and commercialize pharmaceutical and biological compositions comprising Gram-negative bacteria for the topical treatment of dermatological diseases and conditions (the “DHHS License”). Under the DHHS License, the Company is obligated to meet certain development benchmarks within certain time periods. If the Company is unable to meet any of these development benchmarks, the DHHS could terminate the license. In addition, the DHHS may terminate or modify the DHHS License in the event of a material breach or upon certain insolvency events that remain uncured following a 90 day written notice of such material breach or insolvency event. The DHHS also has the right to require the Company to grant mandatory sublicenses to patent rights licensed from the DHHS to product candidates covered by other DHHS licenses under certain specified circumstances, including if it is necessary to meet health and safety needs that the Company is not reasonably satisfying, or if necessary, to meet requirements for public use specified by federal regulations which the Company is not reasonably satisfying. 
+ Under the DHHS License, as amended in May 2020, the Company was obligated to pay the DHHS a minimum annual payment of $20,000 for 2020, which increased to $100,000 annually beginning January 1, 2021.  The Company is required to reimburse the DHHS for certain patent-related expenses. In addition, the Company may also be obligated to make milestone payments to the DHHS based on achieving specified development and regulatory milestones for the first licensed product. Such development milestone payments are the completion of patient enrollment in a phase 3 clinical trial and the completion of a phase 3 clinical trial demonstrating a statistically significant efficacy benefit. The regulatory milestones are the receipt of the first FDA approval and the first non-USA regulatory agency approval. In addition, to the extent licensed products are approved for commercial sale, the Company is also obligated to pay the DHHS royalties based on net sales of licensed products sold by the Company and if applicable, its sublicensees. No milestones have been met as of December 31, 2020.
+ Government Regulation
+ Government authorities in the United States at the federal, state and local level and in other countries regulate, among other things, the research, development, testing, manufacture, quality control, approval, labeling, packaging, storage, record-keeping, promotion, advertising, distribution, post-approval monitoring and reporting, marketing, export and import of drug and biological products. Generally, before a new drug or biologic can be marketed, considerable data demonstrating its quality, safety and efficacy must be obtained, organized into a format specific for each regulatory authority, submitted for review and approved by the regulatory authority.
+ 8
+
+
+United States Biological Product Development
+ In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act (“FDCA”), and its implementing regulations and biologics under the FDCA, the Public Health Service Act (“PHSA”), and their implementing regulations. Both drugs and biologics are also subject to other federal, state and local statutes and regulations. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state and local statutes and regulations requires the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or post-market may subject an applicant to administrative or judicial sanctions. These sanctions could include, among other actions, the FDA’s refusal to approve pending applications, withdrawal of an approval or license revocation, a clinical hold, untitled or warning letters, product recalls or market withdrawals, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement and civil or criminal penalties.
+ Forte’s product candidates must be approved by the FDA through a Biologic License Application (“BLA”) process before they may be legally marketed in the United States. The process generally involves the following:
+ 
+ 
+• | Completion of extensive preclinical studies in accordance with applicable regulations, including studies conducted in accordance with good laboratory practice (“GLP”), requirements;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submission to the FDA of an Initial New Drug (“IND”) application, which must become effective before human clinical trials may begin;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Approval by an Institutional Review Board (“IRB”), or independent ethics committee at each clinical trial site before each trial may be initiated;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Performance of adequate and well-controlled human clinical trials in accordance with applicable IND regulations, good clinical practice (“GCP”) requirements and other clinical trial-related regulations to establish the safety and efficacy of the investigational product for each proposed indication;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Submission to the FDA of a BLA;
+--+--------------------------------
+
+
+• | A determination by the FDA within 60 days of its receipt of a BLA to accept the filing for review;
+--+---------------------------------------------------------------------------------------------------
+
+
+• | Satisfactory completion of an FDA pre-approval inspection of the manufacturing facility or facilities where the biologic will be produced to assess compliance with cGMP requirements to assure that the facilities, methods and controls are adequate to preserve the biologic’s identity, strength, quality and purity;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Potential FDA audit of the clinical trial sites that generated the data in support of the BLA; and
+--+---------------------------------------------------------------------------------------------------
+
+
+• | FDA review and approval of the BLA, including consideration of the views of any FDA advisory committee, prior to any commercial marketing or sale of the biologic in the United States.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Preclinical Studies and IND
+ Preclinical studies include laboratory evaluation of product chemistry and formulation, as well as in vitro and animal studies to assess the potential for adverse events and in some cases, to establish a rationale for therapeutic use. The conduct of preclinical studies is subject to federal regulations and requirements, including GLP regulations for safety/toxicology studies.
+ A sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical studies, among other things, to the FDA as part of an IND. An IND is a request for authorization from the FDA to administer an investigational product to humans and must become effective before human clinical trials may begin. Some long-term preclinical testing may continue after the IND is submitted. An IND automatically becomes effective 30 days after receipt by the FDA unless, before that time, the FDA raises concerns or questions related to one or more proposed clinical trials and places the trial on clinical hold. In that case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. As a result, submission of an IND may not result in the FDA allowing clinical trials to commence.
+ 
+Clinical Trials
+ 
+The clinical stage of development involves the administration of the investigational product to healthy volunteers or patients under the supervision of qualified investigators, generally physicians not employed by or under the trial sponsor’s control, in accordance with GCP requirements, which include the requirement that all research subjects provide their informed consent for their participation in any clinical trial. Clinical trials are conducted under protocols detailing, among other things, the objectives of the clinical trial, dosing procedures, subject selection and exclusion criteria and the parameters to be used to monitor subject safety and assess efficacy. Each protocol, and any subsequent amendments to the protocol, must be submitted to the FDA as part of the IND. Furthermore, each clinical trial must be reviewed and approved by an IRB for each institution at which the clinical trial will be conducted to ensure that the risks to individuals participating in the clinical trials are minimized and are reasonable in relation to anticipated benefits. The IRB also approves the informed consent form that must be provided to each clinical trial subject or his or her 
+ 9
+
+
+legal representative and must monitor the clinical trial until completed. There also are requirements governing the reporting of ongoing clinical trials and completed clinical trial results to public registries.
+ A sponsor who wishes to conduct a clinical trial outside of the United States may, but need not, obtain FDA authorization to conduct the clinical trial under an IND. If a foreign clinical trial is not conducted under an IND, the sponsor may submit data from the clinical trial to the FDA in support of a BLA. The FDA will accept a well-designed and well-conducted foreign clinical study not conducted under an IND if the study was conducted in accordance with GCP requirements, and the FDA is able to validate the data through an onsite inspection if deemed necessary.
+ Clinical trials generally are conducted in three sequential phases, known as Phase 1, Phase 2 and Phase 3, which may overlap.
+ 
+ 
+• | Phase 1 clinical trials generally involve a small number of healthy volunteers or disease-affected patients who are initially exposed to a single dose and then multiple doses of the product candidate. The primary purpose of these clinical trials is to assess the metabolism, pharmacologic action, side effect tolerability and safety of the product candidate.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 2 clinical trials involve studies in disease-affected patients to determine the dose required to produce the desired benefits. During Phase 2 clinical trials, safety and further pharmacokinetic and pharmacodynamic information is collected, possible adverse effects and safety risks are identified, and a preliminary evaluation of efficacy is conducted.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 3 clinical trials generally involve a large number of patients at multiple sites and are designed to provide the data necessary to demonstrate the effectiveness of the product for its intended use, its safety in use and to establish the overall benefit/risk relationship of the product and provide an adequate basis for product labeling.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Post-approval trials, sometimes referred to as Phase 4 clinical trials, may be conducted after initial marketing approval. These trials are used to gain additional experience from the treatment of patients in the intended therapeutic indication. In certain instances, the FDA may mandate the performance of Phase 4 clinical trials as a condition of approval of a BLA.
+ Progress reports detailing the results of the clinical trials, among other information, must be submitted at least annually to the FDA and written IND safety reports must be submitted to the FDA and the investigators for serious and unexpected suspected adverse events, findings from other studies or animal or in vitro testing that suggest a significant risk for human subjects and any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigator brochure.
+ Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, if at all. The FDA or the sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug or biologic has been associated with unexpected serious harm to patients. Additionally, some clinical trials are overseen by an independent group of qualified experts organized by the clinical trial sponsor, known as a data safety monitoring board or committee. This group provides authorization for whether a trial may move forward at designated check points based on access to certain data from the trial. Concurrent with clinical trials, companies usually complete additional animal studies and also must develop additional information about the chemistry and physical characteristics of the drug or biologic, as well as finalize a process for manufacturing the product in commercial quantities in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the product and, among other things, companies must develop methods for testing the identity, strength, quality and purity of the final product. Additionally, appropriate packaging must be selected and tested, and stability studies must be conducted to demonstrate that the product candidates do not undergo unacceptable deterioration over their shelf life.
+ Further, as a result of the COVID-19 pandemic, we may be required to develop and implement additional clinical trial policies and procedures designed to help protect subjects from the COVID-19 virus. For example, the FDA has issued guidance on conducting clinical trials during the pandemic, which describes a number of considerations for sponsors of clinical trials impacted by the pandemic, including certain reporting requirements, and additional guidance on the good manufacturing practice considerations for responding to COVID-19 infection and other topics. We may be required to make further adjustments to our clinical trials or business operations based on current or future guidance and regulatory requirements as a result of the COVID-19 pandemic. 
+ FDA Review Process
+ Following completion of the clinical trials, data are analyzed to assess whether the investigational product is safe and effective for the proposed indicated use or uses. The results of preclinical studies and clinical trials are then submitted to the FDA as part of a BLA, along with proposed labeling, chemistry and manufacturing information to ensure product quality and other relevant data. The BLA is a request for approval to market the biologic for one or more specified indications and must contain proof of safety, purity and potency for the biologic. The application may include both negative and ambiguous results of preclinical studies and clinical trials, as 
+ 10
+
+
+well as positive findings. Data may come from company-sponsored clinical trials intended to test the safety and efficacy of a product’s use or from several alternative sources, including studies initiated by investigators. To support marketing approval, the data submitted must be sufficient in quality and quantity to establish the safety and efficacy of the investigational product to the satisfaction of the FDA. FDA approval of a BLA must be obtained before a biologic may be marketed in the United States.
+ Under the Prescription Drug User Fee Act (“PDUFA”), as amended, each BLA must be accompanied by a user fee. The FDA adjusts the PDUFA user fees on an annual basis. Fee waivers or reductions are available in certain circumstances, including a waiver of the application fee for the first application filed by a small business.
+ The FDA reviews all submitted BLAs before it accepts them for filing and may request additional information rather than accept a BLA for filing. The FDA must decide whether to accept a BLA for filing within 60 days of receipt. Once the submission is accepted for filing, the FDA begins an in-depth review of the BLA. Under the goals and policies agreed to by the FDA under PDUFA, the FDA has 10 months from the filing date to complete its initial review of an original BLA and respond to the applicant, and six months from the filing date of an original BLA designated for priority review. The FDA does not always meet its PDUFA goal dates for standard and priority BLAs, and the review process is often extended by FDA requests for additional information or clarification.
+ Before approving a BLA, the FDA will conduct a pre-approval inspection of the manufacturing facilities for the new product to determine whether they comply with cGMP requirements. The FDA will not approve the product unless it determines that the manufacturing processes and facilities comply with cGMP requirements to assure consistent production of the product within required specifications. The FDA also may audit data from clinical trials to ensure compliance with GCP requirements. Additionally, the FDA may refer applications for novel products or products that present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved and under what conditions, if any. The FDA is not bound by recommendations of an advisory committee, but it considers those recommendations when making decisions on approval. The FDA likely will reanalyze the clinical trial data, which could result in extensive discussions between the FDA and the applicant during the review process. After the FDA evaluates a BLA, it will issue an approval letter or a Complete Response Letter. An approval letter authorizes commercial marketing of the biologic with specific prescribing information for specific indications. A Complete Response Letter indicates that the review cycle of the application is complete, and the application will not be approved in its present form. A Complete Response Letter usually describes all of the specific deficiencies in the BLA identified by the FDA. The Complete Response Letter may require additional clinical data, additional pivotal Phase 3 clinical trial(s) and/or other significant and time-consuming requirements related to clinical trials, preclinical studies or manufacturing. If a Complete Response Letter is issued, the applicant may either resubmit the BLA, addressing all of the deficiencies identified in the letter, or withdraw the application. Even if an applicant submits the requested data and information, the FDA may decide that the BLA does not satisfy the criteria for approval. Data obtained from clinical trials are not always conclusive and the FDA may interpret data differently than an applicant does.
+ Pediatric Information
+ Under the Pediatric Research Equity Act, as amended (“PREA”), a BLA or supplement to a BLA must contain data to assess the safety and efficacy of the drug for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The FDA may grant deferrals for submission of pediatric data or full or partial waivers. A sponsor who is planning to submit a marketing application for a drug that includes a new active ingredient, new indication, new dosage form, new dosing regimen or new route of administration must submit an initial Pediatric Study Plan (“PSP”), within 60 days of an end-of-Phase 2 meeting or, if there is no such meeting, as early as practicable before the initiation of the Phase 3 or Phase 2/3 study. The initial PSP must include an outline of the pediatric study or studies that the sponsor plans to conduct, including study objectives and design, age groups, relevant endpoints and statistical approach, or a justification for not including such detailed information, and any request for a deferral of pediatric assessments or a full or partial waiver of the requirement to provide data from pediatric studies along with supporting information. The FDA and the sponsor must reach an agreement on the PSP. A sponsor can submit amendments to an agreed-upon initial PSP at any time if changes to the pediatric plan need to be considered based on data collected from preclinical studies, early phase clinical trials and/or other clinical development programs.
+Post-marketing Requirements
+ Following approval of a new product, the manufacturer and the approved product are subject to continuing regulation by the FDA, including, among other things, monitoring and record-keeping activities, reporting of adverse experiences, complying with promotion and advertising requirements, which include restrictions on promoting products for unapproved uses or patient populations (known as “off-label use”) and limitations on industry-sponsored scientific and educational activities. Although physicians may prescribe legally available products for off-label uses, manufacturers may not market or promote off-label uses. Prescription biologic promotional materials must be submitted to the FDA in conjunction with their first use. Further, if there are any modifications to the 
+ 11
+
+
+biologic, including changes in indications, labeling or manufacturing processes or facilities, the applicant may be required to submit and obtain FDA approval of a new BLA or BLA supplement, which may require the development of additional data or preclinical studies and clinical trials.
+ The FDA may also place other conditions on approvals including the requirement for a Risk Evaluation and Mitigation Strategy (“REMS”), to assure the safe use of the product. If the FDA concludes a REMS is needed, the sponsor of the BLA must submit a proposed REMS and the FDA will not approve the BLA without an approved REMS. A REMS could include medication guides, physician communication plans or elements to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. Any of these limitations on approval or marketing could restrict the commercial promotion, distribution, prescription or dispensing of products. Product approvals may be withdrawn for non-compliance with regulatory standards or if problems occur following initial marketing. Newly discovered or developed safety or effectiveness data may require changes to a product’s approved labeling, including the addition of new warnings and contraindications, and may also require the implementation of other risk management measures, including a REMS, or the conduct of post-marketing studies to assess a newly discovered safety issue.
+ FDA regulations require that products be manufactured in specific approved facilities and in accordance with cGMP regulations. Forte relies, and expects to continue to rely, on third parties to produce clinical and commercial quantities of Forte’s products in accordance with cGMP regulations. These manufacturers must comply with cGMP regulations that require, among other things, quality control and quality assurance, the maintenance of records and documentation and the obligation to investigate and correct any deviations from cGMP. Manufacturers and other entities involved in the manufacture and distribution of approved biologics are required to register their establishments with the FDA and certain state agencies and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with cGMP requirements and other laws.
+ Accordingly, manufacturers must continue to expend time, money and effort in the area of production and quality control to maintain cGMP compliance. The discovery of violative conditions, including failure to conform to cGMP regulations, could result in enforcement actions, and the discovery of problems with a product after approval may result in restrictions on a product, manufacturer or holder of an approved BLA, including recall.
+ Other Regulatory Matters
+ Manufacturing, sales, promotion and other activities following product approval are also subject to regulation by numerous regulatory authorities in the United States in addition to the FDA, including the CMS, other divisions of the Department of Health and Human Services, the Department of Justice, the Drug Enforcement Administration, the Consumer Product Safety Commission, the Federal Trade Commission, the Occupational Safety & Health Administration, the Environmental Protection Agency and state and local governments and governmental agencies.
+Other Healthcare Laws
+ Biopharmaceutical manufacturers are subject to additional healthcare laws, regulation, and enforcement by the federal government and by authorities in the states and foreign jurisdictions in which they conduct their business. Such laws include, without limitation, U.S. federal anti-kickback, anti-self-referral, false claims, transparency, including the federal Physician Payments Sunshine Act, consumer fraud, pricing reporting, data privacy, data protection, and security laws and regulations as well as similar foreign laws in the jurisdictions outside the U.S. Similar state and local laws and regulations may also restrict business practices in the biopharmaceutical industry, such as state anti-kickback and false claims laws, which may apply to business practices, including but not limited to, research, distribution, sales, and marketing arrangements and claims involving healthcare items or services reimbursed by non-governmental third-party payors, including private insurers, or by patients themselves; state laws that require pharmaceutical companies to comply with the pharmaceutical industry’s voluntary compliance guidelines and the relevant compliance guidance promulgated by the federal government, or otherwise restrict payments that may be made to healthcare providers and other potential referral sources; state laws and regulations that require drug manufacturers to file reports relating to pricing and marketing information; state and local laws which require the tracking of gifts and other remuneration and any transfer of value provided to physicians, other healthcare providers and entities; and state and local laws that require the registration of biopharmaceutical sales representatives; and state and local laws governing the privacy and security of health information in some circumstances, many of which differ from each other in significant ways and often are not preempted by HIPAA, thus complicating compliance efforts.
+ The risk of our being found in violation of these or other laws and regulations is increased by the fact that many have not been fully interpreted by the regulatory authorities or the courts and their provisions are open to various interpretations. These laws and regulations are subject to change, which can increase the resources needed for compliance and delay product approval or commercialization. Any action brought against us for violations of these laws or regulations, even successfully defended, could cause us to incur significant legal expenses and divert our management’s attention from the operation of our business. Also, we may be subject to private “qui tam” actions brought by individual whistleblowers on behalf of the federal or state governments. Actual or alleged violation of any such laws or regulations may lead to investigations and other claims and proceedings by regulatory authorities and in certain cases, private actors, and violation of any of such laws or any other governmental regulations that apply may result in penalties, including, without limitation, significant administrative, civil and criminal penalties, damages, fines, additional reporting obligations, and oversight if we become subject to a corporate integrity agreement or other agreement to resolve allegations of non-compliance with these laws, the curtailment or restructuring of operations, exclusion from participation in government healthcare programs and imprisonment.
+ 12
+
+
+Current and Future Healthcare Reform Legislation
+ In the United States and foreign jurisdictions, there have been a number of legislative and regulatory changes and proposed changes regarding the healthcare system that could prevent or delay marketing approval of Forte product candidates, restrict or regulate post-approval activities, and affect Forte’s ability to profitably sell any product candidates for which it obtains marketing approval. Forte expects that current laws, as well as other healthcare reform measures that may be adopted in the future, may result in more rigorous coverage criteria and additional downward pressure on the price that Forte, or any of its collaborators, may receive for any approved products.
+ The ACA, for example, contains provisions that subject biological products to potential competition by lower-cost biosimilars and may reduce the profitability of drug products through increased rebates for drugs reimbursed by Medicaid programs, address a new methodology by which rebates owed by manufacturers under the Medicaid Drug Rebate Program are calculated for drugs that are inhaled, infused, instilled, implanted or injected, increase the minimum Medicaid rebates owed by manufacturers under the Medicaid Drug Rebate Program and extends the rebate program to individuals enrolled in Medicaid managed care organizations, establish annual fees and taxes on manufacturers of certain branded prescription drugs, and create a new Medicare Part D coverage gap discount program, in which manufacturers must agree to offer 70% (increased pursuant to the Bipartisan Budget Act of 2018, effective as of 2019) point-of-sale discounts off negotiated prices of applicable brand drugs to eligible beneficiaries during their coverage gap period, as a condition for the manufacturer’s outpatient drugs to be covered under Medicare Part D.
+ Since its enactment, there have been executive, judicial and Congressional challenges to certain aspects of the ACA, and Forte expects there will be additional challenges and amendments to the ACA in the future. For example, in November 2020, the United States Supreme Court held oral arguments on the ACA case from the U.S. Court of Appeals for the 5th Circuit, which upheld the District Court ruling that the individual mandate is unconstitutional, and the Supreme Court is expected to issue a decision by mid-2021. It is uncertain how the Supreme Court will rule on this case. In January 2021, President Biden issued an executive order to initiate a special enrollment period to allow people to obtain health insurance coverage through the ACA marketplace, and instructs certain governmental agencies to review and reconsider their existing policies and rules that limit access to healthcare, among others. We cannot predict how the Supreme Court ruling, other litigation, or the healthcare reform measures of the Biden administration will impact our business. Complying with any new legislation or reversing changes implemented under the ACA could be time-intensive and expensive, resulting in a material adverse effect on our business. We are continuing to monitor any changes to the ACA that, in turn, may potentially impact our business in the future. In addition, other legislative changes have been proposed and adopted in the United States since the ACA was enacted. These changes included aggregate reductions to Medicare payments to providers of up to 2% per fiscal year, effective April 1, 2013, which will remain in effect through 2030, with the exception of a temporary suspension implemented under various COVID-19 relief legislation from May 1, 2020 through March 31, 2021, unless additional congressional action is taken. The American Taxpayer Relief Act of 2012, among other things, reduced Medicare payments to several providers, and increased the statute of limitations period for the government to recover overpayments to providers from three to five years. The Middle Class Tax Relief and Job Creation Act of 2012 required that CMS reduce the Medicare clinical laboratory fee schedule by 2% in 2013, which served as a base for 2014 and subsequent years. In addition, effective January 1, 2014, CMS also began bundling the Medicare payments for certain laboratory tests ordered while a patient received services in a hospital outpatient setting. Further, there has been heightened governmental scrutiny over the manner in which manufacturers set prices for their marketed products, which have resulted in several recent Congressional inquiries and proposed and enacted bills designed to, among other things, bring more transparency to product pricing, review the relationship between pricing and manufacturer patient programs, and reform government program reimbursement methodologies for products. At the federal level, the Trump administration used several means to propose or implement drug pricing reform, including through federal budget proposals, executive orders and policy initiatives. For example, in 2020, the U.S. Department of Health and Human Services (“HHS”) and the CMS issued various rules that are expected to impact, among others, price reductions from pharmaceutical manufacturers to plan sponsors under Part D, fee arrangements between pharmacy benefit managers and manufacturers, manufacturer price reporting requirements under the Medicaid Drug Rebate Program, including regulations that affect manufacturer-sponsored patient assistance programs subject to pharmacy benefit manager accumulator programs and Best Price reporting related to certain value-based purchasing arrangements. Multiple lawsuits have been brought against the HHS challenging various aspects of the rules. In January 2021, the Biden administration issued a “regulatory freeze” memorandum that directs department and agency heads to review new or pending rules of the prior administration. It is unclear whether these new regulations will be withdrawn or when they will become fully effective under the current administration. The impact of these lawsuits as well as legislative, executive, and administrative actions of the current administration on us and the pharmaceutical industry as a whole is unclear. 
+ Individual states in the United States have also increasingly passed legislation and implemented regulations designed to control pharmaceutical product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing. Individual states in the United States have also been increasingly passing legislation and implementing regulations designed to control pharmaceutical and biological product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing. 
+ 13
+
+
+Packaging and Distribution in the United States
+ If Forte’s products are made available to authorized users of the Federal Supply Schedule of the General Services Administration, additional laws and requirements apply. Products must meet applicable child-resistant packaging requirements under the U.S. Poison Prevention Packaging Act. Manufacturing, sales, promotion and other activities also are potentially subject to federal and state consumer protection and unfair competition laws.
+ The distribution of pharmaceutical products is subject to additional requirements and regulations, including extensive record-keeping, licensing, storage and security requirements intended to prevent the unauthorized sale of pharmaceutical products.
+ The failure to comply with any of these laws or regulatory requirements subjects firms to possible legal or regulatory action. Depending on the circumstances, failure to meet applicable regulatory requirements can result in criminal prosecution, fines or other penalties, injunctions, exclusion from federal healthcare programs, requests for recall, seizure of products, total or partial suspension of production, denial or withdrawal of product approvals, or refusal to allow a firm to enter into supply contracts, including government contracts. Any action against Forte for violation of these laws, even if Forte successfully defend against it, could cause Forte to incur significant legal expenses and divert Forte’s management’s attention from the operation of its business. Prohibitions or restrictions on sales or withdrawal of future products marketed by Forte could materially affect its business in an adverse way.
+ 
+Changes in regulations, statutes or the interpretation of existing regulations could impact Forte’s business in the future by requiring, for example: (i) changes to Forte’s manufacturing arrangements; (ii) additions or modifications to product labeling; (iii) the recall or discontinuation of Forte’s approved products; or (iv) additional record-keeping requirements. If any such changes were to be imposed, they could adversely affect the operation of Forte’s business.
+ Other U.S. Environmental, Health and Safety Laws and Regulations
+ Forte may be subject to numerous environmental, health and safety laws and regulations, including those governing laboratory procedures and the handling, use, storage, treatment and disposal of hazardous materials and wastes. From time to time and in the future, Forte’s operations may involve the use of hazardous and flammable materials, including chemicals and biological materials, and may also produce hazardous waste products. Even if Forte contracts with third parties for the disposal of these materials and waste products, Forte cannot completely eliminate the risk of contamination or injury resulting from these materials. In the event of contamination or injury resulting from the use or disposal of Forte’s hazardous materials, Forte could be held liable for any resulting damages, and any liability could exceed Forte’s resources. Forte also could incur significant costs associated with civil or criminal fines and penalties for failure to comply with such laws and regulations.
+ Forte maintains workers’ compensation insurance to cover costs and expenses it may incur due to injuries to its employees, but this insurance may not provide adequate coverage against potential liabilities. However, Forte does not maintain insurance for environmental liability or toxic tort claims that may be asserted against it.
+ In addition, Forte may incur substantial costs in order to comply with current or future environmental, health and safety laws and regulations. Current or future environmental laws and regulations may impair Forte’s research, development or production efforts. In addition, failure to comply with these laws and regulations may result in substantial fines, penalties or other sanctions.
+ U.S. Patent-Term Restoration and Marketing Exclusivity
+ Depending upon the timing, duration and specifics of FDA approval of any of Forte’s product candidates, some of Forte’s U.S. patents may be eligible for limited patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984, commonly referred to as the Hatch-Waxman Amendments. The Hatch-Waxman Amendments permit restoration of the patent term of up to five years as compensation for patent term lost during product development and FDA regulatory review process. Patent-term restoration, however, cannot extend the remaining term of a patent beyond a total of 14 years from the product’s approval date. The patent-term restoration period is generally one-half the time between the effective date of an IND and the submission date of a BLA plus the time between the submission date of a BLA and the approval of that application, except that the review period is reduced by any time during which the applicant failed to exercise due diligence. Only one patent applicable to an approved drug is eligible for the extension and the application for the extension must be submitted prior to the expiration of the patent. The U.S. PTO, in consultation with the FDA, reviews and approves the application for any patent term extension or restoration. In the future, Forte may apply for restoration of patent term for Forte’s currently owned or licensed patents to add patent life beyond its current expiration date, depending on the expected length of the clinical trials and other factors involved in the filing of the relevant BLA.
+ An abbreviated approval pathway for biological products shown to be similar to, or interchangeable with, an FDA-licensed reference biological product was created by the Biologics Price Competition and Innovation Act of 2009 (“BPCI Act”). This 
+ 14
+
+
+amendment to the PHSA, in part, attempts to minimize duplicative testing. Biosimilarity, which requires that the biological product be highly similar to the reference product notwithstanding minor differences in clinically inactive components and that there be no clinically meaningful differences between the product and the reference product in terms of safety, purity and potency, can be shown through analytical studies, animal studies and a clinical trial or trials. Interchangeability requires that a biological product be biosimilar to the reference product and that the product can be expected to produce the same clinical results as the reference product in any given patient and, for products administered multiple times to an individual, that the product and the reference product may be alternated or switched after one has been previously administered without increasing safety risks or risks of diminished efficacy relative to exclusive use of the reference biological product without such alternation or switch.
+ A reference biological product is granted 12 years of data exclusivity from the time of first licensure of the product, and the FDA will not accept an application for a biosimilar or interchangeable product based on the reference biological product until four years after the date of first licensure of the reference product. “First licensure” typically means the initial date the particular product at issue was licensed in the United States. Date of first licensure does not include the date of licensure of (and a new period of exclusivity is not available for) a biological product if the licensure is for a supplement for the biological product or for a subsequent application by the same sponsor or manufacturer of the biological product (or licensor, predecessor in interest, or other related entity) for a change (not including a modification to the structure of the biological product) that results in a new indication, route of administration, dosing schedule, dosage form, delivery system, delivery device or strength, or for a modification to the structure of the biological product that does not result in a change in safety, purity, or potency.
+ Pediatric exclusivity is another type of regulatory market exclusivity in the United States. Pediatric exclusivity, if granted, adds six months to existing regulatory exclusivity periods. This six-month exclusivity may be granted based on the voluntary completion of a pediatric trial in accordance with an FDA-issued “Written Request” for such a trial.
+ Rest of the World Regulation
+ For other countries outside of the United States, such as the European Union and countries in Eastern Europe, Latin America or Asia, the requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary from country to country. Additionally, the clinical trials must be conducted in accordance with GCP requirements and the applicable regulatory requirements and the ethical principles that have their origin in the Declaration of Helsinki.
+ If Forte fails to comply with applicable foreign regulatory requirements, Forte may be subject to, among other things, fines, suspension or withdrawal of regulatory approvals, product recalls, seizure of products, operating restrictions and criminal prosecution.
+ Additional Laws and Regulations Governing International Operations
+ If Forte further expands its operations outside of the United States, Forte must dedicate additional resources to comply with numerous laws and regulations in each jurisdiction in which it plans to operate. The FCPA prohibits any U.S. individual or business from offering, paying, promising to pay, or authorizing payment of money or anything of value, to any person, while knowing that all or a portion of such money or thing of value will be offered, given or promised, directly or indirectly, to any foreign official, political party or candidate to influence the foreign official in his or her official capacity, induce the foreign official to do or omit to do an act in violation of his or her lawful duty, or to secure any improper advantage in order to assist the individual or business in obtaining or retaining business. The FCPA also obligates companies whose securities are listed in the United States to comply with certain accounting provisions requiring the company to maintain books and records that accurately and fairly reflect all transactions of the corporation, including international subsidiaries, and to devise and maintain an adequate system of internal accounting controls.
+ Compliance with the FCPA is expensive and difficult, particularly in countries in which corruption is a recognized problem. In addition, the FCPA presents particular challenges in the pharmaceutical industry, because, in many countries, hospitals are owned and operated by the government, and doctors and other hospital employees are considered foreign officials for the purposes of the statute. Certain payments made in connection with clinical trials and other work have been deemed to be improper payments to government officials and have led to FCPA enforcement actions.
+ Various laws, regulations and executive orders also restrict the use and dissemination outside of the United States, or the sharing with certain non-U.S. nationals, of information classified for national security purposes, as well as certain products and technical data relating to those products. If Forte expands its presence outside of the United States, Forte will need to dedicate additional resources to complying with these laws, and these laws may preclude Forte from developing, manufacturing, or selling certain products and product candidates outside of the United States, which could limit Forte’s growth potential and increase its development costs.
+ 15
+
+
+The failure to comply with laws governing international business practices may result in substantial civil and criminal penalties and suspension or debarment from government contracting. The SEC also may suspend or bar issuers from trading securities on U.S. exchanges for violations of the FCPA’s accounting provisions.
+ Coverage and Reimbursement
+ Sales of Forte’s approved products will depend, in part, on the extent to which Forte’s approved products, will be covered by third-party payors, such as government health programs, commercial insurers and managed healthcare organizations, as well as the level of reimbursement such that those third-party payors provide for Forte’s products. Patients and providers are unlikely to use Forte’s products unless coverage is provided and reimbursement is adequate to cover a significant portion of the cost of Forte’s products. In the United States, no uniform policy of coverage and reimbursement for drugs or biological products exists, and one payor’s determination to provide coverage and adequate reimbursement for a product does not assure that other payors will make a similar determination. Accordingly, decisions regarding the extent of coverage and amount of reimbursement to be provided for any of Forte’s product candidates, if approved, will be made on a payor-by-payor basis. As a result, the coverage determination process may be a time-consuming and costly process that will require Forte to provide scientific clinical, and cost-effective data to support the use of Forte’s approved products to each payor separately, with no assurance that coverage and adequate reimbursement will be obtained.
+ Third-party payors are increasingly challenging the prices charged, examining the medical necessity and reviewing the cost effectiveness of pharmaceutical products, in addition to questioning their safety and efficacy.
+As noted above, the marketability of any products for which Forte receives regulatory approval for commercial sale may suffer if the government and other third-party payors fail to provide adequate coverage and reimbursement. An increasing emphasis on cost containment measures in the United States has increased and Forte expects will continue to increase the pressure on pharmaceutical pricing. Coverage policies and third-party reimbursement rates may change at any time. Even if favorable coverage and reimbursement status is attained for one or more products for which Forte receives regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future. Decreases in third-party reimbursement for any product or a decision by a third-party payor not to cover a product could reduce physician usage and patient demand for our product if approved.
+ These laws, and future state and federal healthcare reform measures may be adopted in the future, any of which may result in additional reductions in Medicare and other healthcare funding and otherwise affect the prices Forte may obtain for any of its product candidates for which Forte may obtain regulatory approval or the demand for any such approved products.
+ In addition, in most foreign countries, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing and reimbursement vary widely from country to country. For example, the EU provides options for its Member States to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. Reference pricing used by various EU Member States and parallel distribution, or arbitrage between low-priced and high-priced member states, can further reduce prices. A member state may approve a specific price for the medicinal product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal product on the market. In some countries, Forte may be required to conduct a clinical study or other studies that compare the cost-effectiveness of any of Forte’s product candidates to other available therapies in order to obtain or maintain reimbursement or pricing approval. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will allow favorable reimbursement and pricing arrangements for any of Forte’s approved products. Historically, products launched in the EU do not follow price structures of the United States and, generally, prices tend to be significantly lower. Publication of discounts by third-party payors or authorities may lead to further pressure on the prices or reimbursement levels within the country of publication and other countries.
+ 
+Employees and Human Capital
+ As of February 28, 2021, we had 9 full-time employees, primarily engaged in research and development, manufacturing and administration. None of Forte’s employees are represented by labor unions or covered by collective bargaining agreements. Forte considers its relationship with its employees to be good.
+ Our human capital resources objectives include, as applicable, identifying, recruiting, retaining, incentivizing and integrating our existing and new employees, advisors and consultants. The principal purposes of our equity and cash incentive plans are to attract, retain and reward personnel through the granting of stock-based and cash-based compensation awards, in order to increase stockholder value and the success of our company by motivating such individuals to perform to the best of their abilities and achieve our objectives.
+ 16
+
+
+Facilities
+ Forte’s corporate headquarters are located in Torrance, California, where it currently leases office and laboratory space on a monthly basis. Forte believes that this space is adequate for Forte’s present and planned future operations.
+Corporate Information and History
+ Forte (previously named “Tocagen, Inc.”) was incorporated in Delaware in August 2007. Forte Subsidiary was incorporated under the laws of the State of Delaware in May 2017. Upon the closing of the Merger, Forte’s name was changed from “Tocagen, Inc.” to “Forte Biosciences, Inc.” and the name of Forte Subsidiary was changed from “Forte Biosciences, Inc.” to “Forte Subsidiary, Inc.”.
+ Our principal executive office is located at 1124 W Carson Street MRL Building 3-320, Torrance, California 90502, and our telephone number at that address is (310) 618-6994. Our corporate website is located at www.fortebiorx.com. We make available on our website, free of charge, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments to those reports, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (“SEC”). Our SEC reports can be accessed through the investor relations page of our website located at https://www.fortebiorx.com/investor-relations/sec-filings/default.aspx. The SEC also maintains a website that contains our SEC filings. The address of that site is www.sec.gov. 
+ We may webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations page of our website. In addition, we use our website as a means of disclosing information about our company, our products, our planned financial and other announcements, our attendance at upcoming investor conferences, and other matters. It is possible that the information we post on our website could be deemed material information. We may use our website to comply with our disclosure obligations under Regulation FD. Therefore, investors should monitor our website in addition to following our press releases, SEC filings, public conference calls, and webcasts. Corporate governance information, including our board committee charters and code of ethics, is also available on our investor relations page of our website. The contents of our website are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our website are intended to be inactive textual references only.
+ Implications of Being an Emerging Growth Company
+ We qualify as an “emerging growth company” as defined in the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). As an emerging growth company, we intend to take advantage of specified reduced disclosure and other requirements that are otherwise applicable generally to public companies. These provisions include:
+
+• | Allowance to provide only two years of audited consolidated financial statements in addition to any required unaudited interim consolidated financial statements with correspondingly reduced “Management’s Discussion and Analysis of Financial Condition and Results of Operations” disclosure;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reduced disclosure about our executive compensation arrangements;
+--+------------------------------------------------------------------
+
+
+• | Exemption from the requirements of holding non-binding advisory votes on executive compensation or golden parachute arrangements; and
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Exemption from the auditor attestation requirement in the assessment of our internal control over financial reporting.
+--+-----------------------------------------------------------------------------------------------------------------------
+
+ We may take advantage of these provisions for up to five years or such earlier time that we are no longer an emerging growth company. We would cease to be an emerging growth company on the date that is the earliest of: (i) the last day of the fiscal year in which we have total annual gross revenues of $1.07 billion or more; (ii) the last day of our fiscal year following the fifth anniversary of the date of the completion of our initial public offering; (iii) the date on which we have issued more than $1.07 billion in nonconvertible debt during the previous three years; or (iv) the date on which we are deemed to be a large accelerated filer under the rules of the SEC. Under the JOBS Act, emerging growth companies can also delay adopting new or revised accounting standards until such time as those standards apply to private companies. We have elected not to avail ourself of this exemption from new or revised accounting standards and, therefore, will be subject to the same new or revised accounting standards as other public companies that are not emerging growth companies.
+ 17
+
+

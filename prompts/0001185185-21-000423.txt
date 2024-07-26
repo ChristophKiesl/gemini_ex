@@ -1,0 +1,155 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1 – Business
+Organization
+ 
+The Company was incorporated April 10, 2007 under the laws of the State of Nevada with the name ASAP Expo, Inc. On March 23, 2018, the then controlling shareholder and then sole officer and sole director of PubCo, Frank Yuan, along with his wife, Vicky PMW Yuan, entered into a Purchase Agreement with PrivCo (the “Yuan SPA”) whereby, on April 12, 2018, PrivCo became the owner of the majority of PubCo’s shares of common stock and Fredi Nisan and Ben Errez (PrivCo’s control persons) became the sole officers and directors of PubCo. On January 4, 2020, PubCo and PrivCo entered into an Asset Purchase Agreement to memorialize a verbal agreement (the “Verbal Agreement”) entered into on April 12, 2018, by and among PubCo (the buyer) and PrivCo, which was formed on August 10, 2017 (the seller). On April 12, 2018, pursuant to the Verbal Agreement, PubCo acquired PrivCo’s blockchain gateway and payment system business, point of sale system business, delivery business and kiosk business, and bank and merchant accounts, as well as all intellectual property related thereto (the “GreenBox Business”). As consideration for the GreenBox Business, on April 12, 2018, PubCo assumed PrivCo’s liabilities that had been incurred in the normal course of the GreenBox Business.
+ 
+On May 3, 2018, PubCo changed its name to GreenBox POS LLC then subsequently changed its name to GreenBox POS on December 13, 2018.
+ 
+Our Business
+ 
+GreenBox POS is a technology company that develops, markets and sells innovative blockchain-based payment solutions, which we believe offer significant improvements for the payment solutions marketplace. Our core focus is to develop and monetize disruptive blockchain-based applications, integrated within an end-to-end suite of financial products, capable of supporting a multitude of industries. Our proprietary, blockchain-based ecosystem is designed to facilitate, record and store a virtually limitless volume of tokenized assets, representing cash or data, on a secured, immutable blockchain-based ledger.
+ 
+Payment processing in the blockchain world only requires recording a ledger, there is no movement of money. Secure tokens are used where users need an immediate transaction, in a safe, private, and hack-free environment, and where traditional banks may not work effectively, like cross border transactions or in under-banked verticals.
+ 
+We generate revenue from payment processing services, licensing fees and equipment sales.
+ 
+
+● | Payment processing revenue is based on a percentage of each transaction’s value and/or a fixed amount specified for each transaction or service and, in each case, is recognized as such transactions or services are performed. This is our primary source of revenues. When a merchant makes a sale, the process of receiving the payment card information, engaging the banks for transferring the proceeds to the merchant’s account via digital gateways, and recording the transaction on a blockchain ledger are the activities for which we get to collect fees.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Licensing revenue is paid in advance and is recorded as unearned income, which is amortized monthly over the period of the licensing agreement.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Equipment revenue is generated from the sale of POS products, which is recognized when goods are shipped.
+--+----------------------------------------------------------------------------------------------------------
+
+ 
+We have three main products that are utilized by our customers:
+ 
+
+a) | QuickCard Payment System is a comprehensive physical and virtual cash management system, including software that facilitates deposits, cash and e-wallet management.
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+b) | POS Solutions is our complete end-to-end Point of Sale solution, comprising both software and hardware.
+---+--------------------------------------------------------------------------------------------------------
+
+
+c) | Loopz Software Solution is a mobile delivery service operations management solution with automated dispatch functionality.
+---+---------------------------------------------------------------------------------------------------------------------------
+
+ 
+In December 2019, we received PCI (Payment Card Industry) Level 1 certification for our technology, our security, privacy, reliability and other aspects of our payment infrastructure. The PCI Security Standards Council is a global organization that maintains, evolves and promotes Payment Card Industry standards for the safety of cardholder data across the globe. PCI Compliance Level 1 allows us to process transactions at unlimited volumes.
+ 
+   6
+
+ 
+
+Our proprietary blockchain-based technology serves as the settlement engine for all transactions within our ecosystem. The blockchain ledger provides a robust and secure platform to log immense volumes of immutable transactional records in real time. Generally speaking, blockchain is a distributed ledger that uses digitally encrypted keys to verify, secure and record details of each transaction conducted within an ecosystem. Unlike general blockchain-based systems, we use proprietary, private ledger technology to verify every transaction conducted within our ecosystem. The verification of transaction data comes from trusted partners, all of whom have been extensively vetted by us.
+ 
+We facilitate all financial elements of our closed-loop ecosystem and we act as the administrator for all related accounts. Using our TrustGateway technology, we seek authorization and settlement for each transaction from Gateways to the issuing bank responsible for the credit/debit card used in the transaction. When the Gateway settles the transaction, our TrustGateway technology composes a chain of blockchain instructions to our ledger manager system.
+ 
+When consumers use credit/debit cards to pay for transactions with merchants who use our ecosystem, the transaction starts with the consumer purchasing tokens from us. The tokens are purchased or granted directly from the merchant's terminals or mobile app, or from our website and are immediately available for transactions.
+ 
+The issuance of tokens is accomplished when we load a virtual wallet with a token, which then transfers credits to the merchant’s wallet on a dollar for dollar basis, after which the merchant releases its goods or services to the consumer. These transfers take place instantaneously and seamlessly, allowing the transaction experience to seem like any other ordinary credit/debit card transaction to the consumer and merchant.
+ 
+While our blockchain ledger records transaction details instantaneously, the final cash settlement of each transaction can take days to weeks, depending upon contract terms between us and the gateways we use, between us and our Independent Sales Organizations (“ISO”), and between us and/or our ISOs and merchants who use our services. In the case where we have received transaction funds, but not yet paid a merchant or an ISO, we hold funds in either a trust account or as cash deemed restricted within our operating accounts. We record the total of such funds as Cash held for Settlements – this is a current asset. Of these funds, we record the sum balance due to Merchants and ISOs as Settlement Liabilities to Merchants and Settlement Liabilities to ISOs, respectively.
+ 
+We believe our primary revenue driver in fiscal year 2021 will be the release and utilization of our Gen3 platform. We believe Gen3 is the most advanced technology released in the space to date. The latest installment of our technology, Gen3 features the following new properties: 1. Banking white label  platform; 2. Payment Facilitation management platform; 3. Stablecoin platform support; 4. Payment platform; and 5. Ledger Secure Token Technology. We believe Gen3’s holistic end to end capabilities minimize user pain points in onboarding, transactions and offboarding.
+ 
+One of the most effective ways by which this technology becomes accretive to us in acquiring new customers is by the usage of Gen3’s new blockchain provenance modules. These modules allow us to eliminate manual onboarding of new customers. Due to this accelerated onboarding, these modules, first deployed by us in October 2020, were material in increasing our processing volume in the fourth quarter of 2020 to $131 million in gross processing volume. Of the $131 million, $84 million was processed in December alone, with net revenues for the month of December in excess of $1 million for net margins of approximately 1.5%. 
+ 
+In addition, Gen3 is the transactional foundation for the new Secure Token Technology we are now deploying and which we expect to be fully available within the next three (3) months.
+ 
+Currency has two primary roles: it can be transactional, or it can be custodial (reserve). US dollars plays both roles. There are several disadvantages encapsulated within the existing cryptocurrency architectures available today. A decentralized approach makes the crypto assets available for viewing from anywhere and at any time, but they are extremely volatile, hackable, slow to settle, and have no intrinsic value. For the most part, they have a lot of transaction friction, in both time to settlement and transactional or conversion costs. As such, we believe these are not assets suitable as transactional currency, and are questionable as custodial currency. Centralized deployments can be stable (commonly called stablecoin), and are better as custodial media; however, none is attached to a transactional ecosystem, and exchange fees are still high. The USDC, a coin that is a USD digital equivalent, is an example of that.
+ 
+   7
+
+ 
+
+We have introduced a new kind of media to the mix: Secure Token Technology which we expect to be fully available within the next three (3) months.  This token will not be not minted nor mined, but rather it is the equivalent of a contract (an asset class called Smart Contract). As such, Secure Token Technology has many advantages over all other coins and token, and deliver on the features most sought after in the crypto and legacy payment space:
+ 
+
+1. | It provides instant settlement;
+---+--------------------------------
+
+
+2. | It is highly secure, since the asset and its value are not held together (asset is decentrally visible but its value is in centralized cold storage);
+---+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | It is deletable – the token can be cancelled;
+---+----------------------------------------------
+
+
+4. | It is reversible (undo-able) allowing for chargebacks in the case of a bad transaction. This allows the token to be kept alive for another transaction by the same user;
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. | It provides instant liquidity;
+---+-------------------------------
+
+
+6. | It is attached to a regulated custodial account. The custodian will be a regulated bank. And the custodial account will be continuously audited to ensure it has a large enough cash balance to back all tokens in circulation; and
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+7. | It is attached to our transactional infrastructure. This allows for the token to be usable for instant purchases, which we believe is an advantage for the merchants. These purchases, in turn, generate processing volume for us.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We believe our Gen3 stabilized platform will be a top choice for banks, e-commerce, and consumers. As a stablecoin platform, it is also the only type of blockchain payment processing platform that the Office of the Comptroller of the Currency has authorized for use by banks in a similar fashion to ACH, Wire and Swift. Because Secure Token Technology is attached to the value of the US dollar, it is also very good as a custodial vehicle, fitting the needs of low-risk yield seekers, such as pension funds and retirement accounts. We believe our Gen3 stabilized platform, in its stabilized end-to-end deployment, is the obvious tool of choice, without any meaningful competition, for both transactional and custodial roles of currency, and will appeal to various stakeholders: consumers, merchants, banks, and the regulators.
+ 
+The Company, as of March 22, 2021, has a Payment Facilitator License. The license is necessary for us to facilitate card payments for our clients to process Visa , MasterCard, AmEx, and Discover Card purchases.
+ 
+We have one pending U.S. patent application, USSN 16/212,627, which was filed on December 6, 2018, and which claims priority to five provisional applications filed between December 6 and December 11, 2017. We halted the patent process in April 2020 as we have been utilizing and developing new technology since that date.
+ 
+Competition
+ 
+Although we believe there is currently no other company in the payment facilitator industry using, as we are, blockchain infrastructure, notable companies in the payment facilitator industry include PayPal, Stripe, and Square.
+Customers
+ 
+We currently process transactions for approximately 4,000 customers in over twenty-five (25) industries, including, but not limited to, the foreign exchange, retail, and e-commerce sectors. We do not rely on any one customer for more than 5% of our processing volume or revenue.
+Employees and Human Capital
+ 
+We currently have 18 full-time employees. None of our employees are subject to collective bargaining agreements. We consider our relationship with our employees to be good.
+ 
+Our human capital resources objectives include, as applicable, identifying, recruiting, retaining, incentivizing and integrating our existing and new employees, advisors and consultants. The principal purposes of our equity incentive plan is to attract, retain and reward personnel through the granting of stock-based compensation awards, in order to increase stockholder value and the success of our company by motivating such individuals to perform to the best of their abilities and achieve our objectives.
+ 
+   8
+
+ 
+
+Recent Developments
+ 
+Convertible Debentures
+ 
+On October 27, 2020, the Company issued convertible debentures in the principal amount of $3,850,000 to various lenders through its placement agent, Kingswood Capital Markets, division of Benchmark Investments, Inc. (“Kingswood”). The debentures are due July 27, 2021 (the “Maturity Date”) with a conversion price of $1.98 per share. The debentures included an original issue discount of $350,000, such that the gross proceeds to the Company equaled $3,500,000.  In connection with the closing of the offering, warrants to purchase an aggregate of 1,944,444 shares of common stock were issued to the lender with an exercise price of $1.98 per share.
+ 
+From January 1, 2021 through March 22, 2021, the Company has issued (or is processing the issuance of) 1,944,444 shares of common stock following the conversion of all of the Convertible Debentures issued in October 2020. The principal amount that has been converted is $3,850,000.  During the same period, the Company has issued (or is processing the issuance of) 1,944,444 shares of common stock following the exercise of warrants issued in connection with the Convertible Debentures issuance. The Company received gross proceeds of $3,850,000 as a result of the warrant exercises. There are no longer any Convertible Debentures or October 2020 warrants outstanding.
+ 
+ChargeSavvy Non-Binding MOU
+ 
+On January 25, 2021, the Company issued a press release announcing it had entered into a non-binding Memorandum of Understanding to acquire ChargeSavvy LLC, a financial technology company specializing in payment processing and POS systems, for total consideration of up to $52 million in restricted shares of the Company’s common stock with $31 million of that all-shares amount due upon closing. ChargeSavvy was, until August 2020, one of the largest ISOs that we utilized in our ecosystem. The transaction assumes a per share price of $12.00. The all-stock transaction is subject to the negotiation and signing of definitive transaction documents, the completion of an audit of ChargeSavvy’s financial statements, and customary closing conditions. Kenneth Haller, our Senior Vice President of Payment Systems and the owner of 7.11% of the Company’s shares of common stock, owns 68.8% of ChargeSavvy.
+ 
+Simultaneous Reverse Stock Split and Reduction in Authorized Shares of Common Stock
+ 
+On February 16, 2021, the Company filed a Certificate of Change pursuant to Nevada Revised Statutes (“NRS”) 78.209 with the Nevada Secretary of State to effect a reverse stock split of the shares of common stock outstanding and the proportional decrease of the Company’s authorized shares of common stock at a ratio of one-for-six (the “Stock Split”).
+ 
+The Stock Split was authorized by the Board of Directors of the Company pursuant to Section 78.207 of the NRS on February 4, 2021 and, pursuant to the Certificate of Change, became effective as of 12:00 a.m., Eastern Time, on February 17, 2021 (the “Effective Time”). No fractional shares were issued in connection with the Stock Split and all such fractional interests were rounded up to the nearest whole number of shares of common stock. The Company now has 82,500,000 shares of common stock authorized (the number of authorized shares of preferred stock remains 5,000,000). The conversion or exercise prices of our issued and outstanding convertible securities, stock options and warrants were adjusted accordingly.
+ 
+Underwritten Public Offering and Nasdaq Listing
+ 
+On February 16, 2021, the Company entered into an underwriting agreement (the “Underwriting Agreement”) with Kingswood, as representative of the underwriters listed therein (the “Underwriters”), pursuant to which the Company agreed to sell to the Underwriters in a firm commitment underwritten public offering (the “Offering”) an aggregate of 4,150,000 shares of the Company’s common stock, par value $0.001 per share (the “Common Stock”), at a public offering price of $10.50 per share. In addition, the Underwriters were granted an over-allotment option (the “Over-allotment Option”) for a period of 45 days to purchase up to an additional 622,500 shares of Common Stock. The Common Stock began trading on the Nasdaq Capital Market under the symbol GBOX on February 17, 2021. The gross proceeds from the Offering were approximately $50.11 million as the Representative exercised in full its over-allotment option, before deducting underwriting discounts and commissions and other offering expenses. Pursuant to the Underwriting Agreement, the Company also granted Kingswood a right of first refusal, for a period of 12 months from the commencement of the Offering, to act as sole investment banker, sole book-runner, and/or sole placement agent, at Kingswood’s sole discretion, for each and every future public and private equity, equity-linked or debt offering, including all equity linked financings undertaken during such period by the Company, or any of the Company’s successors or subsidiaries.
+ 
+   9
+
+ 
+
+Corporate Information
+
+Our principal executive offices are located at 8880 Rio San Diego Drive, Suite 102, San Diego, CA 92108. Our telephone number is (619) 631-8261. The address of our website www.greenboxpos.com. The inclusion of our website address in this Annual Report on Form 10-K does not include or incorporate by reference the information on our website into this Annual Report.

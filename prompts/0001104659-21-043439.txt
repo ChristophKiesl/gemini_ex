@@ -1,0 +1,350 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+Kubient, a Delaware corporation, was incorporated in May 2017 to solve some of the most significant problems facing the global digital advertising industry.
+ 
+Our experienced team of marketing and technology veterans has developed the Audience Cloud, a modular, highly scalable, transparent, cloud-based software platform for real-time trading of digital, programmatic advertising. Our platform’s open marketplace gives both advertisers (ad space buyers) and publishers (ad space sellers) the ability to use machine learning in the most critical parts of any programmatic advertising inventory auction, while simultaneously and significantly reducing those advertisers and publishers’ exposure to fraud, specifically in the pre-bid environment.
+ 
+By becoming a one stop shop for advertisers and publishers, providing them with the technology to deliver meaningful messages to their target audience, all in one place, on a single platform that is computationally efficient, transparent, and as safely fraud-free as possible, we believe that our platform (and the application of its machine learning algorithms) leads to increased publisher revenue, lower advertiser cost, reduced latency and increased economic transparency during the advertising auction process.
+ 
+Furthermore, we believe that our technology allows advertisers to reach entire audiences rather than buying single impressions from disparate sources. We call this approach Audience-Based Marketing. Combining this approach with our proprietary solutions for fraud prevention and the reduction of latency in auctions, we are confident that we are poised to alter the status quo as the next generation of the industry’s advertising inventory auction infrastructure.
+ 
+What We Do: Audience-Based Marketing on Our Full Stack Platform
+ 
+Our Audience Cloud’s platform enables advertisers and publishers to transact directly between each other on an open, end to end real-time bidding platform for programmatic digital advertising. The advertising inventory on our platform is available in any channel: desktop, mobile, digital out-of-home, and connected devices; and in any format: video, display, audio, and native. Indeed, we believe our single, fully integrated audience platform provides a comprehensive, fraud-minimized, transparent, independent advertising marketplace that facilitates intelligent decision-making, and automated transaction execution for the programmatic advertising industry. We optimize the liquidity and effectiveness of the advertising supply chain, increasing revenue for publishers and improving return on investment for advertisers.
+ 
+Our platform offers a machine learning-powered fraud prevention solution, extremely low latency times and an audience management platform which provides omni-channel access into all advertising channels, inventory and ad formats. Thanks to our management and development teams’ deep experience with artificial intelligence applications, our platform is constantly self-optimizing, using our software’s ability to analyze and learn from vast volumes of data. We are confident that the additional data we obtain from the volume of transactions on our platform helps to make our machine-learning algorithms more intelligent over time.
+ 
+Advertising is sometimes defined as the transfer of a message from one party to another for the purpose of education, motivation or suggestion. Advertisers who pay to send a message, should be confident that it arrives to the individual it was intended for and delivers its expected outcome. Our solution consistently ensures this is the case, by verifying each and every message and intended audience. As a result, we believe that we process, analyze and connect billions of audience participants and devices faster and more efficiently than the industry standard.
+ 
+
+1
+-
+
+Digital Advertising Fraud Solution: Machine Learning Combined with Artificial Intelligence
+ 
+Thanks to advances in technology, the advertising inventory that is bought and sold in these real time auctions during the bid stream is customized to each individual viewer. This viewer customization is often called programmatic advertising, a new form of advertising where advertisers are able to specifically target their preferred audiences and demographics (rather than placing ads in generic public forums such as billboards or during live events, in hopes that the coveted audience or demographic sees the ad). According to eMarketer, digital advertising is one of the fastest growing sectors in the advertising industry, which is expected to reach $526 billion by 2024; rising from $325 billion in 2019. Digital programmatic advertising’s reach includes channels such as online, mobile browsing, in-app, text messages, “out of home” video advertising (in locations such as gas stations and airports) and digital or internet television services. The explosive growth of programmatic digital advertising has created unique challenges for advertisers and publishers that want to connect and engage their audiences. One of the primary challenges facing the digital advertising industry is that, like the meteoric growth of digital advertising itself, fraud is also growing rapidly. Despite attempts by advertisers and publishers to prevent fraud and conduct quality assurance checks, both Forrester Research and Juniper Research estimates that the losses experienced by advertisers will more than double to $100 billion in 2023, with advertisers losing an estimated 25% of every dollar spent due to fraud.
+ 
+Digital advertising fraud occurs when an ad is displayed to a fake website or Bot in an effort to falsely inflate web traffic numbers, rather than being displayed to a legitimate web site to be viewed by a human being. An advertiser that pays for an ad that is displayed to a Bot has wasted the budget spent for the placement of that ad, as it is human beings that might spend money on the product or service being advertised, as opposed to a Bot. Thus, brands and advertisers that cannot prevent their ads being shown to Bots become victims to the billions of dollars lost to ad fraud annually, as calculated by Juniper Research and Forrester Consulting.
+ 
+We believe that digital advertising fraud is further exacerbated by the fact that our industry is increasingly fragmented. The most popular solutions that have emerged in the marketplace for selling digital advertising are not connected to the solutions used by industry participants for purchases of digital advertising. In other words, advertisers use DSPs to purchase digital advertising, whereas publishers use completely different platforms called SSPs to sell advertising space to those advertisers. Therefore, advertisers may not know who is selling them advertising inventory, and publishers may not know who is purchasing such inventory. With the two sides of any auction not connected, and likely not communicating with each other across different platforms, it is difficult to assign responsibility to tracking down fraud after an ad sale has already occurred. We have created a marketplace where advertisers and publishers can interact directly. This layer of direct transparency allows advertisers to more efficiently identify ad fraud, and to ensure that they are only buying advertising space that delivers the expected value of a particular campaign. Furthermore, fraud prevention is also fragmented as a result of advertisers and publishers using different platforms to conduct digital advertising auctions. Indeed, many DSPs and SSPs do not even have built-in fraud prevention solutions, instead relying on third parties to identify ad fraud after an ad is displayed. Our internally-developed fraud prevention solution is native to our platform and detects fraud before the digital advertising auction is concluded.
+ 
+
+2
+-
+
+ 
+
+As a result of the fragmented, complex and inefficient infrastructure currently in use for programmatic advertising, fraud is rampant in the digital advertising marketplace. Bad actors’ use of fake websites and Bots to sell advertising space costs advertisers billions of dollars a year. A large part of the reason that widespread fraud runs rampant in the digital advertising industry is that current machine learning and fraud prevention solutions in our industry can only identify such fraud after an ad purchase has already occurred. We believe it is much harder to stop fraud when trying to catch perpetrators after the fraud has already occurred because the fraudsters have the ability to completely change the fingerprint of the Bot, which allows it to reenter the ecosystem and commit fraud again.
+ 
+We believe it is more effective to stop fraud before it occurs than trying to catch perpetrators after the fraud has already occurred. Thus, we have developed what we believe to be the first machine learning technology that can detect fraud within the 300-millisecond window known as the “bid stream” prior to ad purchases. Our platform’s fraud detection solution, called Kubient Artificial Intelligence (“KAI”) is our patent-pending proprietary technology that uses artificial intelligence to analyze live advertising bid stream data to detect potential ad fraud, a major issue within the digital advertising ecosystem. KAI’s proprietary technology allows all advertisers to make better-informed, real-time decisions within this brief window of time by identifying potentially fraudulent activity in real-time. KAI is trained using different statistical and machine learning algorithms and is capable of detecting various types of fraud, including user fraud, device fraud, content fraud and heuristic fraud. KAI analyzes 100% of real-time programmatic data and industry-specific information to determine patterns and data points consistent with fraudulent activity, helping advertisers maximize return on ad spend and protecting publishers. KAI is fully integrated into Kubient’s Audience Cloud marketplace, or alternatively, can be deployed as a standalone application or enterprise solution on third party real time bidding platforms. See “Customers and Revenues” below for a description of the successful beta testing of KAI that occurred during the quarter ended March 31, 2020.
+ 
+Latency Solution: Machine Learning
+ 
+We believe that our platform allows us to process digital advertising auctions faster than the competition. Faster auctions ensure that ad campaigns create more impressions that are seen by consumers, as consumers are less likely to become frustrated by slowly loading websites or apps (which normally results in consumers leaving such websites or apps before the ad is displayed).
+ 
+To substantially reduce and minimize latency issues across our fully integrated open marketplace, we use a highly-specialized programming language originally designed to be used in extremely fast (but highly dependable) digital telephone communications switches, as well as quant-based speed trading of securities on Wall Street. In addition, our platform’s proprietary machine-learning algorithms, sophisticated data processing, high volume storage, detailed analytics capabilities, and a distributed infrastructure that supercharges our bidding process and helps our customers place, and win, more bids for advertising space. We believe we are transforming the digital advertising industry by analyzing billions of data points in record real time speed to enable our solution to make complex decisions in milliseconds, and to execute over 1 million queries per second, billions of transactions per week and trillions of bid requests per month.
+ 
+Additional Platform Functionalities
+ 
+Not only do we believe our platform works faster, more efficiently and more safely in terms of fraud than our competition, we also believe that it provides added functionality over our competitors, such as real time reporting of ad sales, and an open audience marketplace which enables publishers, including websites, mobile applications, video and other digital media properties, to connect their advertising inventory more efficiently and effectively to buyers across the entire advertising ecosystem, including brands, DSPs, ad networks and advertising agencies.
+ 
+In addition, our platform’s functionality allows us to quickly adapt to emerging media channels that might have been previously overlooked by the digital marketing ecosystem. For example, outdoor advertising, often referred to as out of home media, such as billboards, bus-stop shelters, public elevators, airport monitors and gas station pump placards, has not traditionally been connected to digital advertising sources. However, these traditional forms of out of home media are increasingly being converted to digital signage. Unlike their traditional out of home counterparts, these updated digital signs, often referred to as digital out of home (“DOOH”) media, can display programmatic advertising, such that all of the advantages of our Audience Cloud can be applied to this rapidly proliferating media channel. By allowing brands, DSPs, ad networks, advertising agencies and brands to bid on DOOH publishers’ inventory in real-time, just as if DOOH screens were video screens on a desktop computer or mobile device, our Audience Cloud will allow advertisers to scale campaigns across new and thriving media channels, thereby maximizing inventory fill rates and increasing the audiences that advertisers may target by digital means.
+ 
+
+3
+-
+
+Intellectual Property
+ 
+We have filed two provisional patents, one relating to our inventory and decision management system that allows DOOH media buying agencies to purchase ads on our programmatic and real-time-bidding marketplace, and one relating to our KAI real time, digital advertising fraud prevention solution. In addition, we have filed five trademark applications relating to our brand name, corporate logos and KAI solution.
+Customers and Revenue
+ 
+We provide our customers with a platform to connect advertisers and publishers. Generally, our revenue generation process begins with publishers. When a publisher aims to fill the available advertising space on its website or app, we typically enter into a twelve-month master service agreement allowing the publisher to sell advertising inventory through our platform. Once the publisher executes our master service agreement and is accepted onto our platform, the publisher is allowed to electronically communicate with our platform through its ad server, in order to provide us information about the publisher’s advertising inventory, user base, minimum sale prices and other data signals, as applicable. We also enter into master service agreements to allow third-party exchanges that aggregate publishers’ available advertising inventory to sell such inventory on our platform. As we believe fee transparency is a key element to the success of our platform, we never buy advertising inventory in order to resell it to our customers for a profit. Instead, we earn a mark-up, which is the spread between what we collect from advertisers and what we remit to publishers. We only pay for inventory when an advertiser is connected to a publisher and an impression is successfully delivered. We sometimes refer to the amount we pay publishers for inventory upon the delivery of an impression as “cost pay.” As described further below, cost pay is generally lower than what advertisers ultimately spend to have their ad impression delivered on a publisher’s website or app.
+ 
+We also typically enter into twelve-month master service agreements with advertisers that wish to purchase advertising inventory, either on our platform or through their DSP. Our proprietary algorithms use the industry information available (from advertisers, publishers, third parties and our own internal database) to automatically target and bid on publishers’ inventory to meet an advertiser’s campaign objective. We generate revenue from advertisers by charging them fees on a sliding scale based on a percentage of their spend on advertising purchased through our platform, the total of which we sometimes refer to as “gross spend.”
+ 
+Thanks to the speed of our platform, the matching of publisher and advertiser occurs in fractions of a second, within the short time frame of the bidstream. We recognize revenue upon the completion of each matching transaction, at the moment when an impression has been delivered to the consumer viewing a website or application. We generally bill and collect the full purchase price of impressions from advertisers, unless the advertiser pays through its DSP, in which case the DSP is the entity that pays our fees. In either case, our gross revenue from each impression is equal to gross spend minus cost pay.
+ 
+We consider our customers to be those that generate revenue during the period and is a mix of direct publishers, third-party exchanges that aggregate both publishers’ available advertising inventory and advertising budgets, along with direct advertisers and advertising agencies. Further, the Company’s definition of “customer” encompasses advertisers that purchased even a single impression on the Company’s platform during the period, not just advertisers that signed a twelve-month master service agreement.
+ 
+We believe that growth of the programmatic advertising market is important for our ability to continually grow our business. Adoption of programmatic advertising by advertisers allows us to acquire new customers and grow revenue from existing customers. We also believe that current industry trends will lead more advertisers to seek out a better fraud prevention solution to protect their advertising budgets, such as the one offered on our platform.
+ 
+
+4
+-
+
+ 
+
+Similarly, we believe that the adoption of programmatic advertising by unique advertising inventory owners, such as digital out of home content providers for which we have developed a unique solution, will allow us to expand the volume and type of advertising inventory that we present to advertisers using our platform.
+ 
+During the quarter ended March 31, 2020, we allowed two large enterprise clients to beta test KAI in a live isolated environment. We were able to successfully ingest hundreds of millions of rows of data in real-time and provide our clients the ability to prevent the purchase of non-human or fraudulent advertising traffic. The results from the two beta clients indicated that KAI was identifying and preventing approximately 300% more digital ad fraud then the clients’ current partners. The large volume of data ingested helped to improve our proprietary algorithms including the supervised and unsupervised version. This was invaluable as it provided us an opportunity to stress test our ability to handle large scale, concurrent input of data into our system which is then analyzed using our patent-pending proprietary machine learning technology. While KAI was monetized in the first quarter during beta testing, it was made available as a stand-alone enterprise product in the third quarter of 2020.
+ 
+Our net revenue of $177,635 for the year ended December 31, 2019 was generated from 49 customers, and our net revenue of $2,900,029 for the year ended December 31, 2020 was generated from 41 customers. The increase in net revenue from 2019 to 2020 was primarily due to approximately $1,300,000 of revenue generated in connection with beta testing of KAI, our fraud detection service, which commenced during the first quarter of 2020, as well as approximately $1,496,000 of net revenue generated from The Associated Press, which was a new customer during 2020. Our net loss was $4,132,873 for the year ended December 31, 2019 and our net loss was $7,806,943 for the year ended December 31, 2020. Based on the growth strategy set forth below, we contemplate that our revenues will continue to increase for 2021 and beyond and will also continue to become less concentrated among a small number of customers.
+ 
+Growth Strategy
+ 
+Organic Growth
+ 
+The key elements of our long-term growth strategy are as follows:
+ 
+
+· | Enhancing our existing auction technology to improve adoption among publishers and advertisers, which we expect will increase our revenue.
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Further developing our fraud prevention system, which is powered by our proprietary KAI machine learning technology, which was made available as a stand-alone enterprise product in the third quarter of 2020.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Growing our customer base by increasing our salesforce to engage brands, agencies, website owners, app owners and other connected device owners, to facilitate marketplace participation. This will allow us to reach more audiences and garner larger budgets, growing our revenue and building long lasting customer relationships.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Launching and scaling our reach with advertisers by introducing real-time auctions into a previously static corners of the marketplace, such as digital out of home channels, allowing for video advertising at gas stations, hotels and airports.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Further developing our Audience Cloud platform to improve omni-channel relevance, and personalization at scale.
+--+----------------------------------------------------------------------------------------------------------------
+
+
+· | Further diversifying both our products and revenue streams to include stand-alone applications that address advertisers’ business needs, such as KAI for real time fraud prevention, first party data hosting, and audience targeting solutions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Increasing our global footprint across the globe, especially in Latin America, Asia-Pacific, Europe, the Middle East and Africa.
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+5
+-
+
+M &A Growth
+ 
+In addition to the long-term, organic growth discussed above, we intend to opportunistically acquire companies that expand our core technologies and introduce the Company to potential new client bases that are potentially accretive to the Company’s future earnings.
+Industry Overview
+ 
+Most consumers are unaware that when they browse a webpage, watch a video on the internet, use a mobile app or watch an internet-connected TV, there is often a behind-the-scenes auction for the purchase and sale of digital advertising space as the consumer’s desired content loads. In such auctions, advertisers (i.e., ad space buyers, such as sporting goods or consumer products manufacturers) purchase advertising space from publishers (i.e., ad space sellers, such as mobile app developers or website operators). Advertisers bid on each impression and if the bid is won, the ad is displayed on the publisher’s website or app being viewed by the consumer.
+ 
+As the technology behind these auctions began to develop, traditional methods of digital advertising were used, where manual negotiations conducted by human brokers played a vital role in deciding the prices of digital advertising inventory to be bought and sold. Similarly, human brokers sought to place ad inventory in the digital equivalents of traditional public forums such as billboard-like banner ads or during digitally-broadcast sporting events, in hopes that the largest audience possible might see an ad.
+ 
+However, in recent years, the technology behind these auctions has changed dramatically. Now, “real time bidding” has become an automated process that enables the buying and selling of individual impressions for each digital ad in milliseconds. In the blink of an eye, real time digital auctions determine what ad will display, where the ad will be displayed and what price the advertiser has to pay to the publisher for displaying the ad. The real time auction process is currently in the process of completely replacing the role of a human broker, by automating the buying and selling of ad space in a 300 millisecond window called the “bid stream.”
+ 
+Another significant challenge facing participants in the digital marketing industry is the problem of latency, or loading wait times. Existing participants in the digital advertising marketplace have invested billions of dollars in large and cumbersome system infrastructures that are costly and slow by today’s standards. Their outdated infrastructure has caused hundreds of companies to provide a patchwork of solutions to address the slow and costly nature of the current digital advertising infrastructure that we believe are ineffective when compared with our solution. As a result of this patchwork of solutions, we believe the digital advertising marketplace has become complex and inefficient, with relatively long delays before an ad is displayed becoming commonplace. These delays often result in a user leaving a website or smartphone app before the advertiser’s content loads. If the user does not view the ad which the advertiser paid to place on the publisher’s website or app, then the advertiser has wasted the budget spent for the placement of that ad.
+ 
+The problem of ineffective digital advertising has created large-scale lost revenue in our industry. In their 2020 “Not Another State of Marketing Report”, Hubspot states that only 61% of marketers believe their marketing strategy is effective. Furthermore, 40% of marketers say proving their ROI of their marketing activities is their top marketing challenge, with over 10% indicating that they are unable to measure the ROI of their digital advertising campaigns. Given that ROI is generally the main driver of digital advertising decision making, the inability to calculate it correctly, or at all, will continue to perpetuate the ineffective digital advertising environment.
+ 
+Competition
+ 
+We derive our revenue from the digital advertising market, which is rapidly evolving, highly competitive, complex and fragmented. We currently compete for advertising spend with large, well-established companies as well as smaller, privately-held companies. Some of our larger competitors with more resources may be better positioned to execute on advertising campaigns conducted over multiple channels such as social media, mobile and video, yet we provide unique channels not found in the digital advertising market typically, such as the true programmatic DOOH auctions we perform. We believe that this, coupled with our other capabilities, will allow us to keep step with the larger competitors in the short term and surpass them in the long term.
+
+6
+-
+
+ 
+
+While the majority of the market is dominated by two companies, Facebook and Google, we do not consider them to be our competitors. Our growth is focused in the rest of the available market and there are many companies who compete with us for that share. The Trade Desk is one of our fastest growing competitors for brand and advertiser budgets with a solid foundation and strong cash flow and client base. Their product known as a Demand Side Platform competes with our own Demand Side Platform however, we believe our platform has key advantages, such as built-in proprietary fraud prevention, direct publisher connections, a Supply Side Platform and a centralized auction hub. These advantages, in our opinion, provide us with more leverage when approaching advertisers and requesting budget. There are other platforms and exchanges that can be considered a competitor to one or more of our products as well.
+ 
+A substantial majority of our competitors are significantly larger than we are and have more capital to invest in their businesses however they operate on technology we consider to be outdated and inferior to our newer more agile technology. Competitors could also seek to gain market share by reducing the prices they charge to advertisers, introducing products and solutions that are similar to ours or introducing new technology tools for advertisers and digital media properties, yet the failure of these competitors to offer transparency on pricing as we do is likely to reduce or negate such impact. Moreover, increased competition for video advertising inventory from digital media properties could result in an increase in the portion of advertiser revenue that we must pay to digital media property owners to acquire that advertising inventory which is beneficial to us as our technology offers a more efficient auction thus allowing us to reduce cost for advertisers and increase revenue for publishers.
+ 
+Some large advertising agencies that represent advertising customers have their own relationships with digital media properties and can directly connect advertisers with digital media properties. Our business will suffer to the extent that our advertisers and digital media properties purchase and sell advertising inventory directly from one another or through other companies that act as intermediaries between advertisers and digital media properties. Other companies that offer analytics, mediation, ad exchange or other third-party solutions have or may become intermediaries between advertisers and digital media properties and thereby compete with us. Any of these developments would make it more difficult for us to sell our solutions and could result in increased pricing pressure, reduced profit margins, increased sales and marketing expenses or the loss of market share.
+ 
+Other companies that offer analytics, mediation, ad exchange or other third-party solutions have or may become intermediaries between advertisers and digital media properties and thereby compete with us. Despite this, we believe that they do not offer a full software suite like us, as such, the long-term effect of any interruption caused by such companies will be limited.
+ 
+Our fraud prevention solution competes with the small landscape of other fraud prevention companies such as WhiteOps, Double Verify and Integral Ad Science. However, we believe that our product is the only product in this space that has patent pending technology allowing it to perform instream prevention as opposed to the landscapes standard.
+ 
+Sales and Marketing
+ 
+Given our self-serve business model, we focus on supporting, advising and training our customers to use our platform independently as soon as they are ready to transact. There is an element of education about our platform that requires us to invest in sales and marketing programs and personnel to grow our business. We focus our efforts to build this awareness through trade shows and sponsored events.
+ 
+As of March 23, 2021, our sales and marketing team consisted of 5 employees. The team employs a consultative approach to both new and existing customers. Once a new customer has access to our platform, they work closely with our customer service teams as they onboard the new customer and provide continuous support throughout the early campaigns. Typically, once a customer has gained some initial experience, it will move to a fully self-serve model and request support as needed.
+ 
+
+7
+-
+
+Seasonality
+ 
+Our cash flows from operations vary from quarter to quarter due to the seasonal nature of advertiser spending. For example, many advertisers devote a disproportionate amount of their advertising budgets to the fourth quarter of the calendar year to coincide with increased holiday purchasing. Indeed, in digital advertising, seasonal downswings typically occur at the start in January (the beginning of the calendar year) and October (the beginning of the fiscal year for many companies). Upswings occur in December (the end of the calendar year) and September (the end of the fiscal year for many companies). This is due to the timing of when budgets are negotiated and distributed. Other swings occur around holidays, and other large consumer focused events such as Black Friday and Cyber Monday.
+Platform Development
+ 
+Part of our dedication to innovation means that we are constantly improving our platform, with new features and products being routinely released. We empower our development teams by encouraging them to release updated features and increase functionality fast and often. As a company, we are always exploring new and better ways to continuously improve the performance of our technology. Our development teams are intentionally lean and nimble in nature, providing for transparency and accountability. As an example, our software developers are currently in the process of building out a self-serve DSP for advertisers to use within the Audience Cloud.  This will allow advertisers and agencies to buy media directly from our audience partners so they don't have to use a third-party DSP. This will provide the advertisers with more working media, while simultaneously offering more autonomy by in-housing their media buying process.
+ 
+Another example of our recent platform efforts is the development of our DOOH advertising solution, which is focused on marketing to consumers when they are “out of home” and “on the go” in public places, in transit, and/or in specific commercial locations such as airports, beauty salons, and gas stations. According to Statista.com, the global DOOH market was $29.7 billion in 2020, and is expected to reach USD $37.1 billion by 2022.
+ 
+While this traditional advertising vertical has been transforming into being digitized. It has significantly lagged the other digital channels by not being connected to the open real-time bidding ecosystem of buyers, making it difficult to buy and sell at scale, causing media inventory to not be monetized effectively, and significant budgets not being spent.
+ 
+We believe that we have solved one of the biggest challenges in the DOOH channel with our proprietary patent pending technology that introduces real time bidding to the DOOH industry. Enabling the DOOH industry to connect to the real-time digital advertising ecosystem will open a whole new channel to digital advertisers, allowing them the ability to place advertising on DOOH screens along with all the other channels already available for digital ads on websites and mobile devices.
+ 
+Privacy and Data Protection Regulation
+ 
+Privacy and data protection legislation and regulation play a significant role in our business. We and our customers use non-identifiable data about Internet users collected through our platform to manage and execute digital advertising campaigns in a variety of ways, including delivering advertisements to Internet users based on their particular geographic locations, the type of device they are using, or their interests as inferred from their web browsing or app usage activities. We do not use this data to identify specific individuals, and we do not seek to associate this data with information that can be used to identify specific individuals. We take steps not to collect or store personally identifiable information, or personal data. The definitions of personally identifiable information and personal data, however, vary by jurisdiction and are evolving. As a result, our platform and business practices must be assessed regularly in each jurisdiction where we do business to avoid violating applicable legislation and regulation.
+ 
+In the United States, both state and federal legislation govern activities such as the collection and use of data by companies like us. Digital advertising in the United States has primarily been subject to regulation by the Federal Trade Commission, or the FTC, which has primarily relied upon Section 5 of the Federal Trade Commission Act, which prohibits companies from engaging in “unfair” or “deceptive” trade practices, including alleged violations of representations concerning privacy protections and acts that allegedly violate individuals’ privacy interests. Because our platform reaches users throughout the world, including Europe, Australia and Asia, some of our activities may also be subject to foreign legislation. As we continue to expand internationally, we will be subject to additional legislation and regulation, and these laws may affect how we conduct business.
+ 
+
+8
+-
+
+ 
+
+Additionally, U.S. and foreign governments have enacted or are considering enacting legislation that could significantly restrict our ability to collect, augment, analyze, use and share data collected through cookies and similar technologies, such as by regulating the level of consumer notice and consent required before a company can employ cookies or other electronic tools to track people online. In the United States, the FTC has commenced the examination of privacy issues that arise when marketers track consumers across multiple devices, otherwise known as cross-device tracking. In the European Union, or EU, Directive 2009/136/EC, commonly referred to as the Cookie Directive, directs EU member states to ensure that accessing information on an Internet user’s computer, such as through a cookie, is allowed only if the Internet user has given his or her consent. In response, some member states have adopted and implemented, and may continue to adopt and implement legislation that impacts the use of cookies for online advertising. The EU also recently enacted the General Data Protection Regulation, which took effect in May 2018 and similarly restricts the collection and use of IP addresses, cookie identifiers, and device identifiers for advertising purposes.
+ 
+In prior years, some government regulators and privacy advocates advocated vigorously for a Do Not Track standard that would allow Internet users to express a preference, independent of cookie settings in their browsers, not to have their online browsing activities tracked. In 2010, the FTC issued a staff report emphasizing the need for simplified notice, choice and transparency to the consumer regarding the collection, use and sharing of data, and suggested implementing a Do Not Track browser setting that would allow consumers to choose whether or not to allow tracking of their online browsing activities. All major Internet browsers have implemented some version of a Do Not Track setting. However, there is no commonly accepted definition of “tracking,” no consensus regarding what message is conveyed by a Do Not Track setting and no industry standards regarding how to respond to a Do Not Track preference. The World Wide Web Consortium chartered a “Tracking Protection Working Group” in 2011 to convene a multi-stakeholder group of academics, thought leaders, companies, industry groups and consumer advocacy organizations, to create a voluntary Do Not Track standard for the World Wide Web. The group has yet to agree upon a standard that has the backing of industry. On the state level, California amended its main privacy law, the California Online Privacy Protection Act, or CalOPPA, to require companies to declare in their privacy policies how they respond to Do Not Track signals or similar mechanisms, and Delaware enacted a similar requirement in the Delaware Online Privacy and Protection Act, or DOPPA. Neither CalOPPA nor DOPPA, however, requires any particular response to those signals.
+ 
+Our Employees and Culture
+ 
+As of March 23, 2021, we had 13 full time employees, and 15 consultants. None of our employees are represented by a union or parties to a collective bargaining agreement. We believe our employee relations to be good.
+Corporate Information
+ 
+Our mailing address is 228 Park Avenue South, Suite 72602, New York, New York 10003-1502. Our telephone number is (800) 409-9456.
+ 
+Available Information
+ 
+Our website, www.Kubient.com, provides access, without charge, to our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports as soon as reasonably practicable after such material is electronically filed with the Securities and Exchange Commission (“SEC”). The information provided on our website is not part of this Annual Report and is therefore not incorporated by reference unless such information is otherwise specifically referenced elsewhere in this Annual Report. The SEC also maintains a website at www.sec.gov that contains reports, proxy and information statements, and other information regarding our company that we file electronically with the SEC.
+
+9
+-
+
+Implications of Being an Emerging Growth Company
+ 
+We are an “emerging growth company” as defined in the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). For as long as we are an emerging growth company, unlike public companies that are not emerging growth companies under the JOBS Act, we will not be required to:
+
+· | provide an auditor’s attestation report on management’s assessment of the effectiveness of our system of internal control over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act of 2002 (the “Sarbanes Oxley Act”);
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | provide more than two years of audited financial statements and related management’s discussion and analysis of financial condition and results of operations;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | comply with any new requirements adopted by the Public Company Accounting Oversight Board (the “PCAOB”) requiring mandatory audit firm rotation or a supplement to the auditor’s report in which the auditor would be required to provide additional information about the audit and the financial statements of the issuer; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | provide certain disclosure regarding executive compensation required of larger public companies or hold stockholder advisory votes on the executive compensation required by the Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”); or
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | obtain stockholder approval of any golden parachute payments not previously approved.
+--+--------------------------------------------------------------------------------------
+
+ 
+We will cease to be an emerging growth company upon the earliest of the:
+ 
+
+· | last day of the fiscal year in which we have $1.07 billion or more in total annual gross revenues;
+--+---------------------------------------------------------------------------------------------------
+
+
+· | date on which we become a “large accelerated filer” (the fiscal year-end on which the total market value of our common equity securities held by non-affiliates is $700 million or more as of June 30);
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | date on which we issue more than $1.0 billion of non-convertible debt over a three-year period; or
+--+---------------------------------------------------------------------------------------------------
+
+
+· | last day of the fiscal year following the fifth anniversary of our initial public offering.
+--+--------------------------------------------------------------------------------------------
+
+ 
+We have elected to take advantage of certain of the reduced disclosure obligations in this report, and may elect to take advantage of other reduced reporting requirements in future filings. As a result, the information that we provide to our stockholders may be different than you might receive from other public reporting companies in which you hold equity interests.
+ 
+In addition, Section 107 of the JOBS Act also provides that an “emerging growth company” can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act of 1933, as amended, for complying with new or revised accounting standards. In other words, an “emerging growth company” can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies.
+ 
+Recent Updates
+ 
+Public Offerings
+ 
+On August 14, 2020, the Company consummated its Initial Public Offering (“IPO”) of 2,500,000 units (the “Units”) at a price of $5.00 per Unit, which resulted in aggregate gross and net proceeds of approximately $12.5 million and $10.6 million, respectively. Each Unit consisted of one share of common stock, par value $0.00001 per share and one warrant to purchase one share of common stock (the “Warrants”). The Warrants are exercisable immediately upon issuance and at any time up to the date that is five years from the date of issuance and will have an exercise price of $5.50 per share.
+ 
+On August 14, 2020, the Company consummated the closing of a partial exercise of the over-allotment option granted to the underwriters in connection with its IPO to purchase 375,000 additional common stock purchase warrants at a price of $0.01 per warrant for aggregate proceeds of $3,750.
+ 
+
+10
+--
+
+ 
+
+On August 14, 2020, in connection with its IPO, the Company issued to the underwriters warrants to purchase 125,000 shares of common stock at $6.25 per share. The warrants are exercisable at any time for cash or on a cashless basis during the four- and one-half year period commencing 180 days from the effective date of the Company’s registration statement. The underwriters’ warrants had an issuance date fair value of $225,850 that was recorded as a debit and credit to additional paid-in capital.
+ 
+On December 28, 2020, the Company consummated a follow-on public offering (the “Follow-On Offering”) of 4,058,822 shares of common stock at a price of $5.10 per share for aggregate gross and net proceeds of approximately $20.7 million and $18.9 million, respectively, which such amounts include the full exercise by the underwriters of the over-allotment option to purchase an additional 529,411 shares of common stock at $5.10 per share. The Company issued to the representatives of the underwriters warrants to purchase 176,470 shares of common stock at an exercise price of $6.38 per share. The warrants are exercisable at any time for cash or on a cashless basis during the four- and one-half year period commencing 180 days from the effective date of the Company’s registration statement.
+ 
+Warrant Exercises
+ 
+As of March 23, 2021, the Company had received aggregate proceeds of approximately $9.7 million in connection with warrant exercises and, as a result, issued an aggregate of 2,049,469 shares of common stock to the holders.
+ 
+COVID-19
+ 
+In March 2020, the World Health Organization declared COVID-19, a novel strain of coronavirus, a pandemic, which continues to spread throughout the United States and the world. This has resulted in authorities implementing numerous measures to contain the virus, including quarantines, “shelter-in-place” and “stay-at-home” orders, travel restrictions, and temporary closures of non-essential businesses. We have taken proactive measures to protect the health and safety of our employees and customers by closing our offices, requiring employees to work from home and suspending travel, in-person meetings and visits with our customers. We expect to continue these measures until the pandemic is adequately contained as determined by authorities.
+ 
+While the Company’s financial condition and results of operations for the fiscal year 2020 has been adversely affected by the COVID-19 pandemic, the Company has begun to see an increase in its customers’ advertising budgets beyond pre-pandemic levels. As a result, the Company recorded a corresponding increase in its advertising impression Volumes during the last two quarters of 2020. Furthermore, the Company has recorded advertising impression Volumes in the beginning of the fourth quarter of 2020 that have actually exceeded pre-pandemic levels. In addition, as of September 30, 2020, all of the Company’s customers had returned to normal, pre-pandemic payment terms, such that the Company’s profit margins have returned to pre-pandemic levels as well.
+ 
+We are monitoring the impact of the pandemic on our business and implementing plans to take appropriate actions to adapt to changing circumstances arising from the pandemic, but there can be no assurances that the Company’s advertising impression Volumes and profit margins will stay above pre-pandemic levels for the remainder of fiscal 2020 and beyond.
+ 
+Furthermore, the COVID-19 pandemic could have a long-term impact on the Company’s customers well into 2021, which would reduce their demand for Company products. The extent to which COVID-19 or any other health epidemic may impact the Company’s results beyond 2020 will depend on future developments that could be outside the Company’s control, and which are highly uncertain and cannot be predicted, including new information that may emerge concerning the severity of the overall economic impact of the COVID-19 pandemic. Accordingly, COVID-19 could continue to have a material adverse effect on the Company’s business, results of operations, financial condition and prospects after 2020 and beyond. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+ 
+Bordes Resignation
+ 
+On October 31, 2020, the Company’s board of directors accepted Peter A. Bordes, Jr.’s resignation from his position as Chief Executive Officer of the Company. Mr. Bordes continues to serve as a member of the board.
+
+11
+--
+
+ 
+
+In connection with his resignation, the Company entered into a Separation and Consulting Agreement (the “Bordes Agreement”) with Mr. Bordes on October 31, 2020. Under the terms of the Bordes Agreement, which supersedes and replaces Mr. Bordes’ employment agreement with the Company, Mr. Bordes agreed to provide consulting services from October 31, 2020 until April 30, 2021 in order to assist the Company in the transition of his duties and responsibilities.
+ 
+The Bordes Agreement provides that, among other things:
+ 
+
+· | the Company shall pay Mr. Bordes a lump sum of $265,000, less applicable taxes and withholding, in separation pay;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+· | the Company shall pay Mr. Bordes a lump sum of $40,000, less applicable taxes and withholding, as a bonus for his contributions to the success of the Company’s initial public offering;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the Company will award Mr. Bordes 15,000 shares of the Company’s common stock in addition to the stock incentive awards already issued to Mr. Bordes under the Kubient, Inc. 2017 Equity Incentive Plan; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the Company will pay Mr. Bordes $15,000 per month paid in advance on the first of each month for services performed during the term of the Bordes Agreement.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Mr. Bordes’ receipt of the aforementioned payments and benefits is conditioned upon the fulfillment of his obligations under the Bordes Agreement, consideration for the waiver and release of claims set forth in the Bordes Agreement, and Mr. Bordes’ compliance with the confidentiality, non-solicitation, non-disparagement and other standard covenants set forth in the Bordes Agreement. Mr. Bordes has also agreed to indemnify the Company for losses arising out of the Bordes Agreement, including the provision of consulting services to the Company thereunder.
+ 
+Also effective October 31, 2020, the Company’s board of directors appointed Paul Roberts, the Company’s Chief Strategy Officer, President and Chairman of the Board, as Interim Chief Executive Officer of the Company.
+ 
+Andrews Separation
+ 
+On January 28, 2021, the Company entered into a Separation Agreement and General Release (the “Andrews Agreement”) concluding Christopher Andrews’ tenure as Chief Digital Officer of the Company. The Andrews Agreement, which supersedes and replaces Mr. Andrews’ employment agreement with the Company, provides that, among other things:
+
+· | Mr. Andrews’s last date of employment with the Company was January 31, 2021;
+--+-----------------------------------------------------------------------------
+
+
+· | the Company shall pay Mr. Andrews a lump sum of $90,000, less applicable taxes and withholding and other legal deductions, in severance pay;
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the Company shall pay Mr. Andrews a lump sum of $9,212, which is equivalent of the cost of six months’ COBRA continuation healthcare coverage; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | the Company may reimburse Mr. Andrews $2,500 to cover attorneys’ fees he may incur due to obtaining an attorney for review of the Andrews Agreement.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Mr. Andrews’ receipt of the aforementioned payments and benefits is conditioned upon the fulfillment of his obligations under the Andrews Agreement, consideration for the waiver and release of claims set forth in the Andrews Agreement, and Mr. Andrews’ compliance with the non-solicitation, non-disparagement, and other standard covenants set forth in the Andrews Agreement.
+ 
+
+12
+--
+

@@ -1,0 +1,973 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1 – BUSINESS
+Corporate Structure
+
+
+
+We were formed as BioSig Technologies, Inc., a Nevada corporation, in February 2009 and in April 2011 we merged with our wholly-owned subsidiary, BioSig Technologies, Inc., a Delaware corporation, with the Delaware corporation continuing as the surviving entity. BioSig is principally devoted to improving the standard of care in electrophysiology with our PURE EP™ System’s enhanced signal acquisition, digital signal processing, and analysis during catheter ablation of cardiac arrhythmias. The Company has generated minimal revenue to date and consequently its operations are subject to all risks inherent in business enterprise in early commercialization stage.
+
+
+
+On November 7, 2018, we formed a subsidiary under the laws of the State of Delaware, originally under the name of NeuroClear Technologies, Inc., for the purpose of pursuing additional applications of the PURE EP™ signal processing technology outside of the field of cardiac electrophysiology. Subsequently, in March 2020, the subsidiary was renamed to ViralClear Pharmaceuticals, Inc. (“ViralClear”). We own 70.2% of ViralClear’s outstanding shares of common stock as of March 12, 2021. ViralClear Pharmaceutical’s Business Overview can be found on pages 15.
+
+
+
+On July 2, 2020, the Company formed an additional subsidiary, NeuroClear Technologies, Inc., a Delaware corporation, to pursue additional applications of the PURE EP™ signal processing technology outside of cardiac electrophysiology. We own 100% of the subsidiary’s outstanding shares of common stock as of March 12, 2021. We plan to rename and repurpose this additional subsidiary for future endeavors; and we intend to return ViralClear to its former name, NeuroClear Technologies, Inc. (referred to herein as “NeuroClear”). NeuroClear’s Business Overview can be found on pages 15-18.
+
+
+
+Business Overview
+
+
+
+We are a medical technology company that is commercializing our PURE EP™ System which is an advanced signal acquisition and processing platform designed to provide essential diagnostic signals with high clinical value in all types of cardiac catheter ablations.
+
+
+
+ 4
+
+ 
+
+
+
+PURE EP™ is designed to address long-standing limitations that slow and disrupt cardiac catheter ablation procedures, such as environmental lab noise, signal saturation, slow signal recovery, and inaccurate display of fractionated potentials.
+
+
+
+Cardiac catheter ablation is a procedure that involves delivery of energy through the tip of a catheter that scars or destroys heart tissue to correct heart rhythm disturbances. In August 2018, we received 510(k) clearance from the U.S. Food and Drug Administration (the “FDA”) to market our PURE (Precise Uninterrupted Real-time evaluation of Electrograms) EP™ System.
+
+
+
+PURE EP™ is a signal processing platform that combines advanced hardware and software to address known challenges associated to signal acquisition, to enable electrophysiologists to see more signals and analyze them in real-time. The device aims to minimize noise and artifacts from cardiac recordings and acquire high-fidelity cardiac signals. Improving fidelity of acquired cardiac signals may potentially increase the diagnostic value of these signals, thereby possibly improving accuracy and efficiency of the EP studies and ablation procedures.
+
+
+
+Our initial focus is on improving intracardiac signal acquisition and enhancing diagnostic information for catheter ablation procedures for complex arrhythmias like ventricular tachycardia (“VT”), a potentially life-threatening arrhythmia, and atrial fibrillation (“AF”), the most common cardiac arrhythmia associated with a fivefold risk of stroke.
+
+
+
+During 2019, we began conducting our first clinical observational patient cases using the PURE EP System at Texas Cardiac Arrhythmia Institute at St. David’s Medical Center in Austin, Texas; Prisma Health at Greenville Health System in South Carolina; Indiana University; and Santa Barbara Cottage Hospital in California. The initial experience across these early evaluation centers showed that the PURE EP™ System functions as designed: we received positive feedback from the EP users about the improved signal detection and fidelity during ablation procedures on patients with various arrhythmias, such as ischemic ventricular tachycardia, AF, atypical flutter, atrioventricular nodal reentry tachycardia (AVNRT), supraventricular tachycardia, premature ventricular contractions (PVC), and a rare case of dual septal pathway.
+
+
+
+In November 2019, we commenced our first clinical study for the PURE EP™ System titled, “Novel Cardiac Signal Processing System for Electrophysiology Procedures (PURE EP 2.0 Study).” Texas Cardiac Arrhythmia Research Foundation (TCARF) in Austin, Texas, was the first institution to conduct patient cases under the clinical study; Mayo Clinic in Jacksonville, Florida was the second institution; and Massachusetts General Hospital (MGH) was the third to conduct patient cases under the same clinical study. As of March 8, 2021, 81 patients have been enrolled in the study. Initial results of evaluated data from the PURE EP 2.0 Study found that a cumulative total of 29 PURE EP signals out of 34 (85.3%) were rated as statistically equivalent or better for the dataset (identical electrocardiographic and intracardiac signal data recorded during 15 AF ablation procedures from the PURE EP System, the signal recording system, and the 3D mapping system). In 35.5% of samples, the reviewers selected PURE EP because "more signal components were visible." 
+
+
+
+We continue to install PURE EP Systems at centers of excellence for clinical evaluation under our market development plan. The PURE EP System has been utilized at several institutions, including University of Pennsylvania Hospital; Overland Park Regional Medical System in Overland Park, Kansas; Deborah Heart and Lung Center in Browns Mills, New Jersey; and Memorial Hospital of South Bend, part of Beacon Health System, in South Bend, Indiana; and Houston Methodist in Texas.
+
+
+
+To date, more than 575 patient procedures have been conducted with the PURE EP System by more than 38 electrophysiologists across eight different clinical sites in the United States.
+
+
+
+In addition to clinical evaluation, we have conducted a total of twenty-seven pre-clinical studies with the PURE EP™ System, twenty-two of which were performed at Mayo Clinic in Rochester, Minnesota. We also conducted a pre-clinical study at the Mount Sinai Hospital in New York, New York, with an emphasis on the VT model; and four pre-clinical studies at the University of Pennsylvania. We intend to continue additional research and development studies with our technology at Mayo Clinic and the University of Pennsylvania. We also intend to continue additional clinical external evaluation at a select number of other centers.
+
+
+
+We have made progress towards obtaining a European CE marking certificate for medical devices. We intend to commence audit preparation for the International Organization for Standardization (“ISO”) 13485 with the expectation to proceed with the audit to obtain the ISO 13485 Certification and CE Mark in the first half of 2021 and subsequently file for CE Mark in the second half of 2021 or early in 2022, subject to the guidance from the European notified body.
+
+
+
+In December 2020, we announced that three units were contracted for purchase by St David’s Healthcare of Austin, Texas and subsequently sold in February 2021. These units were our first commercial sale. Additionally, we are in active discussions with numerous accounts about the acquisition of the PURE EP™ System. We anticipate our initial customers will be medical centers of excellence and other healthcare facilities that operate EP labs.
+
+
+
+ 5
+
+ 
+
+
+
+Recent Developments
+
+
+
+Mayo Clinic Artificial Intelligence (AI) Research Agreement
+
+
+
+On January 2, 2021 we entered into a research agreement with Mayo Clinic regarding a Novel AI Program for our Novel Signal Recording System. The program is a strategic collaboration with Mayo to develop a next-generation AI- and machine learning-powered software for our PURE EP™ System. The new collaboration includes an R&D program that is expected to expand our proprietary hardware and software with advanced signal processing capabilities and aim to develop novel technological solutions by combining the electrophysiological signals delivered by PURE EP™ and other data sources.
+
+
+
+The development program is under the leadership of Samuel J. Asirvatham, M.D., Mayo Clinic’s Vice-Chair of Innovation and Medical Director, Electrophysiology Laboratory, and Alexander D. Wissner-Gross, Ph.D., Managing Director of Reified LLC. We entered into a 10-year collaboration agreement with Mayo Clinic in March 2017 and in November 2019, we signed a patent and know-how license agreement with Mayo Foundation for Medical Education and Research in which such terms apply to this program. We also entered into a partnership with Reified LLC, a provider of advanced artificial intelligence-focused technical advisory services to the private sector in late 2019.
+
+
+
+Aurigene Lawsuit
+
+
+
+On January 8, 2021, Aurigene Pharmaceutical Services, LTD (“Aurigene”) filed a complaint with the United States District Court for the District of Connecticut claiming the Company is in default of certain milestone payments for manufacturing and services under contracts dated June 23, 2020 and July 16, 2020 in aggregate amount of $1,530,000. The Company denies any liability and intends to defend this claim vigorously.
+Our Industry
+
+
+
+Pharmacological, or medicine-based, therapies have traditionally been used as initial treatments for cardiac arrhythmias, but they often fail to adequately control the arrhythmia and may have significant side effects. Catheter ablation is now often recommended for an arrhythmia that medicine cannot control. Catheter ablation involves advancing several flexible catheters into the patient’s blood vessels, usually either in the femoral vein, internal jugular vein or subclavian vein. The catheters are then advanced towards the heart. Electrical impulses are then used to induce the arrhythmia and local heating or freezing is used to ablate (destroy) the abnormal tissue that is causing it. Catheter ablation for most of arrhythmias has a high success rate. For patients with complex arrhythmias like AF and VT, it is often necessary to perform multiple procedures to achieve success.
+
+
+
+Catheter ablation is usually performed by an electrophysiologist (a specially trained cardiologist) in a specialized room in an EP lab. According to a 2019 report by Health Research International, it is estimated that there will be approximately 11,466 global EP lab rooms performing catheter ablations in 2024 up from 9,978 in 2019, each typically with an EP recording system costing an average of $160,000. The global market for EP technologies employed in the catheter ablation of cardiac arrhythmias was estimated at $5.9 billion in 2019. This represented a 12.4% increase over the previous year that reflected a gradual rise in EP lab installations, an increase in the number of complex ablations performed, and the rising intensity and cost of devices employed in the treatment of complex ablations. Nearly 70% of revenues remain concentrated in the U.S. and industrialized nations of western Europe, which have the necessary resources to address this growing field. Overall, the growing reliability and long-term success of complex ablations is expected to drive an 11.5% annual increase in the global performance of complex ablations through 2024 which is expected to, in turn, drive an 11.3% real annual increase in total product sales during the same period to nearly $10.1 billion. In addition, global ablation procedure numbers are predicted to grow from 1,035,300 in 2019 to 1,556,055 in 2024; within this category, complex ablations (AF and VT) to increase from 529,650 in 2019 to 913,565 in 2024.
+
+
+
+Catheter Ablation of AF and VT
+
+
+
+Accurate recording of electrograms is critical to efficient mapping and ablation of complex arrhythmias. We believe that the clearer recordings and the very small amplitude of intracardiac signals--high frequency, small amplitude components in midst of large physiologic signals; signals important to characterize critical substrate, such as fractionated atrial and ventricular electrograms; and high-frequency, low-amplitude signals such as the Purkinje potentials—provided by the PURE EP System may improve outcomes during EP studies and ablation procedures for a variety of arrhythmias.
+
+
+
+ 6
+
+ 
+
+
+
+For patients who are candidates for ablation, an EP study is necessary to define the targeted sites for the ablation procedure. Two common, yet complex, conditions for which ablation procedures are performed are AF and VT. Most cardiac arrhythmias are well understood, and ablation simply requires destroying a small area of heart tissue possessing electrical abnormality. In contrast, complex arrhythmias, such as AF and VT, have complex pathophysiology and, because knowledge of their origins and mechanisms are incomplete, ablation treatments for these arrhythmias are largely empirical. Furthermore, the length of these procedures, which typically last from 3-6 hours, exposes the physician and staff to extensive radiation, requiring them to wear heavy lead vests. Consequently, ablating AF and VT has been regarded as being extremely difficult. Therefore, access to these procedures has traditionally been limited to being performed by only especially well-trained cardiologists and high-volume centers. Particularly during ablations for persistent (chronic) AF, long procedures and extensive ablation are often required. These procedures could result in significant scarring and damage to heart tissue, although a study from a French Bordeaux group found “recovery of atrial contractile function” (the heart goes back to beating and contracting normally) in 98% of patients in sinus rhythm after six months of follow-up. However, less experienced centers that do extensive ablations do run the risk of compromising the pumping ability and transport function of the left atrium.
+
+
+
+AF is the most common heart rhythm disorder in the world and increases the risk for stroke 5-fold. In 2017, there were a reported 37.57 million prevalent cases of AF and 3.05 million incident cases of AF globally, contributing to over 287,000 deaths worldwide (Global, regional, and national prevalence, incidence, mortality, and risk factors for atrial fibrillation, 1990–2017: results from the Global Burden of Disease Study 2017). In 2020, the Centers for Disease Control and Prevention stated that it is estimated that 12.1 million people in the United States will have AF in 2030, more than 454,000 patients hospitalized annually as the primary diagnosis, and AF contributes to an estimated 158,000 deaths each year. An increasing proportion of diagnosed AF cases are now being treated via ablation, as both physician confidence and the devices used in these procedures improve. A growing amount of positive clinical data has demonstrated the efficacy of AF ablation when compared to the traditional first-line treatment of anti-arrhythmic drugs. The American College of Cardiology Foundation/American Heart Association Task Force reported that catheter-directed ablation of AF represents a substantial achievement that promises better therapy for a large number of patients presently resistant to pharmacological or electrical conversion to sinus rhythm (ACC/AHA/ESC 2006 Guidelines for the Management of Patients With Atrial Fibrillation). Additionally, the 2019 AHA/ACC/HRS Focused Update of the 2014 AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation findings show patients that were in the AF catheter ablation group had significantly reduced overall mortality rate, reduced rate of hospitalization for worsening heart failure, and improved left ventricular ejection fraction as compared with the medical therapy group, and according to device interrogation, more patients in the AF catheter ablation group were in sinus rhythm. However, rates of success and complications may vary for ablation, sometimes considerably.
+
+
+
+The AF Ablation Long Term Registry is an international registry of 3,630 patients who underwent AF ablation between 2012 and 2015 – the study reported a 41% rate of repeat ablation at 3 years post ablation. At 12-month follow-up, the outcome was judged to have been successful in 74% of patients. However, almost 50% of the patients were still taking an antiarrhythmic drug. AF recurrences were less common in patients with paroxysmal (31%) than with persistent (40%) or long-standing persistent (44%) AF.
+
+
+
+According to the Heart Rhythm Society, VT is the most dangerous arrhythmia since it may result in ventricular fibrillation, a rapid chaotic heartbeat in the lower chambers of the heart which can often result in sudden cardiac death. Because the fibrillating muscle cannot contract and pump blood to the brain and vital organs, ventricular fibrillation is the number one cause of sudden cardiac death which accounts for approximately 300,000 deaths in the U.S. each year. VT is typically treated with implantable cardioverter defibrillators, or ICDs, or a combination of ablation along with an ICD. Catheter ablation of VT has historically been used primarily for drug refractory ventricular arrhythmias in patients with ICDs. However, advances in electro-anatomical mapping systems, techniques to identify ablation sites during sinus rhythm, and the use of hemodynamic support devices has broadened the applicability of catheter ablation for ventricular arrhythmias. When performed in centers with high procedural volumes, the rates of complications remain relatively low. However, success rates have historically been quite variable and highly dependent on the specific ablation approach adopted. Additionally, catheter ablation has evolved into an important treatment option for patients with scar-related heart disease presenting with VT or VF. An individual’s success rate of catheter ablation for VT is determined by the amount of infarct-related scar burden, represented as low-voltage signals; the experience of the team and center will influence outcomes. In patients with recurrent VT or VF despite complete revascularization and optimal medical treatment, radiofrequency catheter ablation should be considered. Recurrent VF episodes may be triggered by PVCs arising from partially injured Purkinje fibers or ventricular myocardium injured by ischemia and/or reperfusion. Precise catheter mapping and successful ablation of triggers for VT or VF, or myocardial substrate sustaining VT or VF, is a complex and demanding procedure according to the 2015 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death The Task Force for the Management of Patients with Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death of the European Society of Cardiology (ESC).
+
+
+
+ 7
+
+ 
+
+
+
+We believe that ablation will continue to become a preferred treatment for AF and VT. This increase in demand for ablation procedures has also increased the demand for technological advances in medical devices essential to ablation procedures. Improvements are needed to help reduce the periprocedural complications and decrease costly lengths of stay in patients undergoing catheter ablation procedures, adding focus to improving outcomes at low volume hospitals and among patients at high risk due to comorbidities. We believe that the PURE EP System may have a meaningful impact on assisting ablation strategies especially for repeat ablations and for those with significant scarring as it was developed to reveal the high frequency and very small amplitude of intracardiac signals important for identifying ablation targets.
+
+
+
+EP Lab Environment and EP Recording Systems
+
+
+
+The EP lab environment and recording systems create significant amounts of noise and artifacts during EP procedures. Current surface and intracardiac recording systems typically consist of large workstations interconnected by a complex set of cables that contribute to significant amounts of noise during signal acquisition. Additional noise and artifacts generated from the EP lab equipment further hamper recordings of small electrophysiological potentials. Preserving spaciotemporal (space and time) characteristics of the signal in a very challenging EP recording environment is a difficult task. To remove noise and artifacts, recorders that are currently on the market offer a family of low pass, high pass and notch filters, but these filters alter signal information context.
+
+
+
+The shape and amplitude of electrocardiograms, unipolar and bipolar electrograms, and, consequently, reconstructed endocardial and epicardial maps, are influenced not only by electrophysiological and structural characteristics of the myocardial tissue involved, but with characteristics of the recording system. Amplitude and morphology of electrocardiogram and intracardiac signals are significantly affected by filters used to remove noise.  Because of the number of amplitude and interval measurements made during an EP study, it is imperative that the recording system faithfully acquires surface electrocardiogram and intracardiac electrograms.  We believe that the recording systems that are currently available on the market are ineffective in preserving the optimal amount of original information contained in the cardiac signals.
+
+
+
+In addition, the EP lab consists of sophisticated equipment that requires an electrophysiologist to mentally integrate information from a number of sources during procedures. There are numerous monitors in an EP lab that provide and display this variety of information. An electrophysiologist needs to evaluate the acquired cardiac signals and the patient’s responses to any induced arrhythmias during the procedure.  However, it can be difficult for an electrophysiologist to synthesize the disparate information produced by the numerous monitors in the lab and calculate the real-time, three-dimensional orientation of the anatomy and the location of the recording and ablation catheters. As the number of EP procedures increase, a variety of diagnostic, therapeutic and highly specialized ablation catheters are widely available and continue to be developed.  In addition, remote robotic and magnetic navigation systems have been developed to address limitations of dexterity in controlling the catheter tip, especially during complex arrhythmia ablation procedures. We believe that, considering the improvements being made with respect to other equipment used in the EP lab and the continual increase of ablation procedures, the EP recorders currently available on the market are not sufficiently advanced with respect to the quality of their recordings to deliver adequate results. We believe that the PURE EP System will be able to deliver superior quality of recordings that will allow it to successfully integrate with the other advanced equipment found in the EP lab.
+
+
+
+The requirement for optimal signal integrity is amplified during ablation treatments of AF and VT. One of the main objectives of the AF ablation procedure is to precisely identify, ablate and eliminate pulmonary vein potentials and one of the main objectives of the VT procedure is to map the arrhythmia substrate and precisely identify, ablate and eliminate small abnormal potentials. The information provided by recorders is essential for an electrophysiologist to determine ablation strategy during termination of both pulmonary vein potentials and VT.  Therefore, it is important that the recording system’s noise removal technique does not alter the appearance and fidelity of these potentials. As a result, it is necessary that any new signal processing technology preserves signal fidelity as much as possible during EP recordings; otherwise, the signals that are needed to guide the ablation procedures will be difficult to distinguish due to noise interference.
+
+
+
+Our Product
+
+
+
+The PURE EP™ System is designed to address long-standing limitations that slow and disrupt cardiac catheter ablation procedures, such as environmental lab noise, signal saturation, slow signal recovery, and inaccurate display of fractionated potentials. PURE EP™ is a signal processing platform that combines advanced hardware and software to address known challenges associated to signal acquisition, to enable electrophysiologists to see more signals and analyze them in real-time. The device aims to minimize noise and artifacts from cardiac recordings and acquire high-fidelity cardiac signals. Improving fidelity of acquired cardiac signals may potentially increase the diagnostic value of these signals, thereby possibly improving accuracy and efficiency of the EP studies and ablation procedures.
+
+
+
+ 8
+
+ 
+
+
+
+PURE EP™ was designed to be useful in arrhythmia diagnosis. For example, in atrioventricular reentrant tachycardia (AVRT) & AV nodal reentrant tachycardia (AVNRT), EP physicians often look for a slow pathway potential or accessory pathway potentials that are not easy to detect. Furthermore, during pacing maneuvers, important diagnostic signals may be buried inside the saturation artifact from the pacing electrode. The wide dynamic range of the PURE EP™ System may allow for better differentiation of those signals, as there is no system saturation and a quicker recovery to baseline.
+
+
+
+Cardiac catheter ablation is a procedure that involves delivery of energy through the tip of a catheter that scars or destroys heart tissue to correct heart rhythm disturbances. In August 2018, we received 510(k) clearance from the U.S. Food and Drug Administration (the “FDA”) to market our PURE (Precise Uninterrupted Real-time evaluation of Electrograms) EP™ System.
+
+
+
+Our initial focus is on improving intracardiac signal acquisition and enhancing diagnostic information for catheter ablation procedures for complex arrhythmias, like ventricular tachycardia (“VT”) and atrial fibrillation, or AFib (“AF”). VT is a fast, abnormal heart rate in the heart’s lower chambers. VT does not give your heart enough time to fill with blood before it contracts again. This can affect blood flow to the rest of your body and is potentially life-threatening. AF is the most common cardiac arrhythmia associated with a fivefold risk of stroke. AF occurs when the upper chambers of the heartbeat irregularly, and do not pump all of the blood to the lower chambers, causing some blood to pool and potentially form clots. If a clot breaks loose, it can travel through the bloodstream to the brain and lead to a stroke. Strokes related to AF are often more severe compared to strokes with other underlying causes.
+
+
+
+We believe that the PURE EP System and its advanced signal processing tools may contribute to improvements in patient outcomes in connection with catheter ablation due to the following advantages over currently available devices on the market: 
+
+
+
+
+● | Less noise: PURE EP’s low-noise proprietary architecture was engineered to enable acquisition of high-fidelity signals in the original, unfiltered format. PURE EP’s Main System Unit (MSU) topology incorporates advanced shielding and very low noise front-end components.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Wider range: PURE EP’s wide dynamic range was developed to retain cardiac signal details and reduce saturation. PURE EP™ combines a low-noise signal architecture with a fixed range up to 500mV, so signals are rarely clipped or limited by quantization noise.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Higher fidelity: PURE EP’s large frequency bandwidth and linear signal acquisition helps to accurately display complex fractionated signals, even at lower amplitudes and higher frequencies. This unique system capability minimizes signal attenuation and maintains original signal amplitude – especially critical for identifying and interpreting complex arrhythmogenic substrates.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Clear, stable unipolar signals: The PURE EP System uses an innovative approach to acquiring unipolar signals. The Wilson Central Terminal (WCT+™) relies on a common front-end circuitry similar to how bi-polar intracardiac signals are acquired. This enables clear, stable unipolar signals, without the need for an internal reference catheter.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Customizable software and filters: PURE EP™ offers software modules and specialty digital filters, so electrophysiologists can customize their interface and optimize signals for mapping, signal interpretation and during therapy delivery.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Seamless integration: PURE EP™ integrates with existing EP labs and workflows. It is compatible and complementary with EP recording systems, mapping systems, robotic equipment, and multi-display panels.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+We believe that these features may allow physicians to better determine precise ablation targets, strategy, and end point of procedures with the objective of reducing the need for patients to undergo multiple procedures, and to allow for less experienced EP physicians to perform more complex procedures. The PURE EP System is intended to operate in conjunction with the existing EP lab equipment.
+
+
+
+Initial Analysis
+
+
+
+According to S. J. Asirvatham, MD, et. al. (“Signals and Signal Processing for the Electrophysiologist,” Circ Arrhythm Electrophysiol. (2011) 4:965-973), recording environments in a typical electrophysiology laboratory presents challenging situations.  S. J. Asirvatham, MD, et. al., state, “Successful mapping and ablation in the electrophysiology laboratory is critically dependent on acquiring multiple, low-amplitude, intracardiac signals in the presence of numerous sources of electric noise and interference and displaying these signals in an uncomplicated and clinically relevant fashion, with minimal artifacts. This represents a significant engineering challenge and, in real-life electrophysiology laboratory, is not always successful.”
+
+
+
+ 9
+
+ 
+
+
+
+To determine and validate the state of present electrophysiology recording technology in the field, we completed a detailed analysis of the effect of filters used by existing EP recorders to reduce noise on spaciotemporal characteristics of electrocardiograms and intracardiac electrograms. We evaluated the signal quality (amplitude, morphology and duration) of the different recorders, along with the ability of the recorders to reduce noise level and remove baseline wander, which are the cardiac signals that have shifted from the isoelectric line (the base line of the signal tracing). The electrocardiogram and intracardiac signals subjected to the PURE EP System’s signal processing showed less baseline wander, noise and artifacts compared to the conventional electrophysiology recorders.  Further, spaciotemporal characteristics of signals were greatly distorted by the conventional electrophysiology system, particularly when a notch filter was used, as compared to the recording of the same spaciotemporal characteristics by the PURE EP System.
+
+
+
+Proof of Concept Testing
+
+
+
+In the second and third quarters of 2013, we performed and finalized testing of our proof of concept unit by initially using an electrocardiogram/intracardiac simulator at our lab, and subsequently by obtaining pre-clinical recordings from the lab at the University of California at Los Angeles. We believe that our proof of concept unit performed well as compared to GE’s CardioLab recording system, in that the electrocardiogram and intracardiac signals displayed on our proof of concept unit showed less baseline wander, noise and artifacts compared to signals displayed on GE’s CardioLab recording system.  Subsequently, we determined the final design of the PURE EP System prototype to use for end-user preference studies, additional pre-clinical studies and research studies.  
+Prototype Testing
+
+
+
+After conducting research of peer-reviewed EP publications (see Initial Analysis in Our Products section above), we contacted Samuel J. Asirvatham. M.D. (who we believed to be an expert in the field of signal-based catheter ablation), at Mayo Clinic in Rochester, Minnesota. Since the end of 2014, we have collaborated with Dr. Asirvatham and other physicians affiliated with Mayo Clinic in Rochester, Minnesota and Jacksonville, Florida. We have performed pre-clinical studies at Mayo Clinic since 2015 to validate technology within the PURE EP System prototype. These studies have been designed to determine clinical effectiveness for features within the PURE EP System. Since March 2016, we have published nine manuscripts in collaboration with the physicians from Mayo Clinic evidencing our pre-clinical findings. To date, we have conducted a total of twenty-four pre-clinical studies with the PURE EP System, twenty-one of which were conducted at Mayo Clinic in Rochester, Minnesota. We also conducted a pre-clinical study at the Mount Sinai Hospital in New York, NY with emphasis on the VT model; and two pre-clinical studies at the University of Pennsylvania in preparation for clinical studies to be conducted there.
+Clinical Evaluations
+
+
+
+On February 18 and February 19, 2019, we conducted the first clinical cases with our PURE EP™ System. The observational patient cases were performed by Andrea Natale, M.D., F.A.C.C., F.H.R.S., F.E.S.C., Executive Medical Director, Texas Cardiac Arrhythmia Institute at St. David’s Medical Center in Austin, Texas. On April 16, 2019, we announced the completion of our second set of observational patient cases, which were performed at Prisma Health at Greenville Health System in South Carolina by Andrew Brenyo, MD, FHRS. Dr. Brenyo used the PURE EP™ System during procedures on patients with ischemic ventricular tachycardias, AF, PVC, and atypical flutters.
+
+
+
+On May 6, 2019, we announced the completion of our third set of observational patient cases at Indiana University under the leadership of Prof. John M. Miller, M.D., and Dr. Mithilesh K. Das, MBBS. Drs. Miller and Das used the PURE EP™ System during procedures on patients with atypical flutter, atrioventricular nodal reentry tachycardia (AVNRT), AF, supraventricular tachycardia, premature ventricular contractions, and a rare case of dual septal pathway. In August 2019, observational patient cases at Santa Barbara Cottage Hospital in California were performed by Brett Andrew Gidney, M.D. The initial experience across these early evaluation centers showed the PURE EP™ System functions as designed with positive feedback from EP users about the improved signal detection and fidelity.
+
+
+
+In November 2019, we commenced our first clinical study for the PURE EP™ System titled, “Novel Cardiac Signal Processing System for Electrophysiology Procedures (PURE EP 2.0 Study).” Texas Cardiac Arrhythmia Research Foundation (TCARF) in Austin, Texas, was the first institution to conduct patient cases under the clinical study. On January 16, 2020, we announced the installation of a PURE EP System at Mayo Clinic Florida campus in Jacksonville, Florida. Mayo Clinic was the second institution to conduct patient cases under the same clinical study. On August 4, 2020, we announced the installation of a PURE EP System at Massachusetts General Hospital (MGH) as part of the expanding clinical study. As of March 8, 2021, 81 patients have been enrolled in the study.
+
+
+
+ 10
+
+ 
+
+
+
+In September 2020, we presented results from our first randomized, blinded signal sample analysis in the PURE EP 2.0 Clinical Study. The data was generated during AF ablation procedures conducted at St. David’s Medical Center, Austin, Texas. Our scientific abstract and poster entitled, "A novel cardiac signal processing system for electrophysiology procedures: early insights from the PURE EP 2.0 study" was presented at the ESC Congress 2020 – The Digital Experience. The abstract was co-authored by Carola Gianni, M.D., Amin Al-Ahmad, M.D., Shane M. Bailey, M.D., G. Joseph Gallinghouse, M.D., Rodney P. Horton, M.D. and Andrea Natale, M.D. of TCAI. The independent, blinded reviewers were Bradley P. Knight, M.D. (Northwestern University), Wendy Tzou, M.D. (University of Colorado), and Pasquale Santangeli, M.D. (University of Pennsylvania). Identical electrocardiographic and intracardiac signal data were recorded during 15 AF ablation procedures from the PURE EP System, the signal recording system, and the 3D mapping system. The collected signals underwent blinded, controlled evaluation by three independent electrophysiologists to determine whether the PURE EP signals are a viable alternative to conventional sources and if it provides additional or clearer diagnostic information. Reviewers were asked to record the quality of each signal sample on a scale of 1-10 and select a rationale for their rating in a dropdown menu. Based on the ratings for each pair of signals, a cumulative total of 29 PURE EP™ signals out of 34 (85.3%) were rated as statistically equivalent or better for this dataset. In 35.5% of samples, the reviewers selected PURE EP™ data because "more signal components were visible." The abstract concludes that the PURE EP™ System is able to produce reliable and high-quality signals when compared to the available standard of care systems.
+
+
+
+The PURE EP™ System was highlighted in several patient cases conducted live during EPLive in December 2020, the fifth international symposium on complex arrhythmias, by Andrea Natale, M.D., F.H.R.S., F.A.C.C., F.E.S.C., Executive Medical Director of the Texas Cardiac Arrhythmia Institute (TCAI) at St. David’s Medical Center in Austin, TX and EPLive course director, and Joseph Gallinghouse, M.D.
+
+
+
+
+Clinical observations collected with our PURE EP System were also presented by G. Joseph Gallinghouse, M.D., Texas Cardiac Arrhythmia Institute at St. David’s Medical Center, during AF Symposium 2021 Spotlight Session: Early Stage and Emerging New Technologies and Drugs in Cardiac EP on January 29, 2021 streamed live. Dr Gallinghouse highlighted advantages of PURE EP across steps of a complex procedure and emphasized that accurate recording of electrograms is critical for mapping and ablation. He noted that he still quite often faces issues with suboptimal signal quality even though the lab has clean power and is properly shielded. With the PURE EP System, however, he was able to digitally zoom in on signals of interest without gaining noise; he was able to identify high frequency, low amplitude signals in a patient with atypical atrial flutter and significant scar in the atria.
+
+
+
+On September 23, 2020, we installed the PURE EP System at the University of Pennsylvania Hospital. On October 29, 2020, we announced the installation of our PURE EP System at the Deborah Heart and Lung Center in Browns Mills, New Jersey for clinical evaluation. On January 12, 2021 we announced the installation and first patient cases conducted at Memorial Hospital of South Bend, part of Beacon Health System, in South Bend, Indiana under the leadership of Vinod Chauhan, M.D. and Deepak Gaba, M.D. And, on February 10, 2021 we announced new clinical sites to receive our systems: New York-Presbyterian/Weill Cornell Medical Center, Michigan Medicine–University, and Houston Methodist Hospital.
+
+
+
+To date, more than 575 patient procedures have been conducted with the PURE EP System by more than 38 electrophysiologists across eight different clinical sites in the United States.
+
+
+
+In addition to clinical evaluation, we have conducted a total of twenty-seven pre-clinical studies with the PURE EP™ System, twenty-two of which were performed at Mayo Clinic in Rochester, Minnesota. We also conducted a pre-clinical study at the Mount Sinai Hospital in New York, New York, with an emphasis on the VT model; and four pre-clinical studies at the University of Pennsylvania. We intend to continue additional research and development studies with our technology at Mayo Clinic and the University of Pennsylvania. We also intend to continue additional clinical external evaluation at a select number of other centers.
+
+
+
+ 11
+
+ 
+
+
+
+The current PURE EP System 
+
+
+
+
+
+
+
+
+Examples of PURE EP Signals
+
+
+
+
+
+
+ 12
+
+ 
+
+
+
+Commercialization of the PURE EP™ System
+
+
+
+We have developed a marketing strategy to introduce and support our PURE EP™ System. The strategy includes our presence (in-person and virtually) at leading industry events and scientific sessions, both nationally and internationally, for the purposes of physician education, PURE EP System’s demonstrations and select presentations of advanced R&D product pipeline.
+
+
+
+We have begun implementing a market development program to commercially launch our PURE EP System. We have installed PURE EP Systems at several medical centers of excellence (COEs) throughout the U.S. during 2020 and will continue to do so in 2021 for clinical evaluation - whereby these systems are installed on a trial basis for system evaluations; data collection for our clinical trials; to gather and publish data in in peer-reviewed journals and for presentations at cardiology conferences; and for potential demonstrations to other physicians to observe the technology.
+
+
+
+Health systems, facilities, and physicians that have conducted or observed cases performed with our technology may potentially acquire the system. Sales of our systems would potentially consist of hardware, software, and a recurring revenue feature through a technical service contract, including software upgrades, and down the line, include the AI aspect. In December 2020, we announced that three units were contracted for purchase by St David’s Healthcare of Austin, Texas.
+
+
+
+We intend to support our commercial activities by growing clinical validation and educational and training programs, including establishing training hubs at our early hospital partners’ facilities. With the increased commercialization activity planned, we also plan to continue to grow our clinical account management team to support the initial use of the system and assist with ongoing product training and education, and plan to develop an agile regional sales team to escalate our commercialization efforts along with a technical support team.
+
+
+
+
+We will deploy Vuzix’s M400 Smart Glasses for remote servicing of our PURE EP™ System to support our commercialization efforts which offers an ideal solution for compliance with COVID-19 travel restrictions. Vuzix® Corporation (NASDAQ: VUZI) is a leading supplier of smart glasses and augmented reality (AR) technology and products.
+
+
+
+Our commercial and clinical activities are led by Vice President of Sales, John Kowalski who spent 24 years at Johnson & Johnson’s Biosense Webster division, a global leader and pioneering innovator in the electrophysiology market; Julie Stephenson, MBA, Vice President of Clinical Affairs; and Olivier Chaudoir, Senior Director of Marketing. We believe we have ample inventory to meet planned commercial placement requirements in 2021, and we believe we will increase our domestic sales efforts and also stage our European commercialization efforts during 2021-2022. We have made progress towards obtaining a European CE marking certificate for medical devices. We intend to commence audit preparation for the International Organization for Standardization (“ISO”) 13485 with the expectation to proceed with the audit to obtain the ISO 13485 Certification and CE Mark in the first half of 2021 and subsequently file for CE Mark in the second half of 2021 or early in 2022, subject to the guidance from the European notified body.
+
+
+
+Technology and Development Plan
+
+
+
+Our technology team consists of twelve engineers and consultants with expertise in digital signal processing, low power analog and digital circuit design, software development, embedded system development, electromechanical design, testing and system integration, and the regulatory requirements for medical devices. We have also entered into collaboration agreements with advisors and medical institutions in the fields of cardiology and electrophysiology, including Mayo Clinic and the Texas Cardiac Arrhythmia Institute in Austin, Texas, where clinical trials are currently underway to define the clinical effectiveness of the system. Currently, we have outsourced manufacturing of the complete PURE EP System to Minnetronix Medical. In addition, we plan to identify a second medical device manufacturer.
+
+
+
+We intend to continue additional research studies with our technology at Mayo Clinic. On November 20, 2019, we entered into licensing agreements with Mayo Clinic under newly reached terms to establish a new product pipeline to complement the PURE EP System and develop solutions for novel ways to treat autonomic nervous system disease. The new research and development pipeline contemplated pursuant to these agreements includes hardware, software, and algorithmic solutions to be integrated into the PURE EP platform technology.
+
+
+
+On January 2, 2021 we entered into a research agreement with Mayo Clinic regarding a new AI research Program for our Novel Signal Recording System. The program is a strategic collaboration with Mayo to develop a next-generation AI- and machine learning-powered software for our PURE EP™ System. The new collaboration includes an R&D program that will expand our proprietary hardware and software with advanced signal processing capabilities and aim to develop novel technological solutions by combining the electrophysiological signals delivered by PURE EP™ and other data sources. The development program is under the leadership of Samuel J. Asirvatham, M.D., Mayo Clinic’s Vice-Chair of Innovation and Medical Director, Electrophysiology Laboratory, and Alexander D. Wissner-Gross, Ph.D., Managing Director of Reified LLC.
+
+
+
+ 13
+
+ 
+
+
+
+Competition
+
+
+
+We are marketing the PURE EP System as an additional information system for the EP lab. In general, the EP market is characterized by intense competition. There are currently four large companies that share the majority of the EP recording market share in the US. They produce the following electrophysiology recording systems, with an average selling price of approximately $160,000 (source: DRG Medtech 360 Millennium report on EP Devices, issued in June 2019):
+
+● | GE Healthcare’s family of CardioLab Recording Systems were initially developed in the early 1990s by Prucka Engineering, which was acquired by General Electric Company in 1999.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The LabSystem PRO EP Recording System was originally designed in the late 1980s by C.R. Bard. C.R. Bard’s electrophysiology business was acquired by Boston Scientific Corporation in 2013.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Siemens AG developed the Axiom Sensis XP in 2002 and now offers Sensis Vibe
+--+----------------------------------------------------------------------------
+
+
+● | HeNan HuaNan Medical Science and Technology Co., LTD. offers the GY-6000 multi-channel physiological recorder (not FDA approved).
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+● | St. Jude Medical, Inc.’s EP-WorkMate Recording System was acquired from EP MedSystems, Inc. in 2008, which had received clearance for the product from the FDA in 2003. In January 2017, Abbott Laboratories acquired St Jude Medical, Inc.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Based upon our analysis of data taken from patent applications filed with the U.S. Patent and Trademark Office (“USPTO”) and 510(k) approval applications filed with the FDA, and various publications, we believe that the above recording systems are built on relatively old technologies and all use similar approach in applying hardware and digital filters to remove noise and artifacts. We reasonably believe that such an approach sacrifices cardiac signal fidelity, and in the case of ablation, has a direct impact on the ablation strategy of an electrophysiologist. The method to remove noise and artifacts used by the conventional recorders could be a contributing factor to the multiple (or repeated) ablation procedures that are frequently required in order to completely cure patients from complex arrhythmias. We are not currently aware of any other companies that are developing similar recording technologies for electrophysiology laboratories.
+
+
+
+Customers
+
+
+
+In December 2020, we announced that three units were contracted for purchase by St David’s Healthcare of Austin, Texas and subsequently sold in February 2021, which was our first commercial contract. We are in active discussions with numerous additional accounts about the acquisition of the PURE EP System. We anticipate our customers will be medical centers of excellence and other healthcare facilities that operate EP labs.
+Suppliers
+
+
+
+The PURE EP System contains proprietary hardware and software modules that are assembled into the system. Hardware boards contain components that are available from different distributors. The parts used to manufacture analog and digital boards are readily available from several distributors or manufacturers. Presently, Minnetronix Medical in St Paul, Minnesota is manufacturing the complete PURE EP System, and we are evaluating a second medical device manufacturer. 
+Research and Development Expenses
+
+
+
+Research and development expenses for the fiscal years ended December 31, 2020 and 2019 were $18,135,862 and $9,738,819, respectively.
+
+
+
+ 14
+
+ 
+
+
+
+
+
+ViralClear Business Overview
+
+
+
+ViralClear Pharmaceuticals, Inc.
+
+
+
+ViralClear Pharmaceuticals, Inc. (“ViralClear”) is a majority-owned subsidiary of the Company originally known as NeuroClear Technologies, Inc. This subsidiary was established in November 2018 to pursue additional applications of the PURE EP™ signal processing technology outside of cardiac electrophysiology. In March 2020, NeuroClear Technologies, Inc. was renamed ViralClear and repurposed to develop merimepodib, a broad-spectrum anti-viral agent that showed potential for the treatment COVID-19.
+
+
+
+The Company commenced FDA-approved clinical trials in Q2 2020 for the development of merimepodib for the treatment of COVID-19. In May 2020, the FDA cleared the Investigational New Drug Application that enabled the Company to proceed its proposed Phase 2 study of merimepodib oral solution in adults with COVID-19 who were hospitalized and either required supplemental oxygen or were on non-invasive ventilation or high flow oxygen devices.
+
+
+
+On October 26, 2020, the Company announced the halting of its signal finding Phase 2 trial, “A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study of the Efficacy and Safety of Oral Merimepodib in Combination with Intravenous Remdesivir in Adult Patients with Advanced Coronavirus Disease 2019 (COVID-19).” After the implementation of a protocol amendment that expanded the size of the trial from 40 to 80 hospitalized COVID-19 patients, and that limited enrollment to seriously ill patients, (NIAID Grade 3, who required high flow, high concentration oxygen to maintain adequate oxygenation) the Safety Monitoring Committee (SMC) was unblinded for safety reasons since these patients are at higher risk for dying from their disease.
+
+
+
+At the time of the last review of the data by the SMC, 44 patients had been enrolled in the trial of whom 42 had received study drug (either merimepodib solution or matching placebo). This last review of the data documented all 22 Grade 4 patients were discharged from the hospital and did not relapse during the 37 day follow-up period.  However, patients who were NIAID Grade 3 patients (n = 20) at the time of enrollment had markedly different outcomes. Specifically, the unblinded SMC detected an imbalance in survival rates in these NIAID Grade 3 patients between the placebo and merimepodib making it unlikely that the trial would meet its primary safety endpoints. We had therefore elected to stop enrollment into the clinical trial. Patients were followed as per the protocol for safety monitoring; however, no further study drug treatments would be administered. We no longer intend to further develop merimepodib. However, the Company will see if other parties are interested in acquiring or licensing merimepodib.
+
+
+
+In late 2020, we realigned ViralClear with the original objective of pursuing additional applications of the PURE EP™ signal processing technology outside of cardiac electrophysiology, and we intend to return this subsidiary to its former name, NeuroClear Technologies, Inc. We own 70.2% of ViralClear’s outstanding shares of common stock as of March 12, 2021.
+
+
+
+The Company incurred costs in connection with the winddown of the Phase II trial and the associated regulatory reporting in the final quarter of 2020 and may incur additional costs in 2021.   
+
+
+
+On March 5, 2021, we announced that the U.S. Patent Office had allowed a utility patent which has been exclusively licensed from the Mayo Foundation for Medical Education and Research. The patent application number 16/805,017 entitled, "Systems and Methods for Electroporation" was filed on February 28, 2020. The patent describes and claims methods and materials for improving the treatment of hypertension via electroporation of nerves in the renal area. Electroporation is an emerging technique that has demonstrated efficacy in treatments for several critical conditions and is currently being evaluated for the treatments of autonomic nervous disorders, including hyper- and hypotension / syncope.
+
+
+
+NeuroClear Business Overview
+
+
+
+On July 2, 2020, the Company formed an additional subsidiary, NeuroClear Technologies, Inc., a Delaware corporation, to pursue additional applications of the PURE EP™ signal processing technology outside of electrophysiology. We own 100% of the outstanding shares of common stock as of March 12, 2021. We plan to rename this additional subsidiary and repurpose for future endeavors, and we intend to return ViralClear to its former name, NeuroClear Technologies, Inc. (referred to herein as “NeuroClear”).
+
+
+
+ 15
+
+ 
+
+
+
+NeuroClear is an early stage medical device company that is developing N-SENSE™, a novel sensing technology platform for high-speed electroneurogram (ENG) recordings. The specifications for this new product were based on the core competencies of the PURE EP™ signal processing technology, such as broad dynamic range of recorded signals and low signal-to-noise ratio, and adapted to address disorders of the autonomic nervous systems through recordings and analysis of action potentials, the impulses along the membrane of a muscle cell or a nerve cell. These impulses are considered to carry valuable clinical information but may be difficult to detect through conventional recording platforms.
+
+
+
+NeuroClear aims to address what we believe to be the two main challenges of bioelectronic medicine devices: achieving accurate and targeted stimulation of specific nerves in a nerve bundle and implementing an effective feedback loop that can self-adjust for the optimal amount and timing of stimulation. We believe that advancements in overcoming these challenges will improve the safety and efficacy of current treatments and contribute to the developments of new therapy lines.
+
+
+
+On December 18, 2020, NeuroClear signed a research agreement with the University of Minnesota launching a program to develop novel therapies to treat sympathetic nervous system disease. The program studies are expected to form a foundation for developing a new platform technology to address disorders of the autonomic nervous system. NeuroClear intends to develop new intellectual properties and products, including new hardware, software, and algorithmic solutions, with the support of Plexus a tier 1 US-based manufacturing partner and take it through FDA approval, manufacturing, and commercialization. The R&D program is led by Richard W. Bianco, Ph.D., Professor, Director of Experimental Surgical Services (ESS), Department of Surgery in the University of Minnesota Medical School, John W. Osborn, Ph.D., Professor, Department of Surgery and Director of the Minnesota Consortium for Autonomic Neuromodulation (MCAN) in the University of Minnesota Medical School and Barry Keenan, Ph.D., Vice President of Engineering at NeuroClear.
+
+
+
+On February 10, 2021, the Company conducted its first preclinical experiment at the University of Minnesota.
+
+
+
+NeuroClear has partnered with a tier 1 manufacturing partner to design, develop, and manufacture N-SENSE™, a novel sensing and stimulation platform technology.
+
+
+
+NeuroClear will focus on improving therapies through clearer ENG recordings – methods used to visualize directly recorded electrical activities of neurons in the central nervous system (brain, spinal cord) and/or the peripheral nervous system (nerves, ganglions). ENGs are usually obtained by placing an electrode directly in the neural tissue. ENGs consist of small, high frequency, low amplitude signals, which have been proven hard to detect with conventional signal recording systems.
+
+
+
+NeuroClear’s business strategy is to utilize our core signal processing technology to develop superior ENG recording and processing systems and includes the following:
+
+
+
+• Develop N-SENSE™, a novel nerve sensing and stimulation platform technology to be used in product candidates which qualify for a nerve mapping and stimulation treatments including, but not limited to, renal denervation, deep brain stimulation and vagus nerve stimulation.
+
+
+
+
+o | The N-SENSE™ is intended to be used as a value add-on to the existing neurostimulation technologies or act as a standalone platform.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+• Pursue licensing opportunities and partnerships to leverage our expertise in high-fidelity signal processing for feedback loop systems for development of products for commercial success.
+
+
+
+We believe that the following clinical areas may benefit the most through the advancements in achieving accurate and targeted stimulation and implementation of an effective self-adjusting feedback loop:
+
+
+
+• Renal denervation (“RDN”): RDN has been shown to reduce blood pressure and can be an effective treatment for resistant hypertension sufferers who have failed drug therapy. The technique has proven to be effective, but clinical endpoints are still suboptimal. RDN device market is expected to reach $7B by 2027 (CAGR 23.7%).1
+
+
+
+
+o | Potential Application: A device that can measure sympathetic nerve activity will inform the need and potential benefit for performing a procedure. Additionally, a device that can stimulate and elicit a sympathetic response, such as blood pressure, will aid in the assessment of nerve denervation success, and help determine if additional ablation is necessary. Therefore, a device that can perform stimulation on a number of channels, and record nerve activity is needed.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+1Source:  iHealthcareAnalyst, Inc.  Feb. 2020
+
+ 16
+
+ 
+
+
+
+• Deep Brain Stimulation (“DBS”): DBS is a treatment that involves implanting electrodes (leads) within certain areas of the brain to deliver electrical pulses, which has demonstrated improvements in the treatment of movement disorders, such as the Parkinson’s disease, tremors and dystonia.
+
+o | Potential Application: a new high-speed board-based platform for improved accuracy in lead implantation. Precise positioning of the electrodes during the surgical procedure is important in the success of lead implantation, and highly accurate signal readers can aid in the prediction of the activation of axons surrounding the implanted lead.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | We believe that DBS may also be applicable to a substantial number of neurological and psychiatric disorders correlated with dysfunctional circuitry; comparable to a heart pacemaker that uses electric pulses to ultimately regulate brain activity.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Other applications under our investigation include chronic pain management, ADHD, eating disorders, Alzheimer’s, addiction, epilepsy. Alzheimer’s as an application for DBS is currently undergoing clinical trials at several national and international institutions that target the hippocampal outflow pathways by increasing ACh availability, influencing the limbic system, and improving lead placements.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+NeuroClear may seek additional research collaborations with other academic centers active in one or more fields of clinical interests described above.
+
+
+
+Industry and Market Overview
+
+
+
+The global neurostimulation devices market is predicted to grow at 15.23% CAGR during the forecast period with the market size reaching $18.667 billion by 2025 from $7.974 billion in 2019. North America is dominating the neurostimulation devices market with highest market share due to robust healthcare infrastructure, growing R&D activity and presence of major healthcare players. The neurostimulation market is primarily driven by deep brain and spinal cord stimulation. The overall neurostimulation market is expected to grow due to societal factors such as an increase in the geriatric population, as well as the associated increase in the prevalence of chronic diseases.
+
+
+
+The segment of the neurostimulation market for central nervous system (CNS), which include nVNS and DBS, is projected to exceed $14.5 billion in 2029 from a market value of $5 billion in 2019.2
+
+
+
+Non-invasive Vagus Nerve Stimulation 
+
+
+
+We believe there is a significant opportunity for nVNS based on the potential market size for the treatments for the diseases that nVNS may be applicable. Currently, approximately 1,500 million people worldwide suffer from chronic pain while 1,100 million people worldwide suffer from migraines.
+
+
+
+Most of the currently available VNS products have achieved limited commercial success to date. LivaNova currently sells VNS devices that operate in 3 modes, including a non-rechargeable implantable pulse generator (IPG), SenTiva, which uses a limited closed-loop technology and comes with a wrist-worn magnet and a wireless programming wand. Cerbomed has commercialized a transcutaneous auricular VNS device, NEMOS, which consists of a handheld stimulation unit and an ear electrode worn as an earphone. Cerbomed received the European clearance (CE mark) for the VNS treatment of epilepsies and depression in 2010 and for the treatment of pain in 2012. NEMOS has been commercially available in Germany and Austria since 2013 and has expanded to Great Britain, France, and Spain.
+
+
+
+The VNS patent domain is currently dominated by U.S. companies such as Medtronic, LivaNova, and Boston Scientific. Medtronic holds certain patents in closed-loop DBS technology, Medtronic currently markets IPGs such as RestoreSensor SureScan MRI, which is indicted for spinal cord stimulation as an aid in the management of chronic, intractable pain of the trunk and/or limbs and which automatically adjusts stimulation based on the patient's needs and preferences in different body positions, and Activa PC, which is a deep brain stimulator, for investigational loop.
+
+
+
+We believe that digital health wearable markets present potential opportunities for our technology. We plan to develop technology that can provide a signaling feedback loop designed to deliver appropriate stimulation to the vagus nerve through audio and to seek licensing opportunities with consumer electronic market players.
+
+
+
+
+
+2Source: Bioelectronic Medicine  2019 – 2029. IDTechEx report, Dr. Nadia Tsao.
+
+ 17
+
+ 
+
+
+
+Deep Brain Stimulation: 
+
+
+
+Deep brain stimulator market is one of the fastest growing sectors in the neurostimulation market worldwide, growing at 9.3% annually and expected to reach $2.3 billion in worldwide market size by 2028. According to the World Health Organization, globally, 264 million people suffer from depression while 50 million people suffer from epilepsy. Parkinson’s disease and essential tremor are FDA-approved indications for DBS, and the deep brain stimulator market is largely dominated by Medtronic, Abbott, and Boston Scientific. These companies have been working on innovations in their electrodes to avoid stimulation of adjacent structures (electric field shaping) which are the root cause of unwanted side effects of DBS. The industry is working on decreasing the size of the implant of the DBS device, which may lead to a skull-mounted implant. Medtronic’s Activa systems consist of dual-channel or single channel IPGs. Abbott sells two devices known as the Infinity DBS IPG and Brio Rechargeable IPG. The Infinity DBS IPG is designated to manage movement disorders including Parkinson’s disease, essential tremor, and dystonia. It utilizes the Bluetooth technology to communicate with a controller and can receive updates through an application. The system allows for currents to be steered towards target areas while avoiding peripheral stimulation. The Brio Rechargeable IPG delivers constant currents to maintain the desired stimulation level. It has shown clinical efficacy in Parkinson’s disease and dystonia. Boston Scientific offers the Vercise directional lead in unison with their Neural Navigator systems ranging from 8 to 16 electrode leads and a directional system. Medtronic’s Percept PC Deep Brain Stimulation (“DBS”) system includes their BrainSense technology making it the first and only DBS neurostimulation system that has the ability to chronically capture and record brain signals while providing therapy to patients with neurologic disorders associated with Parkinson’s Disease (“PD”), among others.
+
+
+
+According to the National Institute of Health, future technical innovation in deep brain stimulators will focus on improving the practicability the device, including extension of battery life, reduced size of the devices and development of a device for delivering more tailored and adaptive stimulation and the integration of wireless technology. Clinically, the main challenge will be meeting the needs of an ageing population worldwide and expanding indications for DBS to circuitopathies other than Parkinson’s disease, including depression and Alzheimer disease. Even within established indications such as Parkinson’s disease, key questions remain unanswered because biomarkers that predict clinical responses and aid in patient selection and stimulation parameter settings are still largely lacking.
+
+
+
+We believe that our technology may help advance clinical response to DBS due to more precise stimulation and improve overall safety of the DBS procedures.
+
+
+
+Intellectual Property
+
+
+
+Patents
+
+
+
+Our success depends in large part on our ability to establish and maintain the proprietary nature of our technology. We filed a patent application with the USPTO in December 2013, “Systems and Methods for the Evaluation of Electrophysiology Systems.” In December 2014, we filed this patent application under the Patent Cooperation Treaty (PCT) with the U.S. Receiving Office. This patent application describes a system that can show comparative output of any two cardiac signal systems—such as the PURE EP System as compared to a competitor system. We received notice of allowance on June 5, 2019 and on October 29, 2019, U.S. Patent No. 10,456,057 was issued.
+
+
+
+In November 2017, we engaged 3LP Advisors LLC, now Sherpa Technology Group LLC as our intellectual property advisor. We have also retained Sterne Kessler Goldstein & Fox P.L.L.C., a patent firm based in Washington DC, to help develop and execute a strategy for the development of our patent portfolio.  On May 9, 2018 we filed one “omnibus” hardware and software patent application with multiple claim sets, and several multiple feature-set graphical user interface (“GUI”) design patents. The omnibus patent application covers the core hardware and software technology associated with our PURE EP System, which technology includes a cardiac signal system that reads cardiac signals and filters such cardiac signals from noise such as non-cardiac signals or other body-generated artifacts. We also filed a second omnibus application in May 2019 capturing innovations in software with Samuel J. Asirvatham, M.D., Mayo Clinic’s Vice-Chair of Innovation and Medical Director, Electrophysiology Laboratory, as an inventor. Mayo Clinic’s interest in this jointly owned patent application is exclusively licensed to us for all applications.
+
+
+
+Our owned patent portfolio now includes nine allowed/issued patents. Sixteen additional worldwide utility patent applications are pending covering various aspects of our PURE EP System for recording, measuring, calculating and displaying of electrocardiograms during cardiac ablation procedures. We also have two pending U.S. patent applications directed to artificial intelligence (AI). We also have 24 allowed/issued worldwide design patents, which cover various features of our display screens and graphical user interface for enhanced visualization of biomedical signals. Finally, we have licenses to 15 additional worldwide utility patent applications from Mayo Foundation for Medical Education and Research that are pending. These 15 applications are generally directed to electroporation and stimulation.
+
+
+
+ 18
+
+ 
+
+
+
+BioSig and ViralClear signed three patent and know-how license agreements with Mayo Foundation for Medical Education and Research in November 2019.  Under the terms of the such agreements, BioSig exclusively licensed additional patents and applications of the Mayo Clinic related to novel ways for ablation therapy and to treat autonomic nervous system disease including hardware, software and algorithmic solutions to be integrated into the PURE EP platform technology. BioSig intends to take the licensed intellectual properties and products, which have been developed by Mayo Clinic over the last decade, through FDA approval, manufacturing, and commercialization. The development program is run under the leadership of Dr. Asirvatham. On March 5, 2021, we announced that the U.S. Patent Office had allowed a utility patent that ViralClear has exclusively licensed from the Mayo Foundation for Medical Education and Research. The patent application number 16/805,017 entitled, "Systems and Methods for Electroporation" was filed on February 28, 2020. The patent describes and claims methods and materials for improving the treatment of hypertension via electroporation of nerves in the renal area. Electroporation is an emerging technique that has demonstrated efficacy in treatments for several critical conditions and is currently being evaluated for the treatments of autonomic nervous disorders, including hyper- and hypotension / syncope.
+
+
+
+Trademarks
+
+
+
+Our trademark for “BIOSIG TECHNOLOGIES” was registered on April 25, 2017. Our trademark for “PURE EP” was registered on January 26, 2016. Our trademark for the standard mark, “BIOSIG” was registered January 1, 2019, and our stylized/design trademark mark for the BioSig Technologies’ logo was registered February 12, 2019.
+
+
+
+On October 7, 2019, we filed a standard mark trademark application for “SEE MORE, CLEARLY.”
+
+
+
+On April 22, 2020, we filed a standard mark trademark application for “DECIBEL.”
+
+
+
+On September 20, 2020, we filed a standard mark trademark application for “SMARTFINDER.”
+
+
+
+On September 20, 2020, we filed a standard mark trademark application for “COMBIO.”
+
+
+
+On October 22, 2020, we filed a standard mark trademark application for “WCT+.”
+
+
+
+On October 22, 2020, we filed a standard mark trademark application for “ACCUVIZ.”
+
+
+
+On November 5, 2018, we filed a standard mark trademark application for “NEUROCLEAR”, and on January 29, 2019, NeuroClear filed a stylized/design trademark application for the NeuroClear logo.
+
+
+
+On October 4, 2019, we filed a stylized/design trademark application for “ALLIANCE FOR ADVANCING BIOELECTRONIC MEDICINE.”
+
+
+
+On May 26, 2020, we filed a standard mark trademark application for “N-SENSE.”
+
+
+
+On May 26, 2020, we filed a standard mark trademark application for “N-SENSE TECHNOLOGIES.”
+
+
+
+Government Regulation
+
+
+
+The U.S. government regulates healthcare and related products through various agencies, including but not limited to the following: (i) the U.S. Food and Drug Administration (FDA), which enforces the federal Food, Drug and Cosmetic Act (FDCA) and related laws; (ii) the Centers for Medicare & Medicaid Services (CMS), which administers the Medicare and Medicaid programs; (iii) the Office of Inspector General (OIG), which enforces various laws aimed at curtailing fraudulent or abusive practices, including by way of example, the Anti-Kickback Statute, the Physician Self-Referral Law, commonly referred to as the Stark law, the Civil Monetary Penalty Law (including the beneficiary inducement prohibition) (CMP), and the laws that authorize the OIG to exclude healthcare providers and others from participating in federal healthcare programs; and (iv) the Office of Civil Rights (OCR), which administers the privacy aspects of the Health Insurance Portability and Accountability Act of 1996 (HIPAA). All of the aforementioned are agencies within the Department of Health and Human Services (HHS). Healthcare is also provided or regulated, as the case may be, by the Department of Defense through its TRICARE program, the Department of Veterans Affairs, especially through the Veterans Health Care Act of 1992, the Public Health Service within HHS under Public Health Service Act § 340B (42 U.S.C. § 256b), the Department of Justice through the Federal False Claims Act and various criminal statutes, and state governments under the Medicaid and other state sponsored or funded programs. Various states also have state laws equivalent to certain healthcare fraud and abuse laws, including but not limited to state equivalents of the Anti-Kickback Statute and the Stark law, as well as more general state laws regulating all healthcare activities and certain healthcare products, including medical devices.
+
+
+
+ 19
+
+ 
+
+
+
+In addition to being regulated by the FDA, advertising and promotion of certain types of medical devices in the United States is also regulated by the Federal Trade Commission (FTC) and by state regulatory and enforcement authorities. Recently, promotional activities for FDA-regulated products of other companies have been the subject of enforcement action brought under healthcare laws and consumer protection statutes. Further, competitors can initiate litigation relating to advertising claims under the federal Lanham Act and similar state laws.
+
+
+
+FDA Regulation
+
+
+
+Our solutions include software and hardware which will be used for patient diagnosis and, accordingly, are subject to regulation by the FDA and other regulatory agencies.  FDA regulations govern, among other things, the following activities that we perform and will continue to perform in connection with:
+
+
+
+
+● | Product design and development;
+--+--------------------------------
+
+
+● | Product testing;
+--+-----------------
+
+
+● | Product manufacturing;
+--+-----------------------
+
+
+● | Product labeling and packaging;
+--+--------------------------------
+
+
+● | Product handling, storage, and installation;
+--+---------------------------------------------
+
+
+● | Pre-market clearance or approval;
+--+----------------------------------
+
+
+● | Advertising and promotion; and
+--+-------------------------------
+
+
+● | Product sales, distribution, and servicing.
+--+--------------------------------------------
+
+FDA Pre-market Clearance and Approval Processes
+
+
+
+The FDA classifies all medical devices into one of three classes based on the risks associated with the medical device and the controls deemed necessary to reasonably ensure the device’s safety and effectiveness. Those three classes are:
+
+● | Class I devices present a low risk and are not life-sustaining or life-supporting. The majority of Class I devices are subject only to “general controls” (e.g., prohibition against adulteration and misbranding, registration and listing, good manufacturing practices, labeling, and adverse event reporting. General controls are baseline requirements that apply to all classes of medical devices.)
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Class II devices present a moderate risk and are devices for which general controls alone are not sufficient to provide a reasonable assurance of safety and effectiveness. Devices in Class II are subject to both general controls and “special controls” (e.g., special labeling, compliance with performance standards, and post market surveillance. Unless exempted, Class II devices typically require FDA clearance before marketing, through the premarket notification (510(k)) process).
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Class III devices present the highest risk. These devices generally are implantable, life-sustaining, life-supporting, or for a use that is of substantial importance in preventing impairment of human health, and/or they present a potential unreasonable risk of illness or injury. Class III devices are devices for which general controls, by themselves, are insufficient and for which there is insufficient information to determine that application of special controls would provide a reasonable assurance of safety and effectiveness. Class III devices are subject to general controls and typically require FDA approval of a premarket approval (“PMA”) application before marketing.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Unless it is exempt from premarket review requirements, a medical device must receive marketing authorization from the FDA prior to being commercially marketed, distributed, or sold in interstate commerce in the United States. The most common pathways for obtaining marketing authorizations are 510(k) and PMA. With the enactment of the Food and Drug Administration Safety and Innovation Act (FDASIA), the de novo pathway was made available for certain low-to-moderate risk devices that do not qualify for 510(k) clearance due to the absence of a predicate device.
+
+
+
+ 20
+
+ 
+
+
+
+510(k) Clearance Process
+
+
+
+The 510(k) review process compares a new device to an existing legally marketed device (or, “predicate device”). “Substantial equivalence” means that the proposed new device: (i) has the same intended use as the predicate device; (ii) has the same or similar technological characteristics as the predicate device; (iii) is as safe and effective as the predicate device, as shown by the supporting information submitted within the 510(k); and (iv) does not raise different questions of safety and effectiveness than the predicate device.
+
+
+
+To obtain 510(k) clearance, one must submit a 510(k) containing sufficient information and data to demonstrate that the proposed device is substantially equivalent to a legally marketed predicate device. This data generally includes non-clinical performance testing (e.g., software validation, bench testing electrical safety testing), but may also include clinical data. Typically, it takes approximately three-to-six months for the FDA to complete its review of a 510(k) submission; however, it can take significantly longer and not all 510(k) submissions are accepted by the FDA for review, and not all are cleared following FDA review. During its review of a 510(k), the FDA may request additional information, including clinical data, which may significantly prolong the review process. After completing its review of a 510(k), the FDA may issue an order, in the form of a letter (i) finding the proposed device to be substantially equivalent to the predicate device and stating that the device can be marketed in the U.S., or (ii) finding the proposed device not substantially equivalent to the predicate device and stating that device cannot be marketed in the U.S. We received 510(k) clearance for the PURE EP™ System on August 8, 2018.
+
+
+
+After a device receives 510(k) clearance, any modification that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, will require a new 510(k) clearance or could require a pre-market approval, which requires more data and is generally a significantly longer process than the 510(k) clearance process.  The FDA requires each manufacturer to make this determination initially, but the FDA can review any such decision and can disagree with a manufacturer’s determination. If the FDA disagrees with a manufacturer’s determination, it can require the manufacturer to cease marketing and/or recall the modified device until 510(k) clearance or a pre-market approval is obtained.
+
+
+
+A device that reaches market through the 510(k) process is not considered to be “approved” by the U.S. Food and Drug Administration. They are generally referred to as “cleared” or “510(k) cleared” devices.  Nevertheless, it can be marketed and sold in the U.S.
+
+
+
+The Premarket Approval Pathway
+
+
+
+The PMA process is the most stringent type of device marketing application required by the FDA. Whether PMA is granted is based on a determination by the FDA that the PMA application contains sufficient valid scientific evidence to ensure that the device is safe and effective for its intended use(s). A PMA application generally includes extensive information about the device including the results of clinical testing conducted on the device and a detailed description of the manufacturing process.
+
+
+
+After a PMA application is accepted for review, the FDA begins an in-depth review of the submitted information. FDA regulations provide 180 days to review the PMA application and make a determination; however, in practice, the review time is typically longer (e.g., 1-3 years). During this review period, the FDA may request additional information or clarification of information already provided. Also, during the review period, an advisory panel of experts from outside the FDA may be convened to review and evaluate the data supporting the application and provide recommendations as to whether the data provide a reasonable assurance that the device is safe and effective for its intended use. In addition, the FDA generally will conduct a preapproval inspection of the manufacturing facility to ensure compliance with the quality system regulation (QSR), which imposes comprehensive development, testing, control, documentation and other quality assurance requirements for the design and manufacturing of a medical device.
+
+
+
+Based on its review, the FDA may (i) issue an order approving the PMA, (ii) issue a letter stating the PMA is “approvable” (e.g., minor additional information is needed), (iii) issue a letter stating the PMA is “not approvable,” or (iv) issue an order denying PMA. A company may not market a device subject to PMA review until the FDA issues an order approving the PMA application. As a condition to approval, the FDA may impose post-approval requirements intended to ensure the continued safety and effectiveness of the device including, among other things, restrictions on labeling, promotion, sale and distribution, and requiring the collection of additional clinical data. Failure to comply with the conditions of approval can result in materially adverse enforcement action, including withdrawal of the approval.
+
+
+
+ 21
+
+ 
+
+
+
+Most modifications to a PMA approved device, including changes to the design, labeling, or manufacturing process, require prior approval before being implemented. Prior approval is obtained through submission of a PMA supplement. The type of information required to support a PMA supplement and the FDA’s time for review of a PMA supplement vary depending on the nature of the modification.
+
+
+
+We obtained FDA clearance related to the PURE EP System via the 510(k) process in 2018 and we do not anticipate a PMA for it or other devices at this time.
+
+
+
+Pervasive and continuing FDA regulation
+
+
+
+After a medical device is placed on the market, numerous FDA regulatory requirements apply, including, but not limited to, the following:
+
+
+
+
+● | Quality System Regulation (QSR), which requires manufacturers to follow design, testing, control, documentation and other quality assurance procedures during the manufacturing process;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Establishment Registration, which requires establishments involved in the production and distribution of medical devices intended for commercial distribution in the U.S. to register with the FDA;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Medical Device Listing, which requires manufacturers to list the devices they have in commercial distribution with the FDA;
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+● | Labeling regulations, which prohibit “misbranded” devices from entering the market, as well as mandate the inclusion of certain content in device labels and labeling and prohibit the promotion of products for unapproved or “off-label” uses and impose other restrictions on labeling; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Medical Device Reporting regulations, which require that manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if it were to recur.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Failure to comply with applicable regulatory requirements can result in enforcement action by the FDA, which may include one or more of the following sanctions:
+
+
+
+
+● | Fines, injunctions, and civil penalties;
+--+-----------------------------------------
+
+
+● | Mandatory recall or seizure of our products;
+--+---------------------------------------------
+
+
+● | Administrative detention or banning of our products;
+--+-----------------------------------------------------
+
+
+● | Operating restrictions, partial suspension or total shutdown of production;
+--+----------------------------------------------------------------------------
+
+
+● | Refusing our request for 510(k) clearance or pre-market approval of new product versions;
+--+------------------------------------------------------------------------------------------
+
+
+● | Revocation of 510(k) clearance or pre-market approvals previously granted; and
+--+-------------------------------------------------------------------------------
+
+
+● | Criminal penalties.
+--+--------------------
+
+
+
+
+We are subject to unannounced device inspections by the FDA, as well as other regulatory agencies overseeing the implementation of, and compliance with, applicable state public health regulations. These inspections may include our suppliers’ facilities.
+
+
+
+ 22
+
+ 
+
+
+
+U.S. Healthcare Laws and Regulations
+
+
+
+In the United States, there are various healthcare fraud and abuse laws that apply to medical device manufacturers, such as us, with respect to our financial relationships with hospitals, physicians, patients, marketers and sales agents, and other potential purchasers or acquirers of our products or those who are in a position to refer or recommend our products. Federal and state anti-kickback laws prohibit the payment or receipt of kickbacks, bribes or other remuneration intended to induce the purchase or recommendation of healthcare products and services. The U.S. government has published regulations that identify exemptions or “safe harbors,” which describe various payment and business practices that, although they potentially implicate the federal Anti-Kickback Statute, are not treated as offenses under the statute, and thereby, protected from enforcement actions under the federal Anti-Kickback Statute. To qualify, the activity must fit squarely within the safe harbor. Arrangements that do not meet a safe harbor are not necessarily illegal but will be evaluated on a case-by-case basis, and the federal safe harbors may not apply to state anti-kickback laws. Other provisions of state and federal law impose civil and criminal penalties for presenting, or causing to be presented, to third-party payors (including the government) for reimbursement claims that are false or fraudulent, or for items or services that were not provided as claimed. False claims allegations under federal, and some state, laws may be brought on behalf of the government by private persons, or “whistleblowers,” who could then receive a share of any recovery. In addition, the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) imposes criminal and civil liability for executing a scheme to defraud any healthcare benefit program, or knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false statement in connection with the delivery of or payment for healthcare benefits, items or services. The Physician Self-Referral Law, commonly referred to as the Stark law, is a strict liability statute that prohibits physicians from referring patients to receive certain services defined as “designated health services” payable by Medicare or Medicaid from entities with which the physician or an immediate family member has a financial relationship, unless a specific exception applies. Violations of these laws can lead to civil and criminal penalties, including but not limited to punitive sanctions, damage assessments, money penalties, imprisonment, denial of payment, exclusion from participation in federal healthcare programs, or some combination thereof.
+
+
+
+International Regulation
+
+
+
+International sales of medical devices are subject to foreign government regulations, which vary substantially from country to country. The time required to obtain approval by a foreign country may be longer or shorter than that required for FDA approval, and the requirements may differ significantly.
+
+
+
+The European Union has adopted legislation, in the form of directives to be implemented in each member state, concerning the regulation of medical devices within the European Union. The directives include, among others, the Medical Device Directive that establishes standards for regulating the design, manufacture, clinical trials, labeling, and vigilance reporting for medical devices. Our PURE EP system may be affected by this legislation. Under the European Union Medical Device Directive, medical devices are classified into four classes, I, IIa, IIb, and III, with class I being the lowest risk and class III being the highest risk. Under the Medical Device Directive, a competent authority is nominated by the government of each member state to monitor and ensure compliance with the Medical Device Directive. The competent authority of each member state then designates a notified body to oversee the conformity assessment procedures set forth in the Medical Device Directive, whereby manufacturers demonstrate that their devices comply with the requirements of the Medical Device Directive and are entitled to bear the CE mark. CE is an abbreviation for Conformité Européenne (or European Conformity) and the CE mark, when placed on a product, indicates compliance with the requirements of the applicable directive. Medical devices properly bearing the CE mark may be commercially distributed throughout the European Union. Failure to obtain the CE mark will preclude us from selling the PURE EP System and related products in the European Union.
+
+
+
+Employees
+
+
+
+As of March 12, 2021, we had 49 full-time employees. Additionally, we use consultants as needed to perform various specialized services. None of our employees are represented under a collective bargaining agreement.
+
+
+
+
+
+ 23
+
+ 
+
+
+

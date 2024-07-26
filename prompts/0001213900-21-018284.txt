@@ -1,0 +1,410 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.
+Overview
+ 
+Our company is a one-stop e-commerce destination for home furnishings, including appliances, furniture, home goods and related products. Since our founding in 1951, we have evolved from a local brick and mortar operation serving the St. Louis metro area to a large nationwide omnichannel retailer that offers one-stop shopping for the leading brands. While we still maintain our St. Louis showroom, over 95% of our sales are placed through our website at www.goedekers.com. We offer over 141,000 stock-keeping units, or SKUs, organized by category and product features, providing visitors to the site an easy to navigate shopping experience.
+ 
+Through our e-commerce business model, we offer an online marketplace for consumers looking for variety, style, service and value when shopping for nearly any home product needed. We are focused on bringing our customers an experience that is at the forefront of shopping online for the home. We have built a large online selection of appliances, furniture, home goods and related products. We are able to offer this vast selection of products because our model requires minimal inventory in relation to our sales. We specialize in the home category and this has enabled us to build a shopping experience and logistics infrastructure that is tailored to the unique characteristics of our market.
+ 
+Our shopping experience allows for online chat and the ability to speak with an expert by phone seven days a week. We believe that we are a national leader in customer value and price. We enjoy strong relationships with most national and global appliance companies and we believe that we have a technologically advanced online sales and infrastructure platform.
+ 
+The delivery experience and overall customer service that we offer our shoppers are central to our business. We primarily purchase inventory only after a sale has been, which allows us to tightly manage our inventory and warehouse space while still providing customers quick delivery times and control over the entire process. However, we do also make some strategic inventory buys to take advantage of lower costs and to satisfy consumer demand more quickly. Recently, however, because of changes in policies of our manufacturer vendors, we have increased inventory on hand. Despite the recent increase, our inventory levels are relatively low in relation to our sales. About 64% of appliances flow through our warehouse while almost all furniture is drop shipped to the customer. All inventory is managed with a barcode system and is automatically tracked through our Microsoft Dynamics GP ERP system.
+ 
+Corporate History and Structure
+ 
+Acquisition of Goedeker Television
+ 
+Our company was incorporated in the State of Delaware on January 10, 2019 for the sole purpose of acquiring substantially all of the assets of Goedeker Television Co., or Goedeker Television. On April 5, 2019, we acquired substantially all of the assets of Goedeker Television. As a result of this transaction, we acquired the former business of Goedeker Television, which was established in 1951, and continue to operate this business. All discussions in this report regarding our business prior to the acquisition reflect the business of Goedeker Television, our predecessor company. Prior to our acquisition of substantially all of the assets of Goedeker Television, we had no operations other than operations relating to our incorporation and organization.
+Proposed Acquisition of Appliances Connection
+ 
+On October 20, 2020, we entered into a securities purchase agreement, which was amended on December 8, 2020 (we refer to this agreement, as amended, as the purchase agreement), to acquire the following five household appliances companies through our newly formed wholly owned subsidiary Appliances Connection Inc., or ACI: (1) 1 Stop Electronics Center, Inc., a New York corporation, or 1 Stop; (2) Gold Coast Appliances, Inc., a New York corporation; (3) Superior Deals Inc., a New York corporation; (4) Joe’s Appliances LLC, a New York limited liability company; and (5) YF Logistics LLC, a New Jersey limited liability company (we collectively refer to these companies as Appliances Connection). 
+ 
+Headquartered in Brooklyn, New York and founded in 1998, Appliances Connection is one of the leading retailers of household appliances with a 200,000 square foot warehouse in Hamilton, NJ and a 23,000 square foot showroom in Brooklyn, New York. In addition to selling appliances, it also sells furniture, fitness equipment, plumbing fixtures, televisions, outdoor appliances, and patio furniture, as well as commercial appliances for builder and business clients. It also provides appliance installation services and old appliance removal services. Appliances Connection serves retail customers, builders, architects, interior designers, restaurants, schools and other large corporations. It ships to 48 states in the Continental U.S. and offers over 51,000 appliance products, from luxury brands like Viking, Miele, Thermador, Sub-Zero, Wolf, Forte, Ilve, and Bosch, to household favorites like GE, LG, Frigidaire and Whirlpool.
+ 
+1
+
+ 
+
+Pursuant to the purchase agreement, ACI agreed to acquire all of the issued and outstanding capital stock or other equity securities of Appliances Connection from its owners (which we refer to as the sellers) for an aggregate purchase price of $222,000,000, subject to adjustment. The purchase price consists of (i) $180,000,000 in cash, (ii) 1,222,239 shares of our common stock and 1,111,094 shares of our series A preferred stock, collectively having a stated value that is equal to $21,000,000, and (iii) a number of shares of or series A-1 preferred stock that is equal to (A) $21,000,000 divided by (B) the average of the closing price of our shares of common stock (as reported on NYSE American) for the 20 trading days immediately preceding the 3rd trading day prior to the closing date of the acquisition; provided, that if we have obtained stockholder approval prior to closing, then we will issue the same number of shares of common stock in lieu of the series A preferred stock and series A-1 preferred stock. We refer to this proposed acquisition of Appliances Connection in this report as the proposed acquisition.
+ 
+The purchase price is subject to a closing net working capital adjustment provision. Under this provision, the sellers shall deliver to ACI at least one day prior to the closing of the proposed acquisition a statement setting forth their good faith estimate of the net working capital of Appliances Connection. If such estimated net working capital exceeds a target net working capital of ($15,476,941), then within five (5) days ACI shall make a cash payment to the sellers that is equal to such excess. If such target net working capital exceeds such estimated net working capital, then either (i) if finally determined at the closing, the cash portion of the purchase price shall be decreased by such excess or (ii) within 5 days of the closing, the sellers shall make a cash payment to ACI that is equal to such excess.
+ 
+The purchase price is also subject to a post-closing net working capital adjustment provision. On or before the 75th day following the closing of the proposed acquisition, ACI shall deliver to the sellers a statement setting forth its calculation of the net working capital. If such net working capital exceeds the estimated net working capital referred to above, then within five (5) days after the final determination of such net working capital ACI shall send payment by wire transfer of immediately available funds to the sellers in an amount equal to such excess. If the estimated net working capital exceeds such net working capital, then within five (5) days the sellers shall pay to ACI in cash an amount equal to such excess.
+ 
+The cash portion of the purchase price will also be (i) decreased by (A) the amount of any outstanding unpaid indebtedness of Appliances Connection (other than trade debt) existing as of the closing date and (B) any transaction expenses, and (ii) increased by the amount of cash or cash equivalents held by, or on the books of, Appliances Connection as of the closing date, if any, that is in excess of $850,000.
+ 
+Upon execution of the purchase agreement, ACI paid a deposit in the amount of $100,000 and upon execution of the amendment to the purchase agreement, ACI paid an additional deposit in the amount of $75,000, all of which will be credited towards the cash portion of the purchase price at closing.
+ 
+The purchase agreement contains customary representations, warranties and covenants, including a covenant that the sellers will not compete with the business of 1 Stop as of the closing date for a period of two (2) years following closing.
+ 
+The purchase agreement also contains mutual indemnification for breaches of representations or warranties and failure to perform covenants or obligations contained in the purchase agreement. In the case of the indemnification provided by the sellers with respect to breaches of certain non-fundamental representations and warranties, the sellers will only become liable for indemnified losses if the amount exceeds an aggregate of $2,100,000, whereupon the sellers will be liable for all losses relating back to the first dollar, provided that the liability of the sellers for breaches of certain non-fundamental representations and warranties shall not exceed $21,000,000.
+ 
+The closing of the purchase agreement is subject to customary closing conditions, including, without limitation, the expiration or termination of any waiting period applicable to the consummation of the transaction under the Hart-Scott Rodino Antitrust Improvements Act of 1976, as amended; the receipt of all authorizations, consents and approvals of all governmental authorities or agencies; the release of any security interests; ACI obtaining the requisite acquisition financing; and delivery of all opinions and documents required for the transfer of the securities of Appliances Connection to ACI.
+ 
+2
+
+ 
+
+The purchase agreement may be terminated as follows:
+ 
+
+● | by mutual written consent of ACI, our company and the sellers at any time prior to the closing;
+--+------------------------------------------------------------------------------------------------
+
+
+● | by either ACI and our company or the sellers if any governmental entity will have issued an order or taken any other action permanently enjoining, restraining or otherwise prohibiting the transactions contemplated by the purchase agreement;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | by either ACI and our company or the sellers if the closing does not occur on or before May 31, 2021; provided, that the right to terminate shall not be available to any party that has breached in any material respect its obligations under the purchase agreement in any manner that shall have caused the failure of a condition to the consummation of the proposed acquisition;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | by ACI and our company if any seller or Appliances Connection has breached its respective representations and warranties or any covenant or other agreement to be performed by it in a manner such that the closing conditions related to such representations, warranties or covenants of such party would not be satisfied; or
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | by the sellers if ACI or our company has breached its representations and warranties or any covenant or other agreement to be performed by it in a manner such that the closing conditions related to such representations, warranties or covenants of such party would not be satisfied.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In the event that the purchase agreement is terminated in accordance with the circumstances described in the first, second or fourth bullets set forth above, the deposit referred to above shall be returned to ACI with two (2) business days. In the event that the purchase agreement is terminated by the sellers in accordance with the circumstances described in the third or fifth bullets set forth above, the sellers shall retain the deposit.
+ 
+Please also see Item 1A “Risk Factors—Risks Related to Proposed Acquisition” for certain risks related to the proposed acquisition.
+ 
+Industry
+ 
+Certain market and industry data included in this report is derived from information provided by third-party market research firms, third-party financial or analytics firms, or public sources that we believe to be reliable. Certain data are also based on our good faith estimates, which are derived from management’s knowledge of the industry and independent sources. The market data used in this report involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. We have not independently verified any of the data from third-party sources nor have we ascertained the underlying economic assumptions relied upon therein. While we are not aware of any misstatements regarding the industry data presented herein, our estimates involve risks and uncertainties and are subject to change based on various factors, including those discussed under the heading Item 1A “Risk Factors” in this report. Similarly, we believe our internal research is reliable, even though such research has not been verified by any independent sources. These and other factors could cause results to differ materially from those expressed in the estimates made by the independent parties and by us. 
+U.S. Household Appliance Market
+ 
+The U.S. household appliances market in general is highly fragmented with big box retailers, large online retailers, and thousands of local and regional retailers competing for share in what has historically been a high touch sale process with manufacturers’ strict showroom requirements, although the landscape in recent years has been shifting to online sales.
+ 
+3
+
+ 
+
+According to Statista, revenue in the U.S. household appliances market is projected to reach $46.3 billion in 2021 and is expected to grow at an annual growth rate of 1.3% from 2021 to 2025.
+ 
+
+
+Source: Statista (Forecast adjusted for expected impact of COVID-19), February 2021
+ 
+As noted above, the landscape in the U.S. household appliances market has been shifting to online sales. Statista estimates that 42% of total revenue will be generated through online sales in 2021 and that online sales will continue to grow through 2023.
+ 
+
+
+Source: Statista (Forecast adjusted for expected impact of COVID-19), February 2021
+ 
+This shifting landscape to online sales is providing a significant market share capture and positioning opportunity for companies. We are continuing to capitalize on this market shift.
+ 
+According to Statista, revenue in the U.S. household appliances e-commerce segment is projected to reach $21.3 billion in 2021 and is expected to grow at an annual growth rate of 5.2% from 2021 to 2025, resulting in a projected market volume of $26.2 billion by 2025.
+ 
+4
+
+ 
+
+
+
+Source: Statista (Forecast adjusted for expected impact of COVID-19), February 2021
+ 
+Furniture and Homeware Market
+ 
+Although consolidation in the U.S. furniture and homeware market continues to progress, the industry is still relatively fragmented compared to other retail subsectors of similar market value.
+ 
+Revenue in the U.S. furniture market is projected to reach $247.8 billion in 2021 and is expected to grow at an annual growth rate of 2.2% from 2021 to 2025.
+ 
+
+
+Source: Statista (Forecast adjusted for expected impact of COVID-19), February 2021
+ 
+As with the U.S. household appliances market, the landscape in the U.S. furniture and homeware market has been shifting to online sales. Statista estimates that 19% of total revenue will be generated through online sales in 2021.
+ 
+5
+
+ 
+
+
+
+Source: Statista (Forecast adjusted for expected impact of COVID-19), February 2021
+ 
+Much like the U.S. household appliances market, the shifting landscape to online sales in the segment is providing a significant market share capture and positioning opportunity for companies. We are continuing to capitalize on this market shift.
+ 
+According to Statista, revenue in the U.S. furniture and homeware e-commerce segment is projected to reach $55.3 billion in 2021 and is expected to grow at an annual growth rate of 2.6% from 2021 to 2025, resulting in a projected market volume of $61.2 billion by 2025.
+ 
+
+
+Source: Statista (Forecast adjusted for expected impact of COVID-19), February 2021
+ 
+Impact of Coronavirus Pandemic
+ 
+As noted above, the projections for future periods have been adjusted to take into account the anticipated effects of the worldwide coronavirus pandemic. However, given the uncertainty surrounding future events related to the pandemic, those projections may be overstated and should not be given undue weight.
+ 
+At this time, we cannot predict the exact effects of the pandemic. However, we do anticipate that that the shift to online sales will be accelerated, as at least some of the retail stores that have closed during the pandemic and may not re-open.
+ 
+6
+
+ 
+
+Appliances
+ 
+The appliance category is our largest revenue source. We have a long history of selling these products and serving the distinct needs of consumers looking to replace or add to their home appliances. We offer nearly 22,000 appliance SKUs from all mainline original equipment manufacturers, including Bosch, Whirlpool, GE, Maytag, LG, Samsung, Sharp, and Kitchen Aid, among others. We sell all major home appliances, including refrigerators, ranges, ovens, dishwashers, microwaves, freezers, washers and dryers.
+ 
+
+
+Sales of appliances accounted for approximately 72.76% and 80.38% of our revenues for the years ended December 31, 2020 and 2019, respectively.
+ 
+Furniture
+ 
+We began selling furniture online in 2015 and currently offer approximately 63,000 SKUs from 111 furniture vendors. Furniture is the second largest product category. The organization of product by type and characteristics makes for a complete shopping experience in a complicated product category.
+ 
+
+
+Sales of furniture accounted for approximately 21.40% and 14.41% of our revenues for the years ended December 31, 2020 and 2019, respectively.
+ 
+Other Products 
+ 
+We also offer a broad assortment of products in the décor, bed & bath, lighting, outdoor living and electronics categories. While these are not individually high-volume categories, they complement the appliance and furniture categories to produce a one-stop home goods offering for customers.
+ 
+7
+
+ 
+
+
+
+We also offer customers the opportunity to purchase warranties that protect their appliances beyond the manufacturers’ warranty period. These warranties are offered through third party vendors. We remit the cost of the warranty to the warranty company, net of our commission. The warranty company assumes all costs of the warrantied product.
+ 
+Other sales accounted for approximately 5.84% and 5.21% of our revenues for the years ended December 31, 2020 and 2019, respectively.
+ 
+Pricing 
+ 
+We believe that our pricing model creates a competitive advantage as we strive to sell at the lowest possible price in the market. Our team tracks pricing daily on more than 15,000 appliance SKUs, comparing prices with all major resellers. Adjustments are made daily to ensure the success this strategy. Our business model emphasizes value added products up to and including super premium products. As a result, we believe that our average selling price by product category is higher than industry norms.
+ 
+Vendor/Supplier Relationships 
+ 
+We offer more than 240 vendors and over 141,000 SKUs available for purchase through our website. This depth of vendor relationships gives consumers numerous options in all product categories resulting in a true one-stop shopping destination. Our vendors and suppliers are listed in the table below.
+ 
+
+Supplier | Total Purchases (2020) | | Total Purchases (2019) | Percent of Purchases (2020) | | Percent of Purchases (2019) 
+-----------------+------------------------+------------+------------------------+------------------------------+------------+-----------------------------
+Whirlpool | $ | 16,254,839 | | $ | 17,337,900 | | 38.0 | % | 44.1 | %
+General Electric | | 5,247,570 | | | 2,528,000 | | 12.3 | % | 6.4 | %
+Bosch | | 3,968,028 | | | 2,479,800 | | 9.4 | % | 6.3 | %
+Electrolux | | 2,412,048 | | | 2,081,600 | | 5.6 | % | 5.3 | %
+LG | | 2,497,333 | | | 1,980,200 | | 5.8 | % | 5.0 | %
+Samsung | | 2,070,958 | | | 1,481,400 | | 4.8 | % | 3.8 | %
+
+ 
+We are substantially dependent on Whirlpool for a large portion of our product purchases. Products are purchased from all suppliers, including Whirlpool, on an at-will basis. We have no long-term purchase agreements with Whirlpool or any other supplier. Relationships with suppliers are subject to change from time to time. Changes in our relationships with suppliers occur periodically and could positively or negatively impact our net sales and operating profits. We believe that we can be successful in mitigating negative effects resulting from unfavorable changes in the relationships with suppliers through, among other things, the development of new or expanded supplier relationships. Please see Item 1A “Risk Factors” for a description of the risks related to our supplier relationships, including our dependence on Whirlpool.
+ 
+8
+
+ 
+
+Marketing
+ 
+We market our products through a variety of methods, including through paid shopping and paid searches, display marketing, affiliate marketing, organic marketing, paid social media marketing and email marketing. The diagram below sets forth some of our key marketing statistics for 2020.
+ 
+
+
+This chart shows results from our marketing efforts. The revenue shown exceeds total revenue as a customer may visit the site more than once before making a purchase, causing revenue attribution in multiple channels.
+ 
+Paid Shopping and Paid Search
+ 
+Our most effective channel is paid shopping and paid search. We utilize multiple search platforms (primarily Google) to put our products in front of consumers that are searching for products online. We have engaged a “best in class” agency and continually monitor and optimize campaigns in order to create more efficient and profitable campaign results. We specialize in a “bottom of the funnel” approach, meaning our campaigns are designed to spend more liberally with those at the end of the purchase cycle, and more conservatively with those in the beginning of the purchase journey.
+Display Marketing
+ 
+The majority of our display efforts are in the form of remarketing across the Google ad network. At this time, we are not focused on major branding efforts as much as we are on capitalizing on consumers who have begun their buying journey. With high average order values, we find that remarketing works effectively at bringing consumers back on the website or the phone to place an order.
+Affiliate Marketing
+ 
+Keeping a keen eye on nexus laws, we have scaled back our affiliate marketing in order to protect the interests of our company. We have found that the administrative burden and tax impact or revenue generated by many of the affiliates outweighed the benefits. As of the date of this report, we have only one affiliate marketing relationship remaining with 169 affiliate partners.
+Organic Marketing
+ 
+Organic marketing continues to be a strong channel for our company. While we are not heavily invested in organic at this time, the channel resulted in approximately 1.1 million users coming to our website in 2020. We understand best practices in technology, programming, copywriting, link acquisition as well as many other strategies to ensure we are in a strong position with the largest search engines.
+ 
+9
+
+ 
+
+Paid Social Media
+ 
+Social media is utilized sparingly to drive traffic and manage brand perception. It is our goal to not look irrelevant to consumers viewing us on social media, while at the same time minimizing spending on these channels. We have found awareness campaigns on social media to be ineffective with products at our price point. We do take advantage of the remarketing opportunities on Facebook, which work well for us by driving highly qualified traffic back to our website where that traffic is converted to customers.
+Email
+ 
+Using email marketing, we put relevant products and offers in front our of a growing email database of approximately 259,000 opted-in consumers multiple times per week. Our marketing team produces email content by utilizing in-house design, copy and programming resources. Messages are sent using an enterprise-level email service provider and metrics such as deliverability, open rates and click rates are constantly monitored. Messages are targeted to individuals based on numerous factors including what time they are most likely to read emails, past purchase behavior and frequency of interaction.
+ 
+Additionally, we utilize a multitude of triggered email programs, such as cart and browse abandonment, to entice customers back into the funnel. We continue to pursue best practices such as offer modals and scraping the checkout in order to facilitate continued list growth. Below is a diagram representing key performance metrics for the period from July to December 2020.
+ 
+
+Customers and Markets
+ 
+Based on a study that we commissioned in 2019, our average shopper is between 35 and 64 years old and lives in a single-family home, which they own. Most of our customers are not reluctant to buy at a premium price for top quality as long as we and our products provide good value. Our most popular brands tend to be middle to upper market brands that are not found in the stores of many large retailers. A significant percentage of our customers have household income above $100,000.
+ 
+10
+
+ 
+
+Our physical store presence and warehouse is located in St Louis, Missouri, and third-party distribution, delivery and installation agreements allow us to serve, sell and ship to customers nationwide. We plan to expand our agreements directly with manufacturers to pick up and deliver from their warehouse to reach more customers, more quickly at reduced costs. In fact, while we started many years ago as a brick and mortar only business, about 78% of our sales originate from outside the Midwest market. The diagram below represents our sales by region for 2020:
+ 
+
+
+
+Customer Support
+ 
+Our customer support team exists to sell and service customers at all parts of the buying and ownership cycle. We believe that by integrating phone support with marketing efforts, we differentiate ourselves from big box and independent retailers. Leading edge contact center technology and management is in early stage deployment and promises to increase sales close rates, decrease cancellations, increase average ticket size and create customers that purchase within the next twelve months. Current repeat purchasing is roughly 11% within a year, which demonstrates a reasonable satisfaction with the current model. We have a customer service team of 29 members and call center sales team of 22 members.
+ 
+Our call center is now available to field inbound customer calls from 8:00 am to 6:00 pm CT, Monday through Saturday and Sunday from 12:00pm to 6:00 pm CT. Approximately 36% of all sales involve an order that was placed with a sales representative. This percentage should increase in 2021 as chat becomes a more deployed resource for our shoppers and customers.
+ 
+Logistics
+ 
+Purchasing and Inventory Management 
+ 
+We primarily purchase inventory only after a sale has been made through our website, which allows us to tightly manage our inventory and warehouse space while still providing customers quick delivery times and control over the entire process. However, we do also make some strategic inventory buys to take advantage of lower costs and to satisfy consumer demand more quickly. About 64% of appliances flow through our warehouse while almost all furniture is drop shipped to the customer. All inventory is managed with a barcode system and is automatically tracked through our Microsoft Dynamics GP ERP system. As described above, initiatives are underway that will allow us to pick up products closer and more quickly directly from our manufacturers’ warehouses.
+Shipping and Delivery
+ 
+We take ownership of inventory when it is delivered to our warehouse. At this point, warehouse staff unloads the product, determines the delivery location, picks a carrier and ultimately ships the product. We primarily use R+L Carriers for most of our larger shipping services. We also use AM Home Delivery for furniture deliveries. If a customer is outside of their service zones or requires faster delivery times, we will use one of our three or four specialty carriers to get the job done.
+Returns and Exchanges 
+ 
+Our return and exchange policy is designed to be as worry-free and customer-friendly as possible. We offer a 30-day money back, 100% satisfaction guarantee. If a customer is not satisfied with his or her order, we will exchange or refund the full purchase price, minus all shipping costs, within 30 days of delivery. We do not charge a restocking fee when items are returned or exchanged, which we believe differentiates us from other retailers. We will not take returns of, or exchange, products that are damaged, installed, assembled, or used after the customer has taken delivery.
+ 
+11
+
+ 
+
+Competition
+ 
+We compete with big box retailers, independent appliance and furniture retailers, hybrid retail and direct-to-consumer companies and web only companies. As a hybrid retail and direct-to-consumer company, we have the ability to navigate the competitive offerings of each competitor, utilizing online marketing, our customer service expertise and large curated assortments to attract and retain new customers.
+Appliances
+ 
+The U.S. appliance market in general is highly fragmented with thousands of local and regional retailers competing for share. Our primary competitors in the appliance market include:
+
+● | Big Box Retailers: Home Depot, Lowe’s, Best Buy and Walmart;
+--+-------------------------------------------------------------
+
+
+● | Online Retailers and Marketplaces: Amazon and Wayfair; and
+--+-----------------------------------------------------------
+
+
+● | Specialty Retailers: AJ Madison, Appliances Connection and US Appliance.
+--+-------------------------------------------------------------------------
+
+ 
+The shifting landscape to online sales in the segment is providing a significant market share capture and positioning opportunity for companies. We are continuing to capitalize on this market shift.
+ 
+Furniture and Homewares
+ 
+Although consolidation in the U.S. furniture and homeware market continues to progress, the industry is still relatively fragmented compared to other retail subsectors of similar market value. Our main competitors in the furniture and homewares market include:
+
+● | Furniture Stores: Ashley Furniture, Bob’s Discount Furniture, Havertys and Rooms To Go;
+--+----------------------------------------------------------------------------------------
+
+
+● | Big Box Retailers: Bed Bath & Beyond, IKEA, Target and Walmart;
+--+----------------------------------------------------------------
+
+
+● | Department Stores: JCPenney and Macy’s;
+--+----------------------------------------
+
+
+● | Specialty Retailers: Crate and Barrel and Ethan Allen; and
+--+-----------------------------------------------------------
+
+
+● | Online Retailers and Marketplaces: Amazon, Wayfair and eBay.
+--+-------------------------------------------------------------
+
+ 
+Much like the appliance market, the shifting landscape to online sales in the segment is providing a significant market share capture and positioning opportunity for companies. We are continuing to capitalize on this market shift. We believe there may be opportunities for nationally distributed niche products, like sleeper sofas, where we could benefit from not inventorying product but marketing and then ordering on demand after payment. Similar opportunities are even more broadly available in the appliance market.
+ 
+Competitive Strengths
+ 
+Based on management’s belief and experience in the industry, we believe that the following competitive strengths enable us to compete effectively.
+ 
+
+● | Name and reputation. We believe that we enjoy a long-standing (50+ years) reputation with vendors and customers for our focus on offering a full line of appliances and other home furnishings with competitive pricing and superior customer service.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Strong customer relationships. We focus on the committed shopper who is interested in purchasing core, premium and luxury appliances, furniture and other home goods at market competitive prices.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Highly trained and professional staff. We believe that our personnel are our most important asset. We have an internal sales support team of 22 personnel who are trained to educate and support customers when selecting and buying products. Approximately 36% of customer orders consist of a phone conversation with a sales team member, which becomes a differentiator when competing with online only companies and with brick and with mortar outlets.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Product pricing. We believe that our pricing model creates a competitive advantage as we strive to sell at the lowest allowed price in the market. Our team tracks pricing daily on more than 15,000 appliance SKUs, comparing prices with all major resellers. Adjustments are made daily to ensure this strategy.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Online sales expertise. We believe that our ability to transact online, big ticket, home delivery gives us strategic positioning and capability to sell more products to our current customer base, as well as to add new big ticket product categories.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Best in class customer service and marketing technology. We believe that the investments we have made in our call center tools and the latest version of our shopping platform, combined with digital marketing optimization, should put us in position to offer a scalable, repeatable quality process that is second to none in the retail appliance industry.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+12
+
+ 
+
+Growth Strategies
+ 
+We will strive to grow our business by pursuing the following growth strategies.
+ 
+
+● | Significantly increase marketing spend. We plan to partner with nationally accredited advertising and marketing agencies to more efficiently utilize our advertising dollars and to increase sales through our website and our call center.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand in the commercial market. To date, we have directed all marketing efforts toward the consumer. With remodels and new home construction, there is opportunity to market to home builders, contractors and interior designers who are making or influencing the purchasing decision for many consumers. We believe that our low price business model would be received well by this market, creating substantial revenue opportunities and more repeat business. Evidence of unmet demand and market need is ongoing with large commercial sales occurring organically each week through our web site and contact center.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand category management. We have expanded from online appliances to furniture and other categories while maintaining management headcount. Management feels that committing dedicated resources to each category and building them out in business unit fashion will not only drive revenue but increase and improve margins.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Warehouse and shipping optimization. We plan to implement a series of initiatives with key vendors to increase shipping speed to customers, cut costs and increase margins. We plan to pick up product from manufacturers’ warehouses and selectively use inventory buys to reduce costs. With access to vendor warehouse operations, we expect to take advantage of buying opportunities and capture time-sensitive customers more frequently.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Ride the wave of online retail. Big ticket online retail continues to grow significantly as product offerings and shopping experiences online and on the phone become superior and preferred to most brick and mortar shopping. We are making key investments in people, processes and systems that we believe will grow our customer base. We believe that we are well positioned to benefit from the growth in online retail.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Intellectual Property
+ 
+We own several domain names, including for our www.goedekers.com website. The agreements with our suppliers generally provide us with a limited, non-exclusive license to use the supplier’s trademarks, service marks and trade names for the sole purpose of promoting and selling their products.
+ 
+To protect our intellectual property, we rely on a combination of laws and regulations, as well as contractual restrictions. We rely on the protection of laws regarding unregistered copyrights for certain content we create. We also rely on trade secret laws to protect our proprietary technology and other intellectual property. To further protect our intellectual property, we enter into confidentiality agreements with our executive officers and directors.
+ 
+Employees
+ 
+As of December 31, 2020, we employed 102 full-time employees.
+ 
+
+Department/Function | Employees
+-----------------------+----------
+Accounting/Finance | 13 
+Sales and Marketing | 23 
+Customer Service | 29 
+Information Technology | 8 
+Merchandising | 11 
+Purchasing | 4 
+Warehouse | 6 
+Administrative | 8 
+TOTALS | 102 
+
+ 
+None of our employees are represented by labor unions, and we believe that we have an excellent relationship with our employees.
+ 
+13
+
+ 
+
+Regulation
+ 
+Our business is subject a variety of laws and regulations applicable to companies conducting business on the Internet. Jurisdictions vary as to how, or whether, existing laws governing areas such as personal privacy and data security, consumer protection or sales and other taxes, among other areas, apply to the Internet and e-commerce, and these laws are continually evolving. For example, certain applicable privacy laws and regulations require us to provide customers with our policies on sharing information with third parties, and advance notice of any changes to these policies. Related laws may govern the manner in which we store or transfer sensitive information or impose obligations on us in the event of a security breach or inadvertent disclosure of such information. Additionally, tax regulations in jurisdictions where we do not currently collect state or local taxes may subject us to the obligation to collect and remit such taxes, or to additional taxes, or to requirements intended to assist jurisdictions with their tax collection efforts. New legislation or regulation, the application of laws from jurisdictions whose laws do not currently apply to our business, or the application of existing laws and regulations to the Internet and e-commerce generally could result in significant additional taxes on our business. Further, we could be subject to fines or other payments for any past failures to comply with these requirements. The continued growth and demand for e-commerce is likely to result in more laws and regulations that impose additional compliance burdens on e-commerce companies.

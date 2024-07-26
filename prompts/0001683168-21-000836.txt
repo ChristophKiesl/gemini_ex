@@ -1,0 +1,106 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.     Description of Business.
+Our Corporate Information
+ 
+We were organized in Texas in September 1983 and reincorporated in Delaware in October 1995. Our principal executive offices are located at 101 East Park Boulevard, Suite 1300, Plano, Texas 75074, and our telephone number is (972) 234-6400. Our website URL is www.intrusion.com. References to the “Company”, “we”, “us”, “our”, “Intrusion” or “Intrusion Inc.” refer to Intrusion Inc. and its subsidiaries. TraceCop and Savant are trademarks of Intrusion Inc..
+ 
+Our Business
+ 
+We develop, sell and support products that protect any-sized company or government organization by fusing advanced threat intelligence with real-time artificial intelligence to neutralize cyberattacks as they occur – including Zero-Day attacks. We market and distribute our solutions through a direct sales force and value-added resellers. Our end-user customers include U.S. federal government entities, state and local government entities, and companies ranging in size from mid-market to large enterprises.
+Our Solutions
+ 
+INTRUSION Shield tm
+ 
+INTRUSION Shield, our cornerstone cybersecurity solution is a comprehensive, real-time AI-based Security-as-a-Service that inspects and kills all dangerous network connections before they can do damage. What makes our approach unique is that it inspects every packet of inbound and outbound traffic and analyzes the reputation of the IP addresses (source and destination), the domain and ports it is communicating on, along with many other fields in the packet to neutralize malicious connections.
+ 
+Most breaches today are caused by malware free compromises that trigger no alarms in a firewall or endpoint solution. The common denominator is network , which Shield monitors and analyses, allowing Shield to identify and stop all attacks, even malware-free attacks. Shield’s capabilities continuously evolve based on constant machine learning and neural networking technology. Unlike traditional industry approaches that rely heavily on human mitigation and defensive approaches, which malicious actors and nation states have learned to bypass. Shield’s proprietary architecture isolates and neutralizes malicious traffic and network flows that existing solutions cannot identify before they harm a corporation or government organization.
+ 
+Shield is designed as a next generation Network Detection and Response solution. After 30 years of providing research, analysis, tools and services to the federal government and enterprise corporations, Intrusion possesses a comprehensive and proprietary data set of petabytes of Internet traffic, including information about the activities of malicious online actors. Shield integrates this rich TraceCop data set with artificial intelligence (AI) and Savant real-time process flow technology to provide our customers with a unique and affordable tool to detect, identify, and neutralize cyberattacks. In particular, the Shield AI has been specifically trained to identify and stop Zero-Day attacks and ransomware, the most prolific and crippling forms of malware today.
+ 
+
+
+
+1
+-
+
+INTRUSION TraceCop TM
+ 
+INTRUSION TraceCop is our big data tool with extensive IP intelligence canvassing the entire Internet. It contains largest repository of reputation information on known good and known bad active IP addresses (both IPv4 and IPv6). TraceCop contains an inventory of network selectors and enrichments useful to support forensic investigations.  The data contains a history of IPv4 and IPv6 block allocations and transfers, historical mappings of IP addresses to Autonomous Systems (ASNs) as observed through BGP, and approximately one billion historically registered domain names and registration context. TraceCop contains tens of billions of historic DNS resolutions of Fully Qualified Domain Names (FQDNs or hostnames) on each of these domains. Together, this shows relationships, hosting, and attribution for Internet resources. TraceCop also contains web server content surveys of content, such as natural language and topic of the content on hundreds of millions of websites and servers and OS fingerprints of services showing applications running on an IP. This context allows Shield to assess the use and purpose of an Internet resource. TraceCop also contains a history of threat and reputation for each hostname and IP address over time. All this makes it a very effective network forensics and cybersecurity analysis tool to inform Shield.
+INTRUSION Savant TM
+ 
+INTRUSION Savant is a network monitoring solution that leverages the rich data available in TraceCop to identify suspicious traffic in real-time. Savant uses several original patents to uniquely characterize and record all network flows. Savant is a network reconnaissance and attack analysis tool used by forensic analysts in the DoD, Federal Government and corporations with in-house threat research teams. For example, Savant users can create various automated rules to inspect packets matching (or not) certain criteria such as creating a rule to ensure the Source MAC address field in the Ethernet header and Source IP address from the IP header are always the same, failing which could indicate MAC or IP Spoofing in progress. Similarly, threat investigators can create rules using regular expressions by combining multiple fields in the packet headers. Ultimately, the rich capabilities of Savant provides the real-time analysis that Shield uses to make decisions on whether or not a packet is malicious.
+ 
+Our Intellectual Property and Licenses
+ 
+Our success and our ability to compete are dependent, in part, upon our proprietary technology. We principally rely on a combination of contractual rights, trade secrets and copyright laws to establish and protect our proprietary rights in our solutions. In addition, we have received two patents, and we are in the process of applying for patents for our Shield family of solutions. We have also entered into non-disclosure agreements with our suppliers, resellers, and certain customers to limit access to and disclosure of proprietary information. There can be no assurance that the steps taken by us to protect our intellectual property will be adequate to prevent misappropriation of our technology or that our competitors will not independently develop technologies that are substantially equivalent or superior to our technology, although it would be extremely difficult to replicate the proprietary and comprehensive internet databases we have developed over the past 24 years.
+ 
+We have entered into software and solution license agreements with various suppliers. These license agreements provide us with additional software and hardware components that add value to our cybersecurity solutions. These license agreements do not provide proprietary rights that are unique or exclusive to us and are generally available to other parties on the same or similar terms and conditions, subject to payment of applicable license fees and royalties. We do not consider any of the solution license, software or supplier agreements to be material to our business, but rather complementary to our business and offerings.
+ 
+Our Competition
+ 
+The market for network and data protection security solutions is intensely competitive and subject to frequent introductions of new technologies, and potentially improved price and performance characteristics. Industry suppliers compete in areas such as conformity to existing and emerging industry standards, interoperability with networking and other cybersecurity solutions, management and security capabilities, performance, price, ease of use, scalability, reliability, flexibility, features and technical support. The market for identity identification and data mining is highly fragmented and thus allows more opportunities for companies to compete.
+
+2
+-
+
+ 
+
+There are numerous companies competing in various segments of the data security markets. At this time, we have little or no competitors for TraceCop; however, we expect competitors could emerge in the future. These competitors currently perform only a portion of the functions that we are able to perform with TraceCop. We have been continuously collecting the TraceCop data for more than twenty years, and we believe that none of our current or future competitors will have the ability to provide and reference this extremely valuable historical data. In our newest market segment, data mining and advanced persistent threat detection, we compete with several companies including Niksun, NetScout, FireEye, and Darktrace.
+ 
+We expect that our Shield solution, as well as the complementary offerings in the Shield family, will be novel and unique in our industry because of its plug-n-play installation, proprietary threat-enriched big data cloud, real-time AI and monthly contract, will complement our customer’s existing cybersecurity processes and third-party solutions. When Shield receives widespread acceptance in our market, we anticipate that other businesses will seek to compete with Shield; however, we believe our existing, mature, and proprietary database which are integral to the operation of Shield will be difficult, if not impossible, for other companies in our industry to replicate and will be a significant barrier to entry of competitors in the near- and long-term future of cyber security solutions.
+ 
+Our Customers: Government Sales
+ 
+Sales to U.S. government customers accounted for 86.3% of our revenues for the year ended December 31, 2020, compared to 87.4% of our revenue in 2019. Adverse effects from the proliferation of the COVID-19 virus have resulted in decreased demand by some of our customers for our current product offerings and cybersecurity solutions, negatively affecting our 2020 revenue levels. We expect to continue to derive a substantial portion of our revenues from sales to governmental entities in the future as we continue to market our entity identification products and data mining products to the government. Sales to the government present risks in addition to those involved in sales to commercial customers that could adversely affect our revenues, including potential disruption due to irregularities in or interruptions to appropriation and spending patterns, delays in approving a federal budget and the government’s reservation of the right to cancel contracts and purchase orders for its convenience.
+ 
+Generally, we make our sales under purchase orders and contracts. Our customers, including government customers, may cancel their orders or contracts with little or no prior notice and without penalty. Although we transact business with various government entities, we believe that the cancellation of any particular order in itself could have a material adverse effect on our financial results. Because we derive and expect to continue to derive a substantial portion of our revenue from sales to government entities, a large number of cancelled or renegotiated government orders or contracts could have a material adverse effect on our financial results. Currently, we are not aware of any proposed cancellation or renegotiation of any of our existing arrangements with government entities.
+ 
+Third-Party Products
+ 
+We currently resell standard commercially available computers and servers from various vendors which we integrate with our different software products for implementation into our customer networks. We do not consider any of these third party relationships to be material to the Company’s business or results of operations.
+ 
+Customer Services
+ 
+Our solution sales may include installation and threat data interpretation.
+ 
+Manufacturing and Supplies
+ 
+Our internal manufacturing operations consist primarily of software, packaging, testing and quality control of finished units. The hardware we sell are standard off-the-shelf solutions.
+ 
+
+
+
+3
+-
+
+Sales, Marketing and Customers
+ 
+Field Sales Force. Our direct sales organization focuses on major account sales, channel partners including distributors, value added resellers (VARs) and integrators; promotes our solutions to current and potential customers; and monitors evolving customer requirements. The field sales and technical support force provides training and technical support to our resellers and end users and assists our customers in designing cyber secure data networking solutions. We currently conduct sales and marketing efforts from our principal office in Plano (Dallas), Texas. In addition, we have sales personnel, sales engineers or sales representatives located in several other states.
+Resellers. Resellers such as domestic and international system integrators and VARs sell our solutions as stand-alone solutions to end users and integrate our solutions with products sold by other vendors into network security systems that are sold to end users. Our field sales force and technical support organization provide support to these resellers. Our agreements with resellers are non- exclusive, and our resellers generally sell other products and solutions that may compete with our solutions. Resellers may place higher priority on products or solutions of other suppliers who are larger and have more name recognition, and there can be no assurance that resellers will continue to sell and support our solutions.
+Foreign Sales. Export sales did not account for any revenue in 2020 and 2019.
+ 
+Marketing. We have implemented several methods to market our solutions, including participation in trade shows and seminars, distribution of sales literature and solution specifications and ongoing communication with our resellers and installed base of end-user customers.
+Customers. Our end-user customers include U.S. federal government, state and local government entities, large and diversified conglomerates and manufacturing entities. Sales to certain customers and groups of customers can be impacted by seasonal capital expenditure approval cycles, and sales to customers within certain geographic regions can be subject to seasonal fluctuations in demand.
+ 
+In 2020, 86.3 % of our revenue was derived from a variety of U.S. government entities through direct sales and indirectly through system integrators and resellers. These sales are attributable to five U.S. Government customers through direct and indirect channels; three exceeded 10% of total revenue individually in 2020. Comparatively, sales to the U.S. Government through direct and indirect channels totaled 87.4% of total revenues for 2019. Those sales were attributable to ten U.S. Government customers through direct and indirect channels; three exceeded 10% of total revenue individually in 2019. A reduction in our sales to U.S. government entities could have a material adverse effect on our business and operating results if not replaced.
+ 
+Backlog. We believe that only a small portion of our order backlog is non-cancelable, and that the dollar amount associated with the non-cancelable portion is immaterial. We purchase, or contract for the purchase of, our inventory based upon our forecast of customer demand, and we maintain inventories in advance of receiving firm orders from customers. Commercial orders are generally fulfilled within two days to two weeks following receipt of an order. Certain orders may be scheduled over several months, generally not exceeding one year.
+Customer Support, Service and Warranty. We service, repair, and provide technical support for our solutions. Our field sales and technical support force works closely with resellers and end-user customers on-site and by telephone to assist with pre- and post- sales support services such as network security design, system installation and technical consulting. By working closely with our customers, our employees increase their understanding of end-user requirements and are then able to provide specific input in our solution development process.
+ 
+We warrant all of our solutions against defects in materials and workmanship for periods ranging from 90 days to 36 months. Before and after expiration of the solution warranty period, we offer both on-site and factory-based support, parts replacement, and repair services. Extended warranty services are separately invoiced on a time and materials basis or under an annual maintenance contract.
+ 
+
+
+
+4
+-
+
+Employees
+ 
+As of December 31, 2020, we employed a total of 63 full time persons, including 23 in sales, marketing and technical support, 32 in research, development, analysis and engineering, and 8 in administration and finance.
+ 
+None of our employees are represented by a labor organization, and we are not a party to any collective bargaining agreement. We have not experienced any work stoppages and consider our relations with our employees to be good.
+ 
+Competition in the recruiting of personnel in the networking and data security industry is intense. We believe that our future success will depend in part on our continued ability to hire, motivate and retain qualified management, sales, marketing, and technical personnel. To date, we have not experienced significant difficulties in attracting or retaining qualified employees.
+ 

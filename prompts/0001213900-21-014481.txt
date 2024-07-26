@@ -1,0 +1,222 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+ 
+We develop advanced optical sensing solutions for contactless touch, touch, gesture sensing, and in-cabin monitoring. We market and sell our contactless touch, touch, and gesture sensing products and solutions using our zForce technology platform, and our in-cabin monitoring solutions using our MultiSensing technology platform.
+ 
+In 2010, we began licensing to Original Equipment Manufacturers (“OEMs”) and Tier 1 suppliers who embed our technology into products they develop, manufacture and sell. Since 2010, our licensing customers have sold approximately 79 million devices that use our technology. In October 2017, we augmented our licensing business and began manufacturing and shipping sensor modules that incorporate our technology. We sell these embedded sensors modules to OEMs, Original Design Manufacturers (“ODMs”) and Tier 1 suppliers for use in their products.
+ 
+To reduce time to market, we started selling AirBar in the fourth quarter of 2016, a Neonode branded consumer product, which incorporates one of our sensor modules to enable laptop touchscreen functionalities, through distributors and directly to consumers. We have no current plans to develop new Neonode branded products for the consumer markets.
+ 
+Since the beginning of 2020 we manage our sales and business development work through three separate business areas, HMI Solutions, HMI Products, and Remote Sensing Solutions. They offer products and solutions to customers in different market segments using different business models as described below. “HMI” stands for Human Machine Interaction. 
+
+HMI Solutions
+ 
+This business area offers bespoke touch and gesture sensing solutions that we develop together with our customers based on our patented, infrared (“IR”)-based zForce technology. The revenues from this business area come from sales of prototypes, non-recurring engineering services, and technology licenses. Some revenues also come from support services under separate agreements with licensing customers.
+ 
+Our licensing customers may use our Application Specific Integrated Circuit (“ASIC”) controllers, which are designed specifically for our optical sensing technology. These ASICs are developed together with and sold by Texas Instruments and ST Microelectronics, respectively, under special agreements.
+ 
+Until 2019, our main focus was developing touch solutions for and licensing the zForce technology to e-Reader manufacturers, printer manufacturers, and Automotive OEMs and Tier 1 system suppliers. During 2020, we have changed this and are now focusing mainly on customers in the Military & Avionics and Industrial segments where we think we can better leverage our advanced zForce technology and our knowhow to grow our business and increase our profitability.
+ 
+As of December 31, 2020, we have entered into forty-two technology license agreements with global OEMs, ODMs and Tier 1 suppliers and our licensing customers have to date sold more than 79 million systems and products that use our licensed technology. Fourteen of our licensing customers are currently shipping products that embed our technology.
+ 
+1
+
+ 
+
+HMI Products
+ 
+This business unit designs, manufactures and sells our standardized Touch Sensor Modules (“TSM”) that can be used to create contactless touch interfaces to elevator control panels, keypads, displays, and other human-machine interfaces as well as to create touch and gesture sensing features for various application areas. We sell our TSM through a combination of direct sales with our own salespersons and indirect sales using distributors, value-added resellers, and other types of partners. We also sell our Neonode branded AirBar product, which incorporates our sensor module to enable laptop touchscreen functionalities through distributors.
+ 
+Our HMI Products business areas mainly targets customers in the Elevator and Interactive Kiosk segments, but we also sell the TSMs to customers in other segments.
+ 
+Remote Sensing Solutions
+ 
+This business area, which was just established in 2020, offers driver and in-cabin monitoring solutions based on our software platform MultiSensing to Automotive OEMs and Tier 1 system suppliers, which we address directly with our own salespersons and indirectly with sales representatives. In the future we may also have indirect sales through partners.
+ 
+This business unit did not generate any revenues for 2020, but similar to our HMI Solutions business area, we expect the revenues from this business area will come from sales of prototypes, non-recurring engineering services, and technology licenses. Some revenues may also come from support services under separate agreements with licensing customers.
+ 
+Our Organization
+ 
+Neonode Inc. was incorporated in the State of Delaware on September 4, 1997. Our principal executive office is located in Stockholm, Sweden. Our office in the United States is located in San Jose, California.
+ 
+We have the following wholly owned subsidiaries: Neonode Technologies AB (Sweden) (established in 2008 to develop and license touchscreen technology); Neonode Japan Inc., (Japan) (established in 2013); Neonode Korea Ltd. (South Korea) (established in 2014); and Neonode Taiwan Ltd (Taiwan) (established in 2015). In 2015, we established a 51% majority owned consolidated subsidiary, Pronode Technologies AB (Sweden). In 2016, we entered into a joint venture, Neoeye AB (Sweden), which we sold in November 2020.
+ 
+Strategy and Focus Areas
+ 
+Our customers use contactless touch, touch on surface, gesture sensing, and remote sensing technologies to grow their businesses, drive efficiencies, and seek competitive advantages. Our strategy is to deliver value-adding HMI and remote sensing solutions and products that enable our customers to achieve these targets. Our strategy is further to offer specialized engineering services related to the integration of our solutions and products into customer systems and products to ensure that optimal functionality and performance is achieved.
+ 
+Our goal is to become a market leader in the area of contactless touch interfaces, expanding our touch sensor module (“TSM”) sales in markets where our contactless touch technology provides end-customer value and increased competitiveness for our customers, value-added resellers, and partners, while continuing to be a leader in optical touch and gesture sensing technology by licensing customized solutions. We also aim to capture a share of the growing driver and in-cabin monitoring market by developing our remote sensing business. We are innovators in the HMI and in-cabin monitoring spaces and our goal is to introduce next-generation products in these areas that offer better price and performance and architectural advantages compared to our current offers and those of our competitors. We intend to execute on this strategy through portfolio transformation, internal innovation, and co-development of products with our customers and the building of strategic partnerships.  
+ 
+Markets
+ 
+Automotive
+ 
+The Automotive value chain consists of OEMs (vehicle manufacturers) and tiered suppliers (Tier 1 system suppliers, Tier 2 component suppliers, etc.). In this market, we mainly act as a Tier 2 technology provider to Tier 1 suppliers who license our technology and deliver different kinds of systems to OEMs, such as infotainment system displays featuring our touch technology. In some cases, we are also engaged directly with OEMs, following the trend that OEMs are insourcing more and more of their systems and software development.
+ 
+During 2020, our customers shipped approximately 0.8 million products compared to approximately 0.9 million in 2019.
+ 
+Printers and Office Equipment
+ 
+Multi-function printers typically feature touch displays for user interaction with feature-rich menus and settings. We have operational license agreements with three of the leading global printers and office equipment OEMs. During 2020 our customers shipped approximately four million printers using our touch technology and since mid-2014 they have shipped approximately 42 million printers using our touch technology. 
+
+2
+
+ 
+
+Military & Avionics
+ 
+Mechanical switches and buttons and older types of touch displays in airplane cockpits are increasingly being replaced with larger touch displays with higher performance capabilities. Our zForce technology has demonstrable advantages for these type of applications, as it provides low latency, superior image clarity, can be operated by pilots wearing gloves, has excellent electro-magnetic interference and electro-magnetic compatibility properties, and works well with night vision systems.
+Industrial
+ 
+We see interesting opportunities for our optical touch and gesture control solutions in the rugged industrial touchscreen market. We also see potential demand for our remote sensing solutions in industrial settings. 
+Elevators and Interactive Kiosks
+ 
+The COVID-19 pandemic has created strong consumer demand for technologies that eliminate direct physical contact between users and different types of machines and systems in public environment such as self-service kiosks, vending machines, and elevators. Using our TSMs, OEMs can easily create safe, intuitive, and easy-to-use contactless touch interfaces for their elevator and kiosk products. Our TSMs are also very suitable for retrofit applications and many of our OEM customers, value-added resellers, and partners have or are developing such solutions and marketing and selling them in their respective markets. We have a strong and increasing demands for our TSMs from customers in these markets and expect to grow this business significantly in the coming years.
+Product Backlog
+ 
+Our TSM product backlog on December 31, 2020 was approximately $274,000. The product backlog includes orders confirmed for products planned to be shipped within five months to seven customers. Our cycle time between order and shipment is generally short and customers occasionally change delivery schedules. Additionally, orders can be cancelled without significant penalties. As a result of these factors, we do not believe that our product backlog, as of any particular date, is necessarily indicative of actual product revenue for any future period.
+Customers
+ 
+As of both December 31, 2020 and 2019, we have entered into 42 technology license agreements. Fourteen of our licensing customers are currently shipping products that embed our touch and gesture technology. The products related to these license agreements include e-readers, tablets, commercial and consumer printers, Automotive infotainment system displays, and global positioning system (GPS) devices.  
+ 
+Our customers are primarily located in North America, Europe and Asia.
+ 
+As of December 31, 2020, four of our customers represented approximately 62% of our consolidated accounts receivable and unbilled revenues.
+ 
+As of December 31, 2019, three of our customers represented approximately 72% of our consolidated accounts receivable and unbilled revenues.
+ 
+Customers who accounted for 10% or more of our revenues during the year ended December 31, 2020 are as follows.
+ 
+
+● | Hewlett-Packard Company – 27%
+--+------------------------------
+● | Epson – 19% 
+● | Alpine – 11% 
+
+ 
+Customers who accounted for 10% or more of our revenues during the year ended December 31, 2019 are as follows.
+ 
+
+● | Hewlett-Packard Company – 38%
+--+------------------------------
+● | Epson – 16% 
+● | Alpine – 15% 
+
+ 
+3
+
+ 
+
+Customers by Market
+ 
+The following table presents our revenues by market as a percentage of total revenues for the years ended December 31:
+ 
+
+ | 2020 | | | 2019
+-------------------------------------------+------+-----+---+-----
+Automotive (licensing) | | 18 | % | | 28 | %
+Consumer electronics (licensing) | | 59 | % | | 62 | %
+Touch Sensor Modules (products) | | 16 | % | | 8 | %
+Non-recurring engineering (“NRE”) revenues | | 7 | % | | 2 | %
+Total | | 100 | % | | 100 | %
+
+Geographical Data
+ 
+The following table presents our revenues by geographic region as a percentage of total revenues for the years ended December 31:
+ 
+
+ | 2020 | | | 2019
+------------+------+-----+---+-----
+U.S. | | 42 | % | | 48 | %
+Japan | | 31 | % | | 32 | %
+South Korea | | 8 | % | | 0 | %
+China | | 7 | % | | 5 | %
+Other | | 12 | % | | 15 | %
+Total | | 100 | % | | 100 | %
+
+ 
+The following table presents our total assets by geographic region for the years ended December 31 (in thousands):
+ 
+
+ | 2020 | | 2019 | 
+-------+------+--------+------+--
+U.S. | $ | 7,253 | | $ | 2,898
+Sweden | | 9,210 | | | 4,430
+Asia | | 109 | | | 108 
+Total | $ | 16,572 | | $ | 7,436
+
+Competition
+ 
+There are various technologies for touch and gesture control solutions available and competing with our optical, IR-based zForce technologies. The competing technologies have differing profiles such as performance, power consumption, level of maturity and cost. For touch solutions, the main competition comes from resistive and capacitive touch solutions. For touch displays, projective capacitive technology is the prevalent standard in mobile phones and tablets and therefore an important competing technology to ours that many suppliers offer with price being a major differentiation point. This means we must continuously develop our technology and improve our offers to defend and grow our market share. For gesture control the main competition comes from other optical technologies and from both ultrasonic and radar technologies. Detection range, resolution and cost are the main differentiators.
+ 
+4
+
+ 
+
+For contactless touch opportunities, competing technologies include camera-based technologies for detecting finger placement and gestures in the airspace in front of a kiosk or button panel, capacitive sensors capable of detecting a finger hovering above a display or button, as well as voice-activated interfaces and interfaces using one’s mobile phone to interact with a kiosk or button panel.
+ 
+There are various driver and in-cabin monitoring solutions that compete with our remote sensing technologies. Our competitors among Tier 2 software providers include SmartEye, Xperi, EyeSight, Seeing Machines, PUX and Jungo.   
+ 
+Intellectual Property
+ 
+We rely on a combination of intellectual property laws and contractual provisions to establish and protect the proprietary rights in our technology. The number of our issued and pending patents and patents filed in each jurisdiction as of December 31, 2020 is set forth in the following table: 
+
+Jurisdiction | No. of Reg. Designs | | No. of Issued Patents | | No. of Patents Pending
+-------------------------+---------------------+----------------+-----------------------+----------------+-----------------------
+United States | | 5 | | 54 | | 8 
+Europe | | 2 | | 8 | | 5 
+Japan | | - | | 8 | | - 
+China | | - | | 6 | | - 
+South Korea | | - | | 8 | | - 
+Australia | | 1 | | - | | - 
+Singapore | | 2 | | - | | - 
+Patent Convention Treaty | | Not Applicable | | Not Applicable | | 2 
+Total: | | 10 | | 84 | | 15
+
+ 
+Our patents cover five main categories: user interfaces, optics, controller integrated circuits, drivers and applications.
+ 
+Our user interface software may also be protected by copyright laws in most countries, including Sweden and the European Union, which will not grant patent protection for the software itself, if the software is deemed new and original. Protection can be claimed from the date of creation. 
+ 
+In 2020 we filed eight new patent applications, while abandoning certain patents that were no longer in our product plans.
+ 
+The duration of our patent protection for utility patents is generally 20 years. The duration of our patent protection for design patents varies throughout the world between 10 and 25 years, depending on the jurisdiction. We believe the duration of our intellectual property rights is adequate relative to the expected lives of our products.
+ 
+We also protect and promote our brand by registering trademarks in key markets around the world. Our trademarks include: Neonode (21 registrations), the Neonode logo (14 registrations), zForce (9 registrations), zForce AIR (1 registration), AlwaysON (6 registrations), MultiSensing (4 registrations), Touch In Everything (1 registration), AirBar (worldwide registrations) and the AirBar logo (1 registration) as well as pending trademark applications for the marks zForce DRIVE and MultiSensing.
+ 
+Research and Development 
+ 
+In fiscal years 2020 and 2019, we spent $4.1 million and $5.2 million, respectively, on research and development activities. Our research and development is performed predominantly in-house, but may also be performed in collaboration with external partners and specialists.
+ 
+5
+
+ 
+
+Employees
+ 
+The development, attraction and retention of employees is a critical success factor for Neonode.
+ 
+We took steps to increase our employee focus during 2020, including the engagement of a dedicated Human Relations (“HR”) Manager to ensure clear and beneficial HR related processes, such as talent management, employee engagement and recruitment performance.
+ 
+During the year we also changed pension partner and upgraded our pension plan and health insurances for our Swedish employees. While on parental leave, the Swedish Government pays a basic salary to the employee and this is topped-up by the Company since 2020.
+ 
+Since the COVID-19 pandemic outbreak, our employees have had the opportunity to work remotely to avoid being infected. For those choosing to come to the office, free parking spaces has been offered and social distancing has been promoted.
+ 
+We work proactively against all types of discrimination, harassment and other abusive behavior to ensure the work environment is good and healthy.
+ 
+On December 31, 2020, we had forty-six employees and ten full-time consultants. There was a total of eight employees in our general and administrative group, eight in our sales and marketing group, twenty-five in our engineering group, and five in our production group. We have employees or consultants located in the United States, Sweden, Germany, United Kingdom, Japan, South Korea and Taiwan. None of our employees is represented by a labor union. We have experienced no work stoppages. We believe our employee relations are positive. 
+ 
+Additional Information
+ 
+We are subject to the informational requirements of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and we file or furnish reports, proxy statements, and other information with the Securities and Exchange Commission (“SEC”). The reports and other information filed by us with the SEC are available free of charge on the SEC’s website at www.sec.gov.
+ 
+Our website is www.neonode.com. Through our website, we make available free of charge all of our filings with the SEC, including our annual reports on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K as well as Form 3, Form 4, and Form 5 reports for our directors, officers, and principal stockholders, together with amendments to those reports filed or furnished pursuant to Sections 13(a), 15(d), or 16 under the Exchange Act. These reports are available as soon as reasonably practicable after their electronic filing or furnishing with the SEC. Our website also includes corporate governance information, such as our Code of Business Conduct (including a Code of Ethics for the Chief Executive Officer and Senior Financial Officers) and our Board of Directors’ Committee Charters. We are not including the information contained on our website as part of, nor incorporating it by reference into, this Annual Report.
+ 
+6
+
+ 
+

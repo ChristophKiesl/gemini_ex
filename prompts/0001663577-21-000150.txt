@@ -1,0 +1,253 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.
+History and Organization
+ 
+Wikisoft Corp. (hereinafter the “Company,” “Wikisoft,” “we,” “us” or “our”) was incorporated in the state of Nevada in under the name Sensor Technologies, Inc. on May 4, 1998. In March 2006 the Company changed its name to Bixby Energy Systems Inc. The Company changed its name to Power Play Development Corporation in September 2006. In April 2007 the Company changed its name to National League of Poker, Inc. In October 2011 the Company changed its name back to Power Play Development Corporation. In March 2018 the Company changed its name to Bluestar Technologies, Inc. In March 2018, the Company then changed its name to Wikisoft Corp.
+ 
+In May 2016, the Company’s Board of Directors terminated the services of all prior officers and directors and the board appointed Robert Stevens as the Board Appointed Receiver for the Company. This was a private receivership where the receiver was appointed by the board to act on behalf of the Company and no court filings were ever made in connection with the receivership. On April 16, 2019 in connection with the Merger described below, Robert Stevens resigned from all of his positions with the Company and the board appointed receivership was concluded. At that time Rasmus Refer was appointed as the Company’s CEO and Director, and he resigned from such positions in August and November 2020, respectively. Rasmus Refer was previously the CEO of the Company until August 31, 2020 and Director of the Company until November 30, 2020, and our current CEO and sole director were appointed thereafter as described in detail below.
+ 
+On April 16, 2019, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) with WikiSoft Acquisition Corp., a Delaware corporation which was then the Company’s wholly owned subsidiary (“Merger Sub”) and WikiSoft Corp., a privately held Delaware corporation (“WikiSoft DE”). In connection with the closing of this merger transaction, Merger Sub merged with and into WikiSoft DE (the “Merger”) on April 30, 2019. Pursuant to the Merger, the Company acquired WikiSoft DE which then became its wholly owned subsidiary. The foregoing description of the Merger Agreement does not purport to be complete, and is qualified in its entirety by the full text of the Merger Agreement, which is attached hereto as Exhibit 3.6 and is incorporated herein by reference.
+ 
+On March 19, 2020, the Company entered into an Agreement and Plan of Merger (the “Short Form Merger Agreement”) with WikiSoft DE, pursuant to which it was agreed that the Company would merge with and into WikiSoft DE, with the Company surviving. Thereafter, on March 25, 2020, WikiSoft DE merged with and into the Company, with the Company (i.e. Wikisoft Corp. - the NV corporation) surviving pursuant to a Certificate of Ownership and Merger filed in with Delaware Secretary of State, whereby the then wholly owned subsidiary (WikiSoft DE) merged with and into the Company, with the Company surviving. On March 25, 2020, the Company filed Articles of Conversion in Nevada, whereby the then subsidiary (WikiSoft DE) merged with and into the Company, with the Company surviving. The foregoing description of the Short Form Merger Agreement does not purport to be complete, and is qualified in its entirety by the full text of the Short Form Merger Agreement, which is attached hereto as Exhibit 3.7 and is incorporated herein by reference.
+ 
+Prior to the Merger, the Company did not have any business operations, and at the closing of the Merger, the Company’s business became its current business as described in detail below.
+ 
+Our offices are located at 315 Montgomery Street, San Francisco, CA 94104, and our telephone number is 800-706-0806. Our website address is www.wikiprofile.com and wikisoft.com and our email address is investor@wikisoft.com. We also currently have websites at the following website addresses: Wikisoft.com, wikicareer.com, wikiinvestor.org, wikihired.com, wikiinvestment.com, which redirect the user to our investor site wikisoft.com or our flagship website wikiprofile.com. Information contained on, or accessible through, all of the foregoing websites is not a part of, and is not incorporated by reference into, this Form 10-K. 
+ 
+Business Overview
+ 
+Wikisoft Corp. has a vision to become one of the largest portals of information for businesses. Our portal, which initially launched in January 2018, is called wikiprofile.com and seeks to provide articles and profiles on companies, business people and corporate influencers. Information contained on, or accessible through, the foregoing website is not a part of, and is not incorporated by reference into, this Form 10-K.
+
+1
+-
+
+
+Although our website portal is currently operational in its initially launched form, at this time we are solely focused on relaunching the website in its updated format, which is planned to take place in the Spring of 2021. From its initial launch in 2018 to September 2020, we worked on developing the website in its initial form, beginning in September 2020 we began working to launch our updated website portal, which is planned to take place in the Spring of 2021. Our developers are based on India and our IT operations are based on Denmark.
+ 
+Once our website portal is launched in its new form, users will be able to freely search the portal and all content will be collected and updated in real-time. Our website platform, Wikiprofile, is built on a modern microservice software stack, based on data platform initiatives like Directus.io and Jamstack tools like NuxtJS based on VueJS.
+ 
+Our platform is developed on multiple Postgres databases that provides the foundation for our Wikiprofile platform. The scalable Jamstack microservice architecture aims to remove the load pressure from a server-oriented focus, and utilizes the resources on various browsers to deliver a user experience with modern well performing page speed due to architecture. The architecture is designed to make the web faster, more secure, and easier to scale. Using proprietary crawler technology, the databases automatically collect information on newly found entities, seeking to have a complete database.
+ 
+We plan to generate revenues primarily from premium profiles and recruiting on our website platform when it is relaunched in its new format. We also further plan to generate revenues by charging users of our website platform for access to certain information and features on our platform, as described further below.
+
+Value Proposition
+ 
+Wikisoft’s value proposition for professionals and businesses is simple: We connect! We believe that our platform, once relaunched, will enable users to stay connected and informed and allow professionals to advance their careers and businesses to hire the best professionals and work smarter.
+Our Mission
+ 
+Wikisoft plans to create new standards for validating professional profiles and change the way we trust digital information. The mission is to increase workplace transparency by providing trusted information about companies and people seeking to enable them to make the right decisions. By doing so, Wikisoft plans to engage in a global market worth approximately $500 billion according to a report titled Global Staffing Industry Revenue from 2008 to 2020 by Statista.
+ 
+We believe that Wikisoft ‘s competitive strengths include:
+ 
+
+● | Large global business database that can be used for Marketing & Sales;
+--+-----------------------------------------------------------------------
+
+
+● | Highly scalable setup geared towards the future growth journey;
+--+----------------------------------------------------------------
+
+
+● | Limited operational cost geared for growth;
+--+--------------------------------------------
+
+
+● | Data crawled, verified & updated daily providing a job market directory for businesses and job seekers; and
+--+------------------------------------------------------------------------------------------------------------
+
+
+● | Disruptive business model with low entrance barrier to gain customers.
+--+-----------------------------------------------------------------------
+
+
+2
+-
+
+Wikisoft’s database of worldwide company profiles, once launched in its updated form, will be updated 24/7 with company addresses, websites, phone, email, descriptions, industry, rating, company culture rank, founded year, numbers of employees, turnover, organizations charts of key employees and more.
+ 
+Wikisoft database of worldwide business people profile, once our portal is launched in its updated form, will be updated 24/7 with current job titles, social links, recent job, experience, industry, link to company profile, email and mobile phone and more.
+ 
+We believe that trusted company information is more relevant than ever for companies and business professionals to collaborate and make the right decisions. We seek to provide access to qualified and diverse candidates without wasting time on screening applications or paying upfront fees. The concept for jobseekers is to build a trusted online presence that reflects accomplishment and boost their career.
+ 
+Our Vision and Strategy 
+ 
+Our vision is to create opportunity globally for every business professional and company. Manifesting this vision requires scaling across the key pillars: business individuals, companies, job opportunities & professional skills by correct and trusted information. By operationalizing this vision, we believe Wikisoft can enable users to connect to opportunity at a global scale.
+ 
+Our strategy is focused on key value propositions for both non-paying users and paying users. We plan to generate revenues primarily from premium profiles and recruiting on our website platform when it is relaunched in its new format. We also further plan to generate revenues by charging users of our website platform for access to certain information and features on our platform, as described further below.
+
+Our Website Portal and How we Plan to Generate Revenue
+ 
+Although our website portal is currently operational, at this time we are solely focused on relaunching the website in its updated format, which is planned to take place in the Spring of 2021.
+ 
+With the planned launch of our updated website portal, it is planned that users will be able to freely search the portal and most of our products at no cost to generate consumer usage and with the belief that our upcoming planned premium business model and paid products drives the most value for business professionals and businesses.
+ 
+We believe that the relaunch of our website portal and extensive database enables us to create additional value for our customers through four distinct planned product lines:
+ 
+●        Wiki Business People Profile
+ ●        Wiki Business Profile
+ ●        Wiki Recruit
+ ●        Wiki Company Research.
+ 
+Wiki Business People Profile
+ 
+Our planned Wiki Business People Profile will include a free basic profile. This profile will be visible to recruiters looking for new employee’s. Additional features like data insights on who visited your profile and financial company information and receiving job proposals are planned to be available at a cost to help business professionals to make qualified decisions. We have not yet decided the fees we’ll charge for such additional data insights.
+Wiki Business Profile
+ 
+The Wiki Business Profile is planned to include a free basic profile and allow companies to highlight their culture and increase their online brand and awareness. We believe that the profile will also help companies build trust that will attract new customers and better employees. We plan to have additional features like review management and data insights available at a cost. We have not yet decided the fees we’ll charge for such additional features.
+
+3
+-
+
+Wiki Recruit
+ 
+The Wiki Recruit is planned to include a free basic profile where recruiters can post jobs. We plan to have additional features with premium ranking and the possibility to send job proposals directly to a job candidate available at a cost. We plan to charge business professionals $19.99 per month for the premium ranking and we plan to charge businesses $29.99 per month for the premium ranking and ability to send direct job proposals to a candidate. If a proposal is accepted by the job seeker through Wikiprofile’s platform, we plan that Wikisoft will charge one percent per month of the job seekers annual salary for the first 12-24 months. The benefit for recruiters is that they only pay one percent per month following the employment rather than paying a 20-30% upfront fee on their annual salary to a headhunter company or having high internal labor costs. We believe that this will reduce the risk of having high upfront cost if a hire is unsuccessful.
+Wiki Company Research.
+ 
+The Wiki Company Research is planned to offer solidity, liquidity and credit reports to make research and ensure right decision making when choosing a new job or supplier.
+ 
+We plan to generate revenues primarily from premium profiles and recruiting on our website platform when it is relaunched in its new format. We also further plan to generate revenues by charging users of our website platform for access to certain information and features on our platform.
+ 
+Personnel
+ 
+Our Chairman, Paul Quintal, is responsible for leading the Company’s Board, of which he is currently the sole member, and focusing on strategic matters, overseeing the Company’s business and setting high governance standards. Our Chief Executive Officer, Carsten Kjems Falk, is overall accountable for strategy and general daily management of operations. Our IT manager, Oscar Gensman, is responsible for IT development and architecture in our Company. He is assisted by 4 in-house and 2 independent contractors for IT development.
+Plan of Operations
+  For the 2021 fiscal year, we expect to require a minimum of $200,000 in operating funds. The source of such funds is anticipated to be from capital raised from third parties. Our largest shareholder Rasmus Refer, who owns 87.83% of the Company’s issued and outstanding common stock as of the date of this report, pursuant to a Revolving Credit Facility Agreement (the “Credit Agreement”) between him and the Company, dated December 30, 2020, has agreed to make unsecured loans and extensions of credit available to the Company of up to $1,000,000, as requested by the Company under the Credit Agreement, to implement the Company’s plan of operations if we are unable to raise sufficient funds from other sources. An Equity Purchase Agreement (the “EPA”) between the Company and Oscaleta Partners LLC has been signed dated August 31, 2020. Under the EPA, the Company may require Oscaleta to acquire shares of the Company’s common stock, up to a maximum amount of $5,000,000, once Wikisoft Corp. meets certain criteria as set forth in the EPA.
+ 
+If we are able to raise funds from third parties exceeding $200,000, we plan to accelerate our plan of operations as much as possible consistent with the amount of funds raised and the Company’s strategy.
+ During the first quarter of 2021, the Company has completed the following:
+ The Company filed a Registration Statement on Form 10 with the SEC on January 6, 2021 to register its common stock under the Exchange Act. The Company’s Registration Statement on Form 10 went effective on February 12th 2021, and the Company is now subject to reporting obligations with the SEC. The Company’s management sees this as an important and essential step in our commitment to provide our investors with transparency and accountability. 
+ On February 22nd 2021 the company launched the investor relations website www.wikisoft.com. The investor site intends to provide transparency and disclosure about our Company consistent with the information disclosed in our filings with the Securities and Exchange Commission. The information available on, or accessible through the foregoing website is not a part of, and is not incorporated by reference into this Annual Report on Form 10-K.
+ 
+
+4
+-
+
+
+We expect to undertake the following activities during the following time periods in the 2021 fiscal year:
+ First Quarter of 2021
+ In the remaining part of the first quarter of 2021 or in the early part of the second quarter of 2021, we expect that our updated website platform, Wikiprofile.com version 2.0 will be launched, including new features and extended profiles of businesses and business professionals. A responsive mobile version is planned to be launched simultaneously along with a new investor site on Wikisoft.com. By leveraging artificial intelligence (“AI”) and machine learning techniques (“ML”), we expect that we will be able to process raw data and refine them into unique and actionable insights in the wiki universe, creating new standards for data validity for businesses and business professionals. We expect that the total cost for the foregoing activities will be an estimated amount of $40,000.
+Second Quarter of 2021
+ In this quarter, if we have not yet launched our updated website platform, we will do so in the early part of this quarter. Additionally, in this quarter we plan to commence marketing activities seeking to generate users and sign ups to our website platform. The main drivers will be email, search engine marketing and Search Engine Optimization. Further development of our website platform with new features like reviews, compare companies and in-mails are planned to be developed. We plan to apply to OTC Market seeking to have the Company’s common stock trade on the OTC Markets OTCQB Tier. We expect that the total cost for the foregoing activities will be an estimated amount of $40,000.
+ Third Quarter of 2021
+ In this quarter we plan to hire one or two marketing managers. Their main responsibilities will be to optimize and ensure KPI driven email and search engine marketing and Search Engine Optimization and execute on our marketing strategy and drive users and sign ups to our website. Furthermore, one customer care manager is expected to be hired to handle support and ensure customer satisfaction. IT development will utilize existing developers and additional developers will be hired if needed for crawling and frontend development of business logic and products. We expect that the total cost for the foregoing activities will be an estimated amount of $50,000.
+Fourth Quarter of 2021
+ In this quarter we plan to continue to hire additional developers, until we have up to 10 full-time developers. We expect to: (i) hire additional customer care and marketing managers to support business needs; and (ii) further develop of our platform with new features like Jobs and Job Postings is expected to be developed. We anticipate that our primary source of acquiring customers will be through Email Marketing, Search Engine Optimization & Search Engine Marketing. We also plan to hire a CFO to streamline financial reporting, compliance, Investor Relations and to improve corporate governance. We expect that the total cost for the foregoing activities will be an estimated amount of $70,000.
+ If we are able to raise funds from third parties exceeding $200,000, we plan to accelerate our plan of operations as much as possible consistent with the amount of funds raised and the Company’s strategy. Achievement of the foregoing plan of operations will depend highly on our funds and the availability of those funds and accordingly there can be no assurance that we can implement the foregoing as planned or at all.
+ Material Agreements
+ 
+March 2018 Service Agreement with Fastbase, Inc.
+ 
+On March 1, 2018 we entered into a service contract with Fastbase Inc., a related party, to provide 5 million ad impressions and 18 months of advertisements with tracking code placement on all Wikisoft portals for $100,000. During this period the Company was not permitted to display any type of advertisements for other web analytics tools in competition with Fastbase Inc. The Company recognized the revenue evenly over the life of the Contract. During the three months ended March 31, 2020 and 2019, the Company recognized $0 and $16,393 in revenue related to the contract. During the years ended December 31, 2019 and 2018, the Company recognized $44,444 and $55,556 revenue. As of December 31, 2019, all amounts had been earned and the Company had no remaining contract liability.
+
+5
+-
+
+Consulting Agreements with Milestone Management Services 
+ 
+On May 16, 2020, the Company entered into a consulting agreement (the “Consulting Agreement”) with Milestone Management Services, LLC (“Milestone”) a limited liability company organized under the laws of Nevada. Pursuant to the Consulting Agreement, Milestone agreed to provide consulting and strategic business advisory services to the Company in exchange for 4,000 shares of the Company’s Common Stock.
+ 
+On August 1, 2020, the Company entered into a second consulting agreement (the “Second Consulting Agreement”) with Milestone. Pursuant to the Second Consulting Agreement, Milestone agreed to provide consulting and strategic business advisory services to the Company in exchange for $13,000 in cash per month and issuing to Milestone 75,000 shares of the Company’s Common Stock. The Second Consulting Agreement has a term of 12 months and will terminate on August 1, 2021. Thus far, 75,000 shares of the Company’s common stock have been issued pursuant to the Second Consulting Agreement, and no cash amounts have been paid thereunder.
+ 
+On September 21, 2020, the Company entered into an amendment (the “Amendment”) to the Second Consulting Agreement with Milestone. Pursuant to the Amendment the start date of the Second Consulting Agreement was delayed from August 1, 2020 to March 1, 2021. Other than the foregoing, no other material changes were made to the Second Consulting Agreement in the Amendment.
+ 
+On February 18, 2021, the Company entered into a second Amendment to the Second Consulting Agreement (the “Second Amendment”) with Milestone to delay the start date of the Second Consulting Agreement to June 1, 2022, however the Company in their sole discretion can elect to move up the start date to an earlier date. Other than the foregoing, no other material changes were made to the Second Consulting Agreement in the Second Amendment.
+ 
+Loan Agreement with Fastbase, Inc. 
+ 
+The Company entered into a Loan Agreement (the “Loan Agreement”) on June 1, 2020 with Fastbase, Inc., a related party. Pursuant to the Loan Agreement, the Company and Fastbase, Inc. agreed that Fastbase, Inc. has lent the Company the sum of $30,215 and may make additional loans to the Company, which are unsecured, and that the Company will repay such loan amounts upon request from Fastbase, Inc. Pursuant to the Loan Agreement, the Company can repay the amount due at any time without penalty. Fastbase Inc. is a related party because Rasmus Refer is the founder and largest shareholder of Fastbase Inc., and he is also the Company’s largest shareholder, the founder of Wikisoft DE, and the Company’s former CEO and Chairman.
+Equity Line Purchase Agreement and Registration Rights Agreement
+ 
+The Company entered into an Equity Purchase Agreement (the “Purchase Agreement”) dated August 31, 2020 with Oscaleta Partners LLC (“Oscaleta”). On the same date, the Company entered into a Registration Rights Agreement (the “Registration Rights Agreement”) with Oscaleta. Pursuant to the Purchase Agreement we have the right, but not the obligation, for a two year period, commencing on the date that a registration statement filed pursuant to the Purchase Agreement and the Registration Rights Agreement is declared effective by the SEC (the “Commitment Period”), to cause Oscaleta to purchase up to $5 million of our common stock shares.
+ 
+In order to sell shares to Oscaleta under the Purchase Agreement during the Commitment Period, the Company must deliver to Oscaleta a written put notice on any trading day (the “Put Date”), setting forth the dollar amount to be invested by Oscaleta (the “Put Notice”). For each share of our common stock purchased under the Purchase Agreement, Oscaleta will pay 80% of the average of the four lowest closing prices of our common stock during the ten trading days immediately following the clearing date associated with the applicable Put Notice (the “Valuation Period”).
+ 
+The Purchase Agreement provides that the number of our shares to be sold to Oscaleta shall not exceed the number of shares that, when aggregated together with all other shares of our common stock which Oscaleta is deemed to beneficially own, would result in Oscaleta owning more than 4.99% of our outstanding common stock. Pursuant to the Registration Rights Agreement, we agreed to use all commercially reasonable efforts to register the shares issued pursuant to the Purchase Agreement with the SEC. The Company agreed to cover all of the expenses incurred in connection with such registration.
+ 
+
+6
+-
+
+
+Further, as a condition for the execution of the Purchase Agreement, we agreed to issued Oscaleta a promissory note in the principal amount of $45,000, maturing six months after issuance, as a commitment fee, to be issued upon the first drawdown under the Purchase Agreement (the “Promissory Note”).
+ 
+There are substantial risks to investors as a result of the issuance of shares of our common stock under the Purchase Agreement. These risks include dilution of stockholders, significant decline in our stock price and our inability to draw sufficient funds when needed. Oscaleta will periodically purchase our common stock under the Purchase Agreement at a discount to the market price of our stock and will, in turn, sell such shares to investors in the market at the market price. This may cause our stock price to decline, which will require us to issue increasing numbers of common shares to Oscaleta to raise the same amount of funds, as our stock price declines.
+ 
+Revolving Credit Facility Agreement
+ 
+Our largest shareholder Rasmus Refer, who owns 87.83% of the Company’s issued and outstanding common stock as of the date of this report, pursuant to a Revolving Credit Facility Agreement (the “Credit Agreement”) between him and the Company, dated December 30, 2020, has agreed to make unsecured loans and extensions of credit available to the Company of up to $1,000,000, as requested by the Company under the Credit Agreement, to implement the Company’s plan of operations if we are unable to raise sufficient funds from other sources. The funds extended to the Company under the Credit Agreement will have a maturity date of 24 months and will carry interest at 0.01% per annum. The Company may prepay the funds at any time without penalty. All extensions of funds under the Credit Agreement will be evidenced by a revolving note (the “Revolving Note”).
+Redemption Agreement
+ 
+On February 18, 2021, the Company entered into a Stock Redemption Agreement (the “Redemption Agreement”) with Saqoia, Inc. (“SI”), an entity which is owned and controlled by Rasmus Refer. Pursuant to the Redemption Agreement, the Company agreed to purchase, and SI agreed to sell, 14,000,000 shares (the “Shares”) of the Company’s common stock held by SI to the Company in exchange for $1.00, with the Shares then being returned to the Company’s authorized, but unissued shares of common stock. Rasmus Refer was previously the Chief Executive Officer of the Company from April 2019 to August 2020 and Director of the Company from April 2019 to November 2020. Prior to the Redemption Agreement, SI held 86,895,078 shares of the Company’s common stock, and after the Redemption Agreement, SI holds 72,895,078 shares of the Company’s common stock of which Mr. Refer has voting and dipositive power. Mr. Refer also currently holds 3,500,000 shares of the Company’s common stock in his own name, and 3,500,000 shares held by Wikisoft Holdings, of which he has voting and dipositive power.
+Intellectual Property
+ 
+The Company does currently not hold any Intellectual Property rights. While the Company uses reasonable efforts to protect its trade and business secrets, the Company cannot assure that its employees, consultants, contractors or advisors will not, unintentionally or willfully, disclose the Company's trade secrets to competitors or other third parties. In addition, courts outside the United States are sometimes less willing to protect trade secrets. Moreover, the Company's competitors may independently develop equivalent knowledge, methods and know-how. If the Company is unable to defend the Company's trade secrets from others use, or if the Company's competitors develop equivalent knowledge, it could have a material adverse effect on the Company's business. Any infringement of the Company's proprietary rights could result in significant litigation costs, and any failure to adequately protect the Company's proprietary rights could result in the Company's competitors offering similar products, potentially resulting in loss of a competitive advantage and decreased revenue. Existing patent, copyright, trademark and trade secret laws afford only limited protection. In addition, the laws of some foreign countries do not protect the Company's proprietary rights to the same extent as do the laws of the United States. Therefore, the Company may not be able to protect the Company's proprietary rights against unauthorized third-party use. Enforcing a claim that a third party illegally obtained and is using the Company's trade secrets could be expensive and time consuming, and the outcome of such a claim is unpredictable. Litigation may be necessary in the future to protect the Company's trade secrets or to determine the validity and scope of the proprietary rights of others. This litigation could result in substantial costs and diversion of resources and could materially adversely affect the Company's future operating results.
+
+7
+-
+
+Competition
+ 
+The big data analysis, recruiting and data generation sector is highly competitive and continually evolving as participants strive to distinguish themselves within their markets and compete within the internet industry. We face intense competition from companies with much larger capital resources than us, and, as a result, we could struggle to attract users and gain market share. Many of our existing or future competitors have greater financial resources and greater brand name recognition than we do and, as a result, may be better positioned to adapt to changes in the industry or the economy as a whole. We will strive to advance our technology in each of these sectors ahead of our competitors to gain market share. We also face intense competition in attracting and retaining qualified employees. Our ability to continue to compete effectively will depend upon our ability to attract new employees, retain and motivate our existing employees and to compensate employees competitively. We face significant competition in several aspects of our business, and such competition might increase, particularly in the market for online professional networks and engagement of professionals.
+ 
+The space for online professional networks is rapidly evolving. Other companies such as LinkedIn, Glassdoor, Facebook, Google, Microsoft and Twitter might be developing or could develop solutions that compete with ours. Further, some of these companies are partnering with third parties that could compete with ours. Additionally, we face competition from a number of companies outside the United States that provide online professional networking solutions. We also compete against smaller companies that focus on groups of professionals within a specific industry or vertical. Our competitors may announce new products, services or enhancements that better address changing industry standards or the needs of users, such as mobile access or different market focus. Any such increased competition could cause pricing pressure, loss of business or decreased user activity, any of which could adversely affect our business and operating results. Internet search engines could also change their methodologies in ways that adversely affect our ability to optimize our page rankings within their search results.
+ 
+With respect to our planned recruitment service through our website platform, we will compete with online recruiting companies, talent management companies and larger companies that are focusing on talent management and human resource services, job boards, traditional recruiting firms and companies that provide learning and development products and services. Additionally, other companies, including newcomers to the recruiting or learning and development industries, may partner with Internet companies to provide services that compete with our solutions, either on their own or as third-party applications. Therefore, we might not be able to compete successfully.
+ 
+We believe that we have competitive strengths that position us favorably in our lines of business. However, our industry is evolving rapidly and is becoming increasingly competitive. Larger and more established companies may focus on professional networking and could directly compete with us. Smaller companies could also launch new products and services that we do not offer and that could gain market acceptance quickly.
+ 
+Government Regulation
+ 
+We are subject to a number of foreign and domestic laws and regulations that affect companies conducting business online, many of which are evolving and could be interpreted in ways that could harm our business. In the United States and abroad, laws and regulations relating to the liability of providers of online services for activities of their users and other third parties are being tested by a number of claims, including actions based on invasion of privacy and other torts, unfair competition, copyright and trademark infringement, and other theories based on the nature and content of the materials searched, or the content provided by users. Further some countries impose regulations regarding or require licenses to conduct various aspects of our business, including employee recruiting, and news related services. Any court ruling or other governmental action that imposes liability on providers of online services for the activities of their users or other third parties could harm our business. In addition, rising concern about the use of social networking technologies for illegal conduct, such as the unauthorized dissemination of national security information, money laundering or supporting terrorist activities, may in the future produce legislation or other governmental action that could require changes to our website platform, restrict or impose additional costs upon the conduct of our business or cause users to abandon material aspects of our platform.
+
+8
+-
+
+
+In the area of information security and data protection, most states have enacted laws and regulations requiring notification to users when there is a security breach of personal data, or requiring the adoption of minimum information security standards that are often vaguely defined and difficult to practically implement. The costs of compliance with these laws and regulations may increase in the future as a result of amendments or changes in interpretation. Furthermore, any failure on our part to comply with these laws and regulations may subject us to significant liabilities.
+ 
+We are also subject to federal, state, and foreign laws and regulations regarding privacy and protection of data. Our privacy policies describe our practices concerning the use, storage, transmission and disclosure of personal information, including visitor and user data. Any failure by us to comply with these terms or privacy related laws and regulations could result in proceedings against us by governmental authorities or others, which could harm our business. In addition, the interpretation of privacy and data protection laws and regulations and their application to online services are unclear, evolving and in a state of flux. For example, in October 2015, the highest court in the European Union invalidated reliance on the US-EU Safe Harbor regime as one of the legally recognized mechanisms under which the personal data of European citizens could be transferred to the United States. We believe that our processing of European citizens’ personal data in the United States is authorized under other legally recognized mechanisms, but the validity of these other legal mechanisms is not certain and may change in light of changes in the political, legislative and legal environment in Europe. There is a risk that these laws and regulations may be interpreted and applied in conflicting ways from state to state, country to country, or region to region, and in a manner that is not consistent with our current data protection practices, or that new laws or regulations will be enacted. In addition, because our website platform is accessible worldwide, certain foreign governments may claim that we are required to comply with their laws and regulations, including with respect to the storage, use and disclosure of user information, even in jurisdictions where we have no local entity, employees, or infrastructure. Complying with these varying domestic and international requirements could cause us to incur additional costs and change our business practices. Further, any failure by us to adequately protect our users’ privacy and data could result in a loss of user confidence in our services and ultimately in a loss of users, which could adversely affect our business. 
+ 
+Property
+ 
+We own no real property. We rent space at 315 Montgomery Street San Francisco, CA 94104 & Gamle Carlsberg Vej 16, 2500 Valby, Denmark. Our rent for the Denmark location is approximately $1,000 per month for a two person office including a meeting room for 18 persons and we can terminate the lease at any time by giving three months’ notice. Due to Covid-19 we have scaled back our offices at 315 Montgomery Street San Francisco, CA 94104 to a virtual room but, we can rent offices at this location on an employee-by-employee basis including meeting facilities. We can terminate the lease at this location at any time by giving one months’ notice and the current rent at this location is approximately $175 per month.
+Employees
+ 
+We have 4 full time employees and 4 project by project independent contractors. We believe that we have good relations with our employees and contractors.
+ 
+Legal Proceedings
+ 
+From time to time, we may become party to various lawsuits, claims and other legal proceedings that arise in the ordinary course of our business. We are not currently a party, as plaintiff or defendant, to any legal proceedings that we believe to be material or which, individually or in the aggregate, would be expected to have a material effect on our business, financial condition or results of operation if determined adversely to us.
+Smaller Reporting Company
+ 
+The Company is a “smaller reporting company” as defined in Rule 12b-2 under the Exchange Act. There are certain exemptions available to us as a smaller reporting company, including: (1) not being required to comply with the auditor attestation requirements of Section 404(b) of the Sarbanes Oxley Act; (2) scaled executive compensation disclosures; and (3) the requirement to provide only two years of audited financial statements, instead of three years. As long as we maintain our status as a “smaller reporting company”, these exemptions will continue to be available to us.
+
+9
+-
+
+Emerging Growth Company
+ 
+As a public company with less than $1,070,000,000 in revenue during our last fiscal year, we qualify as an “emerging growth company” under the Jumpstart our Business Startups Act of 2012 (the “JOBS Act”). An emerging growth company may take advantage of certain reduced reporting requirements and is relieved of certain other significant requirements that are otherwise generally applicable to public companies, and can avail itself to various exemptions such as an exemption from Section 404(b) of the Sarbanes-Oxley Act of 2002 and Section 14(a) and (b) of the Securities Exchange Act of 1934.
+ 
+In particular, as an emerging growth company we:
+ 
+
+● | are not required to obtain an attestation and report from our auditors on our management’s assessment of our internal control over financial reporting pursuant to the Sarbanes-Oxley Act of 2002; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | are not required to provide a detailed narrative disclosure discussing our compensation principles, objectives and elements and analyzing how those elements fit with our principles and objectives (commonly referred to as “compensation discussion and analysis”);
+● | are not required to obtain a non-binding advisory vote from our stockholders on executive compensation or golden parachute arrangements (commonly referred to as the “say-on-pay,” “say-on-frequency” and “say-on-golden-parachute” votes); 
+● | are exempt from certain executive compensation disclosure provisions requiring a pay-for-performance graph and CEO pay ratio disclosure; 
+● | may present only two years of audited financial statements and only two years of related Management’s Discussion & Analysis of Financial Condition and Results of Operations (“MD&A”); and 
+● | are eligible to claim longer phase-in periods for the adoption of new or revised financial accounting standards under §107 of the JOBS Act. 
+
+ 
+We intend to take advantage of all of these reduced reporting requirements and exemptions, including the longer phase-in periods for the adoption of new or revised financial accounting standards under §107 of the JOBS Act. Our election to use the phase-in periods may make it difficult to compare our financial statements to those of non-emerging growth companies and other emerging growth companies that have opted out of the phase-in periods under §107 of the JOBS Act.
+ 
+Certain of these reduced reporting requirements and exemptions were already available to us due to the fact that we also qualify as a “smaller reporting company” under SEC rules. For instance, smaller reporting companies are not required to obtain an auditor attestation and report regarding management’s assessment of internal control over financial reporting; are not required to provide a compensation discussion and analysis; are not required to provide a pay-for-performance graph or Chief Executive Officer pay ratio disclosure; and may present only two years of audited financial statements and related MD&A disclosure.
+ 
+Under the JOBS Act, we may take advantage of the above-described reduced reporting requirements and exemptions for up to five years after our initial sale of common equity pursuant to a registration statement declared effective under the Securities Act of 1933, as amended (the “Securities Act”), or such earlier time that we no longer meet the definition of an emerging growth company. In this regard, the JOBS Act provides that we would cease to be an “emerging growth company” if we have more than $1,070,000,000 in annual revenues, have more than $700 million in market value of our Common stock held by non-affiliates, or issue more than $1.0 billion in principal amount of non-convertible debt over a three-year period. We would cease to be an emerging growth company on the last day of the fiscal year following the date of the fifth anniversary of our first sale of common equity securities under an effective registration statement or a fiscal year in which we have $1 billion in gross revenues. Further, under current SEC rules we will continue to qualify as a “smaller reporting company” for so long as we have a public float (i.e., the market value of common equity held by non-affiliates) of less than $250 million as of the last business day of our most recently completed second fiscal quarter.
+ 
+
+10
+--
+

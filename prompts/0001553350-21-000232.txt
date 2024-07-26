@@ -1,0 +1,209 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Our Corporate History
+ Information Systems Associates, Inc. (ISA). was incorporated in Florida on May 31, 1994. Our original business operations consisted of consulting services for asset management of large corporate data centers and the development and licensing of information technology (IT) asset management software. In late 2014, ISA entered negotiations with Duos Technologies, Inc. (duostech) for the purposes of executing a merger between the two organizations (also known as a reverse triangular merger). Incorporated under the laws of Florida on November 30, 1990, duostech operated in various industry segments, specializing in the design, development and deployment of proprietary technology applications and turn-key engineered systems. This transaction was completed on April 1, 2015, whereby duostech became a wholly owned subsidiary of ISA. After the merger was completed, ISA changed its corporate name to Duos Technologies Group, Inc. The Company, based in Jacksonville, Florida, oversees its wholly owned subsidiary, duostech which employs approximately 59 people and is a technology integrator, software applications and artificial intelligence (AI) company with a strong portfolio of intellectual property. The Companys headquarters are located at 6622 Southpoint Drive South, Suite 310, Jacksonville, Florida 32216 and main telephone number is (904) 296-2807.
+Overview
+
+The Company, operating under its brand name duostech, designs, develops, deploys and operates intelligent technology solutions supporting rail, logistics and intermodal businesses that streamline operations, improve safety and reduce costs. Our employee team include engineering subject matter expertise in hardware, software, artificial intelligence and information technology. 
+
+Our main offering, the Railcar Inspection Portal (RIP), provides both freight and transit railroad customers and select government agencies the ability to conduct fully automated railcar inspections of trains while they are moving at full speed. The RIP utilizes a variety of sophisticated optical, laser and speed sensors to scan each passing railcar to create a high-resolution image-set of the top, sides and undercarriage. These images are then processed with our edge data center using artificial intelligence (AI) algorithms to identify safety and security defects on each railcar. Within minutes of the railcar passing through the RIP, a detailed report is sent to the customer where they are able to action items immediately. This solution has the potential to transform the railroad industry increasing safety, improving efficiency and reducing costs. The Company has already deployed this system with several Class 1 railroads and anticipates an increased demand from transit and short line railroad customers along with selected government agencies that operate and/or manage rail traffic. The Company currently operates with our RIP in Canada, Mexico and the United States and anticipates expanding this solution into Europe and Australia in coming years. 
+
+The Company has also developed the Automated Logistics Information System (ALIS) which automates gatehouse operations where transport trucks enter and exit large logistics and intermodal facilities. This solution incorporates a similar set of sensors, data processing and artificial intelligence to streamline the customers logistics transactions and tracking and can also automate the security and safety inspection if called for. The Company has already deployed this system with one large North American retailer and anticipates increased demand from other large retailers, railroad intermodal operators and select government agencies that manage logistics and border crossing points. 
+ 
+To support the RIP and ALIS, the Company has developed two proprietary solutions that operate our software and artificial intelligence. centraco® is an Enterprise Information Management Software platform that consolidates data and events from multiple sources into a unified and distributive user interface. Customized to the end users Concept of Operations (CONOPS), it provides improved situational awareness and data visualization for operational objectives. centraco® supports the integration of data from existing systems, including cameras and other sensor-based systems, within the same user interface. With centraco®, authorized personnel can simultaneously view, monitor and analyze data and other events from multiple geographic locations. truevue360 is our fully integrated platform that we utilize to develop and deploy Artificial Intelligence (AI) algorithms, including Machine Learning, Computer Vision, Object Detection and Deep Neural Network-based processing for real-time applications. We develop and deploy turn-key intelligent applications that provide highly accurate results to automate and optimize our customers operations.
+
+
+1
+
+
+Another offering is our IT Asset Management (ITAM) solution which utilizes dcVue® to help data center operators more effectively manage mission critical assets. This proprietary enterprise system utilizes intelligent bar code scanning technology, which quickly and seamlessly provides accurate, cataloged results for data center asset inventory and audit services. We have over 15 years of experience physically reviewing data center equipment and documenting customer defined attributes associated to each piece of equipment such as location, make, model, asset tag, serial number, number of blades, and power connectivity. Our team of trained professionals will quickly and efficiently gather the required data without disruption to your data centers operation. All of the solutions can be offered as service or through licensing, the end-user can perform the service internally.
+
+The year 2020 brought significant challenges, changes and opportunities for our business that will be discussed in greater detail later in this report. They include: 
+
+·
+ The up listing onto a national exchange (Nasdaq) in first quarter, 2020.
+ ·
+ Responding to the COVID-19 pandemic beginning in first quarter, 2020 and which continues as of this report.
+ ·
+ The delay of new orders from existing customers beginning in first quarter, 2020 with a restart being expected in second quarter 2021.
+ ·
+ The retirement of Gianni Arcaini as Chairman and CEO, and the hiring of new CEO and Director Charles Ferry in third quarter, 2020.
+ ·
+ Restructuring of the organization by establishing a CCO (Scott Carns) and hiring a new COO (Ben Eiser) in third quarter, 2020.
+ ·
+ Addition of Mr. Edmond Harris, former COO of CSX and CN, to our Board of Directors in fourth quarter, 2020.
+
+duostech
+
+Over the past 10 years, duostech has developed a series of industry specific technologies some of which are described below.
+
+Railcar Inspection Portal (rip®) 
+
+Federal regulations require each railcar/train to be inspected for mechanical defects prior to leaving a rail yard. Founded in 1934, the Association of American Railroads (AAR) is responsible for setting the standards for the safety and productivity of the U.S./North American freight rail industry, and by extension, has established the inspection parameters for the rail industrys rolling stock. Also known as the Why Made codes, the AAR established approximately 110 inspection points under its guidelines for mechanical inspections. 
+
+Under current practice, inspections are conducted manually, a very labor intensive and inefficient process that only covers a select number of inspection points and can take several hours per train. Our Railcar Inspection Portal can reduce this inspection to minutes while the train is moving at speed improving safety, reducing dwell time and optimizing maintenance. 
+
+Our system combines high-definition image and data capture technologies with our AI-based analytics applications that are typically installed on active tracks located between two rail yards. We inspect railcars traveling through our inspection portal at speeds of up to 70 mph and report mechanical anomalies detected by our system to the inbound train yard, well ahead of the train entering the yard. 
+
+Currently, three Class 1 railroads are operating our rip® technology with the ultimate objective to change inspection regulations that would allow replacement of the current manual inspection (in the yard) with our fully automated process. 
+
+
+Rail Inspection Portal rip® - Canadian Location | Operator Interface - centraco®
+
+
+
+2
+
+
+The following examples of automated detections are the result of the combination of our image capture technologies. Some of these mechanical defects, if unattended, could cause a derailment. Other examples of our AI-based detection applications include inspections at rail border crossings in support of the Customs and Border Protection Agency.
+
+Samples of Automated Detections
+
+The Company continues to expand its detection capabilities through the development and integration of additional sensor technologies to include laser, infrared, thermal, sound and x-ray to process AI-based analytics of inspection points. 
+
+The following proprietary capture and sensor technologies are sold as stand-alone systems as well as sub-systems of the modular Railcar Inspection Portal system:
+
+Vehicle Undercarriage Examiner (vue®)
+
+A system that inspects the undercarriage of railcars (both freight and transit rail) traveling at speeds of up to 70 mph. We are currently developing an expanded version for higher speeds with additional sensor technologies. We are developing additional algorithms for an increasing number of automated detection of anomalies, which we believe once completed and successfully tested, may have a significant impact on our revenues. 
+
+3
+
+
+Thermal Undercarriage Examiner (t-vue)
+
+The Company has developed and deployed a new thermal undercarriage examiner. The system uses high-speed thermal imaging technology to inspect the thermal signature of undercarriage components. Thermal monitoring of component heat signatures while underway will provide indications of the overall operating health of the railcars that are not possible to observe during static yard inspections. 
+Enterprise Command and Control Suite (centraco®)
+
+This intelligent user interface is at the core of all our systems and enables end users to connect to an unlimited number of operational sites from one central interface, the centraco® Enterprise Command and Control Suite. A multi-layered command and control interface, it is designed to function as the central point and aggregator for information consolidation, connectivity and communications. The platform is browser based and agnostic to the interconnected sub-systems. It provides full integration for seamless user credentialing and performs the following major functions:
+
+·
+ Collection: Device management independently collects data from any number of disparate devices or sub-systems.
+
+·
+ Analysis: Correlates and analyzes data, events and alarms to identify real-time situations and their priorities for response measures and end-user’s Concept of Operations (“CONOPS”).
+
+·
+ Verification: The contextual layer represents relevant information in a quick and easily interpreted format which provides operators optimal situational awareness.
+
+·
+ Resolution: Event-specific presentation of user-defined Standard Operating Procedures (“SOPs”), that includes step-by-step instructions on how to resolve situations.
+
+·
+ Reporting: Tracking of data and events for statistical, pattern and/or forensic analysis. Features include mathematical, statistical and comparative data reporting as well as interoperability with third-party databases. Reports are customized to the end user’s data formats and infrastructure.
+
+·
+ Auditing: Device-level drill down that records each operator’s login interaction with the system and tracks manual changes including calculations of operator alertness and reaction time for each event.
+ ·
+ AutoCheck: The system pings each device connected to its wide area network and performs periodic functionality audits. A variable alert feature sends out error messages to an unlimited number of user-definable stakeholders in case any device does not perform to specifications.
+
+centraco® User Interface
+ 
+4
+
+
+Automated Logistics Information Systems (alis)
+
+We have developed and deployed a proprietary intelligent system to automate security gate operations at nine distribution centers owned and operated by a national retail chain. Using similar technology that is used in our Rail Inspection Portal, this solution automates the process of entering and exiting a large logistics or intermodal yard. This automates the logistics transaction, improves throughput and can also be used to automate security and maintenance screening/detection if desired by the customer. 
+
+Automated Gate Operation alis deployed at nine Kohls distribution centers
+
+Markets
+
+The opportunity for our Rail Inspection Portal business is substantial and our number one priority at this time. We are currently providing this solution to three of seven Class 1 railroad operators with 10 systems already deployed. Because of our early leadership position, we have been able to accumulate experience and intellectual property that would be time consuming and expensive for a new competitor to replicate. Furthermore, we have given ourselves the ability to upgrade and scale our solutions with additional technologies in the future. Recently, the new CEO directed our operations and technical teams to improve our current design to meet anticipated Federal Railroad Administration, or FRA and Association of American Railroads regulatory guidelines. We currently estimate the total Class 1 railroads addressable market at 156 systems in North America alone. Between initial RIP installations, upgrades and long-term service agreements, we believe this equates to $800 million, which is realistically attainable in the coming years. At the same time, we recognize that the technology life cycle is fast and evolving. Potential competitors could move into this sector, and it is possible that some Class 1 railroads could develop their own solutions that limit our total addressable market. 
+
+Another market we are pursuing as our second priority is using our Automated Logistics and Information Systems solution (alis). Potential customers include commercial retail logistics and intermodal operators, Class 1 rail intermodal operators that are moving large amounts of automobiles, and U.S. Government agencies such as the Department of Defense and the Department of Homeland Security. Today, we currently have 20 production systems in use, but we believe the greenfield opportunity here to be substantial. We have identified over 900 lanes of traffic within nearly 300 facilities as potential business opportunities in the near-term. The addressable market equates to well over $100 million.
+
+Currently, we are focused on the North American market, but plan to expand globally in the future. 
+ 
+Patents and Trademarks
+
+The Company holds a number of patents and trademarks for our technology solutions. We protect our intellectual property rights by relying on federal, state, and common law rights, as well as contractual restrictions. We control access to our proprietary technology by entering into confidentiality and invention assignment agreements with our employees and contractors, and confidentiality agreements with third parties. We also actively engage in monitoring activities with respect to infringing uses of our intellectual property by third parties.
+
+
+5
+
+
+Specific Areas of Competition
+
+One of our primary commercial goals is to develop innovative technology solutions and target potential greenfield market spaces in order to maximize our business footprint and give us the ability to help define the market parameters for the future. 
+
+With regards to our Railcar Inspection Portal (RIP), we currently have no direct competition domestically or globally.  There are several companies that do provide visual and optical (laser) based imaging systems, but they are specifically designed to focus on a single aspect of a railcar whereas our latest RIP will identify 50+ inspection points on each car.  This is not to be confused with track inspection technologies, where we do not compete with. We are the only company, to our best knowledge, that creates images of the entire car from multiple perspectives and with many inspection points.  Other companies that participate in the visual and optical (laser) based railcar inspection systems market include:
+
+·
+ Trimble Rail Solutions/Beena Vision – Atlanta, GA – Trimble Rail Solutions is a conglomerate of companies focused on various aspects of the maintenance and construction of rail infrastructure or management of rail transportation assets.  In 2017, they acquired Beena Vision which focuses on wayside inspection systems to analyze specific aspects of a railcar such as wheels and brakes among other critical points.  All their systems are currently designed to focus on a singular aspect of a railcar.  While they do advertise a full-scale train imaging and inspection portal, it is generally not comparable to our offering nor, to our knowledge, has it been widely adopted by North American Class 1 railroads for automated wayside inspection purposes.
+ ·
+ KLD Labs – Hauppauge, NY – KLD Labs develops and deploys wayside measurement and inspection systems for railcar inspection.  Like most others, their products are focused on singular aspects of a railcar such as wheels and brakes.  They have also developed some technologies for rail track assessment and measurement.
+
+·
+ Class 1 Railroads – Some of the Class 1 railroads, such as Union Pacific, have worked to develop their own “in-house” solutions but are also specifically focusing on singular aspects of a railcar.  
+
+Our Automated Logistics Information System (ALIS) also represents an opportunity to expand into a very mature market with a major technology gap.  While most facilities, such as distribution centers, that process commercial trucks in and out have sophisticated software management applications for logistics control, they have most often not implemented an advanced gatehouse automation solution.  Historically, this category was referred to as Automated Gate Systems or AGS.  The purpose of AGS technology is to streamline entry in to and exit out of facilities.  The marketplace for this was mostly seaports and intermodal transfer facilities and was relatively expensive technology to deploy.  We identified a market gap with regards to distribution facilities that all currently utilize manual processes and heavy staffing to accomplish commercial truck entry and exit.  The barrier to entry for distribution centers was predominately cost, as well as the requirement for a different set of logistics management software and tools.  The current defined competition is as follows:
+
+·
+ Nascent – Charlotte, NC – Their primary market focus has been on seaports and intermodal transfer facilities. 
+
+·
+ Potential End Users/Customers – In communications with potential customers, many have identified the desire to add this technology but have faced difficulties in finding companies offering a solution that meets their specific needs.  
+
+Due to the nature of our innovations, our current customer base, which is predominately in the railroad industry, constantly challenges us to develop new systems that do not yet exist in the marketplace.  Each of these opportunities for new product development is evaluated from both a business and technical perspective.  We evaluate the following: can it technically be accomplished?; Does it leverage our core technology competencies; and ultimately, Is there a market for this product?  Recently, we were asked to develop a variant of our Railcar Inspection Portal to assess for damaged automobiles being transported by the railroads.  This is a perfect example of being able to leverage our experience with imaging, system development and field deployment combined with an addressable market into penetrating a new greenfield.  
+
+Our Growth Strategy
+
+Vision
+
+Duos develops, deploys and operates cutting-edge technologies that help to transform precision railroading, logistics and intermodal transportation solutions.
+
+
+6
+
+
+Objectives
+
+·
+ Improve our operational and technical execution, customer satisfaction and speed.
+
+·
+ Expand Rail Inspection Portal and Automated Logistics Information System with current and future customers in Rail, Logistics and U.S. Government sectors.
+
+·
+ Offer both CAPEX and OPEX pricing models that increase recurring revenue and improve profitability.
+
+·
+ Form strategic partnerships that improve market access and credibility.
+
+·
+ Improve policy, processes, and toolsets to become a viable platform for internal growth and for mergers and acquisitions.
+
+·
+ Thoughtfully execute mergers and acquisitions once the business is more mature and profitable to expand offerings and/or capabilities.
+
+·
+ Promote a performance-based work force where employees enjoy their work and are incentivized to excel and innovate.
+
+Organic Growth
+
+Our organic growth strategy is to continue our focus and prioritization in the rail, logistics and intermodal market space. To ensure our success, the Company has made significant changes in the senior management team to include a new Chief Executive Officer who has years of experience successfully leading start-up and turn-around companies. In addition, the former divisional COO who has 20 years of experience with the Company delivering technology into rail, logistics, intermodal, and other industries, has been promoted to Chief Commercial Officer (CCO) of our wholly owned subsidiary, duostech. We have also hired a divisional Chief Operating Officer (COO) with a strong background in operations in multiple former assignments. The Companys CFO will continue in the same role providing continuity and multiple years of public company experience. The Companys Board of Directors is being strengthened with the addition of a retired Chief Operating Officer for a Class 1 railroad with more than 50 years of experience in the rail industry. The shareholders also approved the appointment of our CEO to the Board of Directors.
+
+The new leadership teams focus is to improve operational and technical execution which will in turn enable the commercial side of the business to expand RIP and ALIS delivery into existing customers. Even though the COVID-19 pandemic is expected to still be an issue during 2021, the Companys primary customers have indicated readiness to order more equipment and services based upon the Companys current performance. 
+
+Additionally, the new CEO has directed that the Company make engineering and software upgrades to the RIP to meet anticipated Federal Railroad Association (FRA) and Association of American Railroad (AAR) standards. Similar upgrades are also being developed to improve the ALIS system. 
+
+Manufacturing and Assembly
+
+The Company designs and develops technology solutions using a combination of in-house fabrication, commercial off-the-shelf technology, and outsourced manufacturing. On-site installations are performed using a combination of in-house project managers and engineers and using third-party sub-contractors as needed. Throughout the process of design, develop, deploy and operate, the Company maintains responsibility for all aspects. Our internal manufacturing operations consist primarily of materials procurement, assembly, testing and quality control by our engineers. If not manufactured internally, we use third-party manufacturing partners to produce our hardware related components and hardware products and we most often complete final assembly, testing and quality control processes for these components and products. Our manufacturing processes are based on standardization of components across product types, centralization of assembly and distribution centers, and a build-to-order methodology in which products generally are built only after customers have placed firm orders. For most of our hardware products, we have existing alternate sources of supply. 
+Research and Development 
+
+The Companys R&D and software development teams design and develop all systems and software applications with a combination of full-time in-house software engineers and outside contractors. Internal development allows us to maintain technical control over the design and development of our products. Rapid technological advances in hardware and software development, evolving standards in computer hardware and software technology, and changing customer requirements characterize the markets in which we compete. We plan to continue to dedicate significant resources to research and development efforts, including software development, to maintain and improve our current product and services offerings. 
+
+
+7
+
+
+Government Regulations
+
+The Company has worked with various agencies of the federal government for more than 10-years including the Department of Homeland Security (DHS). When our solutions have been deployed into these agencies, they meet specific requirements for certification, safety and security that are stipulated in requirements and contract documents. The Company is currently competing for other government related work and strictly follows the rules and regulations outlined in the Federal Acquisition Regulations.
+Employees
+
+We have a current staff of 59 employees of which 57 are full-time, the majority of which work in the Jacksonville area, none of which are subject to a collective bargaining agreement. We also have seven contract staff based in Europe who are primarily focused on our AI software development. We have not experienced any work stoppages and we consider our relationship with our employees to be good.

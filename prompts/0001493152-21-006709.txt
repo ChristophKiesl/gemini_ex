@@ -1,0 +1,148 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.
+The Company:
+ 
+Sigma is an 11-year-old software company that was founded by scientist-engineers composed of physicists and metallurgists then working at Los Alamos National Labs for the entrepreneurial purpose of developing sophisticated metallurgical products. Since 2016, the Company’s focus has been on solving the complex and challenging problem of how to best assure the high quality of metal parts manufactured in laser powder bed additive manufacturing machines. Sigma and many others believe that until this problem was solved, 3D manufacturing of metal parts would not be scalable enough to grow past prototyping and mature into a major industry enjoying high quality yields and cost-efficient production runs. The solution that Sigma developed to solve this problem is In-Process-Quality-Assurance (“IPQA®”) software known as PrintRite3D®.
+
+
+In 2018, the Sigma team enhanced and added user features to its PrintRite3D® technology. In 2019, the Company began to productize and test PrintRite3D® on various 3D metal printers at customers’ sites through the Company’s Rapid Test and Evaluation (“RTE”) program. Upon receiving favorable responses from the various RTEs, in 2020 the Company began to aggressively market PrintRite3D®. However, the worldwide COVID-19 pandemic caused a reduction, and in some cases a freeze, in capital spending within the Company’s targeted industries and had what the Company believes to be a short-term negative impact on the Company’s expected timing of generating meaningful revenue. Despite the pandemic, the Company moved forward with its plan to market PrintRite3D® to the following industry segments: (1) global manufacturing companies with Additive Manufacturing (“AM”) initiatives; (2) 3D printer Original Equipment Manufacturers (“OEMs”) for purchases of licenses and generating fees and royalties thereafter; (3) additive manufacturing software venders for alliances and licenses for co-sales; and (4) research foundations, standards organizations and universities, all in service of Sigma’s potential for setting the industry standard of measurement by providing data and analytics as a metrics-based quality standard of metal quality for all 3D laser powder bed manufactured parts, notwithstanding the design, metal, or brand of equipment upon which parts are manufactured.
+
+
+
+4
+-
+
+
+Additive Metal Manufacturing and the role and need for Sigma’s technology:
+ 
+Additive Manufacturing, or 3D printing, has been among the most heavily explored manufacturing innovations in the history of modern manufacturing. The use of 3D printing technology dates back to the 1980s for polymer applications, but the ability to print functional parts from metal alloys has spurred significant interest and investment into AM over recent years. AM is now reshaping the product design process, entire supply chains, and the vast landscape of manufacturing. Engineers are embracing new design freedoms to realize valuable product performance improvements and cost efficiencies with lighter weight, better thermal management capability, better fluid mixing, customization, and/or the ability to make different structures and textures that yield better part integration.
+ 
+Several significant hurdles still prevent the wider adoption of additive technologies. The lack of quality, consistency and standards are most often cited. The Company believes that the lack of technology such as PrintRite3D®, could be the last sizable barrier to the widespread industrialization of 3D metal printing. Additionally, many believe that the disruption to complex and rigid supply chains caused by COVID-19 exposed the country’s vulnerability to shortages in times of crisis. It appears that many manufacturers are devising strategies to be able to be more agile, increase their ability to manufacture mission critical parts on demand, with more customization, and closer to where the end part will be needed.
+ 
+We anticipate that the enterprise adoption of the technology will accelerate in 2021, evolving over time as follows:
+
+
+
+● | Stage 1 – International research & development organizations and universities will establish centers of excellence for Advanced Manufacturing and be a major resource for enterprises seeking to adopt best practices for AM. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Stage 2 - Enterprises will start with their own R&D initiatives and select a 3D printer vendor, or vendors, that meets their requirements. During this time, they will focus on experimenting with different metal powder alloys, part structures, design guidelines, and in-process quality metrics. 
+● | Stage 3 – Once R&D is complete, enterprises will select one part to test and move into production, improving the process from design to production and confirming the economics and quality of the process. 
+● | Stage 4 – International standards will be established by organizations such as NIST, ISO, ATSM, etc., ensuring the consistency of components and processes. These standards will become increasingly important as the industry moves to full industrialization. 
+● | Stage 5 – As the adoption of AM accelerates, enterprises will utilize multiple 3D printers from multiple manufacturers due to printer innovations and advancements, varying production requirements, divisional preferences, etc. 
+● | Stage 6 – Independent standards-based, IPQA systems, such as PrintRite3D®, will be required to assure consistent quality in heterogeneous factories. 
+
+
+5
+-
+
+PrintRite3D® Technology and Product Family
+ 
+PrintRite3D® is an interactive in-process quality assurance system that combines inspection, feedback, data collection and critical analysis. It is a platform-independent solution that can be installed as a retrofit to an existing 3D printer or requested as a factory option from select 3D printer OEMs. PrintRite3D® provides a high-fidelity, accurate system that can confidently scale to multi-laser 3D metal printers. The PrintRite3D® system discovers potential anomalies and incorporates machine learning in conjunction with developed metrics to map those metrics to the post-process data. This provides the ability to reduce post-production testing and costs, while creating a certification framework that serves the needs of end-users, printer manufacturers, and standards organizations.
+ 
+The Company currently offers three versions of PrintRite3D® for Laser Bed Fusion Systems: (1) PrintRite3D® Lite which has a smaller footprint and is geared towards single-laser machines for Research and Development, or small production lots. (2) PrintRite3D® Pro, for single, dual and quad laser machines and is suited well for environments with less than 10 machines, and (3) PrintRite3D® Enterprise for plant-wide networks. PrintRite3D® Lite expands the Company’s addressable market to mid-range 3D printer manufacturers for potential OEM opportunities.
+
+
+The Company announced in late 2020 PrintRite3D® for Direct Energy Deposition (“DED”), opening up another segment of the market for Sigma to sell and distribute its technology. DED is based on a laser process in which a laser beam generates a melt pool on a substrate. An additional metallic powder material is transported to the melt pool, where it becomes molten. Due to a feed movement, the molten material cools down and welding tracks are formed. By placing weld tracks side-by-side and on top of one another, a build-up is obtained. Three-dimensional structures can then be generated by depositing one layer or track at the top of another previously welded layer or track. 
+ 
+Distribution Methods
+ 
+Sigma Labs employs a multi-channel distribution model for its IPQA products including a direct sales force, value added resellers (VARs) and 3D printer Original Equipment Manufacturers (OEMs). In 2020, the majority of the Company’s revenue was generated by direct sales in North America and Europe. VARs are currently used in Japan and India. The Company plans to extend its VAR channel outside of North America and Europe. In 2020 the Company moved aggressively to establish and extend relationships with 3D printer OEMs and expects that the percentage of the Company’s revenue coming from OEMs will increase in 2021 and beyond.
+
+
+The Company markets its products through webinars, email and social media campaigns, and participation, both in person and virtually, in industry events and tradeshows. In addition, the Company collaborates with international standards organizations in the establishment of standards for AM.
+ 
+Sources and Availability of Parts and Materials
+ 
+We have important relationships with several suppliers for critical components of our PrintRite3D® systems, in particular optics and data acquisition components, and development of our user interface. To-date, we have not experienced shortages of components, however, in some cases COVID-19 has resulted in increased lead times for certain parts. We manage the risk of component shortages by sourcing backup suppliers, and in the case of our user interface, hiring engineers in-house to support the ongoing development and maintenance.
+
+
+Agreements with Original Equipment Manufacturers (“OEMs”)
+ 
+The Company entered into distribution agreements with two international 3D printer OEMs. The Company supports the OEMs with joint marketing programs and field sales and technical support personnel to assist in the sale of its technology. It is the Company’s intent to continue to build the OEM channel through distribution relationships with other 3D printer OEMs in the future.
+Competition and Sigma’s Intellectual Property Safeguards
+ 
+PrintRite3D® is a third-party, agnostic In-Process Quality Assurance system designed to provide a consistent, standards-based measurement and prediction of quality across a heterogeneous collection of 3D printers. Competition is primarily from the printer OEMs who offer their own monitoring system, usually as a separately priced option to its printers. Sigma believes that the future of AM will consist of factories with various generations of printers from various manufacturers. The primary reasons that global manufacturers will have machines from various vendors is that certain machines and technologies are better suited for different applications than others. Additionally, as the industry progresses, innovation will accelerate, and new leaders will emerge. Finally, many believe that there will be a consolidation of 3D metal manufacturers and the number of vendors will decrease from approximately 50 to a much small number over the next decade. Although standards for monitoring are slowly being set by various international standards organizations, it is highly unlikely that printer OEMs will modify their monitoring systems to work with other OEMs machines. Therefore, we believe that the only way to produce parts with a consistent level of quality is with a third-party, agnostic, standards based IPQA system, such as PrintRite3D®. To the Company’s knowledge, there is no competitor currently offering an IPQA system with similar functionality which has been validated to operate across as many 3D metal printers as PrintRite3D®.
+ 
+Sigma began its investigation and research into optical and thermal data collection and measurement for quality assurance and intervention approximately 7 years ago and began to develop its intellectual property protection at that time. The international IP law firm, Kilpatrick Townsend, has advised the Company on building a patent portfolio, trade secrets, trademarks, etc. and filed and prosecuted patents as the Company has grown its body of intellectual property.
+ 
+
+6
+-
+
+
+Sigma Labs, Inc. Patent Portfolio 
+-------------------------------------
+Jurisdiction | Granted | In Process | Total
+US | 13 | 14 | 27 
+PCT | - | 1 | 1 
+EP | - | 4 | 4 
+Germany | - | 6 | 6 
+China | 1 | 3 | 4 
+Japan | - | 1 | 1 
+Korea | - | 1 | 1 
+Total | 14 | 30 | 44 
+
+ 
+Based upon the evidence of competitors’ claims received by Sigma to-date, it appears to us that Sigma’s solution to the quality problems of 3D metal printing is a significantly different technological approach than that of our principal known competition. It continues to appear to the Company that the intellectual property protection of PrintRite3D®’s acuity, meaningful metrics of thermal data correlated to part quality, and usability of its software accord Sigma freedom to operate with its technology and will be a significant barrier to entry to competitors attempts to pursue the technology path traveled by Sigma.
+ 
+Intellectual Property
+ 
+We regard our patents, trademarks, domain names, trade secrets, know-how, and other intellectual property as critical to our success. We rely on a combination of patent, trademark, trade secret, other intellectual property law, confidentiality procedures, and contractual provisions with employees, partners, and others to protect the technology and other proprietary rights, information and know-how that comprise the core of our business. The chart below summarizes our issued patents. We are currently prosecuting thirty foreign and U.S. patent applications related to our IPQA® technology and rapid qualification of additive manufacturing for metal parts. There is no guarantee that the patent applications we have submitted will issue or that if issued, they will offer adequate protection under applicable law.
+
+7
+-
+
+
+Title | Type | Patent No. or Application No. | | Expiration Date 
+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-----------------------------------+------------------+--------------------
+Controlled Weld Pool Volume Control of Welding Processes | US Utility | | 8,354,608 | | 3/16/31 
+Structurally Sound Reactive Materials | US Utility | | 8,372,224 | | 10/15/30
+Composite Projectile | US Utility | | 8,359,979 | | 3/21/27 
+Methods and Systems for Monitoring Additive Manufacturing Processes | US Utility | | 9,999,924 | | 5/11/36 
+Systems and Methods for Additive Manufacturing Operations | US Utility | | 10,207,489 | | 6/20/37 
+Material Qualification System and Methodology | US Utility | | 10,226,817 | | 4/26/37 
+Material Qualification System and Methodology | China Utility | | ZL201680010333.X | | 1/13/26 
+Optical Manufacturing Process Sensing and Status Indication System | US Utility | | 10,317,294 | | 5/2/35 
+Systems and Methods for Measuring Radiated Thermal Energy During an Additive Manufacturing Operation | US Utility | | 10,479,020 | | 8/1/38 
+Optical Manufacturing Process Sensing and Status Indication System | US Utility | | 10,520,372 | | 3/25/35 
+Systems and Methods for Additive Manufacturing Operations | US Utility | | 10,717,264 | | 12/28/38
+Systems and Methods for Measuring Radiated Thermal Energy During an Additive Manufacturing Operation | US Utility | | 10,639,745 | | 2/21/39 
+Photodetector Array for Additive Manufacturing Operations | US Utility | | 10,786,850 | | 2/21/39 
+Multi-Sensor Quality Inference and Control for Additive Manufacturing Processes | US Utility | | 10,786,948 | | 4/24/37 
+
+Government Regulation
+ 
+Any contracts that we enter into with governmental agencies will be subject to a variety of federal, state and local laws and regulations. These regulations are aimed at preventing the inadvertent disclosure of munitions related data or the export of technical knowledge to foreign countries. The work we do with governmental units may also be subject to laws respecting the confidentiality of any classified or national security information we receive during the course of our activities under any government contract.
+ 
+Additionally, with respect to our work with government agencies, our sales are driven by pricing based on costs incurred to produce products or perform services under contracts with the U.S. government. U.S. government contracts generally are subject to Federal Acquisition Regulations (“FAR”), agency-specific regulations that implement or supplement FAR, such as the DoD’s Defense Federal Acquisition Regulations and other applicable laws and regulations. These regulations impose a broad range of requirements, many of which are unique to government contracting, including various procurement, import and export, security, contract pricing and cost, contract termination and adjustment, and audit requirements. A contractor’s failure to comply with these regulations and requirements could result in reductions of the value of contracts, contract modifications or termination, and the assessment of penalties and fines and could lead to suspension or debarment from government contracting or subcontracting for a period of time. In addition, government contractors are also subject to routine audits and investigations by U.S. government agencies such as the Defense Contract Audit Agency (“DCAA”). These agencies review a contractor’s performance, cost structure, and compliance with applicable laws, regulations, and standards. The DCAA also reviews the adequacy of, and a contractor’s compliance with, its internal control systems and policies, including the contractor’s purchasing, property, estimating, compensation, and information systems.
+ 
+As of March 24, 2021, we do not have any active contracts with government agencies. During fiscal year 2020, we did not enter into any contracts with government agencies, nor do we seek to do so in the future.
+ 
+Employees and Human Capital Resources
+ 
+As of December 31, 2020, we had 20 full-time employees. We continue to search for additional, qualified personnel, to support our expanding operations in the area of IPQA® for AM. We believe that our future success largely depends upon our continued ability to attract and retain highly skilled employees, as well as highly qualified management and technical personnel. Employee engagement is important to us and we focus on continuously enhancing our corporate culture.
+Properties
+ 
+We lease approximately 3,700 square feet of space at 3900 Paseo del Sol, Santa Fe, New Mexico 87507, including 1,772 square feet of office space at units, C-14, C-15, C-16, C-17, C-20, C-21 and D-34 for a total monthly rent expense of approximately $3,840 under the lease, and 1,928 square feet of warehouse / production space at units E-38, E-40 and E-42, for a total monthly rent expense of approximately $2,275 under the lease, which expire on July 31, 2021.
+ 
+We believe that our facilities are suitable for our current needs. We currently intend to renew such leases, but we are evaluating the need for a larger space as we grow.
+ 
+Corporate Information
+ 
+Our principal executive offices are located at 3900 Paseo del Sol, Santa Fe, New Mexico 87507, and our current telephone number at that address is (505) 438-2576. Our website address is www.sigmalabsinc.com. The Company’s annual reports, quarterly reports, current reports on Form 8-K and amendments to such reports filed or furnished pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and other information related to the Company, are available, free of charge, on that website as soon as we electronically file those documents with, or otherwise furnish them to, the SEC. The Company’s website and the information contained therein, or connected thereto, are not and are not intended to be incorporated into this Annual Report on Form 10-K.
+Recent Developments
+ 
+On March 15, 2021, we announced that we were awarded a contract for an initial system of our PrintRite3D in-process quality assurance solution by Lockheed Martin Space Additive Design & Manufacturing Center based in Sunnyvale, California. The Additive Design & Manufacturing Center supports the entire Space portfolio and integrates key materials research and manufacturing processes to streamline the affordable delivery of satellite components. As a part of this initial contract, the Lockheed Martin team will assess the viability and performance of PrintRite3D technology for the Space division in support of a variety of defense and civil space programs.
+ 
+On January 12, 2021, the Company closed a public offering of equity securities in which it issued 1,711,783 shares of common stock (including the exercise in full of the underwriters’ over-allotment option of 223,276 shares). Net proceeds to the Company after deducting offering expenses were approximately $4,532,444.
+ 
+On December 18, 2020, we announced that we were selected by DMG MORI as the preferred melt pool monitoring system for their LASERTEC SLM machines. Engineering teams from both companies worked extensively to test the integrated solution to ensure that it meets the demanding needs of industrial manufacturers utilizing DMG MORI’s family of metal 3D printers. DMG MORI will be providing an interface with its printers to accommodate our optics, ensuring that the systems are PrintRite3D® ready.
+ 
+
+8
+-
+
+
+We incorporated as Messidor Limited in Nevada on December 23, 1985 and changed our name to Framewaves Inc. in 2001. On September 27, 2010, we changed our name from Framewaves Inc. to Sigma Labs, Inc.
+ 
