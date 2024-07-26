@@ -1,0 +1,984 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ | Page 
+---------+-----------------------------------------------------------------------------------------------
+PART I 
+Item 1. | Business | 1 
+PART III
+Item 10. | Directors, Executive Officers and Corporate Governance | 25
+Item 11. | Executive Compensation | 30
+Item 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters | 35
+Item 13. | Certain Relationships and Related Transactions, and Director Independence | 37
+Item 14. | Principal Accounting Fees and Services | 38
+PART IV 
+Item 15. | Exhibits, Financial Statement Schedules | 39
+
+EXPLANATORY NOTE
+ 
+This Amendment No. 1 on Form 10-K/A (the "Amended Filing") to the Annual Report on Form 10-K of BioCardia, Inc., a Delaware corporation (referred to as “BioCardia”, “the Company”, “we”, “us” or “our”) for the fiscal year ended December 31, 2016, which was filed with the U.S. Securities and Exchange Commission (the "SEC") on March 30, 2017 (the "Original Filing"), is being filed to revise certain disclosures in the Original Filing in response to correspondence letters with the SEC in connection with the SEC’s review of our Registration Statement on Form S-3, originally filed on May 19, 2017 and as amended on June 28, 2017 and July 20, 2017.
+ 
+Specifically, page i of the Original Filing included the following penultimate paragraph:
+ 
+“You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of the forward-looking statements. Except as required by law, we undertake no obligation to update publicly any forward-looking statements for any reason after the date of this Annual Report to conform these statements to actual results or to changes in our expectations.” 
+ 
+This paragraph has been amended to remove the penultimate sentence and will read as follows:
+ 
+“You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. Except as required by law, we undertake no obligation to update publicly any forward-looking statements for any reason after the date of this Annual Report to conform these statements to actual results or to changes in our expectations.” 
+ 
+Specifically, page 2 of the Original filing included the following paragraph under “Company Overview”:
+ 
+“We are committed to applying our expertise in the fields of autologous and allogeneic cell-based therapies to improve the lives of patients with cardiovascular conditions. Autologous cell therapies use autologous cells, which means the patient’s own cells, while allogeneic cell therapies use allogeneic cells, which means cells from a third party donor.”
+ 
+This paragraph has been amended and will read as follows:
+ 
+“We are committed to applying our expertise in the fields of autologous and allogeneic cell-based therapies to improve the lives of patients with cardiovascular conditions. Autologous cell therapies use autologous cells, which means the patient’s own cells, while allogeneic cell therapies use allogeneic cells, which means cells from a third party donor. As we engage in clinical trials of our therapeutic candidates, we have compensated and intend to compensate all parties performing the trials or studies (including all the parties identified in this Annual Report on Form 10-K) only on terms that are standard and customary in clinical study arrangements.”
+ 
+Specifically, page 6 of the Original Filing included the following first sentence in the first paragraph:
+ 
+“TACHFT-BMC found CardiAMP cells to be safe at both dosages (100 million and 200 million cells) and that treated patients had increased their functional capacity, improved quality of life, symptoms and key markers of cardiac function predictive of survival, such as end systolic volume, or ESV.”
+ 
+This sentence has been revised to replace “found CardiAMP cells to be safe” with “met its primary safety endpoint” and will read as follows:
+ 
+“TACHFT-BMC met its primary safety endpoint at both dosages (100 million and 200 million cells) and that treated patients had increased their functional capacity, improved quality of life, symptoms and key markers of cardiac function predictive of survival, such as end systolic volume, or ESV.”
+ 
+Specifically, page 6 of the Original Filing included the following sentence:
+  
+“A summary of the findings is below:”
+ 
+ 
+
+
+
+A new sentence has been added before this sentence, and the revised paragraph and will read as follows:
+ 
+“Although clinical trial results supporting safety and efficacy have been found in both the Phase I TABMMI and Phase II TACHFT-BMC trials, the CardiAMP system products still remain investigational, and no claims regarding safety or efficacy can be made until the products are approved by the FDA. A summary of the TACHFT-BMC findings is below:”
+ 
+Specifically, page 6 of the Original Filing included the two publications below:
+ 
+    “★    Heldman AW, et al Transendocardial Mesenchymal Stem Cells and Mononuclear Bone Marrow Cells for Ischemic Cardiomyopathy The TAC-HFT Randomized Trial JAMA.2013.282909.
+       ★    Wong Po Foo et al., The transendocardial autologous cells in ischemic heart failure trial bone marrow mononuclear cells (TAC-HFT-BMC) randomized placebo controlled blinded study, Regenerative Medicine 2015, 10(7s), S169.”
+ 
+The two publications will be revised to include the following footnote (“*”) and will read as follows:
+  
+“*These publications are not incorporated by reference into this Annual Report on Form 10-K, and the citations are provided for the sole purpose of facilitating a more detailed review of the clinical results.”
+ 
+Specifically, page 8 of the Original Filing included the following third paragraph:
+ 
+“Preclinical work with expanded MSCs in swine has been performed with our collaborators at three universities. Early studies showed cells could be efficiently delivered and tracked in the heart using iron oxide incubation techniques with magnetic resonance imaging. Immunohistochemistry stains also detailed that cells could be identified in the hearts after delivery. Randomized swine studies demonstrated that bone marrow derived mesenchymal stem cells, could be safely injected by using our Helix biotherapeutic delivery system three days after myocardial infarction. Cellular transplantation resulted in long-term engraftment, reduction in scar formation and near-normalization of cardiac function. As an additional finding, transplanted cells derived from an allogeneic donor were not rejected by the recipient, a major practical advance for the potential widespread application of this therapy. Studies have also been performed evaluating a variety of delivery strategies. Together, these findings supported that the direct injection of cellular grafts into damaged myocardium is safe and effective in the peri-infarct period.” 
+ 
+This paragraph has been amended to revise the final sentence and will read as follows:
+ 
+“Preclinical work with expanded MSCs in swine has been performed with our collaborators at three universities. Early studies showed cells could be efficiently delivered and tracked in the heart using iron oxide incubation techniques with magnetic resonance imaging. Immunohistochemistry stains also detailed that cells could be identified in the hearts after delivery. Randomized swine studies demonstrated that bone marrow derived mesenchymal stem cells, could be safely injected by using our Helix biotherapeutic delivery system three days after myocardial infarction. Cellular transplantation resulted in long-term engraftment, reduction in scar formation and near-normalization of cardiac function. As an additional finding, transplanted cells derived from an allogeneic donor were not rejected by the recipient, a major practical advance for the potential widespread application of this therapy. Studies have also been performed evaluating a variety of delivery strategies. Together, these findings demonstrate the safety of directly injecting cellular grafts into damaged myocardium during the peri-infarct period and provided signals of efficacy.” 
+ 
+Specifically, page 8 of the Original Filing included the two publications listed below:
+ 
+ “★     Heldman AW, et al Transendocardial Mesenchymal Stem Cells and Mononuclear Bone Marrow Cells for Ischemic Cardiomyopathy The TAC-HFT Randomized Trial JAMA.2013.282909.
+ 
+★     Hare JM, et al. Comparison of Allogeneic vs Autologous Bone Marrow-Derived Mesenchymal Stem Cells Delivered by Transendocardial Injection in Patients With Ischemic Cardiomyopathy, The POSEIDON Randomized Trial, JAMA. 2012;308(22).”
+ 
+The two publications will be revised to include the following footnote (“*”) and will read as follows:
+ 
+
+ 
+
+
+
+“* These publications are not incorporated by reference into this Annual Report on Form 10-K, and the citations are provided for the sole purpose of facilitating a more detailed review of the clinical results.”
+ 
+Specifically, page 9 of the Original Filing included the following second sentence in the first paragraph:
+ 
+“We expect to confirm the safety and efficacy of MSCs in our target patient population in a Phase II randomized controlled study.”
+ 
+This sentence has been revised to replace “confirm” with “demonstrate support for” and will read as follows:
+ 
+“We expect to demonstrate support for the safety and efficacy of MSCs in our target patient population in a Phase II randomized controlled study.”
+ 
+Specifically, page 9 of the Original Filing included the following first sentence in the second paragraph:
+ 
+“Both CardiAMP and CardiALLO therapeutic programs have safety and efficacy support from completed clinical studies. 
+ 
+This sentence has been revised and will read as follows: 
+ 
+“The completed clinical studies show support for the safety and efficacy of both the CardiAMP and CardiALLO therapeutic programs; however, both programs still remain investigational, and no claims regarding safety or efficacy can be made until the constituent CardiAMP and CardiALLO products are approved by the FDA.”
+ 
+Specifically, page 10 of the Original Filing included the following first bullet point under the subheading, “Business Strategy”:
+ 
+
+● | “Complete Phase III pivotal trial of CardiAMP for patients with ischemic systolic heart failure. We have initiated our 260 patient CardiAMP Phase III pivotal trial with optional 10 patient roll-in cohort. Based on the results of the Phase II trial, the Phase III pivotal trial will focus on patients with NYHA Class II or III ischemic systolic heart failure, and the primary endpoint will be functional capacity as measured by the six minute walk test. The trial will use the CardiAMP potency assay to target patients most likely to benefit from our treatment. This trial has begun treating patients and is expected to have top-line trial results in 2019.”
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+This first bullet point under the subheading, “Business Strategy” has been amended and will read as follows:
+ 
+
+● | “Complete Phase III pivotal trial of CardiAMP for patients with ischemic systolic heart failure. We have initiated our 260 patient CardiAMP Phase III pivotal trial with optional 10 patient roll-in cohort. Based on the results of the Phase II trial, the Phase III pivotal trial will focus on patients with NYHA Class II or III ischemic systolic heart failure, and the primary endpoint will be functional capacity as measured by the six minute walk test. The trial will use the CardiAMP potency assay to target patients most likely to benefit from our treatment. This trial has begun treating patients and is expected to have top-line trial results in 2019. While we originally expected to commence this trial in the second half of 2015 and obtain results in the second half of 2017, delays in our obtaining necessary funding at the time resulted in our postponing the trial until December 2016.”
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Specifically, page 99 of the Original Filing stated that the information required by Part III of Form 10-K is incorporated by reference to our Proxy Statement for our 2017 Annual Meeting of Stockholders. Information required by Part III, Items 10-13 previously incorporated by reference to our Proxy Statement for our 2017 Annual Meeting, which was filed with the SEC on April 28, 2017, are hereby amended and restated in their entirety in this Amended Filing.
+ 
+Items Amended in this Filing 
+ 
+For the convenience of the reader, this Amended Filing sets forth the Original Filing, as modified and superseded where necessary to reflect the changes set forth above. The following items have been amended as a result of, and to reflect, the changes set forth above:
+ 
+
+● | Special Note Regarding Forward-Looking Statements
+--+--------------------------------------------------
+
+
+● | Part I, Item 1. Business
+--+-------------------------
+
+
+● | Part III, Item 10. Directors, Executive Officers and Corporate Governance
+--+--------------------------------------------------------------------------
+
+
+● | Part III, Item 11. Executive Compensation
+--+------------------------------------------
+
+
+● | Part III, Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+--+------------------------------------------------------------------------------------------------------------------
+
+
+● | Part III, Item 13. Certain Relationships and Related Transactions, and Director Independence
+--+---------------------------------------------------------------------------------------------
+
+ 
+In accordance with applicable SEC rules, this Amended Filing includes new certifications required by Rule 13a-14 under the Securities and Exchange Act of 1934 (the "Exchange Act") from our Principal Executive Officer and Principal Financial Officer dated as of the date of filing of this Amended Filing. We are amending Item 15 of Part IV to reflect the inclusion of these certifications and Exhibit 10.8.
+ 
+Except for the items noted above, no other information included in the Original Filing is being amended or updated by this Amended Filing. This Amended Filing continues to describe the conditions as of the date of the Original Filing and, except as contained herein, we have not updated or modified the disclosures contained in the Original Filing. Accordingly, this Amended Filing should be read in conjunction with our filings made with the SEC subsequent to the filing of the Original Filing, including any amendment to those filings.
+ 
+ 
+
+
+ 
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+ 
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Any and all statements contained in this Annual Report that are not statements of historical fact may be deemed forward-looking statements. Terms such as “may,” “might,” “would,” “should,” “could,” “project,” “estimate,” “pro-forma,” “predict,” “potential,” “strategy,” “anticipate,” “attempt,” “develop,” “plan,” “help,” “believe,” “continue,” “intend,” “expect,” “future” and terms of similar import (including the negative of any of the foregoing) may be intended to identify forward-looking statements. However, not all forward-looking statements may contain one or more of these identifying terms. Forward-looking statements in this Annual Report may include, without limitation, statements regarding (i) the plans and objectives of management for future operations, including plans or objectives relating to the development of our cell therapy systems, (ii) a projection of income (including income/loss), earnings (including earnings/loss) per share, capital expenditures, dividends, capital structure or other financial items, (iii) our future financial performance, including any such statement contained in a discussion and analysis of financial condition by management or in the results of operations included pursuant to the rules and regulations of the SEC and (iv) the assumptions underlying or relating to any statement described in points (i), (ii) or (iii) above.
+ 
+The forward-looking statements are not meant to predict or guarantee actual results, performance, events or circumstances and may not be realized because they are based upon our current projections, plans, objectives, beliefs, expectations, estimates and assumptions and are subject to a number of risks and uncertainties and other influences, many of which we have no control over. Actual results and the timing of certain events and circumstances may differ materially from those described by the forward-looking statements as a result of these risks and uncertainties. Factors that may influence or contribute to the inaccuracy of the forward-looking statements or cause actual results to differ materially from expected or desired results may include, without limitation:
+ 
+
+● | our ability to obtain regulatory approval for our cell therapy systems;
+--+------------------------------------------------------------------------
+
+
+● | market acceptance of our cell therapy systems;
+--+-----------------------------------------------
+
+
+● | the benefits of our cell therapy systems versus other products;
+--+----------------------------------------------------------------
+
+
+● | our ability to successfully sell and market our cell therapy systems;
+--+----------------------------------------------------------------------
+
+
+● | competition from existing technologies or products or new technologies and products that may emerge;
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | the implementation of our business model and strategic plans for our business and our cell therapy systems;
+--+------------------------------------------------------------------------------------------------------------
+
+
+● | the scope of protection we are able to establish and maintain for intellectual property rights covering our cell therapy systems;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+● | estimates of our future revenue, expenses, capital requirements and our need for additional financing;
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | our financial performance;
+--+---------------------------
+
+
+● | developments relating to our competitors and the healthcare industry; and
+--+--------------------------------------------------------------------------
+
+
+● | other risks and uncertainties, including those listed under the section titled “Risk Factors.”
+--+-----------------------------------------------------------------------------------------------
+
+ 
+You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. Except as required by law, we undertake no obligation to update publicly any forward-looking statements for any reason after the date of this Annual Report to conform these statements to actual results or to changes in our expectations. 
+ 
+You should read this Annual Report on Form 10-K and the documents that we reference in this Annual Report on Form 10-K and have filed with the SEC as exhibits to this Annual Report on Form 10-K with the understanding that our actual future results, levels of activity, performance and events and circumstances may be materially different from what we expect. We qualify all forward-looking statements by these cautionary statements. 
+ 
+ 
+
+
+
+PART I
+ 
+ITEM 1. BUSINESS 
+Our History 
+ 
+We were incorporated as NAM Corporation in Delaware on January 12, 1994 and subsequently changed our name to clickNsettle.com, Inc., then Cardo Medical, Inc., then Tiger X Medical, Inc., and finally BioCardia, Inc. on October 26, 2016 in connection with the merger of our wholly-owned subsidiary, Icicle Acquisition Corp., with and into BioCardia Lifesciences, Inc. (which was named BioCardia, Inc. prior to the merger). We previously operated as an orthopedic medical device company specializing in designing, developing and marketing high performance reconstructive joint devices and spinal surgical devices. Prior to the merger with BioCardia Lifesciences, Inc., our board of directors determined to discontinue operations in this area and seek a new business opportunity. As a result of the merger, we acquired the business of BioCardia Lifesciences, Inc. as described below. 
+ 
+On October 24, 2016, pursuant to an Agreement and Plan of Merger dated August 22, 2016, or the Merger Agreement, by and among the Company, Icicle Acquisition Corp., a Delaware corporation, and BioCardia Lifesciences, Inc., a merger was consummated pursuant to which BioCardia Lifesciences, Inc. became our wholly owned subsidiary such merger referred to herein as the Merger. As of immediately following the Merger, we had aggregate cash of $24.0 million with which to pursue the operations and business opportunity of BioCardia Lifesciences, Inc. 
+ 
+Pursuant to the Merger Agreement, each share of BioCardia Lifesciences, Inc. capital stock issued and outstanding immediately preceding the Merger, including shares of BioCardia Lifesciences, Inc. common stock underlying outstanding preferred stock and convertible notes, were converted into the right to receive 19.3678009 shares, or the Exchange Ratio, of the Company’s common stock, par value $0.001 per share. Additionally, pursuant to the Merger Agreement, upon consummation of the Merger, the Company assumed all of BioCardia Lifesciences, Inc. options outstanding immediately prior to the Merger at the same Exchange Ratio.
+ 
+All references to share amounts in this Annual Report on Form 10-K have been retroactively adjusted to reflect the impact of the Exchange Ratio. 
+ 
+In connection with the Merger, BioCardia Lifesciences, Inc. was determined to be the accounting acquirer, and consequently, the assets and liabilities and the historical operations reflected in the financial statements prior to the Merger are those of BioCardia Lifesciences, Inc. and are recorded at their historical cost basis. The financial statements after completion of the Merger include the assets and liabilities of the Company and its subsidiary from the effective time of the Merger. Please refer to Note 3 in the consolidated financial statements for the accounting treatment for the Merger. 
+ 
+Our principal executive offices are located at 125 Shoreway Road, Suite B, San Carlos, CA 94070. Our telephone number is (650) 226-0120. Our website address is www.biocardia.com. Information contained in our website is not incorporated by reference into this Annual Report, and should not be considered to be a part of this Annual Report. 
+ 
+Company Overview 
+
+We are a clinical-stage regenerative medicine company developing novel therapeutics for cardiovascular diseases with large unmet medical needs. Our lead therapeutic candidate is the CardiAMP Cell Therapy System, or CardiAMP. CardiAMP provides an autologous cell therapy for the treatment of heart failure that develops after a heart attack. We are actively enrolling and treating patients at three clinical sites in our U.S. Food and Drug Administration, or FDA, approved Phase III pivotal Investigational Device Exemption, or IDE, trial for CardiAMP in ischemic systolic heart failure. The Department of Health & Human Services Centers for Medicare & Medicaid Services, or CMS, has also approved the CardiAMP IDE for purposes of Medicare coverage. We anticipate enrolling up to 260 patients at up to 40 clinical sites by the end of 2018 and obtaining top-line data with one year patient follow-up in 2019. If our Phase III pivotal trial is successful, we believe we will be the first company to reach the market with a cell-based therapy to treat heart failure. In parallel, in 2017 we expect to submit a second IDE to FDA for the CardiAMP cell therapy in a second related cardiac indication of post myocardial infarction. 
+ 
+Our second therapeutic candidate is the CardiALLO Cell Therapy System, or CardiALLO, an allogenic culture expanded cell therapy derived from bone marrow cells. We anticipate preparation of an Investigational New Drug, or IND, application for submission to the FDA for a Phase II trial for CardiALLO for the treatment of heart failure that develops after a heart attack. This IND is expected to have improved Chemistry Manufacturing Controls in the IND relative to our previous co-sponsored investigations. 
+ 
+
+ 
+1
+
+
+
+We are committed to applying our expertise in the fields of autologous and allogeneic cell-based therapies to improve the lives of patients with cardiovascular conditions. Autologous cell therapies use autologous cells, which means the patient’s own cells, while allogeneic cell therapies use allogeneic cells, which means cells from a third party donor. As we engage in clinical trials of our therapeutic candidates, we have compensated and intend to compensate all parties performing the trials or studies (including all the parties identified in this Annual Report on Form 10-K) only on terms that are standard and customary in clinical study arrangements.
+ 
+Market Overview 
+ 
+Heart failure is a clinical condition in which the output of blood from the heart is insufficient to meet the metabolic demands of the body. In 2015, the American Heart Association, or AHA, report on heart disease statistics estimated that there are 5.7 million Americans over the age of 20 that have heart failure. Heart failure is increasingly prevalent due to the aging population and the increase in major cardiovascular risk factors, including obesity and diabetes. The AHA also estimates that one in five adults will develop heart failure after the age of 40. During heart failure progression, the heart steadily loses its ability to respond to increased metabolic demand, and mild exercise soon exceeds the heart’s ability to maintain adequate output. Towards the end stage of the disease, the heart cannot pump enough blood to meet the body’s needs at rest. At this stage, fluids accumulate in the extremities or in the lungs making the patient bedridden and unable to perform the activities of daily living. The long-term prognosis associated with heart failure is approximately 50% mortality at five years following the initial diagnosis. 
+ 
+Hospitalizations for heart failure are expensive, and the risk of death increases with each recurrent heart failure-related hospitalization. In 2014, the Journal of the American College of Cardiology reported that the one- and six-month readmission rates after heart failure-related hospitalization are close to 25% and 50%, respectively. In 2010, the AHA estimated that the direct and indirect cost of heart failure in the United States was $39 billion, half of which was related to repeated hospitalizations, and by 2030 the total cost of heart failure in the United States is projected to increase to $70 billion. There is growing pressure on hospitals to reduce readmissions for heart failure. 
+ 
+Heart failure is classified in relation to the severity of the symptoms experienced by the patient. The most commonly used classification system, established by the New York Heart Association, or NYHA, is as follows: 
+ 
+
+● | Class I (mild): patients experience no or very mild symptoms with ordinary physical activity;
+--+----------------------------------------------------------------------------------------------
+
+
+● | Class II (mild): patients experience fatigue and shortness of breath during moderate physical activity;
+--+--------------------------------------------------------------------------------------------------------
+
+
+● | Class III (moderate): patients experience shortness of breath during even light physical activity; and
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | Class IV (severe): patients are exhausted even at rest.
+--+--------------------------------------------------------
+
+ 
+Despite guideline-directed therapies employing a wide range of pharmacologic, device, and surgical options, many patients deteriorate over time and develop advanced heart failure symptoms that cannot be effectively managed by existing medical therapies. At the end stage of heart failure, current treatment options include heart transplant surgery or implantation of a left ventricular assist device, or LVAD, a battery operated mechanical circulatory device used to partially or completely replace the function of the left ventricle of the heart. LVADs are used for patients awaiting a heart transplant or as a destination therapy for patients with NYHA Class IV heart failure who may never receive a heart transplant. Both of these end-stage treatment options require invasive open-chest surgery and can cost in excess of $150,000 per procedure, as reported by the Journal of Heart and Lung Transplantation. 
+ 
+There are approximately 2.9 million NYHA Class II and Class III heart failure patients, of which we estimate approximately 60% are patients with ischemic systolic heart failure. Of this subset of 1.7 million patients, we estimate that approximately 70%, or over 1.2 million patients, will have a cell potency score sufficient to qualify for treatment with CardiAMP. 
+ 
+Bone marrow derived cell-based therapy has been shown to have the potential to restore cardiac function. In the past decade, intramyocardial delivery of bone marrow derived cell-based therapies in preclinical and clinical studies of heart failure has predominantly resulted in benefits, such as improvement in ventricular function, reduction in infarct size and increase in myocardial perfusion. An infarct is an area of dead tissue resulting from failure of blood supply, and myocardial perfusion is blood flow to heart tissue. 
+ 
+
+ 
+2
+
+
+
+Recent systematic review and meta-analysis of the scientific literature from 23 randomized controlled trials prior to 2013, covering more than 1,200 participants, was published by Fisher in Circulation Research in January 2015. The review found evidence that bone marrow cell treatment, including intramyocardial delivery of bone marrow cells, has improved left ventricle ejection fraction, or LVEF, and chronic ischemic heart disease. The authors of the review found evidence for a potential beneficial clinical effect in terms of mortality and performance status after at least one year post-treatment in people who suffer from chronic ischemic heart disease and heart failure. Results in heart failure trials indicate that bone marrow derived cell-based therapy leads to a reduction in deaths and readmission to hospital and improvements over standard treatment as measured by tests of heart function. This review concluded that further research is required to confirm the results. 
+ 
+Published scientific papers provide clinical support for efficacy from randomized controlled clinical trials of intramyocardial delivery of bone marrow derived cells in closely related clinical conditions of chronic myocardial ischemia, diastolic heart failure, and subacute myocardial infarction. 
+ 
+Bone marrow cell homing to the heart is part of the body’s natural repair process. After a heart attack or an acute injury to the heart, cells from bone marrow are known to home to the heart. For example, a population of bone marrow cells with a cell surface marker of CD34+ has certain receptors, including CXC-4 and CXC-7 receptors, that home to the SDF-1 ligand, which is activated in injured heart tissue. In the event of heart failure, the heart is believed to have fewer of these homing signals and a decreased ability to stimulate or recreate this signaling process, leading to a lower likelihood of heart tissue repair. A number of other bone marrow derived cells with unique cell surface markers have also been shown to have beneficial effects in animal models of heart failure and are under clinical investigation today. 
+ 
+
+To date, the research community has proposed three main mechanisms of action to explain the regenerative potential of bone marrow derived cells: 
+ 
+
+● | endothelial cell and myocyte growth through cell transdifferentiation, which means that a bone marrow cell becomes another cell type in the heart;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | stimulation of endogenous cardiac stem cells for niche reconstruction, which means that a bone marrow cell stimulates the production of stem cells in the heart, which subsequently become a specific cell type in the heart; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | paracrine effects through the release of cytokines and growth factors leading to anti-apoptotic effects and angiogenesis, which means that proteins produced by the bone marrow cells stimulate beneficial reparative effects in the heart such as reduced inflammation, cell survival and the formation of new vascular networks.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+There is increasing belief in the research community that the efficacy of bone marrow derived cells may reside in synergistic effects of two or more mechanisms of action promoting cardiac regeneration. 
+ 
+Product Overview 
+ 
+BioCardia is developing two comprehensive biotherapeutic candidates for cardiac regenerative medicine, with an initial focus on heart failure resulting from a heart attack: 
+ 
+
+● | CardiAMP-autologous minimally processed bone marrow cells from a patient’s own cells, with an FDA accepted Phase III pivotal trial. As of December 31, 2016, 62 patients have been treated in our Phase I and Phase II trials in ischemic heart failure and post-acute infarction; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | CardiALLO-allogeneic culture expanded mesenchymal bone marrow cells from a universal donor for use in multiple unrelated patients, entering Phase II development. To date, 94 patients have been treated in CardiALLO related mesenchymal stem cell Phase I and Phase II trials.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The development stage for these programs is provided below.
+ 
+
+ 
+3
+
+
+
+Cell-Based Therapy Product Pipeline 
+ 
+
+CardiAMP Cell Therapy System
+ 
+CardiAMP is our lead therapeutic program. CardiAMP for the treatment of heart failure, is a comprehensive investigational therapeutic treatment that is expected to be comprised of (i) a cell potency screening test, (ii) a point of care cell processing platform, and (iii) a biotherapeutic delivery system. CardiAMP has the potential to be the first comprehensive therapeutic treatment utilizing a patient’s own cells for the treatment of ischemic systolic heart failure, which is heart failure that develops after a heart attack. In the screening process with the anticipated companion diagnostic, the physician extracts a small sample of the patient’s bone marrow in an outpatient procedure performed under local anesthesia. The clinic sends the sample to a centralized diagnostic lab, which tests for identified biomarkers from which we generate a potency assay score for the patient. During the treatment, a clinician harvests and then prepares the patient’s own bone marrow mononuclear cells, or autologous cells, using our point of care cell processing platform, which a cardiologist then delivers into the heart using our proprietary biotherapeutic delivery system. We designed the entire procedure to be performed in approximately 60 to 90 minutes, which we believe is substantially faster than alternative cell-based therapies in development. The patient then leaves the hospital the same or next day. 
+ 
+CardiAMP is believed to be the first therapeutic candidate to enter a clinical program with a bone marrow derived cell-based therapy for ischemic systolic heart failure patients who are not actively ischemic. It is also potentially the first therapeutic candidate to use a companion diagnostic, the CardiAMP potency assay, to identify patients who are likely responders to treatment with autologous cells. We also believe it is the first therapeutic candidate to initiate a Phase III pivotal trial in the United States for heart failure using point of care cell processing to isolate the bone marrow mononuclear cells, the first pivotal cardiac cell therapy to be regulated under an IDE, and the first cell therapy IDE to have national reimbursement approval from CMS. 
+ 
+CardiAMP Preclinical Experience 
+ 
+Extensive preclinical data with bone marrow mononuclear cells and media in which they have been incubated in animal models of heart disease have shown compelling results. Rats treated with media from cells showed reduced fibrotic scar at 28 days, increased microvascular density in central infarct and border zones, and demonstrated enhanced cardiac function. Swine studies have shown that there is a dose response relationship, with higher doses of bone marrow mononuclear cells resulting in reduced fibrosis and increased microvascular change in infarcted myocardium 60 days after treatment. The highest dose tested in this series of 200 million cells, with >20 million cells per segment, resulted in the highest capillary density and the least fibrosis. This is the dosage delivered in the CardiAMP Phase II trial, and to be delivered in the Phase III pivotal trial. 
+CardiAMP Phase I Study: Transendocardial Autologous Marrow Cells in Myocardial Infarction
+ 
+The CardiAMP Phase I Transendocardial Autologous Marrow Cells in Myocardial Infarction or TABMMI trial enrolled 20 patients with ischemic systolic heart failure in an open label safety trial of bone marrow cells delivered with the Helix biotherapeutic delivery system at a dosage of 100 million cells. Results showed improvement in cardiac function as measured by left ventricular ejection fraction, improved exercise tolerance, and superior survival as compared to historical controls. The Phase I TABMMI study was submitted to the Argentine Administración Nacional de Medicamentos, Alimentos y Technología Médica. 
+ 
+
+ 
+4
+
+
+
+In our TABMMI Phase I trial of CardiAMP cells, we enrolled 20 patients with previous evidence of having had a heart attack and who presented with a low ejection fraction of less than or equal to 40% and greater than or equal to 20%. Baseline evaluations included informed consent, history and physical examination, electrocardiogram, 24-hour Holter monitoring, echocardiography, routine blood tests and exercise tolerance testing. Reduced regional heart wall motion was coincident with the diseased coronary vessel in each patient. A total of 20 patients with heart failure (NYHA Class I, II and III) each received three to ten transendocardial infusions of cells using our Helix biotherapeutic delivery system in an open-label dose-escalation two cohort trial. Dosage administration ranged from 30 million to 130 million autologous bone marrow derived mononuclear cells, with an average of 96 million cells.
+ 
+Bone marrow cells delivered in TABMMI demonstrated an excellent safety profile in this heart failure population, with no treatment related toxicities observed. The 20 patients who received CardiAMP cells, demonstrated improvements from baseline to both six-month and 12-month follow-up across a number of parameters important in heart failure, including statistically and clinically significant improvements in left ventricular, or LV, function (ejection fraction). 
+ 
+The results of the study demonstrated statistically significant functional improvements in echocardiographic measured heart function at both six- and 12-months follow-up compared to baseline. A total of 12 adverse events were observed in six patients, although none were related to the investigational delivery or cell transplantation procedure. The complete results of the 20 patients at two-year follow-up have been published by in the journal Eurointervention in 2011. 
+ 
+CardiAMP Phase II Trial: Transendocardial Autologous Cells in Heart Failure Trial (TAC-HFT)
+ 
+In our co-sponsored Phase II Transendocardial Autologous Cells in Heart Failure Trial, patients with ischemic systolic heart failure were randomized on a one to one basis into two double-blind, placebo-controlled trials: TACHFT-BMC and TACHFT-MSC. The IND for the TACHFT trial was filed with the FDA Center for Biologics Evaluation and Research in 2008 by the University of Miami, the co-sponsor of the trial. 
+
+
+
+In the safety dose escalation roll-in cohort stage of the study, eight patients received treatment with either CardiAMP cells, or autologous bone marrow mesenchymal cells, or MSC, at dosages of 100 million or 200 million cells. In the randomized, placebo-controlled efficacy stage of the study, 29 patients received treatment with either CardiAMP cells or placebo and 30 patients received treatment with either MSCs or placebo. The mode of administration was 10 intramyocardial infusions per patient using our Helix biotherapeutic delivery system into the myocardium adjacent to and into the infarcted tissue. All subjects had ischemic systolic heart failure (NYHA Class I, II or III). 
+ 
+TACHFT-BMC met its primary safety endpoint at both dosages (100 million and 200 million cells) and that treated patients had increased their functional capacity, improved quality of life, symptoms and key markers of cardiac function predictive of survival, such as end systolic volume, or ESV. The TACHFT-BMC trial included a single dose of CardiAMP cells with a follow up observation period of 12 months. The Phase II, randomized, placebo-controlled study met its primary safety endpoint and demonstrated statistically significant and clinically meaningful improvements in secondary efficacy endpoints of functional capacity, as measured by the six minute walk distance (6MW), and in quality of life, as measured by the Minnesota Living with Heart Failure Questionnaire score. 
+ 
+Although clinical trial results supporting safety and efficacy have been found in both the Phase I TABMMI and Phase II TACHFT-BMC trials, the CardiAMP system products still remain investigational, and no claims regarding safety or efficacy can be made until the products are approved by the FDA. A summary of the TACHFT-BMC findings is below: 
+ 
+
+● | high-dose CardiAMP cells (200 million cells) met the primary TACHFT-BMC safety endpoint with 0% treatment emergent major adverse cardiac events at 30 days, and demonstrated an excellent safety profile at 12 months with fewer clinical events in the treated group;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | patients treated with CardiAMP cells, when compared to placebo, showed statistically and clinically significant improvements in functional capacity as measured by the six minute walk test and in quality of life as measured by the MLHF Questionnaire;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | benefit in preventing clinical events such as hospitalizations was confirmed at one year following treatment, although not at the level of statistical significance; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | benefit in clinical outcomes was supported by improvement in patients’ cardiac function, although not at the level of statistical significance.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Results at one year follow-up of the placebo controlled TAC-HFT BMC trial were published by Wong Po Foo et al in 2015 following a pooled analysis by Heldman et al in JAMA in 2013. 
+ 
+
+ 
+5
+
+
+
+★     Heldman AW, et al Transendocardial Mesenchymal Stem Cells and Mononuclear Bone Marrow Cells for Ischemic Cardiomyopathy The TAC-HFT Randomized Trial JAMA.2013.282909.*
+ ★     Wong Po Foo et al., The transendocardial autologous cells in ischemic heart failure trial bone marrow mononuclear cells (TAC-HFT-BMC) randomized placebo controlled blinded study, Regenerative Medicine 2015, 10(7s), S169.*
+
+
+CardiAMP Phase III Pivotal IDE Trial
+ 
+We designed the current Phase III pivotal trial to confirm the results of our Phase II TACHFT-BMC trial which showed that a high dose (200 million) of bone marrow cells improved functional capacity and quality of life. The Phase III pivotal trial is anticipated to serve as the basis for potential regulatory approval in the United States. The Phase III trial design excludes NYHA Class I patients and will include our CardiAMP potency assay and CardiAMP point of care cell processing platform, all of which we believe are improvements over our Phase II trial that should enhance the probability of regulatory approval. The primary endpoint will be superiority with respect to functional capacity as measured by the six minute walk test at one-year post-procedure. The inclusion criteria will include: 
+ 
+
+● | ages 21-90;
+--+------------
+
+
+● | NYHA Class II or Class III heart failure classification;
+--+---------------------------------------------------------
+
+
+● | chronic ischemic left ventricular dysfunction;
+--+-----------------------------------------------
+
+
+● | ejection fraction greater than or equal to 20% but less than or equal to 40%; and
+--+----------------------------------------------------------------------------------
+
+
+● | a cell potency score greater than or equal to three as measured by the CardiAMP potency assay.
+--+-----------------------------------------------------------------------------------------------
+
+ 
+
+The Phase III pivotal trial is approved by FDA to enroll up to 260 patients, including an optional 10 patient roll-in cohort, at up to 40 U.S. clinical sites, with a 3:2 randomization of 250 patients to either treatment or sham control. In the sham control procedure, the clinician performs the entire therapy other than delivery of the CardiAMP cells. Centers are actively enrolling patients and we anticipate obtaining top line data in 2019.
+ 
+
+* These publications are not incorporated by reference into this Annual Report on Form 10-K, and the citations are provided for the sole purpose of facilitating a more detailed review of the clinical results.
+ 
+ 
+6
+
+
+
+CardiAMP Phase III randomized pivotal trial design accepted by FDA 
+ 
+
+
+
+
+We believe the remaining clinical efficacy risk is modest in light of the Phase I and II data in hand, and broader literature which supports CardiAMP as a therapeutic candidate. CardiAMP has the potential to significantly benefit patients who have limited options, and provide a cost-effective therapy to help reduce the substantial heart failure hospitalization and care costs. 
+ 
+Previous IDE clinical trials that led to FDA approval of Cardiac Resynchronization Therapy (CRT) devices for the treatment of heart failure followed the same IDE regulatory pathway that CardiAMP will follow and had similar endpoints to the proposed CardiAMP Heart Failure IDE trial. CRT is intended for patients that are NYHA III and IV versus the CardiAMP trial of NYHA II and III. Results from 5 out of 6 randomized pivotal CRT trials showed both smaller improvements in functional capacity as measured by the six minute walk test and smaller improvement in quality of life than the CardiAMP Phase II results. Although the benefits with CRT were less than observed in CardiAMP placebo controlled Phase II trial, these results for the permanently implantable CRT devices were sufficient to obtain FDA approval. 
+ 
+Our FDA accepted Phase III pivotal trial is designed to provide the primary support for the safety and efficacy of CardiAMP. The primary endpoint is functional capacity, as measured by the six minute walk test. Based on the results achieved in the Phase II trial, our Phase III pivotal trial is designed to have more than 90% probability of achieving a positive result with statistical significance. Statistical significance denotes the mathematical likelihood that the results observed are real and not due to chance. 
+ 
+We are also exploring the continued development of CardiAMP for post-acute myocardial infarction and intend to submit an IDE for this indication to the FDA in 2017. In the future, BioCardia may explore the development of CardiAMP for additional indications such as chronic myocardial ischemia and heart failure with preserved ejection fraction, or cardiac function as measured by the outbound blood pumped out of the heart with each heartbeat. 
+ 
+CardiALLO Cell Therapy System
+ 
+Our second therapeutic candidate is the CardiALLO Cell Therapy System, or CardiALLO. CardiALLO is an allogeneic “off the shelf” mesenchymal stem cell product candidate that may be an alternative for patients who are not optimal candidates for CardiAMP. We anticipate preparation of an Investigational New Drug, or IND, application for submission to the FDA for a Phase II trial for CardiALLO for the treatment of ischemic systolic heart failure. 
+ 
+CardiALLO uses culture expanded allogeneic bone marrow derived MSCs for the treatment of ischemic systolic heart failure. We believe this therapy presents the advantages of an “off the shelf” therapy that does not require tissue harvesting or cell processing. 
+ 
+
+ 
+7
+
+
+
+CardiALLO Preclinical Experience 
+ 
+Preclinical work with expanded MSCs in swine has been performed with our collaborators at three universities. Early studies showed cells could be efficiently delivered and tracked in the heart using iron oxide incubation techniques with magnetic resonance imaging. Immunohistochemistry stains also detailed that cells could be identified in the hearts after delivery. Randomized swine studies demonstrated that bone marrow derived mesenchymal stem cells, could be safely injected by using our Helix biotherapeutic delivery system three days after myocardial infarction. Cellular transplantation resulted in long-term engraftment, reduction in scar formation and near-normalization of cardiac function. As an additional finding, transplanted cells derived from an allogeneic donor were not rejected by the recipient, a major practical advance for the potential widespread application of this therapy. Studies have also been performed evaluating a variety of delivery strategies. Together, these findings demonstrate the safety of directly injecting cellular grafts into damaged myocardium during the peri-infarct period and provided signals of efficacy.
+ 
+CardiALLO related Phase I /II Studies: POSEIDON, TAC-HFT-MSC, and TRIDENT
+ 
+We have co-sponsored three clinical trials for MSCs for the treatment of ischemic systolic heart failure. In substantially similar trial designs, the POSEIDON Phase I/II trial compared autologous MSCs to allogeneic MSCs, the TACHFT-MSC Phase II trial compared autologous MSCs to placebo, and the TRIDENT Phase II compared allogenic MSCs at different doses. The first two trials shared common arms of autologous MSCs, enabling a bridge to placebo, leading us to conclude that allogeneic MSC therapy is superior to placebo. The IND for the TACHFT trial was filed with the FDA Center for Biologics Evaluation and Research in 2008 by the University of Miami, our co-sponsor for the trial. The POSEIDON trial was submitted by amendment under the same IND filed for the TACHFT study, and was co-sponsored by the University of Miami, the National Institutes of Health and us. The results from both of these studies can be submitted to the FDA in support of an IND for CardiALLO. The TRIDENT trial was also submitted by amendment to the same IND and continues to follow patients. 
+ 
+POSEIDON Phase I/II, TACHFT-MSC Phase II, and TRIDENT Phase I/II trials, inform and support our clinical efforts for CardiALLO. We are developing an optimized formulation and dosage strategy of CardiALLO cells for a planned clinical trial which we intend to initiate after we complete enrollment in the CardiAMP Phase III pivotal trial. 
+ 
+Additional data on these programs is available as two of these clinical studies have been published by Hare et al in JAMA in 2012 and Heldman et al in JAMA in 2013.
+ 
+★     Heldman AW, et al Transendocardial Mesenchymal Stem Cells and Mononuclear Bone Marrow Cells for Ischemic Cardiomyopathy The TAC-HFT Randomized Trial JAMA.2013.282909.*
+ ★     Hare JM, et al. Comparison of Allogeneic vs Autologous Bone Marrow-Derived Mesenchymal Stem Cells Delivered by Transendocardial Injection in Patients With Ischemic Cardiomyopathy, The POSEIDON Randomized Trial, JAMA. 2012;308(22).*
+ 
+CardiALLO Development
+ 
+CardiALLO is being advanced with an anticipated improved cell production strategy to be detailed in the Chemistry Manufacturing and Controls (CMC) of the IND in development. We believe the new CMC will reduce the likelihood of immune response to transplanted allogenic cells further, may enhance efficacy, and will enable commercial scale up and global distribution. CardiALLO will require more extensive clinical development than CardiAMP, beginning with a Phase II trial that follows previous work, to confirm the results with the modified cell culture and dosage strategy. 
+ 
+We anticipate performing our own CMC development work in BioCardia laboratories to accelerate the effort and secure additional intellectual property, and in parallel develop an agreement with an established academic institution to culture and supply the MSC cells for CardiALLO clinical development. We expect to demonstrate support for the safety and efficacy of MSCs in our target patient population in a Phase II randomized controlled study. We expect the CardiALLO Phase II trial to enroll patients with control, low dose and high dose groups using the Helix biotherapeutic delivery system and the same inclusion criteria as the CardiAMP Phase III pivotal trial. We intend to begin enrolling the CardiALLO trial after the CardiAMP trial completes enrollment. In the United States, CardiALLO is expected to be regulated by the FDA as a biologic combination product with our Helix biotherapeutic delivery system.
+ 
+* These publications are not incorporated by reference into this Annual Report on Form 10-K, and the citations are provided for the sole purpose of facilitating a more detailed review of the clinical results. 
+ 
+ 
+8
+
+
+
+The completed clinical studies show support for the safety and efficacy of both the CardiAMP and CardiALLO therapeutic programs; however, both programs still remain investigational, and no claims regarding safety or efficacy can be made until the constituent CardiAMP and CardiALLO products are approved by the FDA. The two therapeutic candidates provide compelling and synergistic approaches to replicating the natural response of bone marrow cells to cardiac injury. CardiAMP harnesses the potential of autologous minimally processed bone marrow cells, using a companion diagnostic to identify patients most likely to benefit from the therapy. CardiALLO utilizes younger universal donor mesenchymal stem cells and may be appropriate for patients who are not optimal candidates for the CardiAMP therapy. 
+ 
+Cell Processing and Cell Delivery Product Platforms 
+ 
+BioCardia has developed and secured exclusive rights to enabling cell processing and cell delivery products, which are used as part of our CardiAMP and CardiALLO therapies, and which we believe validate our approach and development expertise: (i) the CardiAMP cell processing platform, (ii) the Helix transendocardial biotherapeutic delivery system, and (iii) our Morph vascular access products. 
+
+● | CardiAMP cell processing platform-processes bone marrow aspirate at the point of care to concentrate mononuclear cells and prepare the dosage form. We expect the CardiAMP cell processing platform to be approved in the United States for ischemic systolic heart failure as part of CardiAMP. The platform is currently cleared for use in the United States and in European Union for the preparation of a cell concentrate from bone marrow and is under investigational use for the treatment of heart failure.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Helix biotherapeutic delivery system-delivers therapeutics into the heart muscle with a penetrating helical needle from within the heart. This is a leading delivery platform in the field, which has increased safety and performance. We expect Helix to be approved in the United States as part of CardiAMP. The system is CE marked for commercial use in Europe and is under investigational use in the United States as part of our CardiAMP and CardiALLO development programs. We believe the Helix biotherapeutic system is the world’s safest and most efficient platform for cardiac therapeutic delivery and has been used in more than 280 clinical procedures. The Helix biotherapeutic delivery system is designed to be used in any catheterization laboratory in the world without the need for additional capital equipment.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We supply our Helix biotherapeutic delivery system to selected partners developing other cell gene and protein therapeutic programs. These programs provide additional data, intellectual property rights, and opportunities to participate in the development of combination products for the treatment of cardiac diseases.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Morph vascular access products- provides enhanced control for Helix in biotherapeutic delivery and for other common interventions. We have secured all necessary approvals in the United States and Europe. Currently there are six Morph product model numbers approved for commercial sale in the United States via a 510(k) clearance and three in Europe under CE mark. The Morph products are valued by physicians performing difficult vascular procedures worldwide and they have been used in more than 10,000 clinical procedures to date.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+9
+
+
+
+Business Strategy 
+ 
+We are committed to applying our expertise in the fields of autologous and allogeneic cell-based therapies to improve the lives of patients with cardiovascular conditions. We are pursuing the following business strategies: 
+
+● | Complete Phase III pivotal trial of CardiAMP for patients with ischemic systolic heart failure. We have initiated our 260 patient CardiAMP Phase III pivotal trial with optional 10 patient roll-in cohort. Based on the results of the Phase II trial, the Phase III pivotal trial will focus on patients with NYHA Class II or III ischemic systolic heart failure, and the primary endpoint will be functional capacity as measured by the six minute walk test. The trial will use the CardiAMP potency assay to target patients most likely to benefit from our treatment. This trial has begun treating patients and is expected to have top-line trial results in 2019. While we originally expected to commence this trial in the second half of 2015 and obtain results in the second half of 2017, delays in our obtaining necessary funding at the time resulted in our postponing the trial until December 2016.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Obtain FDA approval and commercialize CardiAMP using a highly-targeted cardiology sales force in the United States. Heart failure patients are primarily treated at leading hospitals and medical centers of excellence by a select group of cardiologists and heart failure specialists. Once we obtain FDA approval, we plan to use a targeted sales force focused on these particular physicians. We believe cardiologists, heart failure specialists and interventional cardiologists are typically early adopters of innovative biotherapeutic products, devices and technologies. We believe that CardiAMP will be adopted first by leading cardiologists and heart failure specialists at high-volume U.S. hospitals and medical centers, and progressively by a broader segment of the market. We anticipate using strategic or distribution partners to serve other geographies.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Advance our CardiALLO program for the treatment of ischemic systolic heart failure. CardiALLO has the potential to benefit patients for whom CardiAMP is not optimal due to the lower potency of their bone marrow cells. CardiALLO allogeneic culture-expanded bone marrow derived cells, or CardiALLO cells, have performed well in a head to head trial with autologous mesenchymal bone marrow cells. This therapy may present advantages for patients or physicians who wish to avoid bone marrow aspiration, and our development work builds on our clinical development capabilities established through our CardiAMP program. This program positions us to provide therapy to patients ineligible for CardiAMP.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expand CardiAMP and CardiALLO into additional cardiac indications. CardiAMP and CardiALLO have potential therapeutic benefits for multiple cardiovascular indications in addition to ischemic systolic heart failure. We and our clinical collaborators have been gathering data on the application of CardiAMP cells to post-acute myocardial infarction, and in the future we may investigate the use of CardiAMP and CardiALLO cells for additional indications such as chronic myocardial ischemia and heart failure with preserved ejection fraction. Compelling clinical results have been published for the application of cell-based formulations similar to CardiAMP cells in each of these diseases.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Continue to partner our Helix biotherapeutic delivery system for use with other biotherapeutics. We plan to continue to make our Helix biotherapeutic delivery system available for use by qualified partners seeking to advance their own biotherapeutic candidates for similar indications.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Manufacturing 
+ 
+The CardiAMP cell processing platform is manufactured for us by our partner Biomet Biologics. We currently manufacture our Helix biotherapeutic delivery system and Morph vascular access products in our San Carlos, California facility using components we source from third party suppliers. The last FDA inspection of our facility in 2016 issued one observation under form 483s which has been addressed to the FDA’s satisfaction. Our last inspection by our European notified body in February 2017 reported one major and four minor observations, which we are currently addressing. 
+ 
+
+ 
+10
+
+
+
+Sales and Marketing 
+ 
+Our sales and marketing strategy is to market CardiAMP and CardiALLO, if approved by the FDA, for potential heart failure indications using a dedicated direct sales model focused on selected cardiologists and heart failure specialists. These physicians are typically affiliated with leading hospitals and medical centers and we believe that they tend to have well-established referral networks of interventional cardiologists and cardiac catheterization laboratories. We believe they represent a concentrated customer base suitable to a specialist care sales model. We believe that CardiAMP and CardiALLO will be adopted first by leading cardiologists and heart failure specialists at high-volume U.S. hospitals and medical centers, and progressively by a broader segment of the market. Cardiologists, heart failure specialists, and interventional cardiologists, have a history of early adoption of innovative products and technologies, in part because the rate of innovation in this sector has been sustained, and in part because of the large unmet medical needs of heart failure patients.
+Competition 
+ 
+The biotechnology and pharmaceutical industries in which we operate are subject to rapid change and are characterized by intense competition to develop new technologies and proprietary products. We face potential competition from many different sources, including larger and better-funded companies. While we believe that CardiAMP’s unique strategy provides us with competitive advantages, particularly given that CardiAMP is designed to be administered in a safe and short procedure, we have identified several companies which are active in the advancement of cell-based and gene-based therapy products in the heart failure arena. Not only must we compete with other companies that are focused on cell-based therapy treatments, any products that we may commercialize will have to compete with existing therapies and new therapies that may become available in the future. 
+ 
+Some of the companies currently developing cell-based and gene-based therapies for cardiac indications include CapriCor Therapeutics, Celyad, CellProthera, Juventas Therapeutics, Mesoblast, Vericel, Uniqure, some of which are in the clinical stages of development with their product candidates. 
+ 
+However, these competitors may require delivery platforms for their own therapeutic programs. Because the clinical need is so large and our biotherapeutic delivery products have potential to enable multiple biotherapeutics, we view these companies also as potential collaborators and partners. To date, we have entered into agreements to provide our biotherapeutic delivery system to four of these firms for various pre-clinical and clinical studies. One is active in the clinic today. None of these relationships are believed to be material to our business at this time.
+ 
+Intellectual Property 
+ 
+We strive to protect and enhance the proprietary technologies that we believe are important to our business, and seek to obtain and maintain patents for any patentable aspects of our therapeutic candidates or products, including our anticipated companion diagnostic, their methods of use and any other inventions that are important to the development of our business. Our success will depend significantly on our ability to obtain and maintain patent and other proprietary protection for commercially important technology, inventions and know-how related to our business, defend and enforce our patents, maintain our licenses to use intellectual property owned by third parties, preserve the confidentiality of our trade secrets and operate without infringing the valid and enforceable patents and other proprietary rights of third parties. We also rely on know-how, continuing technological innovation and in-licensing opportunities to develop, strengthen, and maintain our proprietary position in the fields targeted by our therapeutic candidates. 
+ 
+We have a large patent portfolio of issued and pending claims covering methods of use for CardiAMP, CardiALLO, Helix and Morph as well as design and elements of our manufacturing processes. As of December 31, 2016, we had developed or secured rights to over 20 patent families that included rights to over 75 U.S. patents with issued or patent pending applications. We have sole ownership of the patents that we consider to be material, other than the patents that we license exclusively from Biomet Biologics, LLC. We have also pursued international protection for some of these U.S. patents where appropriate. Our issued U.S. patents expire between 2017 and 2031, without taking into consideration patent term extension. We maintain trade secrets covering a significant body of know-how and proprietary information related to our core therapeutic candidates, biotherapeutic delivery systems and technologies. As a result, we believe our intellectual property position provides us with substantial competitive advantages for the commercial development of novel therapeutics for cardiovascular diseases. 
+ 
+U.S. Regulatory Protection for CardiAMP and CardiALLO 
+ 
+In addition to patent and trade secret protection, we may receive a 12-year period of regulatory exclusivity from the FDA upon approval of CardiAMP and CardiALLO pursuant to the Biologics Price Competition and Innovation Act. The exclusivity period, if granted, will run from the time of FDA approval. This exclusivity period, if granted, will supplement the intellectual property protection discussed above, providing an additional barrier to entry for any competitor seeking approval for a bio-similar version of the CardiAMP or CardiALLO cell therapy systems. 
+ 
+
+ 
+11
+
+
+
+In addition, it is possible to extend the patent term of one patent covering CardiAMP and CardiALLO following FDA approval. This patent term extension, or PTE, is intended to compensate a patent owner for the loss of patent term during the FDA approval process. If eligible, we may use a PTE to extend the term of one of the patents discussed above beyond the expected expiration date. 
+ 
+Trademarks 
+ 
+We have registered our name, logo and the trademarks “BioCardia,” “CardiAMP,” “CardiALLO,” and “Morph” in the United States. We have registered the trademarks “CardiAMP” and “CardiALLO” for use in connection with a biological product, namely, a cell-based therapy product composed of bone marrow derived cells for medical use. We also have rights to use the “Helix” trademark in the United States. We have registered Morph for use in connection with steerable vascular access technology. We intend to pursue additional registrations in markets outside the United States where we plan to sell our therapies and products. 
+Patent Term 
+ 
+The term of individual patents and patent applications will depend upon the legal term of the patents in the countries in which they are obtained. In most countries, the patent term is 20 years from the date of filing of the patent application (or parent application, if applicable). For example, if an international Patent Cooperation Treaty, or PCT, application is filed, any patent issuing from the PCT application in a specific country expires 20 years from the filing date of the PCT application. In the United States, however, if a patent was in force on June 8, 1995, or issued on an application that was filed before June 8, 1995, that patent will have a term that is the greater of 20 years from the filing date, or 17 years from the date of issue. 
+ 
+Under the Hatch-Waxman Act, the term of a patent that covers an FDA-approved drug, biological product may also be eligible for PTE. PTE permits restoration of a portion of the patent term of a U.S. patent as compensation for the patent term lost during product development and the FDA regulatory review process if approval of the application for the product is the first permitted commercial marketing of a drug or biological product containing the active ingredient. The patent term restoration period is generally one-half the time between the effective date of an IND and the submission date of a BLA plus the time between the submission date of a BLA and the approval of that application. The Hatch-Waxman Act permits a PTE for only one patent applicable to an approved drug, and the maximum period of restoration is five years beyond the expiration of the patent. A PTE cannot extend the remaining term of a patent beyond a total of 14 years from the date of product approval, and a patent can only be extended once, and thus, even if a single patent is applicable to multiple products, it can only be extended based on one product. Similar provisions may be available in Europe and certain other foreign jurisdictions to extend the term of a patent that covers an approved drug. When possible, depending upon the length of clinical trials and other factors involved in the filing of a BLA, we expect to apply for PTEs for patents covering our therapeutic candidates and products and their methods of use. For additional information on PTE, see “Government Regulation.”
+
+
+Proprietary Rights and Processes 
+ 
+We may rely, in some circumstances, on proprietary technology and processes (including trade secrets) to protect our technology. However, these can be difficult to protect. We seek to protect our proprietary technology and processes, in part, by entering into confidentiality agreements with those who have access to our confidential information, including our employees, consultants, scientific advisors and contractors. We also seek to preserve the integrity and confidentiality of our proprietary technology and processes by maintaining physical security of our premises and physical and electronic security of our information technology systems. While we have confidence in these individuals, organizations and systems, agreements or security measures may be breached, and we may not have adequate remedies for any breach. In addition, our proprietary technology and processes may otherwise become known or be independently discovered by competitors. To the extent that our employees, consultants, scientific advisors, contractors, or any future collaborators use intellectual property owned by others in their work for us, disputes may arise as to the rights in related or resulting know-how and inventions. For this and more comprehensive risks related to our proprietary technology and processes, please see “Risk Factors-Risks Related to our Intellectual Property.”
+ 
+
+ 
+12
+
+
+
+License Agreement with Biomet Biologics, LLC 
+ 
+In October 2012, we entered into a license and distribution agreement with Biomet Biologics, LLC under which we obtained an exclusive, nontransferable, worldwide distribution right, patent license and trademark license to a point of care cell processing platform. Under the terms of the agreement, we are obligated to pay a royalty based on the price of the disposables in the CardiAMP cell processing platform for the duration of the agreement. We expect the royalty payments to Biomet Biologics, LLC for the licensed product to amount to a low or mid-single digit percentage of the expected price that we will charge for CardiAMP. The agreement has a term of 10 years or the time the last patent pursuant to the agreement expires, whichever is later. The agreement may be terminated by Biomet Biologics, LLC for a failure by us to meet any milestone requirements, including minimum purchase requirements, as well as by either party upon 30 days prior written notice in the event of a breach of any material term by the other party. We have the right to terminate the agreement upon 90 days prior written notice in the event the safety, efficacy or comparative effectiveness of the product is insufficient to meet our commercial needs. 
+Technology Access Program for Biotherapeutic Delivery Systems 
+ 
+Our preclinical work with partners and collaborators generally takes place under arrangements where we secure access to data, reports, and a non-exclusive license to delivery technology improvement inventions. 
+Clinical Research Agreements for Biotherapeutic Delivery Systems 
+ 
+Our clinical work with partners generally takes place under arrangements where we secure access to data, reports, and a non-exclusive license to technology improvement inventions. Financial terms of each agreement are anticipated to cover our costs and provide milestone payments. We hope to generate sales if any of our partners are successful with commercializing their products with our delivery platform. 
+Regulation 
+ 
+Biological products, including cell-based therapy products, and medical devices are subject to regulation under the Federal Food, Drug, and Cosmetic Act, or FD&C Act, and the Public Health Service Act, or PHS Act, and other federal, state, local and foreign statutes and regulations. Both the FD&C Act and the PHS Act and their corresponding regulations govern, among other things, the testing, manufacturing, safety, purity, potency, efficacy, labeling, packaging, storage, record keeping, distribution, reporting, advertising and other promotional practices involving biological products. FDA acceptance must be obtained before clinical testing of an investigational biological and medical device begins, and each clinical trial protocol for a cell-based therapy product is submitted to and reviewed by the FDA. FDA approval must be obtained before marketing of biological and/or medical devices. The process of obtaining regulatory approvals and the subsequent compliance with applicable federal, state, local and foreign statutes and regulations require the expenditure of substantial time and financial resources and we may not be able to obtain the required regulatory approvals on a timely basis, or at all. To date, the FDA has never approved for commercial sale a cell-based therapy product intended to treat the heart. 
+ 
+
+Within the FDA, the Center for Biologics Evaluation and Research, or CBER, regulates cell-based therapy products. For products that use medical devices, including diagnostics, to deliver cell therapies, CBER works closely with the FDA’s Center for Devices and Radiological Health, or CDRH. 
+ 
+U.S. Biological Product Development Process 
+ 
+Our CardiALLO therapeutic candidate will be regulated in the United States as a biological product. The process required by the FDA before a biological product may be tested and marketed in the United States generally involves the following: 
+
+● | completion of nonclinical laboratory tests and animal studies according to good laboratory practices, or GLP, regulations and applicable requirements for the humane use of laboratory animals or other applicable regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | submission to the FDA of an IND application, which must become effective before human clinical trials may begin and must be updated annually or when significant changes are made;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | approval by an independent Institutional Review Board, or IRB, or ethics committee at each clinical site before the trial begins;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+● | performance of adequate and well-controlled human clinical trials according to the FDA’s regulations, commonly referred to as good clinical practices, or GCPs, and any additional requirements for the protection of human research subjects and their health information, to establish the safety, purity and potency of the proposed biological product for its intended use;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+13
+
+
+
+
+● | Preparation of and submission to the FDA of a biologics license application, or BLA, for marketing approval, after completion of all pivotal clinical trials;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | satisfactory completion of an FDA Advisory Committee review, if applicable;
+--+----------------------------------------------------------------------------
+
+
+● | a determination by the FDA within 60 days of its receipt of a BLA to file the application for review;
+--+------------------------------------------------------------------------------------------------------
+
+
+● | satisfactory completion of an FDA inspection of the manufacturing facility or facilities where the biological product is produced to assess compliance with GMP, to assure that the facilities, methods and controls are adequate to preserve the biological product’s identity, strength, quality and purity and, if applicable, the FDA’s current good tissue practices, or GTPs, for the use of human cellular and tissue products;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | potential FDA audit of the nonclinical study and clinical trial sites that generated the data in support of the BLA; and
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+● | FDA review and approval, or licensure, of the BLA for particular indications for use in the United States, which must be updated annually when significant changes are made.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The testing and approval process requires substantial time, effort and financial resources, and we cannot be certain that any approvals for our therapeutic candidates or product candidates will be granted on a timely basis, if at all. Before testing any biological product candidate, including a cell-based therapy product, in humans, the product candidate enters the preclinical testing stage. Preclinical tests, also referred to as nonclinical studies, include laboratory evaluations of product chemistry, toxicity and formulation, as well as animal studies to assess the potential safety and activity of the product candidate. The conduct of the preclinical tests must comply with federal regulations and requirements including GLPs. 
+ 
+
+The clinical trial sponsor must submit the results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and a proposed clinical protocol, to the FDA as part of the IND. Some preclinical testing may continue even after the IND is submitted. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA places the trial on a clinical hold within that 30-day time period. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. The FDA may also impose clinical holds on a biological product candidate at any time before or during clinical trials due to safety concerns or non-compliance. If the FDA imposes a clinical hold, trials may not recommence without FDA authorization and then only under terms authorized by the FDA. Accordingly, we cannot be sure that submission of an IND will result in the FDA allowing clinical trials to begin, or that, once begun, issues will not arise that suspend or terminate such trials. 
+ 
+Clinical trials involve the administration of the biological product candidate to healthy volunteers or patients under the supervision of qualified investigators, generally physicians not employed by or under the trial sponsor’s control. Clinical trials are conducted under protocols detailing, among other things, the objectives of the clinical trial, dosing procedures, subject selection and exclusion criteria, and the parameters to be used to monitor subject safety, including stopping rules that assure a clinical trial will be stopped if certain adverse events should occur. Each protocol and any amendments to the protocol must be submitted to the FDA as part of the IND. Clinical trials must be conducted and monitored in accordance with the FDA’s regulations comprising the GCP requirements, including the requirement that all research subjects provide informed consent. Further, each clinical trial must be reviewed and approved by an independent institutional review board, or IRB, at or servicing each institution at which the clinical trial will be conducted. An IRB is charged with protecting the welfare and rights of trial participants and considers such items as whether the risks to individuals participating in the clinical trials are minimized and are reasonable in relation to anticipated benefits. The IRB also approves the form and content of the informed consent that must be signed by each clinical trial subject or his or her legal representative and must monitor the clinical trial until completed. Clinical trials also must be reviewed by an institutional biosafety committee, or IBC, a local institutional committee that reviews and oversees basic and clinical research conducted at that institution. The IBC assesses the safety of the research and identifies any potential risk to public health or the environment. 
+ 
+For purposes of BLA approval, human clinical trials are typically conducted in three sequential phases that may overlap or be combined: 
+ 
+
+● | Phase I. The biological product is initially introduced into healthy human subjects and tested for safety. In the case of some products for severe or life-threatening diseases, especially when the product may be too inherently toxic to ethically administer to healthy volunteers, the initial human testing is often conducted in patients with the disease or condition. These studies are designed to test the safety, dosage tolerance, absorption, metabolism and distribution of the investigational product in humans, the side effects associated with increasing doses and, if possible, to gain early evidence on effectiveness.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+14
+
+
+
+
+● | Phase II. The biological product is evaluated in a limited patient population with a specified disease or condition to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance, optimal dosage and dosing schedule. Multiple Phase II clinical trials may be conducted to obtain information prior to beginning larger and more expensive Phase III clinical trials.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Phase III. Clinical trials are undertaken to further evaluate dosage, clinical efficacy, potency, and safety in an expanded patient population at geographically dispersed clinical trial sites, to provide statistically significant evidence of clinical efficacy and to further test for safety. These clinical trials are intended to establish the overall risk/benefit ratio of the product and provide an adequate basis for product approval and labeling.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Post-approval clinical trials, sometimes referred to as Phase IV clinical trials, may be required by the FDA or voluntarily conducted after initial marketing approval to gain more information about the product, including long-term safety follow-up. 
+ 
+During all phases of clinical development, regulatory agencies require extensive monitoring and auditing of all clinical activities, clinical data, and clinical trial investigators. Annual progress reports detailing the results of the clinical trials must be submitted to the FDA. Written IND safety reports must be promptly submitted to the FDA, the NIH and the investigators for serious and unexpected adverse events, any findings from other studies, tests in laboratory animals or in vitro testing that suggest a significant risk for human subjects, or any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. The sponsor must submit an IND safety report within 15 calendar days after the sponsor determines that the information qualifies for reporting. The sponsor also must notify the FDA of any unexpected fatal or life-threatening suspected adverse reaction within seven calendar days after the sponsor’s initial receipt of the information. Phase I, Phase II and Phase III clinical trials may not be completed successfully within any specified period, if at all. The FDA or the sponsor or its data safety monitoring board may suspend a clinical trial at any time on various grounds, including a finding that the research subjects or patients are being exposed to an unacceptable health risk, including risks inferred from other unrelated trials. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the biological product has been associated with unexpected serious harm to patients. 
+ 
+Human cell-based therapy products are a new category of therapeutics. Because this is a relatively new and expanding area of novel therapeutic interventions, there can be no assurance as to the length of the trial period, the number of patients the FDA will require to be enrolled in the trials in order to establish the safety, efficacy, purity and potency of human cell-based therapy products, or that the data generated in these trials will be acceptable to the FDA to support marketing approval. 
+ 
+Concurrently with clinical trials, companies usually complete additional animal studies and must also develop additional information about the physical characteristics of the biological product as well as finalize a process for manufacturing the product in commercial quantities in accordance with GMP requirements. To help reduce the risk of the introduction of adventitious agents with use of biological products, the PHS Act emphasizes the importance of manufacturing control for products whose attributes cannot be precisely defined. The manufacturing process must be capable of consistently producing quality batches of the product candidate and, among other things, the sponsor must develop methods for testing the identity, strength, quality, potency and purity of the final biological product. Additionally, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the biological product candidate does not undergo unacceptable deterioration over its shelf life. 
+ 
+U.S. Review and Approval Processes 
+ 
+After the successful completion of clinical trials of a biological product, FDA approval of a BLA must be obtained before commercial marketing of the biological product. The BLA must include results of product development, laboratory and animal studies, human trials, information on the manufacture and composition of the product, proposed labeling and other relevant information. The FDA may grant deferrals for submission of data or full or partial waivers. The testing and approval processes require substantial time and effort and there can be no assurance that the FDA will accept the BLA for filing and, even if filed, that any approval will be granted on a timely basis, if at all. 
+ 
+
+ 
+15
+
+
+
+Under the Prescription Drug User Fee Act, or PDUFA, as amended, each BLA must be accompanied by a significant user fee. The FDA adjusts the PDUFA user fees on an annual basis. PDUFA also imposes an annual product fee for biological products and an annual establishment fee on facilities used to manufacture prescription biological products. Fee waivers or reductions are available in certain circumstances, including a waiver of the application fee for the first application filed by a small business. Additionally, no user fees are assessed on BLAs for products designated as orphan drugs, unless the product also includes a non-orphan indication. 
+ 
+Within 60 days following submission of the application, the FDA reviews a BLA submitted to determine if it is substantially complete before the agency accepts it for filing. The FDA may refuse to file any BLA that it deems incomplete or not properly reviewable at the time of submission and may request additional information. In this event, the BLA must be resubmitted with the additional information. The resubmitted application also is subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review of the BLA. The FDA reviews the BLA to determine, among other things, whether the proposed product is safe and potent, or effective, for its intended use, and has an acceptable purity profile, and whether the product is being manufactured in accordance with GMP to assure and preserve the product’s identity, safety, strength, quality, potency and purity. The FDA may refer applications for novel biological products or biological products that present difficult questions of safety or efficacy to an advisory committee, typically a panel that includes clinicians and other experts, for review, evaluation and a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. During the biological product approval process, the FDA also will determine whether a Risk Evaluation and Mitigation Strategy, or REMS, is necessary to assure the safe use of the biological product. If the FDA concludes a REMS is needed, the sponsor of the BLA must submit a proposed REMS. The FDA will not approve a BLA without a REMS, if required.
+ 
+
+Before approving a BLA, the FDA will inspect the facilities at which the product is manufactured. The FDA will not approve the product unless it determines that the manufacturing processes and facilities are in compliance with GMP requirements and adequate to assure consistent production of the product within required specifications. Additionally, before approving a BLA, the FDA will typically inspect one or more clinical sites to assure that the clinical trials were conducted in compliance with IND trial requirements and GCP requirements. To assure GMP and GCP compliance, an applicant must incur significant expenditure of time, money and effort in the areas of training, record keeping, production, and quality control. 
+ 
+Notwithstanding the submission of relevant data and information, the FDA may ultimately decide that the BLA does not satisfy its regulatory criteria for approval and deny approval. Data obtained from clinical trials are not always conclusive and the FDA may interpret data differently than we interpret the same data. If the agency decides not to approve the BLA in its present form, the FDA will issue a complete response letter that describes all of the specific deficiencies in the BLA identified by the FDA. The deficiencies identified may be minor, for example, requiring labeling changes, or major, for example, requiring additional clinical trials. Additionally, the complete response letter may include recommended actions that the applicant might take to place the application in a condition for approval. If a complete response letter is issued, the applicant may either resubmit the BLA, addressing all of the deficiencies identified in the letter, or withdraw the application. 
+ 
+If a product receives regulatory approval, the approval may be significantly limited to specific diseases and dosages or the indications for use may otherwise be limited, which could restrict the commercial value of the product. Further, the FDA may require that certain contraindications, warnings or precautions be included in the product labeling. The FDA may impose restrictions and conditions on product distribution, prescribing, or dispensing in the form of a risk management plan, or otherwise limit the scope of any approval. In addition, the FDA may require post-marketing clinical trials, sometimes referred to as Phase IV clinical trials, designed to further assess a biological product’s safety and effectiveness, and testing and surveillance programs to monitor the safety of approved therapies and products that have been commercialized. 
+ 
+The FDA has agreed to certain review goals under PDUFA, and aims to complete its review of 90% of standard BLAs within ten months from filing and 90% of priority BLAs within six months from filing. The FDA does not always meet its PDUFA goal dates for standard and priority BLAs and its review goals are subject to change from time to time. The review process and the PDUFA goal date may be extended by three months if the FDA requests, or the BLA sponsor otherwise provides, additional information or clarification regarding information already provided in the submission within the last three months before the PDUFA goal date. 
+ 
+
+ 
+16
+
+
+
+Fast Track Designation, Accelerated Approval, Priority Review and Breakthrough Therapy Programs 
+ 
+The FDA has a Fast Track program that is intended to expedite or facilitate the process for reviewing new drugs and biological products that meet certain criteria. Specifically, new drugs and biological products are eligible for Fast Track designation if they are intended to treat a serious or life-threatening condition and demonstrate the potential to address unmet medical needs for the condition. Fast Track designation applies to the combination of the product and the specific indication for which it is being studied. The sponsor of a new drug or biological product may request the FDA to designate the drug or biological product as a Fast Track product at any time during the clinical development of the product. Unique to a Fast Track product, the FDA may consider for review sections of the marketing application on a rolling basis before the complete application is submitted, if the sponsor provides a schedule for the submission of the sections of the application, the FDA agrees to accept sections of the application and determines that the schedule is acceptable, and the sponsor pays any required user fees upon submission of the first section of the application. 
+ 
+Other types of FDA programs intended to expedite development and review, such as priority review, accelerated approval and Breakthrough Therapy designation, also exist. A product is eligible for priority review if it has the potential to provide safe and effective therapy where no satisfactory alternative therapy exists or a significant improvement in the treatment, diagnosis or prevention of a disease compared to marketed products. The FDA will attempt to direct additional resources to the evaluation of an application for a new drug or biological product designated for priority review in an effort to facilitate the review. Additionally, a product may be eligible for accelerated approval. Drug or biological products studied for their safety and effectiveness in treating serious or life-threatening illnesses and that provide meaningful therapeutic benefit over existing treatments may receive accelerated approval, which means that they may be approved on the basis of adequate and well-controlled clinical trials establishing that the product has an effect on a surrogate endpoint that is reasonably likely to predict a clinical benefit, or on the basis of an effect on a clinical endpoint other than survival or irreversible morbidity. As a condition of approval, the FDA may require that a sponsor of a drug or biological product receiving accelerated approval perform adequate and well-controlled post-marketing clinical trials. In addition, the FDA currently requires as a condition for accelerated approval pre-approval of promotional materials, which could adversely impact the timing of the commercial launch of the product. 
+ 
+A product may also be eligible for receipt of a Breakthrough Therapy designation. The Breakthrough Therapy designation is intended to expedite the FDA’s review of a potential new drug for serious or life-threatening diseases where “preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development.” The designation of a drug as a Breakthrough Therapy provides the same benefits as are available under the Fast Track program, as well as intensive FDA guidance on the product’s development program. Where appropriate, we intend to utilize regulatory programs that can help expedite our product development and commercialization efforts. However, Fast Track designation, priority review, accelerated approval and Breakthrough Therapy designation do not change the standards for approval, but may expedite the development or approval process. 
+ 
+Post-Approval Requirements 
+ 
+Maintaining substantial compliance with applicable federal, state and local statutes and regulations requires the expenditure of substantial time and financial resources. Rigorous and extensive FDA regulation of biological products continues after approval, particularly with respect to GMP. We will rely, and expect to continue to rely, on third parties for the production of clinical and commercial quantities of any products that we may commercialize. Manufacturers of our products are required to comply with applicable requirements in the GMP regulations, including quality control and quality assurance and maintenance of records and documentation. Other post-approval requirements applicable to biological products include reporting of GMP deviations that may affect the identity, potency, purity and overall safety of a distributed product, record-keeping requirements, reporting of adverse effects, reporting updated safety and efficacy information, and complying with electronic record and signature requirements. After a BLA is approved, the product also may be subject to official lot release. As part of the manufacturing process, the manufacturer is required to perform certain tests on each lot of the product before it is released for distribution. If the product is subject to official release by the FDA, the manufacturer submits samples of each lot of product to the FDA together with a release protocol showing a summary of the history of manufacture of the lot and the results of all of the manufacturer’s tests performed on the lot. In addition, the FDA conducts laboratory research related to the regulatory standards on the safety, purity, potency and effectiveness of biological products. 
+ 
+We also must comply with the FDA’s advertising and promotion requirements, such as those related to direct-to-consumer advertising, the prohibition on promoting products for uses or in patient populations that are not described in the product’s approved labeling (known as “off-label use”), industry-sponsored scientific and educational activities, and promotional activities involving the internet. Discovery of previously unknown problems or the failure to comply with the applicable regulatory requirements may result in restrictions on the marketing of a product or withdrawal of the product from the market as well as possible civil or criminal sanctions. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval may subject an applicant or manufacturer to administrative or judicial civil or criminal sanctions and adverse publicity. FDA sanctions could include refusal to approve pending applications, withdrawal of an approval, clinical hold, warning or untitled letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, mandated corrective advertising or communications with doctors, debarment, restitution, disgorgement of profits, or civil or criminal penalties. Any agency or judicial enforcement action could have a material adverse effect on us. 
+ 
+
+ 
+17
+
+
+
+Biological product manufacturers and other entities involved in the manufacture and distribution of approved biological products are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with GMPs and other laws. Accordingly, manufacturers must continue to expend time, money and effort in the area of production and quality control to maintain GMP compliance. Discovery of problems with a product after approval may result in restrictions on a product, manufacturer or holder of an approved BLA, including withdrawal of the product from the market. In addition, changes to the manufacturing process or facility generally require prior FDA approval before being implemented and other types of changes to the approved product, such as adding new indications and additional labeling claims, are also subject to further FDA review and approval. 
+ 
+U.S. Premarket Clearance and Approval Requirements for Medical Devices 
+ 
+Unless an exemption applies, each medical device we wish to distribute commercially in the United States will require either prior premarket notification, or 510(k) clearance, or prior approval of a PMA application from the FDA. The FDA classifies medical devices into one of three classes. Devices deemed to pose low to moderate risk are placed in either class I or II, which, absent an exemption, requires the manufacturer to file with the FDA a 510(k) submission requesting permission for commercial distribution. This process is known as 510(k) clearance. Some low-risk devices are exempt from this requirement. Devices deemed by the FDA to pose the greatest risk, such as life-sustaining, life-supporting or certain implantable devices, or devices deemed not substantially equivalent to a previously cleared 510(k) device, are placed in class III, requiring approval of a PMA application. 
+ 
+Regulation of CardiAMP through the PMA Pathway 
+ 
+Combination products are therapeutic and diagnostic products that combine drugs, devices, and/or biological products. Because combination products involve components that would normally be regulated under different types of regulatory authorities, and frequently by different centers of the FDA, they raise regulatory, policy, and review management challenges. Differences in regulatory pathways for each component of the product can impact the regulatory processes for all aspects of product development and management, including preclinical testing, clinical investigation, marketing applications, manufacturing and quality control, adverse event reporting, promotion and advertising, and post-approval modifications. 
+ 
+A combination product is assigned to an FDA Agency Center or alternative organizational component that will have primary jurisdiction for its premarket review and regulation. For cell-based therapy and related products, the FDA established the Office of Cellular, Tissue and Gene Therapies within CBER to consolidate the review of such products, and the Cellular, Tissue and Gene Therapies Advisory Committee to advise CBER on its review. In our case, CardiAMP involves minimal manipulation of cells within the procedure room, enabling it to be the first cardiac cell-based therapy we are aware of that CBER has indicated it will regulate through the PMA pathway. Because CardiAMP will be approved through the PMA pathway, it is expected to only require a single pivotal clinical trial as opposed to two pivotal clinical trials generally required for approval of biologics. 
+ 
+PMA applications must be supported by valid scientific evidence, which typically requires extensive data, including technical, preclinical, clinical and manufacturing data, to demonstrate to the FDA’s satisfaction the safety and effectiveness of the cell-based therapy. After a PMA application is deemed complete, the FDA will accept the application for filing and begin an in-depth review of the submitted information. During this review period, the FDA may request additional information or clarification of information already provided. Also during the review period, an advisory panel of experts from outside the FDA may be convened to review and evaluate the application and provide recommendations to the FDA as to the approvability of the device. As part of its review of the PMA, the FDA will conduct a pre-approval inspection of the manufacturing facility or facilities to ensure compliance with the Quality System Regulation, or QSR, which requires manufacturers to follow design, testing, control, documentation and other quality assurance procedures. FDA review of an initial PMA application is required by statute to take between six to ten months, although the process typically takes longer, and may require several years to complete. If the FDA evaluations of both the PMA application and the manufacturing facilities are favorable, the FDA will either issue an approval letter or an approvable letter, which usually contains a number of conditions that must be met in order to secure the final approval of the PMA. If the FDA’s evaluation of the PMA or manufacturing facilities is not favorable, the FDA will deny approval of the PMA or issue a not approvable letter. A not approvable letter will outline the deficiencies in the application and, where practical, will identify what is necessary to make the PMA approvable. The FDA may also determine that additional clinical trials are necessary, in which case the PMA approval may be delayed for several months or years while the trials are conducted and then the data submitted in an amendment to the PMA. Once granted, PMA approval may be withdrawn by the FDA if compliance with post-approval requirements, conditions of approval or other regulatory standards is not maintained or problems are identified following initial marketing. 
+ 
+
+ 
+18
+
+
+
+The FDA may approve a PMA application with post-approval conditions intended to ensure the safety and effectiveness of the device including, among other things, restrictions on labeling, promotion, sale and distribution, collection of long-term follow-up data from patients in the clinical trial that supported approval, or new post-approval studies. Failure to comply with the conditions of approval can result in materially adverse enforcement action, including the loss or withdrawal of the approval. PMA supplements are required for modifications that could affect device safety or effectiveness, including, for example, certain types of modifications to the device’s indication for use, manufacturing process, labeling and design. PMA supplements often require submission of the same type of information as an original PMA application, except that the supplement is limited to information needed to support any changes to the device covered by the original PMA application, and may not require as extensive clinical data or the convening of an advisory panel. 
+ 
+A clinical trial is almost always required to support a PMA application. We expect that CardiAMP will require a single pivotal trial for PMA approval. However, there is no guarantee that the FDA will grant us regulatory clearance or approval to market CardiAMP on the basis of a single pivotal trial. Two well-controlled pivotal studies could be necessary to provide the FDA assurance of safety or effectiveness. In the United States, absent certain limited exceptions, human clinical trials intended to support product clearance or approval require an Investigational Device Exemption application, or IDE, which the FDA reviews. Some types of trials deemed to present “non-significant risk” are deemed to have an approved IDE once certain requirements are addressed and IRB approval is obtained. If the device presents a “significant risk” to human health, as defined by FDA regulations, the sponsor must submit an IDE application to the FDA and obtain IDE approval prior to commencing the human clinical trials. The IDE application must be supported by appropriate data, such as animal and laboratory trial results, showing that it is safe to evaluate the device in humans and that the trial protocol is scientifically sound. The IDE application must be approved in advance by the FDA for a specified number of subjects, unless the product is deemed a non-significant risk device and eligible for more abbreviated IDE requirements. Clinical trials for a significant risk device may begin once the IDE application is approved by the FDA and the responsible institutional review boards at the clinical trial sites. There can be no assurance that submission of an IDE will result in the ability to commence clinical trials. Additionally, after a trial begins, the FDA may place it on hold or terminate it if, among other reasons, it concludes that the clinical subjects are exposed to unacceptable health risks that outweigh the benefits of participation in the trial. During a trial, we are required to comply with the FDA’s IDE requirements for investigator selection, trial monitoring, reporting, record keeping and prohibitions on the promotion or commercialization of investigational devices or making safety or efficacy claims for them, among other things. We are also responsible for the appropriate labeling and distribution of investigational devices. Our clinical trials must be conducted in accordance with FDA regulations and federal and state regulations concerning human subject protection, including informed consent and healthcare privacy. The investigators must also obtain patient informed consent, rigorously follow the investigational plan and trial protocol, control the disposition of investigational devices and comply with all reporting and record keeping requirements, among other things. The FDA’s grant of permission to proceed with clinical trials does not constitute a binding commitment that the FDA will consider the trial design adequate to support marketing clearance or approval. In addition, there can be no assurance that the data generated during a clinical trial will meet the chosen study endpoints or otherwise produce results that will lead the FDA to grant marketing clearance or approval. Similarly, in Europe, the clinical trial must be approved by the local ethics committee and in some cases, including trials of high-risk devices, by the Ministry of Health in the applicable country. 
+ 
+ After a device is placed on the market, it remains subject to significant regulatory requirements. Medical devices may be marketed only for the uses and indications for which they are cleared or approved. Device manufacturers must also establish registration and device listings with the FDA. A medical device manufacturer’s manufacturing processes and those of its suppliers are required to comply with the applicable portions of the QSR, which cover the methods and documentation of the design, testing, production, processes, controls, quality assurance, labeling, packaging and shipping of medical devices. Domestic facility records and manufacturing processes are subject to periodic unscheduled inspections by the FDA. The FDA also may inspect foreign facilities that export products to the United States. 
+ 
+Failure by us or our suppliers to comply with applicable regulatory requirements can result in enforcement action by the FDA or other regulatory authorities, which may result in sanctions and related consequences including, but not limited to: 
+ 
+
+● | adverse publicity, untitled letters or warning letters;
+--+--------------------------------------------------------
+
+
+● | fines, injunctions, consent decrees and civil penalties;
+--+---------------------------------------------------------
+
+
+● | recall, detention or seizure of our products;
+--+----------------------------------------------
+
+
+● | operating restrictions, partial suspension or total shutdown of production;
+--+----------------------------------------------------------------------------
+
+ 
+
+ 
+19
+
+
+
+
+● | refusal of or delay in granting our requests for 510(k) clearance or premarket approval of new products or modified products;
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+● | withdrawing 510(k) clearance or premarket approvals that are already granted;
+--+------------------------------------------------------------------------------
+
+
+● | refusal to grant export approval for our products;
+--+---------------------------------------------------
+
+
+● | criminal prosecution; and
+--+--------------------------
+
+
+● | unanticipated expenditures to address or defend such actions.
+--+--------------------------------------------------------------
+
+ 
+Because elements of the broader CardiAMP therapy are already approved or cleared and manufactured for commercial use, we believe regulatory approval risks are primarily those of clinical efficacy. 
+ 
+Regulation of Companion Diagnostics 
+ 
+Companion diagnostics are subject to regulation by the FDA, the EMA and other foreign regulatory authorities as medical devices and require separate regulatory clearance or approval prior to commercial use. We anticipate that the CardiAMP potency assay will require approval under a PMA submitted to the CDRH prior to commercialization. We and our third-party collaborators who may develop our companion diagnostics will work cooperatively to generate the data required for submission with the PMA application, and will remain in close contact with the CDRH to ensure that any changes in requirements are incorporated into the development plans. We further anticipate that regulatory approval of the CardiAMP potency assay will be a prerequisite to our ability to market CardiAMP. Representatives of CDRH have participated in our meetings with CBER regarding CardiAMP to discuss the potential use of the CardiAMP potency assay, and we anticipate that future meetings will include representatives from both CBER and CDRH to ensure that the PMA submissions (for CardiAMP and the CardiAMP potency assay) are coordinated and subject to parallel review by these respective FDA centers. Accordingly, our objective is to align the development programs such that the CardiAMP potency assay will be developed and approved contemporaneously with CardiAMP. 
+ 
+In the United States, companion diagnostic tests used in conjunction with drug or biological products are classified as medical devices under the FD&C Act. We anticipate that our CardiAMP potency assay we are developing in conjunction with our CardiAMP therapeutic candidate will be subject to the PMA approval process. 
+ 
+On July 14, 2011, the FDA issued for comment a draft guidance document addressing the development and approval process for “In Vitro Companion Diagnostic Devices.” According to the draft guidance, for novel products such as CardiAMP, the PMA for a companion diagnostic device should be developed and approved contemporaneously with the biological product. While this draft guidance is not yet finalized, we believe our programs for the development of the CardiAMP potency assay are consistent with the draft guidance as proposed. 
+ 
+Coverage and Reimbursement 
+ 
+Sales of our products will depend, in part, on the extent to which our products will be covered by third-party payors, such as government healthcare programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly reducing reimbursements for medical products and services. In addition, the U.S. government, state legislatures and foreign governments have continued implementing cost containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. Decreases in third-party reimbursement for our therapeutic candidates or a decision by a third-party payor to not cover our therapeutic candidates could reduce physician usage of our products once approved and have a material adverse effect on our sales, results of operations and financial condition. 
+ 
+
+ 
+20
+
+
+
+Affordable Care Act 
+ 
+In March 2010, the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act of 2010, or collectively, the Affordable Care Act, was enacted, which includes measures that have or will significantly change the way health care is financed by both governmental and private insurers. Among the provisions of the Affordable Care Act of greatest importance to the pharmaceutical industry are the following: 
+
+● | The Medicaid Drug Rebate Program requires pharmaceutical manufacturers to enter into and have in effect a national rebate agreement with the Secretary of the Department of Health and Human Services as a condition for states to receive federal matching funds for the manufacturer’s outpatient drugs furnished to Medicaid patients. Effective in 2010, the Affordable Care Act made several changes to the Medicaid Drug Rebate Program, including increasing pharmaceutical manufacturers’ rebate liability by raising the minimum basic Medicaid rebate on most branded prescription drugs and biologic agents from 15.1% of average manufacturer price (AMP) to 23.1% of AMP and adding a new rebate calculation for “line extensions” (i.e., new formulations, such as extended release formulations) of solid oral dosage forms of branded products, as well as potentially impacting their rebate liability by modifying the statutory definition of AMP. The Affordable Care Act also expanded the universe of Medicaid utilization subject to drug rebates by requiring pharmaceutical manufacturers to pay rebates on Medicaid managed care utilization as of 2010. Per a ruling by the U.S. Supreme Court in 2012, states have the option to expand their Medicaid programs which in turn expands the population eligible for Medicaid drug benefits. The Centers for Medicare & Medicaid Services, or CMS, has proposed to expand Medicaid rebate liability to the territories of the United States as well. In addition, the Affordable Care Act provides for the public availability of retail survey prices and certain weighted average AMPs under the Medicaid program. The implementation of this requirement by the CMS may also provide for the public availability of pharmacy acquisition of cost data, which could negatively impact our sales.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | In order for a pharmaceutical product to receive federal reimbursement under the Medicare Part B and Medicaid programs or to be sold directly to U.S. government agencies, the manufacturer must extend discounts to entities eligible to participate in the 340B drug pricing program. The required 340B discount on a given product is calculated based on the AMP and Medicaid rebate amounts reported by the manufacturer. Effective in 2010, the Affordable Care Act expanded the types of entities eligible to receive discounted 340B pricing, although, under the current state of the law, with the exception of children’s hospitals, these newly eligible entities will not be eligible to receive discounted 340B pricing on orphan drugs when used for the orphan indication. In July 2013, the Health Resources and Services Administration (HRSA) issued a final rule allowing the newly eligible entities to access discounted orphan drugs if used for non-orphan indications. While the final rule was vacated by a federal court ruling, HRSA has stated it will continue to allow discounts for orphan drugs when used for any indication other than for orphan indications. In addition, as 340B drug pricing is determined based on AMP and Medicaid rebate data, the revisions to the Medicaid rebate formula and AMP definition described above could cause the required 340B discount to increase.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Effective in 2011, the Affordable Care Act imposed a requirement on manufacturers of branded drugs and biologic agents to provide a 50% discount off the negotiated price of branded drugs dispensed to Medicare Part D patients in the coverage gap (i.e., “donut hole”).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Effective in 2011, the Affordable Care Act imposed an annual, nondeductible fee on any entity that manufactures or imports certain branded prescription drugs and biologic agents, apportioned among these entities according to their market share in certain government healthcare programs, although this fee would not apply to sales of certain products approved exclusively for orphan indications.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The Affordable Care Act required pharmaceutical manufacturers to track certain financial arrangements with physicians and teaching hospitals, including any “transfer of value” made or distributed to such entities, as well as any ownership or investment interests held by physicians and their immediate family members. Manufacturers were required to begin tracking this information in 2013 and to report this information to CMS by March 2014.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  
+As of 2010, a new Patient-Centered Outcomes Research Institute was established pursuant to the Affordable Care Act to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research. The research conducted by the Patient-Centered Outcomes Research Institute may affect the market for certain pharmaceutical products. 
+ 
+There have been judicial and Congressional challenges and amendments to certain aspects of the Affordable Care Act, and with recent legislative activity we expect there could be additional challenges, amendments and attempts to repeal the Affordable Care Act. New state and federal healthcare reform measures could limit the amounts that federal and state governments will pay for our product candidates if we obtain regulatory approval for them, and could have other impacts on consequences which cannot be reasonably predicted at this time. 
+ 
+
+ 
+21
+
+
+
+Other Healthcare Laws and Compliance Requirements 
+ 
+If we obtain regulatory approval for any of our product candidates, we may be subject to various federal and state laws targeting fraud and abuse in the healthcare industry. These laws may impact, among other things, our proposed sale, marketing and education programs. In addition, we may be subject to patient privacy regulations by both the federal government and the states in which we conduct our business. The laws may affect our ability to operate include: 
+
+● | the federal Anti-Kickback Statute, which prohibits, among other things, persons from knowingly and willfully soliciting, receiving, offering or paying remuneration, directly or indirectly, to induce, or in return for, the purchase or recommendation of an item or service reimbursable under a federal healthcare program, such as Medicare and Medicaid programs;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | federal civil and criminal false claims laws and civil monetary penalty laws, which prohibit, among other things, individuals or entities from knowingly presenting, or causing to be presented, claims for payment from Medicare, Medicaid, or other third-party payors that are false or fraudulent;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the federal Health Insurance Portability and Accountability Act of 1996, or HIPAA, which created new federal criminal statutes that prohibit executing a scheme to defraud any healthcare benefit program and making false statements relating to healthcare matters;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the federal transparency laws, including the federal Physician Payment Sunshine Act, that requires drug manufacturers to disclose payments and other transfers of value provided to physicians and teaching hospitals and ownership and investment interest held by such physicians and their immediate family members;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | HIPAA, as amended by the Health Information Technology and Clinical Health Act, or HITECH, and its implementing regulations, which imposes certain requirements relating to the privacy, security and transmission of individually identifiable health information; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | State law equivalents of each of the above federal laws, such as anti-kickback and false claims laws which may apply to items or services reimbursed by any third-party payor, including commercial insurers; state laws that require pharmaceutical companies to comply with the pharmaceutical industry’s voluntary compliance guidelines and the relevant compliance guidance promulgated by the federal government, or otherwise restrict payments that may be made to healthcare providers and other potential referral sources; state laws that require drug manufacturers to report information related to payments and other transfers of value to physicians and other healthcare providers or marketing expenditures; and state laws governing the privacy and security of health information in certain circumstances, many of which differ from each other in significant ways and may not have the same effect, thus complicating compliance efforts.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Because of the breadth of these laws and the narrowness of the statutory exceptions and safe harbors available, it is possible that some of our future business activities could be subject to challenge under one or more of such laws. In addition, the Affordable Care Act broadened the reach of the fraud and abuse laws by, among other things, amending the intent requirement of the federal Anti-Kickback Statute and certain criminal healthcare fraud statutes. Pursuant to the statutory amendment, a person or entity no longer needs to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. In addition, the Affordable Care Act provides that the government may assert that a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the false claims laws or the civil monetary penalties statute. 
+ 
+We are also subject to the Foreign Corrupt Practices Act, or FCPA, which prohibits improper payments or offers of payments to foreign governments and their officials for the purpose of obtaining or retaining business. 
+ 
+Safeguards we implement to discourage improper payments or offers of payments by our employees, consultants, and others may be ineffective, and violations of the FCPA and similar state laws may result in severe criminal or civil sanctions, or other liabilities or proceedings against us, any of which would likely harm our reputation, business, financial condition and results of operations. 
+ 
+If our operations are found to be in violation of any of the laws described above or any other government regulations that apply to us, we may be subject to penalties, including civil and criminal penalties, exclusion from participation in government healthcare programs, such as Medicare and Medicaid and imprisonment, damages, fines and the curtailment or restructuring of our operations, any of which could adversely affect our ability to operate our business and our results of operation. 
+ 
+
+ 
+22
+
+
+
+In addition to the foregoing, state and federal laws regarding environmental protection and hazardous substances, including the Occupational Safety and Health Act, the Resource Conservancy and Recovery Act and the Toxic Substances Control Act, affect our business. These and other laws govern our use, handling and disposal of various biological, chemical and radioactive substances used in, and wastes generated by, our operations. If our operations result in contamination of the environment or expose individuals to hazardous substances, we could be liable for damages and governmental fines. We believe that we are in material compliance with applicable environmental laws and that continued compliance therewith will not have a material adverse effect on our business. We cannot predict, however, how changes in these laws may affect our future operations. 
+ 
+Government Regulation Outside the United States 
+ 
+In addition to regulations in the United States, we will be subject to a variety of regulations in other jurisdictions governing, among other things, clinical trials and any commercial sales and distribution of our products. Because biologically sourced raw materials are subject to unique contamination risks, their use may be restricted in some countries. 
+ 
+Whether or not we obtain FDA approval or clearance for a product, we must obtain the requisite approvals or clearances from regulatory authorities in foreign countries prior to the commencement of clinical trials or marketing of the product in those countries. Certain countries outside of the United States have a similar process that requires the submission of a clinical trial application much like the PMA or IND prior to the commencement of human clinical trials. In Europe, for example, a Clinical Trial Authorization, or CTA, must be submitted to each country’s national health authority and an independent ethics committee, much like the FDA and the IRB, respectively. Once the CTA is approved in accordance with a country’s requirements, clinical trial development may proceed. 
+ 
+The requirements and process governing the conduct of clinical trials, product licensing, pricing and reimbursement vary from country to country. In all cases, the clinical trials are conducted in accordance with GCP and the applicable regulatory requirements and the ethical principles that have their origin in the Declaration of Helsinki. 
+ 
+To obtain regulatory approval of an investigational biological product under European regulatory systems, we must submit a marketing authorization application. The application used to file the PMAs for CardiAMP and BLA for CardiALLO in the United States are similar to that required in Europe, with the exception of, among other things, country-specific document requirements. Europe also provides opportunities for market exclusivity. For example, in Europe, upon receiving marketing authorization, new chemical entities generally receive eight years of data exclusivity and an additional two years of market exclusivity. If granted, data exclusivity prevents regulatory authorities in Europe from referencing the innovator’s data to assess a generic application. During the additional two-year period of market exclusivity, a generic marketing authorization can be submitted, and the innovator’s data may be referenced, but no generic product can be marketed until the expiration of the market exclusivity. However, there is no guarantee that a product will be considered by Europe’s regulatory authorities to be a new chemical entity, and products may not qualify for data exclusivity. 
+ 
+The 10-year market exclusivity may be reduced to six years if, at the end of the fifth year, it is established that the product no longer meets the criteria for orphan designation, for example, if the product is sufficiently profitable not to justify maintenance of market exclusivity. Additionally, marketing authorization may be granted to a similar product for the same indication at any time if: 
+ 
+
+● | the second applicant can establish that its product, although similar, is safer, more effective or otherwise clinically superior;
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the applicant consents to a second orphan medicinal product application; or
+--+----------------------------------------------------------------------------
+
+
+● | the applicant cannot supply enough orphan medicinal product.
+--+-------------------------------------------------------------
+
+ 
+For other countries outside of Europe, such as countries in Eastern Europe, Latin America or Asia, the requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary from country to country. In all cases, again, the clinical trials are conducted in accordance with GCP and the applicable regulatory requirements and the ethical principles that have their origin in the Declaration of Helsinki. 
+ 
+
+ 
+23
+
+
+
+In Europe, we expect both CardiAMP and CardiALLO to be regulated as advanced therapy medicinal products, or ATMPs. To provide for a common framework for the marketing of ATMPs, Regulation (EC) No 1394/2007 of the European Parliament and of the Council on advanced therapy medicinal products, or ATMP Regulation, was adopted in 2007. The ATMP Regulation was designed to ensure a high level of human health protection as well as the free movement of ATMPs in Europe. The cornerstone of the ATMP Regulation is that a marketing authorization must be obtained prior to the marketing of ATMPs. In turn, the marketing authorization can only be granted if, after a scientific assessment of the quality, efficacy and safety profile, it is demonstrated that the benefits outweigh the risks. The application for a marketing authorization must be submitted to the EMA and the final decision is taken by the European Commission. This procedure ensures that these products are assessed by a specialized body (the Committee for Advanced Therapies, or CAT) and that the marketing authorization is valid in all the European Union Member States. 
+ 
+The ATMP Regulation empowered the EMA to make scientific recommendations as to whether a given product should be considered an ATMP (hereinafter “classifications”). Additionally, it provided for a new instrument, the so-called certification procedure, designed as an incentive for small and medium sized enterprises, or SMEs, that were involved in the first stages of the development of ATMPs but lacked the resources to conduct clinical trials. Specifically, the certification that the quality and preclinical aspects of the development are in conformity with the relevant regulatory requirements was expected to help SMEs attract capital and to facilitate the transfer of research activities to entities with the capacity to market medicinal products. 
+ 
+The ATMP Regulation builds on the procedures, concepts, and requirements designed for chemical-based medicinal products. However, ATMPs present very different characteristics. Additionally, in contrast to chemical-based medicinal products, research in advanced therapies is -for the most part- conducted by academia, non-for-profit organizations, and SMEs, which only have limited financial resources and often lack exposure to the regulatory system that governs medicines. 
+ 
+If we fail to comply with applicable foreign regulatory requirements, we may be subject to, among other things, fines, suspension or withdrawal of regulatory approvals, product recalls, seizure of products, operating restrictions and criminal prosecution. 
+ 
+The advertising and promotion of our products in the EEA is subject to the provisions of the Medical Devices Directive, Directive 2006/114/EC concerning misleading and comparative advertising, and Directive 2005/29/EC on unfair commercial practices, as well as other national legislation in the EEA countries governing the advertising and promotion of medical devices. The European Commission has submitted a Proposal for a Regulation of the European Parliament and the Council on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009, to replace, inter alia, Directive 93/42/EEC and to amend regulations regarding medical devices in the European Union, which could result in changes in the regulatory requirements for medical devices in Europe. In Germany, the advertising and promotion of our products can also be subject to restrictions provided by the German Act Against Unfair Competition (Gesetzgegen den unlauteren Wettbewerb) and the law on the advertising of medicines (Heilmittelwerbegesetz), criminal law, and some codices of conduct with regard to medical products and medical devices among others. These laws may limit or restrict the advertising and promotion of our products to the general public and may impose limitations on our promotional activities with healthcare professionals. 
+ 
+Sales of medical devices are subject to foreign government regulations, which vary substantially from country to country. In order to market our products outside the United States, we must obtain regulatory approvals or CE Certificates of Conformity and comply with extensive safety and quality regulations. The time required to obtain approval by a foreign country or to obtain a CE Certificate of Conformity may be longer or shorter than that required for FDA clearance or approval, and the requirements may differ. In the EEA, we are required to obtain Certificates of Conformity before drawing up an EC Declaration of Conformity and affixing the CE Mark of conformity to our medical devices. Many other countries accept CE Certificates of Conformity or FDA clearance or approval although others, such as Brazil, Canada and Japan require separate regulatory filings.
+
+Employees 
+ 
+As of December 31, 2016, we had 14 full-time employees, consisting of clinical development, product development, regulatory, manufacturing, quality, finance, administration, sales, and marketing. We also regularly use independent contractors across the organization to augment our regular staff. None of our employees are covered by collective bargaining agreements and we consider relations with our employees to be good. We believe that our future success will depend in part on our continued ability to attract, hire and retain qualified personnel.
+Available Information 
+ 
+Our website is www.biocardia.com. Information contained on, or that can be accessed through, our website is not part of this Annual Report on Form 10-K, and you should not consider information on our website to be part of this report unless specifically incorporated herein by reference. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our investor relations website as soon as reasonably practicable after we electronically file such material with, or furnish it to the Securities and Exchange Commission, or SEC. The SEC also maintains a website that contains our SEC filings. The address of the website is www.sec.gov. Further, a copy of this Annual Report on Form 10-K is located at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. Information on the operation of the Public Reference Room can be obtained by calling the SEC at 1-800-SEC-0300. 
+ 
+
+ 
+24
+
+
+
+PART III
+ 

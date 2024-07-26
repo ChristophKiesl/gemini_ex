@@ -1,0 +1,252 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.    Business
+Open Text Corporation was incorporated on June 26, 1991. References herein to the “Company”, “OpenText”, “we” or “us” refer to Open Text Corporation and, unless context requires otherwise, its subsidiaries. Our principal office is located at 275 Frank Tompa Drive, Waterloo, Ontario, Canada N2L 0A1, and our telephone number at that location is (519) 888-7111. Our internet address is www.opentext.com. Our website is included in this Annual Report on Form 10-K as an inactive textual reference only. Except for the documents specifically incorporated by reference into this Annual Report, information contained on our website is not incorporated by reference in this Annual Report on Form 10-K and should not be considered to be a part of this Annual Report. Throughout this Annual Report on Form 10-K: (i) the term "Fiscal 2018" means our fiscal year beginning on July 1, 2017 and ending June 30, 2018; (ii) the term “Fiscal 2017” means our fiscal year beginning on July 1, 2016 and ended June 30, 2017; (iii) the term “Fiscal 2016” means our fiscal year beginning on July 1, 2015 and ended June 30, 2016; (iv) the term “Fiscal 2015” means our fiscal year beginning on July 1, 2014 and ended June 30, 2015; and (v) the term “Fiscal 2014” means our fiscal year beginning on July 1, 2013 and ended June 30, 2014. Our Consolidated Financial Statements are presented in U.S. dollars and, unless otherwise indicated, all amounts included in this Annual Report on Form 10-K are expressed in U.S. dollars.
+Business Overview and Strategy
+What We Do: About OpenText 
+We operate in the Enterprise Information Management (EIM) market. We develop enterprise software for digital transformation. OpenText’s comprehensive platform and suite of software products and services provide secure and scalable solutions for global companies. Our software assists organizations with finding, utilizing, and sharing business information from any device in ways that are intuitive, efficient and productive. We also help ensure that information remains secure and private, as demanded in today’s highly regulated climate. In addition, we provide solutions that facilitate the exchange of information and transactions between supply chain participants, such as manufacturers, retailers, distributors and financial institutions. These are central to a company’s ability to collaborate effectively with its partners. Our focus is to help customers 
+    3
+
+automate processes. The algorithms embedded in our software aim to enable customers to unlock massive amounts of data and gain better insight into their business, which ultimately can lead to better decision making.
+We offer software through traditional on-premise solutions, cloud solutions or a combination of both on-premise and cloud solutions (hybrid). We are agnostic as to which delivery method a customer prefers. We believe giving customers choice and flexibility will help us to strive to obtain long-term customer value. 
+What We Offer: Our Products and Services Overview
+At its core, EIM is about helping organizations get the most out of information. Our EIM offerings include Content Services, Business Process Management, Customer Experience Management, Discovery, Business Network, and Analytics. Our products and services deliver the following to our customers:
+
+(i) | Increased compliance and information governance resulting in reduced exposure to risk of regulatory sanctions related to how information is handled and protected;
+
+
+(ii) | Improved operating efficiency through process digitization and automation;
+
+
+(iii) | Better customer engagement through improved and integrated digital experiences and content delivery;
+
+
+(iv) | Lower cost of storage and management of information through improved classification and archiving strategies;
+
+
+(v) | Reduced infrastructure costs due to, among other factors, legacy decommissioning capabilities of EIM and cloud and hosted services deployment models;
+
+
+(vi) | Improved innovation, productivity and time-to-market as a result of letting employees, trading partners and customers work with information and collaborate in ways which are intuitive, automated, and flexible; and
+
+
+(vii) | Increased revenue streams with the enablement of easy expansion across new channels and, ultimately, new markets.
+
+*For illustrative purposes only
+Our portfolio is comprised of capabilities in the following areas:
+Content Services
+We facilitate Content Services with an integrated set of technologies that manage information throughout its lifecycle and improve business productivity, all while mitigating the risk and controlling the costs of growing volumes of content. Our Content Services solutions, which are available on-premise and increasingly in the cloud, include:
+
+• | Content Management provides a repository for business documents (such as those created with Microsoft Office, AutoCAD and Adobe Acrobat/PDF) and facilitates the organizing, displaying, classifying, access control, version control, event auditing, rendition, and search of documents and other content types.
+
+
+• | Records Management enables control of the complete lifecycle of content management by assigning retention and disposition rules to control if and when content can or must be deleted or archived on storage media.
+
+
+• | Archiving helps reduce storage expenses through optimization of storage use. It manages content storage policies according to business context, optimizes storage use, and provides high-end storage services to reduce future storage demands.
+
+    4
+
+
+• | Email Management Solutions enables customers to archive, control and monitor email, regardless of platform, reduce the size of the email database, improve email server performance, control the lifecycle of email content, and monitor email content to improve compliance.
+
+
+• | Capture solutions help bridge the gap between structured and unstructured data by providing the ability to capture and image paper content while applying metadata and applicable policies and schedules. Transforming the information contained in these documents, helps automate or streamline business processes and govern digital content.
+
+
+• | Core is a software as a service (SaaS)-based, multi-tenant cloud solution that provides efficient ways to share documents and collaborate for teams of any size, from small groups to large enterprises.
+
+
+• | LEAP offers a next-generation SaaS platform for Content Services. It is comprised of a set of consumer-grade, end-user productivity applications that enable users to access, share, create and collaborate on content in entirely new ways across any device.
+
+Business Process Management (BPM)
+BPM provides the software capabilities for analyzing, automating, monitoring and optimizing structured business processes that typically fall outside the scope of existing enterprise systems. BPM solutions help empower employees, customers and partners. Our BPM solutions include:
+
+• | Process Suite Platform puts the business in direct control of its processes and fosters alignment between business and Information Technology (IT), resulting in tangible benefits for both. OpenText Process Suite Platform offers one platform that can be accessed simply through a web browser and is built from the ground up to be truly multi-tenant and to support all of the deployment models required for on-premise, private or public clouds.
+
+
+• | Capture and Recognition systems convert documents from analog sources, such as paper or facsimile (fax), to electronic documents and apply value-added functions, such as optical / intelligent character recognition (OCR/ICR) and barcode scanning, and then releases these documents into repositories where they can be stored, managed, and searched.
+
+
+• | Process Suite Solutions are packaged applications built on the Process Suite and address specific business problems. This includes Contract Management, Cloud Brokerage Services, Digital Media Supply Chain, and Enterprise App Store, to name a few.
+
+Customer Experience Management (CEM)
+CEM generates improved time-to-market by giving customers, employees, and channel partners personalized and engaging experiences. Our CEM solutions include:
+
+• | Web Content Management provides software for authoring, maintaining, and administering websites designed to offer a “visitor experience” that integrates content from internal and external sources.
+
+
+• | Digital Asset Management provides a set of content management services for browsing, searching, viewing, assembling, and delivering rich media content such as images, audio and video.
+
+
+• | Customer Communications Management software makes it possible for organizations to process and deliver highly personalized documents in paper or electronic format rather than a “one message fits all” approach.
+
+
+• | Social Software helps companies “socialize” their web presence by adding blogs, wikis, ratings and reviews, and build communities for public websites and employee intranets.
+
+
+• | Portal enables organizations to aggregate, integrate and personalize corporate information and applications and provide a central, contextualized, and personalized view of information for executives, departments, partners, and customers.
+
+Discovery
+Discovery solutions organize and visualize all relevant content and make it possible for business users to quickly locate information and make better informed decisions based on timely, contextualized information. Discovery solutions include:
+
+• | Search addresses information security and productivity requirements by securely indexing all information for fast retrieval and real-time monitoring.
+
+
+• | Semantic Navigation improves the end-user experience of websites by enabling intuitive visual exploration of site content through contextual navigation.
+
+
+• | Auto-Classification improves the quality of information governance through intelligent metadata extraction and accurate classification of information.
+
+
+• | InfoFusionTM makes it possible for organizations to deal with the issue of so-called “information silos” resulting from, for instance, numerous disconnected information sources across the enterprise. Using a framework of adapters, an information access platform allows organizations to consolidate, decommission, archive and migrate content from virtually any system or information repository.
+
+    5
+
+Business Network (BN)
+BN is a set of offerings that facilitate efficient, secure, and compliant exchange of information inside and outside the enterprise. BN solutions include:
+
+• | Business-to-Business (B2B) Integration services help optimize the reliability, reach, and cost efficiency of an enterprise's electronic supply chain while reducing costs, infrastructure and overhead.
+
+
+• | Fax Solutions automate business fax and electronic document distribution to improve the business impact of company information, increase employee productivity and decrease paper-based operational costs.
+
+
+• | Secure Messaging helps to share and synchronize files across an organization, across teams and with business partners, while leveraging the latest smartphones and tablets to provide information on the go without sacrificing information governance or security.
+
+Analytics
+Analytics solutions help organizations gain insight from their structured and unstructured information, make predictions, visualize and report on business processes, customer interactions and a myriad of other sources of information. This analytical data can then be used to refine business processes or content utilization, make predictions, identify trends, improve customer service or be applied in a multitude of different scenarios. OpenText Analytics solutions include:
+
+• | Embedded Reporting and Visualization is used to embed reports and visualizations of data in an array of applications, including the OpenText EIM Suites and many third party data sources.
+
+
+• | Big Data Analysis is the analysis of large sets of information from databases, files, Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) systems and a variety of other sources. Modeling and predictive algorithms may be applied to this data using OpenText solutions to extract meaningful insight or predictive models to solve customer problems or help with operational insight.
+
+Our Strategy
+Growth
+We have historically grown our business and strengthened our service offerings in the EIM market through strategic acquisitions and integration, as well as organic growth. We are a value oriented and disciplined acquirer, having efficiently deployed $5.8 billion on acquisitions over the last 10 years. Mergers and acquisitions is one of our leading growth drivers and similar to high-performing conglomerates, we create value by focusing on acquiring and integrating businesses. We have developed a philosophy, which we refer to as “The OpenText Business System”, that is designed to create value by leveraging a clear set of operational mandates for integrating newly acquired companies and assets. We see our ability to successfully integrate acquired companies and assets into our business as a strength and pursuing strategic acquisitions is an important aspect to our growth strategy. In Fiscal 2017, we further demonstrated the implementation of our strategy by acquiring certain assets and liabilities of the enterprise content division of EMC Corporation, a Massachusetts corporation, and certain of its subsidiaries, collectively referred to as Dell-EMC (ECD Business), certain customer communication management software assets from HP Inc. (CCM Business), and Recommind Inc. (Recommind). For additional details on our acquisitions, please see "Acquisitions During the Last Five Fiscal Years", elsewhere in Item 1 of this Annual Report on Form 10-K.
+While acquiring companies is one of our leading growth drivers, our growth strategy also includes organic growth through continuous innovation. We create sustained value through new innovation by expanding distribution and continually adding value to our installed base of customers. Over the last three fiscal years, we have invested a total of approximately $672.2 million in research and development (R&D) and we typically target to spend approximately 10% to 12% of revenues for R&D each fiscal year. We believe our ability to leverage our global presence is helpful to our ability to grow organically.
+Products
+In July 2017, we introduced our new Artificial Intelligence (AI) platform, which was showcased at our annual user conference, “Enterprise World”. We call our AI platform “OpenText Magellan” (Magellan). Our approach to AI is via an open source code and we believe in making long-term, strategic investments to developing AI. As our enterprise software has historically been focused on managing data and content archives, we believe we are well positioned to turn these archives of data into active “data lakes” and we can develop AI to transform this digital information into useful knowledge and insight for our customers.
+In April 2016 we introduced "OpenText Release 16" (Release 16), which is an integrated digital information platform that manages and analyzes the entire flow of information, addressing key areas of the user experience, machine-to-machine integration, automation and other aspects of managing unstructured data in a digital first organization.
+    6
+
+Release 16 helps organizations with their digital transformation by digitizing information, experiences, processes and supply chains, to create a better way to work within their enterprise. Release 16 also has a major focus on analysis and reporting across all product lines and use cases. It offers customers a coordinated platform for digital transformation that is intended to yield the benefits of scale and single-vendor interaction. We have made significant investments to our cloud infrastructure over the past couple of years, and now with Release 16, virtually all of our products are available in the "OpenText Cloud".
+We see an opportunity to help our customers become “digital businesses” and, with Magellan and Release 16 as well as our recent acquisitions, we believe we have a strong platform to integrate personalized analytics and insights onto our OpenText EIM suites of products, which will further our vision to enable “the digital world” and strengthen our position among leaders in EIM.
+Looking Towards the Future
+In Fiscal 2018 we will continue to implement strategies that are designed to: 
+Broaden Our Reach into EIM, B2B Integration, Analytics, Discovery, and the Cloud. As technologies and customers become more sophisticated, we intend to be a leader in expanding the definition of traditional market sectors. We have been a leader in investing in adjacent markets through acquisitions that have provided us with the technology to accelerate our time to market and increase our scale. We have also invested in technologies to address the growing influence of analytics and social, mobile, and cloud platforms on corporate information.
+Deepen Customer Penetration. We believe one of our greatest opportunities is to sell newly acquired technologies to our existing customer base, and cross-sell historical OpenText products to newly acquired customers. We have significant expertise in a number of industry sectors and aim to increase our customer penetration based on our strong credentials. We are particularly focused on circumstances where the customer is looking to consolidate multiple vendors with solutions from a single source while addressing a broader spectrum of business problems or equally new or existing customers looking to take a more holistic approach to digital transformation.
+Invest in Technology Leadership. We believe we are well-positioned to develop additional innovative solutions to address the evolving market. We plan to continue investing in technology “innovation” by funding internal development as well as collaborating with third-parties.
+Deepen Strategic Partnerships. OpenText is committed culturally, programmatically and strategically to being a partner-embracing company. Our partnerships with companies such as SAP SE, Microsoft Corporation, Oracle Corporation, Accenture plc, Deloitte Consulting LLP and others serve as an example of how we are working together with our partners to create next-generation EIM solutions and deliver them to market. We will continue to look for ways to create more customer value from our strategic partnerships.
+Broaden Global Presence. As customers become increasingly multi-national and as international markets continue to adopt EIM, we plan to further grow our brand, presence, and partner networks in these new markets. We are focused on using our direct sales for targeting existing customers and plan to address new geographies jointly with our partners.
+Selectively Pursue Acquisitions. We expect to continue to pursue strategic acquisitions in the future to strengthen our service offerings in the EIM market. In light of the continually evolving marketplace in which we operate, on an ongoing basis we regularly evaluate acquisition opportunities within the EIM market and at any time may be in various stages of discussions with respect to such opportunities. We plan to continue to pursue acquisitions that complement our existing business, represent a strong strategic fit and are consistent with our overall growth strategy and disciplined financial management. We may also target future acquisitions to expand or add functionality and capabilities to our existing portfolio of solutions, as well as add new solutions to our portfolio.
+OpenText Revenues
+Our business consists of four revenue streams: license, cloud services and subscriptions, customer support, and professional service and other. For information regarding our revenues and assets by geography for Fiscal 2017, Fiscal 2016 and Fiscal 2015, see note 19 “Segment Information” in the Notes to Consolidated Financial Statements included in Item 8 to this Annual Report on Form 10-K.
+License
+License revenues consist of fees earned from the licensing of software products to our customers. Our license revenues are impacted by the strength of general economic and industry conditions, the competitive strength of our software products, and our acquisitions. The decision by a customer to license our software products often involves a comprehensive 
+    7
+
+implementation process across the customer’s network or networks and the licensing and implementation of our software products may entail a significant commitment of resources by prospective customers.
+Cloud Services and Subscriptions
+Cloud services and subscription revenues consist of (i) software as a service offerings (ii) managed service arrangements and (iii) subscription revenues relating to on premise offerings. These offerings allow customers to transmit a variety of content between various mediums and to securely manage enterprise information without the commitment of investing in related hardware infrastructure.
+In addition, we offer B2B integration solutions, such as messaging services, and managed services. Messaging services allow for the automated and reliable exchange of electronic transaction information, such as purchase orders, invoices, shipment notices and other business documents, among businesses worldwide. Managed services provide an end-to-end fully outsourced B2B integration solution to our customers, including program implementation, operational management, and customer support. These services enable customers to effectively manage the flow of electronic transaction information with their trading partners and reduce the complexity of disparate standards and communication protocols.
+Customer Support
+The first year of our customer support offering is usually purchased by customers together with the license of our EIM software products. Customer support is typically renewed on an annual basis and historically customer support revenues have been a significant portion of our total revenue. Through our OpenText customer support programs, customers receive access to software upgrades, a knowledge base, discussions, product information, and an online mechanism to post and review “trouble tickets”. Additionally, our customer support teams handle questions on the use, configuration, and functionality of OpenText products and can help identify software issues, develop solutions, and document enhancement requests for consideration in future product releases.
+Professional Service and Other
+We provide consulting and learning services to customers and generally these services relate to the implementation, training and integration of our licensed product offerings into the customer's systems.
+Our consulting services help customers build solutions that enable them to leverage their investments in our technology and in existing enterprise systems. The implementation of these services can range from simple modifications to meet specific departmental needs to enterprise applications that integrate with multiple existing systems.
+Our learning services consultants analyze our customers' education and training needs, focusing on key learning outcomes and timelines, with a view to creating an appropriate education plan for the employees of our customers who work with our products. Education plans are designed to be flexible and can be applied to any phase of implementation: pilot, roll-out, upgrade or refresher. OpenText learning services employ a blended approach by combining mentoring, instructor-led courses, webinars, eLearning and focused workshops.
+Marketing and Sales 
+Customers
+Our customer base consists of a number of Global 10,000 organizations as well as mid-market companies and government agencies. Historically, including in Fiscal 2017, no single customer has accounted for 10% or more of our total revenues.
+Global Distribution Channels
+We operate on a global basis and in Fiscal 2017 we generated approximately 59% of our revenues from our “Americas” region, which consists of countries in North, Central, and South America, approximately 32% from our "EMEA" region, which primarily consists of countries in Europe, the Middle East, and Africa, and approximately 9% from our "Asia Pacific" region, which primarily consists of Japan, Australia, China, Korea, Philippines, Singapore and New Zealand. We make direct sales of products and services through our global network of subsidiaries. 
+    8
+
+Partners and Alliances
+We also market our products and services worldwide through indirect channels. We partner with prominent organizations in the enterprise software and hardware industries in an effort to enhance the value of our solutions and the investments our customers have made in their existing systems. We strive to create mutually beneficial relationships with global systems integrators, consultants, and software and hardware developers that augment and extend our products and services. Through these relationships, we and our partners are better able to fulfill key market objectives, drive new business, establish a competitive advantage, and create demonstrable business value.
+Our strategic partners are:
+SAP SE (SAP)
+OpenText and SAP have shared many years of partnership and close collaboration. Our solutions help customers improve the way they manage content from SAP systems in order to assist them to improve efficiency in key processes, manage compliance and reduce costs. Our targeted solutions let customers create, access, manage and securely archive content for SAP systems, including data, multimedia content, and documents. In addition, our solutions for SAP allow customers to address stringent requirements for risk reduction, operational efficiency and information technology consolidation. OpenText products are typically used by SAP customers as part of their key business processes. We are also a strategic SAP partner in the SAP cloud. In Fiscal 2017, we signed an overarching cloud reseller agreement with SAP, extending our relationship many years into the future.
+Microsoft Corporation (Microsoft)
+Our strategic alliance with Microsoft offers integration between our EIM solutions and Microsoft's desktop, cloud and server products, such as Microsoft SharePoint and Exchange, as well as Office 365 and SharePoint online. Microsoft and OpenText have partnered to drive the creation of comprehensive business and industry-specific EIM solutions leveraging customers' significant investments in the Microsoft platform and productivity applications. We provide support for Microsoft platforms such as Windows and SQL Server and integration with many Microsoft products such as Exchange, Rights Management and Windows Azure. The integration of our solutions with Microsoft Office and SharePoint allows an OpenText customer to work with information from ERP, CRM, EIM and other enterprise applications from within the Microsoft SharePoint or Microsoft Office interface.
+Oracle Corporation (Oracle)
+For more than ten years, OpenText has developed innovative solutions for Oracle applications that enhance the experience and productivity of users working with these tools. OpenText is committed to continued development that extends and enhances the Oracle application and technology portfolio. Our partnership extends our enterprise solutions framework with integration between OpenText and Oracle eBusiness Suite, analogous to our integration with SAP.
+Our global systems integrators are:
+Accenture plc (Accenture)
+Accenture, a global management consulting, technology services and outsourcing company, is one of our systems integrator partners. Together we provide strategic EIM solutions. Accenture's extensive experience with enterprise-rollout planning and design, combined with our EIM technology, provides solutions designed to address an organization's EIM requirements.
+Deloitte Consulting LLP (Deloitte)
+Deloitte is also one of our systems integrator partners. Together, we help organizations build value through improved Enterprise Content Management (ECM) performance. Deloitte's services provide value across human capital, strategy and operations, and technology within multiple industries.
+Other System Integrators
+Other OpenText systems integrator partners include Cap Gemini Inc., CGI Group Inc. (through its acquisition of Logica plc), ATOS SE, Ernst & Young LLP and others.
+International Markets
+We provide our product offerings worldwide. Our geographic coverage allows us to draw on business and technical expertise from a geographically diverse workforce, providing greater stability to our operations and revenue streams by diversifying our portfolio to better mitigate against the risks of a single geographically focused business.
+    9
+
+There are inherent risks to conducting operations internationally. For more information about these risks, see “Risk Factors” included in Item 1A of this Annual Report on Form 10-K.
+Competition
+The market for our products and services is highly competitive, subject to rapid technological change and shifting customer needs and economic pressures. We compete with multiple companies, some that have single or narrow solutions and some that have a range of information management solutions, like ourselves. Our primary competitor is International Business Machines Corporation (IBM), with numerous other software vendors with niche offerings competing with us in the EIM sector, such as Veeva Systems Inc., j2 Global Inc., Pegasystems Inc., Hyland Software Inc., and Adobe Systems Inc. In certain markets, OpenText competes with Oracle and Microsoft, who are also our partners. In addition, we also face competition from systems integrators that configure hardware and software into customized systems. Additionally, new competitors or alliances among existing competitors may emerge and could rapidly acquire additional market share. We also expect that competition will increase as a result of ongoing software industry consolidation.
+We believe that certain competitive factors affect the market for our software products and services, which may include: (i) vendor and product reputation; (ii) product quality, performance and price; (iii) the availability of software products on multiple platforms; (iv) product scalability; (v) product integration with other enterprise applications; (vi) software functionality and features; (vii) software ease of use; (viii) the quality of professional services, customer support services and training; and (ix) the ability to address specific customer business problems. We believe the relative importance of each of these factors depends upon the concerns and needs of each specific customer.
+Research and Development
+The industry in which we compete is subject to rapid technological developments, evolving industry standards, changes in customer requirements and competitive new products and features. As a result, our success, in part, depends on our ability to continue to enhance our existing products in a timely and efficient manner and to develop and introduce new products that meet customer needs while reducing total cost of ownership. To achieve these objectives, we have made and expect to continue to make investments in research and development, through internal and third-party development activities, third-party licensing agreements and potentially through technology acquisitions. Our R&D expenses were $281.7 million for Fiscal 2017, $194.1 million for Fiscal 2016, and $196.5 million for Fiscal 2015. We believe our spending on research and development is an appropriate balance between managing our organic growth and results of operation. We expect to continue to invest in R&D to maintain and improve our products and services offerings.
+Acquisitions During the Last Five Fiscal Years
+Our competitive position in the marketplace requires us to maintain a complex and evolving array of technologies, products, services and capabilities. In light of the continually evolving marketplace in which we operate, we regularly evaluate acquisition opportunities within the EIM market and at any time may be in various stages of discussions with respect to such opportunities.
+Pursuing strategic acquisitions is an important aspect to our current and future growth strategy, which we expect to continue, in order to strengthen our service offerings in the EIM market. In Fiscal 2017 we acquired ECD Business, CCM Business, and Recommind. ECD Business brings a suite of leading ECM solutions with deep industry focus, including the DocumentumTM, InfoArchiveTM, and LEAPTM product families. CCM Business brings a wider set of Customer Communications Management (CCM) capabilities allowing us to better serve our customers. Recommind was a leading provider of eDiscovery and information analytics, and provides increased visibility into structured and unstructured data. 
+On July 26, 2017, we announced that we completed our previously announced acquisition of Covisint Corporation (Covisint), a leading cloud platform for building Identity, Automotive, and Internet of Things (IoT) applications, for approximately $103.0 million. On the same day, we announced that we entered into a definitive agreement to acquire Guidance Software Inc. (Guidance), a leading provider of forensic security solutions, for approximately $240.0 million. For more information, please see note 23 "Subsequent Events" in the Notes to Consolidated Financial Statements included in Item 8 to this Annual Report on Form 10-K.
+Below is a summary of the more material acquisitions we have made over the last five fiscal years.
+In Fiscal 2017, we completed the following acquisitions:
+
+• | On January 23, 2017, we acquired ECD Business for approximately $1.62 billion.
+
+
+• | On July 31, 2016, we acquired CCM Business for approximately $315.0 million.
+
+
+• | On July 20, 2016, we acquired Recommind, a leading provider of eDiscovery and information analytics, based in San Francisco, California, United States, for approximately $170.1 million.
+
+    10
+
+ Prior to Fiscal 2017, we completed the following acquisitions:
+
+• | On May 1, 2016, we acquired ANXe Business Corporation (ANX), a leading provider of cloud-based information exchange services to the automotive and healthcare industries, based in Michigan, United States. Total consideration for ANX was approximately $104.6 million.
+
+
+• | On April 30, 2016, we acquired certain customer experience software and services assets and liabilities from HP Inc. (CEM Business) for approximately $160.0 million.
+
+
+• | On November 23, 2015, we acquired Daegis Inc. (Daegis), a global information governance, data migration solutions and development company, based in Texas, United States. Total consideration for Daegis was approximately $23.3 million.
+
+
+• | On January 16, 2015, we acquired Actuate Corporation (Actuate), based in San Francisco, California, United States, for $332.0 million, comprised of approximately $322.4 million in cash and shares we purchased of Actuate in the open market with a fair value of approximately $9.5 million as of the date of acquisition. Actuate was a leader in personalized analytics and insights.
+
+
+• | On January 2, 2015, we acquired Informative Graphics Corporation (IGC), based in Scottsdale, Arizona, United States, for approximately $40.0 million. IGC was a leading developer of viewing, annotation, redaction and publishing commercial software.
+
+
+• | On January 16, 2014, we acquired GXS Group Inc. (GXS), a Delaware corporation based in Gaithersburg, Maryland, United States, and leader in cloud-based B2B integration services for $1.2 billion, inclusive of the issuance of 5,190,084 OpenText Common Shares.
+
+
+• | On August 15, 2013, we acquired Cordys Holding B.V. (Cordys), a leading provider of BPM and case management solutions, offered on one platform with cloud, mobile, and social capabilities, based in Putten, the Netherlands for $33.2 million.
+
+
+• | On May 23, 2013, we acquired ICCM Professional Services Limited (ICCM), based in Malmesbury, United Kingdom, for $18.9 million. ICCM is a provider of IT service management software solutions.
+
+
+• | On March 5, 2013, we acquired Resonate KT Limited (RKT), based in Cardiff, United Kingdom, for $20.0 million. RKT was a leading provider of software that enables organizations to visualize unstructured data, create new user experiences for ECM and Extended ECM (xECM) for SAP, as well as build industry-based applications that maximize unstructured data residing within Content Server, a key component of the OpenText ECM suite.
+
+
+• | On July 2, 2012, we acquired EasyLink Services International Corporation (EasyLink), based in Georgia, United States and a global provider of cloud-based electronic messaging and business integration services for $342.3 million.
+
+We believe our acquisitions support our long-term strategy for growth, strengthen our competitive position, expand our customer base and provide greater scale to accelerate innovation, grow our earnings and provide superior shareholder value. We expect to continue to strategically acquire companies, products, services and technologies to augment our existing business.
+Intellectual Property Rights
+Our success and ability to compete depends on our ability to develop and maintain our intellectual property and proprietary technology and to operate without infringing on the proprietary rights of others. Our software products are generally licensed to our customers on a non-exclusive basis for internal use in a customer's organization. We also grant rights in our intellectual property to third parties that allow them to market certain of our products on a non-exclusive or limited-scope exclusive basis for a particular application of the product(s) or to a particular geographic area.
+We rely on a combination of copyright, patent, trademark and trade secret laws, non-disclosure agreements and other contractual provisions to establish and maintain our proprietary rights. We have obtained or applied for trademark registration for most strategic product names in most major markets. We have a number of U.S. and foreign patents and pending applications, including patents and rights to patent applications acquired through strategic transactions, which relate to various aspects of our products and technology. The duration of our patents is determined by the laws of the country of issuance and for the U.S. is typically 17 years from the date of issuance of the patent or 20 years from the date of filing of the patent application resulting in the patent. While we believe our intellectual property is valuable and our ability to maintain and protect our intellectual property rights is important to our success, we also believe that our business as a whole is not materially dependent on any particular patent, trademark, license, or other intellectual property right.
+For more information on the risks related to our intellectual property rights, see "Risk Factors" included in Item 1A of this Annual Report on Form 10-K.
+Employees
+As of June 30, 2017, we employed a total of approximately 10,900 individuals. The approximate composition of our employee base is as follows: (i) 1,800 employees in sales and marketing, (ii) 2,700 employees in product development, (iii) 
+    11
+
+2,500 employees in cloud services, (iv) 1,400 employees in professional services, (v) 1,100 employees in customer support, and (vi) 1,400 employees in general and administrative roles. We believe that relations with our employees are strong. None of our employees are represented by a labour union, nor do we have collective bargaining arrangements with any of our employees. However, in certain international jurisdictions in which we operate, a “Workers' Council” represents our employees.
+Available Information
+Access to our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed with or furnished to the SEC may be obtained free of charge through the Investors section of our website at investors.opentext.com as soon as is reasonably practical after we electronically file or furnish these reports. Our website is included in this Annual Report on Form 10-K as an inactive textual reference only. Except for the documents specifically incorporated by reference into this Annual Report, information contained on our website is not incorporated by reference in this Annual Report and should not be considered to be a part of this Annual Report. In addition, our filings with the SEC may be accessed through the SEC's website at www.sec.gov and our filings with the Canadian Securities Administrators (CSA) may be accessed through the CSA's System for Electronic Document Analysis and Retrieval (SEDAR) at www.sedar.com. All statements made in any of our securities filings, including all forward-looking statements or information, are made as of the date of the document in which the statement is included, and we do not assume or undertake any obligation to update any of those statements or documents unless we are required to do so by applicable law.

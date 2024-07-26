@@ -1,0 +1,170 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+
+
+CSP Inc. (“CSPI” or “the Company” or “we” or “our”) was incorporated in 1968 and is based in Lowell, Massachusetts. To meet the diverse requirements of our commercial, and defense customers worldwide, CSPI and its subsidiaries develop and market IT integration solutions, advanced security and managed services, purpose built network adapters, and high-performance cluster computer systems.
+Segments
+CSPI operates in two segments; High Performance Products ("HPP") and Technology Solutions ("TS").
+
+HPP Segment
+
+• | The HPP segment revenues have two distinct product lines: (i) our Multicomputer product portfolio of computing systems for digital signal processing ("DSP") applications within the defense market and (ii) our Myricom product line of network Ethernet adapters that are offered to both commercial and government customers. 
+
+
+• | Our Multicomputer revenue flows from a modest number of existing high-value customers that support the deployment and maintenance of systems utilized by domestic and foreign government entities. During fiscal 2015, the Company determined to no longer design and develop new systems for the defense market and is not expected to participate in next generation of defense systems and applications. Instead, the Company will focus on servicing the existing product line. As a result, the revenue from these products as a percentage of overall Company revenue is expected to decline over time as we focus on the growth of our Myricom products and TS Segment product line. 
+
+
+• | Our Myricom product portfolio derives its revenues from a line of network Ethernet adapters purchased by a wide range of customers in three specialized markets: (i) packet capture, (ii) financial transactions and (iii) the storage interconnect market. Our primary customers in the packet capture market include government agencies that want the ability to capture, inject, and analyze network traffic at line rate, and original equipment manufacturers ("OEM") selling into vendors of computer security appliances. Our customers in the financial transactions market include 
+
+1
+
+
+banks, brokerages, and other trading firms looking for low latency adapters with value-added features specifically tied to market data feeds. Our storage interconnect market customers are primarily in the film industry using our adapters for film editing.
+TS Segment
+
+• | The TS segment consists of our wholly-owned Modcomp subsidiary, which operates in the United States, Germany and the United Kingdom.
+
+
+• | The TS segment generates product revenues by reselling third-party computer hardware and software as a value added reseller (“VAR”). The TS segment generates service revenues by the delivery of integration services for complex IT environments, including advanced security; unified communications and collaboration; wireless and mobility; data center solutions; and network solutions as well as managed IT services ("MSP") that primarily serve the small and mid-sized business market ("SMB"). 
+
+
+• | Third party products and professional services are marketed and sold through the Company's direct sales force into a variety of vertical markets, including; automotive; defense; health care; education; federal, state and local government; and maritime.
+
+Sales Information by Industry Segment 
+
+The following table details our sales by operating segment for fiscal years ending September 30, 2016 and 2015. Additional segment and geographical information is set forth in Note 14 to our financial statements. 
+
+Segment | 2016 | | % | | 2015 | | % 
+ | (Dollar amounts in thousands)
+HPP | $ | 16,342 | | | 16 | % | | $ | 13,948 | | | 16 | %
+TS | 87,025 | | | 84 | % | | 75,358 | | | 84 | %
+Total Sales | $ | 103,367 | | | 100 | % | | $ | 89,306 | | | 100 | %
+
+
+HPP Segment 
+
+Products and Services 
+
+In the HPP segment, we design, manufacture and deliver products and services to customers that require specialized networking and signal processing.
+Our DSP product line (also referred to as the "Multicomputer" product portfolio) utilizes commercially available, industry standard compliant hardware components and open source software to deliver high-performance, high density and low power consuming computer solutions to our customers. These systems incorporate tens to hundreds of processors, interconnected by a high-bandwidth network. They are specifically designed for analysis of complex signals and images in real-time or in modeling and simulations. CSPI's experience in processing density, large memory subsystems, high-bandwidth networking components, optimized signal processing libraries, and specialized algorithms facilitates use of these DSP products in the military/defense markets.
+Our Ethernet adapters and solutions product line (also referred to as the “Myricom" product line) consists of high performance 10 Gigabit ("10G") Ethernet adapters and application software specialized for vertical markets. By optimizing latency, throughput and cost, these solutions address the requirements of applications in the packet capture, financial transaction, broadcast video and media markets.
+Products 
+Our Multicomputer product portfolio includes the 2000 SERIES VME and 3000 SERIES VXS systems. The 2000 SERIES products, with PowerPC RISC processors with AltiVec™ technology, high-speed memory and Myrinet-2000™ cluster interconnect are in deployment by customers in the aerospace, commercial and defense markets. The 3000 SERIES VXS product line, incorporating the Freescale QorIQ PowerPC processors with AltiVec technology, targets high performance DSP, 
+2
+
+
+signal intelligence (“SIGINT”), radar and sonar applications in airborne, shipboard and unmanned aerial vehicle (“UAV”) platforms where space, power and cooling are at a premium. The HPP segment continues to ship existing products to its customer base and support an installed base of DSP systems.
+Our Myricom product line includes10G Ethernet adapters and associated network adapter software for Linux, Windows, Mac OS X and VMware ESX that we acquired through an asset purchase on November 4, 2013. The acquired line of network 10GBASE-T adapters, marketed under the name Myricom ARC Series, continue to meet the critical requirements of performance, multi-platform compatibility, software vendor approval, and maturity required in the media and entertainment market. ARC Series adapters are a preferred choice for media editors as they have been tested and qualified for use with the Avid® MediaCentral™ Platform and similar software packages popular among media editors. Our latest generation of ARC Series adapters is based on FPGA technology and purpose built for complex and demanding applications including automated trading and network monitoring. We introduced The ARC Series with DBL™ (“DBL”) to the market during fiscal 2015. DBL offers the ultra-low latency requirements of the high frequency trading market. However, adoption of the ARC Series with DBL product line was less than expected with limited success in Windows operating system environments. As a result, we have shifted R&D resources to accelerate the introduction of our new ARC Series with Sniffer10G software (“Sniffer 10G”) which is expected to be introduced to the packet capture market during fiscal 2017. Likely customers include enterprise and government customers seeking the ability to perform thorough inspection of the network traffic to provide better detection of cyber threats enabled by 100% lossless packet capture and packet injection required for network surveillance, including lawful intercept; deep packet inspection for use by Intrusion Detection systems ("IDS"), forensic tools and denial-of-service ("DDoS") defense applications .
+Royalties 
+ We license the design of certain of our 2000 SERIES computer processor boards and switched interconnect technology to third parties. In exchange for licensing this technology, we receive a royalty payment for each processor board that the licensee produces that utilizes our design for these products.
+Markets, Marketing and Dependence on Certain Customers 
+
+Aerospace & Defense Market 
+
+We have discontinued the design and development of new systems for the defense market and do not expect to participate in the next generation of defense systems and applications. Our focus for fiscal 2017 and beyond is to continue our support of established products and existing system deployments made by government entities with support requirements that often extend beyond twenty years. 
+Financial Transactions Market
+Myricom network adapters with DBL application software address the need for the ultra-low latency required in the world of financial trading. Running DBL on ARC Series extreme performance network adapters provides unmatched acceleration for 10G Ethernet environments, with benchmarked application-to-application latency in the single digit microseconds for Linux and Microsoft Windows operating systems.
+Packet Capture Market
+Myricom Sniffer10G software, running on ARC Series Ethernet adapters, provides enterprise and government customers and partners the ability to capture, inject, and analyze network traffic at line rate for all Ethernet packet sizes, with low host-CPU overhead. Sniffer 10G serves the following market segments: network surveillance, monitoring and analysis; test, measurement and packet generation; deep packet inspection (DPI); and as a critical technology component within Intrusion Detection Systems ("IDS"), forensic tools and distributed denial-of-service (DDoS) defense appliances.
+Storage Interconnect Market
+Myricom network adapters are used in a wide range of applications that connect to storage subsystems using Ethernet. Most of these customers are using content creation applications from the storage system to video editing work stations. We also have customers in the supercomputing market and building cable head ends. These adapters with the Myri10GE software deliver best in class throughput performance for Ethernet controllers.
+3
+
+
+
+Competition 
+
+The markets for our HPP segment are very competitive. Customer requirements coupled with advances in technology drive our efforts to continuously improve existing products and develop new ones outside the defense market. Applications expertise, product innovation, strong technical support and dedicated customer service allow us to compete as a provider of high-performance products and solutions.
+Our primary direct competitors for the Myricom products are Solarflare and Intel. In specific application areas we also compete with Napatech and Accolade Technology for the packet processing business; Small Tree, ATTO, and Chelsio in the content creation/post production markets; and Mellanox in the financial services arena. Intel solutions will remain attractive to customers in markets that require the lowest price and whose needs are met by commodity hardware adapters. Myricom network adapters offer enhanced features, such as support for kernel bypass technologies, 100% lossless packet capture, as well as precision time stamping. 
+Manufacturing, Assembly and Testing 
+
+Currently, all Multicomputer systems are shipped to our customers directly from our plant in Lowell, Massachusetts. Our manufacturing activities consist mainly of final assembly and testing of printed circuit boards and systems that are designed by us and fabricated by outside third party vendors. 
+
+Upon our receipt of material and components from outside suppliers, our quality assurance technicians inspect these products and components. During manufacture and assembly, both sub-assemblies and completed systems are subjected to extensive testing, including burn-in and environmental stress screening designed to minimize equipment failure at delivery and over the useful service life of the system. We also use diagnostic programs to detect and isolate potential component failures. A comprehensive log is maintained of past failures to monitor the ongoing reliability of our products and improve design standards. 
+Currently, Myricom products are shipped to our customers directly from our plant in Lowell, Massachusetts. Our network adapters are designed by us and fabricated by outside third party vendors. Material and components received from outside suppliers are inspected by our quality assurance technicians. 
+ We provide a warranty covering defects arising from the sale of Multicomputer and Myricom products, which varies from 90 days to three years, depending upon the particular unit in question.
+ Sources and Availability of Raw Materials 
+
+Several components used in our HPP segment products are obtained from sole-source suppliers. We are dependent on key vendors such as Freescale Semiconductor, Inc. for PowerPC processors for our 2000 SERIES and our 3000 SERIES VXS products and Wind River Systems, Inc. for VxWorks operating system software. Despite our dependence on these sole-source suppliers, based on our current forecast, we do not consider the risk of interruption of supply to be significant, therefore, we expect to meet our projected sales obligations over the near term, because we have adequate inventory on hand and/or our current requirements can be met in the existing supply chain.
+Research and Development 
+
+For the year ended September 30, 2016, our expenses for R&D were approximately $3.0 million compared to approximately $2.8 million for fiscal year 2015. Expenditures for R&D are expensed as they are incurred. Product development efforts in fiscal year 2016 involved enhancements to our Myricom products, in which we expect to continue to make investments related to the development of new hardware adapter products and the software that enables the hardware to meet the needs of specific applications. Our current R&D plan is intended to extend the usefulness and marketability of these products by reducing latency, improving precision time stamping capabilities, and adding features, such as enhanced arbitration, to deliver products fine-tuned to meet the needs of our markets.
+ Intellectual Property 
+We rely on a combination of trademark and trade secret laws in the United States and other jurisdictions, as well as confidentiality procedures and contractual provisions to protect our intellectual property rights. We do not own any material patent rights.
+4
+
+
+Backlog 
+
+The backlog of customer orders and contracts in the HPP segment was approximately $4.9 million at September 30, 2016 as compared to $1.6 million at September 30, 2015. Our backlog can fluctuate greatly. These fluctuations can be due to the timing of receipt of large orders often for purchases from prime contractors for sales to the government. It is expected that all of the customer orders in backlog will ship within the next twelve months from September 30, 2016.
+ TS Segment 
+
+Products and Services 
+
+Integration Solutions 
+
+In the TS segment, we focus on VAR integrated solutions including third-party hardware, software and technical computer-related consulting services and managed services. Our value proposition is our ability to integrate diverse third-party components together into a complete solution to install the system at the customer site and to offer high value IT consulting services to deliver solutions.
+
+Third-Party Hardware and Software 
+
+Our wholly-owned subsidiary, Modcomp, sells third-party hardware and software products in the information technology market, with a strategic focus on industry standard servers and data center infrastructure solutions, midrange data storage infrastructure products, network products, unified communications and IT security hardware and software solutions. Our key offerings include products from HP, Cisco Systems, IBM, Juniper Networks, Dell, Citrix, Dell EMC, Intel, VMWare, Fortinet, nCircle, Microsoft, Arcsight and Checkpoint. Through our business relationships with these vendors, we are able to offer competitively priced robust products to meet our customers' diverse technology needs, providing procurement and engineering expertise in server infrastructure, storage, security, unified communications and networking, to the small-to-medium sized businesses (“SMBs”) and large enterprise businesses (“LEBs”) with complex IT environments. We offer our customers a single point of contact for complex multi-vendor technology purchases. Many of our SMB customers have unique technology needs and may lack technical purchasing expertise or have very limited IT engineering resources on staff. We also provide installation, integration, logistical assistance and other value-added services that customers may require. Our current customers are in web and infrastructure hosting, education, telecommunications, healthcare services, distribution, financial services, professional services and manufacturing. We target SMBs and LEB customers across all industries. 
+Professional Services 
+
+We provide professional IT consulting services in the following areas: 
+
+• | Implementation, integration, migration, configuration, installation services and project management.
+
+
+• | Unified Storage Platforms ("USPs"). We help our customers implement USP solutions using products from Dell, EMC, HP and NetApp. USPs have advantages over conventional storage architecture, which include cost savings from better utilization of hardware and lower headcount requirements to run and maintain data storage systems, higher availability and faster data access rates resulting in increased productivity. 
+
+
+• | Virtualization. We help our customers implement virtualization solutions using products from companies such as VMWare and Citrix that allow one computer to do the job of multiple computers by sharing resources of a single computer across multiple environments. Virtualization eliminates physical and geographical limitations and enables users to host multiple operating systems and applications on fewer servers. Benefits include energy cost savings, lower capital expenditure requirements, high availability of resources, better desktop management, increased security and improved disaster recovery. 
+
+
+• | Enterprise security intrusion prevention, network access control and unified threat management. Using third-party products from companies like Checkpoint, Palo Alto, Juniper Networks and Cisco Systems, our services are designed to ensure data security and integrity through the establishment of virtual private networks, firewalls and other technologies. 
+
+
+• | IT security compliance services. We provide services for IT security compliance with personal privacy laws such as the Payment Card Industry Data Security Standard (PCI DSS), the Health Insurance Portability and Accountability Act of 1996 (HIPAA), and internal control regulations under the Sarbanes-Oxley Act (SOX). 
+
+5
+
+
+
+
+• | Unified communications, wireless and routing and switching solutions using Cisco Systems and Aruba Networks products and services.
+
+
+• | Custom software applications and solutions development and support. We develop custom applications to customer specifications using industry standard platforms such as Microsoft.Net, SharePoint and OnBase. We are a Microsoft Gold Partner. 
+
+
+• | Managed IT services that include monitoring, reporting and management of alerts for the resolution and preventive general IT and IT security support tasks.
+
+
+• | Maintenance and technical support for third-party products including hardware and software, operating system and user support.
+
+Markets, Marketing and Dependence on Certain Customers 
+
+We are an IT systems integrator and computer hardware and software VAR. We also provide technical services to achieve a value-add to our customers. We operate within the VAR sales channels of major computer hardware and software OEMs, primarily within the geographic areas of our sales offices and across the U.S. We provide innovative IT solutions, including a myriad of infrastructure products with customized integration consulting services and managed services to meet the unique requirements of our customers. We market the products and services we sell through sales offices in the U.S., Germany and the U.K. using our direct sales force (for a list of our locations, see Item 2 of this Form 10-K). 
+Competition 
+
+Our primary competition in the TS segment is other VARs ranging from small companies that number in the thousands, to large enterprises such as CDW, PC Connection, Insight, MoreDirect, Dimension Data, Bechtle AG, Presidio and Computacenter AG & Co oHG. In addition, we compete directly with many of the companies that manufacture the third-party products we sell, including Cisco Systems, IBM, Hewlett Packard (HP), EMC (now part of Dell) and others. In the network management, security and storage systems integration services business, our competitors are extensive and vary to a certain degree in each of the geographical markets, but they also include such national competitors as HP/EDS, IBM and Cap Gemini. 
+
+Nearly all of our product offerings are available through other channels. Favorable competitive factors for the TS segment include procurement capability, product diversity which enables the delivery of complete and custom solutions to our customers and the strength of our key business relationships with the major IT OEMs. We also consider our ability to meet the unique and/or specialized needs of the SMB and LEB markets and our strong knowledge of the IT products that we sell to be a key competitive advantage. Our ability to provide managed services through our network operations center and the consulting integration services required to design and install the custom solutions that fit our customers' IT needs are distinct competitive advantages. Unfavorable competitive factors include low name recognition, limited geographic coverage and pricing.
+
+Backlog 
+
+The backlog of customer orders and contracts for the TS segment was approximately $10.9 million at September 30, 2016, as compared to $10.1 million at September 30, 2015. Our backlog can fluctuate greatly. These fluctuations can be due to the timing of receiving large orders for third- party products and/or IT services. It is expected that all of the customer orders in backlog will ship and/or be provided during fiscal year 2017.
+Significant Customers 
+
+See Note 14 in the notes to the consolidated financial statements for detailed information regarding customers which comprised 10% or more of consolidated revenues for the years ended September 30, 2016 and 2015. 
+Employees 
+
+On September 30, 2016, we had approximately 185 full time equivalent employees worldwide for our consolidated operations. None of our employees is represented by a labor union and we have had no work stoppages in the last three fiscal years. We consider relations with our employees to be good. 
+Financial Information about Geographic Areas 
+
+Information regarding our sales by geographic area and percentage of sales based on the location to which the products are shipped or services rendered are in Note 14 of the notes to the consolidated financial statements.
+6
+
+

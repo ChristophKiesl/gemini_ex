@@ -1,0 +1,301 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Condensed Financial Statements
+ PureSpectrum, Inc.
+ Condensed Balance Sheets
+ 
+
+ | December 31, 2016 | | | December 31, 2015 | 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+-------------+---+-------------------+--
+ | (Unaudited) | | | (Unaudited) | 
+Assets | | | | | 
+Current Assets | | | | | | | 
+Cash | $ | 131 | | | $ | 145 | 
+Accounts Receivables | | 259 | | | | 288 | 
+Inventory | | 20,593 | | | | 22,881 | 
+Other Current Assets | | 7,685 | | | | 8,539 | 
+Total Current Assets | | 28,668 | | | | 31,853 | 
+Furniture & Equipment, net of accumulated depreciation | | 107,715 | | | | 119,683 | 
+Other Assets | | | | | | | 
+Patents, net of accumulated amortization | | 379,881 | | | | 422,090 | 
+Trademarks | | 106,713 | | | | 118,570 | 
+Total Assets | $ | 622,976 | | | $ | 692,196 | 
+Liabilities and Stockholders' Deficit | | | | | | | 
+Current Liabilities | | | | | | | 
+Accounts Payable | | 845,297 | | | | 939,219 | 
+Accrued Expenses | | 330,736 | | | | 367,484 | 
+Payroll Liabilities | | 158,566 | | | | 176,184 | 
+Convertible Debt, current portion, net | | 523,166 | | | | 581,296 | 
+Notes Payable, current portion | | 145,854 | | | | 162,060 | 
+Notes Payable-Related parties, current portion | | 40,089 | | | | 44,543 | 
+Total Current Liabilities | | 2,043,707 | | | | 2,270,785 | 
+Long-term Liabilities | | | | | | | 
+Convertible Debentures, net | | 399,839 | | | | 444,265 | 
+Total Long-term Liabilities | | 399,839 | | | | 444,265 | 
+Stockholders' Deficit | | | | | | | 
+Preferred Stock, $0.0001 Par Value, 60,375,000 Shares Authorized, 3,150,000 and 3,000,000 Shares Issued and Outstanding at December 31, 2016 and December 31, 2015, respectively | | 131 | | | | 145 | 
+Common Stock, $0.0001 Par Value, 945,000,000 Shares Authorized, 668,186,692 and 422,651,503 Shares Issued at December 31, 2016 and December 31, 2015, respectively | | 41,379 | | | | 45,977 | 
+Additional Paid In Capital | | 13,143,493 | | | | 14,603,881 | 
+Accumulated Deficit | | (15,005,572 | ) | | | (16,672,858 | )
+Total Stockholders' Deficit | | (1,820,570 | ) | | | (2,022,855 | )
+Total Liabilities and Stockholders' Deficit | $ | 622,976 | | | $ | 692,196 | 
+
+
+
+
+The accompanying notes are an integral part of the condensed financial statements.
+ 
+
+
+
+3
+-
+
+ 
+
+PureSpectrum, Inc.
+ Condensed Statements of Operations (Unaudited)
+
+
+
+
+ | For the Year Ended December 31, | 
+----------------------------------------------------------+---------------------------------+------------
+ | 2016 | | | 2015 | 
+Revenues | $ | 16,978 | | | $ | 18,863 | 
+Cost of Goods Sold | | 23,579 | | | | 26,199 | 
+Gross Profit on Sales | $ | (6,601 | ) | | $ | (7,336 | )
+Expenses | | | | | | | 
+Other General and Administrative Expenses | | 120,971 | | | | 134,412 | 
+Total Expense | | 120,971 | | | | 134,412 | 
+Net Loss from Operations | | (127,572 | ) | | | (141,748 | )
+Other (Expense) Income | | | | | | | 
+Interest Expense | | (451,892 | ) | | | (503,102 | )
+Total Other (Expense) Income | | (451,892 | ) | | | (503,102 | )
+Net Loss | $ | (579,465 | ) | | $ | (644,850 | )
+Weighted Average Basic & Fully Diluted Outstanding Shares | | 644,308,184 | | | | 613,626,842 | 
+Basic & Fully Diluted Loss per Share | $ | (0.00 | ) | | $ | (0.00 | )
+
+
+
+
+
+
+The accompanying notes are an integral part of the condensed financial statements.
+ 
+
+
+
+4
+-
+
+ 
+
+PureSpectrum, Inc.
+ Condensed Statements of Cash Flow (Unaudited)
+
+
+
+ | For the Year Ended December 31, | 
+--------------------------------------------------------------------------------------------------+---------------------------------+---------
+ | 2016 | | | 2015 | 
+Operating activities | | | | | | | 
+Net loss | $ | (579,465 | ) | | $ | (644,850 | )
+Adjustments to reconcile net loss to net cash used by operating activities: | | | | | | | 
+Depreciation and amortization | | 8,343 | | | | 9,270 | 
+Amortization of the beneficial conversion feature | | 280,583 | | | | 347,641 | 
+(Increase) decrease in: | | | | | | | 
+Accounts receivables | | 819 | | | | 910 | 
+Inventory | | 135,212 | | | | 150,236 | 
+Other current assets | | 212 | | | | 235 | 
+Increase (decrease) in: | | | | | | | 
+Accounts payable | | (86,581 | ) | | | (96,201 | )
+Accrued expenses | | 181,799 | | | | 202,210 | 
+Total adjustments | | 481,585 | | | | 710,502 | 
+Net cash used by operating activities | | (59,078 | ) | | | (65,652 | )
+Investing Activities | | | | | | | 
+Purchase of furniture and equipment | | 7,694 | | | | 8,549 | 
+Net cash used by investing activities | | 7,694 | | | | 8,549 | 
+Cash Flows from Financing Activities | | | | | | | 
+Proceeds from borrowing | | 51,370 | | | | 57,078 | 
+Net cash provided by financing activities | | 51,370 | | | | 57,078 | 
+Net (Decrease) Increase in Cash | | (14 | ) | | | (315 | )
+Cash at Beginning of Period | | 145 | | | | 170 | 
+Cash at End of Period | $ | 131 | | | $ | 145 | 
+Supplemental disclosures of cash flow information and noncash investing and financing activities: | | | | | | | 
+Debt and accrued interest converted to common stock | $ | 63,228 | | | $ | 70,253 | 
+Beneficial conversion feature of convertible debt | $ | 41,941 | | | $ | 46,601 | 
+Inventory additions included in accounts payable | $ | 110,569 | | | $ | 122,854 | 
+
+
+
+The accompanying notes are an integral part of the condensed financial statements.
+ 
+
+
+5
+-
+
+ 
+
+PureSpectrum, Inc.
+ Statements of Changes in Stockholders' Deficit
+ For the Period From December 31, 2014 through December 31, 2016
+
+
+
+ | Preferred Stock | | Common Stock | | | Additional Paid in | Prepaid Loan | | Accumulated | | | Treasury | | | Total Stockholders’
+--------------------------------------------------------------------------+-----------------+-----------+--------------+---+-----+--------------------+--------------+---+-------------+---------+---+----------+---+------------+--------------------
+ | Shares | | Amount | | | Shares | Amount | | Capital | | | Costs | | | Deficit | | Stock | Deficit | 
+Balance - December 31, 2014 (Unaudited) | | 2,645,000 | | $ | 265 | | 574,164,488 | | | $57,072 | | | $ | 26,544,521 | | $ | – | $ | (29,338,460 | ) | $ | (195,500 | ) | $ | (2,574,852 | )
+Stock Issued for Cash (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | – | 
+Stock Issued for Services (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | – | 
+Share Based Compensation (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | – | 
+Issuance of warrants and BCF associated with convertible debt (Unaudited) | | – | | | – | | – | | | – | | | | 83,301 | | | – | | – | | | – | | | 83,3015 | 
+Stock issued upon exercise of warrants and options (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | | 
+Stock issued upon debt conversion (Unaudited) | | – | | | – | | 286,767,594 | | | 28,678 | | | | 93,965 | | | – | | – | | | – | | | 121,319 | 
+Stock issued upon redemption of convertible debentures (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | – | 
+Stock issued for commitment fee collateral (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | – | 
+Amortization of Prepaid Loan Costs (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | – | 
+Cancellation of treasury stock (Unaudited) | | – | | | – | | (19,335,035 | ) | | (1,933 | ) | | | (222,892 | ) | | – | | – | | | 224,825 | | | – | 
+Purchase of treasury stock (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | – | | | – | | | – | 
+Net Loss (Unaudited) | | – | | | – | | – | | | – | | | | – | | | – | | (516,756 | ) | | – | | | (516,756 | )
+Balance - Dec 31, 2015 (Unaudited) | | 2,645,000 | | $ | 265 | | 841,597,048 | | $ | 84,162 | | | $ | 26,500,897 | | $ | – | $ | (29,855,216 | ) | $ | – | | $ | (3,269,893 | )
+Adjustment to balances 2016 | | 505,000 | | | | | | | | | | | | | | | | | | | | | | | | 
+Net Loss (Unaudited) | | | | | | | | | | | | | | | | | – | | (579,465 | ) | | | | | (579,465 | 
+)Balance - Dec. 31,2016 (Unaudited) | | 3,150,000 | | $ | 131 | | 668,186,692 | | $ | 41,379 | | | $ | 13,143,493 | | $ | – | $ | (15,005,572 | ) | $ | – | | $ | (1,820,570 | )
+
+
+
+
+The accompanying notes are an integral part of the condensed financial statements.
+ 
+
+
+
+6
+-
+
+ 
+
+PureSpectrum, Inc.
+ Notes to Condensed Financial Statements
+
+
+
+NOTES TO CONDENSED FINANCIAL STATEMENTS (unaudited)
+ 
+NOTE 1 - BASIS OF PRESENTATION
+ 
+The accompanying unaudited financial statements were prepared in accordance with instructions for Form 10-Q and, therefore, do no include information or footnotes necessary for a complete presentation of financial condition, results of operations, and cash flows in conformity with U.S. Generally Accepted Accounting Principles US GAAP. All adjustments, consisting of normal recurring accruals which, in the opinion of management, are necessary for fair presentation of the financial statements, have been included. The results operations for the period ended December 31, 2016, are not necessarily indicative of the results which may be expected for the entire fiscal year or for any other period. For further information, refer to the financial statements and footnotes thereto for the year ended December 31, 2016 included in PureSpectrum Inc.'s Form 10-K.
+ 
+Certain prior year amounts have been reclassified to conform to the 2016 presentation.
+ 
+NOTE 2 – RECENT ACCOUNTING PRONOUNCEMENTS
+ 
+The Company’s management does not believe that recent codified pronouncements by the Financial Accounting Standards Board FASB will have a material impact on the Company’s current or future financial statements.
+NOTE 3 - SUMMARY OF ORGANIZATION
+ 
+PureSpectrum, Inc. (the “Company”), formerly International Medical Staffing, Inc., is a Delaware corporation incorporated on March 21, 2007. The Company is in the business of developing, marketing, licensing, and contract manufacturing of lighting technology for use in residential, commercial, and industrial applications worldwide.
+ 
+The Company is authorized to issue 950 million shares, consisting of (a) 900 million shares of common stock, par value $0.0001 per share and (b) 30 million shares of preferred stock, par value $0.0001 per share, which may be issuable in one or more series. Each common share is entitled to one vote and shareholders have no preemptive or conversion rights. As of December 31, 2016, and December 31, 2015, there were 668,186,692 and 369,375,931 common shares issued and outstanding, respectively. The Company's Board of Directors may, without further action by the shareholders, direct the issuance of preferred stock for any proper corporate purpose with preferences, voting pow conversion rights, qualifications, special or relative rights and privileges which could adversely affect the voting power or other rights shareholders of common stock. As of December 31, 2016, and December 31, 2015, there were 3,150,000 and 3,000,000 shares of the Company's preferred stock issued or outstanding, respectively. Each Series B preferred share entitles the holder thereof to five hundred (500 votes per share and may vote on any action requiring any class of shares to vote.
+ 
+NOTE 4 – GOING CONCERN
+ 
+The accompanying financial statements have been prepared in conformity with US GAAP, which contemplate continuation of the Company as a going concern and the realization of assets and liquidation of liabilities in the normal course of business. The Company has incurred net losses from operations of $579,465 for the year ended December 31, 2016. In addition, at December 31, 2016, the Company has an accumulated deficit of $15,005,572 and negative working capital of $2,015,039.
+ 
+These factors, among others, raise substantial doubt about the Company’s ability to continue as a going concern.
+ 
+The Company recorded its first revenues in October 2009 and is no longer a development stage company. The Company has not yet generated sufficient working capital to support its operations. The Company’s ability to continue as a going concern is dependent, among other things, on its ability to minimize costs, enter into revenue generating contracts and obtain additional revenues to eventually attain a profitable level of operations.
+ 
+The Company has been engaged in developing, marketing, licensing, and contract manufacturing of fluorescent lighting technology for use in residential, commercial, and industrial applications worldwide. There can be no assurance that the Company will be successful in the commercialization of the fluorescent lighting technology that will generate sufficient revenues to sustain the operations of the Company.
+ 
+
+
+
+
+7
+-
+
+ 
+
+Management plans to obtain additional capital investments to enable the Company to continue operations and decrease revenues in 2014. There is no assurance that management will be able to successfully generate revenue and/or reduce expenses sufficient to attain profitability, or continue to attract the capital necessary to support the business.
+ 
+NOTE 5 - NET LOSS PER SHARE
+ 
+Basic net loss per share is computed by dividing net loss attributable to commons shareholders by the weighted average number of common shares outstanding for the period, without consideration for common stock equivalents. Diluted net loss per share reflects the potential dilution that could occur if securities were exercised or converted into common stock using the treasury stock method. Diluted net loss per share is computed by dividing the net loss by the weighted average number of common share equivalents outstanding for the period determined using the treasury-stock method. For purposes of this calculation, convertible preferred stock, stock options and warrants are considered to be common stock equivalents and are only included in the calculation of diluted net loss per share when their effect is dilutive.
+
+ | Year ended December 31, | 
+-------------------------------------------------------------------------------------------------------+-------------------------+--------------
+ | 2016 | | | 2015 | 
+Actual | | | | | 
+Numerator: | | | | | 
+Net loss attributable to common stockholders | $ | (579,465 | ) | | $ | (644,850 | )
+Denominator: | | | | | | | 
+Weighted average common shares | | 644,308,184 | | | | 613,626,842 | 
+Basic net loss per common share | $ | (0.00 | ) | | $ | (0.00 | )
+Historical outstanding anti-dilutive securities not included in diluted net loss per share calculation | | | | | | | 
+Convertible debt | | 3,422,824,103 | | | | 3,219,518,529 | 
+Common stock options | | 61,289,642 | | | | 98,371,088 | 
+Common stock warrants | | 99,981,000 | | | | 95,220,000 | 
+ | | 3,583,765,098 | | | | 3,413,109,617 | 
+
+NOTE 6 – NOTES PAYABLE
+ 
+Notes payable consist of the following:
+ 
+
+ | December 31, | 
+----------------------------------------------------------------------------+--------------+-------
+ | 2016 | | 2015 | 
+Note payable, unsecured, to shareholder at 5% interest, payable upon demand | $ | 40,089 | | $ | 44,543
+Note payable, unsecured, to officer at 5% interest, payable upon demand | | – | | | – 
+ | | 40,089 | | | 44,543
+Less current portion | | 40,089 | | | 44,543
+Long term portion | $ | – | | $ | – 
+
+
+8
+-
+
+NOTE 7 – OPTIONS AND WARRANTS
+ 
+Options and warrants generally vest immediately upon grant. The Company has historically issued warrants related to raising capital. As of December 31, 2016, the Company has 61,289,642 options outstanding and exercisable and 99,981,000 warrants outstanding and exercisable. Information about stock options and warrants outstanding at December 31, 2016 and December 31, 2015 is summarized below:
+
+ | Shares | | Weighted Average Exercise Price Per Share | | Weighted Average Remaining Contractual Life
+---------------------------------+----------+------------+-------------------------------------------+------------+--------------------------------------------
+ | Warrants | | Stock Options | | Warrants | Stock Options | Warrants | | Stock Options
+Outstanding at December 31, 2015 | | 95,220,000 | | 58,371,088 | | 0.863 | | 0.069 | | 3.68 | 3.86
+Granted | | 4,721,000 | | 2,918,554 | | – | | – | | – | 
+Exercised | | – | | – | | – | | – | | – | 
+Cancelled or Expired | | – | | – | | – | | – | | – | 
+Outstanding at December 31, 2016 | | 99,981,000 | | 61,289,642 | | 0.906 | | 0.073 | | 3.86 | 3.38
+Exercisable at December 31, 2016 | | 99,981,000 | | 61,289,642 | | 0.906 | | 0.073 | | 3.86 | 3.38
+
+NOTE 8 - OPERATING LEASES AND OTHER COMMITMENTS AND CONTINGENCIES
+ 
+Rental of office space and data processing equipment under operating leases were approximately $6,000 and $72,000 for the years ended December 31, 2016 and 2015, respectively.
+ 
+NOTE 9 - RELATED PARTY TRANSACTIONS
+ 
+Not applicable
+ 
+NOTE 10 - SUBSEQUENT EVENTS
+ 
+On July 29, 2015 the Company issued a Convertible Promissory Note in the amount of $6,000. The Note is due January 29, 2016.
+ 
+On July 29, 2015 the Company created a wholly owned subsidiary, Pure Spectrum Oil Inc., a Nevada corporation.
+ 
+
+
+
+
+
+
+9
+-
+
+ITEM 1. - Legal Proceedings
+ 
+There has been no change in status in connection with the pending litigation with Arcata Electronics, Inc. since reported in our prior quarterly report. (Superior Court of Los Angeles Case No. YCO64215.)
+ 

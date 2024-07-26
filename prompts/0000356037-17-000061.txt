@@ -1,0 +1,186 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+
+CSP Inc. (“CSPI” or “the Company” or “we” or “our”) was incorporated in 1968 and is based in Lowell, Massachusetts. To meet the diverse requirements of our commercial and defense customers worldwide, CSPI and its subsidiaries develop and market IT integration solutions, advanced security and managed services, purpose built network adapters, and high-performance cluster computer systems.
+Segments
+CSPI operates in two segments; High Performance Products ("HPP") and Technology Solutions ("TS").
+
+HPP Segment
+
+• | The HPP segment revenue has four distinct product lines: (i) our Multicomputer product portfolio of computing systems for digital signal processing ("DSP") applications within the defense markets, (ii) our Myricom® ARC Series product line of network Ethernet adapters that are offered to both commercial and government customers, (iii) our Myricom nVoy Series solution for OEM and end customers and (iv) our ARIA™ Software Defined Security (SDS) platform of solutions which are also offered to commercial, OEM and government customers.
+
+
+• | Our Multicomputer revenue flows from a modest number of existing high-value customers that support the deployment and maintenance of systems utilized by domestic and foreign government entities. In 2016, the Company decided to no longer design and develop new systems for the defense market and is not expected to participate in the next generation of defense systems and applications. Instead, the Company has focused on servicing the existing product line. As a result, the revenue from these products as a percentage of overall Company revenue is expected to decline over time as we focus on the growth of our Myricom and ARIA security solutions, as well as TS division service lines. 
+
+
+• | Our Myricom ARC Series product portfolio derives its revenue flow from a line of network Ethernet adapters purchased by a wide range of customers in three specialized markets: (i) packet capture, (ii) financial transactions and
+
+1
+
+
+(iii) the storage interconnect market. Our primary customers in the packet capture market include government agencies that want the ability to capture, inject, and analyze network traffic at line rate, and original equipment manufacturers ("OEM") selling into vendors of computer security appliances. Our customers in the financial transactions market include banks, brokerages, and other trading firms looking for low latency adapters with value-added features specifically tied to market data feeds. Our storage interconnect market customers are primarily in the film industry using our adapters for film editing.
+
+• | Our Myricom nVoy solution will obtain revenue from a packet broker and packet recorder deployed as part of an overall data security environment. Our primary customers will be commercial end-users in regulated markets that require a data breach detection and notification system to augment their already installed network security infrastructure. We believe the product line will also be attractive to value added services providers looking to sell a broad set of security services. 
+
+
+• | Our ARIA Software Defined Security (SDS) product set is a new portfolio that will derive its revenues from security software applications that can be deployed on servers on enterprise premises, in data centers and within the Public Cloud, purchased by a wide range of customers across multiple markets. Our primary customers will be commercial customers and government agencies that have critical applications and data that must be protected from exposure and breach. We believe the product line will also be attractive to value added services providers looking to sell a broad set of security services and OEMs leveraging our capabilities to offer a broader set of security product solutions.
+
+TS Segment
+
+• | The TS segment consists of our wholly-owned Modcomp subsidiary, which operates in the United States, Germany and the United Kingdom.
+
+
+• | The TS segment generates product revenues by reselling third-party computer hardware and software as a value added reseller (“VAR”). The TS segment generates service revenues by the delivery of integration services for complex IT environments, including advanced security; unified communications and collaboration; wireless and mobility; data center solutions; and network solutions as well as managed IT services ("MSP") that primarily serve the small and mid-sized business market ("SMB"). 
+
+
+• | Third party products and professional services are marketed and sold through the Company's direct sales force into a variety of vertical markets, including; automotive; defense; health care; education; federal, state and local government; and maritime.
+
+Sales Information by Industry Segment 
+
+The following table details our sales by operating segment for fiscal years ending September 30, 2017 and 2016. Additional segment and geographical information is set forth in Note 14 to our financial statements. 
+
+Segment | 2017 | | % | | 2016 | | % 
+ | (Dollar amounts in thousands)
+HPP | $ | 13,844 | | | 12 | % | | $ | 16,342 | | | 16 | %
+TS | 97,638 | | | 88 | % | | 87,025 | | | 84 | %
+Total Sales | $ | 111,482 | | | 100 | % | | $ | 103,367 | | | 100 | %
+
+
+
+HPP Segment
+Products and Services
+In the HPP segment, we design, manufacture and deliver products and services to customers that require specialized cyber security services, networking and signal processing.
+2
+
+
+Products
+Our Multicomputer product portfolio includes the 2000 SERIES VME and 3000 SERIES VXS systems. The 2000 SERIES products, based on PowerPC RISC processors with AltiVec™ technology, high-speed memory and Myrinet-2000™ cluster interconnect are in deployment by customers in the aerospace, commercial and defense markets. The 3000 SERIES VXS product line, incorporating the Freescale QorIQ PowerPC processors with AltiVec technology, targets high performance DSP, signal intelligence (“SIGINT”), radar and sonar applications in airborne, shipboard and unmanned aerial vehicle (“UAV”) platforms where space, power and cooling are at a premium. The HPP segment continues to ship and repair existing products to its customer base and support an installed base of DSP systems.
+Our Myricom ARC Series product line includes 10G Ethernet adapters and associated network adapter software for Linux, Windows, Mac OS X and VMware ESX that we acquired through an asset purchase on November 4, 2013. The acquired line of network 10G Ethernet adapters, continues to meet the critical requirements of performance, multi-platform compatibility, software vendor approval, and maturity required in the media and entertainment market. Our ARC Series adapters are a preferred choice for media editors as they have been tested and qualified for use with the Avid® MediaCentral™ Platform and similar software packages popular among media editors. Our current generation of the ARC Series adapters is based on field-programmable gate array ("FPGA") technology and purpose built for complex and demanding applications including automated trading and network monitoring. We introduced the ARC Series with DBL™ (“DBL”) to the market during fiscal year 2015. DBL offers the ultra-low latency requirements of the high frequency trading market. However, adoption of the ARC Series with DBL product line was less than expected with limited success in Windows operating system environments. As a result, while we will continue to support DBL, we shifted focus of development resources to our ARC Series with Sniffer10G software to continue supporting the packet capture market during fiscal year 2017. Likely customers include enterprise and government customers seeking the ability to perform thorough inspection of network traffic to provide better detection of cyber threats enabled by 100% lossless packet capture and packet injection, such as required for network surveillance, including lawful intercept, deep packet inspection for use by Intrusion Detection Systems (IDS), forensic tools, and denial of service (DDoS) defense applications. The latest product, the Myricom ARC Series Secure Intelligent Adapter (SIA) will provide, when available, more flexible and powerful compute capabilities and specialty hardware to handle advanced encryption functions. The SIA will run the ARIA Software Defined Security (SDS) platform applications, as well as provide an environment for our OEM and Services partners to run their own applications upon.
+Also sold under the Myricom brand, our nVoy Series is comprised of a 100G Packet Broker and 10G Packet Recorder, as well as specialized software. These products were introduced to the market during fiscal year 2017 and likely customers are end-users responsible for network and/or data security in their organizations. Since all organizations have data security needs, the market for nVoy Series is potentially broad; however, we believe that nVoy is best suited for and its primary market will be mid to enterprise-sized companies in regulated industries such as banking, finance, insurance, retail and state and local government. These markets are under tremendous pressure to comply with data privacy regulations that are widespread across 49 of the U.S states as well as internationally. The nVoy solution assists customers in meeting compliance requirements related to notifying regulators and entities impacted by a potential breach. The nVoy’s capabilities of monitoring specified critical assets and automatically matching intrusion alerts generated by an organizations firewall or intrusion detection system (IDS) against those assets, as well as disseminating an email containing an extraction file of all conversations, enables information security resources to immediately start the breach investigative process thus reducing the breach response time, as well as assist in forensic analysis and incident auditing. 
+Our ARIA SDS platform, when available, will include a variety of lightweight cyber security software applications that can be deployed upon bare metal servers, virtual machines (VMs) and/or container compute environments. These applications include the ability to automatically implement and enforce security polices, which determine which applications can access which data and how. ARIA will have a combination of features sold as “security services” and these product sets will be priced separately and offered as part of an annual subscription priced software as a service (SaaS) offering. Note that this is a product solution, not a cloud-based service offering. The intent is to allow these ARIA software instances (SDSi) to run not only within a data center server based VMs and/or containers, but also within public cloud instances. The ARIA SDSi can be deployed across an organization’s enterprise as widespread or selectively as desired. ARIA SDSi will detect and programmatically execute the appropriate services feature set which is controlled through ARIA's services orchestrator ("SDSo"). The SDSo is the backbone of SDS platform and will be offered on a SaaS annual subscription basis and required to launch the purchased SDSi’s. ARIA products will also charge annual support fees. ARIA will lend itself to a set of professional services that can be provided by CSPi and/or its partners.
+3
+
+
+Royalties
+ We license the design of certain of our 2000 SERIES computer processor boards and switched interconnect technology to third parties. In exchange for licensing this technology, we receive a royalty payment for each processor board that the licensee produces that utilizes our design for these products.
+Markets, Marketing and Dependence on Certain Customers
+Aerospace & Defense Market
+Our focus for fiscal 2018 and beyond is to continue our support of established products and the substantial investment in development, evaluation, and system deployments made by government entities with support requirements that often extend beyond twenty years.
+Financial Transactions Market
+Myricom network adapters with DBL application software address the need for the ultra-low latency required in the world of financial trading. Running DBL on ARC Series extreme performance network adapters provides unmatched acceleration for 10G Ethernet environments, with benchmarked application-to-application latency in the single digit microseconds for Linux and Microsoft Windows operating systems.
+Packet Capture Market
+Myricom Sniffer10G software, running on ARC Series Ethernet adapters, provides enterprise and government customers and partners the ability to capture, inject, and analyze network traffic at line rate for all Ethernet packet sizes, with low host-CPU overhead. Sniffer10G serves the following market segments: network surveillance, monitoring and analysis; test, measurement and packet generation; deep packet inspection (DPI); and as a critical technology component within Intrusion Detection Systems (IDS), forensic tools and distributed denial-of-service (DDoS) defense appliances.
+Storage Interconnect Market
+Myricom ARC Series network adapters are used in a wide range of applications that connect to storage subsystems using Ethernet. Most of these customers are using content creation applications requiring high performance networking from the storage system to video editing work stations. We also have customers in the supercomputing market and building cable head ends for video distribution. These adapters with the Myri10GE software deliver best in class throughput performance for Ethernet controllers.
+Security Products Market
+The Myricom nVoy solution is expected to be used by companies who wish to automatically monitor, and record packet level traffic to and from their most critical data assets, including those that store personally identifiable information (PII.) These capabilities are best suited to information security resources who need a means to quickly identify and validate a potential breach in order to meet compliance regulations; yet, taking this one step further, they desire immediate notification of any breach in order to minimize breach impact. This is critical due to the changing regulatory climate that requires improvement in the ability to react to breaches within a few days and thereby minimize damage. Using traditional techniques can take weeks to months to detect and determine the full scope of a breach. Given the increase in occurrences and sophistication of cyber breaches, the ability to properly identify and react to breaches has been getting worse. nVoy can be deployed to help reduce that time, and improve the accuracy of records breached to meet these new regulations. Value added resellers (VARs) will find nVoy of interest to flesh out their portfolio of security products and services and weed out less effective tools and processes in their customer environments.
+The ARIA SDS software platform is expected to be sold across commercial, and state and local education divisions (SLED) vertices that focus on developing/running their own software applications - known as DevOps. These customers are changing the way they develop, rollout and operate their applications; these applications require a set of security capabilities that allow these DevOps groups to roll their applications out quickly but securely. The Myricom Secure Intelligent Adapter (SIA) can be added to current server and VM deployments, which will allow CPU intensive security processes, such as ARIA’s encryption services to be added, but offloaded from the server CPU cores. This will provide secure but optimized production application performance while preserving the life of these server deployments. In particular, ARIA SDS will allow such service 
+4
+
+
+providers the ability to operationalize their security services quickly and efficiently both critical for success. Naturally, OEMs are the other security products providers who need to solve particular problems such as adding new features and solving performance issues. These OEMs may reference sell the products to be directly resold through Independent Software Vendor channels to the end customers in these markets.
+Competition
+The markets for our security products segment are very competitive. Customer requirements coupled with advances in technology will drive our efforts to continuously develop new feature capabilities. Applications expertise, product innovation, strong technical support and dedicated customer service allow us to compete as a provider of high-performance products and solutions.
+Our primary direct competitors for the security products are traditional large security vendors including companies like: Dell, IBM, and to a lesser degree Intel, among others. In specific application areas, we also compete with traditional approaches to detecting breaches and/or applying 3rd party advanced security features. For breach detection, this includes firewall manufacturers such as Palo Alto or Cisco, and on the packet broker, Gigamon, Ixia as well as others. Competitors for SDS encryption include applications and appliances as provided by Talus and HPE’s Voltaic group plus others. Illumio for micro-segmentation capabilities, and other traditional end point security vendors that attempt to set security policies on containers and VMs. Intel’s chip level security functions highlighted on their product roadmap may provide more functionality that their market competitors could attempt to leverage, but this also opens up further opportunities for our ARIA SDS solution to leverage its functionality as well. We will be attractive to customers who need a combination of advanced protection features but who also require optimized application performance. Security adapter products will also leverage previous generation Myricom ARC Series network adapter capabilities that include advanced filtering, support for kernel bypass technologies, 100% lossless packet capture, as well as precision time stamping, combined with new capabilities to offer a variety of security service combinations that our customers can put to use.
+Manufacturing, Assembly and Testing
+Currently, all Multicomputer products are shipped to our customers directly from our plant in Lowell, Massachusetts. Our manufacturing activities consist mainly of final assembly and testing of printed circuit boards and systems that are designed by us and fabricated by outside third party vendors.
+Upon our receipt of material and components from outside suppliers, our quality assurance technicians inspect these products and components. During manufacture and assembly, both sub-assemblies and completed systems are subjected to extensive testing, including burn-in and environmental stress screening designed to minimize equipment failure at delivery and over the useful service life of the system. We also use diagnostic programs to detect and isolate potential component failures. A comprehensive log is maintained of past failures to monitor the ongoing reliability of our products and improve design standards.
+Currently, Myricom products, including nVoy and ARC Series are shipped to our customers directly from our plant in Lowell, Massachusetts. The packet recorder and packet broker appliances are sourced from third party partners and resold under the CSPi name, combined with CSPi provided software. Our network adapters are designed by us and fabricated by outside third party vendors. Material and components received from outside suppliers are inspected by our quality assurance technicians.
+ARIA SDS software will be downloaded and licensed from servers or content delivery services controlled by CSPi. These can be sold in conjunction with the SIA, which may be preloaded with appropriate ARIA SDS software images. Licensing will be handled by the ARIA SDSo which will be accessible by CSPi’s licensing severs to allow proper flexible services feature set activation and payment.
+We provide a warranty covering defects arising from the sale of Multicomputer and Myricom products, which varies from 90 days to three years, depending upon the particular unit in question.
+Sources and Availability of Raw Materials
+Several components used in our HPP segment products are obtained from sole-source suppliers. We are dependent on key vendors such as NXP, Inc. for PowerPC processors for our 2000 SERIES and our 3000 SERIES VXS products and Wind River Systems, Inc. for VxWorks operating system software. Despite our dependence on these sole-source suppliers, based on our current forecast, we do not consider the risk of interruption of supply to be significant, therefore we expect to meet our 
+5
+
+
+projected sales obligations over the near term, because we have adequate inventory on hand and/or our current requirements can be met in the existing supply chain.
+Research and Development
+For the year ended September 30, 2017, our expenses for R&D were approximately $2.4 million compared to approximately $3.0 million for fiscal year 2016. Expenditures for R&D are expensed as they are incurred. Product development efforts in fiscal year 2017 involved development of the ARIA SDS product set, and enhancements to our Myricom products, in which we expect to continue to make investments related to the development of new hardware adapter products and the ARIA SDS software that enables the hardware to meet the needs of specific applications. Our current R&D plan is intended to extend the usefulness and marketability of these products by reducing latency, improving precision time stamping capabilities, and adding features, such as enhanced arbitration, to deliver products fine-tuned to meet the needs of our markets.
+Intellectual Property
+We rely on a combination of trademark and trade secret laws in the United States and other jurisdictions, as well as confidentiality procedures and contractual provisions to protect our intellectual property rights. We have two pending patents for the ARIA software and will be pursuing additional patent rights over time.
+Backlog 
+
+The backlog of customer orders and contracts in the HPP segment was approximately $0.8 million at September 30, 2017 as compared to $4.9 million at September 30, 2016. Our backlog can fluctuate greatly. These fluctuations can be due to the timing of receipt of large orders often for purchases from prime contractors for sales to the government. It is expected that all of the customer orders in backlog will ship within the next twelve months from September 30, 2017.
+ TS Segment 
+
+Products and Services 
+
+Integration Solutions
+In the TS segment, we focus on value-added reseller ("VAR") integrated solutions including third-party hardware, software and technical computer-related consulting services and managed services. Our value proposition is our ability to integrate diverse third-party components together into a complete solution to install the system at the customer site and to offer high value IT consulting services to deliver solutions.
+Third-Party Hardware and Software
+Our wholly-owned subsidiary, Modcomp, sells third-party hardware and software products in the information technology market, with a strategic focus on industry standard servers and data center infrastructure solutions, midrange data storage infrastructure products, network products, unified communications and IT security hardware and software solutions. Our key offerings include products from HPE, Cisco Systems, IBM, Juniper Networks, Citrix, Dell, Intel, VMWare, Fortinet, Microsoft and Checkpoint. Through our business relationships with these vendors, we are able to offer competitively priced robust products to meet our customers' diverse technology needs, providing procurement and engineering expertise in server infrastructure, storage, security, unified communications and networking, to the small-to-medium sized businesses (“SMBs”) and large enterprise businesses (“LEBs”) with complex IT environments. We offer our customers a single point of contact for complex multi-vendor technology purchases. Many of our SMB customers have unique technology needs and may lack technical purchasing expertise or have very limited IT engineering resources on staff. We also provide installation, integration, logistical assistance and other value-added services that customers may require. Our current customers are in web and infrastructure hosting, education, telecommunications, healthcare services, distribution, financial services, professional services and manufacturing. We target SMBs and LEB customers across all industries.
+Professional Services
+We provide professional IT consulting services in the following areas:
+
+• | Implementation, integration, migration, configuration, installation services and project management.
+
+6
+
+
+
+• | Unified Storage Platforms ("USPs"). We help our customers implement USP solutions using products from Dell, EMC, HP and NetApp. USPs have advantages over conventional storage architecture, which include cost savings from better utilization of hardware and lower headcount requirements to run and maintain data storage systems, higher availability and faster data access rates resulting in increased productivity. 
+
+
+• | Virtualization. We help our customers implement virtualization solutions using products from companies such as VMWare and Citrix that allow one computer to do the job of multiple computers by sharing resources of a single computer across multiple environments. Virtualization eliminates physical and geographical limitations and enables users to host multiple operating systems and applications on fewer servers. Benefits include energy cost savings, lower capital expenditure requirements, high availability of resources, better desktop management, increased security and improved disaster recovery. 
+
+
+• | Enterprise security intrusion prevention, network access control and unified threat management. Using third-party products from companies like Checkpoint, Palo Alto, Aruba Networks, Juniper Networks and Cisco Systems, our services are designed to ensure data security and integrity through the establishment of virtual private networks, firewalls and other technologies. 
+
+
+• | IT security compliance services. We provide services for IT security compliance with personal privacy laws such as the Payment Card Industry Data Security Standard (PCI DSS), the Health Insurance Portability and Accountability Act of 1996 (HIPAA), and internal control regulations under the Sarbanes-Oxley Act (SOX). 
+
+
+• | Unified communications, wireless and routing and switching solutions using Cisco Systems and Aruba Networks products and services.
+
+
+• | Custom software applications and solutions development and support. We develop custom applications to customer specifications using industry standard platforms such as Microsoft.Net, SharePoint and OnBase. We are a Microsoft Gold Partner. 
+
+
+• | Managed IT services that include monitoring, reporting and management of alerts for the resolution and preventive general IT and IT security support tasks.
+
+
+• | Maintenance and technical support for third-party products including hardware and software, operating system and user support.
+
+Managed and Cloud Services
+As consumption models continue to evolve in our industry Modcomp has developed a robust managed & cloud services offering to provide alternative solutions to traditional capital expenditure investments in IT solutions and IT operations for our clients. Our value is to provide an elastic offering that will also the client to scale and consume these offerings with monthly billing options that help control costs and provide economies of scale. 
+We provide managed and cloud services in the following areas:
+
+• | Proactive monitoring and remote management of IT Infrastructure that includes network (both wired and wireless), data center (which includes compute, storage and virtualization), desktops, unified communications platforms and security.
+
+
+• | Managed Collaboration solutions (voice and video), resale of Cisco Webex and SPARK under annuity program.
+
+
+• | Managed Security (firewall, endpoint protection, malware, anti-virus and SIEM).
+
+
+• | Managed BackUp and Replication.
+
+
+• | Cloud services that include Microsoft Office 365, Azure, Greencloud and Amazon Web Services.
+
+7
+
+
+Markets, Marketing and Dependence on Certain Customers
+We are an IT systems integrator and computer hardware and software VAR. We also provide technical services to achieve a value-add to our customers. We operate within the VAR sales channels of major computer hardware and software OEMs, primarily within the geographic areas of our sales offices and across the U.S. We provide innovative IT solutions, including a myriad of infrastructure products with customized integration consulting services and managed services to meet the unique requirements of our customers. We market the products and services we sell through sales offices in the U.S., Germany and the U.K. using our direct sales force (for a list of our locations, see Item 2 of this Form 10-K).
+Competition
+Our primary competition in the TS segment is other VARs ranging from small companies that number in the thousands, to large enterprises such as CDW, PC Connection, Insight, MoreDirect, Dimension Data, Bechtle AG, Presidio and Computacenter AG & Co oHG. In addition, we compete directly with many of the companies that manufacture the third-party products we sell, including Cisco Systems, IBM, Hewlett Packard (HP), EMC (now part of Dell) and others. In the network management, security and storage systems integration services business, our competitors are extensive and vary to a certain degree in each of the geographical markets, but they also include such national competitors as HP/EDS, IBM and Cap Gemini.
+Nearly all of our product offerings are available through other channels. Favorable competitive factors for the TS segment include procurement capability, product diversity which enables the delivery of complete and custom solutions to our customers and the strength of our key business relationships with the major IT OEMs. We also consider our ability to meet the unique and/or specialized needs of the SMB and LEB markets and our strong knowledge of the IT products that we sell to be a key competitive advantage. Our ability to provide managed services through our network operations center and the consulting integration services required to design and install the custom solutions that fit our customers' IT needs are distinct competitive advantages. Unfavorable competitive factors include low name recognition, limited geographic coverage and pricing.
+Backlog 
+
+The backlog of customer orders and contracts for the TS segment was approximately $12.7 million at September 30, 2017, as compared to $10.9 million at September 30, 2016. Our backlog can fluctuate greatly. These fluctuations can be due to the timing of receiving large orders for third- party products and/or IT services. It is expected that all of the customer orders in backlog will ship and/or be provided during fiscal year 2018.
+Significant Customers 
+
+See Note 14 in the notes to the consolidated financial statements for detailed information regarding customers which comprised 10% or more of consolidated revenues for the years ended September 30, 2017 and 2016. 
+Employees 
+
+On September 30, 2017, we had approximately 200 full time equivalent employees worldwide for our consolidated operations. None of our employees are represented by a labor union and we have had no work stoppages in the last three fiscal years. We consider relations with our employees to be good. 
+Financial Information about Geographic Areas 
+
+Information regarding our sales by geographic area and percentage of sales based on the location to which the products are shipped or services rendered are in Note 14 of the notes to the consolidated financial statements.
+8
+
+

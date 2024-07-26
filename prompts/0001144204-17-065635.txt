@@ -1,0 +1,60 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+Overview
+ 
+Overview
+ 
+Using biotechnology as a forensic foundation, we create unique security solutions addressing the challenges of modern commerce. Whether for supply chain security, brand protection or law enforcement applications, it is our goal to help establish secure flourishing environments that foster quality, integrity and success. With secure taggants, high-resolution DNA authentication, and comprehensive reporting, our SigNature molecular tag technologies are designed to deliver what we believe to be the greatest levels of security, deterrence and legal recourse strength. We are also engaged in the large-scale production of specific DNA sequences using the polymerase chain reaction (“PCR”) method.
+ 
+SigNature molecular tags, the core of our technology platform, are what we believe to be nature’s ultimate means of authentication and supply chain security. Our precision-engineered molecular tags have not and, we believe, cannot be broken. Additional layers of protection and complexity are added to the mark in a proprietary manner. SigNature molecular tags in various carriers have proven highly resistant to UV radiation, heat, cold, vibration, abrasion and other extreme environments and conditions. We work closely with our customers to develop solutions that will be optimized to their specifications to deliver maximum impact. Our products and technology are protected by what we believe to be a robust portfolio of patents and trademarks.
+ 
+Using our products and technology, manufacturers, brands, and other stakeholders can ensure authenticity and protect against diversion throughout a product’s journey from manufacturer to use.
+ 
+
+2
+-
+
+ 
+
+The core technologies of our business allow us to use molecular tags to mark objects in a unique manner that we believe cannot be replicated, and then identify these objects by detecting the absence or presence of the molecular tag. We believe that our disruptive platform offers broad commercial relevance across many industry verticals. Our underlying strategy is to become a solutions provider for supply chains of process industries in which contracts for our products and services are larger and of longer duration as compared to our historic norms, where the benefits to customers and consumers are more significant, and where our forensic security and traceability offer a unique and protected value. Consumers, governments and companies are demanding details about the systems and sources that deliver their goods. They worry about quality, safety, ethics, and the environmental impact. Farsighted organizations are directly addressing new threats and opportunities presented by this question: Where do these goods come from? These are the questions and concerns we are beginning to address for a growing number of companies. We supply key building blocks for creating secure supply chains with traceability of goods, which in turn can help ensure integrity in supply, honest sales and marketing claims, and ethical and sustainable sourcing.
+ 
+
+3
+-
+
+Corporate History
+ 
+We are a Delaware corporation, which was initially formed in 1983 under the laws of the State of Florida as Datalink Systems, Inc. In 1998, we reincorporated in the State of Nevada, and in 2002, we changed our name to our current name, Applied DNA Sciences, Inc. In December 2008, we reincorporated from Nevada to the State of Delaware.
+ 
+Our corporate headquarters are located at the Long Island High Technology Incubator at Stony Brook University in Stony Brook, New York, where we established laboratories for the manufacture of molecular tags, product prototyping, molecular tag authentication and bulk DNA production. The address of our corporate headquarters is 50 Health Sciences Drive, Stony Brook, New York 11790, and our telephone number is (631) 240-8800. We maintain a website at www.adnas.com where general information about us is available. The information on, or that may be accessed through, our website is not incorporated by reference into and should not be considered a part of this report.
+ 
+Industry Background
+ 
+Supply chain security
+ 
+Supply chains are the systems used by companies to obtain products and services for resale, their own consumption or as a component in a product or service that they then resell. Supply chains often include the sourcing of raw materials, their processing in various stages to create products, and transportation and logistics to move goods both within the supply chain process and to the final consumer. Many different companies may be part of a supply chain, and often the owner of the supply chain has limited ability to oversee and supervise all components of its supply chain. Supply chain security refers to efforts to enhance the security of the supply chain. It combines traditional practices of supply chain management with the security requirements driven by threats such as terrorism, piracy and theft. We focus on one particular part of supply chain security, the substitution of specified inputs with something else, often a cheaper, inferior input. For example, a company might specify that sheets be made of high quality pima cotton but the company that wove the material for the sheets substituted cheaper and inferior upland cotton. We call a supply chain with such security problems a leaky supply chain. Leaky supply chains create significant and growing problems to companies in a wide range of industries as well as governments and individuals worldwide. Large retailers assemble sprawling networks of suppliers in developing countries to produce their goods at cheaper cost, underscoring the difficulties of policing a global supply chain. This is a global problem that only appears to be increasing. Leaky supply chains allow materials to become diluted, diverted or counterfeited, devaluing corporate reputations, potentially causing health and safety concerns, and hindering investment, and may cost hundreds of thousands of people their livelihood every year. In addition, a company with a leaky supply chain has essentially been cheated, since they paid a premium price for an inferior substitution.
+ 
+As more and more companies begin to address the problem of supply chain security, we expect that different systems will compete to be the leading standards by which products can be tracked across world markets. To ensure only genuine products are entering the marketplace requires cutting edge technology. Historically, leaky supply chains and other types of fraud have been combated by embedding various authentication systems and rare and easily distinguishable materials into products; technologies such as radio frequency identification (“RFID”) devices, holograms or integrated circuit chips onto packaging; magnetic strips in automatic teller machine cards; banknote threads on currency; elemental taggants in explosives; and radioactivity and rare molecules in crude oil. We believe these techniques are effective but have generally been reverse-engineered and replicated which limit their usefulness as forensic methods for authentication of the sources of products and other items.
+ 
+Brand Protection
+ 
+Establishing a strong brand is pivotal to business success, as it is how a company is perceived by the customer. We believe that protecting that brand is as important. Counterfeiting affects brands across the globe and effective brand protection strategy has become imperative for companies. Many customers do not even realize that they have a counterfeit product, attributing the poor quality to the brand thus tarnishing its name. A recent Organization for Economic Co-operation and Development (OECD) report (April 18, 2016) reiterates a number of trends that have been evident for more than a decade – virtually all brands are being counterfeited, and counterfeit and pirated products are originating from virtually all economies on all continents. Counterfeiters are improving their logistics networks, manipulating transit routes, exploiting governance gaps and taking advantage of the huge growth in online shopping, thereby underlining the need for secure supply chains to protect brands. Consumer safety and satisfaction, brand reputation and revenues can be adversely impacted by counterfeiting. Our SigNature molecular tags can be applied to many products, affording quick and definitive identification of authentic products, and aiding in brand protection efforts.
+Law Enforcement Applications
+ 
+Burglaries, car theft, cash-in-transit robberies are worldwide problems begging for a solution. The United States leads the world in the occurrence of home burglaries, with a burglary occurring about every 18 seconds in the U.S. (The SafeWise Report - September 13, 2016). Interpol reported that for the year ending December 31, 2015, they had received 7.4 million records of reported stolen motor vehicles from 126 different countries (Interpol — Database Statistics). According to the FBI, a motor vehicle was stolen in the United States every 46 seconds in 2014 and the value of the stolen motor vehicles was more than $4.5 billion. According to Plastics Today, automotive aftermarket parts are a huge business for counterfeiters, resulting in $9 billion annually in vehicle recalls. (Plastics Today, “Material taggants provide protection from counterfeiting of plastic products” (September 21, 2015)). These crimes have wide-ranging impacts, affecting law enforcement agencies, insurance companies, legislative bodies, and justice departments.
+
+4
+-
+
+ 
+
+Asset identification, management, protection and authentication solutions that deliver value to the customer are critical components of any successful theft deterrent program. In addition to tagging assets with a unique mark to prevent theft and facilitate return of stolen goods, it is imperative that would-be thieves know that the items are marked and that law enforcement is trained to properly identify recovered property. Forensic marking of home assets, including automobiles, uses technology to code valuables at risk of theft to identify burglars, linking them directly with a crime scene. Over the years, authorities have found it difficult to obtain convictions of thieves in possession of suspected stolen property unless the true owner can be identified.
+ 
+Products and Services 
+ 
+SigNature® molecular tags, SigNature® T molecular tags, fiberTyping®, DNAnet®, digitalDNA®, SigNify® BackTrac®, Beacon® and CertainT® comprise our principal technology platform. The large-scale production of specific DNA sequences is used in the diagnostics and reagent industries.
+ 

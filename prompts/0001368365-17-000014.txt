@@ -1,0 +1,133 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+
+OVERVIEW
+Remark Media, Inc. and subsidiaries (“Remark”, “we”, “us”, or “our”) own, operate and acquire innovative digital media and Internet-based transactional properties across multiple verticals (described below under Travel and Entertainment, Technology and Data Intelligence and Other Digital Media Assets) that deliver culturally relevant, dynamic content that attracts and engages users on a global scale. We leverage our unique digital media assets to target the Millennial demographic, which provides us with access to fast-growing, lucrative markets. We were originally incorporated in Delaware in March 2006 as HSW International, Inc., and we changed our name to Remark Media, Inc. in December 2011. We are headquartered in Las Vegas, Nevada, with additional operations in Los Angeles, California and in Beijing, Shanghai, Hangzhou and Chengdu, China. Our common stock, par value $0.001 per share, is listed on the NASDAQ Capital Market under the ticker symbol MARK.
+OUR BUSINESS
+Development
+In 2009, we co-founded a U.S.-based venture, Sharecare, to build a web-based platform that simplifies the search for health and wellness information. The other co-founders of Sharecare were Dr. Mehmet Oz, HARPO Productions, Discovery Communications, Jeff Arnold and Sony Pictures Television. As a part of the transactions, we received an equity stake in Sharecare, which constitutes approximately five percent of Sharecare’s issued stock at December 31, 2016. We also maintain representation on Sharecare’s Board of Directors.
+In June 2012, we began building our personal finance vertical with the acquisition of Banks.com, Inc. (“Banks.com”). In February 2014, we expanded our suite of personal finance portals with the acquisition of TaxExtension.com.
+In March 2013, we entered the young adult lifestyle vertical with the acquisition of Pop Factory, LLC, a beach lifestyle digital media brand providing website and mobile content. Later the same year, we introduced a refreshed brand and a new, mobile-optimized website at www.bikini.com, which includes e-commerce.
+In May 2014, we acquired Hotelmobi, Inc., owner and operator of the mobile hotel-booking application Roomlia, giving us a foothold in the travel vertical that we believe is very important to our target customers.
+With a continued focus on the millennial demographic, we transitioned in 2015 from being a strictly content-based company to a technology company leveraging KanKan, our social media data intelligence platform (described below). We continue to develop features that engage KanKan’s users, as well as features that will make KanKan an attractive data source to us, advertisers and other third-parties.
+In September 2015, we expanded our presence in the travel vertical and significantly increased the size of our business with our acquisition (the “VDC Acquisition”) of Vegas.com LLC (“Vegas.com” or “VDC”). Specifically, we acquired Vegas.com to give us a deeper reach into the travel and entertainment market in Las Vegas and the surrounding area because Vegas.com is a well-established brand and, through websites and mobile applications that it controls, it allows users to book travel to, and lodging and entertainment in, the Las-Vegas-area market. We were also attracted by the fact that websites controlled by Vegas.com enjoy more than 60 million user sessions annually, which we believe will allow us to drive demand to many of our business properties, thereby increasing revenue. By capitalizing on the data intelligence provided by KanKan, we can target potential repeat travelers who visited Las Vegas within the past three years, people currently in Las Vegas who may want to book entertainment or tours, and potential travelers who have never visited Las Vegas but have expressed an interest in doing so.
+In September 2016, we, together with our wholly-owned subsidiary KanKan Limited, completed the acquisition (the “CBG Acquisition”) of assets of China Branding Group Limited (“CBG”), pursuant to the terms of the Second Amended and Restated Asset and Securities Purchase Agreement, dated as of the same date (the “CBG Purchase Agreement”), with CBG and the other parties specified therein. We completed the CBG Acquisition primarily to capitalize on the branded-content expertise in the China market of the entities we acquired from CBG, including FansTang. FansTang, which is based in Shanghai, China, 
+
+1 | Financial Statement Index
+
+distributes Western digital entertainment content in China. We also acquired an operation in Los Angeles, California that produces content distributed by FansTang.
+In the foreseeable future, we will continue to develop KanKan and monetize its capabilities and improve Vegas.com’s various websites and mobile applications and leverage their capabilities to improve user engagement. We plan to expand FansTang’s branded-content offerings and use its expertise to promote the other brands in our portfolio, and we also plan to continue our efforts to strategically acquire existing businesses that fit with our continued focus on Millennials.
+Business Model
+We currently earn a majority of our revenue from sales of various travel and entertainment products (including lodging, air travel, show tickets and tours) booked through our travel and entertainment segment, consisting of Vegas.com and its related websites (including LasVegas.com), mobile applications and retail locations. Our management integrated the operations of Roomlia with those of Vegas.com and now evaluates the results of the two subsidiaries collectively.
+We also recognize revenue from the following sources:
+
+• | service fees from customers’ filing of business and personal tax extensions with the IRS
+
+
+• | sales of merchandise via our Bikini.com website
+
+
+• | sales of branded content we create for third parties
+
+
+• | various advertising mechanisms associated with our websites
+
+We earn advertising revenue from performance-based advertising, from display advertising and from advertising placed within video content we create and broadcast on FansTang’s website. Performance-based advertising revenue is earned through such mechanisms as cost-per-click, in which an advertiser pays for each instance a user clicks on its advertisement, and cost-per-lead, in which an advertiser pays for each instance a user clicks on its advertisement and buys its product or service. Display advertising mechanisms include cost-per-impression, in which an advertiser pays for each display of an advertisement, and having an advertiser pay for placement of its ads in more desirable locations on our web pages.
+Excluding general and administrative expense, the primary costs we incur to earn the revenue described above include:
+
+• | credit card fees
+
+
+• | costs related to providing tours, such as permits, fees, fuel, vehicle leases and vehicle repair
+
+
+• | software and website development costs, including licensing costs for third-party software
+
+
+• | costs associated with marketing our brands
+
+
+• | costs associated with developing and producing the content on our websites and the content we provide to third parties
+
+Travel and Entertainment
+Our travel and entertainment business primarily includes the recently-acquired Vegas.com. We believe that Vegas.com is the premiere online booking service for all of the exciting travel and entertainment opportunities related to Las Vegas and the immediately-surrounding areas. Vegas.com offers users the ability to book lodging, air travel, show tickets and tours, and its customer service team is staffed by Las Vegas locals who are intimately familiar with Las Vegas and the various products and services offered through the website. To increase our share of the travel and entertainment market in Las Vegas and the immediately-surrounding areas, we can use data from KanKan to target potential repeat travelers who visited Las Vegas within 
+
+2
+
+the past three years, people currently in Las Vegas who may want to book entertainment or tours, and potential travelers who have never visited Las Vegas but have expressed an interest in doing so.
+Technology and Data Intelligence
+We use the KanKan name in reference to two components of a social media data intelligence platform: the mobile social media application branded as KanKan (the “KanKan App”), and our proprietary data intelligence software (the “DI Software”). The KanKan App contains many of the same functionalities common to most social media platforms, but what differentiates our offering is that the KanKan App is platform agnostic, meaning that users can make posts and respond to their friends’ posts regardless of the platform on which a post originates. Our DI Software collects publicly-available data from those who have registered on and use the KanKan App, but it also allows us to aggregate publicly-available data from all major social media platforms worldwide, regardless of whether users of those other social media applications have registered on the KanKan App. The DI Software scrubs the data and is then able to analyze and organize the data. For example, the DI Software analyzes every collected image file and can identify and tag individual elements of the image file, such as dogs or cars or well-known corporate logos on products.
+We use the information provided by the DI Software to understand consumer trends, behavior and preferences, which in turn allows us to improve the user experience in the KanKan App, to promote brand awareness of all of our digital media properties and to allow advertisers to reach that specific subset of social media users whose online activity indicates a preference for the types of products or services offered by the advertisers.
+Other Digital Media Assets
+Personal Finance
+Our Banks.com website provides content for young adults that shares stories of financial success and failure, the humanity of making and losing money, and what users can learn from it all. The content mixes long-form, first person accounts with daily news shorts and other information intended to be informative and engaging regarding a topic that people can otherwise find to be difficult to understand.
+US Tax Center at www.irs.com provides users with access to U.S. tax-related information and services. Our Filelater.com website and Taxextension.com website assist taxpayers with filing both business and personal tax extensions with the IRS. Because our online platform is directly connected to the IRS system, we can provide our users with status updates on their extension filings directly from the IRS.
+Young Adult Lifestyle
+Bikini.com is our online beach lifestyle destination for young women. We designed the flagship website to target social media integration and to optimize the experience for mobile users. In addition to offering merchandise online, we provide original editorial content covering the latest in fashion, beauty, travel, and health and fitness trends.  We complement the editorial content with a carefully-curated collection of swimwear and accessories containing the latest in must-have seasonal trends, offered through the website’s online boutique. Our merchandise is targeted at several price tiers, allowing us to develop long-term relationships with our customers that begin when they are young students and continue throughout their personal and professional lives.
+Competition
+We compete for business in a number of content verticals, many of which are rapidly-evolving and intensely competitive. The primary factors upon which we compete are price, audience access and content quality. We believe the following are our primary competitors in the various content verticals in which we operate:
+
+3
+
+Travel and Entertainment
+
+• | online travel reservation services such as The Priceline Group (priceline.com, booking.com) and Expedia (expedia.com, hotels.com, hotwire.com, travelocity.com, orbitz.com)
+
+
+• | online travel search services and price comparison services such as TripAdvisor, Trivago (majority-owned by Expedia), and HotelsCombined
+
+
+• | websites, such as Bestofvegas.com and Showtickets.com, that sell tickets to Las Vegas-area events
+
+
+• | traditional “brick-and-mortar” retailers, such as Tix4tonight, that sell tickets to Las Vegas-area events
+
+Personal Finance
+
+• | tax software such as Intuit’s Turbotax
+
+
+• | tax-related websites such as turbotax.com, expressextension.com and irsextension.com
+
+
+• | traditional tax preparers such as H&R Block and Jackson Hewitt
+
+
+• | financial information websites such as thesimpledollar.com and wisebread.com
+
+Young Adult Lifestyle
+
+• | lifestyle and luxury clothing websites for young women, such as Refinery29 and Net-A-Porter
+
+
+• | other websites such as The Skimm
+
+Some of the companies we compete against, or may compete against in the future, may have greater brand recognition and may have significantly greater financial, marketing and other resources than we have. As a result of the potentially greater brand recognition and resources, some of our competitors may bring new products and services to market more quickly, and they may be able to adopt more aggressive pricing policies than we could adopt.
+We also face intense competition in attracting and retaining qualified employees.  Our ability to compete effectively will depend upon our ability to attract new employees, as well as our ability to retain and motivate our existing employees, while efficiently managing compensation-related costs.
+Intellectual Property
+
+We rely upon trademark, copyright and trade secret laws in various jurisdictions, as well as confidentiality procedures and contractual provisions to protect our proprietary assets and brands.  We have filed a provisional patent with the United States Patent and Trademark Office in relation to Roomlia, and we own two patents and several copyright registrations related to Vegas.com.  We also hold various trademarks for our brands, and we have additional applications pending.
+Technology
+Our technologies include software applications built to run on third-party cloud hosting providers including Amazon Web Services and Alibaba located in North America and Asia. We make substantial use of off-the-shelf available open-source technologies such as Linux, PHP, MySQL, Drupal, mongoDB, Memcache, Apache, Nginx, CouchBase, Hadoop, HBase, ElasticSearch, Lua, Java, Redis, Akka and Wordpress, in addition to commercial platforms such as Microsoft, including Windows Operating Systems, SQL Server, and .NET. Such systems are connected to the Internet via load balancers, firewalls, 
+
+4
+
+and routers installed in multiple redundant pairs. We also utilize third-party services to geographically deliver data using major content distribution network providers. We rely heavily on virtualization throughout our technology architecture, which affords scaling dozens of digital media properties in an efficient and cost effective manner.
+We use third-party cloud hosting providers to host most of our public-facing websites and applications, as well as many of our back-end business intelligence and financial systems. Each of our significant websites is designed to be fault-tolerant, with collections of application servers, typically configured in a load-balanced state, to provide additional resiliency. The infrastructure is equipped with enterprise-class security solutions to combat events such as large scale distributed denial of service attacks. Our environment is staffed and equipped with a full-scale monitoring solution.
+Governmental Regulation
+The services we provide are subject to various laws and regulations. We must comply with laws and regulations relating to the travel industry and the provision of travel services, including laws requiring us to register as “sellers of travel” and compliance with certain disclosure requirements. In addition, our travel business is subject to regulation by the U.S. Department of Transportation and must comply with various rules and regulations governing the provision of air transportation, including those relating to advertising and accessibility.
+We are subject to a number of U.S. federal and state and foreign laws and regulations that affect companies conducting business on the Internet. These laws and regulations may involve privacy, rights of publicity, data protection, content regulation, intellectual property, competition, protection of minors, consumer protection, taxation or other subjects. Many of these laws and regulations are still evolving and being tested in courts and could be interpreted in ways that could harm our business. In addition, the application and interpretation of these laws and regulations often are uncertain, particularly in the new and rapidly evolving industry in which we operate. There are a number of legislative proposals pending before federal, state, and foreign legislative and regulatory bodies concerning data protection that may affect us.
+Privacy concerns relating to the disclosure of consumer financial information have drawn increased attention from federal and state governments. For example, the IRS generally prohibits the use or disclosure by tax return preparers of taxpayers’ information without the prior written consent of the taxpayer. In addition, other regulations require financial service providers to adopt and disclose consumer privacy policies and provide consumers with a reasonable opportunity to “opt-out” of having personal information disclosed to unaffiliated third-parties for marketing purposes.
+We post our privacy policy and practices concerning the use and disclosure of any user data on our web properties and our distribution applications. Any failure by us to comply with posted privacy policies, federal and state regulatory requirements or foreign privacy-related laws and regulations could result in proceedings by governmental or regulatory bodies that could potentially harm our businesses, results of operations and financial condition.
+Foreign data protection, privacy, and other laws and regulations can be more restrictive than those in the United States. The government of the People’s Republic of China has at times taken measures to restrict digital platforms, publishers or specific content themes from consumption by its citizens. We invest significant efforts into ensuring that our published content in China is consistent with our most current understanding of prevailing Chinese laws, regulations, and policies; and to date our published content in China has been met with successful distribution and no action or inquiry from the Chinese government. However, our business could be harmed by unforeseen regulatory restrictions or policy changes in China regarding digital content.
+Employees
+We employed approximately 295 people as of March 28, 2017, including 280 full-time employees.
+AVAILABLE INFORMATION
+As soon as reasonably practicable after we electronically file such materials with, or furnish them to, the Securities and Exchange Commission (the “SEC”), we provide free access through our website (www.remarkmedia.com) to our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and all amendments to those reports 
+
+5
+
+filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. We do not incorporate any information found on our website into the materials we file with, or furnish to, the SEC; therefore, you should not consider any such information a part of any filing we make with the SEC.
+You may also obtain the reports noted above at the SEC’s Public Reference Room at 100 F Street NE, Washington, D.C. 20549. Information on the operation of the Public Reference Room is available by calling the SEC at 1-800-SEC-0330. You may also access this information at the SEC’s website (www.sec.gov), which contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.

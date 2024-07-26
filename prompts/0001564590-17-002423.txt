@@ -1,0 +1,309 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Overview
+ ADTRAN, Inc. (ADTRAN) is a leading global provider of networking and communications equipment. Our solutions enable voice, data, video and Internet communications across a variety of network infrastructures. These solutions are deployed by many of the United States’ and the world’s largest communications service providers (CSPs), distributed enterprises and small and medium-sized businesses, public and private enterprises, and millions of individual users worldwide.
+ 
+We were incorporated under the laws of Delaware in November 1985, and commenced operations in January 1986. We are headquartered in Cummings Research Park in Huntsville, Alabama. The mailing address at our headquarters is 901 Explorer Boulevard, Huntsville, Alabama, 35806. The telephone number at this location is (256) 963-8000.
+ 
+Functional Organizational Structure
+ We realigned our organizational structure in 2015 to better match our market opportunities, technological development initiatives and improve efficiencies. As a result, our chief operating decision maker requested changes in the information that he regularly reviews for purposes of allocating resources and assessing the Company’s performance. Beginning with the quarter ended March 31, 2016, we now report our financial performance based on two segments – Network Solutions and Services & Support.  
+Network Solutions
+ Network Solutions includes software and hardware products that enable CSPs and enterprise customers to realize a fully connected world. CSPs are now being challenged to deliver Gigabit-enabled residential services, widely available high-bandwidth cloud connectivity services for enterprise customers, and scalable Ethernet and optical networking for mobile backhaul and data center connectivity. These needs are driving CSPs to transition their networks to a fiber-rich, cloud-controlled and software defined future state for large-scale converged service delivery. 
+ 
+ADTRAN is focused on being a top global supplier of Access infrastructure and related value-added solutions from the Cloud Edge to the Subscriber Edge. ADTRAN offers a broad portfolio of flexible hardware and software network solutions that enable CSPs to meet today’s service demands, while enabling them to transition to the fully converged, scalable, highly automated, cloud-controlled voice, data, Internet and video network of the future.
+ 
+Our products and services provide solutions supporting fiber- and copper-based infrastructures and a growing number of wireless and coax-based solutions, lowering the overall cost to deploy advanced services across a wide range of applications. We are accelerating the industry’s transition to open, programmable, scalable networks. Complementing these solutions is the ADTRAN MosaicTM Software-Defined Access (SD-Access) architecture, which combines modern Web-scale technologies with open source platforms to facilitate rapid innovation in multi-technology, multi-vendor environments. The Mosaic cloud platform and Mosaic OS, combined with programmable network elements, provide operators with a highly agile, open-services architecture.
+ 
+Services & Support
+ To complement our Network Solutions portfolio and to enable our customers to more quickly and cost-effectively expand their networks, we provide a full-range of network implementation, maintenance and managed services. We ensure that we are responsive to customers who deploy our networking and infrastructure solutions by offering a variety of services and support options. Our network implementation service offerings include engineering, site preparation, cabinet placement, installation, configuration, turn-up and test, training and project management services. 
+ 
+We also offer a complete portfolio of professional services within our ProServices® offering. ADTRAN ProServices is a comprehensive and flexible service program designed to offer complete networking lifecycle support. The ProServices portfolio consists of three distinct service offerings: ProStart® (Planning and Implementation), ProCare® (Maintenance and Support), and ProCloud® (Cloud-based Managed Services). Our maintenance services are specifically designed to protect customers' networks from unnecessary downtime through services such as managed spares, extended warranty, and remote or on-site technical support beyond our standard warranty coverage. These programs, which are available to all of our customers, guarantee priority access to technical support engineers and offer five different maintenance programs ranging from five days-a-week, eight hours-a-day and next business day equipment replacement to seven days-a-week, 24 hours-a-day and equipment replacement within four hours of notification. 
+ 
+1
+
+
+ProCloud, a full suite of cloud-based managed services, offers a managed, business-class networking infrastructure supporting wireless LAN and other networking needs. We also offer the option for ADTRAN to provide monitoring and management of the Wi-Fi network, enabling customers to augment their in-house IT resources.
+ 
+These services have enabled us to develop a true managed service offering with a channel of managed service providers (MSPs) that resell our services to their clients. Many of our former value-added reseller (VAR) partners are transitioning to becoming MSPs, using our ProCloud services to build a successful recurring revenue model with exceptional flexibility.
+ 
+Revenue Categories
+ In addition to our new reporting segments, we also report revenue across three categories – Access & Aggregation, Customer Devices, and Traditional & Other Products.
+ 
+Access & Aggregation solutions are used by CSPs to connect their network infrastructure to their subscribers. This category includes software and hardware-based products and services that aggregate and/or originate access technologies. The portfolio of ADTRAN solutions within this category includes a wide array of modular or fixed physical form factors designed to deliver the best technology and economic fit based on the target subscriber density and environmental conditions.
+ 
+The Access & Aggregation category includes product and service families such as: 
+ 
+ 
+• | Total Access® 5000 Series Fiber to the Premises (FTTP) and Fiber to the Node (FTTN) Multi-Service Access Nodes (MSAN)
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+• | hiX 5600 Series fiber aggregation and FTTN MSAN
+--+------------------------------------------------
+
+
+• | Fiber to the Distribution Point (FTTdp) Optical Network Units (ONU)
+--+--------------------------------------------------------------------
+
+
+• | GPON, EPON and 10G PON Optical Line Terminals (OLT)
+--+----------------------------------------------------
+
+
+• | SDX Fiber Access network elements
+--+----------------------------------
+
+
+• | Optical Networking Edge (ONE) aggregation
+--+------------------------------------------
+
+
+• | IP Digital Subscriber Line Access Multiplexers (DSLAMs)
+--+--------------------------------------------------------
+
+
+• | Cabinet and Outside-Plant (OSP) enclosures and services
+--+--------------------------------------------------------
+
+
+• | Network Management and Cloud-based software platforms and applications
+--+-----------------------------------------------------------------------
+
+
+• | Pluggable optical transceivers (i.e., SFP, SFP+, XFP, QSFP), cables and other miscellaneous materials
+--+------------------------------------------------------------------------------------------------------
+
+
+• | Planning, engineering, program management, maintenance, installation and commissioning services to implement customer network solutions
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Other products and services that are generally applicable to Access & Aggregation
+--+----------------------------------------------------------------------------------
+
+ 
+2
+
+
+Customer Devices includes our products and services that provide end users access to CSP networks. Our Customer Devices portfolio includes a comprehensive array of service provider and enterprise hardware and software products and services.
+ 
+The Customer Devices category includes products and services such as: 
+ 
+ 
+• | Broadband customer premise solutions, including Passive Optical Network (PON) and point-to-point Ethernet Optical Network Terminals (ONTs)
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Radio Frequency over Glass (RFoG) MicroNodes
+--+---------------------------------------------
+
+
+• | Residential and business gateways
+--+----------------------------------
+
+
+• | Wi-Fi access points and associated powering and switching infrastructure
+--+-------------------------------------------------------------------------
+
+
+• | Enterprise Session Border Controllers (eSBC)
+--+---------------------------------------------
+
+
+• | Branch office and access routers
+--+---------------------------------
+
+
+• | Carrier Ethernet services termination devices
+--+----------------------------------------------
+
+
+• | VoIP media gateways
+--+--------------------
+
+
+• | ProServices pre-sale and post-sale technical support
+--+-----------------------------------------------------
+
+
+• | Planning, engineering, program management, maintenance, installation and commissioning services to implement the customer devices solutions into consumer, small business and enterprise locations
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Other products and services that are generally applicable to customer devices
+--+------------------------------------------------------------------------------
+
+Traditional & Other Products generally includes a mix of prior generation technologies’ products and services, as well as other products and services that do not fit within the Access & Aggregation or Customer Devices categories. 
+ 
+The Traditional & Other Products category includes products and services such as: 
+ 
+ 
+• | Time Division Multiplexed (TDM) and Asynchronous Transfer Mode (ATM) based aggregation systems and customer devices
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | High bit-rate Digital Subscriber Line (HDSL), Asymmetric Digital Subscriber Line (ADSL) and other mature technologies used to deliver business and residential services over the CSP access and customer networks
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Other products and services that do not fit within the Access & Aggregation and Customer Devices categories
+--+------------------------------------------------------------------------------------------------------------
+
+Access & Aggregation
+ Simply stated, our Access & Aggregation solutions enable CSPs to connect to their customers. It was not that long ago that just having Internet connection was enough. Now that the Internet has become engrained in all aspects of our everyday lives, customers want high-speed broadband connectivity everywhere, all the time. ADTRAN is enabling CSPs to meet this demand with a unique portfolio of innovative solutions. These products enable CSPs to maximize their current network investment, while transitioning to next-generation virtualized networks.
+ 
+ADTRAN has more than 30 years of expert domain experience in the access network. Our market leadership is exemplified by the deployment of over 130,000 MSANs, our leading global position in hardened OSPs and our serving as a key provider for the world’s largest vectoring deployments. In fact, by year-end 2016, we had shipped almost 10 million VDSL2 vectoring ports. We are leading the introduction of great technology innovations like XGS PON, NGPON2 tunable optics, G.fast and the enablement of Gigabit communities. 
+ 
+XGS-PON, a new standards-based technology ADTRAN is developing, supports 10Gbps symmetric fixed wavelength PON over new or existing fiber infrastructure. This technology enables CSPs to double the useable lifespan of a fiber network regardless of the multi-Gigabit service rate delivered. CSPs can now support the capacity, reliability and flexibility needed for premium business and mobile backhaul services, while also delivering the price points and scale required for mass market residential applications. 
+ 
+3
+
+
+G.fast is quickly gaining momentum among CSPs for its ability to enable Gigabit speeds over existing copper infrastructure, such as in multi-dwelling units (MDUs). ADTRAN is a leader in the development of this technology and is participating in more than 108 G.fast trials with CSPs on six continents.
+
+We understand the transformative effects of broadband. We have seen time and time again how this technology transforms communities, rebuilds urban centers, revitalizes schools, stimulates economic growth and delivers innovative residential and business services. ADTRAN has enabled more than 350 Gigabit communities across the United States. These communities are now seeing the true benefits of this technology and its impact on education, health care and economic development.
+ 
+Software Defined Networking (SDN) and Network Function Virtualization (NFV) are two key network architectural approaches that are enabling service providers and enterprises to create more agile, programmable networks. SDN enables highly scalable network programmability to help facilitate service automation. NFV virtualizes functions typically performed in proprietary hardware and moves them into software functions that run on general purpose hardware. The combination of these two technologies enables user-driven networks where subscribers can self-activate a wide range of sophisticated on-demand services whenever they want and without having to engage the CSP. 
+ 
+ADTRAN Mosaic™, comprised of the Mosaic Cloud Platform and Mosaic OS, is the industry’s most open and complete Software Defined Access (SD-Access) solution that natively integrates a complete FTTx portfolio with an open source SDN controller. This breakthrough innovation is the first to market and supports the rapid service creation and delivery of broadband and business services at Web-scale. Our Mosaic Cloud Platform is an open microservices architecture that provides network management and SDN control for the entire access network, from cloud edge to subscriber edge. It unlocks control and management functions from the underlying network elements, enabling a more flexible, agile services delivery framework. This provides a framework to support user-driven service models. Our Mosaic OS enables service providers to rapidly on-board new access technologies and introduce disruptive operational efficiencies while creating revenue-generating on-demand applications across their entire access network.
+ 
+ADTRAN is focused on building next-generation access components with open, programmable APIs to allow them to be natively integrated into any leading open source SDN control and orchestration system. To facilitate this approach, ADTRAN is co-chairing the Broadband Forum’s SDN and NFV Work Area which is in the process of defining a common set of APIs for broadband access equipment.
+ 
+The cable multiple-service operator (MSO) market represents a significant portion of the fixed broadband access industry. In September 2016, we acquired key fiber access products, technologies and service relationships from a third party. These solutions, combined with our existing product portfolio, present new opportunities in the MSO market. Not only can we meet current needs for RFoG and EPON solutions for cable operators, but this further positions us for new opportunities for FTTH rollouts and future network virtualization.
+ 
+Customer Devices
+ The Customer Devices portfolio includes a comprehensive array of CSP and enterprise hardware and software products and services typically found at the end-user premises that are used to terminate services from a CSP. Products in this category include our broadband fiber ONTs, RFoG micronodes, routers, switches, Wi-Fi access points and enterprise session border controllers. This category also includes our ProServices offerings that are discussed in detail under Services & Support.
+ 
+ADTRAN provides a unique advantage in that we are one of the only companies in the information and communications technology industry that offer products spanning from the CSP demarcation point to the desktop and beyond. ADTRAN offers a broad array of business networking solutions, from appliance-based to virtualized, including optical fiber, copper and coax, which enable service differentiation and network monetization, while reducing operating expenses for our customers.
+ 
+Our portfolio includes solutions, such as IP business gateways and access routers that provide businesses access to CSP networks, and enterprise communications solutions that enable businesses to construct voice, data and video networks at a single site or among distributed sites. These products are sold through CSPs as part bundled business services or through our network of VARs. 
+ 
+ADTRAN ONTs are designed to address the fiber access market with industry leading voice, data, and video capabilities. These ONTs include both indoor and outdoor models for residential and business applications. With several different series of GPON, EPON and Active Ethernet ONTs, carriers can benefit from high data rates of fiber optic transmission and the flexibility offered by ADTRAN’s portfolio of Ethernet-based systems that can be easily configured for new, customized service offerings
+
+4
+
+
+Subscriber Edge Tunable (SET) optical transceivers address several key technology and innovation gaps that have hindered market development for multi-wavelength access networks. SET optics will be a key enabling technology for ADTRAN’s NG-PON2 solution, facilitating the delivery of highly elastic fiber services right to the customer premises equipment (CPE). This innovation will enable access providers to cost-effectively and efficiently leverage NG-PON2 to deliver even higher speed FTTH services to homes and businesses.
+ 
+Traditional & Other Products
+ These products generally utilize legacy technologies such as HDSL, ADSL, TDM, or ATM, and represent a prior generation of a current product or are products that do not fit under either Access & Aggregation or Customer Devices.
+Customers
+ We have a diverse customer base that includes Tier 1, 2 and 3 CSPs, cable MSOs, and distributed enterprises. It should be noted that major CSPs and many smaller providers require product approval prior to adopting a vendor's products for use in their networks. We are involved in a constant process of submitting new and succeeding generations of products for approval. 
+ 
+Three customers, CenturyLink, Inc., Deutsche Telekom, AG, and Windstream Corporation, individually comprised more than 10 percent of our revenue in 2016. The revenues from these customers are reported in both the Network Solutions and Services & Support segments.
+ 
+For a discussion of risks associated with customers, CSPs and approval processes, see “Risk Factors – The lengthy sales and approval process required by major and other CSPs for new products could result in fluctuations in our revenue”, “Ri
+
+sk Factors – We depend heavily on sales to certain customers; the loss of any of these customers would significantly reduce our revenues and net income”, and “Risk Factors – Consolidation and deterioration in the Competitive Local Exchange Carrier (CLEC) market could result in a significant decrease in our revenue”, in Item 1A of this report.
+ 
+Distribution, Sales and Marketing
+ We sell our products globally through our direct sales organization and our distribution network. Our direct sales organization supports major accounts and has offices in a number of domestic and international locations. Sales to most competitive CSPs and independent telephone companies are fulfilled through a combination of direct sales and major technology distribution companies.
+ 
+Prior to placing any orders, CSPs typically require lengthy product qualification and standardization processes that can extend for several months or years. Once approved, product orders are typically placed under single or multi-year supply agreements that are generally not subject to minimum volume commitments. CSPs generally prefer having two or more suppliers for most products, so individual orders are usually subject to competition based on some combination of total value, service, price, delivery and other terms.
+ 
+End-user focused products are fulfilled through a combination of direct sales and major technology distribution companies.  This is supported by a direct sales organization for major accounts and a channel-based sales organization to facilitate sales to our partners. MSPs, VARs and system integrators may be affiliated with the company as a channel partner, or they may purchase from a distributor in an unaffiliated fashion. Affiliated partners participate with us at various program levels, based on sales volume and other factors, to receive benefits such as product discounts, market development funds, technical support and training. We maintain field offices worldwide to support direct sales, distributors, MSPs, VARs and system integrators. 
+ 
+Outside of the United States, most CSP products are sold through our direct sales organization and end-user products are sold direct or through distribution arrangements customized for each region. Each region is supported by a field office that offers sales and support functions, and in some cases, warehousing and manufacturing support. 
+ 
+Our field sales organizations, distributors, and CSP customers receive support from regional-based marketing, sales, and customer support groups. Under certain circumstances, other headquarters personnel may be involved in sales and other activities. 
+ 
+Our services offerings can be purchased directly from us, or through one of our CSPs, channel partners, or distribution partners.
+
+5
+
+
+Research and Development
+ Rapidly changing technologies, evolving industry standards, changing customer requirements, and continuing developments in communications service offerings characterize the markets for our products. Our on-going ability to adapt to these changes and to develop new and enhanced products that meet or anticipate market demand is a significant factor influencing our competitive position and our prospects for growth.
+
+During 2016, 2015, and 2014, product development expenditures totaled $124.8 million, $129.9 million, and $132.3 million, respectively. Our product development activities are an important part of our strategy. We plan to maintain an emphasis on product development each year to respond to rapidly changing technology and evolving industry standards.
+
+We strive to deliver innovative network access solutions that lower the total cost of deploying services, increase the level of performance achievable with established infrastructures, reduce operating and capital expense for our customers, increase network bandwidth and functionality, and extend network reach. Our development process is conducted in accordance with ISO 9001, TL 9000, and ISO 14001, which are international standards for quality and environmental management systems.
+ 
+While we develop most of our products internally, in some cases we license intellectual property (IP) or use Original Design Manufacturer (ODM) partners across certain products. Internal development on advanced technology products gives us more control over design and manufacturing issues, while for traditional designs, ODM and/or licensed IP gives us the ability to leverage the economies of scale of our technology partners. This balanced approach in product development ensures we provide a “best in class” approach to our customers.
+ 
+As we continue to create more software-based IP, such as our SDN/NFV portfolio, our use of “Agile Development Methodologies” ensures we remain responsive and customer-focused. This enables continuous delivery so we can deliver products faster and more economically to our customers and the market. 
+ 
+Our ability to continually reduce product costs is an important part of our overall business strategy. Our product development efforts are often centered on entering a market with improved technology, allowing us to offer products at competitive prices. We then compete for market share. We continually re-engineer successive generations of the product to improve our product costs.
+ 
+Product development activities focus on products to support both existing and emerging communications industry technologies in segments of our markets that we consider viable revenue opportunities. We are actively engaged in developing and refining technologies to support data, voice, and video transport primarily over IP/Ethernet network architectures. This includes Ethernet aggregation, fiber optic transport and access, DSL access, access routing, Ethernet switching, wireless LANs, integrated access, converged services, VoIP, network management, and professional services.
+ 
+A centralized research function supports product development efforts throughout the company. This group provides guidance to our various product design and engineering teams in digital signal processing technologies, computer simulation and modeling, CAD/CAM tool sets, custom semiconductor design, optical transceiver design, industry standards, and technological forecasting.
+ 
+Many communications issues, processes and technologies are governed by Standards Development Organizations (SDOs). These SDOs consist of representatives from various manufacturers, CSPs and testing laboratories working to establish specifications and compliance guidelines for emerging communications technologies. We are an active participant in several SDOs and have assisted with the development of worldwide standards in many technologies.
+ 
+Our SDO activities are primarily in the area of broadband access. This includes involvement with the ITU-Telecommunications sector (ITU-T), ATIS, ETSI, NICC (UK Interoperability Standards), and the Broadband Forum (BBF). We are involved in the evolution of optical access technologies, participating in activities in the ITU-T, FSAN, IEEE and BBF on next-generation PON. We are also involved in standards development efforts related to maximizing the bandwidth potential of the copper pair to enable new applications. We continue to be involved with the industry-wide interoperability, performance testing, and system-level projects related to those standards in the BBF and are leading the work in the BBF to specify the application of SDN and NFV in the access network. We are also members of ATIS, MEF, Open Compute Project, Wi-Fi Alliance (WFA) and the ETSI Network Functions Virtualization Industry Specification Group (NFV-ISG).
+ 
+For a discussion of risks associated with our research and development activities, see “Risk Factors – We must continue to update and improve our products and develop new products in order to compete and to keep pace with improvements in communications technology” and “Risk Factors – We engage in research and development activities to improve the application of developed technologies, and as a consequence may miss certain market opportunities enjoyed by larger companies with substantially greater research and development efforts who may focus on more leading edge development”, in Item 1A of this report.
+
+6
+
+
+Manufacturing and Operations
+ The principal steps in our manufacturing process include the purchase and management of materials, assembly, testing, final inspection, packing and shipping. We purchase parts and components for the assembly of some products from a large number of suppliers through a worldwide sourcing program. In addition, we manage a process which identifies the components that are best purchased directly by contract manufacturers for use in the assembly of our products to achieve manufacturing efficiency, quality and cost objectives. Certain key components used in our products are currently available from a single source, and other key components are available from only a limited number of sources. In the past, we have experienced delays in the receipt of certain key components, which has resulted in delays in related product deliveries. We attempt to manage these risks through developing alternative sources, by staging inventories at strategic locations, through engineering efforts designed to obviate the necessity of certain components, and by maintaining close contact and building long-term relationships with our suppliers.
+ 
+We rely on subcontractors for assembly and testing of certain printed circuit board assemblies, sub-assemblies, chassis, enclosures and equipment shelves, and to purchase some of the raw materials used in such assemblies. We typically manufacture our lower-volume, higher-mix product assemblies at our manufacturing site in Huntsville, Alabama. We build and test new product prototypes and many of our initial production units for our products in Huntsville, and we later transfer the production of higher-volume, lower-mix assemblies to our subcontractors. Subcontract assembly operations can lengthen fulfillment cycle times, but we believe we can respond more rapidly to uncertainties in incoming order rates by selecting assembly subcontractors that have significant reserve capacity and flexibility. Our subcontractors have proven to be flexible and able to meet our quality requirements. We conduct the majority of transactions with our foreign suppliers in United States currency.
+ 
+We ship the majority of products to our U.S. customers from our facilities in Huntsville, Alabama, although we also fulfill customer orders from other locations near our customers' sites. The majority of our products shipped to EMEA customers come from locations in that region. We also ship directly from subcontractors to a number of customers in the U.S. and international locations. Most of our facilities are certified pursuant to the most current releases of ISO 9001, TL 9000, and ISO 14001. Our Huntsville facilities and many of our key suppliers are U.S. Customs-Trade Partnership Against Terrorism (C-TPAT) certified. Our products are also certified to certain other telephone company standards, including those relating to emission of electromagnetic energy and safety specifications.
+ 
+For a discussion of risks associated with manufacturing activities, see “Risk Factors – Our strategy of outsourcing a portion of our manufacturing requirements to subcontractors located in various international regions may result in us not meeting our cost, quality or performance standards” and “Risk Factors – Our dependence on a limited number of suppliers for certain raw materials and key components may prevent us from delivering our products on a timely basis, which could have a material adverse effect on customer relations and operating results”, in Item 1A of this report.
+ 
+Competition
+ We compete in markets for networking and communications equipment for CSPs, businesses, government agencies and other organizations worldwide. Our products and services support the transfer of data, voice and video across CSPs’ fiber, copper and wireless infrastructures, as well as across wide area networks, local area networks, and the Internet.
+ 
+The markets for our products are intensely competitive, and numerous competitors exist in each of our product segments. These competitive conditions and recent declines in economic activity have resulted in competitor consolidations, bankruptcies and liquidations. Consumer acceptance of alternative communications technologies such as coaxial cable through MSOs and cellular-based wireless services that compete with our products has grown in recent years. Our recent acquisition of active EPON and RFoG products better positions us to compete in the MSO market. Competition might further increase if new technologies emerge, new companies enter the market, or existing competitors expand their product lines.
+ 
+Competitors of our Network Solutions business include Aerohive Networks, Arris, Calix, Inc., Ciena Corporation, Cisco, Edgewater Networks, Fujitsu Network Communications, Hewlett Packard Enterprise, Huawei Technologies, Nokia, Ruckus Wireless (part of the Brocade Communications Systems business recently acquired by Broadcom), Ubiquiti Networks, DASAN Zhone Solutions and ZTE Corporation. We also compete with various ODM vendors who are being engaged directly by some of our service provider customers. Some of these companies compete in a single product segment, while others compete across multiple product lines.
+ 
+Competitors of our Services & Support business include Ericsson, Fujitsu Network Communications, Nokia, and Calix, Inc.
+ 
+For further discussion of risks associated with our competition, see “Risk Factors – We must continue to update and improve our products and develop new products in order to compete and to keep pace with improvements in communications technology” and “Risk Factors – We compete in markets that have become increasingly competitive, which may result in reduced gross profit margins and market share”, in Item 1A of this report.
+ 
+7
+
+
+Seasonality
+ We have experienced quarterly fluctuations in customer activity due to seasonal considerations. We typically experience reductions in order volume toward the beginning and end of the calendar year, which may result in lower revenues in the first and fourth quarters of our fiscal year. These seasonal effects may vary and do not always correlate to our operating results. Accordingly, they should not be considered a reliable indicator of our future revenue or operating results.
+Foreign Currency
+ We record transactions denominated in foreign currencies on a monthly basis using exchange rates from throughout the year. Assets and liabilities denominated in foreign currencies are translated at the balance sheet dates using the closing rates of exchange between those foreign currencies and the functional currency with any transaction gains or losses reported in other income (expense). Our primary exposures to foreign currency exchange rate movements are with our German subsidiary, whose functional currency is the Euro, our Australian subsidiary, whose functional currency is the Australian dollar, and our Mexican subsidiary, whose functional currency is the United States dollar. Adjustments resulting from translating financial statements of international subsidiaries are recorded as a component of accumulated other comprehensive income (loss).
+Backlog and Inventory
+ A substantial portion of our shipments in any fiscal period relate to orders received and shipped within that fiscal period for customers under agreements containing non-binding purchase commitments. Further, a significant percentage of orders require delivery within a few days. These factors normally result in very little order backlog or order flow visibility. Additionally, backlog levels may vary because of seasonal trends, timing of customer projects and other factors that affect customer order lead times. We believe that because we fill a substantial portion of customer orders within the fiscal quarter of receipt, backlog is not a meaningful indicator of actual sales for any succeeding period.
+ 
+To meet this type of demand, we have implemented supply chain management systems to manage the production process. We also maintain substantial finished goods inventories. Our practice of maintaining sufficient inventory levels to assure prompt delivery of our products and services increases the amount of inventory that may become obsolete. The obsolescence of this inventory may require us to write down the value of the obsolete inventory, which may have an adverse effect on our operating results.
+ 
+For further discussion of risks associated with managing our inventory, see “Risk Factors – Managing our inventory is complex and may include write-downs of excess or obsolete inventory”, in Item 1A of this report.
+ 
+Government Regulation
+ Our products must comply with various regulations and standards established by communications authorities in various countries, as well as those of certain international bodies. For instance, environmental legislation within the European Union (EU) may increase our cost of doing business as we amend our products to comply with these requirements. The EU issued directives on the Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (RoHS), Waste Electrical and Electronic Equipment (WEEE), and the Registration, Evaluation, Authorization and Restriction of Chemicals (REACH). We continue to implement measures to comply with the RoHS directive, the WEEE directive and the REACH regulation as individual countries issue their implementation guidance.
+ 
+For further discussion of risks associated with government regulation, see “Risk Factors – Our products may not continue to comply with evolving regulations governing their sale, which may harm our business” and “Risk Factors – Regulatory and potential physical impacts of climate change and other natural events may affect our customers and our production operations, resulting in adverse effects on our operating results”, in Item 1A of this report.
+ 
+Employees
+ As of December 31, 2016, we had 2,033 full-time employees in the United States and in our international subsidiaries located in Canada, Mexico, the Asia-Pacific region, Europe and the Middle East region. The majority of ADTRAN GmbH employees, our subsidiary in Germany, are subject to collective bargaining agreements of either the Association of Metal and Electrical Industry in Berlin and Brandenburg e.V. or NORDMETALL Association of Metal and Electrical Industry e.V. In addition, a small number of our ADTRAN GmbH employees are represented by other collective bargaining agreements. We have never experienced a work stoppage, and we believe that our relationship with our employees is good.
+ 
+We also utilize contractors and temporary employees domestically and internationally in various manufacturing, engineering, sales, and general and administrative capacities, as needed.
+ 
+8
+
+
+Intellectual Property
+ The ADTRAN corporate logo is a registered trademark of ADTRAN. The name "ADTRAN" is a registered trademark of ADTRAN. A number of our product identifiers and names also are registered. We claim rights to a number of unregistered trademarks as well.
+ 
+We have ownership of over 520 patents worldwide related to our products and have over 113 additional patent applications pending, of which at least 10 have been approved and are in the process of being issued by various patent offices worldwide. Our patents expire at various dates between January 2017 and July 2035. We will continue to seek additional patents from time to time related to our research and development activities. We do not derive any material amount of revenue from the licensing of our patents.
+ 
+We protect our intellectual property and proprietary rights in accordance with good legal and business practices. We believe, however, that our competitive success will not depend on the ownership of intellectual property, but instead will depend primarily on the innovative skills, technical competence and marketing abilities of our personnel.
+ 
+The communications industry is characterized by the existence of an ever-increasing volume of patent litigation and licensing activities. From time to time we receive and may continue to receive notices of claims alleging that we are infringing upon patents or other intellectual property. We cannot predict whether we will prevail in any claims or litigation over alleged infringements, or whether we will be able to license any valid and infringed patents, or other intellectual property, on commercially reasonable terms. It is possible that litigation may result in significant legal costs and judgments. Any intellectual property infringement claims, or related litigation against or by us, could have a material adverse effect on our business and operating results.
+ 
+For a discussion of risks associated with our intellectual property and proprietary rights, see “Risk Factors – Our failure to maintain rights to intellectual property used in our business could adversely affect the development, functionality, and commercial value of our products”, in Item 1A of this report.
+ 
+Available Information
+ A copy of this Annual Report on Form 10-K, as well as our Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and any amendments to these reports, are available free of charge on the Internet at our Web site, www.adtran.com, as soon as reasonably practicable (generally, within one day) after we electronically file these reports with, or furnish these reports to, the Securities and Exchange Commission (SEC). The reference to our Web site address does not constitute incorporation by reference of the information contained on the Web site, which information should not be considered part of this document. You may also read and copy any materials we file with the SEC at the SEC's Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site (www.sec.gov) that contains our reports, proxy and information statements, and other information that we have filed electronically with the SEC.
+
+9
+
+
+ 

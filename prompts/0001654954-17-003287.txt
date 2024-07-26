@@ -1,0 +1,338 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ ITEM 1.    DESCRIPTION OF BUSINESS
+  
+  BACKGROUND AND CAPITAL STRUCTURE
+  
+  Visualant, Incorporated (the “Company,” “Visualant, Inc.” or “Visualant”) was incorporated under the laws of the State of Nevada in 1998. We have authorized 105,000,000 shares of capital stock, of which 100,000,000 are shares of voting common stock, par value $0.001 per share, and 5,000,000 are shares preferred stock, par value $0.001 per share.
+  
+  As of January 13, 2017, we had 3,570,010 shares of common stock issued and outstanding, held by 54 shareholders of record. The number of shareholders, including beneficial owners holding shares through nominee names, is approximately 2,300. Each share of common stock entitles its holder to one vote on each matter submitted to the shareholders for a vote, and no cumulative voting for directors is permitted.  Shareholders do not have any preemptive rights to acquire additional securities issued by us.  As of January 13, 2017, there were options outstanding for the purchase of 50,908 shares of common stock and warrants for the purchase of 4,494,080 shares of common stock. In addition, 2,184,048 shares of our common stock are issuable upon the conversion of Preferred Stock, up to 270,439 shares of our common stock are issuable upon the exercise of placement agent warrants and an unknown number of shares are issuable upon conversion of $490,000 in convertible promissory notes, all of which could potentially dilute future earnings per share. 
+  
+ On May 6, 2015, our stockholders approved a reverse stock split of our common stock, in a ratio to be determined by our board of directors, of not less than 1-for-50 nor more than 1-for-150. On June 9, 2015, our Board of Directors determined that the ratio of the reverse split would be 1-for-150, and the reverse split became effective on June 17, 2015. All warrant, option, share and per share information in this prospectus gives retroactive effect to the 1-for-150 reverse split with all numbers rounded up to the nearest whole share.
+  
+  BUSINESS
+  
+  We are focused primarily on the development of a proprietary technology which is capable of uniquely identifying and authenticating almost any substance using light to create, record and detect the unique digital “signature” of the substance. We call this our “ChromaID™” technology.
+ Our ChromaID™ Technology
+  
+  We have developed a proprietary technology to uniquely identify and authenticate almost any substance. This patented technology utilizes light at the photon (elementary particle of light) level through a series of emitters and detectors to generate a unique signature or “fingerprint” from a scan of almost any solid, liquid or gaseous material. This signature of reflected or transmitted light is digitized, creating a unique ChromaID signature. Each ChromaID signature is comprised of from hundreds to thousands of specific data points.
+  
+  
+4
+
+
+ 
+ 
+  The ChromaID technology looks beyond visible light frequencies to areas of near infra-red and ultraviolet light that are outside the humanly visible light spectrum. The data obtained allows us to create a very specific and unique ChromaID signature of the substance for a myriad of authentication and verification applications.
+  
+  Traditional light-based identification technology, called spectrophotometry, has relied upon a complex system of prisms, mirrors and visible light. Spectrophotometers typically have a higher cost and utilize a form factor more suited to a laboratory setting and require trained laboratory personnel to interpret the information. The ChromaID technology uses lower cost LEDs and photodiodes and specific frequencies of light resulting in a more accurate, portable and easy-to-use solution for a wide variety of applications. The ChromaID technology not only has significant cost advantages as compared to spectrophotometry, it is also completely flexible is size, shape and configuration. The ChromaID scan head can range in size from endoscopic to a scale that could be the size of a large ceiling-mounted florescent light fixture.
+  
+ In normal operation, a ChromaID master or reference scan is generated and stored in a database. The Visualant scan head can then scan similar materials to identify, authenticate or diagnose them by comparing the new ChromaID digital signature scan to that of the original or reference ChromaID signature or scan result.
+   ChromaID was invented by scientists from the University of Washington under contract with Visualant. We have pursued an aggressive intellectual property strategy and have been granted ten patents. We also have 20 patents pending. We possess all right, title and interest to the issued patents. Ten of the pending patents are licensed exclusively to us in perpetuity by our strategic partner, Intellectual Ventures through its subsidiary IDMC.
+  
+  In 2010, we acquired TransTech Systems, Inc. (“TransTech”) as an adjunct to our business. TransTech is a distributor of products for employee and personnel identification. TransTech currently provides substantially all of our revenues. We intend, however, to further develop and market our ChromaID technology.
+  
+  The following summarizes our plans for our proprietary ChromaID technology. Based on our anticipated expenditures on this technology, the expected efforts of our management and our relationship with Intellectual Ventures and its subsidiary, IDMC, and our other strategic partner, Sumitomo Precision Products, Ltd., we expect our ChromaID technology to provide an increasing portion of our revenues in future years from product sales, licenses, royalties and other revenue streams., as discussed further below.
+  
+  ChromaID: A Foundational Platform Technology
+  
+  Our ChromaID technology provides a platform upon which a myriad of applications can be developed. As a platform technology, it is analogous to a smartphone, upon which an enormous number of previously unforeseen applications have been developed. The ChromaID technology is an enabling technology that brings the science of light and photonics to low cost, real world commercialization opportunities across multiple industries. The technology is foundational and as such, the basis upon which we believe a significant business can be built.
+  
+  As with other foundational technologies, a single application may reach across multiple industries. The ChromaID technology can, for example effectively differentiate and identify different brands of clear vodkas that appear identical to the human eye. By extension this same technology can identify pure water from water with contaminants present. It can provide real time detection of liquid medicines such as morphine that have been adulterated or compromised. It can detect if jet fuel has water contamination present. It could determine when it is time to change oil in a deep fat fryer. These are but a few of the potential applications of the ChromaID technology based upon extensions of its ability to identify different clear liquids.
+  
+  The cornerstone of a company with a foundational platform technology is its intellectual property. ChromaID was invented by scientists from the University of Washington under contract with Visualant. We have pursued an aggressive intellectual property strategy and have been granted ten patents. We currently have 20 patents pending. We possess all right, title and interest to the issued patents. Ten of the pending patents are licensed exclusively to us in perpetuity by our strategic partner, the IDMC subsidiary of Intellectual Ventures.
+  
+  At the Photonics West trade show held in San Francisco in February 2013, we were honored to receive a PRISM award from the Society of Photo-Optical Instrumentation Engineers International, better known as SPIE. The PRISM awards recognizes photonic products that break with conventional ideas, solve problems, and improve life through the application of light-based technologies.
+  
+  IDMC Relationship
+  
+  In November 2013, we entered into a strategic relationship with Invention Development Management Company, a subsidiary of Intellectual Ventures, a private intellectual property fund with over $5 billion under management. In May of 2016, Intellectual Ventures was spun out IDMC into an independent company called Xinova.  The relationship remains intact. Intellectual Ventures owns over 40,000 IP assets and has broad global relationships for the invention of technology, the filing of patents and the licensing of intellectual property. IDMC has worked to expand the reach and the potential application of the ChromaID technology and has filed ten patents base on the ChromaID technology, which it has licensed to us. In connection with IDMC’s work to expand our intellectual property portfolio, we agreed to curtail outbound marketing activities of our technology through the fourth calendar quarter of 2014.
+  
+  
+5
+
+
+ 
+ 
+  Initial testing in our laboratories and the work of the IDMC inventors have shown that the ChromaID technology has a number of broad and useful applications a few of which include:
+  
+   ●
+ Milk identification for quality, protein and fat content and impurities
+
+   ●
+ Identification of liquids for counterfeits or contaminants
+
+   ●
+ Detecting adulterants in food and food products compromising its quality
+
+   ●
+ Color grading of diamonds
+
+   ●
+ Identifying real cosmetics versus counterfeit cosmetics
+
+   ●
+ Identifying counterfeit medications versus real medications
+
+   ●
+ Identifying regular flour versus gluten free flour
+
+   ●
+ Authenticating secure identification cards
+
+ 
+  Products
+  
+  Our first delivered product, the ChromaID Lab Kit, scans and identifies solid surfaces. We are marketing this product to customers who are considering licensing the technology. Target markets include, but are not limited to, commercial paint manufacturers, pharmaceutical equipment manufacturers, process control companies, currency paper and ink manufacturers, security cards, cosmetic companies, scanner manufactures and food processing companies.
+  
+  Our second product, the ChromaID Liquid Lab Kit, scans and identifies liquids. This product is currently in prototype form. Similar to our first product, it will be marketed to customers who are considering licensing the technology. Rather than use an LED emitter to reflect light off of a surface that is captured by a photodiode to generate a ChromaID signature the liquid analysis product shines light through the liquid (transmissive) with the LEDs positioned on one side of the liquid sample and the photo detectors on the opposite side. This device is in a functional state in our laboratory and we anticipate having a Liquid ChromaID Lab Kit available for customers by the Company during the fall of 2015. Target markets include, but are not limited to, water companies, petrochemical companies, pharmaceutical companies, and numerous consumer applications.
+  
+  The ChromaID Lab Kits allows potential licensors of our technology to work with our technology and develop solutions for their particular application. Our contractual arrangements with IDMC are described in greater detail below.
+  
+ Our next planned product should be an exemplar product is a prototype that will be produced to address several markets. The primary purpose of this prototype will be to demonstrate the technology to prospective business partners, and will consist of a small, hand held, battery powered, Bluetooth enabled scanning device. The scanner should wirelessly connect to a smart phone or tablet to transfer the scanned data. The smart phone application will include two or three industry specific but generic applications that allow for the demonstration of the scanning and matching of the ChromaID signatures. The applications will focus on drug identification, food safety and liquid detection. The prototype device will lend itself to consumer applications and can be a consumer product as well.
+  
+  Our Commercialization Plans for the ChromaID Technology
+  
+  We shipped our first ChromaID product, the ChromaID Lab Kits, to our strategic partner IDMC during the last calendar quarter of 2013 and first calendar quarter of 2014, after we completed final assembly and testing. As part of our agreement with IDMC, we curtailed our ChromaID marketing efforts through the fourth calendar quarter of 2014 while IDMC worked to expand our intellectual property portfolio. Thereafter, we began to actively market the ChromaID Lab Kits to interested and qualified customers. Some ChromaID Lab Kits are provided free of charge to potential customers. Others are sold for a modest price. To date, we have achieved limited revenue from the sale of our ChromaID Lab Kits.
+  
+  The Lab Kit includes the following:
+  
+ ChromaID Scanner. A small device made with electronic and optical components and firmware which pulses light onto a flat material and records and digitizes the light that is reflected back from that material. The device is the size of a typical flashlight (5.5” long and 1.25” diameter). However, the technology can be incorporated into almost any size, shape and configuration.
+  
+ ChromaID Lab Software. A software application that runs on a Windows PC. The software allows for configuration of the scanner, controls the behavior of the ChromaID Scanner, displays a graph of the captured ChromaID signature profile, stores the ChromaID signature in a database and uses algorithms to compare the accuracy of the match of the unknown scan to the known ChromaID signature profile. This software is intended for lab and experimental use only and is not required for commercialized product applications.
+  
+  
+6
+
+
+ 
+ 
+  Software Development Toolkit. A collection of software applications, API (an abbreviation of application program interface – a set of routines, protocols, and tools for building software applications) definitions and file descriptions that allow a customer to extract the raw data from the ChromaID signatures and run their own software routines against that raw data.
+  
+  The ChromaID Lab Kit allows customers to experiment with and evaluate the ChromaID technology and determine if it is appropriate for their specific applications. The primary electronic and optical parts of the ChromaID scanner, called the “scan head,” could be supplied to customers to integrate into their own products. A set of ChromaID Developer Tools are also available. These allow customers to develop their own applications and products based on the ChromaID technology.
+  
+  ChromaID signatures must be stored, managed, and readily accessible for comparison, matching and authentication purposes. The database can be owned and operated by the end customer, but in the case of thousands of ChromaID signatures, database management may be outsourced to us or a third party provider. These database services could be made available on a per-access transaction basis or on a monthly or annual subscription basis. The actual storage location of the database can be cloud-based, on a stand-alone scanning device or on a mobile device via a Bluetooth connection depending on the requirements of access, size of the database and security as defined by the customer. As a result, large databases can be accessed by cell phone or other mobile technologies using either local storage or cloud based storage.
+  
+  Based on the commercialization plans outlined above, our business model anticipates deriving revenue from several sources:
+  
+   ●
+ Sales of the ChromaID Lab Kit and ChromaID Liquid Lab Kit
+
+   ●
+ Non Recurring Engineering (NRE) fees to assist customers with scan integration into their products
+
+   ●
+ Licensing of the ChromaID technology
+
+   ●
+ Royalties per unit generated from the sales of scan heads
+
+   ●
+ Multi-unit sales of the above referenced exemplar product for as yet to be determined consumer product applications
+
+   ●
+ Per click transaction revenue from accessing the unique ChromaID signatures
+
+   ●
+ Developing custom product applications for customers
+
+   ●
+ ChromaID database administration and management services
+
+ 
+  Our Acceleration of Business Development in the United States and Around the World
+  
+ We are coordinating our internal business development, sales and marketing efforts with those of our strategic partners IDMC, and Sumitomo Precision Products to leverage market data and information in order to focus on specific target vertical markets which have the greatest potential for early adoption. The ChromaID Lab Kit provides a means for us to demonstrate the technology to customers in these markets. It also allows customers to experiment with developing unique applications for their particular use. Our Business Development team is pursuing license opportunities with customers in our target markets. As an example, in March 2016 we entered into a Collaboration Agreement and License with Intellicheck Mobilisa. The agreement provides Intellicheck with exclusive rights to our ChromaID technology in the areas of homeland security, law enforcement and crime prevention.
+  There is no requirement for FDA or other government approval for the current applications of our ChromaID technology. Over time, as we explore the application of our ChromaID technology for medical diagnostics and other applications, we expect that there will be requirements for FDA and other government approvals before applications using the technology in medical and other regulated fields can enter the marketplace.
+  
+  Research and Development
+  
+  Our research and development efforts are primarily focused improving the core foundational ChromaID technology and developing new and unique applications for the technology. As part of this effort, we typically conduct testing to ensure that ChromaID application methods are compatible with the customer’s requirements, and that they can be implemented in a cost effective manner. We are also actively involved in identifying new application methods. Our team has considerable experience working with the application of light-based technologies and their application to various industries. We believe that its continued development of new and enhanced technologies relating to our core business is essential to our future success. We spent $325,803 and $362,661 during the years ended September 30, 2016 and 2015, respectively, on development activities. Our research and development efforts are supported internally, through its relationship with IDMC and through contractors led by Dr. Tom Furness and his team at RATLab LLC.
+ Our Patents
+  
+  We believe that our ten patents, 20 patent applications, and two registered trademarks, and our trade secrets, copyrights and other intellectual property rights are important assets for us. Our patents will expire at various times between 2027 and 2033. The duration of our trademark registrations varies from country to country. However, trademarks are generally valid and may be renewed indefinitely as long as they are in use and/or their registrations are properly maintained.
+  
+  
+7
+
+
+ 
+ 
+  The patents that have been granted to Visualant include:
+  
+  On August 9, 2011, we were issued US Patent No. 7,996,173 B2 entitled “Method, Apparatus and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy,” by the United States Office of Patents and Trademarks. The patent expires August 24, 2029.
+  
+  On December 13, 2011, we were issued US Patent No. 8,076,630 B2 entitled “System and Method of Evaluating an Object Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires November 7, 2028.
+  
+  On December 20, 2011, we were issued US Patent No. 8,081,304 B2 entitled “Method, Apparatus and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 28, 2030.
+  
+  On October 9, 2012, we were issued US Patent No. 8,285,510 B2 entitled “Method, Apparatus, and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+  On February 5, 2013, we were issued US Patent No. 8,368,878 B2 entitled “Method, Apparatus and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+  On November 12, 2013, we were issued US Patent No. 8,583,394 B2 entitled “Method, Apparatus and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+ On November 21, 2014, we were issued US Patent No. 8,888,207 B2 entitled “Systems, Methods, and Articles Related to Machine-Readable Indicia and Symbols” by the United States Office of Patents and Trademarks. The patent expires February 7, 2033.
+  
+ On March 23, 2015, we were issued US Patent No. 8,988,666 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+  
+ On May 26, 2015, we were patent US Patent No. 9,041,920 B2 entitled “Device for Evaluation of Fluids using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires March 12, 2033.
+  
+ On April 19, 2016, we were issued patent US Patent No. 9,316,581 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Substances Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires March 12, 2033.
+  
+  We pursue an aggressive patent strategy to expand our unique intellectual property in the United States and other countries.
+  
+  Services and License Agreement Invention Development Management Company, L.L.C.
+  
+  In November 2013, we entered into a Services and License Agreement with Invention Development Management Company. IDMC is a subsidiary of Intellectual Ventures, which collaborates with inventors and partners with pioneering companies and invests both expertise and capital in the process of invention. On November 19, 2014, we amended the Services and License Agreement with IDMC. This amendment exclusively licenses 10 filed patents to us. In May of 2016, Intellectual Ventures was spun out IDMC into an independent company called Xinova. The relationship remains intact.
+  
+  The agreement requires IDMC to identify and engage inventors to develop new applications of our ChromaID™ technology, present the developments to us for approval, and file at least 10 patent applications to protect the developments. IDMC is responsible for the development and patent costs. We provided the Chroma ID Lab Kits to IDMC at no cost and are providing ongoing technical support. In addition, to provide time for this accelerated expansion of its intellectual property we delayed the selling of the ChromaID Lab Kits for 140 days except for certain select accounts. We have continued our business development efforts during this period and have worked with IDMC and their global business development resources to secure potential customers and licensees for the ChromaID technology. We shipped 20 ChromaID Lab Kits to inventors in the IDMC network during December 2013 and January 2014. As part of our agreement with IDMC, we curtailed our ChromaID marketing efforts through the fourth calendar quarter of 2014 while IDMC worked to expand our intellectual property portfolio. Thereafter, we began to actively market the ChromaID Lab Kits to interested and qualified customers.
+  
+  We have received a worldwide, nontransferable, exclusive license to the intellectual property developed under the IDMC agreement during the term of the agreement, and solely within the identification, authentication and diagnostics field of use, to (a) make, have made, use, import, sell and offer for sale products and services; (b) make improvements; and (c) grant sublicenses of any and all of the foregoing rights (including the right to grant further sublicenses).
+  
+  
+8
+
+
+ 
+ 
+  We received a nonexclusive and nontransferable option to acquire a worldwide, nontransferable, nonexclusive license to the useful intellectual property held by IDMC within the identification, authentication and diagnostics field of use to (a) make, have made, use, import, sell and offer to sell products and services and (b) grant sublicenses to any and all of the foregoing rights. The option to acquire this license may be exercised for up to two years from the effective date of the Agreement.
+  
+  IDMC is providing global business development services to us for geographies not being pursued by Visualant. Also, IDMC has introduced us to potential customers, licensees and distributors for the purpose of identifying and pursuing a license, sale or distribution arrangement or other monetization event.
+  
+  We granted to IDMC a nonexclusive, worldwide, fully paid, nontransferable, sublicenseable, perpetual license to our intellectual property solely outside the identification, authentication and diagnostics field of use to (a) make, have made, use, import, sell and offer for sale products and services and (b) grant sublicenses of any and all of the foregoing rights (including the right to grant further sublicenses).
+  
+  We granted to IDMC a nonexclusive, worldwide, fully paid up, royalty-free, nontransferable, non-sublicenseable, perpetual license to access and use our technology solely for the purpose of marketing the aforementioned sublicenses of our intellectual property to third parties outside the designated fields of use.
+  
+  In connection with the original license agreement, we issued a warrant to purchase 97,169 shares of common stock to IDMC as consideration for the exclusive intellectual property license and application development services. The warrant has a current exercise price of $0.70 per share and expires November 10, 2018. The per share price is subject to adjustment based on any issuances below $0.70 per share except as described in the warrant.
+  
+  We agreed to pay IDMC a percentage of license revenue for the global development business services and a percentage of revenue received from any company introduce to us by IDMC. We also have also agreed to pay IDMC a royalty when we receive royalty product revenue from an IDMC-introduced company. IDMC has agreed to pay us a license fee for the nonexclusive license of our intellectual property.
+  
+  The term of both the exclusive intellectual property license and the nonexclusive intellectual property license commences on the effective date of November 11, 2013, and terminates when all claims of the patents expire or are held in valid or unenforceable by a court of competent jurisdiction from which no appeal can be taken.
+  
+  The term of the Agreement commences on the effective date until either party terminates the Agreement at any time following the fifth anniversary of the effective date by providing at least ninety days’ prior written notice to the other party.
+  
+  TransTech Systems, Inc.
+  
+  Our wholly owned subsidiary, TransTech Systems, Inc., is a distributor of products, including systems solutions, components and consumables, for employee and personnel identification in government and the private sector, document authentication, access control, and radio frequency identification. TransTech provides these products and services, along with marketing and business development assistance to value-added resellers and system integrators throughout North America.
+  
+  We expect our ownership of TransTech to accelerate our market entry and penetration through well-operated and positioned dealers of security and authentication systems, thus creating a natural distribution channel for products featuring our proprietary ChromaID technology. TransTech currently provides substantially all of our revenues. Its management team functions independently from Visualant’s and its operations require a minimal commitment of our management time and other resources. Our acquisition of TransTech in June 2010 and its operations are described in greater detail below.
+  
+  Agreements with Sumitomo Precision Products Co., Ltd.
+  
+  In May 2012, we entered into a Joint Research and Product Development Agreement with Sumitomo Precision Products Co., Ltd., a publicly-traded Japanese corporation, for the commercialization of our ChromaID technology. In March 2013, we entered into an amendment to this agreement, which extended the Joint Development Agreement from March 31, 2013 to December 31, 2013. The extension provided for continuing work between Sumitomo and Visualant focused upon advancing the ChromaID technology and market research aimed at identifying the most significant markets for the ChromaID technology. This collaborative work supported the development of the ChromaID Lab Kit. This agreement expired December 31, 2013. The current version of the technology was introduced to the marketplace as a part of our ChromaID Lab Kit during the fourth quarter of 2013. Sumitomo invested $2,250,000 in exchange for 115,385 shares of restricted shares of common stock priced at $19.50 per share that was funded on June 21, 2012.  
+  
+  
+9
+
+
+ 
+ 
+  We also entered into a License Agreement with Sumitomo in May 2012, under which Sumitomo paid the Company an initial payment of $1 million. The License Agreement granted Sumitomo an exclusive license for the then extant ChromaID technology. The territories covered by this license include Japan, China, Taiwan, Korea and the entirety of Southeast Asia (Burma, Indonesia, Thailand, Cambodia, Laos, Vietnam, Singapore and the Philippines). The Sumitomo License fee was recorded as revenue over the life the Joint Research and Product Development Agreement and was fully recorded as of May 31, 2013. On May 21, 2015, we entered into an amendment to the License Agreement, which, effective as of June 18, 2014, eliminated the Sumitomo exclusivity and provides that if we sell products in certain territories – Japan, China, Taiwan, Korea and the entirety of Southeast Asia (Burma, Indonesia, Thailand, Cambodia, Laos, Vietnam, Singapore and the Philippines) – the Company will pay Sumitomo a royalty rate of 2% of net sales (excluding non-recurring engineering revenues) over the remaining term of the five-year License Agreement (through May 2017).
+  
+  Potential Markets and Customers
+  
+  Our plan is to develop markets and customers who have a need to authenticate, detect, identify, verify or diagnose materials or substances which may include, but are not limited to, commercial paint manufacturers, pharmaceutical equipment manufacturers, process control companies, water purification and quality companies, currency paper and ink manufacturers, security card manufacturers, cosmetic companies and food processing companies.
+  
+  Market opportunities include identification, detection, or diagnosis of:
+  
+   ●
+ Pharmaceuticals – pill counting and verification
+
+   ●
+ Food safety – testing for contaminants and quality
+
+   ●
+ Gemstones – diamond color grading
+
+   ●
+ Liquid analysis – water purity
+
+   ●
+ Law enforcement - illicit drug identification for law enforcement applications
+
+   ●
+ Paint – color matching
+
+   ●
+ ID badges – counterfeit ID detection
+
+   ●
+ Secure packaging - Container seals and packaging materials with invisible markings
+
+   ●
+ Cosmetics – matching skin tones to correct products
+
+   ●
+ Documents and Currency– detect counterfeit paper and inks
+
+   ●
+ Medical Noninvasive skin analysis for discovery of diseases or medical conditions
+
+ 
+  Our Strategy
+  
+  To date, the substantial portion of our non-TransTech revenue has been generated from the development license with Sumitomo Precision Products and sales of our ChromaID Lab Kits. We expect to continue to grow revenues from sales of our Lab Kits, non-recurring engineering fees, licenses, per unit royalties and subscriptions, as well as “per click” revenues. Key aspects of our strategy include:
+ Customize and Refine our Solutions to Meet Potential Customers’ Needs
+  
+  We are continuously improving and expanding our potential product offerings by testing the incorporation of our technologies into different media, such as the new ChromaID Liquid Lab Kit that is in the prototype stage. Each vertical market has specific requirements for their potential product application that will involve determining the range of LEDs and photodiodes that will provide optimum performance and the associated form factor required for their product. Our goal is to develop a cost-effective scanning system for each potential industry and customer that can be incorporated into that potential customer’s products that they will then take to market.
+  
+  Continue to Expand Applications for ChromaID Technology
+  
+  While we have basic proof of concepts for applications in several large markets to date, we plan to continue our ongoing effort to expand proof-of-concept testing in other vertical markets that have yet to be tested. We have also identified and are further examining opportunities to collaborate with companies and universities to develop new applications for the ChromaID technology. We believe the strength of our solutions is based on the unique and proprietary ChromaID signature that is created from every scan.
+  
+  Target Potential High-Volume Markets
+  
+  We will continue to focus our efforts on target vertical markets that are characterized by a high level of vulnerability to counterfeiting, product tampering, piracy, fraud, identity theft, contamination and adulteration. We believe the ChromaID technology can be a lower cost, real time, flexible form factor solution in the following areas: access control, quality and process control, food safety, water quality, law enforcement support, standardization and medical diagnostics. Our current target markets include pharmaceuticals, food quality and safety, gemstone grading, water purity, law enforcement, paint color matching, identity cards, chemical identification, cosmetics, currency, process control and healthcare. If and when we have significantly penetrated these markets, we intend to expand into additional related high volume markets.
+  
+  
+10
+
+
+ 
+ 
+  Pursue Strategic Acquisitions and Alliances
+  
+  We intend to pursue strategic acquisitions of companies and technologies that strengthen and complement our core technologies, improve our competitive positioning, allow us to penetrate new markets, and grow our customer base. We also intend to work in collaboration with potential strategic partners in order to continue to market and sell new product lines derived from, but not limited to, ChromaID technology.
+ Target Additional Markets
+  
+  In fourth fiscal quarter of 2014, we began introducing our technology and services in Europe, the United States and Asia. Several potential customers are currently analyzing our technology. At the present time, we are focusing our efforts on the pharmaceutical industry, the food safety industry, law enforcement and homeland security. In the future, we plan to expand our focus to include identification cards and other secure documents, industrial materials, agrochemicals, pharmaceuticals, consumer products, cosmetics, currency and medical diagnostics.
+ Industry Background
+  
+ Visualant’s ChromaID is a part of the broad industry built upon photonics or light-based technology. Photonics science includes the generation, emission, transmission, modulation, signal processing, switching, amplification, and detection/sensing of light. Though covering all light's technical applications over the whole spectrum, most photonic applications are in the range of visible and near-infrared light. The term photonics developed as an outgrowth of the first practical semiconductor light emitters invented in the early 1960s and optical fibers developed in the 1970s.
+  
+ Photonics came into common use in the 1980s as fiber-optic data transmission was adopted by telecommunications network operators. At that time, the term was used widely at Bell Laboratories. Its use was confirmed when the IEEE Lasers and Electro-Optics Society established an archival journal named Photonics Technology Letters at the end of the 1980s.
+  
+ Photonics covers a huge range of science and technology applications, including laser manufacturing, biological and chemical sensing, medical diagnostics and therapy, display technology, and optical computing.
+  
+ Applications of photonics includes all areas from everyday life to the most advanced science, e.g. light detection, telecommunications, information processing, lighting, metrology, spectroscopy, holography, medicine (surgery, vision correction, endoscopy, health monitoring), military technology, laser material processing, visual art, biophotonics, agriculture and robotics.
+  
+ The world photonics market, according to the World Photonics Report of 2013 was a $350 billion market and will grow to a $650 billion market by 2020.
+  
+ Our business model is focused on the use of structured light - a disruptive conceptual breakthrough in photonics. Light-emitting diodes (LEDs) shine a single wavelength of pulsed light in increasing steps of intensity onto a subject. Photodiodes capture the light that is returned via reflection or re emission of that light. The photodiode produces an analog signal that is then converted into a 24 bit digital data point for each pulse of light. A typical scan is comprised of hundreds of pulses of light across a number of specific frequency LED’s creating a unique ChromaID signature for the subject being scanned. In a typical application a “reference” or “master” ChromaID signature is captured and stored in a database for that specific subject. When an unknown substance is scanned to produce its own ChromaID signature, (the “discovery scan”), the unknown substance’s ChromaID signature is compared to that of the known (or “reference”) ChromaID signature. Algorithms are used to compare the two sets of data and determine if the “discovery” signature is the same as the “reference” ChromaID signature. This accuracy threshold can be adjusted from 51 % to 99.995 % accuracy based on the requirements for each specific application of the ChromaID technology. Historically, a number of the applications for ChromaID technology were performed by spectrophotometers. The sales of spectrophotometers by companies such as Ocean Optics, Perkin Elmer, Fisher Thermo Scientific and Agilent are multibillion dollar businesses. Spectrophotometers combine broad-spectrum light; a diffraction grating to split it; and a linear array for graphical presentation in software. They tend to be bulky, fragile, and expensive; scanning and analysis are complex. We believe our ChromaID technology uses lower cost components, provides more accurate data, has a very flexible form factor and the information it provides can be easily understood. The use of structured light by our ChromaID technology provides a platform for the development of a myriad of applications in the categories of identification, authentication and diagnostics.
+  
+ We believe that the ChromaID technology is analogous to a smartphone, upon which an enormous number of previously unforeseen applications have been developed. The ChromaID technology may be considered an enabling technology that brings the science of light and photonics to low cost, real world commercialization opportunities across multiple industries. ChromaID is a sensor technology which, with its low cost, small form factor, and ease of connectivity can be an enabling technology for the broad Internet of Things and integrated into many aspects of everyday life providing useful information relating health, life and safety. The technology is foundational and as such, the basis upon which we believe a significant business can be built.
+  
+  
+11
+
+
+ 
+ 
+  THE COMPANY’S COMMON STOCK
+  
+  Our common stock trades on the OTCQB Exchange under the symbol “VSUL.”
+  
+  PRIMARY RISKS AND UNCERTAINTIES
+  
+  We are exposed to various risks related to our need for additional financing, the sale of significant numbers of our shares and a volatile market price for our common stock. These risks and uncertainties are discussed in more detail below in Part I, Item 1A. 
+ CORPORATE INFORMATION
+  
+  We were incorporated under the laws of the State of Nevada on October 8, 1998. Our executive offices are located at 500 Union Street, Suite 420, Seattle, WA 98101. Our telephone number is (206) 903-1351 and its principal website address is located at www.visualant.net. The information on our website is not incorporated as a part of this Form 10-K.
+ EMPLOYEES
+  
+  As of January 13, 2017, we had twenty full-time employees. Our senior management is located in the Seattle, Washington office.
+  
+  WEBSITE ACCESS TO UNITED STATES SECURITIES AND EXCHANGE COMMISSION REPORTS
+  
+  We file annual and quarterly reports, proxy statements and other information with the Securities and Exchange Commission ("SEC"). You may read and copy any document we file at the SEC's Public Reference Room at 100 F Street, N.E., Washington D.C. 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference room. The SEC maintains a website at http://www.sec.gov that contains reports, proxy and information statements and other information concerning filers. We also maintain a web site at http://www.visualant.net that provides additional information about our Company and links to documents we file with the SEC. The Company's charters for the Audit Committee, the Compensation Committee, and the Nominating Committee; and the Code of Conduct & Ethics are also available on our website. The information on our website is not part of this Form 10-K.

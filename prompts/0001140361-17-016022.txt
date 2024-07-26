@@ -1,0 +1,193 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1: | Business.
+--------+----------
+
+General.
+ 
+PAR Technology Corporation, together with its subsidiaries, provides management technology solutions, including software, hardware, and related services, integral to the point-of-sale (“POS”) infrastructure and task management, information gathering, assimilation and communications services. We deliver our management technology solutions through two operating segments – our Restaurant/Retail segment and our Government segment. Information about our segment revenues, operating income, and identifiable assets (including certain information by geographic location) is set forth in Note 11 – Segment and Related Information - of the Notes to Consolidated Financial Statements (Part IV, Item 15 of this Annual Report).
+ 
+In this Annual Report, the terms “PAR”, “the Company”, “we”, “us”, and “our” refer to PAR Technology Corporation and its consolidated subsidiaries, unless the context indicates otherwise.
+ 
+“PAR”, “Brink POS”, “Surecheck”, “Pixelpoint”, “EverServ” and other trademarks of PAR’s appearing in this Annual Report belong to PAR. This Annual Report contains trade names and trademarks of other companies. Our use of such other companies’ trade names or trademarks is not intended to imply any endorsement or sponsorship by these companies of PAR, its products, or services.
+ 
+Restaurant/Retail Segment:
+ 
+Overview.
+ 
+We derived approximately 65% of our total consolidated revenues from this segment in 2016.  PAR continues to be a leading provider of management technology solutions to restaurants and retail with over 75,000 systems installed in over 110 countries; and we continue to expand our business into big box retailers, grocery stores, and contract food management organizations, primarily driven by our SureCheck solution.
+
+
+ 2
+ 
+
+We provide our customers with management technology solutions that address their desire to offer seamless transactional experiences or product offerings to their customers, while enabling them to gather and use content management and business intelligence to complete the transaction or to monitor the quality and safety of their products.
+ 
+Our management technology solutions include our cloud and on-premise software applications, hardware platforms, and related installation, technical, and maintenance support services.  Our software offerings include front-of-store POS software applications, operations management software applications (known as back-office software), and enterprise software applications for content management and business intelligence.  Our hardware offerings include POS terminals, tablets, kitchen systems utilizing printers and/or video monitors, and a wide range of food safety monitoring and task management hardware.
+ 
+ Products and Services.  The products and services in the Restaurant/Retail segment include:
+ 
+Cloud and On-Premise Software, including SaaS offerings:
+ 
+ 
+· | Brink POS (“Brink”) – a point of sale (“POS”) cloud based software that scales for use by single and multi-unit operators with traditional and/or mobile platforms. Brink is a leading software solution for restaurants, particularly in the quick serve/fast casual restaurant categories. A cloud POS platform, Brink eliminates the need for the back-office server, and simplifies software version control and organizational updates. Brink provides and integrates to mobile/online ordering, loyalty, kitchen video systems, guest surveys, enterprise reporting, and mobile dashboards. Brink is sold as a cloud software-as-a-Service (“SaaS”). 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | PixelPoint - an integrated software solution, that includes a POS software application, a self-service ordering function, back-office management, and an enterprise level loyalty and gift card information sharing application. The PixelPoint solution is primarily sold to independent table service and quick serve restaurants through channel partners. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Surecheck – an IoT (Internet of Things) mobile software solution, that provides food safety monitoring and intelligent checklist management through a combination of a cloud enterprise application, a PDA-based mobile application, and a patented integrated temperature measuring device.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ The Restaurant Market. Our software applications and hardware platforms are designed to be complete and integrated solutions for multi-unit and individual restaurants, franchisees, and enterprise customers in the three dominant restaurant categories: fast casual (“FC”), quick serve (“QSR”), and table service (“TSR”).  Each of these restaurant categories has distinct operating characteristics and service delivery requirements that are managed by Brink and PixelPoint. Both Brink and PixelPoint allow customers to configure their technology systems to meet their order entry, food preparation, inventory, and workforce management needs, while capturing real-time transaction data at each location and delivering valuable insight throughout the enterprise.
+ 
+The Retail Market. The Surecheck solution offers food retail (grocery), food service, and food manufacturer customers with an effective way to manage Hazard Analysis & Critical Control Points (“HACCP”) compliance; it automates the monitoring of quality risk factors (e.g., food temperature) while dramatically lowering the potential for human error. Surecheck records employee food preparation, handling and manufacturing processes and tasks, while providing insight to abnormal checklist conditions and configurable automated alerts when tasks are behind schedule or out of compliance. In addition to food retail (grocery), food service, and food manufacturing, Surecheck offers restaurant and retail operators a device to effectively capture and monitor data to manage policy compliance and oversight, loss prevention, merchandising, and other audit functions.
+Hardware.
+ 
+ Our EverServ POS platforms are designed to reliably operate in harsh environments associated with food service. Our EverServ platforms are durable and highly functioning, scalable, and easily integrated - offering customers competitive performance at a cost-conscious price. PAR’s hardware platforms are compatible with popular third-party operating systems, support a distributed processing environment and are suitable for a broad range of use and functions within the markets served. PAR’s open architecture POS platforms are optimized to host our POS software applications, as well as many third-party POS applications, and are compatible with a variety of peripheral devices. We partner with numerous vendors that offer complementary in-store peripherals, such as cash drawers, card readers, and printers to kitchen video systems, allowing us to deliver a completely integrated solution through one vendor.
+ 
+ 3
+ 
+
+Our POS hardware platforms are designed to meet customer needs and exceed customer expectations regardless of the restaurant concept, the size of the organization or the complexity of its requirements.  PAR’s hardware platform offerings are primarily comprised of three POS product lines: EverServ 500 Series, EverServ 7000 Series, and EverServ 8000 Series.
+ 
+ 
+· | EverServ 500 Series - is built with the rugged durability PAR is known for and is a value platform for operators that require fewer features/functions. Its small ergonomic footprint is ideal for installations where space is at a premium. The EverServ 500’s solid design is quiet, offers low power consumption, and minimizes maintenance.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | EverServ 7000 Series - offers a combination of performance, style, ease of service, remote management, flexibility, and modularity. The EverServ 7000 is built to operate in harsh environments - grease and liquid spills - and endure high customer traffic and transaction activities. The high-performance architecture of the 7000 supports demanding applications and delivers the speed needed to improve customer throughput.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | EverServ 8000 Series – is designed and developed based on the latest technology platforms from Intel Corporation. The EverServ 8000 boasts a modern design and, while it is one of the smallest footprints available in the market, it offers the same operational durability as our EverServ 7000.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | EverServ tablets – PAR Tablet 5, PAR Tablet 8 and PAR Tablet 10 - are the latest in PAR’s series of enterprise-class mobile devices built for our customers. Consistent with our EverServ family, the EverServ tablets are designed to operate in harsh environments. Attributable to the Everseve tablets’ extended battery life, the rugged design of the EverServ tablets does not impact the level of “up time” enjoyed by customers, but it does extend the EverServ tablets’ life cycle. Our EverServ mobility family of hardware platforms also include a variety of docking and charging stations, the ability to use magnetic cards and payment systems, hand and shoulder straps and holsters to support the variety of product applications. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Services.
+ 
+  We provide a complete portfolio of services to support technology needs before, during and after software and/or hardware deployments.  We offer installation, technical and break-fix support for our products through support services, license and/or subscription agreements with our customers. We also offer depot repair and overnight - Advanced Exchange - service. Through our training services, we offer complete application training to our customers’ in-store staff, and provide technical training to our customers’ information systems personnel.
+ 
+In North America, we offer 24-hour help desk support from our diagnostic service center located in Boulder, Colorado, and on-site support through our field tech service network, which services the continental U.S., we offer similar support services to our customers outside of the U.S.
+ 
+ 4
+ 
+
+ The restaurant market is fragmented,  we support major corporations and their franchisees, and businesses of all sizes, including single store operators. We believe our ability to offer comprehensive services including installation, maintenance, and technical support to a diverse set of customers differentiates us from our competitors.
+ 
+Using a suite of software applications, our experienced service organization provides customers with knowledge based diagnostic solutions to resolve customer service issues. Our service providers compile information about potential customer or product trends and opportunities, and provide this information to our remote service technicians, to assist them in diagnosing issues occurring at customer locations, in real-time; reducing the need for physical on-site service calls.  Our customer relationship management system allows our call center personnel to maintain customer profiles, including customer hardware and software details, service history, and database of problem-resolutions, to maximize our service resolution effectiveness and customer satisfaction.
+ 
+We work closely with our customers to identify and address the latest restaurant or retail technology requirements by creating interfaces to the latest innovations in operational equipment, including Europay, MasterCard and Visa (EMV), digital, and additional solutions located inside and outside of the customer’s premises. PAR provides systems integration expertise to interface specialized components, including but not limited to video monitors, wireless networks, and video surveillance, to meet requirements of its global customers.
+ 
+Sales and Marketing
+ 
+ In the U.S., we market and sell our products through our dedicated sales teams, who directly interface with our tier 1 customers (owner and/or operator of 2,000 or more sites), tier 2 customers (owner and/or operator of 101-1,999 sites) and tier 3 customers (owner and/or operator of a 2 – 100 sites).  Our international sales teams also market and sell our products and services to tier 1 customers outside of the U.S., as well as local/regional customers, from our in-country offices.  We also use channel partners to market and sell our products and services both in the U.S. and internationally.
+ 
+ 5
+ 
+
+ We also market and sell our products through sales representatives, who enlist and support many well-regarded value-added resellers serving multi-unit operators, the independent restaurant category, and the non-foodservice markets such as retail, convenience, amusement parks, movie theaters, cruise lines, spas and other ticketing and entertainment venues.
+ 
+PAR has developed and nurtured, long-term relationships with three of the largest organizations in the Restaurant/Retail segment - McDonald’s Corporation, Yum! Brands, Inc., and the SUBWAY franchisees of Doctor’s Associates Inc. McDonald’s currently has approximately 36,000 restaurants in more than 100 countries; since 1980, PAR is an approved provider to McDonald’s and its franchisees of restaurant technology systems and support services. Yum! Brands, which includes Taco Bell, KFC, and Pizza Hut, currently has over 43,500 restaurants in more than 135 countries; PAR has been an approved supplier since 1983 and is a major supplier of in-store technology systems to concepts within the Yum! Brands portfolio. We continue to expand our hardware sales and related services to SUBWAY, which currently has more than 44,000 restaurants around the world. Other significant restaurant chains that use PAR POS products and related services include: the Baskin-Robbins unit of Dunkin’ Brands Group, Inc., the Hardee’s, and Carl’s Jr. units of CKE Restaurants, Inc., Five Guys, Jack-in-the-Box, and franchisees of these organizations.
+ 
+ Throughout 2016, we continued to add new SureCheck customers to our existing customers - Wegmans Food Markets, Inc., which currently has approximately 92 store locations, and Wal-Mart Stores Inc., (including Sam’s Clubs), which currently has approximately 5,224 domestic and 6,300 international stores. Both Wegmans and Wal-Mart selected the SureCheck solution to food safety and task management requirements.
+ 
+Competition
+ 
+ POS software and hardware offerings to the restaurant and retail markets is highly competitive. Most of our significant customers have several approved suppliers of software and/or hardware similar to one or more of our products. We compete directly with some product offerings from Oracle Corporation, NCR Corporation, and Panasonic Corporation among others. We compete on the basis of product delivery (cloud based software applications v. traditional), product design, features and functionality, quality and reliability, price, and customer service. Our competitive advantages include our integrated solutions offerings, including our cloud (SaaS delivery model) and on-premise software, ergonomic purpose-built hardware, advanced development capabilities, extensive domain knowledge and expertise, excellent product reliability, a customer dedicated direct sales force organization, and world class and responsive customer service and support.
+ 
+The markets that are the focus of SureCheck are immature and there are currently few competitors.  However, as the functionality and efficiencies of the SureCheck solution become more known and demonstrable, we will face competition in this product offering category as well.
+ 
+Backlog
+ 
+Product orders are generally of a short-term nature, and are usually confirmed and shipped in less than 6 months.
+ 
+Research and Development
+ 
+ Continuous product research, innovation, and product development are an integral part of our business. We continuously evaluate customer needs, and new and relevant technologies, to enable us to develop innovative new products and enhancements to our existing products to improve and/or add to their functionality, performance, operation, and integration capabilities; from hand-held wireless devices to advances in internet performance, our professional services unit is available for consultation on a wide variety of topics including network infrastructures, system functionality, operating system platforms, and hardware expandability. Research and development expenses were $11.6 million in 2016 and $10.1 million in 2015. We capitalize certain software costs in accordance with Financial Accounting Standards Board (FASB), Accounting Standards Codification (“ASC”) Topic No. 985. See Note 1 – Summary of Significant Accounting Policies - of the Notes to Consolidated Financial Statements (Part IV, Item 15 of this Annual Report) for further discussion.
+ 
+ 6
+ 
+
+ Manufacturing and Suppliers
+ 
+ We assemble our ES 8000 series of hardware internally as well as source hardware products and hardware related components from third parties. Although we purchase most of the materials, supplies, product sub-assemblies and full assemblies for our internal assembling of products from several suppliers, we do rely on sole sources for certain of our assembly components and hardware products. As a result, we periodically review and evaluate potential risks of disruption to our supply chain operations in the event one or more supplier should fail to perform.
+Government Segment:
+ 
+PAR’s Government segment provides a range of solutions and services for the U.S. Department of Defense (“DoD”) and federal agencies. It is focused on two principal offerings – Solutions and Services; and Mission Support.
+Solutions and Services
+ 
+Intelligence, Surveillance, and Reconnaissance (“ISR”).  We provide a variety of geospatial intelligence and situational awareness solutions for mobile and data center offerings. Our substantive, in depth expertise in these domains enable us to provide our government customers and large systems integrators with key technologies to support a variety of applications ranging from strategic enterprise systems to tactical in the field dismounted users.  Additionally, we have developed a number of solutions relative to these advanced technologies and we provide integration and training support with respect to these solutions.
+
+
+ISR provides systems engineering support and software-based solutions to DoD research and development laboratories as well as operational commands. Our internal expertise ranges from theoretical and experimental studies to development and fielding of operational capabilities. Our employees are:
+ 
+ 
+· | experienced developers and subject-matter experts in DoD Full Motion Video (“FMV”);
+--+------------------------------------------------------------------------------------
+
+
+· | developers of geospatial and imagery data management, visualization, and exploitation solutions;
+--+-------------------------------------------------------------------------------------------------
+
+
+· | major contributors to radar systems from inception to operational capabilities;
+--+--------------------------------------------------------------------------------
+
+
+· | developers of mobile computing applications for Android, iOS, and Windows; and
+--+-------------------------------------------------------------------------------
+
+
+· | developers of geospatial information system (“GIS”) solutions.
+--+---------------------------------------------------------------
+
+
+
+ 7
+ 
+
+We are actively engaged in the development of mobility applications that support the needs of mobile teams with real-time situation awareness and distributed communications. ISR has a strong legacy in the advanced research, development and productization of geospatial information assurance (“GIA”) technology involving steganography, steg analysis, digital watermarking, and image forensics. These enabling technologies have been used to provide increased protection and security of geospatial data. Intelligence, Surveillance, and Reconnaissance also provides scientific and technical support to the U.S. Intelligence Community.
+ 
+Systems Engineering & Evaluation. We integrate and test a broad range of government and industry research and development solutions. The Company designs and integrates radar sensor systems including experimentation, demonstration, and test support. We also provide scientific and technical engineering and analysis to intelligence community customers, as well as program management services for the acquisition, development, and deployment of advanced prototypes and quick reaction systems.
+Mission Support
+ 
+Satellite & Telecommunications Support. We provide a wide range of technical and support services to sustain mission critical components of the Department of Defense Information Network (DoDIN).  These services include continuous 24/7/365 operations, system enhancements and associated maintenance of very low frequency (VLF), high frequency (HF) and very high frequency (VHF) ground-based radio transmitter/receiver facilities. Additionally, the Company operates and maintains several extremely high frequency (EHF) and super high frequency (SHF) satellite communication earth terminals and teleport facilities. The DoD communications earth stations operated by PAR is the primary communications infrastructure utilized by the national command authority and military services to exercise command and control of the nation’s air, land and naval forces and provide support to allied coalition forces.
+Space & Satellite Control Support. We provide satellite operation, management, and maintenance services to support satellite control center operations. Primary services include satellite telemetry monitoring, tracking and command support, and satellite control to provide reliable space-based satellite services conducting command, control, communications, computers, intelligence, surveillance, and reconnaissance (C4ISR) operations. PAR delivers services in support of satellite telemetry, tracking, control, and remote terminal operations from 7 locations worldwide.
+Management technology/Systems Support. We provide management technology services to the DoD and federal agencies. These services include helpdesk services, systems administration, network administration, information assurance and systems security, database administration, telephone systems management, testing and testbed management, and ITIL-based service management.
+ 
+Telecommunication services include satellite and terrestrial communications operations and maintenance services, which operate elements of the DoDIN to support the National Command Authority (President & Joint Chiefs of Staff), DoD and other government agencies.  The Company provides IT support services ranging from advanced systems management to help desk support—with more than 50% of its global footprint outside the continental U.S. with contracts in Europe, Africa, Australia, and U.S. commonwealths and territories in the Pacific and Caribbean.
+ 
+PAR has strong and enduring relationships with a diverse set of customers throughout the U.S. DoD and federal government, and our track record of delivering mission critical services to our government customers spans decades, and includes contracts continuing 15 years or more. We work closely with our customers, with the vast majority of our mission system employees co-located at customer sites. Our strong relationships and on-site presence with our customers enable PAR to develop substantive customer and technical domain knowledge, and translate mission understanding into exemplary program execution and continued demand for PAR’s services.
+ 
+ 8
+ 
+
+Marketing and Competition
+ 
+We obtain contracts primarily through competitive proposals in response to solicitations from government organizations and prime contractors. In addition, PAR sometimes obtains contracts by submitting unsolicited proposals. Although we believe we are well positioned in our business areas, competition for government contracts is intense. Many of our competitors are major corporations, or subsidiaries thereof, that are significantly larger and have substantially greater financial resources. We also compete with many smaller, economically disadvantaged companies, many of which are designated by the government for preferential “set aside” treatment, that target particular segments of the government contract market. The principal competitive factors are past performance, the ability to perform the statement of work, price, technological capabilities, management capabilities and service. Many of our department of defense customers are migrating to low-price/technically acceptable procurements while leveraging commercial software standards, applications, and solutions.
+Backlog
+ 
+The value of existing Government contracts at December 31, 2016, net of amounts relating to work performed to that date, was approximately $126.0 million, of which $36.4 million was funded. The value of existing Government contracts at December 31, 2015, net of amounts relating to work performed to that date, was approximately $101.2 million, of which $48.4 million was funded. Funded amounts represent those amounts committed under contract by Government agencies and prime contractors.  The December 31, 2016 Government contract backlog of $126.0 million represents firm, existing contracts.  Of this backlog amount, approximately $55.4 million is expected to be completed in calendar year 2017, as funding is committed.
+Intellectual Property and Other Rights
+ 
+We develop a substantial amount of our products internally as original developments, discoveries and know-how or based on existing copyrighted works and/or patents issued or pending of PAR or third party licensors.  We have a number of U.S. and foreign patents and patents pending and trademarks, as well as copyrights that relate to internally developed software, various distinctive characteristics of our products, including certain attributes, functionality, and brand association and goodwill. In addition to our publicly available intellectual property, we possess competitive confidential information and trade secrets.  We protect our intellectual property and other proprietary information by actively pursuing U.S. and foreign patent and trademark protection of our proprietary product developments, discoveries and know-how and our brands and logos, and by entering into license agreements and non-disclosure and confidentiality agreements.
+Employees
+ 
+ As of December 31, 2016, we employed approximately 1,002 full-time employees, including approximately 56% in our Restaurant/Retail segment, 38% in our Government segment (27% of which are covered by collective bargaining agreements), and 6% who are corporate employees.  We consider our relationship with our employees to be good.
+Available Information
+ 
+ Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available, free of charge, on our website at www.partech.com “About Us - Investors, SEC Filings”, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the U.S. Securities and Exchange Commission (“SEC”). The information posted on or accessible through our website is not incorporated into this Annual Report on Form 10-K.
+ 
+ 9
+ 
+
+ 
