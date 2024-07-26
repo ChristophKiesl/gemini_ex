@@ -1,0 +1,191 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Overview
+ 
+Harvard Bioscience, Inc., a Delaware corporation, is a global developer, manufacturer and marketer of a broad range of scientific instruments, systems and lab consumables used to advance life science for basic research, drug discovery, clinical and environmental testing. Our products are sold to thousands of researchers in over 100 countries through our global sales organization, websites, catalogs, and through distributors including Thermo Fisher Scientific Inc., VWR and other specialized distributors. We have sales and manufacturing operations in the United States, the United Kingdom, Germany, Sweden, Spain, France, Canada, and China.
+Our History 
+ 
+Our business began in 1901 under the name Harvard Apparatus. It was founded by Dr. William T. Porter, a Professor of Physiology at Harvard Medical School and a pioneer of physiology education. We have grown over the years with the development and evolution of modern life science research and education. Our early inventions included ventilators based on Dr. Porter’s design, the mechanical syringe pump for drug infusion in the 1950s, and the microprocessor controlled syringe pump in the 1980s.
+ 
+In March of 1996, a group of investors acquired a majority of the then existing business of our predecessor, Harvard Apparatus, Inc. Following this acquisition, our focus was redirected to acquiring complimentary companies with innovative technologies while continuing to grow the existing business through internal product development. Since 1996, we have completed more than 25 business or product line acquisitions related to our continuing operations, including three acquisitions beginning in the fourth quarter of 2014. We have also developed many new product lines including: new generation Harvard Apparatus syringe pumps, PHD Ultra series of syringe pumps, advanced Inspira ventilators, GeneQuant DNA/RNA/protein calculators, UVM plate readers, BTX Gemini X2 multi-waveform electroporation system, BioDrop micro-volume spectrophotometer and cuvette, OxyletPro metabolic monitoring system, Multi Channel Systems’ automated four channel PatchServer, DP-304A amplifiers, Allegro Peristaltic pump systems, Centrifan small-volume evaporators and advanced VentElite ventilators.
+ 
+Starting in 2013 with the hiring of a new management team, led by President and CEO Jeffrey A. Duchemin, we initiated a multi-year restructuring program to reduce costs, align global functions, consolidate facilities to optimize our global footprint, and to reinvest in key areas such as sales and common IT systems. We also developed a strategy to grow the business through strategic, accretive acquisitions.
+ 
+
+3
+-
+
+ 
+To that end, during 2014, we initiated plans to relocate and consolidate the distribution, finance and marketing operations of our Denville Scientific, Inc. subsidiary (Denville Scientific) to Charlotte, North Carolina and our Holliston, MA headquarters, and relocate the manufacturing operations of our Biochrom Ltd. subsidiary (Biochrom) to our Holliston, MA headquarters.
+ 
+During the fourth quarter of 2014, we acquired two businesses with advanced electrophysiology technologies, Multi Channel Systems MCS GmbH (MCS), and Triangle BioSystems, Inc. (TBSI). MCS is a developer, manufacturer and marketer of in vitro and in vivo electrophysiology instrumentation for extracellular recording and stimulation. This acquisition is complementary to the in vitro electrophysiology line currently offered by our wholly-owned Warner Instruments subsidiary. TBSI is a developer, manufacturer and marketer of wireless neural interface equipment to aid in vivo neuroscience research, especially in the fields of electrophysiology, psychology, neurology and pharmacology. This acquisition is complementary to the behavioral neuroscience lines currently offered by our wholly-owned Panlab and Coulbourn Instruments subsidiaries. Additionally, in January 2015, we acquired HEKA Elektronik through the acquisition of HEKA Electronics Incorporated, our HEKA Canada subsidiary (HEKA Canada), HEKA Electronik Dr. Schulze GmbH, our HEKA Germany subsidiary (HEKA Germany) and HEKA Instruments Incorporated, our United States HEKA subsidiary (HEKA U.S., and together with HEKA Canada and HEKA Germany, HEKA is a developer, manufacturer and marketer of sophisticated electrophysiology instrumentation and software for biomedical and industrial research applications. This acquisition is complimentary to the electrophysiology line currently offered by our Warner Instruments and MCS subsidiaries.
+ 
+During the first quarter of 2015, we initiated plans to relocate the operations of our subsidiary, Coulbourn Instruments, LLC (Coulbourn), to our Holliston, MA headquarters. During the second quarter of 2015, we initiated plans to relocate the operations of HEKA Canada to HEKA Germany. Also during the second quarter of 2015, and simultaneously with the HEKA Canada move, we initiated plans to relocate the operations of HEKA U.S to our Holliston, MA headquarters. These relocation plans were completed as of December 31, 2015. Additionally, we committed to a restructuring plan on October 27, 2015, which included eliminating certain redundancies as a result of our site consolidations, as well as a realignment of our commercial sales team. We believe the overall restructuring program positions Harvard Bioscience to stabilize, focus on, and grow the life science business going forward.
+ 
+During the third quarter of 2016, we initiated plans to sell the operations of our AHN Biotechnologie GmbH subsidiary (AHN), located in Nordhausen, Germany. AHN is a manufacturer of liquid handling products which had revenues of $2.1 million in 2016. We concluded the sale of AHN in the fourth quarter of 2016, for gross cash proceeds of approximately $1.7 million.
+ 
+Our Strategy 
+ 
+Our vision is to be a world leading life science company that excels in meeting the needs of our customers by providing a wide breath of innovative products and solutions, while providing exemplary customer service. Our business strategy is to grow our top-line and bottom-line, and build shareholder value through a commitment to:
+
+• | commercial excellence;
+--+-----------------------
+
+
+• | new product development;
+--+-------------------------
+
+
+• | strategic acquisitions; and
+--+----------------------------
+
+
+• | operational efficiencies.
+--+--------------------------
+
+Our Products 
+ 
+Today, our broad core product range is organized into three commercial product families: Cell and Animal Physiology (CAP), Lab Products and Services (LPS), and Molecular Separation and Analysis (\MSA). We primarily sell these products under brand names, including Harvard Apparatus, KD Scientific, Denville Scientific, AHN, Hoefer, Biochrom, BTX, Warner Instruments, MCS, HEKA, Hugo Sachs Elektronik, Panlab, Coulbourn Instruments, TBSI, and CMA Microdialysis.
+ 
+Our products consist of instruments, consumables, and systems that are made up of several individual products. Sales prices of these products are mostly under $5,000 but range from under $100 to over $100,000. We manufacture our products at our locations in the United States, Germany, Sweden and Spain.
+ 
+In addition to our proprietary manufactured products, we sell many products that are made by other manufacturers. These distributed products accounted for approximately 36% of our revenues for the year ended December 31, 2016. Distributed products enable us to provide our customers with a single source for their research needs, and consist of a large variety of devices, instruments and consumable items used in experiments involving fluid handling, molecular and cell biology, tissue, organ and animal research. Many of our proprietary manufactured products are leaders in their fields; however, researchers often need complementary products in order to conduct particular experiments. Following is a description of each product family.
+ 
+
+4
+-
+
+Cell and Animal Physiology Product Family
+ 
+Our CAP product family includes our traditional syringe pump and peristaltic pump product lines, as well as a broad range of instruments and accessories for tissue, organ and animal based lab research, including surgical products, infusion systems, microdialysis instruments, behavior research systems, isolated organ and tissue bath systems, and in vivo and in vitro electrophysiology recording, stimulation and analysis systems. Our product offerings are marketed through our Harvard Apparatus, CMA Microdialysis, Panlab, Coulbourn, Hugo-Sachs, InBreath Bioreactor, MCS, TBSI and HEKA brands and entities. We sell these products through our global sales force, technical service team and our global distribution channel. Our CAP product family made up approximately 50% of our global revenues for the year ended December 31, 2016.
+Lab Products and Services Product Family
+ 
+Our LPS product family includes a range of products for molecular biology labs with a liquid handling focus. It consists primarily of pipettes and pipette tips, gloves, gel electrophoresis equipment and reagents, autoradiography films, thermal cycler accessories and reagents, sample preparation columns, tissue culture products, and general lab equipment and consumables. Our brands include Denville Scientific and others. We sell these products through our global sales force and global distribution channel. LPS product family made up approximately 26% of our global revenues for the year ended December 31, 2016.
+Molecular Separation and Analysis Product Family
+ 
+The MSA product family includes spectrophotometers, microplate readers, amino acid analyzers, gel electrophoresis equipment, and electroporation instruments. A spectrophotometer is an instrument widely used in molecular biology and cell biology to quantify the amount of DNA and protein in a sample. We sell a wide range of spectrophotometers under the names Libra, WPA and BioDrop. We sell them primarily through our distribution arrangements with various distributors. Multi-well plate readers are widely used for high throughput screening assays in the drug discovery process. Our product line includes absorbance readers and luminescence readers. We sell them primarily through our global distribution channel. An amino acid analysis system uses chromatography to separate the amino acids in a sample and then uses a chemical reaction to detect each one as they flow out of the chromatography column. We sell these systems under the Biochrom brand through our United States direct sales force and global distribution channel. Gel electrophoresis is widely used in labs to separate and analyze DNA, RNA and proteins samples and their fragments, based on their size and charge. We sell our electrophoresis equipment under Hoefer and Scie-Plas brands through our global distribution channel. Electroporation is a technique for transfection, a process to introduce nucleic acid into cells. Our electroporation and electrofusion products include systems and generators, electrodes and accessories for research applications including in vivo, and in vitro gene delivery, cell fusion and nuclear transfer cloning. We sell these products under the Harvard Apparatus BTX brand through our global distribution channel. Our MSA product family made up approximately 24% of our global revenues for the year ended December 31, 2016.
+Our Customers 
+ 
+Our end-user customers are primarily research scientists at universities, hospitals, government laboratories, including the United States National Institute of Health (NIH), and pharmaceutical and biotechnology companies. Our academic customers, which account for approximately 70% of our revenues, include major colleges and universities such as Baylor College of Medicine, Cambridge University, Harvard University, Johns Hopkins University, Massachusetts Institute of Technology, University of California system, University of Texas - MD Anderson Center and Yale University. Our pharmaceutical and biotechnology customers have included pharmaceutical companies and research laboratories such as Amgen, Inc., AstraZeneca plc, Genentech, Inc. and Johnson & Johnson. We have tens of thousands of customers worldwide and no customer accounted for more than 10% of our revenues in 2016.
+Sales and Marketing 
+ 
+We conduct direct sales in the United States, the United Kingdom, Germany, France, Spain, Sweden, Canada and China. We sell primarily through distributors in other countries. For the year ended December 31, 2016, revenues from direct sales to end-users represented approximately 64% of our revenues; and revenues from sales of our products through distributors represented approximately 36% of our revenues.
+
+5
+-
+
+Direct Sales 
+ 
+We have a global sales organization managing both direct sales and distributors. Our websites and catalogs serve as the primary sales tool for our Harvard Apparatus, Denville and other product lines, which includes both proprietary manufactured products and complementary products from various suppliers. Our reputation as a leading producer of many of our manufactured products creates traffic to our websites, enables cross-selling and facilitates the introduction of new products.
+Distributors 
+ 
+We engage distributors for the sales of our own branded and private label products in certain areas of the world and for certain product lines. During the third quarter of 2015, GE Healthcare, one of our largest distributors, informed us of its decision to discontinue the sale of its spectrophotometer products by the end of 2015. This line of products includes the GE brands NanoVue and SimpliNano, which are products that we have already been manufacturing. Since January 1, 2016, we have been selling the NanoVue and SimpliNano spectrophotometers through our own direct sales force and through distribution partners, as well as servicing previously sold products in the field.
+Research and Development
+ 
+Our principal research and development mission is to develop products that address growth opportunities within the life science research process, as well as to maintain and optimize our existing product portfolios. We maintain development staff in many of our manufacturing facilities to design and develop new products and to re-engineer existing products to bring them to the next generation. Our research and development expenses from continuing operations were approximately $5.4 million, $6.4 million and $4.9 million for the years ended December 31, 2016, 2015 and 2014, respectively. From time to time, we receive grants from governmental entities in relation to research projects. Such grants received are accounted for as a reduction in research and development expenses over the period of the project. We anticipate that we will continue to make investments in research and development activities as we deem appropriate. We plan to continue to pursue a balanced development portfolio strategy of originating new products from internal research and acquiring products through business and technology acquisitions.
+Manufacturing 
+ 
+We manufacture and test the majority of our products in our principal manufacturing facilities located in the United States, Sweden, Spain and Germany. We have considerable manufacturing flexibility at our various facilities, and each facility can manufacture multiple products at the same time. We maintain in-house manufacturing expertise, technologies and resources. We seek to maintain multiple suppliers for key components that are not manufactured in-house, and while some of our products are dependent on sole-source suppliers, we do not believe our dependence upon these suppliers creates any significant risks.
+ 
+Our manufacturing operations primarily involve assembly and testing activities along with some machine based processes.
+ 
+
+Manufacturing Activity | Manufacturing Facility 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------
+syringe pumps, ventilators, cell injectors, molecular sample preparation products, electroporation products, electrophysiology products, spectrophotometers, amino acid analysis systems, low-volume, high-throughput liquid dispensers, plate readers, behavioral research products, and microdialysis products | Holliston, Massachusetts 
+electrophysiology products | Hamden, Connecticut 
+electrophysiology products | Reutlingen, Germany 
+electrophysiology products | Lambrecht, Germany 
+complete organ testing systems | March-Hugstetten, Germany
+electrophoresis products | Richmond, California 
+behavioral research products | Barcelona, Spain 
+behavioral research products | Durham, North Carolina 
+microdialysis products | Kista, Sweden 
+
+ 
+Going forward we will continue to evaluate our manufacturing facilities and operations to further our goal of having an optimal manufacturing footprint.
+ 
+
+6
+-
+
+Competition 
+ 
+The markets into which we sell our products are highly competitive, and we expect the intensity of competition to continue or increase. We compete with many companies engaged in developing and selling tools for life science research. Many of our competitors have greater financial, operational, sales and marketing resources, and more experience in research and development and commercialization than we have. Moreover, our competitors may have greater name recognition than we do, and many offer discounts as a competitive tactic. These competitors and other companies may have developed or could in the future develop new technologies that compete with our products, which could render our products obsolete. We cannot assure you that we will be able to make the enhancements to our technologies necessary to compete successfully with newly emerging technologies. We believe that we offer one of the broadest selections of products to organizations engaged in life science research. We have numerous competitors on a product line basis. We believe that we compete favorably with our competitors on the basis of product performance, including quality, reliability and speed, technical support, price and delivery time.
+ 
+We compete with several companies that provide instruments for life science research including, Lonza Group Ltd., Becton Dickinson, Eppendorf AG, Razel Scientific Instruments, Inc., Ugo Basile, Danaher Corporation, Bio-Rad Laboratories, Inc., PerkinElmer, Inc. and Thermo Fisher Scientific, Inc.
+ 
+We cannot forecast if or when these or other companies may develop competitive products. We expect that other products will compete with our products and potential products based on efficacy, safety, cost and intellectual property positions. While we believe that these will be the primary competitive factors, other factors include, in certain instances, availability of supply, manufacturing, marketing and sales expertise and capability.
+ 
+Seasonality 
+ 
+Sales and earnings in our third quarter are usually flat or down from the second quarter primarily because there are a large number of holidays and vacations during such quarter, especially in Europe. Additionally, academic institutions in the northern hemisphere typically take a hiatus during the summer months. Our fourth quarter revenues and earnings are often the highest in any fiscal year compared to the other three quarters, primarily because many of our customers tend to spend budgeted money before their own fiscal year ends.
+Intellectual Property 
+ 
+To establish and protect our proprietary technologies and products, we rely on a combination of patent, copyright, trademark and trade-secret laws, as well as confidentiality provisions in our contracts. Patents or patent applications cover certain of our new technologies. Most of our more mature product lines are protected by trade names and trade secrets only.
+ 
+We have implemented a patent strategy designed to provide us with freedom to operate and facilitate commercialization of our current and future products. Our success depends, to a significant degree, upon our ability to develop proprietary products and technologies. We intend to continue to file patent applications as we develop new products and technologies.
+ 
+Patents provide some degree of protection for our intellectual property. However, the assertion of patent protection involves complex legal and factual determinations and is therefore uncertain. The scope of any of our issued patents may not be sufficiently broad to offer meaningful protection. In addition, our issued patents or patents licensed to us may be successfully challenged, invalidated, circumvented or unenforceable so that our patent rights would not create an effective competitive barrier. Moreover, the laws of some foreign countries may protect our proprietary rights to a greater or lesser extent than the laws of the United States. In addition, the laws governing patentability and the scope of patent coverage continue to evolve, particularly in areas of interest to us. As a result, there can be no assurance that patents will be issued from any of our patent applications or from applications licensed to us. As a result of these factors, our intellectual property positions bear some degree of uncertainty.
+ 
+We also rely in part on trade-secret protection of our intellectual property. We attempt to protect our trade secrets by entering into confidentiality agreements with third parties, employees and consultants. Our employees and consultants also sign agreements requiring that they assign to us their interests in patents and copyrights arising from their work for us. Although many of our United States employees have signed agreements not to compete unfairly with us during their employment and after termination of their employment, through the misuse of confidential information, soliciting employees, soliciting customers and the like, the enforceability of these provisions varies from jurisdiction to jurisdiction and, in some circumstances, they may not be enforceable. In addition, it is possible that these agreements may be breached or invalidated and if so, there may not be an adequate corrective remedy available. Despite the measures we have taken to protect our intellectual property, we cannot assure you that third parties will not independently discover or invent competing technologies, or reverse engineer our trade secrets or other technologies. Therefore, the measures we are taking to protect our proprietary rights may not be adequate.
+ 
+
+7
+-
+
+ 
+We do not believe that our products infringe on the intellectual property rights of any third party. We cannot assure you, however, that third parties will not claim such infringement by us or our licensors with respect to current or future products. We expect that product developers in our market will increasingly be subject to such claims as the number of products and competitors in our market segment grows and the product functionality in different market segments overlaps. In addition, patents on production and business methods are becoming more common and we expect that more patents will be issued in our technical field. Any such claims, with or without merit, could be time-consuming, result in costly litigation and diversion of management’s attention and resources, cause product shipment delays or require us to enter into royalty or licensing agreements. Moreover, such royalty or licensing agreements, if required, may not be on terms advantageous to us, or acceptable at all, which could seriously harm our business or financial condition.
+ 
+“Harvard” is a registered trademark of Harvard University. The marks “Harvard Apparatus” and “Harvard Bioscience” are being used pursuant to a license agreement entered into in December 2002 between us and Harvard University.
+ 
+Government Regulation 
+ 
+We are not subject to direct governmental regulation other than the laws and regulations generally applicable to businesses in the domestic and foreign jurisdictions in which we operate. In particular, our current products are not subject to pre-market approval by the United States Food and Drug Administration (FDA) for use on human clinical patients. In addition, we believe we are currently in compliance with all relevant environmental laws.
+Employees
+ 
+As of December 31, 2016, we employed 435 employees, of which 411 are full-time and 24 are part-time. As of December 31, 2015, we employed 437 employees, of which 412 were full-time and 25 were part-time.
+ 
+Geographical residence information for these employees is summarized in the table below:
+ 
+
+As of December 31, 2016 
+United States | 246
+Germany | 94 
+United Kingdom | 47 
+Spain | 26 
+Canada | 8 
+Sweden | 7 
+China | 5 
+France | 2 
+Total | 435
+
+Geographic Area 
+ 
+Financial information regarding geographic areas in which we operate is provided in Note 21 of the “Notes to Consolidated Financial Statements,” which are included elsewhere in this Annual Report.
+ 
+Executive Officers of the Registrant
+ 
+The following table shows information about our executive officers as of December 31, 2016.
+ 
+
+Name | Age | Position 
+-----------------+-----+------------------------------------------------
+Jeffrey Duchemin | 51 | Chief Executive Officer, President and Director
+Robert Gagnon | 42 | Chief Financial Officer 
+Yong Sun | 53 | Vice President, Commercial Operations 
+
+
+8
+-
+
+Jeffrey A. Duchemin was appointed Chief Executive Officer on August 26, 2013.  He assumed the additional roles of President on November 1, 2013 and Director on October 29, 2013. Prior to joining Harvard Bioscience, Mr. Duchemin spent 16 years with Becton Dickinson (“BD”) in progressive sales, marketing and executive leadership positions across BD’s three business segments; BD Medical Systems, BD Diagnostic Systems, and BD Biosciences. In October 2012, BD Biosciences Discovery Labware was acquired by Corning Life Sciences. Mr. Duchemin was a Global Business Director for Corning Life Sciences until his departure to Harvard Bioscience. Mr. Duchemin is a transformational leader with demonstrated business results. The depth of his experience spans across a broad range of life science research and medical device products resulting in growth on a global basis. Mr. Duchemin earned an M.B.A. from Southern New Hampshire University and a B.S. in accounting from the University of Massachusetts Dartmouth.
+Robert E. Gagnon was appointed Chief Financial Officer on November 1, 2013. Prior to joining the company he was recently Executive Vice President, Chief Financial Officer and Treasurer at Clean Harbors, Inc. (NYSE:CLH), a leading provider of environmental, energy and industrial services throughout North America. Prior to this, he served in progressive executive positions at Biogen Idec, Inc., a Fortune 500 company developing treatments in the areas of immunology and neurology. Earlier, he worked in a variety of senior positions at Deloitte & Touche, LLP, and PricewaterhouseCoopers, LLP. Mr. Gagnon holds an M.B.A. from the MIT Sloan School of Management and a B.A. in accounting from Bentley College.
+Yong Sun assumed the role of Vice President, Commercial Operations on October 28, 2015. Previously Mr. Sun held the position of Vice President, Strategic Marketing and Business Development and Vice President, R&D since October 28, 2013 and March 10, 2014, respectively. Prior to joining Harvard Bioscience, he served as Vice President of Global Marketing and Americas Sales at Beaver-Visitec International, a company combining former ophthalmic business units from BD and Medtronic; in this role he led global marketing to develop and implement strategic marketing plans in target surgical markets. Prior to this, he served in progressive positions at BD, including Director of Global Marketing & United States Sales. Earlier, he served as Marketing Manager, Global Life Sciences Market & Greater China Region at Eli Lilly & Company’s eLilly Unit (now InnoCentive, Inc.). Mr. Sun, holds an M.B.A. from the MIT Sloan School of Management, a M.S. in environmental science & engineering from Northeastern University and a B.S. in biochemistry from Peking University.
+Available Information and Website 
+ 
+Our website address is www.harvardbioscience.com. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and exhibits and amendments to those reports filed or furnished with the Securities and Exchange Commission pursuant to Section 13(a) of the Exchange Act are available for review on our website and the Securities and Exchange Commission’s website at www.sec.gov. Any such materials that we file with, or furnish to, the SEC in the future will be available on our website as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC. The information on our website is not incorporated by reference into this Annual Report on Form 10-K.

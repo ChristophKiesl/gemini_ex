@@ -1,0 +1,216 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1 - BUSINESS
+ 
+This Annual Report on Form 10-K (including the section regarding Management’s Discussion and Analysis of Financial Condition and Results of Operations) contains forward-looking statements regarding our business, financial condition, results of operations and prospects. Words such as “expects,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “estimates” and similar expressions or variations of such words are intended to identify forward-looking statements, but are not deemed to represent an all-inclusive means of identifying forward-looking statements as denoted in this Annual Report on Form 10-K. Additionally, statements concerning future matters are forward-looking statements.
+ 
+Although forward-looking statements in this Annual Report on Form 10-K reflect the good faith judgment of our Management, such statements can only be based on facts and factors currently known by us. Consequently, forward-looking statements are inherently subject to risks and uncertainties and actual results and outcomes may differ materially from the results and outcomes discussed in or anticipated by the forward-looking statements. Factors that could cause or contribute to such differences in results and outcomes include, without limitation, those specifically addressed under the heading “Risks Factors” below, as well as those discussed elsewhere in this Annual Report on Form 10-K. Readers are urged not to place undue reliance on these forward-looking statements, which speak only as of the date of this Annual Report on Form 10-K. We file reports with the Securities and Exchange Commission (“SEC”). You can read and copy any materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You can obtain additional information about the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. In addition, the SEC maintains an Internet site (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including us.
+ 
+We undertake no obligation to revise or update any forward-looking statements in order to reflect any event or circumstance that may arise after the date of this Annual Report on Form 10-K. Readers are urged to carefully review and consider the various disclosures made throughout the entirety of this annual Report, which attempt to advise interested parties of the risks and factors that may affect our business, financial condition, results of operations and prospects.
+ 
+Overview
+ 
+The Company was formed in August 2015 to expand upon the successful implementation of a solar hydrogen energy system used to completely power a residence or commercial property with clean energy so that it can run independent of the utility grid and also provide energy to the utility grid for monetary credits. This unique system uses renewal energy as its source for hydrogen production. We believe that it is a revolutionary green-energy concept that is safe, renewable, self-sustaining and cost effective. The hydrogen house concept began as a non-profit organization, The Hydrogen House Project, which was founded by Michael Strizki, our Chief Technology Officer. The organization successfully completed four hydrogen house projects, and we are now making the technology available to the general public.
+Market Potential
+ 
+According to the International Energy Agency, renewable energy will represent the largest single source of electricity growth over the next five years. During that time, the share of renewable energy in global power generation will rise to over 26% by 2020 from 22% in 2013. By 2020, the amount of global electricity generation coming from renewable energy will be higher than today’s combined electricity demand of China, India and Brazil. This rapid growth in the use of renewable energy is led by continued expansion in renewable energy technology, the need to lessen dependency on fossil fuel energy, grid-based vulnerabilities and the battle against global warming. According to the U.S. Energy Information Administration, renewable sources of energy accounted for about 10% of total U.S. energy consumption and 13% of electricity generation in 2014. In 2014, approximately $34 billion was spent on renewable energy production in the U.S. alone.
+ 
+As we are one of the first providers of a hydrogen energy system for residential housing, we are creating this new market within the renewable energy sector. As a result, there is no expectation or basis for any projections of the future of this market. Since the market did not exist previously, there can only be growth, not a decline, and we are, through the use of these statistics, showing that there is a significant market opportunity for hydrogen energy in the renewable energy sector. While the statistics show that there is expected to be a significant growth in renewable energy market, we cannot provide any assurances as to how much, if any, of this market, we will be able to capture.
+ 
+Technology Overview
+ 
+There are great benefits to hydrogen energy. The use of hydrogen as a fuel produces no carbon dioxide or other greenhouse gases. Unlike fossil fuels, the only emissions from hydrogen fuel are chemically pure water and oxygen. Hydrogen can be extracted from water using renewable energy from the sun and unlike batteries, hydrogen energy can be stored indefinitely. There is no drilling, fracking or mining required to produce hydrogen energy. We believe it is safe and efficient, and the cleanest energy source on the planet.
+
+3
+-
+
+
+In the past, there have been significant obstacles to commercializing hydrogen energy. The most significant being the need to reduce the cost of the production of hydrogen. No matter how productive an energy source may be, it will not be widely adopted if it is prohibitively expensive. As shown in the chart below, the cost of technology required to convert hydrogen gas to electricity has come down significantly over the last 10 years. As technology advances, the cost will continue to decline, making hydrogen energy more affordable.
+ 
+
+Decline in Cost of Technology for a Standard System between 2006 and 2016 
+-----------------------------------------------------------------------------
+Component | | Cost in 2006 | | Cost in 2016 | | Cost Savings 
+Hydrogen Generator | $ | 25,000 | $ | 9,000 | $ | 16,000 
+Fuel Cell | $ | 22,000 | $ | 7,000 | $ | 15,000 
+Solar Panels (40 275 watt panels) | $ | 44,000 ($4.00 per watt) | $ | 7,700 ($0.70 per watt) | $ | 36,300 
+TOTAL: | $ | 91,000 | $ | 23,700 | $ | 67,300 
+
+ 
+In addition to the cost, another challenge involves obtaining zoning and permits to install the system. Each local and state municipality needs to approve the installation. There are no special licenses or permits that are required for a client to store hydrogen on their property. The only permits that are required in connection with a hydrogen energy system are the basic building permits that are required by each town/city/municipality or county in connection with home improvement projects. In connection with the permitting process, we must adhere to safety guidelines involving the safe installation of hydrogen, which are the (i) Occupational Safety and Health Administration’s standards for the storage or delivery of hydrogen gas, and (ii) National Renewable Energy Laboratory’s stationary and portable fuel cells systems codes and standards. We have obtained all zoning and licensing permits for its prior installations, and we believe that such existing documentation will be used for future approvals.
+ 
+As well, for many people, hydrogen is a new form of energy that needs to be explained and documented, so we need to educate potential customers and overcome any resistance to adoption of new technology. There is also a misperception about hydrogen gas and its storage. There are no additional safety concerns when it comes to the storage of hydrogen gas, as it is similar to storing propane, another gas that is flammable but is in wide use and actively stored in tanks. As more installations are completed, we believe these challenges will become less restrictive.
+ 
+The HC-1 System
+ 
+We have succeeded in developing a hydrogen energy system designed to create electricity that is generated by renewable solar energy. We call the solar hydrogen energy system the HC-1. The HC-1 system functions as a self-sustaining renewable energy system. It can be configured as an off grid solution for all your electricity needs or it can be connected to the grid to generate energy credits. Its production of hydrogen is truly eco-friendly, as it is not produced by the use of fossil fuels. It is a system comprised of solar modules, inverters, batteries, a hydrogen generator, a fuel cell and a hydrogen storage tank.
+ 
+When there is solar power, the solar modules produce renewable energy that is collected through a solar inverter, which charges a bank of batteries through a battery inverter. After the batteries are fully charged, the excess electricity is then combined with water through a hydrogen generator that extracts the hydrogen from the water in a gasified state, which is safely transferred to the hydrogen tank and stored for later use. If the tank is full, excess electricity is sent from the batteries through the battery inverter to the utility grid, which results in energy credits for the system owner.
+ 
+The HC-1 system is connected to the residential or commercial property through the inverters. The electricity is always provided by the charged batteries. If there is no solar power to charge the batteries, the system keeps the batteries fully charged by using hydrogen stored in the tank, which processed through a fuel cell, creates the electricity. As the system is able to produce hydrogen, that keeps the hydrogen tank full, it provides a continuous supply of clean energy and sustainability that is independent from the grid.
+ 
+Each HC-1 system is custom designed to accommodate the electrical loads for an end user. The system is completely scalable. Typically, one HC-1 standard system configuration with a solar modules and a large tank for hydrogen storage can provide 40 kWh per day, which is the average amount of electricity utilized by homes in the U.S. If the customer is connected to the electric grid, energy production that is converted to hydrogen in excess of the amount stored in the hydrogen tank is transferred to the local electric company, creating energy credits.
+ 
+For an HC-1 system installation, the battery inverters and batteries are placed in the interior of the house or building. The hydrogen generator, fuel cell, electronics, pipes and tubing are kept in an outdoor enclosure near the house or building. The solar modules and solar inverters are outdoors and can be configured on the house or building or on land depending on available space. The hydrogen tank is typically underground but can be placed above ground, if necessary.
+ 
+
+4
+-
+
+
+Solar Modules and Racking | Solar Inverters | Battery Inverters 
+
+
+Batteries and Enclosure | HC-1 Outdoor Enclosure | Hydrogen Generator 
+
+
+Fuel Cell | Hydrogen Tank | Hydrogen Tank Connected 
+
+
+5
+-
+
+Standard System Configuration
+ 
+While the HC-1 system is completely scalable up or down, outlined below is the standard system configuration for a residential installation.
+ 
+Power Specifications:
+ 
+
+● | 12,000 watts of electric solar power 
+--+--------------------------------------------------
+● | 1,200 ampere hour (AH) 48v battery pack power 
+● | 1,100 watts of hydrogen fuel cell power 
+
+Component Specifications:
+ 
+
+● | (40) 320 watt solar modules and racking 
+--+-------------------------------------------------------
+● | (2) 6,000 watt solar inverters 
+● | (24) 400 AH 6v valve regulated lead acid batteries 
+● | (2) 6,000 watt off grid battery inverters 
+● | (1) battery combiner and enclosure 
+● | (1) 1,100 watt hydrogen fuel cell 
+● | (1) H2 To Go hydrogen generator 600/cc @ 250 psi 
+● | (1) communications controller, card and interface 
+● | (1) outdoor enclosure 
+● | (1) 1,000 gallon hydrogen storage tank 
+
+ 
+We do not manufacture any of the components of our HC-1 system. All components are purchased from various suppliers. We do not have any formal relationships with any suppliers as all of the components are readily available off-the-shelf from a number of various suppliers. As such, when we need to obtain components, we are able to source such components at that time and at the best available price.
+ 
+Each project is customized to meet the particular needs of the client. Various factors, including the size of the residence, the amount of electricity needed to be generated and the amount and intensity of solar availability, all impact the price charged on a project. We anticipate that the anticipated range of prices for a hydrogen energy system is expected to be between $35,000 and $200,000.
+ 
+Cost Savings
+ 
+We believe that the HC-1 system has the potential to generate an excellent return on investment over time. However, we acknowledge that the initial cost of adopting a hydrogen energy system today is a significant hurdle for potential customers, as the short-term costs of electricity produced by fossil fuels is significantly cheaper to a customer than from our system, as we anticipate it will take approximately eight and one-half years before a customer has an overall net gain from our system.
+ 
+For example, according to the Bureau of Labor and Statistics, the average cost in the New York/New Jersey area is 19.1 cents per kWh for the supply of electricity. An average customer in the State of New Jersey using 40 kWh per day spends approximately $300 per month on their electric bill, which includes the cost of the supply of electricity, the costs by the local utility company for the delivery of the electricity and taxes. It would cost the customer approximately $100,000 to buy our hydrogen energy system to provide that same amount of electricity. The owner received a 30% investment tax credit from the federal government for the installation of the renewable energy system. That tax credit results in a savings of $30,000, bringing the cost of the system down to $70,000.
+ 
+The $300 monthly average electricity bill is eliminated, resulting in annual savings of $3,600, as the system produces all the electricity needed and also generates excess electricity that the system will generate about 18 SRECs per year. Those 18 SRECs are sold for approximately $4,500. As a result, the $70,000 HC-1 system will be repaid to the user in approximately 8.6 years, as the user is achieving annual savings of $8,100. Our calculation of cost savings assumes that the customer has purchased the system outright and not financed the purchase and does not include any maintenance costs that may be required in connection with the system. Further benefits include having a clean renewable energy source that protects our environment, lessening dependence on the aging grid and allowing for a backup power generation system if the grid malfunctions from a natural disaster or cyber-attack.
+ 
+To date, there have been minimal maintenance costs for the hydrogen electric systems built, averaging less than $300 per year. In addition, there is a minimal amount of water required, no more than five gallons annually to keep the standard system replenished. The estimated life span of the system has not yet been determined at this time, as it is a relatively new application of the technology, but the first system was installed over 10 years ago and continues to properly operate.
+ 
+
+6
+-
+
+
+The calculation of the number of SRECs generated each year is based upon historical results from the hydrogen electric system built to date. However, we have a very limited sample size, which may not be meaningful or accurate for all potential customers. As we are in our early stage of development with our systems, the potential cost savings may not be proven and we cannot provide any assurances to potential customers that they will achieve cost savings in the future, if at all. In addition, our calculations assume that the price of electricity remains relatively stable. If the price of electricity decreases, then it will take longer for a user to see savings from our system, and if the price of electricity increases, then a user should see savings in a shorter than anticipated timeframe.
+ 
+Consulting and Installation Services
+ 
+We will manage all projects directly and will be involved in all aspects of energy infrastructure build-out utilizing existing staff and subcontractors. We provide customers with an initial consultation free of charge, whereby we will review the customer’s location and utility bills to understand their historical energy consumption. We will then generate a proposal outline, indicating what type of system they will need, and what potential tax credits and energy credits they will be entitled to with our HC-1 system.
+ 
+If the customer wishes to proceed, we are paid $5,000 to conduct a feasibility study, which involves:
+ 
+
+● | Determining what government authorizations are required to proceed; 
+--+-------------------------------------------------------------------------
+● | Determining what zoning regulations apply to the project site; 
+● | Designing site plans and determining what site permits are required; 
+● | Conducting an energy audit; 
+● | Providing the preliminary system design and drawings; and 
+● | Drafting of the project contract. 
+
+ 
+Upon execution of the final contract, and payment of the initial fee, we initiate the system installation, which involves.
+ 
+
+● | Assignment of the project manager; 
+--+------------------------------------------------------------------------------------------------------
+● | Completed photovoltaic design with signed and sealed drawings; 
+● | Completed electrical distribution and interconnection design with signed and sealed drawings; 
+● | Execution and filing of all local construction permits and fees on behalf of the system end user; 
+● | Completed public utility interconnection applications; 
+● | Submission of all construction liability and professional liability insurance forms; 
+● | Confirmation of safety compliance; 
+● | Site preparation for implementation; 
+● | System installation, completion of all cabling, system start-up, testing and commissioning; 
+● | Site restoration; and 
+● | Preparation of closeout documents with as-built drawings and photos. 
+
+ 
+All project work is performed to specifications that meet local utility requirements as well as domestic and international building codes. Once the system is operational, we remotely receive data to monitor its performance and energy efficiency to confirm the system is functioning as expected. We will also provide any additional maintenance required at standard labor rates. We provide a standard one year warranty on our workmanship. Each of the components has a manufacturer’s warranty that is at least one year in duration. If components need to be replaced after the one year workmanship warranty, we will secure replacement components, under warranty if possible, and we will install at our standard labor rates.
+ 
+Growth Strategy
+ 
+Currently, our employees are licensed to install our HC-1 systems in the State of New Jersey. We intend to aggressively grow our business, both organically and through strategic acquisitions. We intend to acquire companies with licensed contractors in various states and regions, which will allow us to expand the territories in which we can build our systems. These acquired companies will also provide us with a consistent revenue stream, a customer base for marketing our HC-1 systems and technicians.
+Pride Subsidiary
+ 
+On January 31, 2017, we entered into a share exchange agreement (the “Exchange Agreement”) with The Pride Group (QLD) Pty Ltd., an Australian corporation (“Pride”), Turquino Equity LLC (“Turquino”) and Stephen Paul Mullane and Marie Louise Mullane as Trustees of the Mullane Family Trust (together with Turquino, the “Pride Shareholders”). Pursuant to the Exchange Agreement, we acquired all of the issued and outstanding capital stock of Pride from the Pride Shareholders in exchange for an aggregate of 3,800,000 shares of our common stock. Andrew Hidalgo and Matthew Hidalgo, our Chief Executive Officer and Chief Financial Officer, respectively, are each a managing partner of Turquino.
+
+7
+-
+
+
+Pride sells, designs, installs and maintains a variety of technology products in the security systems market, including commercial alarm systems, access control, video surveillance, CCTV (closed circuit television)/MATV (master antenna television) systems, biometric technology, audio/visual systems, nurse call systems and public announcement systems. Pride also provides programs for annual maintenance of its products and systems. The division generates approximately half of its revenue from government contracts and the other half from the commercial sector. Pride has recurring annual maintenance revenue of close to AUD $2 million. Pride is a certified security systems integrator for the Queensland Government and has various government contracts in place for installation, maintenance and project services. Pride also works with a number of general contractors as a subcontractor for security systems integration.
+ 
+Pride Energy Systems is Pride’s clean energy division, which sells, designs, installs and maintains a variety of technology services in the clean energy market, including audits of energy consumption, review of energy and tax credits available, feasibility studies, solar/battery energy system design, zoning and permitting analysis, site design/preparation and restoration, system startup, testing and commissioning and maintenance. The division has just begun to bid for clean energy systems and is focused on the residential, commercial and government sectors. The division is able to utilize the many contacts established in the security systems division.
+ 
+Australia presents a significant opportunity for us. According to The Clean Energy Australia Report of 2015, renewable energy provided 14.6 % of Australia’s electricity in 2015, enough to provide power for the equivalent of approximately 6.7 million average homes. This was up from the 13.5 % of electricity from renewable energy the year before. The combination of Australia’s dry climate and latitude is an ideal environment for solar energy production. One in five residential households are turning to solar energy for their electricity needs. Since the Australian outback and outlying islands near Australia having minimal and costly access to the grid, our renewable energy systems are an attractive option.
+ 
+Completed Projects
+ 
+As previously mentioned, the hydrogen house concept began as a non-profit organization that completed four hydrogen house projects. Outlined below are descriptions of two of these installations.
+Strizki Property, Hopewell, NJ
+ 
+This was the first solar hydrogen energy system installed in North America. Completed in 2006, the installation is comprised of land-based and roof-based solar modules, 10 above ground tanks each holding 1,000 gallons of gasified hydrogen, six inverters, 48 6v batteries, a hydrogen generator and a fuel cell. At the time, the cost of this system was $185,000 due to the additional solar modules, storage tanks, inverters and batteries, which have all since, come down in price. This 2,800 square foot home can operate completely off the grid but is connected to the grid in order to generate energy credits. The home produces approximately $8,000 in SRECs per year.
+De Tiberge Property, Pennington, NJ
+ 
+This project was completed in 2015 and was comprised of land-based solar modules, one underground tank that holds 1,000 gallons of gasified hydrogen, four solar inverters, four battery inverters, 24 6v batteries, a hydrogen generator and a fuel cell. The sale price for the system was $185,000. The higher sales price reflects a larger solar module installation and multiple inverters. The system was purchased outright by the owner and included a 30% investment tax credit from the federal government. The dwelling is a 2,300 square foot home that had an average monthly electricity bill of $680. With the installation of the solar hydrogen energy system, the property generates approximately $9,000 in SRECs per year and saving approximately $8,000 per year as there is no electricity bill.
+Competition
+ 
+Given the increasing focus on renewable energy to offset the environmental problems caused by fossil fuels, the renewable energy industry is highly competitive, and rapidly evolving. Our major competitors include leading global companies, and other regional and local energy providers.
+ 
+In the markets where we plan to conduct business, we will compete with many energy producers including electric utilities and large independent power producers. There is also competition from fossil fuel sources such as natural gas and coal, and other renewable energy sources such as solar and wind. The competition depends on the resources available within the specific markets. However, we believe that our unique system allows us to compete favorably with traditional utilities and other renewable energy systems in the regions we service.
+ 
+
+8
+-
+
+
+Although the cost to produce clean, reliable, renewable energy is becoming more competitive with traditional fossil fuel sources, it generally remains more expensive to produce, and the reliability of its supply is less consistent than traditional fossil fuel. Deregulation and consumer preference are becoming important factors in increasing the development of renewable energy projects.
+ 
+However, as a newly formed company, substantially all of our competitors have advantages over us in terms of greater operational, financial, technical, management or other resources in particular markets or in general. While hydrogen energy has certain advantages when compared to other power generating technologies, it is one of the newer and less established methods of renewable energy and therefore currently has less market acceptance.
+ 
+Governmental Regulation
+ 
+We are subject to laws and regulations affecting our operations in a number of areas. These U.S. and foreign laws and regulations affect the Company’s activities which include, but are not limited to, the areas of zoning, permitting, labor, advertising, consumer protection, real estate, billing, quality of services, intellectual property and ownership and infringement, tax, import and export requirements, anti-corruption, foreign exchange controls and cash repatriation restrictions, data privacy requirements, anti-competition, environmental, and health and safety. In the U.S., our operations are subject to stringent and complex federal, state and local laws and regulations governing the occupational health and safety of our employees and wage regulations. For example, we are subject to the requirements of the federal Occupational Safety and Health Act, as amended, or OSHA, and comparable state laws that protect and regulate employee health and safety. We expend resources to maintain compliance with OSHA requirements and industry best practices.
+Regulatory Matters
+ 
+If a customer wishes to connect our system to the electrical grid in order to generate renewable energy credits, the customer needs to obtain interconnection agreements from the applicable local primary electricity utility. Prior to an installation of the HC-1 system, on behalf of the customer, we will submit an interconnection application with the local public utility company to become a certified renewable energy generator. Approval of the application is based on a balance of historical consumption and the amount of renewable energy to be produced. In almost all cases, interconnection agreements are standard form agreements that have been pre-approved by the local public utility commission or other regulatory body with jurisdiction over interconnection. As such, no additional regulatory approvals are required once interconnection agreements are signed. In our experience, there has not been any cost involved in obtaining an interconnection agreement, but as the requirements are determined on a local basis, it may be possible that some nominal costs are involved in connection with the process.
+Government Incentives
+ 
+We intend to focus on states or countries whose government supports a regulatory standard requiring its utility companies to increase their production of energy from renewable energy sources. These governments have established various incentives and financial mechanisms to accelerate and promote the use of renewable energy sources. Currently, many states comply with regulatory standards including New Jersey, Massachusetts, Pennsylvania, Maryland, Ohio, Delaware, North Carolina, Virginia, Kentucky, West Virginia, Michigan, Indiana, Illinois as well as the District of Columbia. In addition, countries such as the United Kingdom, Australia, Italy, Poland, Sweden, Belgium and Chile have adopted regulatory standards. The list is expanding each year.
+ 
+If the customer obtains an interconnection agreement from the applicable local primary electricity utility, once the HC-1 system is operational, the HC-1 system end user can eliminate their electric bill and, if in a permissible state, can begin generating SRECs. In certain states, an end user receives one SREC for each 1,000 kWh produced through renewal energy. The customer sells these SRECs to a broker who in turn sells the credits to a utility company so that the utility company can demonstrate their compliance with the regulatory obligations to reduce greenhouse gas emissions. The price per SREC can vary depending on supply and demand, but on average, SRECs sells for $250. Many other states, which may not offer an SREC program, as well as the Federal government, do offer other cash and tax incentives for renewable energy systems.
+ 
+Employees
+ 
+As of March 22, 2017, we had 45 full time employees, of which 40 work for Pride. We plan to hire employees on an as-needed basis. None of our employees are represented by a labor union, and we believe that our relations with our employees are good.
+
+9
+-
+

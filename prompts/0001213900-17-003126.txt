@@ -1,0 +1,25 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+General
+ 
+iSign Solutions Inc., f/k/a Communication Intelligence Corporation (the “Company” or “iSign”), was incorporated in Delaware in October 1986. iSign is a leading supplier of digital transaction management (DTM) software enabling the paperless, secure and cost-effective management and authentication of document-based transactions. iSign’s solutions encompass a wide array of functionality and services, including electronic signatures, simple-to-complex workflow management and various options for biometric authentication. These solutions are available across virtually all enterprise, desktop and mobile environments as a seamlessly integrated platform for both ad-hoc and fully automated transactions. iSign’s platform can be deployed both on premise and as a cloud-based (“SaaS”) service, with the ability to easily transition between deployment models. The Company is headquartered in Redwood Shores, California.
+ 
+For the year ended December 31, 2016, total revenue was $1,065, a decrease of $555, or 34%, compared to total revenue of $1,620 in the prior year. For the year ended December 31, 2016, software product revenue was $325, a decrease of $413, or 56%, compared to product revenue of $738 in the prior year. Maintenance revenue for the year ended December 31, 2016, was $740, a decrease of $142, or 16%, compared to maintenance revenue of $882 in the prior year. The decreases are primarily attributable to the Company’s efforts to restructure its operations in favor of partner-generated recurring revenue.
+ 
+For the year ended December 31, 2016, the net loss attributable to common stockholders was $5,057, a decrease of $2,562, or 34%, compared to $7,619 in the prior year. For the year ended December 31, 2016, non-cash charges attributable to interest expense, financing and loan discount amortization and the accretion of the beneficial conversion feature were $797, an increase of $176, or 28%, compared to $621 in the prior year. There was a gain of $330 on the derivative liability value for the year ended December 31, 2016, compared to a gain of $18 in the prior year. For the year ended December 31, 2016, operating expenses were $4,274, a decrease of $1,171, or 22%, compared to operating expenses of $5,445 for the prior year. The decrease in operating expense resulted from reduction in full time employees associated with the Company’s efforts to restructure its operations in favor of partner-generated recurring revenue.
+ 
+Core Technologies
+ 
+The Company's core technologies can be referred to as "transaction-enabling” and “business process work flow” technologies. These technologies include various forms of electronic signature methods, such as handwritten, biometric, click-to-sign and others, as well as technologies related to signature verification, authentication, cryptography and the logging of audit trails to prove signers’ intent. These technologies enable the appending of secure, legal and regulatory compliant electronic signatures coupled with an enhanced user experience, all at a fraction of the time and cost required by traditional, paper-based processes for signature capture.
+Products
+ 
+The Company’s enterprise-class SignatureOne® and iSign® suite of electronic signature solutions enable businesses to implement truly paperless, electronic signature-driven business processes. The aggregate of the software functionality enabling the digitization of end-to-end work flow processes is sometimes referred to as “digital transaction management” (DTM). Many applications provide electronic forms and allow users to fill-in information, but most of these applications still require users to print out a paper copy for a handwritten, ink signature. Solutions powered by iSign products allow legally binding electronic signatures to be added to digital documents, eliminating the need for paper to memorialize the completion, approval or authentication of the transaction. This allows users to reduce transaction times and processing costs.
+
+1
+-
+
+ 
+
+The SignatureOne® and iSign® suite of products includes the following:
+ 

@@ -1,0 +1,1031 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+We are leaders in discovering and developing RNA-targeted therapeutics. We have created an efficient and broadly applicable drug discovery platform. Using this platform, we have developed a large, diverse and advanced pipeline of potentially first-in-class and/or best-in-class drugs that we believe can provide high value for patients with significant unmet medical needs. In this way, we believe we are fundamentally changing medicine with the goal to transform the lives of those suffering from severe, often life-threatening, diseases. The recent U.S. approval of SPINRAZA for pediatric and adult patients with spinal muscular atrophy, or SMA, highlights our progress toward this goal. Our pipeline also contains two near-term potentially transformative medicines for two different severe and rare diseases, each with significant commercial potential. We plan to report data from our Phase 3 study of volanesorsen in patients with familial chylomicronemia, or FCS in the first quarter of 2017. We also plan to report data from our Phase 3 study of IONIS-TTRRx in patients with familial amyloid polyneuropathy, or FAP, in the second quarter of 2017.
+ 
+With FDA approval in December 2016, SPINRAZA™ (nusinersen) injection became the first and only approved drug  to treat pediatric and adult patients with SMA. SMA is a leading genetic cause of death in infants and toddlers that is marked by progressive, debilitating muscle weakness.  We and Biogen conducted a broad, innovative clinical development program that moved SPINRAZA from its first dose in humans in 2011 to its first regulatory approval five years later. We conducted two sham-controlled Phase 3 studies, one in babies with infantile-onset SMA called ENDEAR and one in children with later-onset SMA called CHERISH. Both of these studies achieved statistically significant improvements in their primary endpoints and the drug demonstrated a favorable safety profile. Biogen has filed for marketing authorization in the EU, Japan, Australia and Canada, and plans to file in other countries this year. The European Medicines Agency, or EMA, is reviewing the SPINRAZA marketing application under accelerated assessment. Biogen estimates that there are approximately 20,000 patients with SMA in the U.S., EU and Japan, with a large percentage in the United States.
+ 
+Akcea Therapeutics, Inc. is our wholly owned subsidiary focused on developing and commercializing volanesorsen and three other clinical-stage drugs for serious cardiometabolic diseases caused by lipid disorders, AKCEA-APO(a)-LRx, AKCEA- AKCEA-APOCIII-LRx and ANGPTL3-LRx. Each of these four drugs could potentially treat multiple patient populations. Moving these drugs into a company that we own allows us to retain substantial value from them and ensures Ionis’ core focus remains on innovation. Akcea is assembling the global infrastructure to continue developing the drugs in its pipeline, to commercialize them with a focus on lipid specialists as the primary call point and to provide the specialized patient and physician support required to address rare disease patient populations.
+ 
+We and Akcea are developing volanesorsen to treat two severe and rare, genetically defined diseases, FCS and familial partial lipodystrophy, or FPL. FCS and FPL are orphan diseases characterized by severely high triglyceride levels that result in severe, daily symptoms and a high risk of life-threatening pancreatitis. Volanesorsen acts to reduce triglyceride levels by inhibiting the production of ApoC-III, a protein that is a key regulator of triglyceride clearance. The clinical development program for volanesorsen consists of three Phase 3 studies called APPROACH, BROADEN and COMPASS. The APPROACH study is in patients with FCS. It is fully enrolled and we plan to report data from it in the first quarter of 2017. We plan to file for marketing authorization in the U.S., Europe and Canada in 2017 if the data are positive. The BROADEN study is in patients with FPL. The study is currently enrolling patients and we plan to have data from this study in 2019. We also recently completed the COMPASS study in patients with triglycerides above 500 mg/dL to expand the exposure database for volanesorsen to support global regulatory filings. In December 2016, we reported that the COMPASS study met its primary endpoint of a statistically significant 71% mean reduction in triglycerides in volanesorsen-treated patients. In a small subset of patients with FCS, volanesorsen-treated patients achieved a mean reduction in triglycerides of 73% from baseline. Safety in this study was supportive of continuing development. We estimate that FCS and FPL each affect 3,000 to 5,000 patients globally. If approved, we plan to commercialize volanesorsen for both FCS and FPL through Akcea.
+ 
+IONIS-TTRRx is potentially a first-in-class and best-in-class drug for the treatment of all forms of transthyretin, or TTR, amyloidosis, a debilitating, progressive, fatal disease in which patients experience a progressive buildup of amyloid plaque deposits in tissues throughout the body, including peripheral nerves, heart, intestinal tract, kidney and bladder. IONIS-TTRRx is given as one subcutaneous injection, once a week. We are evaluating IONIS-TTRRx in an ongoing Phase 3 study, NEURO-TTR, in patients with FAP. More than half of these patients also have TTR amyloid cardiomyopathy. As part of our Phase 3 study, we are evaluating cardiomyopathy in this subset of patients by cardiac imaging and biomarkers which will provide data on cardiovascular endpoints. Together the polyneuropathy and cardiomyopathy forms of TTR amyloidosis represent a large commercial opportunity for IONIS-TTRRx. We plan to have data from the NEURO-TTR study in the second quarter of 2017. We and GSK, our partner for IONIS-TTRRx, are preparing to file for marketing authorization if these data are positive. In our open-label extension study, we have observed substantial TTR reductions in patients with FAP. In a Phase 2 open-label, investigator-initiated study, Dr. Merrill Benson, professor of pathology and lab medicine and molecular genetics at Indiana University School of Medicine, observed sustained reductions in TTR and evidence of disease stabilization in patients with the cardiomyopathy form of TTR amyloidosis. GSK is preparing to commercialize IONIS-TTRRx.
+  3
+ 
+
+In addition to our Phase 3 programs, we have a pipeline of drugs with the potential to be first-in-class and/or best-in-class drugs to treat patients with diseases that have inadequate treatment options. We are addressing a broad spectrum of diseases from common diseases affecting millions, such as cardiovascular disease, clotting disorders, Alzheimer’s and Parkinson’s disease, to rare diseases, such as amyotrophic lateral sclerosis and Huntington’s disease. Our pipeline has over a dozen drugs in Phase 2 development, many of which we believe have the potential to be significant commercial opportunities. In particular, IONIS-FXIRx and AKCEA-APO(a)-LRx represent the value we have created. IONIS-FXIRx is the first antithrombotic in development that has shown it can decrease the risk of blood vessel obstruction caused by a blood clot without increasing bleeding risk. Given the unique profile of IONIS-FXIRx, we believe that IONIS-FXIRx has the potential to be an important therapy for the many patients who need an antithrombotic but cannot take currently available therapies due to the high risk of bleeding. AKCEA-APO(a)-LRx is the first and only drug in clinical development designed to selectively and robustly lower Lp(a), a key driver of cardiovascular disease. We believe that addressing Lp(a) is the next important horizon in lipid-focused cardiovascular disease treatment.
+ 
+The depth of our knowledge and expertise with antisense technology, together with our strong financial position, provides us the flexibility to determine the optimal development and commercialization strategy to maximize the near- and longer-term value of our drugs. We have distinct partnering strategies that we employ based on the specific drug, therapeutic area and expertise and resources our potential partners may bring to the collaboration. For some drugs, we may choose to develop and commercialize them through wholly owned subsidiaries like Akcea.  In general, these are drugs, such as volanesorsen, that we have the internal expertise to advance, that have a clear development path with manageable costs and that have the potential for initial rare disease indications. For other drugs, we may form partnerships that enable us to leverage our partner’s global expertise and resources needed to support large commercial opportunities, as we did with Bayer and Novartis.
+ 
+We have established alliances with a cadre of leading global pharmaceutical companies that are working alongside us in developing our drugs, advancing our technology and preparing to commercialize our products. Our partners bring substantial resources and expertise that augment and build upon our internal capabilities. We have strategic partnerships with Biogen and AstraZeneca through which we can broadly expand our drug discovery efforts to new disease targets in specific therapeutic areas for which our partners can provide expertise, tools and resources to complement our drug discovery efforts. We also have partnerships with Bayer, GSK, Janssen, Novartis and Roche. Each of these companies brings significant expertise and global resources to develop and potentially commercialize the drugs under each partnership. Most recently, in January 2017, we and Akcea initiated a collaboration with Novartis to develop and commercialize AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx. As a leader in the cardiovascular disease space, Novartis brings significant resources and expertise that should support the development and commercialization of these two drugs for significant high-risk patient populations. The collaboration with Novartis should enable us to accelerate the development of these drugs for broader patient populations as Novartis plans to conduct a cardiovascular outcomes study for each of these drugs. In addition, Akcea has the right to co-commercialize these drugs using its specialized sales force focused on lipid specialists in select markets. We also form early stage research and development partnerships that allow us to expand the application of our technology to new therapeutic areas. For example, we established a collaboration with Janssen, which brings together our RNA-targeted technology platform and Janssen’s expertise in autoimmune disorders and therapeutic formulation to discover and develop antisense drugs to treat autoimmune disorders in the gastrointestinal, or GI, tract. Lastly, we also work with a consortium of companies that can exploit our drugs and technologies outside our primary areas of focus. We refer to these companies as satellite companies.
+ 
+Through our partnerships, we have created a broad and sustaining base of potential research and development, or R&D, revenue in the form of license fees, upfront payments and milestone payments while spending prudently to advance our pipeline and technology. Our R&D revenue has consistently grown year over year since 2011. In 2016, we earned more than $345 million in R&D revenue. Moreover, we have the potential to earn nearly $13 billion in future milestone payments and licensing fees from our current partnerships. We also have the potential to share in the future commercial success of our inventions and drugs resulting from our partnerships through earn out or royalty arrangements. With the approval of SPINRAZA in the U.S., we are adding commercial revenue from SPINRAZA royalties to our existing R&D revenue base. Looking forward, we have the potential to increase our commercial revenue from SPINRAZA royalties if Biogen achieves marking authorization in additional countries. We also have the potential to further increase our commercial revenue with volanesorsen product sales and IONIS-TTRRx royalties. We believe we have the key elements in place to achieve sustained long-term financial growth, including multiple drivers of revenue; a mature, broad and rapidly-advancing clinical pipeline; a partnership strategy that leverages our partner resources; and an innovative drug technology that we continue to deploy across a range of therapeutic areas to address both rare and large patient populations.
+ 
+2016 and Recent SPINRAZA Accomplishments
+  
+● | We and Biogen achieved FDA approval of SPINRAZA in three months under Priority Review for the treatment of SMA in pediatric and adult patients.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Biogen filed for marketing authorization in the EU and was granted Accelerated Assessment.
+--+-------------------------------------------------------------------------------------------
+
+
+● | Biogen filed for marketing authorization in Canada, Japan, and Australia.
+--+--------------------------------------------------------------------------
+
+
+● | Biogen reported positive data from an end of study analysis of the ENDEAR Phase 3 study in patients with infantile-onset (consistent with type 1) SMA at the British Pediatric Neurology Association annual conference. We previously reported data from an interim analysis of ENDEAR, which along with several other studies, formed the basis for the marketing application for SPINRAZA in the U.S.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We and Biogen reported positive data from an interim analysis of the Phase 3 CHERISH study in patients with later-onset (consistent with Type 2) SMA.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We and Biogen presented new positive clinical data with SPINRAZA at the World Muscle Society Congress supporting the companies' efforts to rapidly make SPINRAZA available to patients with SMA, including:
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Safety results from the interim analysis of the Phase 3 ENDEAR study in patients with infantile-onset (consistent with Type 1) SMA;
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Encouraging preliminary results from NURTURE, a Phase 2 open-label study in pre-symptomatic infants; and
+--+---------------------------------------------------------------------------------------------------------
+
+
+o | A recent analysis of the ongoing Phase 2 open-label study in patients with later-onset SMA.
+--+--------------------------------------------------------------------------------------------
+
+
+● | We and Biogen reported positive data from an interim analysis of the ENDEAR Phase 3 study in patients with infantile-onset (consistent with Type 1) SMA. Biogen paid us $75 million to license the drug.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 4
+ 
+
+Corporate Highlights
+  
+● | We earned more than $200 million from Biogen in 2016, including payments related to SPINRAZA.
+--+----------------------------------------------------------------------------------------------
+
+
+● | We and Akcea formed a strategic collaboration with Novartis to develop and co-commercialize AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx for the treatment of lipid disorders, for which Ionis and Akcea are eligible to receive $225 million in near-term payments, including $100 million we have received and $75 million we expect to receive in the first quarter of 2017. The transaction has a potential value of up to over $1 billion.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We earned $75 million from Bayer to advance both IONIS-FXIRx and its LICA follow on, IONIS-FXI-LRx.
+--+----------------------------------------------------------------------------------------------------
+
+
+● | We sold the global rights to develop and commercialize Kynamro to Kastle Therapeutics and earned a $15 million upfront payment.
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We and MD Anderson Cancer Center formed a strategic alliance to advance novel cancer therapies.
+--+------------------------------------------------------------------------------------------------
+
+
+● | We added to our pipeline our first oral locally acting drug for gastrointestinal autoimmune diseases for which Ionis earned a $10 million license fee from Janssen.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We advanced IONIS-KRAS-2.5Rx into development and earned $28 million from AstraZeneca.
+--+---------------------------------------------------------------------------------------
+
+
+● | We advanced IONIS-AZ4-2.5-LRx, our first Generation 2.5 LICA drug, into development and earned $25 million from AstraZeneca.
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our CEO, Dr. Stanley Crooke, received two awards, the E. B. Hershberg Award from the American Chemical Society and the Lifetime Achievement Award from the Oligonucleotide Therapeutics Society, recognizing his achievements in the field of oligonucleotide therapeutics.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Drug Development and Technology Highlights
+  
+● | We continued to advance our pipeline of innovative first-in-class or best-in-class drugs, reported positive data from 11 clinical studies with six drugs. These data and clinical advancements represent the broad applicability of our technology to address unmet medical needs across multiple disease targets.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The FDA and EMA granted orphan drug designation to IONIS-HTTRx for the treatment of patients with Huntington's disease.
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | Akcea launched IN-FOCUS, a research study to assess the impact of FCS.
+--+-----------------------------------------------------------------------
+
+
+● | Akcea published positive clinical data from a Phase 2 study of volanesorsen in patients with high plasma triglyceride levels and type 2 diabetes in Diabetes Care.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We published a paper in Nature Biotechnology on the novel mechanism of action for antisense drugs that significantly expands therapeutic opportunities for the technology.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | We published a paper in Nucleic Acid Therapeutics on the analysis of its Integrated Safety Database, which demonstrated no class generic effect of 2’-O-methoxyethyl (2’MOE)-modified antisense oligonucleotides (ASOs) on platelet numbers and function.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Drug Discovery and Development
+ 
+Introduction to Drug Discovery
+ 
+Proteins are essential working molecules in a cell. Almost all human diseases result from inappropriate protein production, improper protein activity or loss of a protein. Scientists use traditional drug discovery methods to design drugs to interact with the proteins in the body that are supporting or causing a disease. Antisense drugs are different from traditional small molecule drugs because antisense drugs can modify the production of proteins by targeting RNAs. In this way, antisense drugs can reduce the production of a disease-causing protein or increase the production of a protein that, when absent, causes disease. Antisense drugs also can treat disease by targeting and reducing RNAs that may be causing disease. RNAs are naturally occurring molecules in the body that primarily provide the information the cell needs to produce proteins. When our antisense drugs bind to the specific RNAs of a particular gene, they will ultimately alter the production of the protein encoded in the target gene or, in the case of disease-causing RNAs, degrade the RNA.
+Our Development Projects
+ 
+We are the leader in the discovery and development of an exciting class of RNA-targeted drugs called antisense drugs. With our proprietary drug discovery platform, we can rapidly identify drugs from a wealth of potential targets to treat a broad range of diseases. We focus our efforts in therapeutic areas where our drugs will work best, efficiently screening many targets in parallel and carefully selecting the best drugs. By combining this efficiency with our rational approach to selecting disease targets, we have built a large and diverse portfolio of drugs we designed to treat a variety of health conditions, with an emphasis on severe and rare diseases, including neurodegenerative diseases, cardiovascular, metabolic diseases, and cancer. We are developing antisense drugs for systemic, intrathecal and local delivery. We expect to continue to add new drugs to our pipeline, building a broad proprietary portfolio of drugs to treat many diseases and creating opportunities to generate substantial revenue. We also continue to improve our scientific understanding of our drugs, including how our drugs impact the biological processes of the diseases we target.
+ 
+With our expertise in discovering and characterizing novel antisense drugs, our scientists can optimize the properties of our antisense drugs for use with particular targets. Our scientists have made significant advances in chemistries. Our Generation 2.0+ antisense drugs have increased potency and an improved side effect profile over our earlier generation drugs. Our scientists have further improved upon our second-generation chemistry with our Generation 2.5 chemistry, an advancement that further increases the potency of our drugs and broadens the tissues in which our drugs can work. We currently have six Generation 2.5 drugs in development, and we expect that some of our future drugs will also incorporate our Generation 2.5 chemistry. In addition to improving the chemical foundation of our drugs, we have also created LIgand-Conjugated Antisense, or LICA, technology, which we
+  5
+ 
+
+designed to enhance the delivery of our drugs to particular tissues. We believe that our LICA technology could further enhance the potency of our drugs. For example, our LICA technology directed toward liver targets produced a ten-fold increase in potency in preclinical studies in both our Generation 2.0+ and our Generation 2.5 drugs. Our LICA technology conjugates specific chemical structures or molecules to antisense drugs and has shown to increase the efficiency of drug uptake in a particular tissue and increase drug potency from 20 to over 30 fold compared to non-conjugated antisense drugs. We currently have ten Generation 2.0+ LICA drugs in our pipeline, all of which we designed to inhibit targets in the liver. We also recently added IONIS-AZ4-2.5-LRx a drug that combines our Generation 2.5 and LICA technology, to our preclinical pipeline.
+ 
+We have utilized our chemistry advancements to expand the therapeutic and commercial opportunities of our pipeline. These advancements, along with the manufacturing and analytical processes that are the same for all of our drugs, shorten our timeline from initial concept to the first human dose when compared to small molecule drugs.
+ 
+
+The above table lists our pipeline, including the disease indications, our partner if the drug is partnered, and the development status of each drug. Typically, the names of our drugs incorporate the target of the drug, such as IONIS-TTRRx. In this case, TTR is the target of the drug. Unless indicated otherwise, the majority of the drugs in our pipeline are Generation 2.0+ antisense drugs. We differentiate drugs that Akcea is developing by starting the drug name with AKCEA, instead of IONIS, such as AKCEA-ANGPTL3-LRx. We differentiate our Generation 2.5 drugs by adding a 2.5 notation at the end of the drug name, such as IONIS-STAT3-2.5Rx. We differentiate our LICA drugs by adding an L at the end of the drug name, such as AKCEA-APO(a)-LRx. We also recently added IONIS-AZ4-2.5-LRx, a drug that combines our Generation 2.5 and LICA technology, to our preclinical pipeline. As the drugs in our pipeline advance in clinical development, we will adopt nonproprietary names given to each drug from the United States Adopted Names Council. For example, volanesorsen is a nonproprietary name that we obtained for ISIS-APOCIIIRx. Once we or our partners establish a brand name, we will adopt the brand name. For example, SPINRAZA is the brand name for nusinersen, which was formerly ISIS-SMNRx.
+ 
+With a pipeline as large and advanced as ours, we have a number of clinical events each year as we initiate new clinical studies, complete and report data from clinical studies and add new drugs to our pipeline. In 2017, we plan to initiate multiple clinical studies, report data on multiple drugs and add three to five new drugs into development.
+ 
+Our Newly Marketed Drug
+ 
+SPINRAZA – SPINRAZA is a Generation 2.0+ antisense drug and is the first and only approved treatment for SMA in pediatric and adult patients in the U.S.
+ 
+SMA is characterized by loss of motor neurons in the spinal cord and lower brain stem, resulting in severe and progressive muscular atrophy and weakness. Ultimately, individuals with the most severe type of SMA, infantile-onset SMA, can become paralyzed and have difficulty performing the basic functions of life, like breathing and swallowing. Due to a loss of, or defect in, the SMN1 gene, people with SMA do not produce enough survival motor neuron, or SMN, protein, which is critical for the maintenance of motor neurons. The severity of SMA correlates with the amount of SMN protein a patient can produce on his/her own. Patients with infantile-onset, consistent with Type 1, SMA, the most severe life-threatening form, produce very little SMN protein and do not achieve the ability to sit without support or live beyond two years without respiratory support. Patients with later-onset, consistent with Type 2 or Type 3 SMA, produce greater amounts of SMN protein and have less severe, but still life-altering, forms of SMA.
+  6
+ 
+
+SPINRAZA is administered via intrathecal injection, which delivers therapies directly to the cerebrospinal fluid, or CSF, around the spinal cord, where motor neurons degenerate in patients with SMA due to insufficient levels of SMN protein.
+ 
+In December 2016, the FDA approved SPINRAZA for the treatment of pediatric and adult patients with SMA. The European Medicines Agency, or EMA, has validated the Marketing Authorization Application, or MAA, for SPINRAZA for the treatment of SMA and the Committee for Medicinal Products for Human Use, or CHMP,  has granted SPINRAZA Accelerated Assessment. The Accelerated Assessment designation can reduce the standard review time. The EMA has granted Orphan Drug Designation to SPINRAZA for the treatment of patients with SMA. Biogen has also submitted regulatory filings in Japan, Canada and Australia and will be initiating regulatory filings in additional countries in 2017.
+ 
+We and Biogen submitted marketing applications for SPINRAZA in the U.S. and EU in less than two months after announcing positive results from the ENDEAR interim analysis. ENDEAR was a pivotal Phase 3 controlled study evaluating SPINRAZA in patients with infantile-onset SMA. The data package included the interim analysis of ENDEAR, as well as open-label data in pre-symptomatic and symptomatic patients with SMA, or likely to develop, Types 1, 2 and 3 SMA.
+ 
+In ENDEAR, infantile-onset SMA patients treated with SPINRAZA achieved and sustained clinically meaningful improvement in motor function compared to untreated study participants. In addition, a greater percentage of patients on SPINRAZA survived compared to untreated patients. In January 2017, Biogen presented the ENDEAR pre-specified primary endpoint, time to death or permanent ventilation, from the end of study, or EOS, analysis, which includes data from patients’ final study visit, which occurred after the announcement that the study was being stopped and was not part of the interim analysis. SPINRAZA met the pre-specified primary endpoint at the ENDEAR EOS, demonstrating a statistically significant 47% reduction in the risk of death or permanent ventilation (p<0.01). SPINRAZA demonstrated a favorable safety profile, with commonly reported adverse events including respiratory events and constipation, consistent with those expected in the general population of infants with SMA.
+ 
+We also conducted CHERISH, our Phase 3 study in patients with later-onset SMA. CHERISH also met the primary endpoint for the pre-specified interim analysis. The analysis found that children receiving SPINRAZA experienced a highly statistically significant improvement in motor function compared to those who did not receive treatment.  SPINRAZA demonstrated a favorable safety profile in the study.
+ 
+Additionally, Biogen conducted NURTURE, a Phase 2 open-label study in pre-symptomatic infants. At the 2016 World Muscle Society Congress in October 2016, encouraging preliminary results from NURTURE were presented in addition to an analysis of the then ongoing Phase 2 open-label study in patients with later-onset SMA. The interim analysis of the ongoing, open-label, 30-month, Phase 2 NURTURE study showed that SPINRAZA-treated pre-symptomatic infants exhibited improvements in motor function and motor milestones such as full head control, independent sitting, standing with support, standing unaided, and walking with support, as measured by validated scales. At the time of the interim analysis all patients were alive and did not require respiratory intervention. Three infants experienced AEs considered possibly related to SPINRAZA, all of which were resolved.
+ 
+Further, in open-label studies, some patients achieved milestones that they would not be expected to achieve, such as the ability to sit unassisted, stand or walk, and maintained milestones at ages that they would expect to lose. The overall findings of these studies support the effectiveness of SPINRAZA across the range of SMA patients, and appear to support the early initiation of treatment.
+ 
+The most common adverse reactions reported for SPINRAZA were upper respiratory infection, lower respiratory infection and constipation. Serious adverse reactions of partial or complete lung collapse were more frequent in SPINRAZA-treated patients.
+ 
+We and Biogen entered into an alliance to develop and commercialize SPINRAZA in January 2012. In July 2016, Biogen licensed SPINRAZA from us and paid us a $75 million license fee. We have transitioned all SPINRAZA development activities to Biogen as they are now responsible for all global development, regulatory and commercialization activities and costs.
+ 
+Our Phase 3 Drugs
+ 
+
+We have two drugs for which we are conducting pivotal Phase 3 studies: volanesorsen and IONIS-TTRRx. Both of these drugs have the potential to transform the treatment of patients with an orphan disease, and we believe these drugs are close to commercialization. In 2015, we completed target enrollment in a Phase 3 study for each of these drugs.
+Volanesorsen – Volanesorsen is a Generation 2.0+ antisense drug we and Akcea are developing to treat patients with FCS and FPL, orphan diseases characterized by extremely elevated triglyceride levels and a high risk of life-threatening pancreatitis.
+  7
+ 
+
+Due to the high levels of triglycerides in their blood, patients with FCS and FPL experience a variety of debilitating and potentially life-threatening conditions, including pancreatitis, persistent and often severe abdominal pain and abnormal enlargement of the liver or spleen. In addition, patients with FCS or FPL have to adhere to a very low fat diet. As a result of these factors, patients with FCS and FPL are often unable to work, adding to the burden of the disease. While all the complications of FCS or FPL cause patients to have a lower quality of life, pancreatitis is the most serious consequence of the disease. Patients with FCS and FPL suffer from acute pancreatitis, a sudden inflammation of the pancreas that may be fatal. The symptoms of an acute pancreatitis episode are severe, debilitating upper abdominal pain that radiates into the back, fever and nausea and vomiting. In severe cases, patients can have bleeding into the pancreas, serious tissue damage, infection and cyst formation, as well as damage to other vital organs such as the heart, lungs and kidneys. We estimate there are 3,000 to 5,000 FCS patients and an additional 3,000 to 5,000 FPL patients globally.
+ 
+Volanesorsen acts to reduce triglyceride levels by inhibiting the production of ApoC-III, a protein that is a key regulator of triglyceride clearance. People who have low levels of ApoC-III or reduced ApoC-III function have lower levels of triglycerides and a lower incidence of cardiovascular disease, or CVD. By inhibiting the production of ApoC-III, volanesorsen is able to increase triglyceride clearance in FCS patients, reducing their triglyceride levels.
+ 
+We demonstrated in Phase 2 studies that volanesorsen robustly reduced ApoC-III and triglycerides in patients, including in patients with FCS, and also had a beneficial impact on insulin sensitivity. We published our findings from the Phase 2 studies with volanesorsen in two publications in the New England Journal of Medicine.
+ 
+We and Akcea are currently conducting two Phase 3 studies of volanesorsen. The study in patients with FCS, called APPROACH, is fully enrolled and we and Akcea plan to report data from this study in the first quarter of 2017. The study in patients with FPL, called BROADEN, is currently enrolling and we and Akcea plan to report data from this study in 2019. We and Akcea also conducted an additional Phase 3 study, called COMPASS, in patients with triglycerides above 500 mg/dL to expand the exposure database for volanesorsen to support global regulatory filings.
+ In December 2016, we and Akcea announced that the COMPASS study met its primary endpoint. The treatment effect observed was sustained through the end of the 26 week treatment period for both the full study population and the subset of patients with FCS.
+ 
+Volanesorsen has been granted orphan drug status in both the U.S. and EU for the treatment of FCS. Further, volanesorsen has been granted orphan drug status in the EU for the treatment of FPL, and we are in the process of applying for this status for this indication in the U.S. Akcea plans to globally commercialize volanesorsen for both FCS and FPL if approved.
+ 
+See our separate section below where we further discuss our subsidiary, Akcea.
+ 
+IONIS-TTRRx – IONIS-TTRRx is a Generation 2.0+ antisense drug we are developing to treat patients with all forms of TTR amyloidosis. TTR amyloidosis is a severe, progressive and fatal disease. In all forms of TTR amyloidosis TTR protein forms amyloid deposits in various tissues and organs, including peripheral nerves, heart, intestinal tract, eyes, kidneys, central nervous system, thyroid and bone. The progressive accumulation of TTR amyloid deposits in these tissues and organs leads to organ failure and eventually death. We designed IONIS-TTRRx to be administered as one subcutaneous injection, once a week for all TTR amyloidosis patients.
+ 
+TTR amyloidosis is a single disease that clinicians characterize into three forms that can have multiple overlapping clinical manifestations: FAP, FAC and wt-TTR. FAP affects approximately 10,000 patients worldwide and is a painful, fatal disease that ultimately leads to multi-organ failure and death within five to 15 years after symptom onset and diagnosis. FAP patients primarily have TTR build up in the peripheral nervous system, but can also have significant TTR build up in multiple organs. FAC affects approximately 40,000 patients worldwide and wt-TTR amyloidosis affects approximately 200,000 patients worldwide. While both FAC and wt-TTR differ in the genetic cause of TTR amyloidosis, both diseases progress in similar ways. Patients with FAC and wt-TTR amyloidosis have TTR build up in the heart muscle and succumb to heart failure within three to five years after symptom onset and diagnosis. TTR amyloidosis is fatal and there are limited therapeutic options to treat patients with this disease.
+ 
+We are evaluating IONIS-TTRRx in NEURO-TTR, a randomized, double-blinded, placebo-controlled, international Phase 3 study for FAP patients. We have completed target enrollment. We plan to report data from this study in the second quarter of 2017. We designed this study to support an application for marketing authorization of IONIS-TTRRx in patients with FAP. Our study is measuring the effects of IONIS-TTRRx on neurological dysfunction and on quality-of-life.
+ 
+The FDA has granted Orphan Drug Designation and Fast Track Status to IONIS-TTRRx for the treatment of patients with FAP. The EMA has granted Orphan Drug Designation to IONIS-TTRRx for the treatment of patients with TTR amyloidosis.
+ 
+Severe and Rare Disease Franchise
+ 
+Our severe and rare disease franchise is the largest franchise in our pipeline. We are discovering and developing antisense drugs to treat patients with severe and rare and neurodegenerative diseases who need new treatment options.  We believe our antisense technology could offer effective therapies for these patients. According to the National Institutes of Health, or NIH, there are approximately 5,000 to 8,000 rare diseases and more than 600 neurological diseases, many life-threatening or fatal. Unfortunately, patients with many of these severe and rare diseases have few effective therapies available. Since most of these diseases are genetic or have a genetic component, parents often pass the disease to their children, creating a legacy of the disease resulting in profound effects on the family.
+  8
+ 
+
+Due to the severe nature of these diseases and the lack of available treatments, there is an opportunity for more flexible and efficient development paths to the market. This means that, in some cases, the studies necessary for us to demonstrate proof-of-concept with a particular drug may also be the studies that complete our marketing registration package, thereby providing us with a relatively rapid path to market for potential new treatments for these devastating and often fatal diseases. For example, SPINRAZA was approved five years after we began the Phase 1 study for it.
+ 
+IONIS’ Severe and Rare Disease Pipeline
+ 
+
+SPINRAZA – SPINRAZA is our recently marketed Generation 2.0+ antisense drug to treat patients with SMA. SMA is a severe motor neuron disease that is the leading genetic cause of infant mortality. For more information on SPINRAZA, see the drug description under Our Newly Marketed Drug.
+Kynamro – Kynamro (mipomersen sodium) injection is an oligonucleotide inhibitor of apolipoprotein B-100 synthesis indicated as an adjunct to lipid-lowering medications and diet, to reduce low density lipoprotein-cholesterol, or LDL-C, apolipoprotein B, total cholesterol, and non-high density lipoprotein-cholesterol in patients with HoFH. Kynamro is approved for use in patients with HoFH in the U.S. and several other countries. In 2016 Kastle acquired the global rights to develop and commercialize Kynamro and also began marketing and selling Kynamro.
+ 
+Volanesorsen – Volanesorsen is a Generation 2.0+ antisense drug we and Akcea are developing to treat patients with FCS and FPL. FCS and FPL are orphan diseases characterized by severely high triglyceride levels that result in severe, daily symptoms and a high risk of life-threatening pancreatitis. For more information on the development plan for volanesorsen see the drug description under Our Phase 3 Drugs.
+ 
+IONIS-TTRRx – IONIS-TTRRx is a Generation 2.0+ antisense drug we designed to treat all forms of TTR amyloidosis. TTR amyloidosis is a severe, progressive and fatal disease. For more information on the development plan for IONIS-TTRRx see the drug description under Our Phase 3 Drugs.
+ 
+IONIS-HTTRx – IONIS-HTTRx is a Generation 2.0+ antisense drug we designed to reduce the production of the huntingtin, or HTT, protein, the genetic cause of Huntington's disease, or HD. We are collaborating with Roche to develop IONIS-HTTRx to treat patients with HD.
+ 
+HD is an inherited genetic brain disorder that results in the progressive loss of both mental faculties and physical control. HD is a triplet repeat disorder and is one of a large family of genetic diseases in which the body mistakenly repeats certain gene sequences. The resulting HTT protein is toxic and gradually destroys neurons. Symptoms of HD usually appear between the ages of 30 to 50 years and continually worsen over a 10 to 25 year period. Ultimately, the weakened individual succumbs to pneumonia, heart failure or other complications. Presently, there is no effective disease-modifying treatment, and current approaches only focus on managing the severity of some disease symptoms.
+ 
+We are evaluating IONIS-HTTRx in a randomized, placebo-controlled, dose escalation, Phase 1/2 clinical study in patients with early stage HD.
+ 
+The FDA and EMA have granted Orphan Drug Designation for IONIS-HTTRx to treat patients with HD.
+ 
+IONIS-SOD1Rx – IONIS-SOD1Rx is a Generation 2.0+ antisense drug we designed to reduce the production of superoxide dismutase 1, or SOD1, which is the best understood genetic cause of familial amyotrophic lateral sclerosis, or ALS. We are collaborating with Biogen to develop IONIS-SOD1Rx to treat patients with an inherited form of ALS, SOD1-ALS.
+ 
+ALS is a rare, fatal neurodegenerative disorder. Patients with ALS suffer progressive degeneration of the motor neurons, which results in a declining quality of life and ultimately death. The second most common familial form of ALS is SOD1-ALS, in which patients have a mutation in the SOD1 gene that causes a progressive loss of motor neurons. As a result, patients with SOD1-ALS experience muscle weakness, loss of movement, difficulty in breathing and swallowing and eventually succumb to their disease. Currently, treatment options for patients with ALS are extremely limited with no drugs that significantly slow disease progression.
+  9
+ 
+
+We are evaluating IONIS-SOD1Rx in a randomized, placebo-controlled, dose escalation, Phase 1/2 clinical study in patients with ALS, including patients with SOD1-ALS.
+ 
+AKCEA-ANGPTL3-LRx – AKCEA-ANGPTL3-LRx is a LICA drug we designed to reduce angiopoietin-like 3 protein, or ANGPTL3, an independent risk factor for cardiovascular disease. We and Akcea are developing AKCEA-ANGPTL3-LRx to treat multiple lipid disorders, or mixed dyslipidemias. For more information on the development plan for AKCEA-ANGPTL3-LRx, see the drug description under the Akcea Therapeutics section below.
+ 
+IONIS-PKKRx – IONIS-PKKRx is a Generation 2.0+ antisense drug we designed to reduce the production of prekallikrein, or PKK, to treat patients with hereditary angioedema, or HAE. HAE is a rare genetic disease that is characterized by rapid and painful attacks of inflammation in the hands, feet, limbs, face, abdomen, larynx and trachea and can be fatal if swelling occurs in the larynx. PKK plays an important role in the activation of inflammatory mediators associated with acute attacks of HAE. By inhibiting the production of PKK, IONIS-PKKRx could be an effective prophylactic approach to preventing HAE attacks. In patients with frequent or severe attacks, doctors may use prophylactic treatment approaches to prevent or reduce the severity of HAE attacks. However, current prophylactic treatment approaches are very limited and have major tolerability issues due to challenging administration requirements leaving patients with few therapeutic options.
+ 
+We have completed a Phase 1 study evaluating IONIS-PKKRx in healthy volunteers and we are exploring potential development options.
+ 
+Cardiovascular Franchise
+ Cardiovascular disease is an important area of focus for us. Our cardiovascular franchise includes the drugs Akcea is developing that we describe below and IONIS-FXIRx, which we are developing and have licensed to Bayer. The drugs in our cardiovascular franchise target all the key components of cardiovascular disease, including various atherogenic lipids, inflammation and thrombosis.
+IONIS’ Cardiovascular Disease Pipeline
+ 
+
+
+IONIS-FXIRx – IONIS-FXIRx is a Generation 2.0+ antisense drug we designed to reduce the production of Factor XI. Factor XI is a clotting factor produced in the liver that is important in the growth of blood clots. High levels of Factor XI increase the risk of thrombosis, which is the formation of a blood clot inside blood vessels. Thrombosis can cause heart attacks and strokes. People who are deficient in Factor XI have a lower incidence of thromboembolic events with minimal increase in bleeding risk. Although currently available anticoagulants reduce the risk of thrombosis, physicians associate these anticoagulants with increased bleeding, which can be fatal. Given the mechanism of Factor XI inhibition, we believe that our drug has the potential to be used broadly as an anti-thrombotic in many different therapeutic settings for which additional safe and well tolerated anti-thrombotic drugs are needed.
+ 
+We completed a Phase 2 open-label, comparator-controlled global study evaluating IONIS-FXIRx in patients undergoing total knee replacement surgery. The study compared the safety and activity of IONIS-FXIRx to enoxaparin. In this study patients treated with 300 mg of IONIS-FXIRx experienced a seven-fold lower rate of venous thromboembolic events, such as blood clots in a deep vein or in a lung, compared to those patients treated with enoxaparin. The data from this study were published in the New England Journal of Medicine in December 2014. In May 2015, we exclusively licensed IONIS-FXIRx to Bayer.
+ 
+In November 2016, we completed a Phase 2 double-blinded, randomized, placebo-controlled study of IONIS-FXIRx in patients with end-stage renal disease on hemodialysis. In this Phase 2 study, patients treated with IONIS-FXIRx achieved statistically significant, dose-dependent reductions in Factor XI activity. There were no clinically meaningful reductions in platelets and no treatment-related major or clinically relevant non-major bleeding events.
+ 
+In February 2017 we announced the advancement of IONIS-FXIRx in clinical development under the existing exclusive license agreement with Bayer. We plan to conduct a Phase 2b study evaluating IONIS-FXIRx in approximately 200 patients with end-stage renal disease on hemodialysis to finalize dose selection. We will also initiate development of IONIS-FXI-LRx which is currently in preclinical development and is shown in our Preclinical Pipeline section below.
+ 
+AKCEA-APO(a)-LRx – AKCEA-APO(a)-LRx is a LICA drug we designed to reduce apolipoprotein(a) in the liver to offer a direct approach for reducing lipoprotein(a), or Lp(a). Lp(a) is an independent risk factor for CVD. We believe addressing Lp(a) is the next important horizon in lipid focused CVD treatment. For more information on the development plan for AKCEA-APO(a)-LRx, see the drug description under the Akcea Therapeutics section below.
+  10
+ 
+
+AKCEA-APOCIII-LRx – AKCEA-APOCIII-LRx is a LICA-conjugated Generation 2.0+ antisense drug designed to inhibit the production of apoC-III, the same protein inhibited by volanesorsen, for the broad population of patients who are at risk for cardiometabolic disease due to their elevated triglyceride levels. For more information on the development plan for AKCEA-APOCIII-LRx, see the drug description under the Akcea Therapeutics section below.
+ 
+Cancer Franchise
+ 
+Cancer is an area of significant unmet medical need. Cancer is an extremely complex disease that involves a large number of targets. Using our antisense technology, we can validate multiple potential cancer targets from a variety of different cancers, and rapidly identify anti-cancer drugs, which in many cases are the same or similar sequences to those used to validate the target. We preferentially select anti-cancer targets that provide a multi-faceted approach to treating cancer.
+ 
+Our cancer franchise consists of anti-cancer antisense drugs that act upon biological targets associated with cancer progression and/or treatment resistance. We have a strategic alliance with AstraZeneca, which includes an anti-cancer collaboration that expands our anti-cancer efforts and supports a robust clinical development plan for IONIS-STAT3-2.5Rx. AstraZeneca brings significant experience that enables the identification of novel genetic and epigenetic targets for cancer. Combining AstraZeneca’s expertise with our drug discovery technology, we plan to expand our cancer franchise with a number of promising new anti-cancer targets. In December 2016 we expanded our cancer franchise when AstraZeneca licensed our preclinical drug, IONIS-KRAS-2.5Rx.  IONIS-KRAS-2.5Rx is an antisense drug we discovered and designed to directly target KRAS, one of the most frequently mutated genes in cancer.  We also have a collaboration agreement with University of Texas MD Anderson Cancer Center to identify cancer targets and create novel antisense drugs to treat cancer together.
+ 
+Our Generation 2.5 chemistry enhances the potency and effectiveness of our antisense drugs, and potentially allows us to extend the applicability of our technology to cancers that are difficult to treat. For instance, STAT3 is a protein known to be important in carcinogenesis, however, it has been difficult to approach with traditional drug modalities. Data from a Phase 1/2 clinical study of IONIS-STAT3-2.5Rx showed evidence of antitumor activity in patients with cancer, including advanced/metastatic hepatocellular carcinoma.
+ 
+IONIS’ Oncology Pipeline
+ 
+
+IONIS-AR-2.5Rx – IONIS-AR-2.5Rx is a Generation 2.5 antisense drug we designed to treat patients with prostate cancer by reducing the production of all known forms of androgen receptor, or AR, including variants of the AR gene. Prostate cancer is the second leading cause of cancer deaths in American men. Prostate cancer growth, proliferation and progression are all androgen-dependent and AR function is involved in disease progression at all stages of prostate cancer. For patients diagnosed with metastatic prostate cancer, current treatments largely involve opposing the action of androgens by blocking the AR or removing circulating androgens. Although androgen deprivation therapy approaches are initially effective in delaying disease progression, patients with metastatic prostate cancer will progress in their disease. Resistance to current therapies is frequent and can occur through a variety of mechanisms, including the activation of AR signaling in tumor cells through the amplification, over expression and mutation of the AR gene. Because IONIS-AR-2.5Rx can inhibit the production of all known forms of AR, we believe that this drug has the potential to be useful in treating patients with all stages of prostate cancer, including those who are resistant to current therapies.
+ 
+AstraZeneca completed an open-label, dose-escalation, Phase 1/2 clinical study of IONIS-AR-2.5Rx in patients with advanced tumors for which the androgen receptor pathway is potentially a contributing factor. The drug exhibited a good safety and tolerability profile supportive of continued development. We plan to continue developing IONIS-AR-2.5Rx, independent of AstraZeneca.
+ 
+IONIS-STAT3-2.5Rx – IONIS-STAT3-2.5Rx, also referred to as AZD9150, is a Generation 2.5 antisense drug we designed to reduce the production of signal transducer and activator of transcription 3, or STAT3, to treat patients with cancer. STAT3 is a protein involved in the translation of key factors critical for tumor cell growth and survival. STAT3 is over-active in a variety of cancers, including brain, lung, breast, bone, liver and multiple myeloma. Physicians believe that overactivity in STAT3 prevents cancer cell death and promotes tumor cell growth. IONIS-STAT3-2.5Rx is a part of our collaboration with AstraZeneca to discover and develop anti-cancer drugs. We believe the significant potency we observed in our preclinical studies with IONIS-STAT3-2.5Rx broadens the therapeutic opportunities for IONIS-STAT3-2.5Rx into many different types of cancer in which STAT3 is implicated.
+ 
+We and AstraZeneca have evaluated IONIS-STAT3-2.5Rx in patients with advanced metastatic hepatocellular carcinoma and advanced lymphoma. AstraZeneca is evaluating IONIS-STAT3-2.5Rx in combination with MEDI4736, AstraZeneca's investigational anti-PD-L1 drug, in patients with head and neck cancer and in patients with diffuse large B cell lymphoma.
+ 
+Metabolic Franchise
+ 
+Metabolic disorders are chronic diseases that affect millions of people. There is a significant need for new therapies for these patients. According to the Centers for Disease Control and Prevention, diabetes affects more than 29 million people in the U.S., or nine percent of the population, with type 2 diabetes constituting 90 to 95 percent of those cases.
+  11
+ 
+
+We designed the majority of our drugs in our metabolic franchise to be effective alone or when added to existing therapies to treat metabolic diseases, such as diabetes.
+ 
+We have reported positive Phase 2 data from IONIS-GCGRRx, the most advanced drug in our metabolic franchise. We designed this drug to act upon targets in the liver or fat tissue through a distinct mechanism to improve insulin sensitivity, reduce glucose production, or affect other metabolic aspects of this complex disease. In addition to our work in diabetes, we are also evaluating nonalcoholic steatohepatitis, or NASH. NASH is a common liver disease characterized by excessive triglycerides in the liver with concurrent inflammation and cellular damage. Currently, it is estimated that two to three percent of the general population have NASH. However, with the growing obesity epidemic, the number of patients with NASH should also continue to rise. About 20 percent of NASH patients are reported to have a liver that does not function properly due to long-term damage, known as cirrhosis and 30 to 40 percent of patients with NASH cirrhosis experience liver-related death. IONIS-DGAT2Rx is an antisense drug we designed to treat patients with NASH.
+ 
+IONIS’ Metabolic Pipeline
+ 
+
+AKCEA-ANGPTL3-LRx – AKCEA-ANGPTL3-LRx is a LICA drug we designed to reduce angiopoietin-like 3 protein, or ANGPTL3, an independent risk factor for cardiovascular disease. We and Akcea are developing AKCEA-ANGPTL3-LRx to treat multiple lipid disorders, or mixed dyslipidemias. For more information on the development plan for AKCEA-ANGPTL3-LRx, see the drug description under the Akcea Therapeutics section below.
+ 
+IONIS-GCGRRx – IONIS-GCGRRx is a Generation 2.0+ antisense drug we designed to reduce the production of glucagon receptors, or GCGR, to treat patients with type 2 diabetes. GCGR is a receptor for the hormone glucagon. Glucagon is a hormone that opposes the action of insulin and stimulates the liver to produce glucose, particularly in type 2 diabetes. We are developing IONIS-GCGRRx to provide better glucose control for patients with type 2 diabetes. In patients with advanced diabetes, uncontrolled glucagon action can lead to significant increases in blood glucose level. In addition, reducing GCGR produces more active glucagon-like peptide-1, or GLP-1, a hormone that preserves pancreatic function and enhances insulin secretion.
+ 
+We have completed two Phase 2 studies with IONIS-GCGRRx: 1) a 13-week study in patients with type 2 diabetes who are poorly controlled on stable metformin therapy and 2) a 26-week study to identify the optimal dose and schedule to achieve glucose control with manageable glucagon receptor-related liver enzyme elevations. In January 2017, we reported results from the Phase 2 dose optimization study in which patients treated with IONIS-GCGRRx achieved robust and sustained, statistically significant improvements in hemoglobin A1c, or HbA1c, and other measures of glucose control after 26 weeks of treatment. Additionally, IONIS-GCGRRx-treated patients experienced a mean increase in total GLP-1 from baseline compared to a decline in placebo-treated patients. The safety and tolerability profile of IONIS-GCGRRx in the Phase 2 studies supports continued development.
+ 
+We are now evaluating partnership opportunities for IONIS-GCGRRx.
+ 
+IONIS-DGAT2Rx – IONIS-DGAT2Rx is a Generation 2.0+ antisense drug we designed to reduce the production of DGAT2, or diacylglycerol acyltransferase 2, to treat patients with NASH, a common liver disease. As NASH progresses, scarring, or fibrosis, begins to accumulate in the liver. Ultimately, cirrhosis of the liver develops and the liver can no longer function normally. Currently, liver transplantation is the only treatment for advanced cirrhosis and liver failure. Because of the high prevalence of NASH, it has recently become the third most common indication for liver transplantation in the U.S.
+ 
+DGAT2 is an enzyme that catalyzes the final step in triglyceride synthesis in the liver. Reducing the production of DGAT2 should therefore decrease triglyceride synthesis in the liver. In animal models of obesity and fatty liver disease, antisense inhibition of DGAT2 significantly improved non-alcoholic fatty liver disease, or NAFLD, lowered blood lipid levels and reversed diet-induced insulin resistance.
+ 
+We completed a Phase 1 randomized, placebo-controlled, dose-escalation study of IONIS-DGAT2Rx in healthy, overweight volunteers. We designed this study to give us valuable insights on the effects of IONIS-DGAT2Rx in a patient population that is closely matched to patients with NASH.
+ 
+Other Drugs in Development
+ 
+Together with our partners, we continue to advance drugs in clinical development that are outside of our core therapeutic areas, such as the antiviral drugs we and GSK are developing. 
+ 
+IONIS’ Pipeline of Drugs in Development for Viral Infection or Ocular Disease
+ 
+    12
+ 
+
+IONIS-GSK4-LRx – IONIS-GSK4-LRx is a LICA drug we designed to reduce an undisclosed ocular target. We are developing IONIS-GSK4-LRx with GSK.
+ 
+IONIS-HBVRx and IONIS-HBV-LRx – IONIS-HBVRx and IONIS-HBV-LRx are antisense drugs we designed to reduce the production of viral proteins associated with hepatitis B virus, or HBV. These include proteins associated with infection and replication, including the hepatitis B surface antigen, which is present in both acute and chronic infections and is associated with a poor prognosis in patients with chronic HBV infection. IONIS-HBV-LRx is our first anti-infective drug in development that incorporates our LICA technology. Together with GSK, we are evaluating IONIS-HBVRx and IONIS-HBV-LRx to treat HBV infection.
+ 
+HBV infection is a serious health problem that can lead to significant and potentially fatal health conditions, including cirrhosis, liver failure and liver cancer. Chronic HBV infection is one of the most common persistent viral infections in the world. Currently available therapies, although effective in reducing circulating HBV in the blood, do not effectively inhibit HBV antigen production and secretion, which are associated with poor prognosis and increased risk of liver cancer.
+ 
+We have completed a randomized, placebo-controlled, dose-escalation, Phase 1 study of IONIS-HBVRx in healthy volunteers.  The safety and tolerability profile of IONIS-HBVRx in the Phase 1 study supports continued development. In January 2016, GSK initiated a Phase 1 study evaluating IONIS-HBV-LRx in healthy volunteers. The Phase 1 study of IONIS-HBV-LRx is a randomized, placebo-controlled, dose-escalation study in healthy volunteers. GSK is planning to initiate Phase 2 studies for both IONIS-HBVRx and IONIS-HBV-LRx in the first quarter of 2017.
+ 
+Preclinical Drugs in Development
+ 
+The efficiency and broad applicability of our technology provides us with nearly unlimited targets against which to develop drugs. On average, it takes 12 to 18 months to complete the preclinical studies necessary to support clinical development. Over the last year we added six new drugs to our preclinical pipeline, IONIS-PKK-LRx, IONIS-ENAC-2.5Rx, IONIS-KRAS-2.5Rx, IONIS-JBI1-2.5Rx, IONIS-FXI-LRx and IONIS-AZ4-2.5-LRx, our first drug that combines our Generation 2.5 and LICA technology.
+ 
+IONIS’ Preclinical Pipeline
+ 
+
+Akcea Therapeutics: Our Wholly Owned Subsidiary to Develop and Commercialize Drugs for Cardiometabolic Diseases Caused by Lipid Disorders
+ 
+ Akcea Therapeutics is our wholly owned subsidiary that we formed in late 2014. We formed Akcea to focus on developing and commercializing our drugs to treat patients with serious cardiometabolic diseases caused by lipid disorders. As part of its formation, we granted Akcea exclusive rights to develop and commercialize volanesorsen, AKCEA-APO(a)-LRx, AKCEA-APOCIII-LRx and AKCEA-ANGPTL3-LRx. These four novel drugs are based on our antisense technology and have the potential to treat multiple indications. We describe each of these drugs in more detail below.
+ 
+Akcea is assembling the global infrastructure to develop the drugs in its pipeline, to commercialize them with a focus on lipid specialists as the primary call point and to create the specialized support required to address rare disease patient populations. We and Akcea entered into a collaboration, option and license agreement with Novartis. Akcea granted Novartis an exclusive option to license AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx, which have the potential to treat patients who are at high cardiovascular risk due to inadequately treated lipid disorders. After Akcea completes its Phase 2 development of each of these drugs, if Novartis exercises its option, it plans to use commercially reasonable efforts to conduct, at its expense, a Phase 3 cardiovascular outcome study in a high-risk patient population and will be responsible for the worldwide development and commercialization activities for each licensed drug. Novartis brings significant resources and expertise that should support the development and commercialization of AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx for significant high-risk patient populations. Akcea also plans to co-commercialize any such drug through its specialized sales force focused on lipid specialists in selected markets.
+  13
+ 
+
+This report includes financial information for this separate business segment in Note 7, Segment Information and Concentration of Business Risk, in the Notes to the Consolidated Financial Statements.
+ 
+Volanesorsen – Volanesorsen is an antisense drug we and Akcea are developing to treat patients with FCS and FPL. For more information on the development plan for volanesorsen see the drug description under Our Phase 3 Drugs above.
+ 
+AKCEA-APO(a)-LRx – AKCEA-APO(a)-LRx is a LICA drug we designed to reduce apolipoprotein(a) in the liver to offer a direct approach for reducing lipoprotein(a), or Lp(a). Lp(a) is an independent risk factor for CVD. We and Akcea initiated a collaboration with Novartis in January 2017 to advance AKCEA-APO(a)-LRx.
+ Akcea is developing AKCEA-APO(a)-LRx for patients who are at significant risk of CVD because of their elevated levels of Lp(a). AKCEA-APO(a)-LRx inhibits the production of the apolipoprotein(a), or Apo(a), protein, thereby reducing Lp(a), a very atherogenic (promoting the formation of plaques in the arteries) and thrombogenic (promoting the formation of blood clots) form of low density lipoprotein, or LDL. Elevated Lp(a) is recognized as an independent, genetic cause of coronary artery disease, heart attack, stroke and peripheral arterial disease. Inhibiting the production of Apo(a) in the liver reduces the level of Lp(a) in blood, potentially slowing down or reversing cardiovascular disease in patients with hyperlipoproteinemia(a), a condition in which individuals have elevated levels of Lp(a), which we define as levels greater than 60 mg/dL. Lp(a) is difficult to target using other technologies, like small molecules and antibodies, because there are multiple forms of the Apo(a) molecule that are determined by genetic variation. We believe addressing Lp(a) is the next important horizon in lipid focused CVD treatment and, through Akcea’s collaboration with Novartis, Akcea plans to develop AKCEA-APO(a)-LRx to treat patients with CVD in whom hyperlipoproteinemia(a) plays a causal role.
+ 
+We and Akcea completed a Phase 1/2a study with AKCEA-APO(a)-LRx in patients with hyperlipoproteinemia(a)and reported results at the AHA meeting in November 2015. In this clinical study, Akcea observed significant and sustained reductions in Lp(a) after only a single, small volume dose of AKCEA-APO(a)-LRx. With multiple doses of AKCEA-APO(a)-LRx, we and Akcea observed even greater reductions of Lp(a). Based on these results, Akcea is planning to start a dose range finding Phase 2 study of AKCEA-APO(a)-LRx in patients with hyperlipoproteinemia(a) and established CVD in the first half of 2017.
+ 
+AKCEA-ANGPTL3-LRx – AKCEA-ANGPTL3-LRx is a LICA drug we designed to reduce angiopoietin-like 3 protein, or ANGPTL3, an independent risk factor for cardiovascular disease. We and Akcea are developing AKCEA-ANGPTL3-LRx to treat multiple lipid disorders, or mixed dyslipidemias.
+ 
+People with elevated levels of the angiopoietin-like 3, or ANGPTL3, protein have high LDL-C and triglyceride levels. Studies show this elevation is associated with an increased risk of premature heart attacks, increased arterial wall thickness and multiple metabolic disorders, such as insulin resistance. In contrast, people with lower levels of ANGPTL3 have lower LDL-C and triglyceride levels and thus lower risk of heart attacks and multiple metabolic disorders. In preclinical studies, an analog of AKCEA-ANGPTL3-LRx inhibited the production of the ANGPTL3 protein in the liver, inhibiting liver fat accumulation and lowering blood levels of LDL-C and very low density lipoprotein cholesterol, or VLDL-C. In addition, our preclinical data and initial Phase 1 data suggest that inhibiting the production of ANGPTL3 could improve other lipid parameters, including triglyceride levels and total cholesterol, as well as metabolic parameters, such as insulin sensitivity.
+ 
+We and Akcea are conducting a Phase 1/2 program for AKCEA-ANGPTL3-LRx in people with elevated triglycerides and in patients with FCS. If we find that AKCEA-ANGPTL3-LRx can effectively lower triglyceride levels in FCS patients by using a different mechanism of action than volanesorsen, it may represent an opportunity to expand Akcea’s FCS franchise in the future. We and Akcea reported initial results for the initial group of people with elevated triglycerides from this study at the AHA meeting in November 2016. These people achieved dose-dependent, statistically significant mean reductions in ANGPTL3 of up to 83% and also experienced statistically significant mean reductions in triglycerides of up to 66% and in total cholesterol of up to 36%. In this study, AKCEA-ANGPTL3-LRx displayed a favorable safety and tolerability profile. We plan to report the data from patients with FCS in the first half of 2018. We plan to begin a study of AKCEA-ANGPTL3-LRx in patients with fatty liver disease, which may include patients with nonalcoholic fatty liver disease, or NAFLD, or nonalcoholic steatohepatitis, or NASH, in the second half of 2017. Additional potential indications for which we may consider developing AKCEA-ANGPTL3-LRx include mixed dyslipidemias and numerous lipodystrophies.
+ 
+AKCEA-APOCIII-LRx – AKCEA-APOCIII-LRx is a LICA-conjugated Generation 2.0+ antisense drug we designed to inhibit the production of apoC-III, the same protein inhibited by volanesorsen, for the broad population of patients who are at risk for cardiometabolic disease due to their elevated triglyceride levels.  We and Akcea initiated a collaboration with Novartis in January 2017 to advance AKCEA-APOCIII-LRx.
+ 
+ApoC-III impacts triglyceride levels and may also increase inflammatory processes. This combination of effects makes ApoC-III a valuable target for reducing the residual cardiovascular risk in patients already on statin therapy, or for whom triglycerides are poorly controlled. We believe that the enhancements offered by our LICA technology will provide greater patient convenience by allowing for much lower and less frequent dose administration, compared to volanesorsen.
+ 
+ We and Akcea are conducting a Phase 1/2 study of AKCEA-APOCIII-LRx in people with elevated triglycerides and plan to report results from this study in 2017.
+  14
+ 
+
+Satellite Company Drugs in Development
+ 
+We have successfully developed novel drugs we designed to treat many different diseases. In therapeutic areas that are outside of our core areas of development, we have licensed our drugs to highly focused satellite companies that have the specific expertise and resources to continue developing the drugs. For our satellite company drugs, we refer to the drug by the partner’s own compound number, such as ATL1103 or RG-101. We have listed these drugs below in the Satellite Company pipeline.
+IONIS’ Satellite Company Pipeline
+ 
+
+* Named Patient Supply (see below).
+ 
+Alicaforsen – Alicaforsen is an antisense drug we designed to reduce the production of intercellular adhesion molecule 1, or ICAM-1. Ulcerative colitis, or UC, is an inflammatory bowel disease of the colon, a part of the large intestine, and pouchitis is an inflammation of the surgically constructed internal pouch created in UC patients who have had their diseased colons removed. In 2007, we licensed alicaforsen to Atlantic Pharmaceuticals for pouchitis, UC and other inflammatory diseases. Atlantic Pharmaceuticals is developing alicaforsen for the treatment of UC and currently supplies alicaforsen in response to physicians' requests under international Named Patient Supply regulations for patients with inflammatory bowel disease. In January 2017, Atlantic announced that it received agreement from the FDA to initiate a rolling submission of its NDA for alicaforsen to treat pouchitis ahead of its Phase 3 data expected in the second half of 2017.
+ 
+ATL1103 – ATL1103 is an antisense drug we designed to reduce the production of the growth hormone receptor, or GHr, to treat patients with acromegaly. Acromegaly is a serious chronic life threatening disease triggered by excess secretion of GHr by benign pituitary tumors. In 2001, we licensed ATL1103 to Antisense Therapeutics Limited, or ATL.
+ 
+RG-012 – RG-012 is an anti-miR, or an antisense oligonucleotide inhibitor of microRNA, targeting microRNA-21, or miR-21, to treat patients with Alport syndrome. Alport syndrome is a life-threatening genetic kidney disease with no approved therapy. While there is little known information on the progression of this disease, scientists believe that miR-21 plays a critical role because they have observed increased miR-21 levels in animal models of Alport syndrome and in patients with chronic kidney disease. Regulus is developing RG-012 in a strategic alliance with Genzyme, a Sanofi company, to treat Alport syndrome. In December 2015, Regulus completed a Phase 1 randomized, double-blind, placebo-controlled, single ascending dose study showing the drug was well-tolerated.
+ 
+Apatorsen – Apatorsen is an antisense drug we designed to reduce the production of heat shock protein 27, or Hsp27, to treat patients with cancer. In January 2005, we entered into an agreement with OncoGenex to develop apatorsen. Under the terms of the agreement, OncoGenex is responsible for all development costs and activities. OncoGenex and collaborators are evaluating apatorsen in multiple Phase 2 studies in patients with cancer.
+Plazomicin – Plazomicin is an aminoglycoside drug that Achaogen, Inc. is developing for the treatment of multi-drug resistant gram-negative bacterial infections. Aminoglycosides are a group of antibiotics that inhibit bacterial protein synthesis that physicians can use to treat serious bacterial infections. In 2006, we licensed our proprietary aminoglycoside program to Achaogen. Achaogen discovered plazomicin based on technology licensed from us. Achaogen conducted two Phase 3 studies for plazomicin, CARE and EPIC. The CARE Phase 3 study was designed to evaluate the efficacy of plazomicin in patients with infections caused by carbapenem-resistant Enterobacteriaceae, or CRE. In December 2016, Achaogen announced that a lower rate of mortality or serious disease-related complications were observed in its CARE Phase 3 study in patients receiving plazomicin compared with colistin therapy, one of the few remaining antibiotics for treatment of infections due to CRE. Also in December 2016, Achaogen announced that the EPIC Phase 3 study to evaluate the efficacy of plazomicin in patients with complicated urinary tract infections, met its primary endpoints.
+  15
+ 
+
+Achaogen plans to submit an NDA, which will include EPIC and CARE data, to the FDA in the second half of 2017 and also plans to submit an MAA to the EMA in 2018.
+ 
+The FDA has granted Fast Track Status for the development and regulatory review of plazomicin to treat serious and life-threatening CRE infections. In addition, plazomicin has received Qualified Infectious Disease Product, or QIDP, designation from the FDA. The QIDP designation was created by the Generating Antibiotic Incentives Now, or GAIN, Act, which was part of the FDA Safety and Innovation Act and provides certain incentives for the development of new antibiotics, including priority review and an additional five years of market exclusivity.
+ 
+ATL1102 – ATL1102 is an antisense drug we designed to reduce the production of CD49d, a subunit of Very Late Antigen-4, or VLA-4, for the treatment of patients with multiple sclerosis, or MS. Results from preclinical studies demonstrated that inhibition of VLA-4 could positively affect a number of inflammatory diseases, including MS. In 2001, we licensed ATL1102 to ATL. ATL completed a chronic toxicology study in primates and a Phase 2a efficacy and safety trial. ATL1102 was shown by ATL to reduce MS lesions in the Phase 2a clinical trial. ATL plans to submit an IND application for its Phase 2b study in early 2017.
+ 
+RG-101 – RG-101 is an anti-miR targeting microRNA-122, or miR-122, to treat patients with hepatitis C virus, or HCV. RG-101 is wholly owned by Regulus, but Regulus has entered into a clinical trial collaboration with GSK. Regulus is evaluating RG-101 as part of an HCV combination regimen with GSK’s investigational HCV compound. Regulus completed a Phase 1/2 study in patients with HCV and is evaluating RG-101 in a Phase 2 study in combination with direct acting antivirals in patients with HCV. Regulus is also evaluating RG-101 in a Phase 1 study in patients with severe renal insufficiency or end-stage renal disease. The FDA initiated a clinical hold after Regulus reported a second serious adverse event, or SAE, of jaundice in June 2016. Subsequently, the FDA requested the final safety and efficacy data from on-going RG-101 clinical and pre-clinical studies before reconsidering the clinical hold. Regulus anticipates that data will be available in the fourth quarter of 2017.
+ 
+RG-125 – RG-125, also referred to as AZD4076, is a GalNAc-conjugated anti-miR targeting microRNA-103/107, or miR-103/107, for the treatment of NASH in patients with type 2 diabetes/pre-diabetes. Regulus reported that inhibition of miR-103/107 with anti-miRs led to a sustained reduction in fasting glucose and fasting insulin levels in mouse models. RG-125 is part of the strategic alliance between Regulus and AstraZeneca to discover and develop microRNA therapeutics for cardiovascular diseases, metabolic diseases and oncology. In December 2015, Regulus transferred all future development of RG-125 to AstraZeneca. In December 2015, AstraZeneca initiated a Phase 1 study evaluating RG-125 in healthy volunteers and in the third quarter of 2016, AstraZeneca initiated a Phase 1/2a study in patients with type 2 diabetes and NAFLD.
+ 
+Antisense Technology
+ 
+Our antisense technology is an innovative platform for discovering first-in-class or best-in-class drugs for treating disease. We believe this technology represents an important advance in the way we treat disease because, unlike most other drug technologies that target existing proteins in the body, antisense technology is an RNA-targeted drug technology. The unique properties of antisense drugs provide several advantages over traditional drug discovery technologies. These advantages include:
+
+● | Direct application to diseases at the genetic level by targeting RNA: antisense technology represents a direct route from gene to drug. The explosion in genomic information has led to the discovery of many new disease-causing proteins and RNAs, and has created new opportunities accessible to antisense technology.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Precise specificity: we design antisense drugs to target a single RNA, which minimizes or eliminates the possibility our drugs will bind to unintended targets which can cause unwanted side effects.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Good drug properties: antisense drugs distribute well throughout the body without the need for special formulations or vehicles. They also have a relatively long half-life of approximately two to four weeks, which means patients and/or healthcare providers can dose our drugs once a week. Antisense drugs using our more advanced technology also have the potential for patients and/or their healthcare providers to dose our drugs once a month, once a quarter or even less frequently.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Ability to combine with other drugs: because antisense drugs do not interact with the enzymes that metabolize or break down other drugs, physicians can use our drugs in combination with other drugs.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Broad applications to multiple disease targets, multiple tissues and multiple mechanisms: there are virtually no “undruggable” targets with antisense technology.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Efficient discovery and early development: because of the efficiency of our antisense technology, our drug discovery and early development costs and success rates compare favorably to small molecule or antibody drug discovery and development.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+We identify antisense drugs to treat diseases for which there is a large unmet medical need, including severe and rare diseases for which there are limited or no current treatments or in diseases for which we believe our drugs have a competitive advantage over existing therapies.
+  16
+ 
+
+Technology Overview
+ 
+We use our core technology platform to discover and develop drugs that affect targets in the body at the genetic level. Genes contain the information necessary to produce proteins. A gene is made up of nucleotides containing the nucleoside bases: adenine, thymine, guanine, and cytosine, commonly known as A, T, G and C, which are linked together to form a two-stranded structure that resembles a twisted ladder, known as deoxyribonucleic acid, or DNA. The nucleotides on one side of the ladder bind weakly to complementary nucleotides on the other strand according to specific rules; for example, A pairs with T and G pairs with C, creating the ladder’s rungs (figure 1). Scientists call this highly specific nucleotide pairing hybridization. The sequence or order of these nucleotides establishes the cell’s recipes for making proteins. Each protein’s instructions reside in a corresponding segment of DNA known as a gene.
+ 
+
+Figure 1: Illustration of DNA.
+ 
+
+Figure 2: Transcription of information contained in a gene, or DNA, to mRNA.
+ 
+ 17
+ 
+
+The instructions for making a protein are transcribed from a gene, or DNA, into a different genetic molecule called messenger RNA. This process starts with the partial uncoiling of the two complementary strands of the DNA. One strand acts as a template and information stored in the DNA template strand is copied into a complementary RNA (figure 2). Messenger RNA, or mRNA, are mature, fully processed RNA that code for proteins. Ribosomes, the cell’s factories for manufacturing proteins, translate mRNA into proteins. The ribosome reads the encoded information, the mRNA’s nucleotide sequence, and in doing so, strings together amino acids to form a specific protein (figure 3).
+ 
+
+Figure 3: Translation of the protein-coding information contained in mRNA to protein.
+ 
+We primarily use our antisense technology to interrupt the cell’s protein production process by preventing the mRNA instructions from reaching the ribosome, thus inhibiting the production of the protein. The mRNA sequence of nucleotides that carries the information for protein production is called the ‘sense’ strand. Scientists call the complementary nucleotide chain that binds specifically to the sense strand the “antisense” strand. We use the information contained in mRNA to design chemical structures, that we call antisense oligonucleotides or antisense drugs, which resemble DNA and RNA and are the complement of RNA. Our antisense drugs can selectively bind to an mRNA that codes for a specific protein and will not bind to closely related RNAs, providing a level of specificity that is better than traditional drugs. As a result, we can design antisense drugs that selectively inhibit the disease-causing member of the protein group without interfering with those members of the protein group necessary for normal bodily functions. This unique specificity means that antisense drugs may be less toxic than traditional drugs because we can design them to minimize the impact on unintended targets. We can also design antisense drugs to increase the production of beneficial proteins.
+ 
+We have developed the majority of the drugs in our pipeline using our advanced screens to produce drugs with what we believe are the best possible safety and tolerability profiles. We refer to our drugs that have passed these advanced screens as Generation 2.0+ drugs. We continue to advance our antisense technology to create even more potent drugs that we can use in more tissues and against more targets. These advances allow us to expand the mechanisms through which we can use our drugs. These advancements provide us with greater opportunities to use our antisense drugs to treat a greater number of diseases and reach more patient populations. Today several of our early stage drugs and those entering our pipeline use our most advanced antisense technology, including our next generation chemistry, Generation 2.5, and our LICA technology.
+ 
+Generation 2.5 chemistry is an advancement that we believe increases the potency of our drugs by up to 10-fold over our Generation 2.0+ drugs. This increase in potency enables our drugs to engage targets in a broader array of tissues. We have published data demonstrating that our Generation 2.5 drugs generally have enhanced potency over our Generation 2.0+ drugs and are broadly distributed throughout the body to multiple tissues including liver, kidney, lung, muscle, adipose, adrenal gland, peripheral nerves and tumor tissues. Our Generation 2.5 drugs constitute some of our recently added new drugs.
+ 
+In addition to improving the chemical foundation of our drugs, we design our LICA technology to enhance the delivery of our drugs to particular tissues. This technology adds specific chemical structures or molecules, such as conjugates, onto antisense drugs to increase the efficiency of drug uptake in a particular tissue. We have demonstrated that our LICA technology can further enhance the potency of our drugs. For example, our LICA technology directed toward liver targets has produced a greater than thirty fold increase in potency in a Phase 1 study of AKCEA-APO(a)-LRx. We can combine our LICA technology with both our Generation 2.0+ and our Generation 2.5 drugs to increase the potency of these drugs. We designed these first LICA drugs to inhibit targets in the liver. We are also developing LICA conjugation technology that we can use to target other tissues. We expect that we can enhance some of our future drugs, including our Generation 2.5 drugs with our LICA technology.
+  18
+ 
+
+Antisense Targets and Mechanisms
+ 
+There are more than a dozen different antisense mechanisms that we can exploit with our antisense technology. The majority of the drugs in our pipeline bind to mRNAs and inhibit the production of disease-causing proteins. Our antisense technology is broadly applicable to many different antisense mechanisms, including RNA splicing, exon skipping, RNA interference, or RNAi, and enhancing protein translation to increase protein production. We have also recently published research showing that we can use our proprietary oligonucleotide technology with CRISPR/Cas9, a gene editing system. Our work in this area provides an important step toward development of a potential therapeutic application for CRISPR technology.
+ 
+The antisense drugs we design to inhibit the production of disease-causing proteins or reduce harmful RNAs bind to the target RNA via highly specific nucleotide pairing, or hybridizing, and recruiting a cellular enzyme called ribonuclease H1, or RNase H1, to degrade the target RNA. The drug itself remains intact during this process, so it can remain active against additional target RNA molecules and repeatedly trigger their degradation (figure 4). Examples of our clinical development stage antisense drugs that use the RNase H1 mechanism to reduce disease protein production include, volanesorsen, IONIS-TTRRx, IONIS-FXIRx, AKCEA-APO(a)-LRx and others.
+
+Figure 4: Antisense drug using the RNase H mechanism of action.
+ 
+SPINRAZA is an example of an antisense drug that modulates RNA splicing to increase protein production of the SMN protein (figure 5), which is critical to the health and survival of nerve cells in the spinal cord that are responsible for neuro-muscular function. The SMN protein is deficient in patients with SMA. There are a number of other diseases, including cystic fibrosis and Duchenne muscular dystrophy, which are the result of splicing disorders. These are diseases we could potentially treat using antisense modulation of splicing.
+  19
+ 
+
+Figure 5: Antisense drug altering splicing of the SMN2 mRNA.
+ 
+Another RNA target for our antisense technology is microRNAs. To date, scientists have identified more than 700 microRNAs in the human genome, and have shown that the absence or presence of specific microRNAs in various cells is associated with specific human diseases, including cancer, viral infection, metabolic disorders and inflammatory disease. To fully exploit the therapeutic opportunities of targeting microRNAs, we co-founded Regulus Therapeutics as a company focused on the discovery, development and commercialization of microRNA-based therapeutics. Regulus has reported human proof-of-concept data for RG-101 in HCV patients. These data demonstrated that treatment with a single subcutaneous dose of RG-101 as a single agent resulted in significant and sustained reductions in HCV RNA in a varied group of patients.
+ 
+We are also making progress in designing antisense drugs to target long, non-coding RNAs, or lncRNAs. These lncRNAs do not make proteins but may regulate other genes. In 2014, we published a paper in Nature in which we were the first to show that targeted reduction of an lncRNA with an antisense compound can ameliorate certain cognitive deficits in a mouse model of Angelman syndrome, or AS. Moreover, these studies demonstrate the potential therapeutic benefits of an antisense drugs for the treatment of AS.
+ 
+Because the efficiency of our core technology platform can support multiple target-based antisense research programs without significantly increasing costs, we can develop antisense drugs to target a broad range of diseases, efficiently producing a large and broad proprietary portfolio of drugs. We are currently pursuing antisense drug discovery programs focused on various severe and rare, cardiovascular, neurologic and metabolic diseases, and cancer.
+ 
+Collaborative Arrangements and Licensing Agreements
+  
+Partnering Strategy
+
+ 
+We have established alliances with a cadre of leading global pharmaceutical companies that are working alongside us in developing our drugs, advancing our technology, preparing to commercialize our drugs and selling our drugs. Our partners include the following companies, among others: AstraZeneca, Biogen, Bayer, GSK, Janssen, Novartis and Roche. Our partners bring resources and expertise that augment and build upon our internal capabilities. The depth of our knowledge and expertise with antisense technology together with our strong financial position provides us the flexibility to partner our drugs at what we believe is the optimal time to maximize the near- and long-term value of our drugs. We have distinct partnering strategies that we employ based on the specific program, therapeutic area and the expertise and resources our potential partners may bring to the collaboration.
+
+● | We have strategic partnerships through which we can broadly expand our drug discovery efforts to new disease targets in specific therapeutic areas. Our partners provide expertise, tools and resources to complement our drug discovery efforts. For instance, we established a broad strategic alliance with Biogen that pairs Biogen’s extensive resources and expertise in neurodegenerative diseases with our antisense technology. Together we are creating a franchise of novel potential drugs for neurodegenerative diseases that we believe will expand both our pipeline and Biogen’s pipeline with promising new drugs. Most recently, we licensed SPINRAZA to Biogen and began receiving commercial revenue from SPINRAZA royalties in December 2016 after SPINRAZA’s approval by the FDA.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 20
+ 
+
+  
+● | We have partnerships with companies that bring significant expertise and global resources to develop and potentially commercialize drugs for a particular therapeutic area. In January 2017, we and Akcea initiated a collaboration with Novartis to develop and commercialize AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx. As a leader in the cardiovascular disease space, Novartis brings significant resources and expertise that should support the development and commercialization of these two drugs for significant high-risk patient populations. The collaboration with Novartis should enable us to accelerate the development of these drugs for broader patient populations as Novartis plans to conduct a cardiovascular outcomes study for each of these drugs.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We also form early stage research and development partnerships that allow us to expand the application of our technology to new therapeutic areas. For example, we established a collaboration with Janssen, which brings together our RNA-targeted technology platform and Janssen’s expertise in autoimmune disorders and therapeutic formulation to discover and develop antisense drugs to treat autoimmune disorders in the gastrointestinal, or GI, tract.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We also work with a consortium of companies that can exploit our drugs and technologies outside our primary areas of focus. We refer to these companies as satellite companies. Through our satellite company collaborations, we expand the reach and potential of RNA-targeting therapeutics into disease areas that are outside of our core focus.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Financial Impact of Our Partnerships
+ 
+Through our partnerships, we have created a broad and sustaining base of potential R&D revenue in the form of license fees, upfront payments and milestone payments while spending prudently to advance our pipeline and technology. Since 2007, we have received more than $1.9 billion in cash from upfront and licensing fees, equity purchase payments, milestone payments and research and development funding from our partnerships. We have the potential to earn nearly $13 billion in future milestone payments and licensing fees from our current partnerships. We also have the potential to share in the future commercial success of our inventions and drugs resulting from our partnerships through earn out or royalty arrangements. For example, with the approval of SPINRAZA in the U.S., we are adding commercial revenue from SPINRAZA royalties to our broad base of R&D revenue.
+Strategic Partnerships
+ 
+AstraZeneca
+ 
+Cardiometabolic and Renal Diseases Collaboration
+ 
+ In July 2015, we and AstraZeneca formed a strategic collaboration to discover and develop antisense therapies for treating cardiovascular and metabolic diseases primarily focused on targets in the kidney, and renal diseases. As part of the agreement, we granted AstraZeneca an exclusive license to a preclinical program and the option to license a drug for each target advanced under this research collaboration. Upon acceptance of a drug development candidate, AstraZeneca will be responsible for all further global development, regulatory and commercialization activities for such drug.
+ 
+Under the terms of the agreement, we received a $65 million upfront payment. We are eligible to receive license fees and milestone payments of up to more than $4 billion as drugs under this collaboration advance. In addition, we are eligible to receive tiered royalties up to the low teens on sales from any product that AstraZeneca successfully commercializes under this collaboration agreement. From inception through February 2017, we have generated $90 million in payments under this collaboration, including $25 million when we moved the first development candidate, IONIS-AZ4-2.5-LRx, our first Generation 2.5+ LICA drug, into preclinical development in December 2016.
+
+
+ 
+Oncology Collaboration
+ 
+In December 2012, we entered into a collaboration agreement with AstraZeneca to discover and develop antisense drugs for cancer. As part of the agreement, we granted AstraZeneca an exclusive license to develop and commercialize IONIS-STAT3-2.5Rx for the treatment of cancer and an option to license up to three anti-cancer drugs under a separate research program. AstraZeneca is responsible for all global development, regulatory and commercialization activities for IONIS-STAT3-2.5Rx. We and AstraZeneca have evaluated IONIS-STAT3-2.5Rx in patients with advanced metastatic hepatocellular carcinoma and advanced lymphoma. AstraZeneca is evaluating IONIS-STAT3-2.5Rx in combination with MEDI4736, AstraZeneca's investigational anti-PD-L1 drug, in patients with head and neck cancer and in patients with diffuse large B cell lymphoma. For the research program, we are responsible for identifying a development candidate for each of the three anti-cancer research programs. AstraZeneca has the option to license drugs resulting from each of the three anti-cancer research programs, and if AstraZeneca exercises its option for a drug, it will be responsible for all further global development, regulatory and commercialization activities for such drug. The first development candidate identified under the anti-cancer research program was IONIS-KRAS-2.5Rx, which AstraZeneca licensed from us in December 2016. IONIS-KRAS-2.5Rx is a Generation 2.5 antisense drug we designed to directly target KRAS, one of the most frequently mutated genes in cancer. 
+ 
+Under the terms of the agreement, we received $31 million in upfront payments. We are eligible to receive milestone payments and license fees from AstraZeneca as programs advance in development. In addition, we are eligible to receive tiered royalties up to the low to mid-teens on sales from any drugs resulting from these programs. If AstraZeneca successfully develops IONIS-STAT3-2.5Rx, IONIS-KRAS-2.5Rx and two other drugs under the research program, we could receive license fees and milestone payments of up to more than $750 million. From inception through February 2017, we have generated more than $95 million in payments under this collaboration, including $28 million we earned in December 2016 following the completion of IND-supporting studies and AstraZeneca’s license of IONIS-KRAS-2.5Rx.
+  21
+ 
+
+For additional details about our collaboration agreements with AstraZeneca, including other financial information and termination provisions, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+ 
+Biogen
+ 
+We have four strategic collaborations with Biogen focused on using antisense technology to advance the treatment of neurological disorders. These collaborations combine our expertise in creating antisense drugs with Biogen's expertise in developing therapies for neurological disorders. We developed and licensed to Biogen SPINRAZA, our recently approved drug to treat pediatric and adult patients with SMA. Additionally, we and Biogen are currently developing four other drugs to treat neurodegenerative diseases under these collaborations, including IONIS-SOD1Rx, and three drugs to treat undisclosed neurodegenerative diseases, IONIS-BIIB4Rx, IONIS-BIIB5Rx and IONIS-BIIB6Rx. In addition to these drugs, we and Biogen are evaluating numerous additional targets to develop drugs to treat neurological diseases. From inception through February 2017, we have generated over $550 million from our Biogen collaborations.
+ 
+ SPINRAZA (nusinersen)
+ 
+In January 2012, we entered into a collaboration agreement with Biogen to develop and commercialize SPINRAZA, an RNA-targeted therapy for the treatment of SMA. In December 2016, the FDA approved SPINRAZA for the treatment of SMA in pediatric and adult patients. SPINRAZA is currently under Accelerated Assessment with the EMA for marketing authorization.  Biogen has also submitted regulatory filings in Japan, Canada and Australia and will be initiating regulatory filings in additional countries in 2017. Under our collaboration agreement, we received an upfront payment of $29 million in January 2012 and we are eligible to receive up to an additional $346 million in a license fee and payments. We are also eligible to receive tiered royalties up to the mid-teens on any sales of SPINRAZA. We have exclusively in-licensed patents related to SPINRAZA from Cold Spring Harbor Laboratory and the University of Massachusetts. We are obligated to pay Cold Spring Harbor Laboratory and the University of Massachusetts nominal amounts for license fees and milestone payments we receive and a low single digit royalty on sales of SPINRAZA. From inception through February 2017, we have generated nearly $320 million in payments for advancing SPINRAZA, including a $75 million license fee we received from Biogen when Biogen licensed SPINRAZA and a $60 million milestone payment we earned from Biogen upon receiving FDA approval, both in 2016. Biogen is responsible for all further global development, regulatory and commercialization activities and costs for SPINRAZA.
+ 
+IONIS-DMPK-2.5Rx
+ 
+In June 2012, we and Biogen entered into a second and separate collaboration agreement to develop and commercialize a novel antisense drug, IONIS-DMPK-2.5Rx, targeting DMPK for the treatment of myotonic dystrophy type 1, or DM1. We are responsible for global development of the drug through the completion of the first Phase 2 clinical trial. We completed a Phase 1/2 clinical study in patients with DM1. Based on the data reported in December 2016, we plan to pursue a more potent drug using our LICA technology. From inception through February 2017, we have generated nearly $39 million in payments for advancing IONIS-DMPK-2.5Rx.
+ 
+Neurology
+ 
+In December 2012, we and Biogen entered into a separate collaboration agreement to develop and commercialize novel antisense drugs to up to three targets to treat neurodegenerative diseases. We are responsible for the development of each of the drugs through the completion of the initial Phase 2 clinical study for such drug. Biogen has the option to license a drug from each of the three programs through the completion of the first Phase 2 study for each program. We are currently advancing IONIS-BIIB4Rx under this collaboration. If Biogen exercises its option for a drug, it will assume all further global development, regulatory and commercialization responsibilities for that drug. Under the terms of the agreement, we received an upfront payment of $30 million. Over the term of the collaboration, we are eligible to receive up to an additional $259 million in a license fee and milestone payments per program. In addition, we are eligible to receive tiered royalties up to the mid-teens on sales from any drugs resulting from each of the three programs. From inception through February 2017, we have generated $43 million in payments under this collaboration.
+Strategic Neurology
+ 
+In September 2013, we and Biogen entered into a long-term strategic relationship focused on applying antisense technology to advance the treatment of neurodegenerative diseases. As part of the collaboration, Biogen gained exclusive rights to the use of our antisense technology to develop therapies for neurological diseases and has the option to license drugs resulting from this collaboration. The exclusivity for neurological diseases will last through September 2019, and may be extended for any drug development programs Biogen is pursuing under the collaboration. We will usually be responsible for drug discovery and early development of antisense drugs and Biogen will have the option to license antisense drugs after Phase 2 proof of concept. In October 2016, we expanded our collaboration to include the additional research activities we will perform. If Biogen exercises its option for a drug, it will assume all further global development, regulatory and commercialization responsibilities for that drug. We are currently advancing three drugs, IONIS-SOD1Rx, IONIS-BIIB5Rx, and IONIS-BIIB6Rx under this collaboration. Biogen will be responsible for all of the drug discovery and development activities for drugs using other modalities.
+  22
+ 
+
+Under the terms of the agreement, we received an upfront payment of $100 million and are eligible to receive milestone payments, license fees and royalty payments for all drugs developed through this collaboration, with the specific amounts dependent upon the modality of the molecule advanced by Biogen. For each antisense molecule that is chosen for drug discovery and development under this collaboration, we are eligible to receive up to approximately $260 million in a license fee and milestone payments. In addition, we are eligible to receive tiered royalties up to the mid-teens on sales from any antisense drugs developed under this collaboration. If other modalities are chosen, such as small molecules or monoclonal antibodies, we are eligible to receive up to $90 million in milestone payments. In addition, we are eligible to receive tiered single-digit royalties on sales from any drugs using non-antisense modalities developed under this collaboration. From inception through February 2017, we have generated nearly $150 million in payments under this collaboration.
+ 
+For additional details about our collaboration agreements with Biogen, including other financial information and termination provisions, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+ 
+Research, Development and Commercialization Partners
+ 
+Bayer
+ 
+In May 2015, we entered into an exclusive license agreement with Bayer to develop and commercialize IONIS-FXIRx for the prevention of thrombosis. We were responsible for completing a Phase 2 study of IONIS-FXIRx in patients with end-stage renal disease on hemodialysis. Under the terms of the agreement, we received a $100 million upfront payment in the second quarter of 2015. In February 2017, we amended our agreement with Bayer to advance IONIS-FXIRx and to initiate the development of IONIS-FXI-LRx, which Bayer licensed. In conjunction with the decision to advance these programs, we will receive a $75 million payment from Bayer. We plan to conduct a Phase 2b study evaluating IONIS-FXIRx in patients with end-stage renal disease on hemodialysis to finalize dose selection. Additionally, we plan to rapidly develop IONIS-FXI-LRx through Phase 1. Following these studies and Bayer's decision to further advance these programs, Bayer will be responsible for all global development, regulatory and commercialization activities for both drugs. We are eligible to receive additional milestone payments as each drug advances toward the market. In total over the term of our collaboration, we are eligible to receive up to $385 million in license fees, milestone payments and other payments. In addition, we are eligible to receive tiered royalties in the low to high twenty percent range on gross margins of both drugs combined. From inception through February 2017, we have generated over $175 million in payments under this collaboration.
+ 
+For additional details about our collaboration agreement with Bayer, including other financial information and termination provisions, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+ 
+ GSK
+ 
+In March 2010, we entered into an alliance with GSK using our antisense drug discovery platform to discover and develop new drugs against targets for rare and serious diseases, including infectious diseases and some conditions causing blindness. Our alliance currently comprises four drugs in development, including our Phase 3 drug IONIS-TTRRx. We are currently conducting a Phase 3 study for IONIS-TTRRx and we plan to report data from this study in the second quarter of 2017. GSK has the exclusive option to license drugs resulting from this alliance after Phase 2 proof-of-concept for a license fee, including IONIS-TTRRx. If GSK exercises its exclusive option for any drugs resulting from this alliance, it will be responsible for all further global development, regulatory and commercialization activities for such drug.
+
+
+ In addition to IONIS-TTRRx, we have three drugs in development with GSK, including two antisense drugs we designed to reduce the production of viral proteins associated with hepatitis B virus, or HBV, infection; IONIS-HBVRx and IONIS-HBV-LRx, a follow-on drug using our LICA technology. GSK is currently developing IONIS-HBVRx and IONIS-HBV-LRx, and if GSK exercises its exclusive option for either of these drugs, it will be responsible for all further global development, regulatory and commercialization activities.  We are also developing IONIS-GSK4-LRx which is an antisense drug we designed to treat an ocular disease.
+ 
+Under our agreement, if GSK successfully develops all four drugs for one or more indications and achieves pre-agreed sales targets, we could receive license fees and milestone payments of up to nearly $900 million. From inception through February 2017, we have generated more than $155 million in payments under this alliance with GSK. In addition, we are eligible to receive tiered royalties up to the mid-teens on sales from any product that GSK successfully commercializes under this alliance.
+ 
+For additional details about our collaboration agreement with GSK, including other financial information and termination provisions, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+  
+Janssen Biotech, Inc., a pharmaceutical company of Johnson & Johnson
+
+
+In December 2014, we entered into a collaboration agreement with Janssen Biotech, Inc. to discover and develop antisense drugs that can be locally administered, including oral delivery, to treat autoimmune disorders of the gastrointestinal tract. Janssen has the option to license drugs from us through the designation of a development candidate for up to three programs. Prior to option exercise we are responsible for the discovery activities to identify a development candidate. If Janssen exercises an option for one of the programs, it will be responsible for the global development, regulatory and commercial activities under that program. Under the terms of the agreement, we received $35 million in upfront payments. We are eligible to receive up to nearly $800 million in milestone payments and license fees for these programs. From inception through February 2017, we generated more than $50 million in payments under this collaboration, including the $10 million license fee we earned in July 2016 when Janssen licensed IONIS-JBI1-2.5Rx from us and a $5 million milestone payment when Janssen selected a development candidate for a second program in December 2016. In addition, we are eligible to receive tiered royalties up to the near teenson sales from any drugs resulting from this collaboration. 
+  23
+ 
+
+For additional details about our collaboration agreement with Janssen, including other financial information and termination provisions, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+  
+Novartis
+
+
+In January 2017, we and Akcea initiated a collaboration with Novartis to develop and commercialize AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx. Under the collaboration, option and license agreement, Novartis has an exclusive option to develop and commercialize these drugs. Akcea is responsible for completing a Phase 2 dose ranging study and conducting an end-of-Phase 2 meeting with the FDA for each drug. If Novartis exercises an option for one of these drugs, Novartis will be responsible for all further global development, regulatory and commercialization activities for each drug.
+ 
+Akcea will receive a $75 million upfront payment, of which Akcea will retain $60 million and will pay us $15 million as a sublicense fee under our license agreement with Akcea. Beginning in 2017, we and Akcea will recognize revenue from this collaboration with Novartis. If Novartis exercises its option for a drug, Novartis will pay Akcea a license fee equal to $150 million for each drug it licenses. In addition, Akcea is eligible to receive up to $600 million and $530 million in milestone payments related to AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx, respectively. Akcea retains the right to co-commercialize any such drug through its specialized sales force focused on lipid specialists in selected markets. Akcea is also eligible to receive tiered royalties in the mid-teens to low twenty percent range on net sales of AKCEA-APO(a)-LRx and AKCEA-APOCIII-LRx. Akcea will pay 50 percent of these license fees, milestone payments and royalties to us as a sublicense fee.
+ 
+Additionally, in January 2017, we and Akcea entered into a stock purchase agreement, or SPA, with Novartis. Under the SPA, Novartis purchased 1,631,435 shares of our common stock for $100 million. Additionally, Novartis has an obligation to make a further equity investment of $50 million on or before July 2018 in either our stock at the same premium as its initial investment or in Akcea’s stock.
+ 
+For additional details about our and Akcea’s collaboration agreement with Novartis, including other financial information and termination provisions, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+  
+Roche
+ 
+In April 2013, we formed an alliance with Hoffman-La Roche Inc. and F. Hoffmann-La Roche Ltd., collectively Roche, to develop treatments for HD based on our antisense technology. Roche has the option to license the drugs from us through the completion of the first Phase 1 trial. Under the agreement, we are responsible for the discovery and development of an antisense drug targeting HTT protein. We are currently evaluating a drug targeting HTT, IONIS-HTTRx, in a Phase 1/2 clinical study in patients with early stage HD. If Roche exercises its option, it will be responsible for global development, regulatory and commercialization activities for any drug arising out of the collaboration. Under the terms of the agreement, we received an upfront payment of $30 million in April 2013. We are eligible to receive up to $365 million in a license fee and milestone payments. In addition, we are eligible to receive up to $136.5 million in milestone payments for each additional drug successfully developed. We are also eligible to receive tiered royalties up to the mid-teens on sales from any product resulting from this alliance. From inception through February 2017, we have generated nearly $55 million in payments under this alliance with Roche.
+ 
+For additional details about our collaboration agreement with Roche, including other financial information and termination provisions, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+ 
+Satellite Company Partnerships
+ 
+ Achaogen, Inc.
+ 
+In 2006, we exclusively licensed to Achaogen, Inc. specific know-how, patents and patent applications relating to aminoglycosides. In connection with the license, Achaogen issued to us $1.5 million of Achaogen stock. Achaogen is developing plazomicin, an aminoglycoside Achaogen discovered based on the technology we licensed to Achaogen. If Achaogen successfully develops and commercializes two drugs under our agreement, we will receive payments totaling up to $49.3 million for the achievement of key clinical, regulatory and sales events. In December 2016, Achaogen announced positive data for its CARE Phase 3 study for plazomicin and that its EPIC Phase 3 study met its primary endpoints. Achaogen plans to submit an NDA, which will include EPIC and CARE data, to the FDA in the second half of 2017 and also plans to submit an MAA to the EMA in 2018. Through February 2017, we have earned $7 million in milestone payments from Achaogen, including a $4 million milestone payment we earned in September 2014 when Achaogen initiated a Phase 3 study of plazomicin We are also eligible to receive low single digit royalties on sales of drugs resulting from the program.  Achaogen is solely responsible for the continued development and commercialization of plazomicin.
+Alnylam Pharmaceuticals, Inc.
+ 
+In March 2004, we entered into an alliance with Alnylam to develop and commercialize RNAi therapeutics. Under the terms of the agreement, we exclusively licensed to Alnylam our patent estate relating to antisense motifs and mechanisms and oligonucleotide chemistry for double-stranded RNAi therapeutics in exchange for a $5 million technology access fee, participation in fees from Alnylam’s partnering programs, as well as future milestone and royalty payments from Alnylam. For each drug Alnylam develops under this alliance, we may receive up to $3.4 million in milestone payments. We also have the potential to earn a portion of payments that Alnylam receives from licenses of our technology it grants to its partners, plus royalties. We retained rights to a limited number of double-stranded RNAi therapeutic targets and all rights to single-stranded RNAi, or ssRNAi, therapeutics.
+  24
+ 
+
+ In turn, Alnylam nonexclusively licensed to us its patent estate relating to antisense motifs and mechanisms and oligonucleotide chemistry to research, develop and commercialize single-stranded antisense therapeutics, ssRNAi therapeutics, and to research double-stranded RNAi compounds. We also received a license to develop and commercialize double-stranded RNAi drugs targeting a limited number of therapeutic targets on a nonexclusive basis. If we develop or commercialize an RNAi-based drug using Alnylam’s technology, we will pay Alnylam up to $3.4 million in milestone payments for specified development and regulatory events, plus royalties. To date, we do not have an RNAi-based drug in development.
+ 
+In 2015, we and Alnylam entered into an alliance in which we formed an intellectual property cross-license under which we and Alnylam each obtained exclusive license rights to four therapeutic programs. Alnylam granted us an exclusive, royalty-bearing license to its chemistry, RNA targeting mechanism and target-specific intellectual property for oligonucleotides against four targets, including FXI and Apo(a) and two other targets. In exchange, we granted Alnylam an exclusive, royalty-bearing license to our chemistry, RNA targeting mechanism and target-specific intellectual property for oligonucleotides against four other targets. Alnylam also granted us a royalty-bearing, non-exclusive license to new platform technology arising from May 2014 through April 2019 for single-stranded antisense therapeutics. In turn, we granted Alnylam a royalty-bearing, non-exclusive license to new platform technology arising from May 2014 through April 2019 for double-stranded RNAi therapeutics. Through February 2017, we have generated over $70 million from Alnylam.
+ 
+ Antisense Therapeutics Limited
+ 
+ In 2001, we licensed ATL1102 and ATL1103 to ATL, an Australian company publicly traded on the Australian Stock Exchange. ATL completed a Phase 2a efficacy and safety trial and has also completed a chronic toxicology study in primates to support a potential Phase 2b trial of ATL1102 in patients with MS. In addition, ATL is currently developing ATL1103 for growth and sight disorders. We are eligible to receive royalties on sales of ATL1102 and ATL1103. We may also receive a portion of the fees ATL receives if it licenses ATL1102 or ATL1103.
+Atlantic Pharmaceuticals Limited
+ 
+ In March 2007, we licensed alicaforsen to Atlantic Pharmaceuticals, a UK-based specialty pharmaceutical company founded in 2006. Atlantic Pharmaceuticals is developing alicaforsen for the treatment of UC and other inflammatory diseases. Atlantic Pharmaceuticals is initially developing alicaforsen for pouchitis, a UC indication, followed by UC and other inflammatory diseases. In January 2017, Atlantic announced that it received agreement from the FDA to initiate a rolling submission of its NDA for alicaforsen. In exchange for the exclusive, worldwide license to alicaforsen, we received a $2 million upfront payment from Atlantic Pharmaceuticals in the form of equity. In 2010, Atlantic Pharmaceuticals began supplying alicaforsen under international named patient supply regulations for patients with IBD for which we receive royalties. Under the agreement, we could receive milestone payments totaling up to $1.4 million for the achievement of regulatory milestones for multiple indications. 
+ 
+ Dynacure, SAS
+ 
+In October 2016, we entered into a collaboration with Dynacure to discover, develop and commercialize an antisense drug for the treatment of neuromuscular diseases. We and Dynacure will share research responsibilities to identify a drug development candidate. Upon exercising its option to license the drug, Dynacure will assume all responsibility for development and commercialization. Under the terms of the agreement, we obtained a 15 percent equity ownership in Dynacure. If Dynacure advances a target under this collaboration, we could receive cash or equity up to more than $210 million in a license fee and milestone payments for specified development, regulatory and sales events. In addition, we are eligible to receive royalties on future product sales of the drug under this collaboration.
+  
+OncoGenex Technologies Inc., a subsidiary of OncoGenex Pharmaceuticals, Inc.
+
+ 
+In January 2005, we entered into an agreement with OncoGenex to allow for the development of an antisense anti-cancer drug, apatorsen. OncoGenex and collaborators are evaluating apatorsen in multiple Phase 2 studies in patients with cancer. OncoGenex is responsible for all development costs and activities. OncoGenex will pay us milestone payments totaling up to $5.8 million for the achievement of key development and regulatory milestones. We are eligible to receive royalties on future product sales of apatorsen. In 2016, we received $1.4 million from OncoGenex related to custirsen, another drug OncoGenex was developing under a collaboration agreement with us. In early 2017, OncoGenex Pharmaceuticals, Inc. entered into a definitive merger agreement under which OncoGenex will acquire Achieve Life Sciences in an all-stock transaction. The merger is expected to close mid-2017. Upon closing OncoGenex Pharmaceuticals, Inc. will be renamed Achieve Life Sciences, Inc.
+
+
+ Regulus Therapeutics Inc.
+ 
+In September 2007, we and Alnylam established Regulus as a company focused on the discovery, development and commercialization of microRNA-targeting therapeutics. We and Alnylam retain rights to develop and commercialize, on pre-negotiated terms, microRNA therapeutic products that Regulus decides not to develop either by itself or with a partner. Regulus is addressing therapeutic opportunities that arise from alterations in microRNA expression. Since microRNAs may act as master regulators of the genome, affecting the expression of multiple genes in a disease pathway, microRNA therapeutics define a new platform for drug discovery and development. MicroRNAs may also prove to be an attractive new tool for characterizing diseases. Regulus focuses its drug discovery and development efforts in numerous therapeutic areas, including cancer, fibrosis, and viral infections. Regulus currently has three drugs in clinical development. Regulus is evaluating RG-101 in a Phase 2 study in patients with HCV and in a Phase 1 study in patients with severe renal insufficiency or end-stage renal disease. Regulus completed a Phase 1 study of RG-012, a drug to treat patients with Alport syndrome. Regulus and AstraZeneca are also evaluating RG-125 in a Phase 1 study for the treatment of NASH in patients with type 2 diabetes or pre-diabetes. We are eligible to receive royalties on any future product sales of these drugs.
+  25
+ 
+
+ The University of Texas MD Anderson Cancer Center
+ 
+ In May 2016, we entered into a collaboration agreement with the University of Texas MD Anderson Cancer Center to identify cancer targets and create novel antisense drugs to treat cancer together. In the collaboration, we and MD Anderson will work together to validate novel “undruggable” cancer targets selected based on human genomic data. We will lead the drug discovery efforts against mutually agreed upon novel targets and MD Anderson will lead development activities through clinical proof of concept. Following clinical proof of concept, we and MD Anderson plan to identify a partner to complete development and to commercialize each drug with us leading business development efforts. Under the five year collaboration, we and MD Anderson will evenly share costs specific to our collaboration.
+ 
+For additional details about our satellite company arrangements, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+
+
+External Project Funding
+  
+We are pursuing discovery and development projects that provide us with new therapeutic applications for antisense drugs. These programs represent opportunities for us and our technology. In some cases, we have funded these studies through support from our partners or disease advocacy groups and foundations.
+CHDI Foundation, Inc.
+ 
+Starting in November 2007, CHDI provided financial and scientific support to our Huntington’s disease drug discovery program through our development collaboration. In April 2013, we formed an alliance with Roche to develop treatments for Huntington’s disease. Under the terms of our agreement with CHDI, we will reimburse CHDI for a portion of its support of our Huntington’s disease program out of the payments we receive from Roche. We made payments of $5 million and $3 million to CHDI in 2015 and 2013, respectively, associated with the progression of our Huntington’s disease program. If we achieve pre-specified milestones under our collaboration with Roche, we will make additional research related payments to CHDI up to $4 million, upon completion of our Phase 1/2 study of IONIS-HTTRx. If Roche licenses IONIS-HTTRx, we will make an additional payment to CHDI.
+ 
+ Cystic Fibrosis Foundation
+ 
+In August 2016, we entered into a collaboration agreement with the Cystic Fibrosis Foundation to discover and advance a drug for the treatment of Cystic Fibrosis. Under this agreement, we received upfront payments of $1 million and we are eligible to receive additional milestone payments up to $2 million. Under the agreement, we and the Cystic Fibrosis Foundation will evenly share the first $3 million of costs specific to our collaboration.  We are obligated to pay the Cystic Fibrosis Foundation up to $18 million upon achieving specific regulatory and sales events if we advance a drug under our collaboration.
+The Ludwig Institute; Center for Neurological Studies
+ 
+ In October 2005, we entered into a collaboration agreement with the Ludwig Institute, the Center for Neurological Studies and researchers from these institutions to discover and develop antisense drugs for ALS and other neurodegenerative diseases. Under this agreement, we agreed to pay the Ludwig Institute and Center for Neurological Studies modest milestone payments and royalties on any antisense drugs resulting from the collaboration.
+ 
+For additional details about our external project funding collaborations, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+ 
+Intellectual Property Sale and Licensing Agreements
+  
+We have a broad patent portfolio covering our products and technologies. We believe our patent estate represents the largest and most valuable nucleic acid therapeutics-oriented patent estate in the pharmaceutical industry. While the principal purpose of our intellectual property portfolio is to protect our products and those of our partners described above, our intellectual property is a strategic asset that we are exploiting to generate near-term revenues and that we expect will also provide us with revenue in the future. We have an active intellectual property sales and licensing program in which we sell or license aspects of our intellectual property to companies. Through this program, we also license our non-antisense patents. To date, we have generated over $440 million from our intellectual property sale and licensing program that helps support our internal drug discovery and development programs.
+Sales of Intellectual Property
+ 
+ Abbott Molecular Inc.
+ 
+In January 2009, we sold our former subsidiary, Ibis Biosciences, to Abbott Molecular Inc., or AMI, pursuant to a stock purchase agreement for a total acquisition price of $215 million plus the earn out payments described below. Under the stock purchase agreement, we are eligible to receive earn out payments from AMI equal to a percentage of Ibis’ revenue related to sales of Ibis systems, which AMI launched in 2014 as IRIDICA, including instruments, assay kits and successor products. Once cumulative net sales reach $140 million, and through December 31, 2025, we are eligible to earn out payments in any year that net sales exceed $50 million for the applicable year. The earn out payments will equal five percent of Ibis’ cumulative net sales over $140 million and up to $2.1 billion, and three percent of Ibis’ cumulative net sales over $2.1 billion. AMI may reduce these earn out payments from five percent to as low as 2.5 percent and from three percent to as low as 1.5 percent, respectively, upon the occurrence of certain events.
+  26
+ 
+
+Kastle Therapeutics
+ 
+In May 2016, we entered into an agreement with Kastle under which Kastle acquired the global rights to develop and commercialize Kynamro. Kynamro is approved in the U.S. for use in patients with homozygous familial hypercholesterolemia to reduce low density lipoprotein-cholesterol, apolipoprotein B, total cholesterol and non-high density lipoprotein-cholesterol as an adjunct to lipid lowering medications and diet. We previously licensed Kynamro to Sanofi Genzyme. As a result, Sanofi Genzyme earns a three percent royalty on sales of Kynamro and three percent of non-royalty cash payments we receive from Kastle. Under the terms of our agreement with Kastle, we are eligible to receive up to $95 million, which includes a $15 million up-front payment we received in May 2016, a $10 million payment we are entitled to receive in May 2019 and up to $70 million in sales milestones. In December 2016, we amended our agreement with Kastle. As a result of the amendment, through 2017, Kastle will only pay us the three percent royalty we owe Sanofi Genzyme on sales of Kynamro. Beginning in 2018, we will be eligible to earn tiered royalties on global sales of Kynamro that average in the mid to low teens, increasing slightly in years 2020 and 2021. In addition in May 2016, we received a 10 percent common equity position in Kastle. Because realization of our equity position is uncertain, we recorded a full valuation allowance. Through February 2017, we have generated over $15 million from Kastle.
+ 
+ In-Licensing Arrangements
+ 
+ University of Massachusetts
+ 
+We have a license agreement with the University of Massachusetts under which we acquired an exclusive license to the University of Massachusetts’ patent rights related to SPINRAZA. We are obligated to pay the University of Massachusetts nominal amounts for license fees and milestone payments we receive and a low single digit royalty on sales of SPINRAZA.
+Cold Spring Harbor Laboratory
+ 
+We have a collaboration and license agreement with the Cold Spring Harbor Laboratory under which we acquired an exclusive license to the Cold Spring Harbor Laboratory’s patent rights related to SPINRAZA. We will pay a portion of any sublicense revenue and post licensing milestone payments we receive from Biogen under our SPINRAZA collaboration up to $11.3 million and a low single digit royalty on sales of SPINRAZA. In 2016, we paid Cold Spring Harbor Laboratory $3.4 million under our agreement.
+
+
+For additional details about our Intellectual Property Sale and Licensing arrangements, see Note 6, Collaborative Arrangements and Licensing Agreements, in the Notes to the Consolidated Financial Statements.
+ 
+
+Manufacturing
+ 
+In the past, except for small quantities, it was generally expensive and difficult to produce chemically modified oligonucleotides like the antisense drugs we use in our research and development programs. As a result, we have dedicated significant resources to develop ways to improve manufacturing efficiency and capacity. Since we can use variants of the same nucleotide building blocks and the same type of equipment to produce our oligonucleotide drugs, we found that the same techniques we used to efficiently manufacture one oligonucleotide drug could help improve the manufacturing processes for many other oligonucleotide drugs. By developing several proprietary chemical processes to scale up our manufacturing capabilities, we have greatly reduced the cost of producing oligonucleotide drugs. For example, we have significantly reduced the cost of raw materials through improved yield efficiency, while at the same time increasing our capacity to make the drugs. Through both our internal research and development programs and collaborations with outside vendors we may achieve even greater efficiency and further cost reductions.
+ 
+Our drug substance manufacturing facility is located in a 28,700 square foot building in Carlsbad, California. We lease this building under a lease that has an initial term ending on December 31, 2031 with an option to extend the lease for up to four additional five-year periods. In addition, we have a 25,800 square foot building that houses support functions for our manufacturing activities. We lease this facility under a lease that has an initial term ending in June 2021 with an option to extend the lease for up to two additional five-year periods. Our manufacturing facility is subject to periodic inspections by the FDA to ensure that it is operating in compliance with current Good Manufacturing Practices, or cGMP, requirements.
+ 
+As part of our collaborations we may agree to manufacture clinical trial materials and/or commercial supply for our partners. For example, in the past we have manufactured clinical supply materials for AstraZeneca, Bayer, Biogen, and GSK.
+ 
+We believe we have sufficient manufacturing capacity to meet our current internal research and development needs, including the Phase 3 clinical trials we have for volanesorsen and IONIS-TTRRx, as well as our current and future obligations under existing agreements with our partners for commercial, research and development needs. We produced the launch supply for SPINRAZA and Biogen is responsible for additional supply. Additionally, we believe we have sufficient manufacturing capacity to supply Akcea with the API and finished drug product for at least the first two years of volanesorsen’s commercial launch. GSK intends to provide the initial launch supplies for IONIS-TTRRx. We also believe that with reasonably anticipated benefits from increases in scale and improvements in chemistry, we can manufacture antisense drugs at commercially competitive prices.
+ 
+For LICA conjugated drugs, to date, we have manufactured ourselves or through a contract manufacturing organization only limited supplies of LICA for our own preclinical and clinical studies. LICA enables lower doses than unconjugated oligonucleotides. With our expertise in optimizing manufacturing of oligonucleotides, we believe we will develop new processes to scale up manufacturing of these LICA conjugated drugs at commercially competitive prices.
+  27
+ 
+
+Patents and Proprietary Rights
+ 
+Our success depends, in part, on our ability to obtain patent protection for our products in the United States and other countries. We own or have exclusively licensed a substantial patent estate with numerous issued patents worldwide protecting our products and, more generally, our platform for development and commercialization of oligonucleotide therapeutics. We focus our resources on patents and new patent applications that drive value for our company.
+ 
+We own or control patents that provide exclusivity for products in our pipeline and patents that provide exclusivity for our core technology in the field of antisense more generally. Our core technology patents include claims to chemically modified nucleosides and oligonucleotides as well as antisense drug designs utilizing these chemically modified nucleosides. These core claims are each independent of specific therapeutic target, nucleic acid sequence, or clinical indication. We also own a large number of patents claiming specific antisense compounds having nucleic acid sequences complementary to therapeutic target nucleic acids, independent of the particular chemical modifications incorporated into the antisense compound. Most importantly, we seek and obtain issued patent claims to specifically protect each of our drugs. For example, we file and seek to obtain claims covering each drug’s nucleic acid sequence and precise drug design. In sum, we maintain our competitive advantage in the field of antisense technology by protecting our core platform technology, which applies to most of our drugs, and by creating multiple layers of patent protection for each of our specific drugs in development.
+ 
+
+Type of Patent Claim | | Description
+---------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+------------
+1. Chemically Modified Nucleosides and Oligonucleotides 1. Antisense Drug Design Motifs 2. Therapeutic Methods 3. Antisense Sequence 4. Drug Composition | 1. Target and sequence independent 2. Sequence independent 3. Chemistry independent 4. Specific claim to drug candidates
+
+Chemically Modified Nucleosides and Oligonucleotides
+ 
+The most broadly applicable of our patents are those that claim modified nucleosides and oligonucleotides comprising the modified nucleosides that we incorporate into our antisense drugs to increase their therapeutic efficacy. Nucleosides and chemically modified nucleosides are the basic building blocks of our antisense drugs, therefore claims that cover any oligonucleotide incorporating one of our proprietary modified nucleosides can apply to a wide array of antisense mechanisms of action as well as several therapeutic targets. Of particular note are our patents covering our proprietary 2’-O-(2-methoxy) ethyl, or MOE, modified nucleosides, incorporated into many of our second generation development compounds, as well as our constrained-ethyl nucleosides, or cEt nucleosides incorporated into our Generation 2.5 compounds. 
+ 
+The following are some of our patents in this category in key jurisdictions (US, Europe and Japan):
+ 
+
+Jurisdiction | Patent No. | Title | Expiration | Description of Claims 
+--------------+------------+----------------------------------------------------------------------+------------+-------------------------------------------------------------------------------------
+United States | 7,101,993 | OLIGONUCLEOTIDES CONTAINING 2’O-MODIFIED PURINES | 2023 | Covers certain MOE nucleosides and oligonucleotides containing these nucleotides. 
+United States | 7,399,845 | 6-MODIFIED BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers our cEt nucleosides and oligonucleotides containing these nucleoside analogs.
+United States | 7,741,457 | 6-MODIFIED BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers our cEt nucleosides and oligonucleotides containing these nucleoside analogs.
+United States | 8,022,193 | 6-MODIFIED BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers our cEt nucleosides and oligonucleotides containing these nucleoside analogs.
+United States | 7,569,686 | COMPOUNDS AND METHODS FOR SYNTHESIS OF BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers methods of synthesizing our cEt nucleosides. 
+Europe | EP1984381 | 6-MODIFIED BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers our cEt nucleosides and oligonucleotides containing these nucleoside analogs.
+Europe | EP2314594 | 6-MODIFIED BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers our cEt oligonucleotides and methods of use. 
+Japan | JP5342881 | 6-MODIFIED BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers our cEt nucleosides and oligonucleotides containing these nucleoside analogs.
+
+ 
+ 28
+ 
+
+Antisense Drug Design Motifs
+ 
+Other Ionis patents claim oligonucleotides comprising specific antisense drug design motifs, or patterns of nucleoside modifications at specified positions in the oligonucleotide. Patent claims covering our antisense drug design motifs are independent of nucleic acid sequence, so they cover oligonucleotides having the recited motif, regardless of cellular target or clinical indication. The claimed motifs generally confer properties that optimize oligonucleotides for a particular antisense mechanism of action, such as ribonuclease H, or RNase H, RNAi, or splicing. We have designed oligonucleotides incorporating motifs, which we refer to as chimeric compounds or gapmers to exploit the RNase H mechanism to achieve target RNA reduction. Almost all of our drugs, including volanesorsen and IONIS-TTRRx, but excluding SPINRAZA, contain this gapmer antisense drug design motif. We own a U.S. patent that covers each of our second generation MOE gapmer antisense drugs until March of 2023.
+ 
+In addition, we have pursued patent claims to antisense drug design motifs incorporating bicyclic nucleoside analogs, which include locked nucleic acids, or LNAs. In Europe, we have granted claims drawn to short gapmer oligonucleotides with bicyclic nucleosides, which include locked nucleic acids, in the wings for the treatment of cardiovascular or metabolic disorders. We have also successfully obtained issued patent claims covering our Generation 2.5 gapmer antisense drug design motifs that incorporate our cEt modified nucleosides. Santaris opposed granted patent EP2092065 and EP2410053 and in April 2015, the claims of EP2092065 were successfully upheld in amended form. We vigorously defended EP2410053 and in January 2017, it was upheld with only minor an amendment. The following patents are some examples of our issued patents in this category in key jurisdictions:
+ 
+
+Jurisdiction | Patent/ Application No. | Title | Expiration | Description of Claims 
+--------------+--------------------------+-----------------------------------------------------------------------+------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+United States | 7,015,315 | GAPPED OLIGONUCLEOTIDES | 2023 | Covers 2’-O-alkyl-O-alkyl gapmer oligonucleotides. 
+Europe | EP2021472 | COMPOUNDS AND METHODS FOR MODULATING GENE EXPRESSION | 2027 | Short gapmer oligonucleotides, 10 to 14 nucleotides in length, with bicyclic nucleosides, which includes cEt locked nucleic acids, in the wings for the treatment of cardiovascular or metabolic disorders
+United States | 7,750,131 | 5’-MODIFIED BICYCLIC NUCLEIC ACID ANALOGS | 2027 | Covers 5’-Methy BNA containing gapmer compounds 
+Europe | EP2092065 | ANTISENSE COMPOUNDS | 2027 | Gapmer compounds having wings comprised of 2’-MOE and bicyclic nucleosides 
+Europe | EP2410053 | ANTISENSE COMPOUNDS | 2027 | Gapmer compounds having wings comprised of 2’-MOE and bicyclic nucleosides 
+Japan | JP 5665317 | ANTISENSE COMPOUNDS | 2027 | Gapmer compounds having wings comprised of 2’-MOE and bicyclic nucleosides 
+Europe | EP2673361 | OLIGOMERIC COMPOUNDS COMPRISING BICYCLIC NUCLEOTIDES AND USES THEREOF | 2032 | Gapmer having at least one bicyclic nucleoside, 2’-modified nucleoside, and 2’-deoxynucleoside in either the 5’- or 3’-wing. 
+
+ 
+Ligand-Conjugated Antisense (LICA) Technology
+ 
+We have also pursued patent claims to new chemistries created to enhance targeting of antisense drugs to specific tissues and cells in order to improve a drug’s potency. Our N-acetyl-galactosamine (GalNAc) LICA drugs are designed to provide an increase in potency for targets in the liver. We have successfully obtained issued patent claims covering our primary GalNAc LICA (THA) conjugated to any modified oligonucleotide, including gapmers, double-stranded siRNA compounds, and fully modified oligonucleotides. The following patents are some examples of our issued patents in this category:
+ 
+
+Jurisdiction | Patent/ Application No. | Title | Expiration | Description of Claims 
+--------------+--------------------------+----------------------------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+United States | 9,127,276 | CONJUGATED ANTISENSE COMPOUNDS AND THEIR USE | 2034 | Covers our primary THA LICA conjugate having any type of linker and conjugated to any group of nucleosides, including gapmers, double-stranded siRNA compounds, and fully modified oligonucleotides
+United States | 9,181,549 | CONJUGATED ANTISENSE COMPOUNDS AND THEIR USE | 2034 | Covers our primary THA conjugate having our preferred linker and cleavable moiety conjugated to any oligomeric compound or any nucleoside having a 2’-MOE modification or a cEt modification 
+
+ 
+ 29
+ 
+
+Therapeutic Methods of Treatment and Antisense Drug Sequences
+ 
+In addition to our broad core patents, we also own hundreds of patents, worldwide, with claims to antisense sequences and compounds directed to particular therapeutically important targets or methods of achieving clinical endpoints using these antisense compounds. Target patents may also include claims reciting the specific nucleic acid sequences utilized by our products, independent of chemical modifications and motifs. In addition, our product specific patents typically include claims combining specific nucleic acid sequences with nucleoside modifications and motifs. In this way, we seek patent claims narrowly tailored to protect our products specifically, in addition to the broader core antisense patents described above.
+ 
+ Survival Motor Neuron and SPINRAZA
+ 
+SPINRAZA is protected by a suite of patents in the United States and in Europe from generic competition in the United States until at least 2030 and in Europe until 2026. These issued patents include: (i) the Bennett patent related to methods of altering mRNA processing (i.e., splicing) with a fully modified 2’MOE oligonucleotide, (ii) a patent licensed from the University of Massachusetts drawn to antisense compounds having the sequence of SPINRAZA, independent of chemical modification and uses of such compounds for treating SMA, and (iii) a joint patent with Cold Spring Harbor Laboratory claiming fully modified 2’MOE compositions targeting SMN2, including the precise composition of matter of SPINRAZA. Those patents should protect SPINRAZA from generic and antisense innovator competition in the United States until at least 2030 without patent term extension. With Biogen’s license of SPINRAZA, we assigned our interest in these patents to Biogen. The table below lists the key U.S. and European issued patents protecting SPINRAZA:
+ 
+
+Jurisdiction | Patent No. | Title | Expiration | Description of Claims 
+--------------+------------+------------------------------------------------------------------------------------------------+------------+----------------------------------------------------------------------------------------------------------------------
+United States | 6,210,892 | ALTERATION OF CELLULAR BEHAVIOR BY MODULATION OF MRNA PROCESSING | 2018 | Broad claims of altering mRNA processing with a fully modified 2’MOE oligonucleotide. 
+United States | 8,361,977 | COMPOSITIONS AND METHODS FOR MODULATION OF SMN2 SPLICING | 2030 | Sequence and chemistry (full 2’-MOE) of SPINRAZA 
+Europe | 1910395 | COMPOSITIONS AND METHODS FOR MODULATION OF SMN2 SPLICING | 2026 | Sequence and chemistry (full 2’-MOE) of SPINRAZA 
+United States | 7,838,657 | SPINAL MUSCULAR ATROPHY (SMA) TREATMENT VIA TARGETING OF SMN2 SPLICE SITE INHIBITORY SEQUENCES | 2027 | Oligonucleotides having sequence of SPINRAZA (chemistry independent) 
+United States | 8,110,560 | SPINAL MUSCULAR ATROPHY (SMA) TREATMENT VIA TARGETING OF SMN2 SPLICE SITE INHIBITORY SEQUENCES | 2025 | Methods of using antisense oligonucleotides having sequence of SPINRAZA to alter splicing of SMN2 and/or to treat SMA
+United States | 8,980,853 | COMPOSITIONS AND METHODS FOR MODULATION OF SMN2 SPLICING IN A SUBJECT | 2030 | Methods of administering SPINRAZA 
+
+ 
+Apolipoprotein C-III and volanesorsen
+ 
+We have obtained patent claims in the United States drawn to the use of antisense compounds complementary to a broad active region of human Apo C-III including the site targeted by volanesorsen. Similar claims complementary to any site on human Apo C-III have granted in Australia. We obtained issued patent claims to the specific antisense sequence and chemical composition of volanesorsen in the United States, Australia, and Europe. The issued U.S. claims should protect volanesorsen from generic competition in the United States until at least 2023. In addition, if volanesorsen is approved by the FDA, we plan to seek additional patent term extension to recapture a portion of the term lost during FDA regulatory review, extending the term of this patent beyond 2023. We have allowed claims to the volanesorsen composition in Canada and are pursuing additional patent applications designed to protect volanesorsen worldwide. The table below lists the issued patents in key jurisdictions:
+ 
+
+Jurisdiction | Patent No. | Title | Expiration | Description of Claims 
+--------------+------------+--------------------------------------------------------+------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+United States | 7,598,227 | MODULATION OF APOLIPOPROTEIN C-III EXPRESSION | 2023 | Methods of treating hyperlipidemia, lowering cholesterol levels and lowering triglyceride levels with an antisense compound comprising an antisense oligonucleotide 15-30 linked nucleosides specifically hybridizable within a nucleotide region of apoCIII targeted by volanesorsen
+United States | 7,750,141 | MODULATION OF APOLIPOPROTEIN C-III EXPRESSION | 2023 | Antisense sequence and chemistry of volanesorsen 
+Europe | EP1622597 | MODULATION OF APOLIPOPROTEIN C-III EXPRESSION | 2023 | Antisense sequence and chemistry of volanesorsen 
+United States | 9,157,082 | MODULATION OF APOLIPOPROTEIN CIII (APOCIII) EXPRESSION | 2032 | Methods of using APOCIII antisense oligonucleotides for reducing pancreatitis and chylomicronemia and increasing HDL 
+
+ 
+ 30
+ 
+
+Transthyretin and IONIS-TTRRx
+ 
+We obtained issued claims covering IONIS-TTRRx in the United States. The issued U.S. claims should protect IONIS-TTRRx from generic competition in the United States until at least 2031. We are also pursuing additional patent applications designed to protect IONIS-TTRRx in foreign jurisdictions. The table below lists the current issued patents protecting IONIS-TTRRx in key jurisdictions:
+ 
+
+Jurisdiction | Patent No. | Title | Expiration | Description of Claims 
+--------------+------------+----------------------------------------+------------+---------------------------------------------------------------------------
+United States | 8,101,743 | MODULATION OF TRANSTHYRETIN EXPRESSION | 2025 | Antisense sequence and chemistry of IONIS-TTRRx 
+United States | 8,697,860 | DIAGNOSIS AND TREATMENT OF DISEASE | 2031 | Composition of IONIS-TTRRx 
+United States | 9,061,044 | MODULATION OF TRANSTHYRETIN EXPRESSION | 2031 | Sodium salt composition of IONIS-TTRRx 
+United States | 9,399,774 | MODULATION OF TRANSTHYRETIN EXPRESSION | 2031 | Methods of treating transthyretin amyloidosis by administering IONIS-TTRRx
+Japan | JP5896175 | MODULATION OF TRANSTHYRETIN EXPRESSION | 2031 | Composition of IONIS-TTRRx 
+
+ 
+
+ApoB 100 and Kynamro
+ 
+In 2008, we obtained patent claims in the United States drawn to the use of both single-stranded and double-stranded antisense drugs complementary to any site of the mRNA of human apoB, regardless of chemistry or antisense mechanism of action. The patent provides broad protection of the apoB franchise, including Kynamro and potential future follow-on compounds.  Additional claims have granted in Europe covering the use of 5-10-5 MOE gapmers targeting ApoB. We obtained issued claims to the specific antisense sequence and chemical composition of Kynamro in key jurisdictions. The issued U.S. claims covering the composition should protect Kynamro from generic competition in the United States until at least 2025. We are also pursuing additional patent applications designed to protect Kynamro worldwide. With Kastle’s acquisition of the global rights to develop and commercialize of Kynamro, we assigned our interest in these patents to Kastle. The table below lists the issued patent claims designed to protect Kynamro in key jurisdictions:
+ 
+
+Jurisdiction | Patent No. | Title | Expiration | Description of Claims 
+--------------+------------+-----------------------------------------------------+------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+United States | 7,407,943 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2021 | Methods of inhibiting expression of apoB, decreasing serum cholesterol, decreasing lipoprotein levels, decreasing serum triglycerides in a human with an antisense compound 12 to 30 nucleotide in length and 100% complementary to human apoB wherein the compound is not a ribozyme. 
+Japan | 4471650 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2022 | Use of an antisense oligonucleotide 12 to 30 nucleobases in length and 100% complementary to human apoB having one or more modifications and inhibiting expression of apoB by at least 90% in primary hepatocytes when present at a concentration of 300 nM for preparation of a medicament for decreasing serum cholesterol, and decreasing lipoprotein levels in a human
+Europe | EP2174945 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2022 | Use of an antisense oligonucleotide 20 nucleobases in length and 100% complementary to human apoB having a 5-10-5 MOE motif for treating conditions associated with ApoB 
+United States | 7,511,131 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2025 | Antisense sequence and composition of matter of Kynamro 
+
+
+Europe | EP1569695 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2023 | Antisense sequence and composition of matter of Kynamro 
+-------+-----------+-----------------------------------------------------+------+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Europe | EP2336318 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2023 | Antisense sequence and composition of matter of Kynamro 
+Japan | 4986109 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2023 | Antisense sequence and composition of matter of Kynamro 
+Europe | EP2409713 | ANTISENSE MODULATION OF APOLIPOPROTEIN B EXPRESSION | 2025 | Kynamro for use in treating a human with hypercholesterolemia, wherein the oligonucleotide is administered at 200mg once per week by subcutaneous injection
+
+ 
+ 31
+ 
+
+We seek patent protection in significant markets and/or countries for each drug in development. We also seek to maximize patent term.  In some cases, the patent term can be extended to recapture a portion of the term lost during FDA regulatory review. The patent exclusivity period for a drug will prevent generic drugs from entering the market. Patent exclusivity depends on a number of factors including initial patent term and available patent term extensions based upon delays caused by the regulatory approval process.
+ 
+Manufacturing Patents
+ 
+We also own patents claiming methods of manufacturing and purifying oligonucleotides. These patents claim methods for improving oligonucleotide drug manufacturing, including processes for large-scale oligonucleotide synthesis and purification. These methods allow us to manufacture oligonucleotides at lower cost by, for example, eliminating expensive manufacturing steps.
+ 
+We also rely on trade secrets, proprietary know-how and continuing technological innovation to develop and maintain a competitive position in antisense therapeutics.
+ 
+Government Regulation
+ 
+Regulation by government authorities in the United States and other countries is a significant component in the development, manufacture and commercialization of pharmaceutical products and services. In addition to regulations enforced by the FDA and relevant foreign regulatory authorities, we are also subject to regulation under the Occupational Safety and Health Act, the Environmental Protection Act, the Toxic Substances Control Act, the Resource Conservation and Recovery Act and other present and potential future federal, state and local regulations.
+ 
+Extensive regulation by United States and foreign governmental authorities governs the manufacture, development and sale of our drugs. In particular, pharmaceutical products are subject to nonclinical and clinical testing, as well as other approval requirements, by the FDA in the United States under the Federal Food, Drug and Cosmetic Act and other laws and by comparable agencies in those foreign countries in which we conduct business. Various federal, state and foreign statutes also govern or influence the manufacture, safety, labeling, storage, record keeping, marketing and quality of our drugs. State, local, and other authorities also regulate pharmaceutical manufacturing facilities and procedures.
+ 
+ Our manufacturing facility is subject to periodic inspection by the FDA and other foreign equivalents to ensure that it is operating in compliance with cGMP requirements. Marketing authorization for each new drug will require a rigorous manufacturing pre-approval inspection by regulatory authorities.
+ 
+For any approved drug, domestic and foreign sales of the drug will depend, in part, on the availability and amount of reimbursement by third party payors, including governments and private health plans. Governments may regulate coverage, reimbursement and pricing of drugs to control cost or affect use of our drugs. Private health plans may also seek to manage cost and use by implementing coverage and reimbursement limitations. Within the EU a variety of payors pay for drugs, with governments being the primary source of payment. Governments may determine or influence reimbursement of drugs. Governments may also set prices or otherwise regulate pricing. Negotiating prices with governmental authorities can delay commercialization of a drug. These pricing and reimbursement procedures could impact our commercial partners’, including our wholly owned subsidiary, Akcea’s, ability to successfully commercialize our approved drugs.
+ 
+Our operations may be directly, or indirectly through our customers, distributors, or other business partners, subject to various federal and state fraud and abuse laws, including, without limitation, anti-kickback statutes and false claims statutes. These laws may impact, among other things, our commercialization partners’ proposed sales, marketing and education programs.
+ 
+The U.S. Foreign Corrupt Practices Act, or FCPA, prohibits certain individuals and entities, including us, from promising, paying, offering to pay, or authorizing the payment of anything of value to any foreign government official, directly or indirectly, to obtain or retain business or an improper advantage. If we violate the FCPA, it could result in large civil and criminal penalties and could result in an adverse effect on our reputation, operations, and financial condition. We could also face collateral consequences such as debarment and the loss of export privileges.
+ 
+Competition
+
+Our Business in General
+ 
+Some of our drugs may compete with existing therapies for market share. In addition, there are a number of companies pursuing the development of oligonucleotide-based technologies and the development of pharmaceuticals utilizing these technologies. These companies include specialized pharmaceutical firms and large pharmaceutical companies acting either independently or together with biopharmaceutical companies. Our drugs are differentiated from traditional small molecule drugs by their chemistry, how they move in the body, how they act in the body, delivery technology, and formulations.
+ 
+Our approved products and products under development address numerous markets. The diseases our drugs target for which we have or may receive marketing authorization will determine our competition. For some of our products, an important factor in competition may be the timing of market introduction of competitive products. Accordingly, the relative speed with which we can develop products, complete the clinical trials and marketing authorization processes and supply commercial quantities of the products to the market are important competitive factors. We expect to compete among products approved for sale based on a variety of factors, including, among other things, product efficacy, safety, mechanism of action, dosing convenience, marketing and sales strategy and tactics, availability, price, and reimbursement.
+  32
+ 
+
+The current key competition for our newly marketed drug SPINRAZA, our Phase 3 drugs, volanesorsen and IONIS-TTRRx, and our additional approved drug Kynamro is set forth below.
+ 
+SPINRAZA
+ 
+We believe that the following drugs could compete with SPINRAZA:
+ 
+
+Drug | Company | Drug Description | Phase | Admin/Dosing | Efficacy(1) | Safety(1) 
+---------+-----------------------------------------+----------------------------------------------------------------+-------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------
+AVXS-101 | AveXis | Gene therapy that corrects the SMN1 gene using the AAV9 Vector | 1 | Infusion | As of September 15, 2016, the 12 patients taking the proposed therapeutic dose of AVXS-101 were event free and were a median age of 17.3 months at their last follow up appointment. Additionally, two-thirds of these patients had achieved the ability to sit unassisted, including one patient whose achievement of this milestone was confirmed after September 15. | Well tolerated to date 
+RG7916 | PTC Therapeutics/ Roche/ SMA Foundation | A small molecule drug that modulates splicing of the SMN2 gene | 2 | Oral | None reported | None reported 
+LMI070 | Novartis | A small molecule drug that modulates splicing of the SMN2 gene | 1/2 | Oral | None reported | Study was placed on clinical hold in May 2016 due to safety findings reported in animal studies. The clinical hold was subsequently removed. 
+
+
+(1) | Taken from public documents including respective company press releases, company presentations, and scientific presentations.
+----+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+We believe that SPINRAZA’s closest competitor is AVXS-101. AVXS-101 is currently in a Phase 1 study for infants with Type 1 SMA. AveXis announced that it will have a single-arm design for its pivotal study in SMA Type 1 patients and plans to use natural history as a comparator. The study is expected to initiate in the first half of 2017 and enroll 20 patients. AveXis has also announced that following a meeting with the CHMP it will have a single-arm design for its European pivotal study with natural history as a comparator. This study is expected to initiate in the second half of 2017 and enroll 30 patients. While the data released thus far on the AVXS-101 study is encouraging, it is still early in development. In addition, other gene therapies have had difficulty providing lasting therapeutic benefit. Also AveXis has stated it needs to scale its manufacturing capabilities to be able to manufacture larger quantities of AVXS-101 and that they will switch to commercial GMP drug for their study in Type 2 patients. Further, no company has yet to successfully commercialize a gene therapy, which may create significant barriers for AVXS-101.
+ 
+Volanesorsen
+ 
+We believe that the following drugs could compete with volanesorsen:
+ 
+
+Drug | Company | Drug Description | Phase | Admin/Dosing | Efficacy(1) | Safety(1) 
+------------+-----------------------+-------------------------------------------------------+-----------------------------------------+--------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------
+Glybera | uniQure NV | Adeno-associated Virus Gene therapy | Approved in EU, not pursing in the U.S. | A single treatment involving multiple injections | Showed a reduction in blood fat levels after meals in some patients. There was also a reduction in the number of pancreatitis attacks in some patients. | Common side effects include: leg pain following injection, headache, tiredness, high body temperature, bruising and potential damage to muscle tissue
+Metreleptin | Novelion Therapeutics | A synthetic form of the hormone leptin | 3 | Reconstituted subcutaneous injection | 44.4% mean reduction in triglycerides at four months in patients with abnormal triglyceride levels | Anti-metreleptin antibodies, hypoglycemia, hypersensitivity, risk of T-cell lymphoma 
+Gemcabene | Gemphire Therapeutics | Monocalcium salt of a dialkyl ether dicarboxylic acid | 2 | Oral, once-daily | In a post hoc analysis (n=9) of patients with triglycerides >500 mg/dl, reductions of 59% and 60% from 150mg and 300mg doses, respectively, were observed | In a recent study, in the gemcabene-treatment group, the most frequently occurring adverse events were headache and infection 
+
+
+(1) | Taken from public documents including respective company press releases, company presentations, and scientific presentations.
+----+------------------------------------------------------------------------------------------------------------------------------
+
+
+ 33
+ 
+
+
+Glybera is approved only in the EU for a subset of FCS patients whose disease has been confirmed by genetic testing and who have detectable levels of a specific protein in their blood. UniQure NV has announced it is not pursuing marketing authorization in the U.S. Metreleptin is being tested in FPL patients who also have NASH. In December 2016, Novelion submitted a marketing authorization application to the EMA seeking approval for Metreleptin as replacement therapy to treat complications of leptin deficiency in a small subset of FPL patients and in patients with generalized lipodystrophy, or GL. An investigator-sponsored study is currently ongoing with the support of Novelion to evaluate Metreleptin in FPL patients who also have NASH. Metreleptin does not affect ApoC-III levels. ApoC-III levels have been shown to be elevated in FPL patients, and directly correlate to triglyceride levels. Gemcabene is being studied in patients with severe hypertriglyceridemia, defined as triglycerides above 500 mg/dL and Gemphire expects to report top-line results from its Phase 2 study in the fourth quarter of 2017. Volanesorsen is currently in Phase 3 development to treat patients with FCS and patients with FPL. To date, volanesorsen has shown the highest percent of triglyceride reductions compared to existing treatments, such as fibrates, regardless of starting triglyceride levels prior to dosing with volanesorsen. Based on our broad Phase 2 data for the treatment of different patients including patients with FCS, we believe that volanesorsen will work equally well as a single agent or in combination with other triglyceride-lowering drugs on the market. If regulatory authorities require us to implement platelet monitoring procedures in the commercial setting, which have yet to be determined, it could impact the future competitive profile of volanesorsen.
+ 
+IONIS-TTRRx
+ 
+We believe that the following drugs could compete with IONIS-TTRRx:
+ 
+
+Drug | Company | Drug Description | Phase | Admin/Dosing | Efficacy* | Safety* 
+------------+-------------+------------------------------------------------------------------------+-----------------------+---------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Patisiran | Alnylam | An RNAi drug formulated with lipid nanoparticles to inhibit TTR mRNA | 3 | Infusion every 3 weeks with pre-treatment with steroids | ~90% mean maximum reduction in TTR | Mild flushing (25.9%) and infusion-related reactions (18.5%) in Phase 2 OLE 
+Tafamidis | Pfizer | A small molecule drug to stabilize TTR Protein | 3, Approved in the EU | Daily oral capsule | In 45% of patients taking Tafamidis, nerve function either improved or stabilized, compared with 30% of patients taking placebo | Urinary tract infection, vaginal infection, upper abdominal pain and diarrhea 
+Diflunisal | N/A Generic | A non-steroid anti-inflammatory agent | Approved | Daily oral capsule/doses | Improved nerve function as shown by lower Neuropathy Impairment Score plus 7 nerve tests, or NIS+7. The NIS+7 score increased by 25.0 points in the placebo group versus 8.7 points in the diflunisal group | In two studies repurposing diflunisal for use in TTR amyloidosis, drug-related adverse events that led to discontinuation were: gastrointestinal bleeding, low platelets, deterioration of renal function, congestive heart failure, glaucoma and nausea.
+Tolcapone | SOM Biotech | Small molecule repurposed generic drug | 1/2 | Daily oral dose | Shows binding and stabilization of TTR in humans | No drug related adverse events reported 
+ALN-TTRsc02 | Alnylam | An RNAi drug conjugated with GalNAC to inhibit TTR mRNA in liver cells | 1 | Monthly or quarterly | In healthy volunteers, a single dose showed mean max TTR knockdown of 97%, up to 98% | Injection site reactions were reported 
+
+
+(1) | Taken from public documents including respective company press releases, company presentations, and scientific presentations. Diflunisal efficacy and safety came from the published papers of two investigator sponsored studies, Berk JL, Suhr OB, Obici L, et al. Repurposing Diflunisal for Familial Amyloid Polyneuropathy: A Randomized Clinical Trial. JAMA. 2013;310(24):2658-2667 and Sekijima YS, Toja K, Morita H, et al. Safety and efficacy of long-term diflunisal administration in hereditary transthyretin (ATTR) amyloidosis. Amyloid. 2015;22(2):79-83.
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+We believe that of the drugs that are in development or on the market, IONIS-TTRRx’s closest competitor is patisiran. Alnylam is developing patisiran for the polyneuropathy form of TTR amyloidosis. Patisiran is an intravenously administered RNAi molecule that is formulated with lipid nanoparticles to enable delivery of the drug to the liver. It is administered via an infusion by a healthcare provider every three weeks. Patients receiving patisiran are pretreated with steroids to prevent infusion related reactions. In October 2016, Alnylam discontinued development of revusiran, its drug for the cardiomyopathy form of TTR amyloidosis, due to a safety finding in its Phase 3 study. Revusiran was a subcutaneously administered RNAi molecule that was Alnylam’s first generation GalNAc drug and was dosed at 500 mg per week as two subcutaneous injections. Alnylam completed Phase 1 studies of its second generation GalNAC, ALN-TTRsc02. In early clinical studies, IONIS-TTRRx, patisiran and revusiran produced similar TTR reductions in treated subjects. Because we have completed target enrollment in our fifteen month study, ahead of Alnylam's eighteen month study, we believe that IONIS-TTRRx could be the first RNA-targeted drug on the market. We also believe that the overall product profile of IONIS-TTRRx. as a once weekly, subcutaneous injection with no pretreatment is superior to the drugs detailed above, however potential platelet monitoring requirements in the commercial setting, which have yet to be determined, could impact the future competitive profile of IONIS-TTRRx.
+  34
+ 
+
+Kynamro
+ 
+Kynamro is currently approved in the U.S. and certain other countries to reduce LDL-C, apolipoprotein B, total cholesterol, and non-high density lipoprotein-cholesterol in patients with HoFH. We believe that the following drugs compete with Kynamro:
+
+Drug | Company | Drug Description | Phase | Admin/Dosing | Efficacy(1) | Safety(1) 
+-----------+-----------------------+------------------------------------------------------------------------------+----------+--------------------------------+------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lomitapide | Novelion Therapeutics | A small molecule drug that inhibits microsomal triglyceride transfer protein | Approved | Titrate up, 5-60 mg oral daily | 40% reduction in LDL-C from baseline (change from mean 336 mg/dL LDL-C to 190 mg/dL LDL-C) at week 26 in Phase 3 study | Hepatic steatosis, risk of steatohepatitis, transaminase abnormalities, risk for drug-induced liver injury, risk for deficiencies in fat-soluble vitamins and essential fatty acids
+Evolocumab | Amgen | A monoclonal antibody drug that inhibits PCSK9 protein | Approved | Monthly sub-q | TESLA (phase 2/3 in HOFH): 31% mean reduction in LDL-C from baseline | nasopharyngitis, upper respiratory tract infections, influenza, arthralgia, and back pain 
+
+
+(1) | Taken from public documents including respective company press releases, company presentations, and scientific presentations
+----+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+The primary competitor for Kynamro is lomitapide, an oral small molecule that blocks the absorption of fat in the digestive system. In the lomitapide label, concurrent use of lomitapide and common medications for HoFH patients who have cardiovascular disease, including simvastatin and warfarin, need to be closely monitored due to drug-drug interactions with potentially harmful outcomes. Kynamro has no restrictions with these medications or diet restrictions, which may be advantageous for HoFH patients who are on a broad range of therapies due to the severity of their disease. Evolocumab will not work in the HoFH patients that do not have LDL-receptor function and should have variable effect in patients that have variable levels of LDL-receptor activity. Kynamro works in HoFH patients regardless of LDL-receptor function. Kynamro sales could be affected if Kynamro’s product profile is not advantageous when compared to these other drugs, as some patients may prefer these other drugs over Kynamro.
+ 
+
+Employees
+ 
+As of February 21, 2017, we employed 435 people, including 28 Akcea employees. A significant number of our management and professional employees have had prior experience with pharmaceutical, biotechnology or medical product companies. Collective bargaining agreements do not cover any of our employees, and management considers relations with our employees to be good.
+Executive Officers of Ionis
+ 
+The following sets forth certain information regarding our executive officers as of February 21, 2017:
+ 
+
+Name | Age | Position 
+-------------------------------+-----+------------------------------------------------------------------------------------------------
+Stanley T. Crooke, M.D., Ph.D. | 71 | Chairman, Chief Executive Officer and President 
+B. Lynne Parshall, J.D. | 62 | Director, Chief Operating Officer 
+C. Frank Bennett, Ph.D. | 60 | Senior Vice President, Antisense Research 
+Sarah Boyce | 45 | Chief Business Officer 
+Richard S. Geary, Ph.D. | 59 | Senior Vice President, Development 
+Elizabeth L. Hougen | 55 | Senior Vice President, Finance and Chief Financial Officer 
+Brett P. Monia, Ph.D. | 55 | Senior Vice President, Drug Discovery and Corporate Development 
+Patrick R. O’Neil, Esq. | 43 | Senior Vice President, Legal, General Counsel, Chief Compliance Officer and Corporate Secretary
+
+STANLEY T. CROOKE, M.D., Ph.D.
+ 
+Chairman, Chief Executive Officer and President
+ 
+Dr. Crooke is a founder of Ionis and has been Chief Executive Officer and a Director since January 1989. He was elected Chairman of the Board in February 1991. Prior to founding Ionis, from 1980 until January 1989, Dr. Crooke was employed by SmithKline Beckman Corporation, a pharmaceutical company, where his titles included President of Research and Development of SmithKline and French Laboratories.
+  35
+ 
+
+B. LYNNE PARSHALL, J.D.
+ 
+Director, Chief Operating Officer
+ 
+Ms. Parshall has served as a Director of Ionis since September 2000. She has been our Chief Operating Officer since December 2007 and previously served as our Chief Financial Officer from June 1994 to December 2012. She also served as our Corporate Secretary through 2014 and has served in various executive roles since November 1991. Prior to joining Ionis, Ms. Parshall practiced law at Cooley LLP, outside counsel to Ionis, where she was a partner from 1986 to 1991. Ms. Parshall is a member of the American, California and San Diego bar associations.
+C. FRANK BENNETT, Ph.D.
+ 
+Senior Vice President, Antisense Research
+ 
+Dr. Bennett was promoted to Senior Vice President, Antisense Research in January 2006. From June 1995 to January 2006, Dr. Bennett served as our Vice President, Research. From March 1993 to June 1995, he was Director, Molecular Pharmacology, and from May 1992 to March 1993, he was an Associate Director in our Molecular and Cellular Biology department. Prior to joining Ionis in 1989, Dr. Bennett was employed by SmithKline and French Laboratories in various research positions. He is an external member of the Scientific Advisory Board of Experimental Therapeutics Center in Singapore.
+SARAH BOYCE
+ 
+Chief Business Officer
+ 
+Ms. Boyce joined Ionis in January 2015 as our Chief Business Officer. Prior to joining Ionis, Ms. Boyce was Vice President, Head of International Business Strategy and Operations at Forest Laboratories, Inc. from 2012 to 2014. She was Vice President, Global Head Nephrology Therapeutics Area of Alexion Pharmaceuticals from 2010 to 2011. She held various positions at Novartis Group AG, including Vice President, Global Program Head, Pediatric and Specialty from 2000 to 2010. Prior to that, Ms. Boyce held positions at Bayer Pharmaceuticals and Roche.
+ 
+RICHARD S. GEARY, Ph.D.
+ 
+Senior Vice President, Development
+ 
+Dr. Geary was promoted to Senior Vice President, Development in August 2008. From August 2003 to August 2008, Dr. Geary served as our Vice President, Preclinical Development. From November 1995 to August 2003, he held various positions within the Preclinical Development department. Prior to joining Ionis in 1995, Dr. Geary was Senior Research Scientist and Group Leader for the bioanalytical and preclinical pharmacokinetics group in the Applied Chemistry Department at Southwest Research Institute.
+ELIZABETH L. HOUGEN
+ 
+Senior Vice President, Finance and Chief Financial Officer
+ 
+Ms. Hougen was promoted to Senior Vice President, Finance and Chief Financial Officer in January 2013. From January 2007 to December 2012, Ms. Hougen served as our Vice President, Finance and Chief Accounting Officer and from May 2000 to January 2007, she served as our Vice President, Finance. Prior to joining Ionis in 2000, Ms. Hougen was Executive Director, Finance and Chief Financial Officer for Molecular Biosystems, Inc., a public biotechnology company.
+BRETT P. MONIA, Ph.D.
+ 
+Senior Vice President, Drug Discovery and Corporate Development
+ 
+Dr. Monia was promoted to Senior Vice President, Drug Discovery and Corporate Development in January 2012. From February 2009 to January 2012, Dr. Monia served as our Vice President, Drug Discovery and Corporate Development and from October 2000 to February 2009, he served as our Vice President, Preclinical Drug Discovery. From October 1989 to October 2000 he held various positions within our Molecular Pharmacology department.
+PATRICK R. O’NEIL, Esq.
+ 
+Senior Vice President, Legal, General Counsel, Chief Compliance Officer and Corporate Secretary
+ 
+Mr. O’Neil was promoted to Senior Vice President, Legal and General Counsel in January 2013. Mr. O'Neil also serves as our Chief Compliance Officer and Corporate Secretary. From September 2010 to January 2013, Mr. O’Neil served as our Vice President, Legal and General Counsel and from January 2009 to September 2010, he served as our Vice President, Legal and Senior Transactions Counsel. From October 2001 to January 2009 he held various positions within our Legal department. Prior to joining Ionis, Mr. O’Neil was an associate at Cooley LLP.
+ 
+ 36
+ 
+
+Item 1, Part I of this Report contains information concerning our executive officers. We incorporate by reference the information required by this Item concerning compliance with Section 16(a) of the Securities Exchange Act of 1934, as amended, from the information under the caption “Section 16(a) Beneficial Ownership Reporting Compliance” contained in the Proxy Statement.
+  ________________
+  
+(1) | Any information that is included on or linked to our website is not part of this Form 10-K.
+----+--------------------------------------------------------------------------------------------
+

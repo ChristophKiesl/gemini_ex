@@ -1,0 +1,131 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ ITEM 1.  BUSINESS
+ History and Organization
+ We are a mining and minerals production and exploration company focused on precious and base metals in Argentina, Mexico and the United States. On January 24, 2012, we changed our name from US Gold Corporation to McEwen Mining Inc. after the completion of the acquisition of Minera Andes Inc. (“Minera Andes”) by way of a statutory plan of arrangement under the laws of the Province of Alberta, Canada.
+ We own 100% of the El Gallo 1 mine in the state of Sinaloa, Mexico and a 49% interest in Minera Santa Cruz S.A. (“MSC”), the owner and operator of the producing San José mine in the province of Santa Cruz, Argentina, which is controlled by the majority owner of the joint venture, Hochschild Mining plc (“Hochschild”). In addition to our operating properties, we also hold interests in advanced stage and exploration stage properties and projects in Argentina, Mexico and the United States, including the Gold Bar (“Gold Bar”) and Los Azules (“Los Azules”) projects.
+ Our objective is to increase the value of our shares through the exploration and extraction of gold, silver and other valuable minerals. Other than the San José mine in Argentina, we generally conduct our exploration activities as the sole operator, but we may enter into arrangements with other companies through joint venture or similar agreements in an effort to achieve our strategic objectives. We hold our mineral interests and property and operate our business through various subsidiary companies, and except for MSC, each of which is owned entirely, directly, or indirectly, by us.
+ Our principal executive office is located at 150 King Street West, Suite 2800, Toronto, Ontario, Canada M5H 1J9 and our telephone number is (866) 441-0690. We also maintain offices in San Juan, Argentina; Guamuchil, Mexico and Elko, Nevada (U.S.). Our website is www.mcewenmining.com. We make available our periodic reports and news releases and certain of our corporate governance documents, including our Code of Ethics, on our website. Our common stock is listed on the New York Stock Exchange (“NYSE”) and on the Toronto Stock Exchange (“TSX”) under the symbol “MUX”. 
+ In this report, “McEwen Mining”, the “Company”, “our” and “we” refer to McEwen Mining Inc. together with our subsidiaries, unless otherwise noted. “Au” represents gold; “Ag” represents silver; “oz” represents troy ounce; “gpt” represents grams per metric tonne; “ft.” represents feet; “m” represents meter; “km” represents kilometer; and “sq.” represents square, and C$ refers to Canadian dollars. All of our financial information is reported in United States (U.S.) dollars, unless otherwise noted.
+ Segment Information
+ Our operating segments include Mexico, MSC, Nevada, and Los Azules. Financial information for each of our reportable segments can be found under Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations and Item 8. Financial Statements and Supplementary Data, Note 16. Our sales and long-lived assets, based on the location from which they originate, are geographically distributed as follows:
+ | Sales | | Long‑Lived Assets | 
+ | 2016 | | 2015 | | 2014 | | 2016 | | 2015 | | 2014 | 
+Mexico | 100 | % | 100 | % | 100 | % | 7 | % | 6 | % | 2 | %
+Argentina | — | % | — | % | — | % | 84 | % | 85 | % | 82 | %
+United States | — | % | — | % | — | % | 9 | % | 9 | % | 16 | %
+Canada | — | % | — | % | — | % | — | % | — | % | — | %
+
+      Products
+ The end product at our gold and silver operations is either in the form of doré or concentrate. Production from the El Gallo 1 mine primarily consists of approximately 98% doré and 2% attributed to slag and fine carbon. Doré is an alloy consisting primarily of gold and silver but also containing other impurity metals. Doré is sent to refiners to produce bullion that meets the required market standard of 99.95% gold and 99.9% silver. Under the terms of our refining agreements, the doré bars are refined for a fee, and our share of the refined gold and silver is credited to our account with the refinery. Ore concentrate, or simply concentrate, is raw ore that has been ground finely to a powdery product from which gangue (waste) is removed, thus concentrating the metal component. Slag and fine carbon are by-products of the gold production process left over after gold and silver have been separated which are sent to smelters for further recovery of metals. Production 
+
+ 
+  3
+
+ 
+from the San José mine generally consists of approximately 48% doré and 52% concentrate.  Concentrates from the San José mine are shipped to third‑party smelters and refineries for further processing to produce useful metals.
+ During 2016, we reported the following consolidated production attributable to us:
+
+ | Gold | Silver | Gold equivalent
+Consolidated Production | ounces | ounces | ounces(1) 
+El Gallo 1 mine | 54,928 | 25,336 | 55,266 
+San José mine (on 49% basis) | 46,553 | 3,278,373 | 90,264 
+Total Production | 101,481 | 3,303,709 | 145,530 
+
+
+(1) | Calculated using silver to gold ratio of 75:1
+----+----------------------------------------------
+
+  Gold and silver doré produced in Mexico is sold at the prevailing spot market price based on the London P.M. Fix.
+ Gold and silver doré produced from the San José mine is sold at the prevailing spot market price based on the London A.M. fix, while concentrates are sold at the prevailing spot market price based on either the London P.M. fix or the average of the London A.M. and London P.M fix depending on the sales contract. Concentrates are provisionally priced, whereby the selling price is subject to final adjustments at the end of a period ranging from 30 to 90 days after delivery to the customer. The final price is based on the market price at the relevant quotation point stipulated in the contract. Due to the time elapsed between shipment and the final settlement with the buyer, MSC must estimate the prices at which sales of metals will be settled. At the end of each financial reporting period, previously recorded provisional sales are adjusted to estimated settlement metals prices based on relevant forward market prices until final settlement with the buyer.
+ During 2016, total gold and silver sales for the El Gallo 1 mine were $60.4 million and for the San José mine were $236.0 million on a 100% basis. However, since we account for the San José mine using the equity method of accounting, we do not include revenue from the San José mine in the Consolidated Statement of Operations and Comprehensive Income (Loss). See Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations for additional information regarding production and operating results for our properties, and Item 8. Financial Statements and Supplementary Data, Note 2, Summary of Significant Accounting Policies—Investments, for additional information regarding the equity method of accounting.
+ Like all metal producers, our operations are affected by fluctuations in metal prices. The following table presents the annual high, low and average daily London P.M. fix prices per ounce for gold and silver over the past three years and 2017 to the most recent practical date on the London Bullion Market:
+
+ | Gold | | Silver
+Year | High | | Low | | Average | High | | Low | | Average
+ | (in dollar per ounce)
+2014 | $ | 1,385 | | $ | 1,142 | $ | 1,266 | | $ | 22.05 | $ | 15.28 | $ | 19.08
+2015 | | 1,296 | | | 1,049 | | 1,160 | | | 18.23 | | 13.71 | | 15.68
+2016 | | 1,366 | | | 1,077 | | 1,251 | | | 20.71 | | 13.58 | | 17.14
+2017 (through February 27, 2017) | | 1,257 | | | 1,151 | | 1,212 | | | 18.34 | | 15.95 | | 17.30
+
+      On February 27, 2017 the London P.M. fix for gold was $1,257 per ounce and silver was $18.34 per ounce.
+ Gold and Silver Processing Methods
+ Gold and silver are extracted from mineralized material, by either milling or heap leaching, depending on, among other things, the amount of gold and silver contained in the material, whether the material is naturally oxidized or not oxidized, the amenability of the material to treatment and related capital and operating costs. 
+ At the El Gallo 1 mine, mineralized material is processed using heap leaching methods. Heap leaching consists of stacking crushed, oxidized material on impermeable pads, where a weak cyanide solution is applied to the surface of the heap to leach the gold and silver. The gold and silver‑bearing solution is then collected and pumped to an Adsorption – Desorption ‑ Recovery (“ADR”) processing plant consisting of carbon columns, stripping circuits and a precious metal refinery to process gold and silver into doré bars. Doré bars are then shipped from the mine to a third party refiner to obtain bullion.
+
+ 
+  4
+
+ 
+
+ The processing plant at the San José mine is composed of conventional crushing, grinding and flotation circuits. Approximately half of the silver‑gold flotation concentrate is subsequently processed in an intensive cyanide leaching circuit with the dissolved gold and silver recovered by electrowinning of a clarified solution followed by smelting to produce doré. The doré is then sent to refiners to obtain bullion. The balance of the flotation concentrate is filtered and shipped to a smelter for further processing. 
+ Hedging Activities
+ Our strategy is to provide shareholders with exposure to gold and silver prices by selling our gold and silver ounces at spot market prices and consequently, we do not hedge our gold or silver sales. We may, however, from time to time, manage certain risks associated with fluctuations in foreign currencies using the derivatives market.  Gold and Silver Reserves
+ There are no Proven and Probable reserves within the meaning of SEC Industry Guide 7 at the El Gallo 1 mine or any of our other properties, except for the San José mine. The portion of Proven and Probable gold and silver Reserves attributable to McEwen Mining from our 49% equity interest in the San José mine, as of December 31, 2016, is presented in Item 2. Properties—San José mine, Argentina, on page 26. Competitive Business Conditions
+ We compete with many companies in the mining and mineral exploration and production industry, including large, established mining companies with substantial capabilities, personnel, and financial resources. There is a limited supply of desirable mineral lands available for claim‑staking, lease, or acquisition in Mexico, Argentina, or the United States, and other areas where we may conduct our mining or exploration activities. We may be at a competitive disadvantage in acquiring mineral properties, since we compete with these individuals and companies, many of which have greater financial resources and larger technical staffs than we do. From time to time, specific properties or areas which would otherwise be attractive to us for exploration or acquisition may be unavailable due to their previous acquisition by other companies or our lack of financial resources.
+ Competition in the industry is not limited to the acquisition of mineral properties, but also extends to the technical expertise to find, advance, and operate such properties; the labor to operate the properties; and the capital for the purpose of funding such exploration and development. Many competitors not only explore for and mine precious and base metals, but conduct refining and marketing operations on a world‑wide basis. Such competition may result in not only our company being unable to acquire desired properties, but to recruit or retain qualified employees or to acquire the capital necessary to fund our operation and advance our properties. Our inability to compete with other companies for these resources would have a material adverse effect on our results of operation, financial condition and cash flows.
+ Acquisition of Lexam VG Gold Inc.
+ On February 13, 2017, we entered into an Arrangement Agreement with Lexam VG Gold Inc., a corporation existing under the laws of the Province of Ontario, Canada (“Lexam”), pursuant to which we expect to acquire all of the issued and outstanding common shares of Lexam (the “Arrangement”). The Arrangement will be implemented by way of a plan of arrangement and is subject to approval by the Ontario Superior Court of Justice (Commercial List). The effect of the Arrangement will result in Lexam becoming a wholly-owned subsidiary of the Company.
+ Pursuant to, and subject to the terms and conditions of, the Arrangement Agreement and the plan of arrangement, we expect to acquire all of the issued and outstanding shares of Lexam (the “Lexam Shares”) in exchange for shares of our common stock at a ratio of 0.056 of a share of our common stock for each Lexam Share. If consummated, we expect to issue approximately 12,689,709 shares of common stock, or approximately 4% of the total number of our shares, to Lexam shareholders. In addition, all issued and outstanding options to acquire Lexam Shares will be converted into options to purchase shares of our common stock at a ratio of 0.056 of a share of our common stock for each Lexam Share underlying each such Lexam option. The exchange ratio of 0.056 will not be adjusted for any subsequent changes in market prices of the Lexam Shares or our common stock prior to the closing of the Arrangement.
+ Consummation of the Arrangement is subject to various conditions, including, among others: (i) the approval of Lexam’s shareholders of the Arrangement and any other necessary actions related thereto; (ii) approval of the Court; (iii) approval of the listing of the shares of our common stock issuable to holders of Lexam Shares on the NYSE and the TSX; (iv) 
+
+ 
+  5
+
+ 
+holders of not more than five percent of the issued and outstanding Lexam Shares exercising rights of dissent in respect of the Arrangement; (v) the accuracy of each party’s representations and warranties (subject to certain materiality qualifiers); and (vi) the absence of a material adverse effect in respect of each party.
+ The Arrangement Agreement includes customary representations, warranties, and covenants by the parties, including, among others, a covenant of Lexam not to solicit competing or alternative transactions, subject to certain exceptions to permit Lexam’s Board of Directors to comply with its fiduciary duties, including the right of Lexam to enter into a “Superior Proposal” (as defined in the Arrangement Agreement).
+ The Arrangement agreement also includes customary deal protection and non-solicitation provisions in favour of the Company, including a break fee of $2.1 million payable to the Company in certain circumstances, and fiduciary out provisions for the benefit of Lexam.  Lexam is entitled to a reverse break fee of the same amount payable in certain other circumstances.
+ In order to comply with NYSE rules, Mr. Robert R. McEwen, our Chairman and Chief Executive Officer, will not be entitled to receive shares of our common stock in exchange for his Lexam Shares in an amount representing more than 1% of the then issued and outstanding shares of the Company without obtaining the prior approval of our shareholders. We will seek such shareholder approval at our 2017 Annual Meeting of Shareholders. If such shareholder approval is not obtained, we will pay for such excess shares in cash.
+ Closing of the transaction is expected to occur by May 23, 2017.    General Government Regulations
+ In Mexico, Argentina, Canada and the United States, we are subject to various governmental laws and regulations, including environmental regulations. Other than operating licenses for our mining and processing facilities and concessions granted under contracts with the host government, there are no third party patents, licenses or franchises material to our business.  The applicable laws and regulations applicable to us include:
+
+· | mineral concession rights;
+--+---------------------------
+
+
+· | surface rights;
+--+----------------
+
+
+· | water rights;
+--+--------------
+
+
+· | mining royalties;
+--+------------------
+
+
+· | environmental laws;
+--+--------------------
+
+
+· | mining permits; and
+--+--------------------
+
+
+· | land ownership and mining rights (specific to the United States)
+--+-----------------------------------------------------------------
+
+  We believe that all of our properties are operated in compliance with all applicable governmental laws and regulations.
+ Customers
+ Production from our El Gallo 1 mine is either sold as refined metal on the spot market, or doré under the terms set out in a doré purchase agreement between us and the Bank of Nova Scotia (“Scotia”), a Canadian financial institution.  Under the terms of that agreement, dated July 2012, we have the option to sell approximately 90% of the gold and silver contained in doré bars produced at the El Gallo 1 mine prior to the completion of refining by the third party refiner, which normally takes approximately 15 business days.  During the year ended December 31, 2016, 98% of our El Gallo 1 mine sales were to Scotia, of which only 6% ($3.4 million) were made through this doré purchase agreement. We also have an agreement to sell refined metal to a second Canadian financial institution.
+ During the year ended December 31, 2016, 79% of total sales from the San José mine were made to Republic Metals Corporation, Argo-Heraeus and LS Nikko Copper Inc. Republic Metals, a Florida corporation, is a purchaser of doré and 
+
+ 
+  6
+
+ 
+accounted for 23% of total sales. Argo-Heraeus, a Swiss company, is a purchaser of doré, which accounted for 26% of total sales. LS Nikko Copper Inc., a South Korean company, is a purchaser of concentrate, which accounted for 30% of total sales. MSC has sales agreement with each of these purchasers.
+ In the event that our relationship with Scotia or MSC’s relationship with Republic Metals, Argo-Heraeus or LS Nikko Copper Inc. were interrupted for any reason, we believe that we or MSC could locate other purchasers for our products, however any interruption would temporarily disrupt the sale of our products and adversely affect our operating results. 
+ Employees
+ As of December 31, 2016, we had 293 employees including 256 employees based in Mexico, 6 in Argentina, 10 in the United States, and 21 in Canada. All of our employees based in Canada work in an executive, technical or administrative position, while our employees in Mexico, Argentina and the United States also include laborers, craftsmen, mining, geology and permitting specialists, and information technologists, and various other support roles. 
+ Some of our employees in Mexico are covered by union labor contracts and we believe we have good relations with our employees and their unions. We also frequently engage independent contractors in connection with certain administrative matters and the exploration of our properties, such as drillers, geophysicists, geologists, and other specialty technical disciplines.  As of December 31, 2016, MSC had 1,172 employees at the San José mine, in Argentina.
+    
+
+ 
+  7
+
+ 
+

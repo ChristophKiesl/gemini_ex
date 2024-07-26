@@ -1,0 +1,131 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Corporate History
+ 
+KT High-Tech Marketing Inc. (the “Company” or “we”) is an early-stage company planning to market and distribute technology products. The Company was incorporated in the State of Delaware in December 2015, and was formerly known as Grant Hill Acquisition Corporation (“Grant Hill” or “Grant Hill Acquisition”).
+ 
+In April 2016, the Company implemented a change of control by issuing shares to new shareholders, redeeming shares of existing shareholders, electing new officers and directors and accepting the resignations of its then existing officers and directors. In connection with the change of control, the shareholders of the Company and its board of directors unanimously approved the change of the Company’s name from Grant Hill Acquisition Corporation to KT High-Tech Marketing Inc. in April 2016.
+ 
+The Company is located at 14440 Big Basin Way, #12, Saratoga, California 95070. The Company’s main phone number is (408) 663-5247.
+ 
+Business Summary
+ 
+The Company has recently commenced operations as a development-stage company. We plan to market and distribute technology products. We also intend to market and sell these products to end users and customers based on agreements that we plan to enter into with other companies that allow the Company to distribute products.
+ 
+The Company has identified three growth markets (IoT, Mobile and Energy Storage) in consumer electronics and energy markets to target initially. The Company plans to work closely with supply partners to provide the latest technology and products in these three markets to serve its customers.
+ 
+The Company plans to focus on products that have very compact designs and come with highly efficient thermal management designs. Better thermal management designs make the product more reliable and safer to operate. A compact design is more attractive for the end user.
+ 
+Our Technology Products and Services
+ 
+Devices which the Company intends to distribute are the following: HD Security Cameras, Virtual Reality (VR) and Augment Reality (AR) glasses, drones accessory devices, connected car accessories and smart home devices.
+ 
+Marketing and sales of Internet of Things (IoT), Mobile and Energy Storage Devices will occur in the United States and the Greater China Region.
+ 
+The Company’s mobile devices include: Smartphone modules for consumer and industrial applications, tablet computers for business application and 3/4G modules for machine-to-machine (M2M) applications. Energy storage devices include: Lithium-Ion Battery (LiB) pack for electrical bike, LiB pack for industrial machine application and medical equipment applications.
+ 
+The Company believes that today’s consumers value choice, not just in terms of the variety of products on offer, but also in the channels where they can buy them. Whereas the internet allows the increasingly-savvy consumer to research products from home at his/her leisure in terms of functionality, more importantly, it also allows him/her to find the best deal in terms of price. Store-based retailing, on the other hand, offers consumers expert advice; the latter is particularly important in TCG, where products are becoming increasingly complex, and the prospect of the interconnected home is resulting in increased need for installation and consumer demand for after sales care. The Company will provide both online and in-store product marketing materials for its partners and retail channels to reach and educate its customers.
+ 
+The Market
+ 
+Market Opportunity and Strategy
+ 
+The global Internet of Things market will grow to $1.7 trillion in 2020 from $655.8 billion in 2014, research firm IDC says, as more devices come online and a bevy of platforms and services grow up around them. The firm predicts that the number of “IoT endpoints,” connected devices such as cars, refrigerators and everything in between, will grow from 10.3 billion in 2014 to more than 29.5 billion in 2020.
+ 
+4
+
+
+International Data Corporation (IDC) is the premier global provider of market intelligence, advisory services, and events for the information technology, telecommunications and consumer technology markets. IDC helps IT professionals, business executives, and the investment community make fact-based decisions on technology purchases and business strategy. More than 1,100 IDC analysts provide global, regional, and local expertise on technology and industry opportunities and trends in over 110 countries worldwide.
+ 
+Devices, connectivity and IT services are expected to account for the majority of the global IoT market in 2020, with devices alone accounting for 31.8% of the total. Purpose-built platforms, storage, security, application software and “as a service” offerings are expected to capture a greater percentage of revenue as the market matures.
+ 
+For IoT devices, the Company identifies the latest gadgets to procure and sale through its channels. KT will also provide integrated software application to control and manage the devices through one common interface to make the end-user experience seamless.
+ 
+For VR/AR devices, current solutions are rather large and heavy to wear on one’s head. The Company has identified technology partners that can provide enclosure materials that will make the VR/AR head gear lighter and cooler to wear, which we believe will greatly enhance the user experience. The Company has also identified technology partners to embed more powerful chips in the devices while still keep the operating temperature in comfortable levels.
+ 
+Security and action cameras are reaching ultra high definition (UHD) resolution to provide users better clarity and more ability to zoom in to the videos and pictures in real time. Meanwhile, these devices are becoming smaller and thinner with increasing functionality and connectivity. It is a challenge to keep all these functionalities in a small industrial design and keep it operate within its temperature range. The Company has identified technology partners in the market that can build smaller and cooler UHD security and action cameras. The Company will take these new devices to market through its channels.
+ 
+Mobile Devices Market Opportunity and Strategy
+ 
+Worldwide combined shipments of devices (PCs, tablets, ultramobiles and mobile phones) are expected to reach 2.4 billion units in 2016, a 1.9% increase from 2015, according to Gartner, Inc. Total market is expected to grow to 2.54 billion units in 2018.
+ 
+The market size of global M2M connections is expected to reach $35.16 billion by 2020, at a CAGR of 11.57% between 2015 and 2020, according to Markets & Markets Analysis.
+ 
+For mobile applications, KT works with industrial and M2M customers to provide them with the latest 4G module solution to meet their needs. Industrial applications include transportation vehicle communication, advertising displays, hospitality kiosks, and medical equipment.
+ 
+Energy Storage Market Opportunity and Strategies
+ 
+The global market for lithium ion batteries is a fast growing one and is expected to cross $30 billion by 2020. It continues to advance as high power and high capacity cells increase penetration into large-format applications. Vying for market adoption, LiB suppliers focus on more efficient battery chemistry and better thermal management for safety and reliability
+ 
+According to market research firm IHS, the energy storage market is set to “explode” to an annual installation size of 6 gigawatts (GW) in 2017 and over 40 GW by 2022 — from an initial base of only 0.34 GW installed in 2012 and 2013.
+ 
+An IMS Research report expects the market for storing power from solar panels – which was less than $200 million in 2012 – will catapult to $19 billion by 2017.
+ 
+The Li-ion battery (LiB) market is one of the largest electronics market in the world by unit volume. According to Battery Japan report, over 6 billion LiB were shipped in 2015 for non-automotive applications, such as consumer electronics, energy storage and industrial applications.
+ 
+However, LiB is known to cause fire and explosions in its applications and during transportation. Most recently, from December 1, 2015, through February 17, 2016, US Consumer Protection and Safety Commissions office received reports, from consumers in 24 states, of 52 hoverboards fires and explosions resulting in over $2 million in property damage, including the destruction of two homes and an automobile. LiB thermal runaway (LiB-TR) is the cause of fire and explosion.
+ 
+Industrial applications have unique power needs and the choice of battery is important. While consumer products demand high energy density to obtain slim and elegant designs, industry focuses on durability and reliability. Industrial batteries are commonly bulkier than those used in consumer products but achieve a longer service life. The Company serves the industrial battery application market by working with technology partner that provides unique features that keep the batteries safer from thermal runaway propagation events.
+ 
+5
+
+
+For energy applications, the Company values safety and reliability as the top priority for our solution. The Company works closely with suppliers to design for safety and use high quality components to make the LiB packs.
+ 
+Recent Developments 
+ 
+Between November 2016 and March 2017, the Company sold to various investors an aggregate of 2,066,000 shares of its Common Stock. The gross proceeds to the Company were $2,066,000.
+ 
+The Company intends to use the proceeds of the offering (the “Proceeds”) to continue its efforts towards marketing and distributing technology products. Although the Company does not have definitive agreements in place, the Company has identified three growth markets (IoT, Mobile and Energy Storage) in consumer electronics and energy markets to target. The Company will focus on products that have very compact designs and come with highly efficient thermal management designs. Better thermal management designs make the product safer and more reliable to operate. The Company plans to work closely with supply partners to provide the latest technology and products in these three markets to serve its customers.
+ 
+On May 6, 2016, the Company entered into a relationship with Tokyo, Japan-based E3 Enterprise (“E3” or “E3 Enterprise”) pursuant to a non-binding letter of intent (“E3 LOI”). Pursuant to the E3 LOI, the parties express a desire for the Company to distribute E3 Internet of Things products in the North American markets exclusively. Although the E3 LOI contemplated a closed transaction by December 2016, the parties are presently working in good faith to negotiate a final binding agreement, although no assurances can be made that such an agreement will be reach (or when it will be reached).
+ 
+On October 31, 2016, the Company entered into a non-binding Letter of Intent (the “KULR LOI”) with KULR Technology Corporation, a Delaware corporation (“KULR”). The LOI outlines the terms of a potential transaction with KULR under which the Company would acquire all of the issued and outstanding capital stock of KULR in exchange for the issuance, to KULR’s shareholders, of new common stock constituting a majority of the Company’s issued and outstanding capital stock post-closing. KULR is a private technology firm that owns proprietary carbon fiber based (Carbon Fiber Velvet or “CFV”) thermal management solutions that are more effective at storing, conducting, and dissipating waste heat generated by an electronic system’s internal components in comparison to traditional materials such as copper and aluminum. The Company’s President, CEO, and director, Michael Mo, is a co-founder and CEO of KULR. Although, no assurances can be made that a transaction with KULR will take place, the negotiations are ongoing and KULR has committed to deal exclusively with the Company regarding any potential merger, acquisition, or similar transaction until February 10, 2017, which date has been mutually extended to March 31, 2017.
+ 
+The Company believes that the Proceeds will assist in progressing the above efforts to negotiate a definitive agreement for either or both of the transactions contemplated by the KULR LOI and the E3 LOI, and for the implementation of the operations contemplated thereafter.
+ 
+Pricing
+ 
+The Company anticipates offering products at market-competitive prices. The also Company utilizes a direct channel model to offer competitive prices to its customers. In addition, the Company works closely with its industrial OEM customers to customize the product solution to the customer’s specifications and requirements. By planning to offer highly customized solutions, the Company plans to keep long-term relationships with its customers. 
+Employees
+ 
+As of the date of this report, the Company has no employees other than its officer who has agreed to assist the Company without pay until the Company is more stable and has recurring cash flow from operations.
+Regulation
+ 
+The Company’s business may be subject to various government regulations in the jurisdictions in which they operate. Due to the potential wide scope of the Company’s operations, the Company could be subject to regulation by various political and regulatory entities, including regulations on importing goods, various local and municipal agencies and government sub-divisions. The Company may incur increased costs necessary to comply with existing and newly adopted laws and regulations or penalties for any failure to comply. The Company’s operations could be adversely affected, directly or indirectly, by existing or future laws and regulations relating to its business or industry.
+ 
+6
+
+
+Competition
+ 
+The Company would compete with traditional distributors and marketers of technology products. Such companies would include large U.S. electronics distribution companies, such as Avnet and Future Electronics, as well as OEM Brand Marketing Companies, such as Audiovox and Sylvania.
+Strategic Partners and Suppliers
+ 
+The Company believes that strategic partnerships will be a major component of the Company’s operating strategy and path to success. The Company hopes to work with several strategic partners in important areas of its business and operations. However, currently, the Company has no such strategic partners other than the letter of intent that it has entered with E3.
+ 
+The Company plans to work with partners and suppliers to procure products from China. Distribution is slated to occur through online channels such as Amazon.com.
+ 
+The Company is also in discussion with a number of suppliers for their CE, mobile and IoT products.
+ 
+Operations
+ 
+The Company plans to market, sell and distribute a variety of technology products. 
+ 
+Sales and Marketing
+ 
+The Company has conducted limited advertising and marketing to date as the primary focus of the Company since inception has been to concentrate on building its initial suite of operations. The Company needs to give some attention to constructing the marketing strategy and plans that it will use once its products are ready to enter the marketplace.
+ 
+The Company has conducted no sales and marketing to date. The Company needs to give some attention to constructing the sales strategy and plans that it will use once its products are ready to enter the marketplace.
+ 
+The Company believes that consumers today are more interested in core benefits and attractive prices than in often-unused bells and whistles. While there will always be high-end buyers willing to pay premium prices, we identified an attractive emerging market for easy-to-use consumer electronics products, with features that reflect user demand, priced 30 to 50 percent lower than standard offerings.
+ 
+The Company believes that affordable basic products should not be confused with low-quality, poorly designed ones that use generic off-the-shelf components. Easy-to-use consumer electronics offerings, which we call “basics,” have been designed to be simpler, not just stripped down and made more cheaply. Basics are well conceived, well made, and have the features consumers demand—even those typically found in high-end products—but lack little-used features. Basics come from not only upstart companies but also established ones, though consumer electronics manufacturers have been slow to recognize the potential of the basics market.
+ 
+Given the appetite for basics products among consumer electronics purchasers, the Company plans to market and sell simple, compact and easy to use products that offer consumer core benefits easy for them to understand and appreciate. 
+ 
+Intellectual Property
+ 
+ The Company has not applied for any intellectual property or trade secret protection on any aspects of its business.
+ 

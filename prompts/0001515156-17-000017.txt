@@ -1,0 +1,320 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+General 
+ADA-ES, Inc. (“ADA”), a Colorado corporation, was incorporated in 1997. Pursuant to an Agreement and Plan of Merger ("Reorganization"), effective July 1, 2013, Advanced Emissions Solutions, Inc. (“ADES”), a Delaware company incorporated in 2011, replaced ADA as the publicly-held corporation and ADA became a wholly-owned subsidiary of ADES. Each outstanding share of ADA’s common stock automatically converted into one share of common stock of ADES and the shareholders of ADA became stockholders of ADES on a one-for-one basis, holding the same number of shares in and the same ownership percentage of ADES after the reorganization as they held in and of ADA prior to the reorganization. ADES’s common stock became listed on the NASDAQ Capital Market under the symbol, "ADES," ADA’s previous symbol, and ADA’s stock ceased trading on the NASDAQ Capital Market on July 1, 2013. From March 30, 2015 through July 6, 2016, ADES's common stock was traded on the OTC Pink® Marketplace - Limited Information Tier under the trading symbol "ADES." Effective, July 7, 2016 ADES's common stock began trading on the NASDAQ Global Market under the symbol, ADES. This Annual Report on Form 10-K is referred to as the "Form 10-K" or the "Report." 
+Except as otherwise noted in this Report, ADES and its subsidiaries have continued to conduct business in substantially the same manner as conducted prior to the reorganization.
+As this filing pertains to the year ended December 31, 2016, the terms the "Company," "we," "us" and "our" means ADA and its consolidated subsidiaries for the periods through and including the period ended June 30, 2013 and ADES and its consolidated subsidiaries for the dates or periods after July 1, 2013. 
+We are also an equity investor in Tinuum Group, LLC ("Tinuum Group"), formerly known as Clean Coal Solutions, LLC, and Tinuum Services, LLC ("Tinuum Services"), formerly known as Clean Coal Solutions Services, LLC. As of December 31, 2016 and 2015, we held equity interests of 42.50% and 50.00% in Tinuum Group and Tinuum Services, respectively, and each of their operations significantly impacted our financial position and results of operations for the years ended December 31, 2016, 2015 and 2014. These equity interests are accounted for under the equity method of accounting. On March 3, 2016, we sold our 24.95% equity interest in RCM6, LLC ("RCM6"), which had been accounted for under the equity method of accounting from inception until its disposition. 
+Business Purpose and Strategy
+ADES is the holding entity for a family of companies that provide emissions solutions to customers in the coal-fired power generation and industrial boiler processes. Through our subsidiaries and joint ventures, we are a leader in emissions control ("EC") technologies and associated equipment, chemicals and services. Our proprietary environmental technologies enable our customers to reduce emissions of mercury and other pollutants, maximize utilization levels and improve operating efficiencies to meet the challenges of existing and pending EC regulations.
+Our major activities include:
+
+• | Development and sale of technology to reduce emissions and improve operations of coal-fired boilers used for power generation and industrial processes;
+
+
+• | Development and sale of equipment, specialty chemicals, consulting services and other products designed to reduce emissions of mercury, acid gases, metals and other pollutants, and the providing of technology services in support of our customers' emissions compliance strategies;
+
+
+• | Through Tinuum Group, an unconsolidated entity, reduction of mercury and nitrogen oxide ("NOX") emissions at select coal-fired power generators through the burning of Refined Coal ("RC") produced by RC facilities placed in service by Tinuum Group. We benefit from Tinuum Group's production and sale of RC, which generates tax credits, as well as the revenue from selling or leasing RC facilities to tax equity investors. See the separately filed financial statements of Tinuum Group included in Item 15 of this Report; and
+
+
+• | Research and development of technologies and other solutions to advance cleaner energy and to help our customers meet existing and future regulatory and business challenges, including technologies designed to address regulated environmental impacts related to power generation or industrial processes.
+
+3
+
+Markets for Our Products and Services
+We provide environmental control equipment, chemicals and technologies to our primary market that consists of approximately 680 coal-fired electrical generation units located in the United States. 
+The share of coal-fired power generation as a percentage of U.S. electricity generation is expected to continue to decrease over the coming years due to low projected natural gas prices, increasingly stringent environmental regulations and increased deployment of renewable power generating assets. However, we believe that coal-fired power generation will remain a significant component of the U.S. power generation mix for many years given coal's abundance, affordability, reliability and availability as a domestic fuel source. In its Annual Energy Outlook for 2017, the Energy Information Administration ("EIA") projects that coal will provide 22% of electricity generation in 2040 if the Clean Power Plan ("CPP") of the U.S. Environmental Protection Agency ("EPA"), addressing limiting greenhouse gas emissions, is implemented. If the CPP is not implemented, the EIA projects that coal will provide 31% of power generated. The primary drivers for many of our products and services are environmental laws and regulations impacting the electric power generation industry and other coal users. These regulations include the Mercury and Air Toxics Standards ("MATS"), a federal regulation that requires all of the existing fleet and all new coal-fired plants to control mercury emissions, acid gases, and particulate matter, as well as various state regulations and permitting requirements for coal-fired power plants. In addition to the federal MATS rule, certain states have their own mercury rules that are similar to, or more stringent than MATS, and many plants around the country have agreed to consent decrees, which require pollution controls that, in some cases, are more restrictive than the existing regulations. We continue to believe the MATS rule as well as certain state regulations create a large market for RC and EC products. Additionally, the proposed, pending, and future rules relating to carbon dioxide (CO2) or other greenhouse gas emissions, effluent discharge, coal combustion residuals and other pollutants are driving, and we expect will continue to drive, future markets for which we may develop products and solutions.
+In general, coal is a low cost, stable and reliable source of domestic energy that, unlike many other forms of energy, can be easily stored in large quantities. We believe coal is critical to ensuring the U.S. has a secure and stable source of energy. With current environmental regulations, we believe it is unlikely that any new coal plants will be financed or constructed, which suggests that the average plant age in 2040 will be 64 years old. With the continued retirement of the less efficient and generally smaller coal plants switching of fuel sources from coal to other fuels such as natural gas, and the influx of intermittent generation such as solar and wind, we believe coal-fired generation will be seen as a complement to the other fuel sources in providing electricity to users and supporting the electric grid. This belief is reflected in the CPP, published in October 2015 by the EPA. Continued pressure from renewable energy sources and natural gas combined with uncertainty regarding regulations on CO2 emissions will likely push coal-fired generators to increase their focus on maintaining regulatory compliance in the most efficient and cost effective manner, while also responding to intermittent generating sources. As coal plants age and they are dispatched with more variability rather than at base-load levels for which they were designed, we expect that increased support will be required to assure reliable operation and continued compliance with environmental regulations. We expect that plants and owners will require additional support as their aging workforce retires and on-site expertise is no longer as available, and as utilities allocate resources elsewhere in their power generation fleets.
+While the future is uncertain, we expect this uncertainty will continue to drive a shift in utilities' purchasing desires towards variable cost products and integrated solutions with low capital expenditure requirements and away from large capital equipment and other fixed cost solutions that are less likely to have costs recovered given the uncertain operating life of many coal plants. We also expect to see a continued trend towards outsourcing various aspects of plant operations to third-party vendors and away from having integrated plant staff. 
+We believe it is likely that many U.S. coal mines, coal-fired power generators, coal-centric large equipment providers and other coal-related businesses will have difficulty in adapting to industry changes expected in the coming years. However, we see opportunities for companies that can offer their customers creative and cost effective solutions that help the U.S. coal-related businesses meet regulatory compliance, improve efficiency, lower costs and maintain reliability.
+4
+
+As of December 31, 2016, our products, services and RC technology licenses available to coal-fired electrical generators requiring solutions to assist with compliance with emissions standards included: 
+
+• | Equipment:
+
+
+◦ | Low capital expenditure mercury control technologies and systems such as Activated Carbon Injection ("ACI") systems, that effectively reduce mercury emissions over a broad range of plant configurations and coal types; and
+
+
+◦ | Dry Sorbent Injection systems ("DSI") that reduce emissions of Sulfur Dioxide ("SO2") and other acid gases such as Sulfur Trioxide ("SO3") and Hydrogen Chloride ("HC1"); and
+
+
+◦ | Our patented ADAirTM Mixer in-duct technology that alters flue gas flow to improve mixing and optimize particle dispersion to reduce sorbent consumption for ACI and DSI systems.
+
+
+• | RC technology licenses:
+
+
+◦ | Our patented CyCleanTM technology, a pre-combustion coal treatment process that provides electric power generators the ability to enhance combustion and reduce emissions of NOX and mercury from coals burned in cyclone boilers; and
+
+
+◦ | Our patented M-45TM and patent pending M-45-PCTM technologies, which are proprietary pre-combustion coal treatment technologies used to control emission from circulating fluidized bed boilers and pulverized coal boilers, respectively.
+
+
+• | Chemicals:
+
+
+◦ | Our patented M-ProveTM technology, which is also incorporated in our RC technologies, that provides a cost effective alternative to other halogen-based, oxidation chemicals used to enhance removal of mercury emissions. M-ProveTM technology mitigates coal treatment corrosion risks to minimize maintenance and repair costs to enhance system reliability and risks associated with bromine discharge from plant wastewater; and 
+
+
+◦ | Our RESPond® liquid chemical additive that is a highly effective ash resistivity modifier for power plants operating cold-side electrostatic precipitators. Unlike SO3 solutions, the incumbent chemical being used to modify ash resistivity, the RESPond® additive does not interfere with or reduce the effectiveness of activated carbon injected into the flue gas for purposes of reducing mercury emissions.
+
+
+• | Consulting services and other:
+
+
+◦ | We provide general consulting services as requested by our customers related to emissions control.
+
+Additionally, as of December 31, 2011, Tinuum Group, an unconsolidated entity in which we own a 42.5% equity interest, built and placed into service a total of 28 RC facilities designed to produce RC for sale to coal-fired power plants. Coal-fired power plants use RC as one of a portfolio of tools to help comply with MATS and other environmental regulations. These RC facilities produce RC that qualifies for tax credits under the Internal Revenue Code ("IRC") Section 45 - Production Tax Credit ("Section 45 tax credits"), including meeting the "placed in service" requirements (hereafter referred to as "placed in service"). The law that provides for Section 45 tax credits substantially expires in December 2019 for two of Tinuum Group's RC facilities placed in service in 2009 and in the fourth quarter of 2021 for 26 RC facilities built and placed in service in 2011. Once an RC facility is in operation, Tinuum Group may enter into contracts with tax equity investors to lease or sell the RC facility, which we refer to as an "invested" RC facility. Such investors subsequently operate the RC facility to produce and sell RC to a utility. RC facilities that are producing and selling RC, but have not been leased or sold, are referred to as "retained" RC facilities, whereby the RC is produced and sold by Tinuum Group and where the related tax benefits may be realized by the owners of Tinuum Group. As of December 31, 2016, Tinuum Group had 13 invested RC facilities producing RC at utility sites and no retained RC facilities. The remaining 15 RC facilities, although placed in service, were either installed but not operating, awaiting site selection or in various other stages of contract negotiation or permanent installation. Of these remaining 15 RC facilities, eight have been installed and are ready to operate pending final commitments for the purchase or lease of such facilities by tax equity investors. The remaining facilities are awaiting site selection or in various other stages of contract negotiation, permanent installation or commissioning. 
+Although we intend to utilize our share of the Section 45 tax credits which have been or may be generated by producing RC at retained RC facilities, it is also financially advantageous to lease or sell RC retained facilities to tax equity investors. The tax equity investor for a particular RC facility pays the operating expenses of the RC facility and also pays Tinuum Group for either the purchase or lease of the RC facility, and in return, takes over production and sale of RC including the related tax benefit. We benefit from equity income and distributions accruing through our investment in Tinuum Group. Tax equity investors may benefit from their investment in RC facilities through the realization of tax assets and credits from the production and sale of RC. As of December 31, 2016 and 2015, respectively, the Section 45 tax credits were $6.81 and $6.71 per ton of RC 
+5
+
+produced and sold to a utility. The value of the Section 45 tax credits are adjusted annually based on inflation adjustment factors published in the Federal Register. As of December 31, 2016, we have received substantial tax credits and benefits from certain retained RC facilities that previously produced and sold RC for the benefit of Tinuum Group, but have not been able to fully utilize them. See Note 16 to our Consolidated Financial Statements included under Item 8 of this Report for additional information regarding our net operating losses ("NOL's"), tax credits and other deferred tax assets. 
+The 13 RC facilities producing RC as of December 31, 2016 are operated by our 50% owned entity, Tinuum Services, under operating and maintenance agreements with the owners or lessees of the RC facilities. 
+Legislation and Environmental Regulations 
+U.S. Federal Mercury and Air Toxic Standards (“MATS”) Affecting Electric Utility Steam Generating Units
+On December 16, 2011, the U.S. EPA issued the final "MATS Rule," which took effect in April 2012. The EPA structured the MATS Rule as a MACT-based hazardous pollutant regulation applicable to coal and oil-fired Electric Utility Steam Generating Units (“EGU”), which generate electricity via steam turbines and have a capacity of 25 megawatts or greater, and provide for, among other provisions, control of mercury and particulate matter and control of acid gases such as HC1 and other Hazardous Air Pollutants ("HAPs"). According to our estimates, the standard sets a limit that we believe requires the capture of up to 80-90% of the mercury in the coal burned in electric power generation boilers as measured at the exhaust stack outlet for most plants. The MACT standards are also known as National Emission Standards for Hazardous Air Pollutants ("NESHAP"). Plants generally had four years to comply with the rule, and we estimate that, based on data reported to the EPA and conversations with plant operators, most plants were required to comply by April 2016. From May 2016 through October 2016, 679 EGU's had reported operations compared to 744 with operations during all of 2016, which included the pre-compliance period through April 2016. Although operating data indicated over 60 boilers ceased operations following the compliance date, not all of these boilers have been permanently shut down and some may return to operations at a future date. 
+State Mercury and Air Toxics Regulations Affecting EGUs
+In addition to the federal MATS Rule, certain states have their own mercury rules that are similar to or more stringent than MATS, and power plants around the country are subject to consent decrees that require the control of acid gases and particulate matter, in addition to mercury emissions. Seventeen states have mercury-specific rules that affect more than 260 generating units. 
+U.S. Federal Industrial Boiler MACT
+In January 2013, the U.S. EPA issued the final set of adjustments to the MACT-based air toxics standards for industrial boilers, including mercury, particulate matter, and acid gas emission limits. Existing boilers typically had until January 31, 2017 to comply with the rule. On December 1, 2014, the EPA announced the reconsideration of the IBMACT and proposed amendments to the version published January 31, 2013, representing technical corrections and clarifications. The proposed amendments do not affect the applicability of the final rule. 
+The EPA estimated that approximately 600 coal-fired boilers will be affected by the industrial boiler MACT ("IBMACT"), in industries such as pulp and paper. Our estimates, based on conversations with plant operators, suggest that most of the affected plants have or will either shut down or switch fuels to natural gas to comply with the regulation.
+Effluent Limitation Guidelines
+On September 30, 2015, the EPA set the first federal limits on the levels of toxic metals in wastewater that can be discharged from power plants. The final rule requires, among other things, zero discharge for fly ash transport water, and limits on mercury, arsenic, selenium, and nitrate from flue gas desulfurization ("FGD") wastewater (also known as "legacy wastewater"). Plants must comply with limits for legacy wastewater beginning as early as November 2018, with a possible extension to December 2023 with state approval. Although halogens are not directly regulated in the effluent guidelines, some halogens may impact the effectiveness of biological wastewater treatment systems that are often used for the removal of selenium. We expect that these regulations and restrictions on liquid effluents will generate a continuous market beginning in 2017 or 2018 for technologies and operating approaches to reduce liquid effluents. We are evaluating whether the potential market opportunity supports our development of new products to help plants comply with these rules, as well as how these rules may affect our current product offerings.
+6
+
+Additional U.S. Legislation and Regulations
+On August 3, 2015, the EPA finalized rules to reduced greenhouse gases ("GHGs") in the form of the CPP, which established guidelines for states to follow in developing plans to reduce GHG emissions. Under the CPP, states are required to prepare State Implementation Plans to meet state targets established based on emission reductions from affected sources. The CPP requires that the Best System of Emission Reduction ("BSER") be implemented and establishes three building blocks, which include heat rate improvements at affected coal-fired power plants, substituting coal-fired generation with less carbon-intensive EGUs such as natural gas combined cycle plants, and substituting renewable generation. The CPP has been challenged by multiple states in the U.S. Court of Appeals for the District of Columbia Circuit ("DC Circuit"). The CPP is currently stayed by the Supreme Court, and a panel of 10 judges on the DC Circuit are reviewing the CPP following a hearing in September 2016.
+International Regulations
+There are various international regulations related to mercury control. In Canada, the Canada-Wide Standard ("CWS") was initially implemented in 2010, with increasingly stringent limits through 2020 with varying mercury caps for each province. China and Germany both have limits for mercury emissions that are less stringent than U.S. limits, which are typically met using co-benefits from other installed air pollution control equipment designed to control other pollutants. 
+Based upon the existing and potential regulations, we believe the international market for mercury control products may expand in the coming years, and we are positioning our patent portfolio accordingly to be prepared if a market for our products appears.
+Segment Information 
+As of December 31, 2016, our operations consisted of two reportable segments: (1) RC and (2) EC.
+Financial information related to each of our reportable segments is set forth in Note 17 of the Consolidated Financial Statements included in Item 8 of this Report. 
+
+(1) | RC Segment
+
+Our RC segment derives its earnings from equity method investments as well as royalty payment streams and other revenues related to reduced emissions of both NOX and mercury from coal treated with our proprietary chemicals and burned at coal fired power plants. Reducing emissions of both NOX and mercury from the combustion of coal is necessary to comply with regulatory standards. Our equity method investments related to the RC segment include Tinuum Group and Tinuum Services. Additionally, through March 3, 2016, we had an equity method investment referred to as RCM6, which impacted the results of the RC segment. As of December 31, 2016, we held equity interests of 42.5% and 50% in Tinuum Group and Tinuum Services, respectively.
+Tinuum Group owns, leases or sells facilities used in the production of RC. The RC facilities are located at coal-fired generation stations owned by regulated utilities, cooperatives, government agencies and wholesale power generators (collectively, "Generators"). The RC produced by the RC facilities is used by the Generators as fuel in the coal-fired boilers to produce electricity. The production and sale of RC in these RC facilities qualifies for Section 45 tax credits during the term of such credits. The IRS has issued guidance regarding emissions reductions in the production of electricity by coal-fired power plants, including measurement and certification criteria necessary to qualify for the Section 45 tax credits. 
+The RC facilities that Tinuum Group has leased or sold to tax equity investors are referred to as invested facilities. For invested facilities, Tinuum Group collects lease income from the lessee, if leased, or sales proceeds from the buyer if sold. We benefit from these transactions through our equity method investment in Tinuum Group. RC facilities that are producing RC, but that Tinuum Group has not leased or sold, are referred to as retained RC facilities. The owners of Tinuum Group, including the Company, produce and sell RC to Generators, and may benefit to the extent Section 45 tax credits and other tax benefits are realized from the operation of retained RC facilities. The ability to produce RC, which generates Section 45 tax credits, expires 10 years after each RC facility is placed into service, but not later than December 31, 2021. RCM6, of which we owned a 24.95% equity interest and was sold in March 2016, owned a single RC facility managed by a wholly-owned subsidiary of Tinuum Group. 
+Tinuum Services operates and maintains RC facilities under operating and maintenance agreements with owners or lessees of RC facilities. Tinuum Group or the owners or lessees of the RC facilities pay Tinuum Services, subject to certain limitations, 
+7
+
+the costs of operating and maintaining the RC facilities plus various fees. Tinuum Services also arranges for the purchase and delivery of certain chemical additives, which include the chemicals required for our CyCleanTM, M-45TM and M-45-PCTM technologies, necessary for the production of RC under chemical agency agreements. The term of each chemical agency agreement runs concurrently with the respective RC facility's lease. Tinuum Services is also the primary beneficiary of certain RC facilities that are variable interest entities ("VIEs") and therefore consolidates such RC facilities. All net income (loss) associated with these consolidated RC facilities is allocated to the noncontrolling equity owners and therefore does not impact our equity earnings (loss) from Tinuum Services.
+Tinuum Group also pays us royalties from the licensing of our M-45TM and M-45-PCTM EC technologies ("M-45 License"). Royalties are earned based upon: (i) a percentage of the per-ton, pre-tax margin net of certain allocable operating expenses related to the lease or sale of an invested RC facility that produces and sells RC under the M-45 License, (ii) a percentage of the value of the Section 45 tax credits produced net of certain allocable operating expenses as a result of the production and sale of RC under the M-45 License at retained RC facilities and (iii) a percentage of the revenue, net of all direct expenses, received by Tinuum Group as a direct result of Tinuum Group's exercise of the M-45 License. 
+
+(2) | EC Segment
+
+
+(a) | Systems & Equipment- Activated Carbon Injection, Dry Sorbent Injection System and Other Systems
+
+We are an established market leader in the supply of ACI systems for the coal-fired electric industry. The injection of activated carbon into the coal combustion flue gas for the purpose of absorbing mercury molecules is the most established and accepted technology to specifically reduce mercury emissions. Our proprietary and highly engineered ACI systems facilitate a customer's ability to reliably and cost effectively meet regulatory emissions limits. Most coal-fired power plants had purchased and installed required mercury control equipment by mid-April 2016, and most coal-fired industrial boilers requiring ACI systems will have installed systems by January 2017 to meet compliance deadlines. We believe that a limited number of additional systems may be required to address fuel or operational changes after these dates. 
+DSI is used to control HC1 and can improve the effectiveness of ACI for some plants. Most power plants requiring DSI for MATS compliance had procured and installed systems by mid-April 2016. We believe that a limited number of additional systems may be required to address fuel or operational changes, or to meet other regulations in 2017 and 2018.
+The ADAir™ Mixer was designed to improve the effectiveness of ACI and DSI systems. We believe sales of the ADAir™ Mixer may increase in 2017 and 2018 as plants gain experience with their ACI and DSI systems and seek options to optimize their systems to reduce operating costs.
+
+(b) | Chemicals
+
+
+(i) | Mercury Control Additives
+
+Our patented M-Prove™ pre-combustion coal treatment technology involves the application of patented chemicals to coal. This technology substantially reduces mercury emissions and also can reduce the amount of activated carbon or other sorbents used to meet regulatory mercury emission limits. The power industry is beginning to experience corrosion and wastewater issues in their plants that they attribute to the use of bromine to enhance the capture of mercury. One of the advantages of the M-ProveTM  additive is that it is effective at very low application rates, significantly reducing balance of plant risks associated with other coal additive technologies for mercury control. We believe that demand for M-ProveTM  technology will increase in 2017 and 2018 as plants gain experience with their mercury control systems and begin to optimize their strategy to reduce operational impacts, especially as they relate to corrosion and wastewater. In October 2012, we were awarded the first of a family of patents designed to protect this technology in the U.S., and are pursuing similar patents in various other countries.
+We license certain emissions control technologies, including the M-ProveTM additive, to Tinuum Group for the production of RC to reduce emissions of both mercury and NOX from coal-fired boilers. We licensed our patented CyCleanTM technology to Tinuum Group upon formation of the entity in 2006 for use with cyclone boilers for the life of the patents. In July 2012, we executed the M-45 license with Tinuum Group, which is effective for the duration that Section 45 tax credits are available. We believe these licenses will leverage Tinuum Group’s operating expertise and allow it the ability to provide and use either the CyCleanTM or M-45TM technology to produce RC. Later in 2012, we made a technological advancement in the M-45TM technology, which was incorporated in the M-45 License and allows it to be effective in “pulverized coal” (“PC”) boilers. In addition to the royalty payments we receive from Tinuum Group, the use of M-ProveTM technology in the production of RC provides valuable operating data and validates the effectiveness of the M-ProveTM technology in a range of coal-fired boilers. We expect this information will help in our sales process for the M-ProveTM technology.
+8
+
+
+(ii) | Flue Gas Chemicals and Services
+
+We have deployed technologies for conditioning flue gas streams from coal-fired combustion sources. Our flue gas conditioning chemical allows existing air pollution control devices, such as electrostatic precipitators ("ESPs"), to operate more efficiently without the use of traditional SO3 additives, which have been shown to be detrimental to effective mercury control by partially negating the effectiveness of certain sorbents used to absorb mercury, including activated carbon. Such treatment of the flue gas stream allows for effective collection of fly ash particles that would otherwise escape into the atmosphere. The use of the proprietary chemical blends may help existing marginally sized ESPs continue to operate effectively when applied exclusively, or in combination with other chemicals such as hydrated lime, activated carbon products, or other high-resistivity materials. Our flue gas conditioning chemical is currently sold under the registered trademark RESPond®. 
+
+(c) | Consulting Services
+
+We also offer consulting services to assist electric power generators, the electric utility industry and others in planning and implementing strategies to meet the new and increasing government emission standards requiring reductions in SO2, SO3, HC1, NOX, particulates, acid gases and mercury. 
+The following table shows the amount of total revenue by type:
+ | Years Ended December 31,
+(in thousands) | 2016 | | 2015 | | 2014
+Revenues: | | | | | 
+Equipment sales | $ | 46,949 | | | $ | 60,099 | | $ | 12,044
+Chemicals | 3,025 | | | 888 | | | 391 
+Consulting services and other | 648 | | | 1,752 | | | 4,488
+Total revenues | $ | 50,622 | | | $ | 62,739 | | $ | 16,923
+
+Competition 
+We are an established leader in the mercury control market for coal-fired electric power generators. We believe we add significant value to our base offerings by having complementary products and services. Our expertise and experience in conducting full-scale emissions control demonstrations reflect our understanding of the application of the control technologies that customers find valuable. Our ability to provide users with performance guarantees on our equipment, along with comprehensive testing services and overall compliance strategies, enhances our competitive position in this market. In the EC equipment market, we believe Norit Americas, Inc., a division of Cabot Corporation, United Conveyor Corporation, Nol-Tec Systems, Inc. and Clyde Bergemann, Inc. are our principal ACI market competitors and that Nol-Tec Systems, Inc., United Conveyor Corporation and Clyde Bergemann, Inc. are our principal DSI market competitors. Competition for ACI and DSI systems is based primarily on price, quality, performance, terms of performance guarantees and the ability to meet the requested delivery and installation schedule. In the EC chemicals market, our mercury control chemicals primarily compete against the use of brominated activated carbon, as well as the use of bromine applied to the coal prior to combustion. Our primary competitors for our coal additives are Nalco and ME2C. As it relates to brominated activated carbon providers, our competitors include ADA Carbon Solutions, Norit Americas, and Calgon Carbon. Because of a number of market and technology dynamics, there is not a definitive connection between the sale of mercury control systems and the ultimate supply of mercury control chemicals. Thus when we are successful with a contract for the ACI equipment, it does not guarantee that we will also sell that customer M-ProveTM coal additives, and when a customer buys a competitors’ ACI system it does not mean that that customer is not a viable candidate for our chemicals.
+In the RC market, we believe Chem-Mod, LLC and licensees of the Chem-Mod technology are our principal competitors. Competition within the RC market is based primarily on price, the number of tons of coal burned at the coal-fired power plant where the RC facilities are operating and the tax compliance facts associated with each RC facility. Additionally, competition for tax equity investors extends into other investment opportunities, including opportunities related to potential tax incentive transactions available to potential investors.
+9
+
+Patents 
+As of December 31, 2016, we held 35 U.S. patents that were issued or allowed, 16 additional U.S. Provisionals or applications that were pending, and 10 international patent applications that were either pending or filed relating to different aspects of our technology. Our existing patents generally have terms of 15 to 20 years, measured from the application date, the earliest of which was in 1997. We consider many of our patents or pending patents to be critical to the ongoing conduct of our business. 
+Our Vendors and Supply of Materials 
+We purchase our materials, including equipment, fabricated modules and steel, from a variety of vendors for engineered ACI and DSI systems, components and other equipment we provide. Such equipment is available from numerous sources; however, based on the system requested by the customer, we may determine that some sources are not suitable. We typically subcontract the major portion of the work associated with installation of such equipment to a variety of vendors, who are usually located near the work site. 
+We purchase our proprietary chemicals through negotiated blending contracts that include confidentiality agreements with chemical suppliers. These arrangements attempt to assure continuous supply of our proprietary chemical blends. The chemicals used in our proprietary chemical products are readily available, and there are several chemical suppliers that can provide us with our requirements. Supply agreements are generally renewed on an annual basis. 
+Seasonality of Activities 
+The sale of our chemical products and RC facility operation levels depend on the operations of the electric power generators to which the applicable chemicals are provided and the location of the RC facilities, respectively. Electric power generators routinely schedule maintenance outages in the spring and/or fall depending upon the operation of the boilers. During the period in which an outage may occur, which may range from one week to over a month, no chemicals are used or RC produced and sold, and our revenues can be correspondingly reduced. Additionally, power generation is weather dependent, with electricity and steam production varying in response to heating and cooling needs.
+Dependence on Major Customers 
+We depend on our customer relationships with owners and operators of coal-fired power generation facilities as well as general market demand for coal-fueled power generation. Our internal sales staff and external sales representative network market our technology through trade shows, mailings and direct contact with potential customers. 
+Through our investment in Tinuum Group, we depend on our relationships with owners and operators of coal-fired power generation facilities, including various electric utilities and tax equity investors. Tinuum Group is the exclusive licensee for purposes of producing RC using the CyCleanTM and M-45 License technologies. Tinuum Group depends on tax equity investors, with significant concentration within affiliates of Goldman Sachs ("GS"). These investors could renegotiate or terminate their leases, or the utilities where the RC facilities are installed could materially reduce their use of RC. See Risk Factors -- Customers may cancel or delay projects and our backlog may not be indicative of our future revenues.
+Additional information related to major customers is disclosed in Note 18 of the Consolidated Financial Statements included in Item 8 of this Report. 
+Research and Development Activities 
+In 2016, we focused on assisting our customers in successfully implementing their MATS strategies and conducted limited research and development activities. Certain research and development related to CO2 capture was funded, in part, under contracts and/or cost reimbursement arrangements with the U.S. Department of Energy ("DOE") and other third parties. Our research and development expense, net of DOE and industry cost-share partners' reimbursements, for the years ended December 31, 2016, 2015 and 2014 was $(0.6) million, $5.4 million and $1.5 million, respectively. Excluding cost-share reimbursements, we incurred research and development expenses of $0.2 million, $6.7 million and $3.6 million on our own behalf for research and development activities related to further development of our technologies for the years ended December 31, 2016, 2015 and 2014, respectively. We engage in these activities in order to continue to develop technologies to bring to the broader EC market and to expand our own offerings into other areas. However, we expect future research and development activities will not be significant as the Company aligns the business with its current strategic objectives.
+10
+
+Refined Coal Data 
+The following table provides summary information related to the Company's investment in Tinuum Group and the related RC facilities as of December 31, 2016 and tons of RC produced and sold for the year ended December 31, 2016:
+ | | | | Operating
+ | # of RC Facilities | Not Operating | | Invested | Retained
+RC Facilities | 28 | | 15 | | 13 | | —
+RC tons produced and sold (000's) | | | | 41,628 | | 890
+
+Additional information related to RC facilities is included in Item 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations ("Item 7") of this Report.
+Backlog
+Backlog represents the dollar amount of revenues we expect to recognize in the future from fixed-price contracts, primarily for ACI and DSI systems as well as certain fixed-price consulting service contracts that have been executed, but work has not commenced, and those that are currently in progress. A project is included within backlog when a contract is executed. Backlog amounts include anticipated revenues associated with the original contract amounts, executed change orders, and any claims that may be outstanding with customers. It does not include contracts that are in the bidding stage or have not been awarded. As a result, we believe the backlog figures are firm, subject to customer modifications, alterations or cancellation provisions contained in the various contracts. 
+Backlog may not be indicative of future operating results. Estimates of profitability could increase or decrease based on changes in direct materials, labor and subcontractor costs, and indirect costs related to contract performance, such as indirect labor, supplies, tools and repairs, and any claims with customers. Backlog is not a measure defined by accounting principles generally accepted in the United States ("U.S. GAAP") and is not a measure of profitability. Our method for calculating backlog may not be comparable to methodologies used by other companies.
+
+(in thousands) | 
+Backlog as of December 31, 2015 | $ | 92,642
+New contracts | 7,864 | 
+Change order and claims to existing contracts, net | (3,970 | ) 
+Revenues recognized | (47,068 | ) 
+Backlog as of December 31, 2016 | $ | 49,468
+
+Operating Locations
+During the year ended December 31, 2016, we had domestic operations located in Colorado. During 2015, we had domestic and international operations, in which the domestic operations were located in Colorado and Pennsylvania. The Pennsylvania location, used as a manufacturing facility, was closed at the end of 2015, with certain wind-down activities remaining through early 2016. The international operations were not material to our total revenues or long-lived assets and were closed at the end of 2015. Tinuum Group and the related operating entity, Tinuum Services, have operations within 12 states across the United States.
+Employees 
+As of December 31, 2016 we employed 25 full-time and part-time personnel, including four ADES executives; all employees were employed at our offices in Colorado.
+11
+
+Available Information 
+Our periodic and current reports are filed with the SEC pursuant to Section 13(a) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") and are available free of charge within 24 hours after they are filed with, or furnished to, the SEC at the Company’s website at www.advancedemissionssolutions.com. The filings are also available through the SEC at the SEC's Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549 or by calling 1-800- SEC-0330. Alternatively, these reports can be accessed at the SEC’s website at www.sec.gov. The information contained on our web site shall not be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the "Securities Act") or the Exchange Act.
+Copies of Corporate Governance Documents 
+The following Company corporate governance documents are available free of charge at our website at www.advancedemissionssolutions.com and such information is available in print to any stockholder who requests it by contacting the Secretary of the Company at 640 Plaza Drive, Suite 270, Highlands Ranch CO, 80129. 
+
+• | Certificate of Incorporation
+
+
+• | Bylaws
+
+
+• | Code of Ethics and Business Conduct
+
+
+• | Insider Trading Policy
+
+
+• | Whistleblower Protection Policy
+
+
+• | Board of Directors Responsibilities
+
+
+• | Audit Committee Charter
+
+
+• | Compensation Committee Charter
+
+
+• | Nominating and Governance Committee Charter
+
+Forward-Looking Statements Found in this Report
+This Report contains forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act that involve risks and uncertainties. In particular such forward-looking statements are found in this Part I and under the heading in Part II, Item 7 below. Words or phrases such as "anticipates," "believes," "expects," "intends," "plans," "estimates," "predicts," the negative expressions of such words, or similar expressions are used in this Report to identify forward-looking statements, and such forward-looking statements include, but are not limited to, statements or expectations regarding: 
+
+(a) | the scope and impact of mercury and other regulations or pollution control requirements, including the impact of the final MATS;
+
+
+(b) | the production and sale of RC by the RC facilities will qualify for Section 45 tax credits;
+
+
+(c) | expected growth or contraction in and potential size of our target markets;
+
+
+(d) | expected supply and demand for our products and services;
+
+
+(e) | increasing competition in the emission control market;
+
+
+(f) | our ability to satisfy warranty and performance guarantee provisions;
+
+
+(g) | expected dissolution and winding down of certain of our wholly-owned subsidiaries;
+
+
+(h) | future level of research and development activities;
+
+
+(i) | the effectiveness of our technologies and the benefits they provide;
+
+
+(j) | Tinuum Group’s ability to profitably sell and/or lease additional RC facilities and/or RC facilities that may be returned to Tinuum Group, or recognize the tax benefits from production and sale of RC on retained RC facilities;
+
+
+(k) | probability of any loss occurring with respect to certain guarantees made by Tinuum Group ("Party Guarantees");
+
+
+(l) | the timing of awards of, and work and related testing under, our contracts and agreements and their value;
+
+
+(m) | the timing and amounts of or changes in future revenues, royalties earned, backlog, funding for our business and projects, margins, expenses, earnings, tax rate, cash flow, royalty payment obligations, working capital, liquidity and other financial and accounting measures;
+
+
+(n) | the outcome of current and pending legal proceedings;
+
+
+(o) | awards of patents designed to protect our proprietary technologies both in the U.S. and other countries;
+
+
+(p) | the materiality of any future adjustments to previously recorded reimbursements as a result of the DOE audits and the amount of contributions from the DOE and others towards planned project construction and demonstrations; and
+
+
+(q) | whether any legal challenges or EPA actions will have a material impact on the implementation of the MATS or other regulations and on our ongoing business.
+
+12
+
+Our expectations are based on certain assumptions, including without limitation, that: 
+
+(a) | coal will continue to be a major source of fuel for electrical generation in the United States;
+
+
+(b) | the IRS will allow the production and sale of RC to qualify for Section 45 tax credits;
+
+
+(c) | we will continue as a key supplier of equipment, chemicals and services to the coal-fired power generation industry as it seeks to implement reduction of mercury emissions;
+
+
+(d) | current environmental laws and regulations requiring reduction of mercury from coal-fired boiler flue gases will not be materially weakened or repealed by courts or legislation in the future;
+
+
+(e) | we will be able to meet any performance guarantees we make and continue to meet our other obligations under contracts;
+
+
+(f) | we will be able to obtain adequate capital and personnel resources to meet our operating needs and to fund anticipated growth and our indemnity obligations;
+
+
+(g) | we will be able to establish and retain key business relationships with other companies;
+
+
+(h) | orders we anticipate receiving will be received;
+
+
+(i) | governmental audits of our costs incurred under DOE contracts will not result in material adjustments to amounts we have previously received under those contracts;
+
+
+(j) | we will be able to formulate new chemicals and blends that will be useful to, and accepted by, the coal-fired boiler power generation business;
+
+
+(k) | we will be able to effectively compete against others;
+
+
+(l) | we will be able to meet any technical requirements of projects we undertake;
+
+
+(m) | Tinuum Group will be able to sell or lease the remaining RC facilities, including RC facilities that may be returned to Tinuum Group, to third party investors; and
+
+
+(n) | we will be able to utilize our portion of the Section 45 tax credits generated by production and sale of RC from retained facilities.
+
+The forward-looking statements included in this Report involve risks and uncertainties. Actual events or results could differ materially from those discussed in the forward-looking statements as a result of various factors including, but not limited to, timing of new and pending regulations and any legal challenges to or extensions of compliance dates of them; the US government’s failure to promulgate regulations or appropriate funds that benefit our business; changes in laws and regulations, accounting rules, prices, economic conditions and market demand; impact of competition; availability, cost of and demand for alternative energy sources and other technologies; technical, start up and operational difficulties; failure of the RC facilities to produce RC; termination of or amendments to the contracts for sale or lease of RC facilities; decreases in the production of RC; inability to commercialize our technologies on favorable terms; our inability to ramp up our operations to effectively address recent and expected growth in our business; loss of key personnel; potential claims from any terminated employees, customers or vendors; failure to satisfy performance guarantees; availability of materials and equipment for our businesses; intellectual property infringement claims from third parties; pending litigation; identification of additional material weaknesses or significant deficiencies; as well as other factors relating to our business, as described in our filings with the SEC, with particular emphasis on the risk factor disclosures contained in those filings and in Risk Factors of this Report. You are cautioned not to place undue reliance on the forward-looking statements made in this Report and to consult filings we have made and will make with the SEC for additional discussion concerning risks and uncertainties that may apply to our business and the ownership of our securities. The forward-looking statements contained in this Report are presented as of the date hereof, and we disclaim any duty to update such statements unless required by law to do so.
+13
+

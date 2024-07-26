@@ -1,0 +1,309 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+Nephros is a commercial stage medical device and commercial products company that develops and sells high performance liquid purification filters and hemodiafiltration (“HDF”) systems. Our filters, which are generally classified as ultrafilters, are primarily used in dialysis centers for the removal of biological contaminants from water and bicarbonate concentrate, and are used in hospitals for the prevention of infection from water-borne pathogens, such as legionella and pseudomonas. Because our ultrafilters capture contaminants as small as 0.005 microns in size, they minimize exposure to a wide variety of bacteria, viruses, fungi, parasites and endotoxins.
+ 
+Our OLpūr H2H Hemodiafiltration System, used in conjunction with a standard hemodialysis machine, is the only FDA 510(k) cleared medical device that enables nephrologists to provide hemodiafiltration treatment to patients with end stage renal disease (“ESRD”). Additionally, we sell hemodiafilters, which serve the same purpose as dialyzers in an HD treatment, and other disposables used in the hemodiafiltration treatment process.
+ 
+We were founded in 1997 by healthcare professionals affiliated with Columbia University Medical Center/New York-Presbyterian Hospital to develop and commercialize an alternative method to hemodialysis (“HD”). We have extended our filtration technologies to meet the demand for liquid purification in other areas, in particular water purification.
+ 
+Our Products
+ 
+Presently, we have two core product lines: HDF Systems and Ultrafiltration Products.
+ 
+HDF Systems
+ 
+The current standard of care in the United States for patients with chronic renal failure is HD, a process in which toxins are cleared via diffusion. Patients typically receive HD treatment at least 3 times weekly for 3-4 hours per treatment. HD is most effective in removing smaller, easily diffusible toxins. For patients with acute renal failure, the current standard of care in the United States is hemofiltration (“HF”), a process where toxins are cleared via convection. HF offers a much better removal of larger sized toxins when compared to HD. However, HF treatment is performed on a daily basis, and typically takes 12-24 hours.
+ 
+Hemodiafiltration (“HDF”) is an alternative dialysis modality that combines the benefits of HD and HF into a single therapy by clearing toxins using both diffusion and convection. Though not widely used in the United States, HDF is much more prevalent in Europe and is performed in a growing number of patients. Clinical experience and literature show the following clinical and patient benefits of HDF:
+ 
+
+● | Enhanced clearance of middle and large molecular weight toxins 
+--+-----------------------------------------------------------------------
+● | Improved survival - up to a 35% reduction in mortality risk 
+● | Reduction in the occurrence of dialysis-related amyloidosis 
+● | Reduction in inflammation 
+● | Reduction in medication such as EPO and phosphate binders 
+● | Improved patient quality of life 
+● | Reduction in number of hospitalizations and overall length of stay 
+
+ 
+However, like HF, HDF can be resource intensive and can require a significant amount of time to deliver one course of treatment.
+ 
+We have developed a modified approach to HDF that we believe is more patient-friendly, is less resource-intensive, and can be used in conjunction with current HD machines. We refer to our approach as an online mid-dilution hemodiafiltration (“mid-dilution HDF”) system and it consists of our OLpūr H2H Hemodiafiltration Module (“H2H Module”), our OLpūr MD 220 Hemodiafilter (“HDF Filter”) and our H2H Substitution Filter (“Dialysate Filter”).
+ 
+The H2H Module utilizes a standard HD machine to perform on-line hemodiafiltration therapy. The HD machine controls and monitors the basic treatment functions, as it would normally when providing HD therapy. The H2H Module is a free-standing, movable device that is placed next to either side of an HD machine. The H2H Module is connected to the clinic’s water supply, drain, and electricity.
+ 
+
+4
+-
+
+
+The H2H Module utilizes the HDF Filter and is very similar to a typical hollow fiber dialyzer assembled with a single hollow fiber bundle made with a high-flux (or high-permeability) membrane. The fiber bundle is separated into two discrete, but serially connected blood paths. Dialysate flows in one direction that is counter-current to blood flow in Stage 1 and co-current to blood flow in Stage 2.
+ 
+In addition to the HDF Filter, the H2H Module also utilizes a Dialysate Filter during patient treatment. The Dialysate Filter is a hollow fiber, ultrafilter device that consists of two sequential (redundant) ultrafiltration stages in a single housing. During on-line HDF with the H2H Module, fresh dialysate is redirected by the H2H Module’s hydraulic (substitution) pump and passed through this dual-stage ultrafilter before being infused as substitution fluid into the extracorporeal circuit. Providing ultrapure dialysate is crucial for the success of on-line HDF treatment.
+ 
+Our HDF System is cleared by the FDA to market for use with an ultrafiltration controlled hemodialysis machine that provides ultrapure dialysate in accordance with current ANSI/AAMI/ISO standards, for the treatment of patients with chronic renal failure in the United States. Our on-line mid-dilution HDF system is the only on-line mid-dilution HDF system of its kind to be cleared by the FDA to date.
+ 
+In May 2014, DaVita Healthcare Partners initiated an evaluation of our HDF System to treat patients at DaVita’s North Colorado Springs Clinic. In February 2015, we announced that, in the course of the evaluation, DaVita informed Nephros that they would require additional validation of the system. Nephros and DaVita agreed upon a protocol for the additional validation work which was completed in March 2015. We do not believe that DaVita will restart the evaluation in the near term.
+ 
+In March 2015, we announced that the Renal Research Institute (“RRI”), a research division of Fresenius Medical Care, was conducting an ongoing evaluation of our hemodiafiltration system in its clinic. As of June 2016, our HDF Systems had performed over 1,200 patient treatments. Over the last 18 months of commercial use, we have gathered direct feedback from users of our HDF System to help improve our system and our training methodology. In January 2016, we updated our training procedures and rolled out a software update, which was focused on improving the system’s alignment with nurse work flow. In June 2016, after approximately 5 months of successfully completed patient treatments with the updated software, we concluded the evaluation project with RRI.
+ 
+Vanderbilt University began treating patients with our HDF Systems early in 2017. Our goal over the next 12-18 months is to develop a better understanding of how our system best fits into the current clinical and economic ESRD treatment paradigm with the ultimate goals of (a) improving the quality of life for the patient, (b) reducing overall expenditure compared to other dialysis modalities, (c) minimizing the impact on nurse work flow at the clinic, and (d) demonstrating the pharmacoeconomic benefit of the HDF technology to the U.S. healthcare system, as has been done in Europe with other HDF systems. In addition, we are in the process of developing version 2.0 of our HDF System, which will enable us to manufacture at scale, as well as potentially reduce the per treatment cost of performing HDF.
+ 
+Ultrafiltration Products
+ 
+Our ultrafiltration products target a number of markets.
+ 
+
+● | Hospitals and Other Healthcare Facilities: Filtration of water to be used for patient washing and drinking as an aid in infection control. The filters also produce water that is suitable for wound cleansing, cleaning of equipment used in medical procedures and washing of surgeons’ hands. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Dialysis Centers - Water/Bicarbonate: Filtration of water or bicarbonate concentrate used in HD devices. 
+● | Military and Outdoor Recreation: Individual water purification devices used by soldiers and backpackers to produce drinking water in the field, as well as filters customized to remote water processing systems. 
+● | Commercial Facilities: Filtration of water for washing and drinking including use in ice machines and soda fountains. 
+
+Our Target Markets
+ 
+Hospitals and Other Healthcare Facilities. According to the American Hospital Association approximately 5,700 hospitals, with approximately 915,000 beds, treated over 35 million patients in the United States in 2013. The U.S. Centers for Disease Control and Prevention estimates that healthcare associated infections (“HAI”) occurred in approximately 1 out of every 25 hospital patients. HAIs affect patients in a hospital or other healthcare facility, and are not present or incubating at the time of admission. They also include infections acquired by patients in the hospital or facility but appearing after discharge, and occupational infections among staff. Many HAIs are waterborne bacteria and viruses that can thrive in aging or complex plumbing systems often found in healthcare facilities. The Affordable Care Act, which was passed in March 2010, puts in place comprehensive health insurance reforms that aim to lower costs and enhance quality of care. With its implementation, healthcare providers have substantial incentives to deliver better care or be forced to absorb the expenses associated with repeat medical procedures or complications like HAIs. As a consequence, hospitals and other healthcare facilities are proactively implementing strategies to reduce the potential for HAIs. Our ultrafilters are designed to aid in infection control in the hospital and healthcare setting by treating facility water at the point of delivery, for example, from sinks and showers.
+
+5
+-
+
+
+On October 28, 2014, we announced that we received 510(k) clearance from the FDA to market our DSU-H and SSU-H Ultrafilters as medical devices for use in the hospital setting. The DSU-H and SSU-H Ultrafilters are intended to be used to filter EPA quality drinking water. The filters retain bacteria, viruses and endotoxin. By providing ultrapure water for patient washing and drinking, the filters aid in infection control. The filters also produce water that is suitable for wound cleansing, cleaning of equipment used in medical procedures and washing of a surgeon’s hands. The filters are not intended to provide water that can be used as a substitute for United States Pharmacopeia (“USP”) sterile water.
+ 
+In May 2015, we received a warning letter from the FDA resulting from an October 2014 inspection. In the letter, the FDA alleged deficiencies relating to our compliance with the quality system regulation and the medical device reporting regulation. The warning letter did not restrict our ability to manufacture, produce or ship any of our products, nor did it require the withdrawal of any product from the marketplace. In August 2015, we received a subsequent letter from the FDA noting that it had received our response correspondence detailing our completed corrective actions. The corrective actions included revisions to our standard operating procedures relating to purchasing and supplier controls, adverse event reporting, and complaint handling and monitoring. In February 2016, the FDA performed another on-site inspection. There were no observations, or 483’s, cited at the conclusion of the inspection. In April 2016, we received a third letter from the FDA noting that the FDA had completed its evaluation of our corrective actions and that, based on its evaluation, it appeared that we had addressed the deficiencies specified in the May 2015 warning letter.
+ 
+In June 2015, the American Society of Heating, Refrigerating, and Air-Conditioning Engineers, Inc. (“ASHRAE”) approved Standard 188-2015, “Legionellosis: Risk Management for Building Water Systems”. We believe the approval of ASHRAE 188-2015 (“S188”) as a national standard will have a positive impact on point of delivery filtration market. The S188 applies to any human occupied building that is not a single family residence; requires the building to have a plan to control for waterborne infection; requires heat, chemical or both cleaning in the event of a suspected or confirmed presence of legionella; and recommends point-of-use filters in areas of high risk. We are enhancing our efforts to support our distributors by developing and delivering focused sales training to their sales forces on the use of our filters to support an overall program of infection risk prevention; and by, whenever possible, doing joint sales calls with our distributors on potential hospital customers to both serve as a product expert and to field train their sales representatives.
+ 
+In April 2016, we announced that we received 510(k) clearance from the FDA to market our S100 Point of Use filter. We began shipping our S100 Point of Use in the third quarter of 2016, and ramped up to full production by the end of 2016.
+ 
+In December 2016, we announced that we received 510(k) clearance from the FDA to market our HydraGuard™ 10” Ultrafilter. We expect to begin shipping HydraGuard™ 10” Ultrafilter in the second quarter of 2017, ramping to full production in the third quarter of 2017.
+ 
+In the third quarter of 2017, we expect to launch a flushable version of the HydraGuard™ 10” Ultrafilter.
+ 
+The complete hospital infection control product line, including in-line, point of use and cartridge filters, can be viewed on our website at http://www.nephros.com/infection-control/. We are not including the information on our website as a part of, or incorporating it by reference into, this report.
+ 
+Dialysis Centers - Water/Bicarbonate. To perform hemodialysis, all dialysis clinics have dedicated water purification systems to produce water and bicarbonate concentrate. Water and bicarbonate concentrate are essential ingredients for making dialysate, the liquid that removes waste material from the blood. According to the American Journal of Kidney Diseases, there are approximately 6,300 dialysis clinics in the United States servicing approximately 430,000 patients annually. We estimate that there are over 100,000 hemodialysis machines in operation in the United States.
+ 
+Medicare is the main payer for dialysis treatment in the U.S. To be eligible for Medicare reimbursement, dialysis centers must meet the minimum standards for water and bicarbonate concentrate quality set by the Association for the Advancement of Medical Instrumentation (“AAMI”), the American National Standards Institute (“ANSI”) and the International Standards Organization (“ISO”). We anticipate that the stricter standards approved by these organizations in 2009 will be adopted by Medicare in the near future.
+ 
+
+6
+-
+
+
+Published studies have shown that the use of ultrapure dialysate can reduce the overall need for erythropoietin stimulating agents (“ESA”), expensive drugs used in conjunction with HD. By reducing the level of dialysate contaminants, specifically cytokine-inducing substances that can pass into a patient’s blood stream, the stimulation of inflammation-inducing cytokines is reduced, thus reducing systemic inflammation. When inflammation is low, inflammatory morbidities are reduced and a patient’s responsiveness to erythropoietin (“EPO”) is enhanced, consequently the overall need for ESAs is reduced.
+ 
+We believe that our DSU-D and SSU-D ultrafilters are attractive to dialysis centers because they exceed currently approved and newly proposed standards for water and bicarbonate concentrate purity, assist in achieving those standards and may help dialysis centers reduce costs associated with the amount of ESA required to treat a patient. These in-line filters are easily installed into the fluid circuits supplying water and bicarbonate concentrate just prior to entering each dialysis machine, or are installed as polishing filters for portable reverse osmosis (“RO”) water systems.
+ 
+In March 2016, we launched the SSUmini product, developed to provide a lower cost ultrafiltration solution for water and bicarbonate flowrates of 0.5 gallons per minutes (“GPM”) or less. The SSUmini can be used as a polish filter for small, portable RO water systems or on bicarbonate concentrate lines in dialysis clinics with centralized bicarbonate concentrate systems.
+ 
+In March 2017, we announced that we received 510(k) clearance from the FDA to market our EndoPur™ 10” Endotoxin filter, which is designed to fit in the existing cartridge hosing of a dialysis clinic’s large RO water system. We expect to begin shipping the EndoPur™ 10” Endotoxin filter in the second quarter of 2017, and the 20” and 30” versions of the filter by the third quarter of 2017.
+ 
+Military and Outdoor Recreation. Water is a key requirement for the soldier to be fully mission-capable. The availability of water supplies and immediate on-site water purification is critical to enhance the ability to operate in any environment. Currently, the military is heavily reliant on the use of bottled water to support its soldiers in the field. Bottled water is not always available, is very costly to move, is resource intensive, and is prone to constant supply disruptions. Soldiers conducting operations in isolated and rugged terrain must be able to use available local water sources when unable to resupply from bulk drinking water sources or bottled water. Therefore, the soldier needs the capability to purify water from indigenous water sources in the absence of available potable water. Soldiers must have the ability to remove microbiological contaminants in the water to Environmental Protection Agency (“EPA”) specified levels.
+ 
+We developed our individual water treatment device (“IWTD”) in both in-line and point-of-use configurations. Our IWTD allows a soldier in the field to derive drinking water from any fresh water source. This enables the soldier to remain hydrated, which will maintain mission effectiveness and unit readiness, and extend mission reach. Our IWTD is one of the few portable filters that has been validated by the military to meet the NSF Protocol P248 standard. It has also been approved by U.S. Army Public Health Command and U.S. Army Test and Evaluation Command for deployment.
+ 
+On May 6, 2015, we entered into a Sublicense Agreement with CamelBak Products, LLC (“CamelBak”). Under this Sublicense Agreement, we granted CamelBak an exclusive, non-transferable, worldwide (with the exception of Italy) sublicense and license, in each case solely to market, sell, distribute, import and export the IWTD. In exchange for the rights granted to CamelBak, CamelBak agreed, through December 31, 2022, to pay us a percentage of the gross profit on any sales made to a branch of the U.S. military, subject to certain exceptions, and to pay us a fixed per-unit fee for any other sales made. CamelBak is also required to meet or exceed certain minimum annual fees payable to us, and if such fees are not met or exceeded, we may convert the exclusive sublicense to a non-exclusive sublicense with respect to non-U.S. military sales. During the fiscal year ended December 31, 2016, we recognized royalty revenue of $10,000 related to the Sublicense Agreement with CamelBak.
+ 
+In 2015, we began working with multiple companies developing portable water purification systems designed to provide potable water in remote locations. Specifically, we have provided flushable filter prototypes to these companies for validation as one potential component in systems that employ multiple technologies to purify water from streams, lakes and rivers.
+ 
+Commercial and Industrial Facilities.
+ 
+In 2014, we launched NanoGuard-D and NanoGuard-S in-line ultrafilters for the filtration of water to be used for non-medical drinking and washing in non-transient non-community water systems, or commercial facilities. The NanoGuard-D and NanoGuard-S trap particulates greater than 0.005 microns in size and can be used as a component of a facility water treatment system, or to filter water used in ice machines and soda fountains.
+ 
+In November 2015, we announced a strategic partnership with Biocon 1, LLC (“Biocon 1”). Biocon 1’s AETHER® Water Systems technology, which includes patented water filtration media and water filtration products, provides solutions for customers to address all contaminate issues and to provide clean-tasting, sediment-free, scale-free, and bacteria-free water for the food service industry. AETHER® Water Systems are used with ice machines, coffee stations, and soda fountains in hotels, casual dining restaurants, fast food restaurants and convenience stores. As part of the collaboration, we have access to Biocon 1’s anti-scale and related water filtration technology to develop filter products for the medical industry. In March 2016, we shipped the first lot of filter cartridges to Biocon 1 for inclusion with its AETHER® line of filtration products.
+ 
+
+7
+-
+
+
+While our EndoPurTM ultrafilter cartridge platform was designed initially for use in the dialysis setting, we are working with our distributors to identify other opportunities for our ultrafilters to provide value to customers in multiple commercial and industrial settings. The NanoGuard-C, a cartridge ultrafilter that inserts into standard 10”, 20”, 30” and 40” housings, is now available; and we expect that the NanoGuard-F, a flushable cartridge ultrafilter available in 10” and 20” sizes, will be available for broad distribution in the second quarter of 2017.
+ 
+Many potential customers in the commercial and industrial space currently utilize an Everpure® manifold system. The NanoGuard-E, a version of our ultrafilter that plugs into an Everpure® housing system, is now available.
+ 
+Over the last few years, we have been developing a high-throughput, auto-flushing filter system capable of handling 25 GPM, or greater, through our proprietary 0.005 micron fiber membrane. The flushable filter system is designed to remove submicron particulates in closed loop water systems, including cooling systems for data centers and hot water return loops in commercial buildings. Initial data suggests the ability to remove both organic and inorganic particulates. We have released a limited number of systems to specific customers for additional testing and validation.
+ 
+Small, flushable 2.5 and 5 GPM filter systems have potential utility as a point-of-entry water purification system in restaurants, convenience stores and households. We offered flushable systems to a limited set of customers in 2016, and expect to offer these system to a broad set of commercial and industrial customers starting in the second quarter of 2017.
+ 
+In the third quarter of 2017, we expect to launch a lead filtration system that will address both soluble and particulate lead in potable water, with the ability to treat up to 10,000 gallons of water between filter change-outs.
+ 
+Going forward, as we grow our water filtration business, we will be exploring opportunities for new applications for our filter products and will be open to evaluating new potential partnerships to expand our water filtration foot print. Our strategic distribution partners who place our filters in hospitals and medical facilities, also support a wide range of commercial and industrial customers. We believe that our existing distributor relationships will facilitate growth in filter sales outside of the medical industry.
+ 
+Corporate Information
+ 
+We were incorporated under the laws of the State of Delaware in April 1997. Our principal executive offices are located at 41 Grand Avenue, River Edge, New Jersey, 07661, and our telephone number is (201) 343-5202. We also have an office in Dublin, Ireland. For more information about Nephros, please visit our website at www.nephros.com.
+Going Concern
+ 
+The accompanying consolidated financial statements have been prepared assuming that we will continue as a going concern. Our recurring losses and difficulty in generating sufficient cash flow to meet our obligations and sustain our operations raise substantial doubt about our ability to continue as a going concern. Our consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+ 
+We have incurred significant losses in operations in each quarter since inception. In addition, we did not generate positive cash flow from operations for the years ended December 31, 2016 and 2015. To become profitable, we must increase revenue substantially and achieve and maintain positive gross and operating margins. If we are not able to increase revenue and gross and operating margins sufficiently to achieve profitability, our results of operations and financial condition will be materially and adversely affected.
+ 
+There can be no assurance that our future cash flow will be sufficient to meet our obligations and commitments. If we are unable to generate sufficient cash flow from operations in the future to service our commitments, we will be required to adopt alternatives, such as seeking to raise debt or equity capital, curtailing our planned activities or ceasing our operations. There can be no assurance that any such actions could be effected on a timely basis or on satisfactory terms or at all, or that these actions would enable us to continue to satisfy our capital requirements.
+ 
+Manufacturing and Suppliers
+ 
+We do not, and do not intend to in the near future, manufacture any of our products and components. With regard to the OLpūr MD190 and MD220, on June 27, 2011, we entered into a license agreement, effective July 1, 2011, as amended by the first amendment dated February 19, 2014, with Bellco S.r.l. (“Bellco”), an Italy-based supplier of hemodialysis and intensive care products, for the manufacturing, marketing and sale of our patented mid-dilution dialysis filters (MD190, MD220). Pursuant to the First Amendment, we and Bellco agreed to extend the term of the License Agreement from December 31, 2016 to December 31, 2021. In addition, under the agreement, as amended by the first amendment, we granted Bellco a license to manufacture, market and sell these products under its own name, label and CE mark in Italy, France, Belgium, Spain, Canada, Denmark, Finland, Norway and Sweden on an exclusive basis, and to do the same on a non-exclusive basis in the United Kingdom, Greece, Brazil, China, Korea, Mexico and the Netherlands and, upon our written approval, other European countries where we do not sell these products as well as non-European countries.
+ 
+In April 2012, we entered into a license and supply agreement with Medica S.p.A., an Italy-based medical product manufacturing company, for the marketing and sale of certain filtration products based upon Medica’s proprietary Medisulfone ultrafiltration technology in conjunction with our filtration products, and to engage in an exclusive supply arrangement for the filtration products. Under the license and supply Agreement, Medica granted to us an exclusive license, with right of sublicense, to market, promote, distribute, offer for sale and sell the filtration products worldwide, excluding Italy, during the term of the agreement.
+ 
+
+8
+-
+
+Sales and Marketing
+ 
+Under the Bellco license agreement, as discussed above, we granted Bellco a license to manufacture, market and sell the covered products under its own name, label and CE mark in the territory, as defined in the license agreement. In addition, if requested by us, Bellco will be required to sell the covered products to our distributors in the stated territory.
+ 
+Our New Jersey office oversees global sales and marketing activity of our ultrafilter products. We work with multiple distributors for our ultrafilter products in the dialysis water market and the hospital water market. In the food service market, Biocon 1 has the exclusive right to distribute our custom filter cartridge developed for the AETHER ® Water System. For each prospective market for our ultrafilter products, we are pursuing alliance opportunities for joint product development and/or distribution. Our ultrafilter manufacturer in Europe shares certain intellectual property rights with us for one of our Dual Stage Ultrafilter (“DSU”) designs.
+ 
+Research and Development
+ 
+Our research and development efforts continue on several fronts directly related to our current product lines. On the water filter business, we are continually working with existing and potential distributors of ultrafilter products to develop solutions to meet customer needs. On the HDF System business, we are working with our current customers to develop version 2.0 of the HDF System. For the years ended December 31, 2016 and 2015, we spent approximately $1,079,000 and $826,000, respectively, on research and development activities.
+Major Customers
+ 
+For the years ended December 31, 2016 and 2015, four customers accounted for 55% and 67%, respectively, of our revenues.
+ 
+As of December 31, 2016 and 2015, four customers accounted for 59% and 73%, respectively, of our accounts receivable.
+ 
+Competition
+ 
+With respect to the water filtration market, we expect to compete with companies that are well entrenched in the water filtration domain. These companies include Pall Corporation (now wholly owned by Danaher Corporation), which manufactures end-point water filtration systems, as well as 3M, Siemens and Everpure®. Our methods of competition in the water filtration domain include:
+
+● | developing and marketing products that are designed to meet critical and specific customer needs more effectively than competitive devices; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+● | offering unique attributes that illustrate our product reliability, “user-friendliness,” and performance capabilities; 
+● | selling products to specific customer groups where our unique product attributes are mission-critical; and 
+● | pursuing alliance opportunities for joint product development and distribution. 
+
+ 
+The dialyzer and renal replacement therapy market is subject to intense competition. Accordingly, our future success will depend on our ability to meet the clinical goals of nephrologists, improve patient outcomes and remain cost-effective for payers.
+ 
+We compete with other suppliers of ESRD therapies, supplies and services. These suppliers include Fresenius Medical Care AG and Baxter International Inc., currently two of the primary machine manufacturers in hemodialysis. At present, Fresenius Medical Care AG and Baxter International Inc. also manufacture HDF machines that are not currently approved in the United States.
+ 
+The markets in which we sell our dialysis products are highly competitive. Our competitors in the sale of hemodialysis products include Baxter International Inc., Fresenius Medical Care AG, Asahi Kasei Medical Co. Ltd., B. Braun Melsungen AG, Nipro Medical Corporation Ltd., Nikkiso Co., Ltd., Terumo Medical Corporation and Toray Medical Co., Ltd.
+ 
+Other competitive considerations include pharmacological and technological advances in preventing the progression of ESRD in high-risk patients such as those with diabetes and hypertension, technological developments by others in the area of dialysis, the development of new medications designed to reduce the incidence of kidney transplant rejection and progress in using kidneys harvested from genetically-engineered animals as a source of transplants.
+ 
+
+9
+-
+
+
+We are not aware of any other companies using technology similar to ours in the treatment of ESRD. Our competition would increase, however, if companies that currently sell ESRD products, or new companies that enter the market, develop technology that is more efficient than ours. We believe that in order to become competitive in this market, we will need to develop and maintain competitive products and take and hold sufficient market share from our competitors. Therefore, we expect our methods of competing in the ESRD marketplace to include:
+ 
+
+● | continuing our efforts to develop, have manufactured and sell products which, when compared to existing products, perform more efficiently and are available at prices that are acceptable to the market; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | displaying our products and providing associated literature at major industry trade shows in the United States; 
+● | initiating discussions with dialysis clinic medical directors, as well as representatives of dialysis clinical chains, to develop interest in our products; 
+● | pursuing alliance opportunities in certain territories for distribution of our products and possible alternative manufacturing facilities; and 
+● | entering into license agreements similar to the Bellco agreement to expand market share. 
+
+Intellectual Property
+ 
+Patents
+ 
+We protect our technology and products through patents and patent applications. In addition to the United States, we also applied for patents in other jurisdictions, such as the European Patent Office, Canada and Japan, to the extent we deem appropriate. We have built a portfolio of patents and applications covering our products, including their hardware design and methods of hemodiafiltration.
+ 
+We believe that our patent strategy will provide a competitive advantage in our target markets, but our patents may not be broad enough to cover our competitors’ products and may be subject to invalidation claims. Our U.S. patents for the “Method and Apparatus for Efficient Hemodiafiltration” and for the “Dual-Stage Filtration Cartridge” have claims that cover the OLpur MDHDF filter series and the method of hemodiafiltration employed in the operation of the products. Technological developments in ESRD therapy could reduce the value of our intellectual property. Any such reduction could be rapid and unanticipated. We have issued patents on our water filtration products and applications in process to cover various applications in residential, commercial, and remote environments.
+ 
+As of December 31, 2016, we have twenty three issued U.S. patents, one issued Eurasian patent, seven Mexican patents, four South Korean patents, three Russian patents, six Chinese patents, nine French patents, nine German patents, five Israeli patents, seven Italian patents, three Spanish patents, nine United Kingdom patents, fourteen Japanese patents, three Hong Kong patents, ten Canadian patents, one Australian patent, two patents in Brazil, one patent in Sweden and one patent in the Netherlands. Our issued U.S. patents expire between 2018 and 2033. In addition, we have two pending patent applications in Canada, two pending patent applications in the European Patent Office, and one pending patent application in Brazil. Our pending patent applications relate to a range of filter technologies, including cartridge configurations, cartridge assembly, substitution fluid systems, and methods to enhance and ensure performance.
+ 
+Trademarks
+ 
+As of December 31, 2016, we secured registrations of the trademarks H2H and OLpūr in the European Union and OLpūr in the United States. We have also filed trademark applications for PATHOGUARD, NANOGUARD, and ENDOPUR in the United States and the European Union.
+Governmental Regulation
+ 
+The research and development, manufacturing, promotion, marketing and distribution of our ESRD therapy products in the United States, Europe and other regions of the world are subject to regulation by numerous governmental authorities, including the FDA, the European Union and analogous agencies.
+
+10
+--
+
+United States
+ 
+The FDA regulates the manufacture and distribution of medical devices in the United States pursuant to the FDC Act. All of our ESRD therapy products are regulated in the United States as medical devices by the FDA under the FDC Act. Under the FDC Act, medical devices are classified in one of three classes, namely Class I, II or III, on the basis of the controls deemed necessary by the FDA to reasonably ensure their safety and effectiveness.
+ 
+● Class I devices are medical devices for which general controls are deemed sufficient to ensure their safety and effectiveness. General controls include provisions related to (1) labeling, (2) producer registration, (3) defect notification, (4) records and reports and (5) quality service requirements (“QSR”).
+ 
+● Class II devices are medical devices for which the general controls for the Class I devices are deemed not sufficient to ensure their safety and effectiveness and require special controls in addition to the general controls. Special controls include provisions related to (1) performance and design standards, (2) post-market surveillance, (3) patient registries and (4) the use of FDA guidelines.
+ 
+● Class III devices are the most regulated medical devices and are generally limited to devices that support or sustain human life or are of substantial importance in preventing impairment of human health or present a potential, unreasonable risk of illness or injury. Pre-market approval by the FDA is the required process of scientific review to ensure the safety and effectiveness of Class III devices.
+ 
+Before a new medical device can be introduced to the market, FDA clearance of a pre-market notification under Section 510(k) of the FDC Act or FDA clearance of a pre-market approval, or PMA, application under Section 515 of the FDC Act must be obtained. A Section 510(k) clearance will be granted if the submitted information establishes that the proposed device is “substantially equivalent” to a legally marketed Class I or Class II medical device or to a Class III medical device for which the FDA has not called for pre-market approval under Section 515. The Section 510(k) pre-market clearance process is generally faster and simpler than the Section 515 pre-market approval process.
+ 
+For any devices cleared through the Section 510(k) process, modifications or enhancements that could significantly affect the safety or effectiveness of the device or that constitute a major change to the intended use of the device will require a new Section 510(k) pre-market notification submission. Accordingly, if we do obtain Section 510(k) pre-market clearance for any of our ESRD therapy and DSU products, we will need to submit another Section 510(k) pre-market notification if we significantly affect that product’s safety or effectiveness through subsequent modifications or enhancements.
+ 
+In July 2009, we received FDA clearance of the DSU to be used to filter biological contaminants from water and bicarbonate concentrate used in hemodialysis procedures.
+ 
+In April 2012, we announced that 510(k) clearance was received from the FDA to market the OLpūr H2H Module and OLpūr MD 220 Hemodiafilter for use with a UF controlled hemodialysis machine that provides ultrapure dialysate in accordance with current ANSI/AAMI/ISO standards, for the treatment of patients with chronic renal failure in the United States.
+ 
+In October 2014, we announced that we received 510(k) clearance from the FDA to market our DSU-H and SSU-H Ultrafilters; in April 2016, we announced that we received 510(k) clearance from the FDA to market our S100 Point of Use Filter; in December 2016, we announced that we received 510(k) clearance from the FDA to market our HydraGuard™ 10” Ultrafilter; and in March 2017, we announced that we received 510(k) clearance from the FDA to market our EndoPur™ 10” Endotoxin.
+ 
+The FDC Act requires that medical devices be manufactured in accordance with the FDA’s current QSR regulations which require, among other things, that:
+ 
+
+● | the design and manufacturing processes be regulated and controlled by the use of written procedures; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | the ability to produce medical devices which meet the manufacturer’s specifications be validated by extensive and detailed testing of every aspect of the process; 
+● | any deficiencies in the manufacturing process or in the products produced be investigated; 
+● | detailed records be kept and a corrective and preventative action plan be in place; and 
+● | manufacturing facilities be subject to FDA inspection on a periodic basis to monitor compliance with QSR regulations. 
+
+ 
+If violations of the applicable QSR regulations are noted during FDA inspections of our manufacturing facilities or the manufacturing facilities of our contract manufacturers, there may be a material adverse effect on our ability to produce and sell our products.
+ 
+
+11
+--
+
+
+In addition to the requirements described above, the FDC Act requires that:
+ 
+
+● | all medical device manufacturers and distributors register with the FDA annually and provide the FDA with a list of those medical devices which they distribute commercially; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | information be provided to the FDA on death or serious injuries alleged to have been associated with the use of the products, as well as product malfunctions that would likely cause or contribute to death or serious injury if the malfunction were to recur; and 
+● | certain medical devices not cleared with the FDA for marketing in the United States meet specific requirements before they are exported. 
+
+European Union
+ 
+The European Union began to harmonize national regulations comprehensively for the control of medical devices in member nations in 1993, when it adopted its Medical Devices Directive 93/42/EEC. The European Union directive applies to both the manufacturer’s quality assurance system and the product’s technical design and discusses the various ways to obtain approval of a device (dependent on device classification), how to properly CE Mark a device and how to place a device on the market.
+ 
+The regulatory approach necessary to demonstrate to the European Union that the organization has the ability to provide medical devices and related services that consistently meet customer requirements and regulatory requirements applicable to medical devices requires the certification of a full quality management system by a notified body. Initially, we engaged TÜV Rheinland of North America, Inc. (“TÜV Rheinland”) as the notified body to assist us in obtaining certification to the International Organization for Standardization (“ISO”), 13485/2003 standard, which demonstrates the presence of a quality management system that can be used by an organization for design and development, production, installation and servicing of medical devices and the design, development and provision of related services.
+ 
+European Union requirements for products are set forth in harmonized European Union standards and include conformity to safety requirements, physical and biological properties, construction and environmental properties, and information supplied by the manufacturer. A company demonstrates conformity to these requirements, with respect to a product, by pre-clinical tests, biocompatibility tests, qualification of products and packaging, risk analysis and well-conducted clinical investigations approved by ethics committees.
+ 
+Once a manufacturer’s full quality management system is determined to be in compliance with ISO 13485/2003 and other statutory requirements, and the manufacturer’s products conform to harmonized European standards, the notified body will recommend and document such conformity. The manufacturer will receive a CE marking and ISO certifications, and then may place a CE mark on the relevant products. The CE mark, which stands for Conformité Européenne, demonstrates compliance with the relevant European Union requirements. Products subject to these provisions that do not bear the CE mark cannot be imported to, or sold or distributed within, the European Union.
+ 
+In July 2003, we received a certification from TÜV Rheinland that our quality management system conforms to the requirements of the European Community. At the same time, TÜV Rheinland approved our use of the CE marking with respect to the design and production of high permeability hemodialyzer products for ESRD therapy. In April 2010, we changed our notified body from TÜV Rheinland to BSI America, Inc. and expanded our scope to include design and development and production of water filters.
+ 
+Under the Bellco license agreement, as discussed above, we granted Bellco a license to manufacture, market and sell the covered products under its own name, label and CE mark in the stated territory. In addition, if requested by us, Bellco will be required to sell the covered products to our distributors in the stated territory.
+ 
+Regulatory Authorities in Regions Outside of the United States and the European Union
+ 
+We also plan to sell our ESRD therapy products in foreign markets outside the United States that are not part of the European Union. Requirements pertaining to medical devices vary widely from country to country, ranging from no health regulations to detailed submissions such as those required by the FDA. We believe the extent and complexity of regulations for medical devices such as those produced by us are increasing worldwide. We anticipate that this trend will continue and that the cost and time required to obtain approval to market in any given country will increase, with no assurance that such approval will be obtained. Our ability to export into other countries may require compliance with ISO 13485, which is analogous to compliance with the FDA’s QSR requirements. In November 2007 and May 2011, the Therapeutic Products Directorate of Health Canada, the Canadian health regulatory agency, approved our OLpūr MD220 Hemodiafilter and our DSU, respectively, for marketing in Canada. Other than the Canadian approval of our OLpūr MD220 Hemodiafilter and DSU products, we have not obtained any regulatory approvals to sell any of our products outside of the United States and the European Union and there is no assurance that any such clearance or certification will be issued.
+
+12
+--
+
+Reimbursement
+ 
+In both domestic markets and markets outside of the United States, sales of our ESRD therapy products will depend in part, on the availability of reimbursement from third-party payers. In the United States, ESRD providers are reimbursed through Medicare, Medicaid and private insurers. In countries other than the United States, ESRD providers are also reimbursed through governmental and private insurers. In countries other than the United States, the pricing and profitability of our products generally will be subject to government controls. Despite the continually expanding influence of the European Union, national healthcare systems in its member nations, including reimbursement decision-making, are neither regulated nor integrated at the European Union level. Each country has its own system, often closely protected by its corresponding national government.
+Product Liability and Insurance
+ 
+The production, marketing and sale of our products have an inherent risk of liability in the event of product failure or claim of harm caused by product operation. We have acquired product liability insurance for our products in the amount of $2 million. A successful claim in excess of our insurance coverage could materially deplete our assets. Moreover, any claim against us could generate negative publicity, which could decrease the demand for our products, our ability to generate revenues and our profitability.
+ 
+Some of our existing and potential agreements with manufacturers of our products and components of our products do or may require us (1) to obtain product liability insurance or (2) to indemnify manufacturers against liabilities resulting from the sale of our products. If we are not able to maintain adequate product liability insurance, we will be in breach of these agreements, which could materially adversely affect our ability to produce our products. Even if we are able to obtain and maintain product liability insurance, if a successful claim in excess of our insurance coverage is made, then we may have to indemnify some or all of our manufacturers for their losses, which could materially deplete our assets.
+ 
+Employees
+ 
+As of December 31, 2016, we employed a total of 10 employees, 9 of whom are full time and 1 who is employed on a part-time basis. We also have engaged 2 consultants on an ongoing basis. Of the 12 total employees and consultants, 3 are employed in a sales/marketing/customer support capacity, 4 in general and administrative and 5 in research and development.
+
+13
+--
+

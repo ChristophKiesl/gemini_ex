@@ -1,0 +1,300 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+OVERVIEW
+ 
+Acorn Energy, Inc. (“Acorn” or “the Company”) is a holding company focused on technology driven solutions for energy infrastructure asset management. Each of our businesses is focused on helping its customers achieve greater productivity, reliability, security and efficiency.
+ 
+We provide the following services and products:
+ 
+
+● | Power Generation (“PG”) and Corrosion Protection (“CP”) monitoring. These products and services are provided by our OmniMetrixTM, LLC (“OmniMetrix”) subsidiary. OmniMetrix’s PG activities provide wireless remote monitoring and control systems and services for critical assets as well as Internet of Things applications. Its CP activities provide for remote monitoring of cathodic protection systems on gas pipelines for gas utilities and pipeline companies. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Energy & Security Sonar Solutions. We provide sonar and acoustic related solutions for energy, defense and commercial markets with a focus on underwater site security for strategic energy installations and other advanced sonar and acoustic systems such as Hull Mounted Sonar systems (“HMS”) for surface ships and real-time embedded hardware and software development and production through our DSIT Solutions Ltd. (“DSIT”) equity investment (see below). 
+
+ 
+During 2016, each of our PG, CP and Energy & Security Sonar Solutions activities represented a reportable segment. In addition, our “Other” segment represents certain information technology (“IT”) activities (protocol management software for cancer patients and billing software) and outsourced consulting activities performed by DSIT that do not meet the quantitative thresholds and which may be combined for reporting under applicable accounting principles.
+ 
+On January 28, 2016, we entered into a Share Purchase Agreement for the sale of a portion of our interest in DSIT Solutions, Ltd. to Rafael Advanced Defense Systems Ltd. (“Rafael”), a major Israeli defense company. Following the closing of the transaction on April 21, 2016, we own approximately 41.2% of DSIT and have limited representation on its Board. Accordingly, from that date, we no longer consolidate the results of DSIT and instead report DSIT’s results on the equity method. Consequently, from April 21, 2016, we no longer report segment information with respect to DSIT’s Energy & Security Sonar Solutions segment or its other activities.
+ 
+We continually evaluate opportunities related to our portfolio companies and our goal is to maximize shareholder value and position our holdings for a strategic event, which may include co-investment by one or more third parties and/or a sale of assets.
+ 
+
+3
+-
+
+FINANCIAL RESULTS BY COMPANY
+ 
+The following tables show, for the periods indicated, the financial results (dollar amounts in thousands) attributable to each of our consolidated companies.
+ 
+
+ | Year ended December 31, 2016 | 
+-------------------------------------------------+----------------------------------+------
+ | DSIT* | | | OmniMetrix | | | Acorn | | Total Continuing Operations | 
+Revenues | $ | 5,074 | | | $ | 3,585 | | $ | — | | $ | 8,659 | 
+Cost of Sales | | 3,443 | | | | 1,691 | | | — | | | 5,134 | 
+Gross profit | | 1,631 | | | | 1,894 | | | — | | | 3,525 | 
+Gross profit margin | | 32 | % | | | 53 | % | | | | | 41 | %
+R& D expenses, net | | 469 | | | | 458 | | | — | | | 927 | 
+Selling, general and administrative expenses | | 1,063 | | | | 2,626 | | | 1,962 | | | 5,651 | 
+Operating income (loss) | $ | 99 | | | $ | (1,190 | ) | $ | (1,962 | ) | $ | (3,053 | )
+
+ 
+* Acorn ceased consolidating the results of DSIT following the close of the DSIT Transaction on April 21, 2016. Results reported above are for the period from January 1, 2016 to April 21, 2016.
+ 
+
+ | Year ended December 31, 2015 | 
+-------------------------------------------------+----------------------------------+-------
+ | DSIT | | | OmniMetrix | | | Acorn | | Total Continuing Operations | 
+Revenues | $ | 13,501 | | | $ | 3,047 | | $ | — | | $ | 16,548 | 
+Cost of Sales | | 9,125 | | | | 1,256 | | | — | | | 10,381 | 
+Gross profit | | 4,376 | | | | 1,791 | | | — | | | 6,167 | 
+Gross profit margin | | 32 | % | | | 59 | % | | | | | 37 | %
+R& D expenses, net | | 1,191 | | | | 514 | | | — | | | 1,705 | 
+Selling, general and administrative expenses | | 3,162 | | | | 2,830 | | | 3,640 | | | 9,632 | 
+Operating income (loss) | $ | 23 | | | $ | (1,553 | ) | $ | (3,640 | ) | $ | (5,170 | )
+
+OMNIMETRIX – POWER GENERATION MONITORING and CORROSION PROTECTION MONITORING
+ 
+OmniMetrix LLC is a Georgia limited liability company established in 1998 based in Buford, Georgia that develops and markets wireless remote monitoring and control systems and services for multiple markets in the Internet of Things ecosystem: critical assets (including stand-by power generators, pumps, pumpjacks, light towers, turbines, compressors, as well as other industrial equipment) as well as corrosion protection for the pipeline industry (gas utilities and pipeline companies). Acorn currently owns 80% of OmniMetrix with one of Acorn’s directors owning the remaining 20%.
+Products & Services
+ 
+In the PG segment, OmniMetrix sells a line of devices and services built on its baseline TrueGuard wireless remote monitor. This device is broadly applicable across all brands and models of emergency power generators and industrial engines. The TrueGuard product family connects directly to the engine’s control panel, and captures all data flowing through the control panel. As a result, the product provides the ability to identify whether an emergency generator is capable of operating as expected. In 2012, OmniMetrix designed and gained approval from PTCRB, the certification forum of North American cellular operators, and AT&T for a new 4G data radio module, replacing the 2G technology used since 2007. In 2016 OmniMetrix began shipping product with LTE-enabled radios. This new device includes GPS functionality and data storage at the device for the first time, enabling OmniMetrix to bring a mobile asset tracking functionality into the market, with primary focus on mobile generators and related equipment.
+
+4
+-
+
+
+In the CP segment, OmniMetrix offers two primary product lines; the Hero Rectifier Monitor and the Patriot Test Station Monitor. Both of these products are used to monitor cathodic protection systems, a process which reduces rust and corrosion on the steel pipes used to transport natural gas underground. As the name suggests, the Hero Rectifier Monitor product monitors the operation of the rectifiers, which are a critical component in the effort to prevent corrosion, and are also the most common point of failure in the corrosion system. The Patriot Test Station Monitor is also used to provide data points along the pipeline segment powered by the rectifier.
+ 
+Customers and Markets
+ 
+At its core, the OmniMetrix PG product can remotely monitor and control any industrial engine application, which includes standby generators, compressors, turbines, pumps, and other equipment. Early in the company’s history, a strategic decision was made to focus primarily on the standby power generation market. Recently, the company has expanded its focus to add several additional applications where it sees demand.
+ 
+Following the advent of the Internet of Things ecosystem, whereby multiple sensing and monitoring devices are aggregated into one simple dashboard for customers, many large companies, including Google, Comcast, Verizon, and AT&T are entering this market and offering similar platforms. Standby generator monitoring is rapidly becoming part of this ecosystem.
+ 
+As OmniMetrix can monitor and control all major brands of standby generators, it is uniquely positioned to compete in this market.
+ 
+In the first stages of OmniMetrix’s PG product and market development, relatively unsophisticated generator controls and early generation cellular and satellite communication processes limited the applications to alarm delivery. Customers were notified that some event had taken place after the fact. There was no diagnostic data opportunity, but service organizations could at best practice a proactive service approach.
+ 
+With the advent of second generation cellular systems, and newer computerized engine controls, OmniMetrix migrated to a design point of collecting large amounts of performance data from the remote machinery, allowing service organizations to perform diagnostics on remote equipment before dispatching service. This was the beginning of the OmniMetrix SmartServiceTM Program. It allowed the service organization to put the right person in the right truck with the right parts to effect a one-trip solution. At this phase service organizations could be efficient, as well as proactive, in their operations. Customers have provided OmniMetrix feedback telling how customer service teams are able to work “smarter” and more efficiently by going directly to sites with problems, thus increasing the value of their businesses.
+ 
+OmniMetrix is now in its third phase of evolution, maturing the high performance data collection design point into the first provider offering of automated prognostic solutions. As most generator failures are the result of consumables, and as those consumables can be monitored, the consumption trends can be extrapolated into predictions of the most common failure modes.
+ 
+OmniMetrix’ PG monitors have been installed on generators from original equipment manufacturers (“OEMs”) such as Caterpillar, Kohler, Generac, Cummins, MTU Energy and other generator manufacturers. Based on both published and industrial sources, we estimate that the U.S. emergency power generation marketplace consists of at least 100,000 new industrial generators and 200,000 new residential generators per year. These new machines join an installed base of approximately two million generators. While new generators provide more useful diagnostic data thanks to their computerized controls, older machines have an ever greater need for basic monitoring due to their aging systems. Some estimates place the potential world market for monitoring at over 10 million installed generators.
+ 
+
+5
+-
+
+
+OmniMetrix provides dual value propositions to the generator service organizations as well as to the machine owner. The dealers benefit from the receipt of performance data and status conditions from the generators they service for their customers that allows the dealer service organization to be proactive in their delivery of service to their customers, as well as to implement the OmniMetrix SmartServiceTM approach to analyzing the remote machines before dispatching a service truck. Since the majority of service and warranty costs are incurred from service people driving trucks, preemptive analysis of customer site conditions prior to dispatch can reduce their labor cost as a result. While some larger dealers embraced OmniMetrix’s business model (a recurring revenue model), it did not universally resonate within the dealer marketplace and the rate of anticipated adoption (and thus sales of monitors and monitoring subscriptions) was far slower than anticipated. From the machine owner’s perspective, the OmniMetrix product provides a powerful tool to be used in their constant effort to avoid failures that come from consumables such as batteries and fuel. With proper monitoring, the large majority of machine failures can be avoided completely. This migration from failure reporting to failure prevention is fundamental to the OmniMetrix focus, and is the result of a strong data collection and analysis design point. We believe that this transition to prognostics sets OmniMetrix apart from its competitors, many of whom are still in the failure reporting phase of application development. We have also increased our marketing efforts to end-users in an effort to increase demand for our services. Whether these efforts will prove to be successful cannot be determined.
+ 
+There are two types of competitors in the PG marketplace: independent monitoring organizations (such as OmniMetrix) who produce the monitoring systems (but not the equipment being monitored); and OEMs such as generator manufacturers or generator controls manufacturers who have begun offering customer connectivity to their machinery. We believe that we offer an excellent product, but feel that our pricing strategy needs to become more aggressive in order to compete effectively with both our monitoring and OEM competitors. Whether any new pricing and marketing programs will provide sufficient margins and otherwise be effective cannot be determined.
+ 
+In 2016, no single customer of OmniMetrix provided more than 10% of its revenue. OmniMetrix has successfully been able to mitigate the risk of customer dependency by increasing its penetration rate, its sales pipeline and supporting a larger base of customers. OmniMetrix expects to continue to expand its base of customers in 2017.
+ 
+Competition
+ 
+OmniMetrix is a vertical market company, deeply focused on product and service designs for a complete end-to-end program for its customers. Having been the first provider of wireless remote monitoring systems for standby generators and pipeline corrosion programs, the company has had the opportunity to mature its offering to a level not offered by others who might like to compete in these two segments. This long experience working with key brand project partners over the years has resulted in product offerings that other competitors simply cannot match.
+ 
+There are two types of competitors in the PG marketplace:
+ 
+
+(1) | Independent monitoring organizations (such as OmniMetrix) that produce the monitoring systems, but not the equipment being monitored. Among these are companies such as Ayantra, FleetZOOM, Gen-Tracker, and PointGuard. PointGuard is owned by a Caterpillar dealer, and focuses its business on the Caterpillar channel. Today it offers an array of diagnostic capabilities. The other three competitors operate in the reactive “failure notification” mode described in the early stages of the OmniMetrix business model. In the past, those competitors positioned themselves at a lower performance, lower price quadrant of the market. Following its acquisition by Acorn in 2012, OmniMetrix began an aggressive push into lower price offerings, while providing significantly higher performance than the competition. 
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(2) | OEMs such as generator manufacturers or generator controls manufacturers have begun offering customer connectivity to their machinery. They offer a current generation connectivity replacing telephone dial-up modems that had been used in the past. Their offerings are limited to their own brands, so they do not fit into a broad application such as does the OmniMetrix SmartServiceTM, supporting service organizations that service all brands. They are also generally designed for the machine owners’ use, in a reactive application. Deep Sea Electronics offers wireless devices to allow remote access to generators with some of their controls. Similarly, Cummins Power Generation offers a device that allows their machine owners to browse directly into the generator. This device is only valid for certain types of their generators. 
+
+
+6
+-
+
+
+We believe OmniMetrix has a well-established and well-defended position in the high performance PG monitoring segment, due to its long history and numerous industry partner projects. The company is currently applying an aggressive sales effort into both the market segment requiring less technology and lower price (including the extremely large residential generator market) as well as developing more sophisticated, diagnostic products and custom solutions for commercial clientele.
+ 
+Within the CP marketplace, there are no OEM competitors, but there are several independent monitoring companies similar to OmniMetrix such as Abriox, Elecsys, and American Innovations. We believe that OmniMetrix systems provide greater functionality than these competitors, though those competitors are much larger and have greater resources potentially enabling better channel penetration than OmniMetrix can accomplish.
+ 
+Intellectual Property
+ 
+OmniMetrix has always focused on being the technology leader in its markets, and as a result has created many “industry firsts”. Initially, the company only pursued patents on the most valuable processes and systems and otherwise made public disclosure of many processes to prevent others from making later patent claims on those items. Nonetheless, OmniMetrix has two issued patents and is evaluating the benefit of completing additional applications currently in process. Furthermore, the company has agreements with its employees and consultants which establish certain non-disclosure and in some cases, non-compete, requirements. OmniMetrix continually evaluates whether and how to best protect its intellectual property, but there can be no assurance that its efforts will be successful in all cases.
+Facilities
+ 
+OmniMetrix’s activities are currently conducted in approximately 21,000 square feet of office and production space in the Hamilton Mill Business Park located in Buford, Georgia under a lease that expires on December 31, 2019. OmniMetrix is currently utilizing only a portion of these leased facilities and has previously taken an impairment charge with respect to expected underutilization of leasehold improvements in these facilities. OmniMetrix is attempting to sub-lease a portion of these facilities. It cannot be determined at this time whether OmniMetrix will be successful in its attempts to sub-lease the facilities.
+DSIT SOLUTIONS LTD.
+ 
+On April 21, 2016, we closed on a transaction (the “DSIT Transaction”) initially entered into on January 28, 2016 for the sale of nearly 50% of our interest in our DSIT Solutions, Ltd. business to Rafael Advanced Defense Systems Ltd., a major Israeli defense company. Following the sale, we own approximately 41.2% of DSIT with DSIT management owning approximately 8.8% and Rafael owning 50%. Following the closing, we no longer consolidate the results of DSIT, but rather report the results of DSIT using the equity method of accounting.
+ 
+Following the partnering with Rafael, DSIT is looking to utilize this relationship to:
+ 
+
+● | Leverage Rafael’s wide network for DSIT’s sales and marketing team 
+--+--------------------------------------------------------------------------------------------------------------------------------------
+● | Take advantage of synergies in technology to enable DSIT to expand its product offerings and participate in larger scale programs 
+● | Expand project activities by increasing its sales to Rafael 
+● | Support further development and marketing of perimeter security solutions 
+● | Improve DSIT banking relationships 
+
+
+7
+-
+
+
+DSIT is a globally-oriented business based in Israel with expertise in sonar and acoustics and development capabilities in the areas of real-time and embedded systems. Based on these capabilities, DSIT offers a full range of sonar and acoustic-related solutions to strategic energy installations as well as defense and homeland security markets. In addition, based on expertise in fields such as signal acquisition and processing applications, telemetry and navigation technologies and command, control and communication management (“C3”) DSIT provides wide ranging solutions to both governmental and commercial customers.
+ 
+In 2012, DSIT began to leverage its acoustic signal processing capabilities for land seismic security applications and to extend its current offering by developing and integrating into its existing line of naval products, a new sensor based on advanced fiber-optic sensing technology. This new sensor will enable DSIT to grow into new business domains, including maritime and land-based perimeter security applications, pipeline leak detection and Structural Health Monitoring (SHM) of airborne vehicles such as Unmanned Aerial Vehicles (“UAVs”).
+ 
+Products and Services
+ 
+DSIT’s Energy & Security Sonar Solutions activities are focused on two areas – sonar and acoustic solutions for energy and security markets, and other real-time and embedded hardware and software development and production.
+ 
+Energy & Security Sonar Solutions. DSIT’s energy & security sonar solutions include a full range of sonar and acoustic-related solutions to the strategic energy installation, defense and homeland security markets. These solutions include:
+ 
+
+● | AquaShield™ Diver Detection Sonar (“DDS”) – DSIT has developed an innovative, cost-effective DDS system, the AquaShield™, that provides critical coastal and offshore protection of sites through long-range detection, tracking, classification and warning of unauthorized divers for rapid deployment and effective response. DSIT’s AquaShield™ DDS system is fully automatic and customizable, and requires human intervention only for final decision and response to the threat. The DDS sensors can be integrated with other sensors into a comprehensive command and control (“C&C”) system to provide a complete tactical picture both above and below the water for more intelligent evaluation of and effective response to threats. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | PointShield™ Portable Diver Detection Sonar (“PDDS”) – The PointShield™ PDDS is a medium range portable diver detection sonar aimed at protecting vessels at anchorage and covers restricted areas such as water canals and intakes. The PointShield™ is a cost-effective system tailored to meet the needs of customers, whose main concern is portability and flexibility. 
+● | AquaShield-ERTM – The AquaShield-ERTM (extended range) DDS is similar to the AquaShieldTM DDS except that it is specially designed to enable detection, tracking and classification of targets at much longer ranges thus enabling better response time when this is required for operational considerations. 
+● | BlackFish - Hull Mounted Sonar systems for surface ships – DSIT started its sonar activity 25 years ago building part of the HMS for the Israeli Navy SAAR 5 corvettes. Since then, a large portion of the sonar functions can be achieved using software which has reduced costs. In addition, DSIT has created sonar building blocks (see below) that enable it to offer to customers and shipyards a cost effective Hull Mounted Sonar with solid performance at an affordable price. 
+● | Mobile/Portable Acoustic Range (“MAR/PAR”) – The MAR and PAR accurately measures a submarine’s or surface vessel’s radiated noise; thus enabling navies and shipyards to monitor and control the radiated noise and to silence their submarines and ships. By continuously tracking the measured vessel and transmitting the data to a measurement ship, the MAR system enables real-time radiated noise processing, analysis and display. The system also includes a platform database for measurement results management and provides playback and post analysis capability. 
+
+
+8
+-
+
+
+● | Generic Sonar Simulator (“GSS”) – DSIT has developed a GSS for the rapid and comprehensive training of Anti-Submarine Warfare (“ASW”), submarine, and mine detection sonar operators. This advanced, low-cost, PC-based training simulator is designed for all levels of sonar operators from beginners to the most experienced, including ship ASW teams. The simulator includes all aspects of sonar operation, with an emphasis on training in weak target detection in the presence of noise and reverberation, torpedo detection, audio listening and classification. Based on this technology, DSIT expanded the application to include a full scale submarine tactical trainer. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Underwater Acoustic Signal Analysis system (“UASA”) – DSIT’s UASA system processes and analyzes all types of acoustic signals radiated by various sources and received by naval sonar systems (submarine, surface and air platforms, fixed bottom moored sonar systems, etc.). 
+● | Sonar Building Blocks – based on our sonar capabilities and development of the DDS, DSIT has developed a number of generic building blocks of sonar systems such as Signal Processing Systems and Sonar Power Amplifiers. Some customers designing and building their own sonar systems have purchased these building blocks from us. These elements are specifically tailored and optimized for sonar systems and have advantages over generic standard building blocks. 
+
+Fiber Optic Solutions
+ 
+DSIT is developing solutions for the perimeter fiber optic security market. In 2013 and 2014, DSIT and Ramot, the technology transfer company of Tel-Aviv University, were jointly awarded a two-stage grant of approximately NIS 2.5 million (approximately $654,000 at the December 31, 2016 exchange rate) representing a 50% participation in DSIT’s expenses, from MEIMAD (a collaborative program between the Israeli Ministry of Defense and the Office of the Chief Scientist (“OCS”) at the Ministry of Economy, to jointly promote new ideas and new technologies that can serve both commercial applications and military needs) for the joint development of a next generation fiber-optic based Perimeter Security System Interrogator. The interrogator is the optics/electronics heart of the fiber optic sensing system. Through December 31, 2016, DSIT has received approximately NIS 1.7 million (approximately $440,000 at the December 31, 2016 exchange rate) of this grant. These grants are subject to royalties to Ramot for the longer of 15 years or until the last of the patents expire on 2% of sales up the first NIS 531,000 (approximately $138,000 at the December 31, 2016 exchange rate) of royalties and 3% thereafter.
+ 
+In 2014 and 2015, DSIT and Ramot, were jointly awarded another two-stage grant from MEIMAD. This grant is for a 24-month project for the joint development of a fiber-optic based SHM Interrogator. This SHM Interrogator, based on Tel-Aviv University’s patented technology, will allow the use of standard communication fiber optic wires for structural health monitoring at high speeds and in real-time. With this new interrogator, DSIT will be able to penetrate the SHM market for specialized applications such as structural health monitoring of airborne structures (aircraft wings and fuselage). The total amount of the grant is approximately NIS 2.4 million (approximately $635,000 at the December 31, 2016 exchange rate) representing a 50% participation in DSIT’s expenses, and is conditioned on budget availability at the OCS and achieving the project’s first phase milestone (a working prototype of an Interrogator). Through December 31, 2016, DSIT has received approximately NIS1.5 million (approximately $385,000 at the December 31, 2016 exchange rate) of this grant. These grants are subject to royalties to Ramot for the longer of 15 years or until the last of the patents expire on 8% of sales up the first $75,000 of royalties and 4% thereafter. There is a minimum annual $15,000 year royalty payment beginning in 2018. Both this and the above grant are also subject to royalties to the OCS at 3% for the first three years of sales; at 4% for the next three years of sales; and at 5% thereafter until the grant amount is repaid with interest.
+ 
+With a prototype of the first Interrogator, based on Dynamic Optical Frequency Domain Interferometry already showing promising results in field trials, DSIT believes that this Interrogator when developed can be used for long range perimeter security applications and for underwater passive detection of divers, swimmers and boats.
+ 
+Other Real-Time and Embedded Solutions
+ 
+Additional areas of development and production in real-time and embedded hardware and software include:
+ 
+● Weapon/C&C Operating Consoles - DSIT specializes in Weapon/C&C Operating Consoles for unique naval and air applications, designed through synergistic interaction with the end-user. Weapon/C&C Consoles utilize Human-Machine Interface (“HMI”) prototyping supported on a variety of platforms as an integral part of the HMI definition and refinement process. Weapon/C&C Console specific applications driven by HMI include signal processing and data fusion and tracking.
+ 
+
+9
+-
+
+
+● Computerized Vision Systems for the Semiconductor Industry - DSIT cooperates with global leaders of state-of-the-art semiconductor wafer inspection systems in developing cutting edge technologies to enable the semiconductor industry to detect defects in the manufacture of silicon wafers. DSIT develops and manufactures hardware and embedded software for computerized vision systems as a subcontractor. The activity is multi-disciplinary and includes digital and analog technologies, image processing and intricate logic development.
+ 
+● Modems, data links, navigation and telemetry systems – DSIT works with major defense companies in Israel such as Rafael and Israel Aerospace Industries Ltd. to develop modems, advanced wide-band data links and telemetry and navigation systems for airborne and missile systems. DSIT provides development and production services of hardware and embedded signal processing software with high quality control standards.
+ 
+DSIT’s other operations include IT activities (protocol management software for cancer patients and billing software) and outsourced consulting activities.
+ 
+Customers and Markets
+ 
+A significant amount of the world’s oil output comes from offshore production. An enormous amount of capital investment has gone into creating this underwater energy infrastructure. This includes the oil platforms that drill, extract and temporarily store oil and gas, as well as the oil and gas wellheads, pipelines, single point mooring buoys and pumps required to transfer the product from its location to shore. While this infrastructure was built with the assumption that it would be able to weather natural disasters, much of this infrastructure comprises what is known in the military as “soft” targets from beneath the water that would not require much in the way of explosives to cause significant and perhaps catastrophic damage.
+ 
+This vulnerability, combined with the development and proliferation of technologies such as mini-submarines which can submerge to depths of a few dozen feet making detection difficult, unmanned underwater vehicles, divers with underwater scooters, swimmer delivery vehicles as well as conventional scuba divers threaten the underwater economy with significant damage resulting from lost energy resources, damaged infrastructure and environmental degradation should an attack occur. DSIT looks to sell to potential customers in such areas that have significant underwater energy assets and infrastructure.
+ 
+All of DSIT’s operations (excluding product delivery, set-up and service) take place in Israel. A significant portion of DSIT’s revenues are derived from outside of Israel (50% and 43% in 2016 (the entire year) and 2015, respectively). Such non-Israeli revenue is driven by the large project orders received such as the $14.5 million order received in 2013 for the supply of an advanced underwater acoustic monitoring system to a navy in Asia and the $15.4 million order received in 2015 for four Hull Mounted Sonar (HMS) systems and an Anti-Submarine Warfare (ASW) Trainer for an undisclosed navy as well as a 2016 order for $7.1 million for its Blackfish HMS systems. DSIT continues to invest considerable efforts to penetrate Asian, European and South American markets in order to broaden its geographic sales base with respect to its sonar technology solutions. DSIT has significant customer relationships with some of Israel’s largest companies in its defense and electronics industries as well as relationships with some of the biggest Asian defense integrators. DSIT continues to explore cooperation opportunities in Asia.
+ 
+In 2017, DSIT has expanded its sales and marketing team from three to five people and accordingly expects to expand its sales and marketing efforts for its entire portfolio of naval solutions including its Shield family of products - AquaShieldTM, AquaShield-ERTM (Extended Range), PointShieldTM - and its Mobile Acoustic Range (MAR) as well as other naval and fiber-optic solutions. In some cases DSIT also offers a complete solution including above-water optical and radar sensors from third-party integrators into a complete C&C system. DSIT is currently in discussions with a number of energy, commercial and governmental customers seeing an increasing awareness of potential underwater threats to coastal and offshore critical infrastructure as well as vessels, canals and intakes. DSIT is also leveraging its capability to offer HMS to navies who are building new ships or upgrading existing vessels.
+ 
+
+10
+--
+
+
+In 2017, DSIT also expects to begin recording sales of its fiber-optic solutions having received an initial order to provide an Eastern European country with 22 kilometers of border protection as part of a larger project through a defense integrator.
+ 
+For the year ending December 31, 2016, four customers accounted for approximately 77% of DSIT’s revenues (34%, 18%, 15% and 10%). The loss of any one or more of these customers and/or the lack of a replacement project upon the completion of projects to these customers could have a material adverse effect on DSIT’s operations.
+ 
+Competition
+ 
+DSIT’s naval solutions activities faces competition from several competitors, large and small, operating in worldwide markets such as Sonardyne International Ltd. and Atlas Elektronik (both based in the United Kingdom) and the Kongsberg group of companies (based in Norway) with substantially greater financial and marketing resources. DSIT believes that its wide range of experience and long-term relationships with large businesses as well as the strategic partnerships that it is developing will enable it to compete successfully and obtain future business. In product demonstrations to potential customers, DSIT’s AquaShieldTM has consistently achieved better performance regarding detection range and automatic classification than its competitors. DSIT has sold its AquaShieldTM DDS system to the Israeli Navy following a comprehensive review and evaluation process in which the Navy investigated competing systems and selected those of DSIT. DSIT anticipates additional orders from the Israeli Navy for additional systems. DSIT also faces competition from other competitors such as Whitehead Sistemi Subacquei (WASS) in Italy and Ultra Electronics in the UK in the area of portable acoustic ranges and the Thales group of companies based in France in the area of HMS.
+ 
+DSIT’s fiber-optic solutions activities also faces competition from competitors, large and small, operating in worldwide markets (such as OptaSense (a QinetiQ company based in the United Kingdom) Future Fibre Technologies Limited (based in Australia) and Senstar Corporation (a Magal S3 company based in Canada)) with substantially greater history and financial and marketing resources. DSIT believes that its high-quality, low-cost product combined with the relationships it has developed with defense and homeland security integrators as well as the strong backing from Rafael will enable it to compete successfully and obtain future business.
+ 
+Intellectual Property
+ 
+DSIT rigorously attempts to protect its proprietary technologies, processes and other intellectual property.
+ 
+DSIT’s systems are heavily based on software implementing advanced acoustic signal processing algorithms. The foundation of the systems and DSIT’s competitive edge lies in these algorithms. DSIT’s strategy is to identify these key intellectual property elements developed in order to protect them in a timely and effective manner, and to continually use such intellectual property to our competitive advantage in the marketplace.
+ 
+DSIT keeps the detailed description of these core algorithms as proprietary information and accordingly they are not disclosed to the public or to customers. DSIT uses contractual measures such as non-disclosure agreements and special contract terms to protect this intellectual and proprietary information. It is uncommon for companies such as DSIT to rely heavily on patents, as the patent itself may disclose critical information. Nonetheless, in certain cases the benefits of patent protection can outweigh the risks.
+ 
+Under the framework of fiber-optic sensing Linear Infrastructure Monitoring technology development, DSIT has filed two Patent Cooperation Treaty patent applications and a one provisional patent. As DSIT works on this technology in cooperation and under an agreement with Tel Aviv University (TAU), after being granted these patents will be assigned to TAU and DSIT will get from TAU a worldwide, exclusive license to these patents.
+ 
+
+11
+--
+
+
+Under the framework of fiber-optic SHM technology development, in addition to an already granted U.S Patent for which DSIT received a license from TAU, DSIT has filed a provisional patent. When this provisional patent is granted, DSIT will assign it to TAU and get a worldwide, exclusive license.
+ 
+Under the fiber-optic Shape Sensing Technology, DSIT has filed a single U.S patent as well as provisional patents covering applications all in the area of fiber-optic Shape Sensing.
+ 
+A significant portion of our know-how is protected as commercial secrets and supported through agreements with our employees, suppliers, partners and customers.
+ 
+Employees
+ 
+At December 31, 2016, DSIT employed a total 82 full-time equivalent employees all of which were in Israel and of which 65 were in production, engineering and technical support, three were in marketing and sales and 14 were in management, administration and finance.
+Facilities
+ 
+DSIT’s activities are conducted in approximately 23,000 square feet of space in the Tel Aviv metropolitan area under a lease that expires in January 2019. Such space includes an additional 2,000 square feet of space recently taken for additional storage and production. The current annual rent is approximately $324,000. DSIT believes that its premises are sufficient to handle any expected near-term growth.
+GRIDSENSE
+ 
+On April 21, 2016, we announced our decision to cease operations of our GridSense subsidiary and initiate the liquidation of the GridSense assets. As a result of this decision, GridSense is being reported as a discontinued operation effective with our first quarter 2016 report. On July 12, 2016, Acorn Energy, Inc. and GridSense sold the GridSense assets to Franklin Fueling Systems, Inc., a wholly-owned subsidiary of Franklin Electric Co., Inc. for a gross sales price of $1.0 million of which $100,000 was set aside as an indemnity escrow.
+ 
+GridSense is 100% owned by Acorn, and until the cessation of its operations, developed and marketed remote monitoring systems to electric utilities and industrial facilities worldwide.
+ 
+BACKLOG
+ 
+As of December 31, 2016, our backlog of work to be completed and the amounts expected to be completed in 2017 were as follows (amounts in millions of U.S. dollars):
+
+ | Backlog at December 31, 2016 | | Amount expected to be completed in 2017 | 
+--------------------------------------------+-----------------------------------+------+---------------------------------------------------+--
+DSIT Solutions * | $ | 18.6 | | $ | 9.4 
+OmniMetrix (primarily deferred revenue) | | 2.8 | | | 2.1 
+Total | $ | 21.4 | | $ | 11.5
+
+ 
+* Following the closing of the DSIT Transaction, we no longer consolidate the results of DSIT, but rather report on our investment in DSIT on the equity method.
+ 
+RESEARCH AND DEVELOPMENT EXPENSE, NET
+ 
+Research and development expense recorded for the years ended December 31 2016 and 2015 for each of our consolidated subsidiaries in continuing operations is as follows (amounts in thousands of U.S. dollars):
+
+ | Years ended December 31, | 
+--------------------------------------------+-------------------------------+----
+ | 2016 | | 2015 | 
+DSIT Solutions * | $ | 469 | | $ | 1,191
+OmniMetrix | | 458 | | | 514 
+Total | $ | 927 | | $ | 1,705
+
+
+12
+--
+
+
+Research and development expense recorded is net of participation by third parties in the research and development costs as well as credits arising from qualifying research and experimental development expenditures.
+ 
+* Acorn ceased consolidating the results of DSIT following the close of the DSIT Transaction on April 21, 2016. Results reported above are for the period ending April 21, 2016.
+ 
+EMPLOYEES
+ 
+At December 31, 2016, we employed a total of 21 employees – all of which were full-time employees employed by OmniMetrix in the U.S. Our CEO is hired as a consultant to us and our CFO is an employee of DSIT, a portion of whose salary is allocated to us.
+ 
+Twelve of OmniMetrix’s 21 employees are engaged in production, engineering and technical support, six in marketing and sales and three in management, administration and finance. We consider our relationship with our employees to be satisfactory. We have no collective bargaining agreements with any of our employees.
+ 
+ADDITIONAL FINANCIAL INFORMATION
+ 
+For additional financial information regarding our operating segments, foreign and domestic operations and sales, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Note 20 to our Consolidated Financial Statements included in this Annual Report.
+AVAILABLE INFORMATION
+ 
+We file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission (the “SEC”). These filings are available to the public over the internet at the SEC’s website at http://www.sec.gov. You may also read and copy any document we file at the SEC’s public reference room located at 100 F Street, NE, Washington, DC 20549. Please call the SEC at 1-800-SEC-0330 for further information on the public reference room.
+ 
+Our website can be found at http://www.acornenergy.com. We make available free of charge on or through our website, access to our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports as soon as reasonably practicable after such material is electronically filed, or furnished, to the SEC. Our website also includes our Code of Business Conduct and Ethics, and our Board of Directors’ Committee Charter for the Audit Committee.
+ 

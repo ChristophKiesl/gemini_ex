@@ -1,0 +1,133 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. BUSINESS
+General
+ Smith Micro develops software to simplify and enhance the mobile experience, providing solutions to leading wireless service providers, device manufacturers, and enterprise businesses around the world.  From optimizing wireless networks to uncovering customer experience insights, and from streamlining Wi-Fi access to ensuring family safety, our solutions enrich connected lifestyles while creating new opportunities to engage consumers via smartphones. Our portfolio also includes a wide range of products for creating, sharing, and monetizing rich content, such as visual messaging, video streaming, and 2D/3D graphics applications. With this as a focus, it is Smith Micro’s mission to help our customers thrive in a connected world.
+ Over the past three decades, Smith Micro has developed deep expertise in embedded software for mobile devices, policy-based management platforms, and highly-scalable client and server applications.  Tier 1 mobile network operators, cable providers, OEMs/device manufacturers, and enterprise businesses across a wide range of industries use our software to capitalize on the growth of connected consumers and the Internet of Things (“IoT”).
+ In general, we help our customers:
+  
+• | Optimize networks, reduce operational costs, and deliver “best-connected” user experiences;
+--+--------------------------------------------------------------------------------------------
+
+
+• | Manage mobile devices over-the-air for maximum performance, efficiency, reliability and cost-effectiveness;
+--+------------------------------------------------------------------------------------------------------------
+
+
+• | Provide greater insight into the mobile user experience to improve service quality and customer loyalty;
+--+---------------------------------------------------------------------------------------------------------
+
+
+• | Engage and grow high-value relationships with their customers using smartphones.
+--+---------------------------------------------------------------------------------
+
+ We continue to innovate and evolve our business to take advantage of industry trends and opportunities in emerging markets, such as “Big Data” analytics, the explosion of Wi-Fi hotspots, and business-to-consumer (“B2C”) mobile marketing and advertising.  The key to our longevity, however, is not simply technology innovation, but a never-ending focus on customer value.
+ During fiscal year 2016, we experienced a significant decrease in our revenues primarily due to our largest customer, Sprint, terminating a contract for one of our products.  Even with our two acquisitions and the pipeline of new potential deals, our revenues have been slow to materialize.  As such, we had to implement a significant restructuring plan during the fourth quarter of fiscal year 2016.  We also impaired one of our acquired intangible assets.
+ We have continued to restructure during the first fiscal quarter of 2017 in order to align our expenses with our current short-term revenue projections.  Overall, we have reduced our quarterly expenses by approximately $3.5 million.  
+ The Company was incorporated in California in November 1983, and reincorporated in Delaware in June 1995. Our principal executive offices are located at 51 Columbia, Aliso Viejo, California 92656. Our telephone number is (949) 362-5800. Our website address is www.smithmicro.com. Our NASDAQ symbol is SMSI, and we make our SEC filings available on the Investor Relations page of our website. Information contained on our website is not part of this Annual Report on Form 10-K.
+ Business Segments
+ Our business is focused on two industry segments: Wireless and Graphics. We do not separately allocate operating expenses, nor do we allocate specific assets to these segments. Therefore, segment information reported includes only revenues and cost of revenues. See Note 8 of Notes to Consolidated Financial Statements for financial information related to our business segments and geographical information.
+ 4
+
+Wireless
+ The wireless industry continues to undergo rapid change on all fronts, from the ubiquity of Wi-Fi and cellular networks, to the vast array of connected devices, mobile applications, and digital content consumed by users who want information and entertainment anytime, anywhere.  While most of us think about being “connected” in terms of computers, tablets and smartphones, the IoT is creating a world where almost anything can be connected to the wireless internet.  In addition, pervasive connectivity has changed the way business operates on small and grand scales.  For example, Wi-Fi hotspots are being deployed by neighborhood bookstores and coffee houses to keep customers on premise longer, as well as by large sports arenas to deliver real-time video feeds via social networks and online broadcasts.  Retailers are now spending more than 50% of their advertising budgets on mobile media, and targeting for those advertisements is driven by “Big Data” initiatives that collect consumer information from virtually every online or mobile interaction.
+ Although there are numerous business opportunities associated with pervasive connectivity, there are also many challenges:
+  
+- | Complexity, congestion, and spectrum scarcity plague wireless networks, making it difficult and expensive to satisfy the demand for mobile services by consumers and businesses.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | Mobile Network Operators (“MNO”) are being marginalized by over-the-top messaging applications and face growing competitive pressure from Cable/Multiple Service Operators (“MSO”) and others deploying Wi-Fi networks to attract mobile users.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | Enterprises face increasing pressure to mobilize workforces, operations, and customer engagement, but lack the expertise and technologies needed to leverage mobile securely and cost-effectively.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | Consumers – frustrated by slow, congested mobile networks and inconsistent device/app behavior – seek simpler network access and more personalized mobile experiences, while simultaneously demanding faster, cheaper, and more secure wireless services.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ To address these challenges, Smith Micro offers multi-platform, modular solutions organized into three product families:
+ NetWise® – NetWise® is a policy-on-device platform that optimizes wireless Quality of Experience (“QoE”) and enhances mobile customer engagement. Addressing challenges central to today's mobile lifestyle such as connection and network traffic management, context-driven mobile engagement, Wi-Fi discovery, credential provisioning, user authentication and radio management, NetWise is a proven carrier-grade solution for wireless and cable network operators, device manufacturers, OEMs, and enterprises.
+ CommSuite® – CommSuite Visual Voicemail by Smith Micro Software is voicemail, redefined. Gone are the days where consumers can be bothered to manually listen to voicemail on their smartphones. Today’s mobile users want every service on-demand, including voicemail. CommSuite Visual Voicemail quickly and easily allows users to manage voice messages just like email or SMS – with reply, forwarding and social sharing options. Smith Micro’s services feature multi-language Voice-to-Text transcription messaging, which enables discreet message consumption for users by reading versus listening. For operators, CommSuite Visual Voicemail turns traditional voicemail into a profitable, modern service.
+ SafePath™ - SafePath Family is a next-generation location tracking and parental controls platform that enables mobile operators to provide comprehensive family safety functionalities to their subscribers as a white-labeled value-added service. The SafePath Family feature set includes real-time location tracking and location-based notifications, geo-fencing, family-wide panic alerts, parental device controls and content blocking, phone security and support for wearable devices. With the SafePath Family solution, mobile operators can boost subscriber loyalty and engagement, while increasing average revenue per user.
+ 5
+
+4D App Studio™ - With millions of mobile apps available in the market today, differentiation is an acute challenge. Smith Micro addresses this need with our 4D App Studio, which offers complete mobile app design and development services that accelerate app time-to-market and mobilizes products and services. Smith Micro’s team of experts know first-hand that for a mobile app to be successful in the long term it must align with your business goals, deliver a complete and unique mobile experience, obtain maximum exposure and be ubiquitous across all devices. From initial ideation and business case mapping to long-term app maintenance and support, the 4D App Studio team has launched more than 30 unique mobile experiences for clients around the world across Android, iOS and Windows operating environments.
+ QuickLink® – Our QuickLink connection managers have shipped on more than 100 million devices worldwide, forming the foundation of our heritage as the leader in mobile connectivity.  Many of the world’s largest mobile network operators, including AT&T, Bell Canada, Orange, Sprint, T-Mobile, Verizon Wireless, and Vodafone, have deployed QuickLink as a white-label connection management application to their subscribers. Leading chipset manufacturers and module makers embed QuickLink components to ensure that connectivity is consistent across all device types. In addition, enterprises and public sector organizations with mobile work forces leverage QuickLink to provide enhanced security and configurability over public and private wireless networks.
+ Through our broad software portfolio, Smith Micro offers exceptional expertise in mobile platforms, integration to operator networks, and wireless industry standards.  Our powerful efficient on-device expert system and analytics are the perfect complements to the “Big Data” and mobile marketing initiatives driving most customer acquisition and loyalty programs today.  Further, our ability to customize solutions and accelerate time to market for mobile services, while meeting stringent reliability and security requirements, makes us a leading choice for any company that wants to deliver more with mobile.
+ Graphics
+ The Graphics group develops a variety of software, including graphic design and animation, and compression and PC/Mac utilities, for consumers, professional artists, and educators. These products are available through direct sales on Smith Micro websites (smithmicro.com, mysmithmicro.com and contentparadise.com), as well as through affiliate websites, resellers, and retail outlets.
+ The three main products in this area of Smith Micro’s business include Poser®, Moho™ (formerly Anime Studio®), and Clip Studio Paint ® (formerly Manga Studio®). These products are aimed at digital artists and designers of all skill levels, helping them to produce professional quality animations, comics, illustrations, and other 2D and 3D designs. Poser is widely used for 3D human figure design and animation, as well as for creating photorealistic images for a variety of industries. Moho is used by both hobbyists and professional artists working for high-end animation studios in the motion picture industry, and Clip Studio Paint is the leading software for comic illustration and manga creation, used by famous graphic novelists such as Dave Gibbons, the author of New York Times Bestseller “Watchmen.”
+ 6
+
+Products
+ Our primary products consist of the following:
+ 
+ 
+Business Segment | Products | Description 
+-----------------+----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wireless | NetWise® Director | Intelligent traffic management for data offload and seamless, secure access to 3G/4G/Wi-Fi networks 
+ | NetWise® SmartSpot | Wi-Fi discoverability, promotion, and automated authentication 
+ | NetWise® Captivate | Mobile marketing platform that uses real-time conditions, events, location, and analytics to better engage customers 
+ | NetWise® OMC | Open Management Client for OMA-DM standards-based device management 
+ | NetWise® FOTA | Lightweight device agent and deployment server for updating Firmware Over The Air (“FOTA”) 
+ | NetWise® I/O | A toolkit for testing client/server interoperability using the ANDSF networking standard 
+ | NetWise Device Management™ | An end-to-end device management platform for fault & diagnostics management, device provisioning, device configuration, and firmware/software updates 
+ | NetWise Optics™ | A mobile analytics solution that uncovers performance blind spots and optimize network quality 
+ | NetWise Passport™ | An automated onboarding and Wi-Fi service provisioning solution 
+ | CommSuite® VVM | Visual Voicemail (“VVM”) delivered directly to a mobile phone app and managed like email 
+ | CommSuite® VTT | Voice-to-Text (“VTT”) transcription of voicemail and voice SMS messages 
+ | CommSuite® AniMates® | Talking avatars that let users lip-synch a message with voice effects, backgrounds, stickers, and photos to personalize mobile communications 
+ | CommSuite® VIDIO Prime® | Adaptive streaming of live or pre-recorded video content to support mobile viewing across laptops, tablets, phones, TVs, and more 
+ | SafePath Family™ | Real-time family location tracking app with easy to use parental controls and supports wearables such as GPS wristwatches and backpack locators 
+ | 4D App Studio™ | Design and development service to customize mobile apps 
+ | QuickLink® Mobile | Connection management application to control, customize, and automate wireless connections from PCs and Macs to WWAN and WLAN/Wi-Fi networks 
+ | QuickLink® Mobility | Mobile VPN and connection manager targeted to enterprises with mobile workforces, as well as the public sector 
+ | QuickLink® Zero | Streamlined connectivity for mobile hotspot features on smartphones and mobile broadband devices, with billing integration, automated diagnostics, usage metering, and data management
+
+ 7
+
+ 
+Business Segment | Products | Description 
+-----------------+---------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------
+ | QuickLink® MBIM Middleware | Customizable drivers that support the Mobile Broadband Interface Model (“MBIM”) standard for connecting USB devices to a variety of operating systems
+Graphics | Poser® | 3D rendering and animation software for photorealistic characters, art, illustration, and digital design 
+ | Moho™(formerly Anime Studio®) | Complete 2D animation program for creating movies, cartoons, anime, and cut out animations 
+ | Clip Studio Paint® (formerly Manga Studio®) | Comic illustration software for creating manga, comic art, and graphic novels 
+ | MotionArtist™ | A fast, easy solution for creating animatics and interactive presentations 
+ | StuffIt Deluxe® | A patented, lossless compression solution for documents and media 
+ | Sock Puppets™ | iOS app to create lip-synched cartoons and share them on Facebook and YouTube 
+ | AniMates™ Stickers | A series of characters (sold as sticker packs) for mobile messaging for iOS iMessage Store 
+
+Marketing and Sales Strategy
+ Because of our broad product portfolio, deep integration experience, and flexible business models, we can quickly bring to market innovative solutions that support our customers’ needs to create new revenue opportunities and differentiate their products and services among their competitors.
+ Our marketing and sales strategy is as follows:
+ Leverage Operator and OEM Relationships. We continue to capitalize on our strong relationships with the world’s leading mobile network operators, multiple service operators, and device manufacturers. These customers serve as our primary distribution channel, providing access to hundreds of millions of end users around the world.
+ Focus on High-Growth Markets. We continue to focus on mobile marketing, analytics/Big Data, premium messaging services, and wireless connectivity taking advantage of expanding 4G and Wi-Fi networks, as well as the explosive growth of smartphones, tablets, and IoT devices.
+ Expand our Customer Base. In addition to growing business with current customers, we are increasing penetration of the enterprise market, with particular focus on large B2C companies, such as retail, brands, banking, and hospitality, as well as industrial IoT companies deploying connected devices.
+Key Revenue Contributors
+ Revenues from Sprint and their respective affiliates in the Wireless business segment accounted for 62.6% of the Company’s total revenues for the fiscal year 2016. Revenues from FastSpring in the Graphics business segment accounted for 13.5% of the Company’s total revenues for the fiscal year 2016.  Revenues to Sprint and their respective affiliates in the Wireless business segment accounted for 65.4% of the Company’s total revenues for the fiscal year 2015. Revenues to FastSpring in the Graphics business segment accounted for 11.3% of the Company’s total revenues for the fiscal year 2015.  Revenues to Sprint and their respective affiliates in the Wireless business segment accounted for 68.0% of the Company’s total revenues for the fiscal year 2014. Revenues to FastSpring in the Graphics business segment accounted for 11.2% of the Company’s total revenues for the fiscal year 2014.  Our major customers could reduce their orders of our products in favor of a competitor's product or for any other reason. 
+ 8
+
+The loss of any of our major customers or decisions by a significant customer to substantially reduce purchases could have a material adverse effect on our business.
+ Customer Service and Technical Support
+ We provide technical support and customer service through our online knowledge base, via email, and live chat. OEM customers generally provide their own primary customer support functions and rely on us for support to their own technical support personnel.
+Product Development
+ The software industry, particularly the wireless market, is characterized by rapid and frequent changes in technology and user needs. We work closely with industry groups and customers, both current and potential, to help us anticipate changes in technology and determine future customer needs. Software functionality depends upon the capabilities of the hardware. Accordingly, we maintain engineering relationships with various hardware manufacturers and we develop our software in tandem with their product development. Our engineering relationships with manufacturers, as well as with our major customers, are central to our product development efforts. We remain focused on the development and expansion of our technology, particularly in the wireless space. Research and development expenditures amounted to $15.9 million, $13.9 million, and $14.2 million for the years ended December 31, 2016, 2015, and 2014, respectively.
+Manufacturing
+ Manufacturing is for our Graphics physical products.  Our product development group produces a product master for each product that is then duplicated and packaged into products by the manufacturing organization. All product components are purchased by our personnel in our Aliso Viejo, California facility. Our manufacturing is subcontracted to outside vendors and includes the replication of CD-ROMs and the printing of documentation materials. Assembly of the final package is completed by our Aliso Viejo, California facility.
+Competition
+ The markets in which we operate are highly competitive and subject to rapid changes in technology. These conditions create new opportunities for Smith Micro, as well as for our competitors, and we expect new competitors to enter the market. We will not only compete with other software vendors for new customer contracts, we will also compete to acquire technology and qualified personnel.
+ We believe that the principal competitive factors affecting the mobile software market include domain expertise, product features, usability, quality, price, customer service, and effective sales and marketing efforts. Although we believe that our products currently compete favorably with respect to these factors, there can be no assurance that we can maintain our competitive position against current and potential competitors. We also believe that the market for our software products has been and will continue to be characterized by significant price competition. A material reduction in the price of our products could negatively affect our profitability.
+ Many existing and potential customers have the resources to develop products that compete directly with our products. As such, these customers may opt to discontinue the purchase of our products in the future. With this as background, our future performance is substantially dependent upon the extent to which existing customers elect to purchase software from us rather than design and develop their own software.
+ Proprietary Rights and Licenses
+ Our success and ability to compete is dependent upon our software code base, our programming methodologies and our other intellectual properties. To protect our proprietary technology and intellectual property, we rely on a combination of trade secrets, nondisclosure agreements, patents, copyright and trademark law that may afford only limited protection. As of December 31, 2016, we owned 93 issued U.S. patents. These patents are intended to 
+ 9
+
+provide generalized protection of our intellectual property technology base and we will continue to apply for various patents and trademarks in the future as we deem necessary to protect our intellectual property technology base.
+ We seek to avoid unauthorized use and disclosure of our proprietary intellectual property by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements with us and by restricting access to our source code. The deterrent steps that we have taken to protect our proprietary technology may not be adequate to deter misappropriation of our proprietary information or prevent the successful assertion of any adverse claim against us relating to software or intellectual property utilized by us. In addition, we may not be able to detect unauthorized use of our intellectual property rights or take effective steps to enforce those rights.
+ In selling our products, we primarily rely on “shrink wrap” licenses that are not signed by licensees and may be unenforceable under the laws of certain jurisdictions. In addition, the laws of some foreign countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Accordingly, the means we currently use to protect and enforce all of our proprietary rights and intellectual property rights may not be adequate. Moreover, our competitors may independently develop competitive technology similar to ours. We also license technology on a non‑exclusive basis from several companies for inclusion in our products and anticipate that we will continue to do so in the future. If we are unable to continue to license these technologies or to license other necessary technologies for inclusion in our products, or such third party technologies become subject to claims directed to or against the third party technologies used by us, or if we experience substantial increases in royalty payments under these third party licenses, our business could be materially and adversely affected.
+ Employees
+ As of December 31, 2016, we had a total of 173 employees within the following departments: 109 in engineering, 28 in sales and marketing, 13 in operations and customer support, and 23 in management and administration. We are not subject to any collective bargaining agreement and we believe that our relationships with our employees are good.

@@ -1,0 +1,495 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ 
+References herein to “the Company,” “Rush Enterprises,” “Rush,” “we,” “our” or “us” mean Rush Enterprises, Inc., a Texas corporation, and its subsidiaries unless the context requires otherwise. 
+ 
+Access to Company Information
+ 
+We electronically file annual reports, quarterly reports, proxy statements and other reports and information statements with the SEC. You may read and copy any of the materials that we have filed with the SEC at the SEC’s Public Reference Room at 100 F Street NE, Washington, DC 20549. You may obtain information about the Public Reference Room by calling the SEC at 1-800-SEC-0330. Our filings are also available to you on the SEC’s website at www.sec.gov. 
+ 
+We make certain of our SEC filings available, free of charge, through our website, including annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to these reports. These filings are available as soon as reasonably practicable after such material is electronically filed with, or furnished to, the SEC. Our website address is www.rushenterprises.com. The information contained on our website, or on other websites linked to our website, is not incorporated into this report or otherwise made part of this report.
+ 
+ 
+1
+
+
+
+General
+ 
+Rush Enterprises, Inc. was incorporated in Texas in 1965 and consists of one reportable segment, the Truck Segment. We conduct business through certain of our subsidiaries. Our principal offices are located at 555 IH 35 South, Suite 500, New Braunfels, Texas 78130.
+ 
+We are a full-service, integrated retailer of commercial vehicles and related services. The Truck Segment includes the Company’s operation of a nationwide network of commercial vehicle dealerships under the name “Rush Truck Centers.” Each Rush Truck Center is a franchised dealership for commercial vehicles manufactured by Peterbilt, International, Hino, Ford, Isuzu, Mitsubishi Fuso, IC Bus or Blue Bird. Through our strategically located network of Rush Truck Centers, we provide one-stop service for the needs of our commercial vehicle customers, including retail sales of new and used commercial vehicles, aftermarket parts sales, service and repair facilities, financing, leasing and rental, and insurance products. 
+ 
+Our Rush Truck Centers are principally located in high traffic areas throughout the United States. Since commencing operations as a Peterbilt heavy-duty truck dealer in 1966, we have grown to operate over 100 Rush Truck Centers in 21 states.
+ 
+Our business strategy consists of providing solutions to the commercial vehicle industry through our network of commercial vehicle dealerships. We offer an integrated approach to meeting customer needs by providing service, parts and collision repair in addition to new and used commercial vehicle sales and leasing, plus financial services, vehicle upfitting, CNG fuel systems, vehicle telematics products, chrome accessories and tires. We intend to continue to implement our business strategy, reinforce customer loyalty and remain a market leader by continuing to develop our Rush Truck Centers as we expand our product offerings and extend our dealership network through strategic acquisitions of new locations and opening new dealerships in our existing areas of operations.
+ 
+Rush Truck Centers. Our Rush Truck Centers are located in Alabama, Arizona, California, Colorado, Florida, Georgia, Idaho, Illinois, Indiana, Kansas, Kentucky, Missouri, Nevada, New Mexico, North Carolina, Ohio, Oklahoma, Tennessee, Texas, Utah and Virginia. The following chart reflects our franchises and parts, service and body shop operations by location as of March 1, 2017:
+ 
+
+Rush Truck Center Location | Commercial Vehicle Franchise(s) | Truck Sales | Parts and Service | Body Shop
+---------------------------+---------------------------------+-------------+-------------------+----------
+Alabama | | | | 
+Mobile | Peterbilt | Yes | Yes | Yes 
+Arizona | | | | 
+Flagstaff | Peterbilt | No | Yes | No 
+Phoenix | Peterbilt, Hino | Yes | Yes | Yes 
+Tucson | Peterbilt, Hino | Yes | Yes | No 
+Yuma | Peterbilt | Yes | Yes | No 
+California | | | | 
+Fontana Heavy-Duty | Peterbilt | Yes | Yes | Yes 
+Fontana Medium-Duty | Peterbilt, Hino, Isuzu | Yes | Yes | No 
+Fontana Vocational | None | No | Yes | No 
+Long Beach | Peterbilt | No | Yes | No 
+Pico Rivera | Peterbilt | Yes | Yes | Yes 
+San Diego | Peterbilt, Hino | Yes | Yes | No 
+Sylmar | Peterbilt | Yes | Yes | No 
+Whittier | Ford, Isuzu | Yes | Yes | No 
+Colorado | | | | 
+Denver | Peterbilt, Ford, Isuzu | Yes | Yes | Yes 
+Denver Medium-Duty | Ford, Isuzu | Yes | Yes | No 
+Greeley | Peterbilt | Yes | Yes | No 
+Pueblo | Peterbilt | Yes | Yes | No 
+
+ 
+ 
+2
+
+
+
+
+
+Rush Truck Center Location | Commercial Vehicle Franchise(s) | Truck Sales | Parts and Service | Body Shop
+----------------------------+------------------------------------+-------------+-------------------+----------
+Florida | | | | 
+Haines City | Peterbilt | Yes | Yes | Yes 
+Jacksonville | Peterbilt, Hino | Yes | Yes | No 
+Lake City | Peterbilt | Yes | Yes | No 
+Orlando Heavy-Duty | Peterbilt, Isuzu | Yes | Yes | No 
+Orlando Light & Medium-Duty | Ford | Yes | Yes | No 
+Orlando South | Isuzu | Yes | Yes | No 
+Tampa | Peterbilt | Yes | Yes | No 
+Georgia | | | | 
+Atlanta | International, Hino, Isuzu, IC Bus | Yes | Yes | No 
+Atlanta Bus Center | IC Bus | Yes | Yes | Yes 
+Blackshear | International, IC Bus | Yes | Yes | No 
+Augusta North | International, IC Bus | Yes | Yes | No 
+Columbus | International, Isuzu, IC Bus | Yes | Yes | No 
+Doraville | International, Hino, Isuzu, IC Bus | Yes | Yes | No 
+Gainesville | International, IC Bus | Yes | Yes | No 
+Macon | International | Yes | Yes | No 
+Smyrna | International, Hino, Isuzu, IC Bus | Yes | Yes | No 
+Tifton | International, IC Bus | Yes | Yes | No 
+Valdosta | International | Yes | Yes | No 
+Idaho | | | | 
+Boise | International, Hino, IC Bus | Yes | Yes | Yes 
+Idaho Falls | International, IC Bus | Yes | Yes | Yes 
+Lewiston | International | Yes | Yes | No 
+Twin Falls | International | Yes | Yes | No 
+Illinois | | | | 
+Bloomington | International, Hino | Yes | Yes | No 
+Carol Stream | International | Yes | Yes | No 
+Champaign | International | Yes | Yes | Yes 
+Chicago | International | Yes | Yes | Yes 
+Effingham | International | Yes | Yes | Yes 
+Huntley | International | Yes | Yes | No 
+Joliet | International | Yes | Yes | No 
+Quincy | International | Yes | Yes | No 
+Springfield East | International | Yes | Yes | Yes 
+Springfield West | International | Yes | Yes | Yes 
+Indiana | | | | 
+Gary | International | Yes | Yes | No 
+Indianapolis | International | Yes | Yes | Yes 
+Kansas | | | | 
+Kansas City | Hino, Isuzu | Yes | Yes | No 
+Kentucky | | | | 
+Bowling Green | Peterbilt | Yes | Yes | No 
+Missouri | | | | 
+St. Peters | International | Yes | Yes | No 
+St. Louis | International | Yes | Yes | No 
+Nevada | | | | 
+Las Vegas | Peterbilt | Yes | Yes | No 
+New Mexico | | | | 
+Albuquerque | Peterbilt | Yes | Yes | Yes 
+Farmington | Peterbilt | No | Yes | No 
+Las Cruces | Peterbilt | Yes | Yes | No 
+
+ 
+ 
+3
+
+
+
+
+Rush Truck Center Location | Commercial Vehicle Franchise(s) | Truck Sales | Parts and Service | Body Shop
+---------------------------+--------------------------------------------------------+-------------+-------------------+----------
+North Carolina | | | | 
+Asheville | International | Yes | Yes | No 
+Charlotte | International, Hino, Isuzu | Yes | Yes | Yes 
+Hickory | International | Yes | Yes | No 
+Ohio | | | | 
+Akron | International, IC Bus | Yes | Yes | No 
+Cincinnati | International, IC Bus, Isuzu, Ford, Mitsubishi Fuso | Yes | Yes | Yes 
+Cleveland | International, IC Bus | Yes | Yes | No 
+Columbus | International, IC Bus, Isuzu(1) | Yes | Yes | No 
+Dayton | International, IC Bus, Isuzu | Yes | Yes | No 
+Lima | International, IC Bus | Yes | Yes | No 
+Springfield | International | No | Yes | No 
+Oklahoma | | | | 
+Ardmore | Peterbilt | Yes | Yes | No 
+Oklahoma City | Peterbilt, Hino, Ford, Isuzu | Yes | Yes | Yes 
+Tulsa | Peterbilt, Hino | Yes | Yes | Yes 
+Tennessee | | | | 
+Nashville | Peterbilt | Yes | Yes | Yes 
+Texas | | | | 
+Abilene | Peterbilt | Yes | Yes | No 
+Amarillo | Peterbilt | Yes | Yes | No 
+Austin | Peterbilt, Hino, Isuzu, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Brownsville | Peterbilt, Elkhart | Yes | Yes | No 
+College Station | Peterbilt | Yes | Yes | No 
+Corpus Christi | Peterbilt, Hino, Isuzu, Blue Bird, Elkhart | Yes | Yes | No 
+Cotulla | Peterbilt | No | Yes | No 
+Dalhart | Peterbilt | No | Yes | No 
+Dallas Heavy-Duty | Peterbilt, Blue Bird, Micro Bird, Elkhart | Yes | Yes | Yes 
+Dallas Medium-Duty | Peterbilt, Hino, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Dallas Light & Medium-Duty | Ford, Isuzu | Yes | Yes | No 
+El Paso | Peterbilt, Hino, Isuzu | Yes | Yes | Yes 
+Fort Worth | Peterbilt, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Houston | Peterbilt, Hino, Blue Bird, Micro Bird, Elkhart | Yes | Yes | Yes 
+Houston Bus Center | Peterbilt, Hino, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Houston Medium-Duty | Hino | Yes | Yes | No 
+Laredo | Peterbilt, Blue Bird, Micro Bird, Elkhart | Yes | Yes | Yes 
+Lubbock | Peterbilt | Yes | Yes | No 
+Lufkin | Peterbilt, Blue Bird, Micro Bird, Elkhart | Yes | Yes | Yes 
+Odessa | Peterbilt | Yes | Yes | No 
+Pharr | Peterbilt, Hino, Blue Bird, Micro Bird, Elkhart | Yes | Yes | Yes 
+San Antonio | Peterbilt, Hino, Blue Bird, Micro Bird, Elkhart | Yes | Yes | Yes 
+San Antonio Bus | Blue Bird, Micro Bird, Elkhart | Yes | Yes | Yes 
+
+
+(1) The physical location of our Isuzu dealership is in our Rush Truck Leasing - Columbus location.
+---------------------------------------------------------------------------------------------------
+
+ 
+ 
+4
+
+
+
+
+Rush Truck Center Location | Commercial Vehicle Franchise(s) | Truck Sales | Parts and Service | Body Shop
+---------------------------+--------------------------------------------------------+-------------+-------------------+----------
+Sealy | Peterbilt, Isuzu, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Texarkana | Peterbilt, Hino, Isuzu, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Tyler | Peterbilt, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Waco | Peterbilt, Hino, Isuzu, Blue Bird, Micro Bird, Elkhart | Yes | Yes | No 
+Utah | | | | 
+Ogden | International, IC Bus | Yes | Yes | No 
+Salt Lake City | International, IC Bus, Mitsubishi Fuso | Yes | Yes | Yes 
+Springville | International, Mitsubishi Fuso | Yes | Yes | No 
+St. George | International, Mitsubishi Fuso | Yes | Yes | No 
+Virginia | | | | 
+Chester | International | Yes | Yes | No 
+Fredericksburg | International | Yes | Yes | No 
+Richmond | International | Yes | Yes | Yes 
+
+ 
+We also have dedicated, non-franchised used commercial vehicle sales facilities in Willowbrook, Illinois, Dallas, Texas and Orlando, Florida.
+ 
+Leasing and Rental Services. Through certain of our Rush Truck Centers and several stand-alone Rush Truck Leasing Centers, we provide a broad line of product selections for lease or rent, including Class 4, Class 5, Class 6, Class 7 and Class 8 trucks, heavy-duty cranes and refuse vehicles. Our lease and rental fleets are offered on a daily, monthly or long-term basis. Substantially all of our long-term leases also contain a service provision, whereby we agree to service the vehicle through the life of the lease. The following chart reflects our leasing franchises by location:
+ 
+
+Rush Truck Leasing Location | Franchise | Standalone or in a Rush Truck Center
+----------------------------+-----------+-------------------------------------
+Alabama | | 
+Birmingham | PacLease | Standalone 
+Arizona | | 
+Phoenix | PacLease | Standalone 
+California | | 
+Fontana | PacLease | Standalone 
+Pico Rivera | PacLease | Standalone 
+San Diego | PacLease | In RTC 
+Sylmar | PacLease | In RTC 
+Colorado | | 
+Denver | PacLease | In RTC 
+Florida | | 
+Orlando | PacLease | Standalone 
+Tampa | PacLease | In RTC 
+Jacksonville | PacLease | Standalone 
+Georgia | | 
+Macon | Idealease | In RTC 
+Idaho | | 
+Boise | Idealease | In RTC 
+Idaho Falls | Idealease | In RTC 
+Illinois | | 
+Carol Stream | Idealease | In RTC 
+Chicago | Idealease | In RTC 
+Effingham | Idealease | In RTC 
+Huntley | Idealease | In RTC 
+Joliet | Idealease | In RTC 
+Springfield | Idealease | In RTC 
+
+ 
+ 
+5
+
+
+
+
+Rush Truck Leasing Location | Franchise | Standalone or in a Rush Truck Center
+----------------------------+-----------+-------------------------------------
+Indiana | | 
+Indianapolis | Idealease | In RTC 
+Gary | Idealease | In RTC 
+Missouri | | 
+St. Louis | Idealease | In RTC 
+St. Peters | Idealease | In RTC 
+North Carolina | | 
+Charlotte | Idealease | In RTC 
+New Mexico | | 
+Albuquerque | PacLease | Standalone 
+Nevada | | 
+Las Vegas | PacLease | In RTC 
+Ohio | | 
+Cincinnati | Idealease | Standalone 
+Cleveland | Idealease | Standalone 
+Columbus | Idealease | In RTC 
+Dayton | Idealease | In RTC 
+Oklahoma | | 
+Oklahoma City | PacLease | In RTC 
+Tennessee | | 
+Nashville | PacLease | In RTC 
+Texas | | 
+Austin | PacLease | Standalone 
+El Paso | PacLease | In RTC 
+Fort Worth | PacLease | In RTC 
+Houston | PacLease | Standalone 
+Lubbock | PacLease | In RTC 
+San Antonio | PacLease | In RTC 
+Tyler | PacLease | Standalone 
+Virginia | | 
+Richmond | Idealease | Standalone 
+Norfolk | Idealease | Standalone 
+Utah | | 
+Salt Lake City | Idealease | Standalone 
+
+ 
+In addition to the locations in the above table, Rush Truck Leasing also provides full-service maintenance on customers’ vehicles at several of our customers’ facilities.
+ 
+Financial and Insurance Products. At our Rush Truck Centers, we offer third-party financing to assist customers in purchasing new and used commercial vehicles. Additionally, we sell, as agent through our insurance agency, a complete line of property and casualty insurance, including collision and liability insurance on commercial vehicles, cargo insurance and credit life insurance.
+ 
+Other Businesses. Perfection Equipment offers installation of equipment, equipment repair, parts installation, and paint and body repair at our location in Oklahoma City. Perfection Equipment specializes in up-fitting trucks used by oilfield service providers and other specialized service providers.
+ 
+World Wide Tires stores operate in two locations in Texas. World Wide Tires primarily sells tires for use on commercial vehicles.
+ 
+Custom Vehicle Solutions operates at locations in Denton, Texas and Chambersburg, Pennsylvania. Custom Vehicle Solutions provides new vehicle pre-delivery inspections, truck modifications, natural gas fuel system installations, body and chassis upfitting and component installation.
+ 
+Momentum Fuel Technologies manufactures compressed natural gas fuel systems and related component parts for commercial vehicles at its facility in Roanoke, Texas.
+ 
+ 
+6
+
+
+
+Industry
+ 
+See Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Industry” for a description of our industry and the markets in which we operate.
+Our Business Strategy
+ 
+Operating Strategy. Our strategy is to operate an integrated, nationwide dealership network that provides service solutions to the commercial vehicle industry. Our strategy includes the following key elements:
+
+● | One-Stop Centers. We have developed our commercial vehicle dealerships as “one-stop centers” that offer an integrated approach to meeting customer needs. We provide service, parts and collision repair, new and used commercial vehicles sales, leasing and rental, plus financial services including finance and insurance. We believe that this full-service strategy also helps to mitigate cyclical economic fluctuations because the parts and service sales at our dealerships generally tend to be less volatile than our new and used commercial vehicle sales.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Aftermarket Services. We refer to our parts, service and body shop operations collectively as “Aftermarket Services”. Our aftermarket capabilities include a wide range of services and products, including a fleet of mobile service units, mobile technicians who work in our customers’ facilities, a proprietary line of parts and accessories, factory-certified service for alternative fuel vehicles and assembly service for specialized bodies and equipment. We believe that offering a variety of aftermarket products and services at our dealerships allows us to meet the expanding needs of our customers and leverage our dealership facilities to offer more services.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Branding Program. We employ a branding program for our new vehicle dealerships through distinctive signage and uniform marketing programs to take advantage of our existing name recognition and to communicate the standardized high quality of our products and reliability of our services throughout our dealership network.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Management by Dealership Units. At each of our dealerships, we operate one or more of the following departments: new commercial vehicle sales, used commercial vehicle sales, financial services, parts, service or body shop. Our general managers measure and manage the operations of each dealership according to the specific departments operating at that location. We believe that this system enhances the profitability of all aspects of a dealership and increases our overall operating margins. Operating goals for each department at each of our dealerships are established annually and managers are rewarded for performance.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Growth Strategy. Through our expansion and acquisition initiatives, we have grown to operate a large, multistate, full-service network of commercial vehicle dealerships. As described below, we intend to continue to grow our business by expanding our product and service offerings, through acquisitions in new geographic areas and by opening new dealerships in our existing areas of responsibility.
+ 
+
+● | Expansion of Product and Service Offerings. We intend to continue to expand our product lines within our dealerships by adding product categories and service capabilities that are both complementary to our existing product lines and well suited to our operating model. We believe that there are many additional product and service offerings that would complement our primary product lines. We will continue to take advantage of technological advances to the vehicles we sell that provide us with the opportunity to offer vehicle owners more aftermarket options and the ability to maximize the performance of vehicles in their fleets using telematics and other technologies.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Expansion Into New Geographic Areas. We plan to continue to expand our dealership network by acquiring dealerships in areas of the U.S. where we do not already have dealerships. We believe the geographic diversity of our Rush Truck Center network has significantly expanded our customer base while reducing the effects of local economic cycles.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Open New Rush Truck Centers in Existing Areas of Operation. We continually evaluate opportunities to increase our market presence by adding new Rush Truck Centers to underserved markets within our current areas of operation.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+7
+
+
+
+Management of Our Dealerships
+ 
+Rush Truck Centers
+ 
+Our Rush Truck Centers are responsible for sales of new and used commercial vehicles, as well as related parts and services. 
+ 
+Aftermarket Services. Revenues from Aftermarket Services accounted for approximately $1,332.4 million, or 31.6%, of our total revenues for 2016, and 67.0% of our gross profit. The parts and service business enhances our sales and service functions and is a source of recurring revenue. Rush Truck Centers carry a wide variety of commercial vehicle parts in inventory. Certain Rush Truck Centers also feature fully equipped service and body shop facilities, the combination and configuration of which varies by location, capable of handling a broad range of repairs on most commercial vehicles. Each Rush Truck Center is a warranty service center for the commercial vehicle manufacturers represented at that location and most are also authorized service centers for other vehicle component manufacturers, including Cummins, Eaton, Caterpillar and Allison. We have approximately 2,400 service and body shop bays throughout our Rush Truck Center network. We also have mobile service technicians and technicians who staff certain of our customers’ facilities.
+ 
+Our service departments perform warranty and non-warranty repairs on commercial vehicles. The cost of warranty work is generally reimbursed by the applicable manufacturer at retail commercial rates. Warranty related parts and service revenues accounted for approximately $130.4 million, or 3.1%, of our total revenues for 2016. Additionally, we provide a wide array of services, including assembly service for specialized truck bodies and truck mounted equipment. Our goal is to provide our customers any service that they need related to their commercial vehicles.
+ 
+As part of our leasing and rental operations, we also enter into contracts to provide full-service maintenance on some customers’ vehicles. We had 1,233 vehicles under contract maintenance as of December 31, 2016, and 1,345 vehicles under contract maintenance as of December 31, 2015. The full-service maintenance revenues and retail service revenues are included as parts and service revenues on the Consolidated Statements of Income. 
+ 
+New Commercial Vehicle Sales.   New commercial vehicle sales represent the largest portion of our revenues, accounting for approximately $2,350.6 million, or 55.8%, of our total revenues in 2016. Of this total, new Class 8 heavy-duty truck sales accounted for approximately $1,455.8 million, or 34.5%, of our total revenues for 2016, and 61.9% of our new commercial vehicle revenues for 2016.
+ 
+Our Rush Truck Centers that sell new and used Class 8 heavy-duty trucks may also sell medium-duty and light-duty commercial vehicles. Certain Rush Truck Centers sell medium-duty commercial vehicles manufactured by Peterbilt, Hino, Isuzu, Ford, International or Mitsubishi Fuso and buses manufactured by Blue Bird, IC BUS or Elkhart and light-duty commercial vehicles manufactured by Ford (see Part I, Item 1, “General – Rush Truck Centers” for information on which brands we sell at each Rush Truck Center). New medium-duty commercial vehicle sales, excluding new bus sales, accounted for approximately $714.8 million, or 17.0%, of our total revenues for 2016, and 30.4% of our new commercial vehicle revenues for 2016. New light-duty commercial vehicle sales accounted for approximately $63.6 million, or 1.5%, of our total revenues for 2016, and 2.7% of our new commercial vehicle revenues for 2016. New bus sales accounted for approximately $96.9 million, or 2.3%, of our total revenues for 2016, and 4.1% of our new commercial vehicle revenues for 2016.
+ 
+A significant portion of our new commercial vehicle sales are to fleet customers. Because of the size and geographic scope of our Rush Truck Center network, our strong relationships with our fleet customers and our ability to handle large quantities of used commercial vehicle trade-ins, we are able to successfully market and sell to fleet customers nationwide. We believe that we have a competitive advantage over most other dealerships in that we can absorb multi-unit trade-ins often associated with fleet sales and effectively disperse the used commercial vehicles for resale throughout our dealership network and our dedicated used truck facilities. We believe that the broad range of services we offer to purchasers of commercial vehicles at the time of purchase and post-purchase has resulted in a high level of customer loyalty. 
+ 
+ 
+8
+
+
+
+Used Commercial Vehicle Sales. Used commercial vehicle sales accounted for approximately $289.4 million, or 6.9%, of our total revenues for 2016. We sell used commercial vehicles at most of our Rush Truck Centers and also at our non-franchised, dedicated used commercial vehicle facilities. We believe that we are well positioned to market used commercial vehicles due to our ability to recondition them for resale utilizing the parts and service departments of our Rush Truck Centers and our ability to move used commercial vehicles between our dealerships as customer demand warrants. The majority of our used commercial vehicle inventory consists of commercial vehicles taken as trade-ins from new commercial vehicle customers or retired from our lease and rental fleet, but we also supplement our used commercial vehicle inventory by purchasing used commercial vehicles from third parties for resale, as market conditions warrant.
+ 
+New and Used Commercial Vehicle Financing.  Our Rush Truck Centers have personnel responsible for arranging third-party financing for our product offerings. Generally, commercial vehicle finance contracts are memorialized through the use of installment contracts, which are secured by the commercial vehicles financed, and require a down payment, with the remaining balance financed over a two to seven-year period. The majority of these finance contracts are sold to third parties without recourse to us. We provide an allowance for repossession losses and early repayment penalties that we may incur under these finance contracts. 
+ 
+Truck Leasing and Rental.   Truck leasing and rental revenues accounted for approximately $208.1 million, or 4.9%, of our total revenues for 2016. At our Rush Truck Leasing locations, we engage in full-service truck leasing through PacLease and Idealease. Rental trucks are also generally serviced at our facilities. We had 7,841 vehicles in our lease and rental fleet, including cranes, as of December 31, 2016, compared to 7,800 vehicles as of December 31, 2015. Generally, we sell trucks that have been retired from our lease and rental fleet through the used sales operations at our Rush Truck Centers and also at our non-franchised, dedicated used commercial vehicle facilities. Historically, we have realized gains on the sale of used lease and rental trucks.
+ 
+Insurance Products
+ 
+The sale of financial and insurance products accounted for approximately $18.6 million, or 0.4%, of our total revenues for 2016. Finance and insurance revenues have minimal direct costs and, therefore, contribute a disproportionate share of our operating profits. We sell, as agent, a complete line of property and casualty insurance to commercial vehicle owners. Our agency is licensed to sell truck liability, collision and comprehensive, workers’ compensation, cargo, and credit life insurance coverage offered by a number of leading insurance companies. Our renewal rate in 2016 was approximately 82%. We also have licensed insurance agents at several Rush Truck Centers.
+Sales and Marketing
+ 
+Our established history of operations in the commercial vehicle business has resulted in a strong customer base that is diverse in terms of geography, industry and scale of operations. Our customers include regional and national truck fleets, corporations, local and state governments and owner operators. During 2016, no single customer accounted for more than 10% of our sales by dollar volume. We generally promote our products and related services through direct customer contact by our sales personnel, advertisements in trade magazines and online and attendance at industry shows.
+ 
+In an effort to enhance our name recognition and to communicate the standardized high level of quality products and services provided at our Rush Truck Centers, we implement our “Rush” brand name concept at each of our vehicle dealerships. 
+ 
+Facility Management
+ 
+Personnel. Each of our facilities is typically managed by a general manager who oversees the operations, personnel and the financial performance of the location, subject to the direction of a regional manager and personnel at our corporate headquarters. Additionally, each full-service Rush Truck Center is typically staffed by a sales manager, parts manager, service manager, body shop manager, sales representatives, parts employees, and other service and make-ready employees, as appropriate, given the services offered. The sales staff of each Rush Truck Center is compensated on a salary plus commission, or a commission only basis, while managers receive a combination of salary and performance bonus. We believe that our employees are among the highest paid in the industry, which enables us to attract and retain qualified personnel.
+ 
+ 
+9
+
+
+
+We have been successful in retaining our senior management, regional managers and general managers. To promote communication and efficiency in operating standards, regional managers and members of senior management attend company-wide strategy sessions each year. In addition, management personnel attend various industry-sponsored leadership and management seminars and receive continuing education on the products we distribute, marketing strategies and management information systems. 
+ 
+Compliance with Policies. Each Rush Truck Center is audited regularly for compliance with corporate policies and procedures. These routine, unannounced internal audits objectively measure dealership performance with respect to corporate expectations in the management and administration of sales, commercial vehicle inventory, parts inventory, parts sales, service sales, body shop sales, corporate policy compliance, human resources compliance, and environmental and safety compliance matters.
+ 
+Purchasing and Suppliers. We believe that pricing is an important element of our marketing strategy. Because of our size, we benefit from volume purchases at favorable prices that permit us to achieve a competitive pricing position in the industry. We purchase our commercial vehicle inventory and proprietary parts and accessories directly from the applicable vehicle manufacturer, wholesale distributors, or other sources that provide the most favorable pricing. Most purchasing commitments are negotiated by personnel at our corporate headquarters. Historically, we have been able to negotiate favorable pricing levels and terms, which enable us to offer competitive prices for our products.
+ 
+Commercial Vehicle Inventory Management. We utilize our management information systems to monitor the inventory level of commercial vehicles at each of our dealerships. Our systems provide the information that allows for the transfer of new and used commercial vehicle inventory among Rush Truck Centers as needed.
+ 
+Parts Distribution and Inventory Management. We utilize a parts inventory tracking system that allows for the prompt transfer of parts inventory among various Rush Truck Centers. The transfer of inventory reduces delays in delivery, helps maximize inventory turns and assists in controlling problems created by overstock and understock situations. Our network is linked to our major suppliers for purposes of ordering parts and managing parts inventory levels. Automated reordering and communication systems allow us to maintain proper parts inventory levels and permit us to have parts inventory delivered to our locations, or directly to customers, typically within 24 hours of an order being placed.
+ 
+Recent Acquisitions
+ 
+On May 27, 2016, we acquired certain assets of Transwest Truck Center Las Vegas, LLC, which included a Ford truck franchise in Las Vegas, Nevada. The transaction was valued at approximately $0.8 million, with the purchase price paid in cash.
+ 
+On September 28, 2015, in connection with the divestiture of our Peterbilt dealership in Charlotte, North Carolina, we acquired certain assets of Peterbilt of Las Vegas, Inc., which operated a commercial vehicle dealership in Las Vegas, Nevada.  This location is operating as a Rush Truck Center and is a full-service Peterbilt dealership. The acquisition also included a PacLease commercial vehicle rental and leasing business.  The dealership swap was a like-kind exchange for tax purposes and enabled us to be consistent with our preferred strategy of not having dealerships representing multiple Class 8 manufacturers in the same market, as we continue to operate a facility representing International, Hino and Isuzu trucks in Charlotte. The sale price for the assets in Charlotte, North Carolina was approximately $6.4 million, which was offset by floor plan and accounts payable of $5.9 million. The purchase price for the assets in Las Vegas, Nevada was approximately $3.4 million, which was paid in cash.
+ 
+On July 27, 2015, we acquired certain assets of Dallas Truck Center, Inc., which included real estate and used truck inventory, in Dallas, Texas. We are now operating this facility as Rig Tough Used Trucks, Dallas, a dedicated, non-franchised used commercial vehicle sales facility. The transaction was valued at approximately $3.3 million, with the purchase price paid in cash.
+ 
+On May 4, 2015, we acquired certain assets of Yancey Truck Centers, LLC, which operated commercial vehicle dealerships in Albany, Blackshear, Tifton, Valdosta, Augusta, Columbus and Macon, Georgia.  Certain of these locations are operating as Rush Truck Centers and offer commercial vehicle sales, parts and service for International trucks.  The acquisition also included an Idealease commercial vehicle rental and leasing business. The purchase price for the assets, goodwill, franchise rights and dealership properties was approximately $30.1 million, which was paid in cash and a portion financed under our floor plan arrangement. 
+ 
+ 
+10
+
+
+
+On February 9, 2015, we acquired certain assets of Effingham Truck Sales, Inc. The acquisition included International commercial truck dealerships and an Idealease commercial vehicle rental and leasing business in Effingham and Mount Vernon, Illinois. The purchase price for the assets, goodwill, and dealership properties was approximately $25.3 million, which was paid in cash. 
+ 
+See Note 15 of the Notes to Consolidated Financial Statements for a detailed discussion of the allocation of the purchase price of these acquisitions.
+ 
+Competition
+ 
+There is, and will continue to be, significant competition both within our current markets and in new markets we may enter. We anticipate that competition between us and other dealership groups will continue to increase in our current markets and on a national level based on the following:
+
+● | the ability to keep customers’ vehicles operational, which is dependent on the accessibility of dealership locations; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | the number of dealership locations representing the manufacturers that we represent and other manufacturers, which impacts manufacturers’ ability to provide more consistent, higher quality service in a timely manner across their dealership networks;
+● | price, value, quality and design of the products sold; and 
+● | attention to customer service (including technical service). 
+
+ 
+Our dealerships compete with dealerships representing other manufacturers including commercial vehicles manufactured by Mack, Freightliner, Kenworth, Volvo, and Western Star. We believe that our dealerships are able to compete with manufacturer-owned dealers, other franchised dealership groups, independent service centers, parts wholesalers, commercial vehicle wholesalers, rental service companies and industrial auctioneers in distributing our products and providing service because of the following: the overall quality and reputation of the products we sell; the “Rush” brand name recognition and reputation for quality service; the geographic scope of our dealership network; the breadth of vehicles offered in our dealership network; and our ability to provide comprehensive parts and service support, as well as financing, insurance and other customer services.
+ 
+Dealership Agreements
+ 
+Peterbilt. We have entered into nonexclusive dealership agreements with Peterbilt that authorize us to act as a dealer of Peterbilt heavy- and medium-duty trucks. Our Peterbilt areas of responsibility currently encompass areas in the states of Alabama, Arizona, California, Colorado, Florida, Kentucky, New Mexico, Nevada, Oklahoma, Tennessee and Texas. These dealership agreements currently have terms expiring between May 2017 and March 2019 and impose certain operational obligations and financial requirements upon us and our dealerships. Our dealership agreements with Peterbilt may be terminated by Peterbilt in the event that the aggregate voting power of W. Marvin Rush, W.M. “Rusty” Rush, other members of the Rush family and certain executives of the Company decreases below 22%. Sales of new Peterbilt commercial vehicles accounted for approximately 34.0% of our total revenues for 2016.
+ 
+International. We have entered into nonexclusive dealership agreements with Navistar that authorize us to act as a dealer of International heavy- and medium-duty trucks and IC buses. Our Navistar areas of responsibility currently encompass areas in the states of Georgia, Idaho, Illinois, Indiana, Missouri, North Carolina, Ohio, Utah and Virginia. These dealership agreements currently have terms expiring between December 2017 and March 2021 and impose certain operational obligations and financial requirements upon us and our dealerships. Sales of new International commercial vehicles accounted for approximately 10.9% of our total revenues for 2016.
+ 
+Other Commercial Vehicle Suppliers. In addition to our dealership agreements with Peterbilt and Navistar, various Rush Truck Centers have entered into dealership agreements with other commercial vehicle manufacturers, including Blue Bird, Micro Bird and Mitsubishi Fuso, which currently have terms expiring between July 2017 and November 2018 and Ford, Hino and Isuzu, which have indefinite terms. These dealership agreements impose operating requirements upon us and require consent from the affected supplier for the sale or transfer of such dealership agreement. Sales of new non-Peterbilt and non-International commercial vehicles accounted for approximately 10.8% of our total revenues for 2016. 
+ 
+ 
+11
+
+
+
+Any termination or non-renewal of our dealership agreements must follow certain guidelines established by both state and federal legislation designed to protect motor vehicle dealers from arbitrary termination or non-renewal of franchise agreements. The federal Automobile Dealers Day in Court Act and other similar state laws generally provide that the termination or non-renewal of a motor vehicle dealership agreement must be done in “good faith” and upon a showing of “good cause” by the manufacturer for such termination or non-renewal, as such terms have been defined by statute and interpreted in case law. 
+ 
+Floor Plan Financing
+ 
+During 2016, we financed the majority of all new commercial vehicle inventory purchases and the loan value of our used commercial vehicle inventory under a credit agreement (the “Floor Plan Credit Agreement”) with BMO Harris Bank N.A. that was amended and restated on July 7, 2016. The Floor Plan Credit Agreement includes an aggregate loan commitment of $875.0 million. Borrowings under the Floor Plan Credit Agreement bear interest at an annual rate equal to (A) the greater of (i) zero and (ii) three month LIBOR rate, determined on the last day of the prior month, plus (B) 1.51% and are payable monthly. In addition, we are required to pay a monthly working capital fee equal to 0.16% per annum multiplied by the amount of voluntary prepayments of new and used inventory loans. Loans under the Floor Plan Credit Agreement for the purchase of used inventory are limited to $150.0 million. We may terminate the Floor Plan Credit Agreement at any time, although if we do so we must pay a prepayment processing fee equal to: (i) 2.0% of the aggregate revolving loan commitments if such termination occurs on or before January 1, 2018; (ii) 1.0% of the aggregate revolving loan commitments if such termination occurs after January 1, 2018 and on or prior to July 1, 2018; and (iii) $500,000 if such termination occurs after July 1, 2018 and prior to June 30, 2019, subject to specified limited exceptions. On December 31, 2016, we had approximately $548.1 million outstanding under the Floor Plan Credit Agreement. The average daily outstanding borrowings under the Floor Plan Credit Agreement were $632.8 million during the twelve months ended December 31, 2016. Periodically, we utilize our excess cash on hand to pay down our outstanding borrowings under the Floor Plan Credit Agreement, and the resulting interest earned is recognized as an offset to our gross interest expense under the Floor Plan Credit Agreement.
+ 
+In June 2012, we entered into a wholesale financing agreement with Ford Motor Credit Company that provides for the financing of, and is collateralized by, our Ford new vehicle inventory. This wholesale financing agreement bears interest at a rate of Prime plus 150 basis points minus certain incentives and rebates; however, the prime rate is defined to be a minimum of 3.75%. As of December 31, 2016, the interest rate on the wholesale financing agreement was 5.25% before considering the applicable incentives. As of December 31, 2016, we had an outstanding balance of approximately $66.4 million under the Ford Motor Credit Company wholesale financing agreement.
+ 
+Product Warranties
+ 
+The manufacturers we represent provide retail purchasers of their products with a limited warranty against defects in materials and workmanship, excluding certain specified components that are separately warranted by the suppliers of such components. We provide a warranty on our proprietary line of parts and related service. We also provide an extended warranty beyond the manufacturer’s warranty on new school buses sold in the State of Texas, as required by state law. 
+ 
+We generally sell used commercial vehicles in “as is” condition without a manufacturer’s warranty, although manufacturers sometimes will provide a limited warranty on their used products if such products have been properly reconditioned prior to resale or if the manufacturer’s warranty on such product is transferable and has not expired. We do not provide any warranty on used commercial vehicles.
+ 
+Trademarks
+ 
+The trademarks and trade names of the manufacturers we represent, which are used in connection with our marketing and sales efforts, are subject to limited licenses included in our dealership agreements with each manufacturer. The licenses are for the same periods as our dealership agreements. These trademarks and trade names are widely recognized and are important in the marketing of our products. Each licensor engages in a continuous program of trademark and trade name protection. We hold registered trademarks from the U.S. Patent and Trademark Office for the following names used in this document: “Rush Enterprises,” “Rush Truck Center,” “Chrome Country,” “Rig Tough,” “CVS Custom Vehicle Solutions” and “Momentum Fuel Technologies.”
+ 
+ 
+12
+
+
+
+Employees
+ 
+On December 31, 2016, we had 6,180 employees.  
+ 
+We have entered into collective bargaining agreements covering certain employees in Chicago, Illinois, which will expire on May 6, 2017, Joliet, Illinois, which will expire on May 5, 2018 and Carol Stream, Illinois, which will expire on May 4, 2019.  
+ 
+There have been no strikes, work stoppages or slowdowns during the negotiations of the foregoing collective bargaining agreements or at any time in the Company’s history, although no assurances can be given that such actions will not occur.
+ 
+Seasonality
+ 
+Our Truck Segment is moderately seasonal. Seasonal effects on new commercial vehicle sales related to the seasonal purchasing patterns of any single customer type are mitigated by the diverse geographic locations of our dealerships and our diverse customer base, including regional and national fleets, local and state governments, corporations and owner-operators. However, commercial vehicle parts and service operations historically have experienced higher sales volumes in the second and third quarters. 
+Backlog
+ 
+On December 31, 2016, our backlog of commercial vehicle orders was approximately $830.3 million, compared to a backlog of commercial vehicle orders of approximately $1,223.9 million on December 31, 2015. Our backlog is determined quarterly by multiplying the number of new commercial vehicles for each particular type of commercial vehicle ordered by a customer at our Rush Truck Centers by the recent average selling price for that type of commercial vehicle. We include only confirmed orders in our backlog. However, such orders are subject to cancellation. In the event of order cancellation, we have no contractual right to the total revenues reflected in our backlog. The delivery time for a custom-ordered commercial vehicle varies depending on the truck specifications and demand for the particular model ordered. We sell the majority of our new heavy-duty commercial vehicles by customer special order and we sell the majority of our medium- and light-duty commercial vehicles out of inventory. Orders from a number of our major fleet customers are included in our backlog as of December 31, 2016, and we expect to fill the majority of our backlog orders during 2017.
+Environmental Standards and Other Governmental Regulations
+ 
+We are subject to a wide range of federal, state and local environmental laws and regulations, including those governing discharges into the air and water; the operation and removal of underground and aboveground storage tanks; the use, handling, storage and disposal of hazardous substances, petroleum and other materials; and the investigation and remediation of environmental impacts. As with commercial vehicle dealerships generally, and Aftermarket Services operations in particular, our business involves the generation, use, storage, handling and contracting for recycling or disposal of hazardous materials or wastes and other environmentally sensitive materials. We have incurred, and will continue to incur, capital and operating expenditures and other costs in complying with such laws and regulations.
+ 
+Our operations involving the use, handling, storage and disposal of hazardous and nonhazardous materials are subject to the requirements of the federal Resource Conservation and Recovery Act, or RCRA, and comparable state statutes. Pursuant to these laws, federal and state environmental agencies have established approved methods for handling, storage, treatment, transportation and disposal of regulated substances and wastes with which we must comply. Our business also involves the operation and use of aboveground and underground storage tanks. These storage tanks are subject to periodic testing, containment, upgrading and removal under RCRA and comparable state statutes. Furthermore, investigation or remediation may be necessary in the event of leaks or other discharges from current or former underground or aboveground storage tanks.
+ 
+ 
+13
+
+
+
+We may also have liability in connection with materials that were sent to third-party recycling, treatment, or disposal facilities under the federal Comprehensive Environmental Response, Compensation and Liability Act, or CERCLA, and comparable state statutes. These statutes impose liability for investigation and remediation of environmental impacts without regard to fault or the legality of the conduct that contributed to the impacts. Responsible parties under these statutes may include the owner or operator of the site where impacts occurred and companies that disposed or arranged for the disposal of the hazardous substances released at these sites. These responsible parties also may be liable for damages to natural resources. In addition, it is not uncommon for neighboring landowners and other third parties to file claims for personal injury and property damage allegedly caused by the release of hazardous substances or other materials into the environment.
+ 
+The federal Clean Water Act and comparable state statutes prohibit discharges into regulated waters without the necessary permits, require containment of potential discharges of oil or hazardous substances, and require preparation of spill contingency plans. Water quality protection programs govern certain discharges from some of our operations. Similarly, the federal Clean Air Act and comparable state statutes regulate emissions of various air emissions through permitting programs and the imposition of standards and other requirements. 
+ 
+The Environmental Protection Agency (“EPA”) and the National Highway Traffic Safety Administration (“NHTSA”), on behalf of the U.S. Department of Transportation, issued final rules on September 15, 2011 associated with reducing greenhouse gas (“GHG”) emissions and improving the fuel efficiency of medium and heavy-duty trucks and buses beginning in model year 2014 and being phased in through model year 2018.  On June 19, 2015, the EPA and NHTSA proposed further GHG and fuel efficiency standards that would apply to medium and heavy-duty vehicles and buses and would be phased in between model years 2021 through 2027.  On August 16, 2016, the EPA and NHTSA issued final rules that largely adopted their June 19, 2015 proposal. We do not believe that the foregoing adopted standards will negatively impact our business, however, future legislation or other new regulations that may be adopted to address GHG emissions or fuel efficiency standards may negatively impact our business.  Additional regulations could result in increased compliance costs, additional operating restrictions or changes in demand for our products and services, which could have a material adverse effect on our business, financial condition and results of operations.
+ 
+We believe that we do not currently have any material environmental liabilities and that compliance with environmental laws and regulations will not, individually or in the aggregate, have a material adverse effect on our results of operations, financial condition or cash flows. However, soil and groundwater impacts are known to exist at some of our current properties. Further, environmental laws and regulations are complex and subject to change. In addition, in connection with acquisitions, it is possible that we will assume or become subject to new or unforeseen environmental costs or liabilities, some of which may be material. In connection with our dispositions, or prior dispositions made by companies we acquire, we may retain exposure for environmental costs and liabilities, some of which may be material. Compliance with current or amended, or new or more stringent, laws or regulations, stricter interpretations of existing laws or the future discovery of environmental conditions could require additional expenditures by us, and those expenditures could be material.
+ 

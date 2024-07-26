@@ -1,0 +1,1178 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+ References to “Cytori,” “we,” “us” and “our” refer to Cytori Therapeutics, Inc. and its consolidated subsidiaries. References to “Notes” refer to the Notes to Consolidated Financial Statements included herein (refer to Item 8).
+ CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+ This report contains certain statements that may be deemed “forward-looking statements” within the meaning of U.S. securities laws.  All statements, other than statements of historical fact, that address activities, events or developments that we intend, expect, project, believe or anticipate and similar expressions or future conditional verbs such as will, should, would, could or may occur in the future are forward-looking statements. Such statements are based upon certain assumptions and assessments made by our management in light of their experience and their perception of historical trends, current conditions, expected future developments and other factors they believe to be appropriate.
+ These statements include, without limitation, statements about our anticipated expenditures, including research and development, sales and marketing, and general and administrative expenses; the potential size of the market for our products; future  development and/or expansion of our products and therapies in our markets, our ability to generate  product or development revenues and the sources of such revenues; our ability to effectively manage our gross profit margins; our ability to obtain regulatory approvals; expectations as to our future performance; portions of the “Liquidity and Capital Resources” section of this report, including our potential need for additional financing and the availability thereof; and the potential enhancement of our cash position through development, marketing, and licensing arrangements.   Our actual results will likely differ, perhaps materially, from those anticipated in these forward-looking statements as a result of various factors, including: the early stage of our product candidates and therapies, the results of our research and development activities, including uncertainties relating to the clinical trials of our product candidates and therapies; our need and ability to raise additional cash; the outcome of our partnering/licensing efforts; our joint ventures, risks associated with laws or regulatory requirements applicable to us, market conditions, product performance, potential litigation, and competition within the regenerative medicine field, to name a few. The forward-looking statements included in this report are subject to a number of additional material risks and uncertainties, including but not limited to the risks described under the “Risk Factors” in Item 1A of Part I above, which we encourage you to read carefully
+  We encourage you to read the risks described under “Risk Factors” carefully.  We caution you not to place undue reliance on the forward-looking statements contained in this report.  These statements, like all statements in this report, speak only as of the date of this report (unless an earlier date is indicated) and we undertake no obligation to update or revise the statements except as required by law.  Such forward-looking statements are not guarantees of future performance and actual results will likely differ, perhaps materially, from those suggested by such forward-looking statements.
+ This Annual report on Form 10-K refers to trademarks such as Cytori Cell Therapy, Habeo Cell Therapy, Celution, Celase, Intravase, Puregraft and StemSource. Solely for convenience, our trademarks and tradenames referred to in this Form 10-K may appear without the ® or ™ symbols, but such references are not intended to indicate in any way that we will not assert, to the fullest extent under applicable law, our rights to these trademarks and tradenames.
+ General
+ Our strategy is to build a profitable and growing specialty therapeutics company focused on rare and niche opportunities frequently overlooked by larger companies but requiring breadth of scope, expertise and focus often not possessed by or available to smaller companies.  To meet this objective, we have, thus far, identified two therapeutic development platforms, discussed below, and candidate therapeutics in our pipeline that hold promise for millions of patients and significant market potential. Our current corporate activities fall substantially into one of two key areas related to our two therapeutic development platforms: Cytori Cell TherapyTM and Cytori NanomedicineTM.  
+ Our Cytori Cell Therapy, or CCT, platform, is based on the scientific discovery that the human adipose or fat tissue compartment is a source of a unique mixed population of stem, progenitor and regenerative cells that may hold substantial promise in the treatment of numerous diseases.  To bring this promise to patients, we are developing the processes and procedures via proprietary hardware- and software-based devices and single-use reagents and consumable sets, to enable doctors to have access to a variety of therapies at the bedside derived fundamentally from each patient’s own adipose tissue. Our lead product candidate is for the treatment of impaired hand function in scleroderma, and we have recently completed a U.S. pivotal clinical trial for this indication using our HabeoTM Cell Therapy product. We have additional CCT treatments in various stages of development.  Further, our CCT platform is the subject of investigator-initiated trials conducted by our partners, licensees and other third parties, some of which are supported by us and/or 
+ 3
+
+
+funded by government agencies and other funding sources.  Currently, we internally manufacture or source our CCT-related products from third parties. We also have obtained regulatory approval to sell some of our CCT products, including our Celution devices and consumable kits, in certain markets outside the United States. In those markets, we have been able to further develop and improve our core technologies, gain expanded clinical experience and data and generate sales.
+ Our Cytori Nanomedicine platform features a versatile and novel protein-stabilized liposomal nanoparticle technology for drug encapsulation that has thus far provided the foundation to bring two promising drugs into early/late stage clinical trials.  By encapsulating certain drugs, we can create both novel compounds and improve the performance via reformulated versions of existing drugs.  Nanoparticle encapsulation is promising because it can help improve the trafficking and metabolism of many drugs, thus potentially enhancing the therapeutic profile and patient benefits.  Our lead drug candidate, ATI-0918 is a generic version of liposomal encapsulated doxorubicin. Liposomal encapsulated doxorubicin is a heavily relied upon chemotherapeutic used in many cancer types on a global basis.  We believe that data from a 60-patient European study of ATI-0918 has met the statistical criteria for bioequivalence to Caelyx®, the current reference listed drug in Europe.  We intend that these bioequivalence data will serve as a basis for our planned regulatory submission to the European Medicines Agency, or EMA, for ATI-0918.  Our second nanomedicine drug candidate is ATI-1123, a new chemical entity which is a nanoparticle-encapsulated form of docetaxel, also a standard chemotherapeutic drug used for many cancers.  A phase I clinical trial of ATI-1123 has been completed, and we are investigating possible expansion of this trial to phase II, most likely in conjunction with a development partner.  In addition, we are early in the long-term research and development of encapsulated regenerative medicine drugs, focused first on the treatment of scleroderma and related connective disorders.  Finally, in connection with our acquisition of the ATI-0918 and ATI-1123 drug candidates, we have acquired know-how (including proprietary processes and techniques) and a scalable nanoparticle manufacturing plant in San Antonio, Texas from which we intend to test, validate and eventually  manufacture commercial quantities of our nanoparticle drugs. 
+ Development Pipeline
+
+Cytori Cell Therapy
+ Our primary near-term goal is for Cytori Cell Therapy to be the first cell therapy to market for the treatment of impaired hand function in scleroderma, through Cytori-sponsored and supported clinical development efforts. The Cytori-sponsored Scleroderma Treatment with Celution Processed Adipose Derived Regenerative Cells, or STAR clinical trial, is a randomized, double-blind, placebo-controlled, Phase III pivotal clinical trial in the U.S. The purpose of the STAR trial is to evaluate the safety and efficacy of a single 
+ 4
+
+
+administration of Habeo™ Cell Therapy (formerly named ECCS-50) in patients with scleroderma affecting the hands and fingers. We initiated the first sites for our STAR trial in July 2015 and we completed final enrollment of 88 patients in June 2016. We anticipate obtaining 48-week follow-up data in mid-2017. Once the study is unblinded and data are available, subjects randomized to the placebo arm will be given the option of being treated within a crossover arm of the study.
+ With respect to the remainder of our current cellular therapeutics clinical pipeline: 
+  
+• | We completed our Phase II Celution Prepared Adipose Derived Regenerative Cells in the Treatment of OsteoArthritis of the Knee, or ACT-OA clinical trial, in June 2015. The 48-week analysis was performed as planned and the top-line data are described in the “Osteoarthritis” section below.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In July 2015, a Japanese investigator-initiated study in men with stress urinary incontinence, or SUI, following prostatic surgery for prostate cancer or benign prostatic hypertrophy, called ADRESU, received approval to begin enrollment from the Japanese Ministry of Health, Labor and Welfare, or MHLW. In December 2016, we announced that the ADRESU trial had reached 50% enrollment. The Japan Agency for Medical Research and Development, or AMED, has provided partial funding for the ADRESU trial.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We are developing a treatment for thermal burns under a contract from the Biomedical Advanced Research Development Authority, or BARDA, a division of the U.S. Department of Health and Human Services. We submitted an Investigational Device Exemption, or IDE, application to the U.S. Food and Drug Administration, or FDA, in the fourth quarter of 2016 for a pilot clinical study in thermal burn, and we expect FDA’s final determination by mid-2017. If we receive FDA’s approval of the IDE, we will then seek approval of the pilot clinical study from BARDA as study sponsor.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We recently announced our intent to initiate clinical trials in secondary Raynaud’s Phenomenon, or SRP. This decision was based upon the encouraging Raynaud’s Condition Score data from the investigator-initiated, Phase I, open-label, 12-patient SCLERADEC I clinical trial assessing use of Cytori Cell Therapy in patients with impaired hand function due to systemic scleroderma. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In addition to our targeted therapeutic development, we have continued to commercialize our Cytori Cell Therapy technology under select medical device approvals, clearances and registrations to customers in Europe, Japan and other regions. These customers are a mix of research customers evaluating new therapeutic applications of Cytori Cell Therapy and commercial customers, including our licensing partners, distributors, and end user hospitals, clinics and physicians, that use our Celution cell processing system (as further described in “Sales, Marketing and Service” below) mostly for treatment of patients in private pay procedures. In Japan, our largest commercial market, we gained increased utilization of our products in the private pay marketplace in 2016 due to several factors, including increased clarity around the November 2014 Regenerative Medicine Law (implemented in November 2015 as it relates to regenerative medicine products like Cytori Cell Therapy) and we project that our sales and market presence in Japan will continue to grow in 2017.  The sale of Celution systems, consumables and ancillary products contribute a margin that partially offsets our operating expenses and will continue to play a role in fostering familiarity within the medical community with our technology.
+ 
+ Habeo Cell Therapy for Impaired Hand Function in Scleroderma and Secondary Raynaud’s Phenomenon
+ Scleroderma is a rare and chronic autoimmune disorder associated with fibrosis of the skin, and destructive changes in blood vessels and multiple organ systems as the result of a generalized overproduction of collagen. Scleroderma affects approximately 50,000 patients in the United States (women are affected four times more frequently than men) and is typically detected between the ages of 30 and 50. More than 90 percent of scleroderma patients have hand involvement that is typically progressive and can result in chronic pain, blood flow changes and severe dysfunction. A small number of treatments are occasionally used off-label for hand scleroderma but and they do little to modify disease progression or substantially improve symptoms. Treatment options are directed at protecting the hands from injury and detrimental environmental conditions as well as the use of vasodilators. When the disease is advanced, immunosuppressive and other medications may be used but are often accompanied by side effects.
+ The STAR trial is a 48-week, 19 site, randomized, double blind, placebo-controlled pivotal clinical trial of 88 patients in the U.S. for the treatment of impaired hand function in scleroderma. The trial evaluates the safety and efficacy of a single administration of Habeo Cell Therapy in patients with scleroderma affecting the hands and fingers. The STAR trial uses the Cochin Hand Function Scale, or CHFS, a validated measure of hand function, as the primary endpoint measured at 24 weeks and 48 weeks (approximately 6 and 12 months) after a single administration of Habeo Cell Therapy or placebo. Pending the 48 week results, patients in the placebo group will be eligible for crossover to the active arm of the trial after all patients have completed 48 weeks of follow-up. We anticipate study results in mid-2017. The STAR trial is predicated on a completed, investigator-initiated, 12-patient, open-label, Phase I pilot trial, termed SCLERADEC I, sponsored by Assistance Publique-Hôpitaux de Marseille, or AP-HM, in Marseille, France. The SCLERADEC I trial received partial support from Cytori. The six-month results were published in the Annals of the Rheumatic Diseases in May 2014 and demonstrated approximately a 50 percent improvement at six months across four important and validated 
+ 5
+
+
+endpoints used to assess the clinical status in patients with scleroderma with impaired hand function. Two-year follow up data in the SCLERADEC I trial was presented at the Systemic Sclerosis World Congress in February 2016 and published in the journal Current Research in Translational Medicine in November 2016 and demonstrated sustained improvement in the following four key endpoints: CHFS, SHAQ, RCS, and hand pain, as assessed by a standard visual analogue scale. 
+ Further, on December 5, 2016, we released topline results for three-year follow-up data showing sustained benefits materially consistent with those shown in two-year data.
+ In 2014, Drs. Guy Magalon and Brigitte Granel, under the sponsorship of AP-HM, submitted a study for review for a follow-up randomized, double-blind, placebo-controlled trial in France using Cytori Cell Therapy, to be supported by us. The trial, named SCLERADEC II, received approval from the French government in April 2015. Enrollment of this trial commenced in October 2015 and is ongoing.  Enrollment is expected to be completed in 2017, approximately one year later than originally projected, due to delays in French regulatory approvals of participating sites.  Patients will be followed at six-month post-treatment and compared with placebo treated patients. Pending the six-month results patients in the placebo group will be eligible for crossover using Habeo cells stored at the time of the initial procedure. This crossover arm will open after all patients have completed six-month follow up. We anticipate study results in 2018, however, the trial timeline is controlled in full by the sponsoring institution.
+ In November 2016, the US FDA Office of Orphan Products Development granted Cytori an orphan drug designation for cryopreserved or centrally processed ECCS-50 (Habeo) for scleroderma.
+ In January 2017, we announced our intention to broaden our investigation of Habeo Cell Therapy beyond systemic scleroderma to include secondary Raynaud’s Phenomenon, or SRP.   This expansion of Cytori’s research and development efforts is based upon: (i) the 36-month follow-up data from the SCLERADEC I trial, which reported a 90 percent reduction in the Raynaud’s Condition Score, which assesses the frequency and severity of Raynaud’s attacks experienced by patients with Raynaud’s Phenomenon, or RP; (ii) earlier limited published data reporting an association between use of Habeo Cell Therapy and improvement in vascular architecture, hand color, and other direct and indirect indicators of vascular function, and (iii) our internal preclinical data regarding the potential role of Habeo Cell Therapy in the stabilization of the vascular endothelium, an important contributor to the vascular dysfunction found in patients with RP. SRP is a problem that affects millions of patients worldwide.
+ Osteoarthritis
+ Osteoarthritis is a disease of the entire joint involving the cartilage, joint lining, ligaments and underlying bone. The breakdown of tissue leads to pain, joint stiffness and reduced function. It is the most common form of arthritis and affects an estimated 13.9% of US adults over the age of 25, and 33.6% of U.S. adults over the age of 65. Current treatments include physical therapy, non-steroidal anti-inflammatory medications, viscosupplement injections, and total knee replacement. A substantial medical need exists as present medications have limited efficacy and joint replacement is a relatively definitive treatment for those with the most advanced disease.
+ ACT-OA, was a 94-patient, randomized, double-blind, placebo controlled study involving two doses of Cytori Cell Therapy, a low dose and a high dose, and was conducted over 48 weeks. The randomization was 1:1:1 between the control, low and high dose groups. The trial was completed in June 2015. The goal of this proof-of-concept trial was to help determine: (1) safety and feasibility of the ECCO-50 therapeutic for osteoarthritis, (2) provide dosing guidance and (3) explore key trial endpoints useful for a Phase III trial.
+ We completed top-line analysis of the final 48-week data in July 2016.  A total of 94 patients were randomized (33 placebo, 30 low dose ECCO-50, 31 high dose ECCO-50). In general, a clear difference between low and high dose ECCO-50 was not observed and therefore the data for both groups have been combined.  We evaluated numerous endpoints that can be summarized as follows:
+  
+• | Intraarticular application of a single dose of ECCO-50 is feasible in an outpatient day-surgery setting; no serious adverse events were reported related to the fat harvest, cell injection or to the cell therapy.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Consistent trends were observed in most secondary endpoints at 12, 24 and 48 weeks in the target knee of the treated group relative to placebo control group; 12-week primary endpoint of single pain on walking question did not achieve statistical significance.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Consistent trends were observed in all six pre-specified MRI Osteoarthritis Knee Score (MOAKS) classification scores suggesting a lower degree of target knee joint pathological worsening at 48 weeks for the treated group relative to placebo control group. The differences against placebo favored ADRCs specifically in the number of bone marrow lesions, the percentage of the bone marrow lesion that is not a cyst, the size of the bone marrow lesions as a percentage of the total sub-region volume, percentage of full thickness cartilage loss, cartilage loss as a percentage of cartilage surface area and the size of the largest osteophyte.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 6
+
+
+In summary, the ACT-OA Phase II trial demonstrated feasibility of same day fat harvesting, cell processing and intraarticular administration of autologous ADRCs (ECCO-50) with a potential for a beneficial effect of ECCO-50. The accumulated data and experienced gained will be critical in considering designs of further clinical trials in osteoarthritis and other potential indications.  In addition, we are actively pursuing partnering and commercialization opportunities for ECCO-50 to further develop our knee osteoarthritis program and also to support our growing commercial sales into the knee osteoarthritis market in Japan.  
+ Stress Urinary Incontinence
+ Another therapeutic target under evaluation by Cytori in combination with the University of Nagoya and the Japanese MHLW is stress urinary incontinence in men following surgical removal of the prostate gland, which is based on positive data reported in a peer reviewed journal resulting from the use of ADRCs prepared by our Celution System. The ADRESU trial is a 45 patient, investigator-initiated, open-label, multi-center, single arm trial that was approved by the Japanese MHLW in July 2015 and is being led by both Momokazu Gotoh, MD, Ph.D., Professor and Chairman of the Department of Urology and Tokunori Yamamoto, MD, Ph.D., Associate Professor Department of Urology at University of Nagoya Graduate School of Medicine. Trial enrollment began in September 2015, and in December 2016, the trial achieved 50% enrollment.  This clinical trial is primarily sponsored and funded by the Japanese government, including a grant provided by AMED.
+Cutaneous and Soft Tissue Thermal and Radiation Injuries
+ We are also developing Cytori Cell Therapy, or DCCT-10, for the treatment of thermal burns. In the third quarter of 2012, we were awarded a contract by BARDA valued at up to $106 million to develop a medical countermeasure for thermal burns. The total award under the BARDA contract has been intended to support all clinical, preclinical, regulatory and technology development activities needed to complete the FDA approval process for use of DCCT-10 in thermal burn injury under a device-based PMA regulatory pathway and to provide preclinical data in burn complicated by radiation exposure. 
+ Pursuant to this contract, BARDA initially awarded us approximately $4.7 million over the initial two-year base period to fund preclinical research and continued development of our Celution System to improve cell processing. In August 2014, BARDA determined that Cytori had completed the objectives of the initial phase of the contract, and exercised its first contract option in the amount of approximately $12 million. In December 2014 and September 2016, BARDA exercised additional contract options pursuant to which it provided us with $2.0 million and $2.5 million in supplemental funds, respectively. These additional funds supported continuation of our research, regulatory, clinical and other activities required for submission of an IDE request to the FDA for RELIEF, a pilot clinical trial using DCCT-10 for the treatment of thermal burns.  We submitted our IDE application to the FDA in the fourth quarter of 2016. Upon receipt of IDE approval, if granted, we anticipate that BARDA will provide funding to cover costs associated with execution of the clinical trial and related activities.
+ The latest BARDA contract modification, entered into in September 2016, is scheduled to terminate in April 2017, but is subject to a no-cost extension at our request and subject to BARDA’s approval.  We are in active negotiations with BARDA regarding entry into a new contract or contract option, which, if executed, would provide funding for the proposed RELIEF pilot trial and related costs and expenses. 
+ Other recent developments for Cytori Cell Therapy 
+  
+• | In April 2016, the European Commission, acting on the positive recommendation from the European Medicines Agency Committee for Orphan Medicinal Products, issued orphan drug designation to a broad range of Cytori Cell Therapy formulations when used for the treatment of systemic sclerosis under Community Register of Orphan Medicinal Products number EU/3/16/1643.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In February 2017, the U.S. FDA Division of Industry and Consumer Education, or DICE, granted us Small Business status for fiscal year 2017, thus entitling us to receive significant financial incentives, fee reductions, and fee waivers for selective FDA medical device regulatory filings. We anticipate that this grant of small business status will substantially reduce filing fees in 2017 for our planned pre-market authorization, or PMA, application for Habeo Cell Therapy, should the STAR Phase III data support filing of this application.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cytori Nanomedicine
+ In February 2017, we completed our acquisition of substantially all of the assets of Azaya Therapeutics, Inc., or Azaya, pursuant to the terms of an Asset Purchase Agreement, dated January 26, 2017 by and between us and Azaya.  Pursuant to the terms of the agreement, we acquired equipment, inventory, certain intellectual property including, a portfolio of investigational therapies and related assets, and assumed certain liabilities, from Azaya in exchange for the issuance of $2.0 million of shares of our common stock, assumption of 
+ 7
+
+
+approximately $1.9 million in Azaya’s trade payables and related charges, and the obligation to pay Azaya future milestones, earn-outs and licensing fees. The acquisition of Azaya brought two additional product candidates, ATI-0918 and ATI-1123, into the Cytori pipeline and we intend to develop and potentially commercialize both compounds.
+ 
+ATI-0918 is a complex generic formulation of the market leading Doxil®/Caelyx®, which is a liposomal encapsulation of doxorubicin and approved for use in breast cancer, ovarian cancer, multiple myeloma, and Kaposi’s Sarcoma. The current approval pathway for ATI-0918 is to demonstrate bioequivalence to Caelyx® for approval in the EU and to Lipodox® in the U.S. A study to demonstrate ATI-0918’s bioequivalence to Caelyx®, for purposes of EMA approval, has been completed and we intend for these data to serve as the basis for our submission of a marketing authorization application for ATI-0918 to the EMA. We are also making plans to perform a bioequivalence study of ATI-0918 to the U.S. reference listed drug to serve as the basis for submission of an application for U.S. FDA approval. We currently anticipate that any U.S. bioequivalence trial for ATI-0918 would be funded by a development partner or licensee.
+ ATI-1123 is a liposomal formulation of docetaxel.  Docetaxel is currently approved for non-small cell lung cancer, breast cancer, squamous cell carcinoma of the head and neck cancer, gastric adenocarcinoma, and hormone refractory prostate cancer.  Its side effects include hair loss, bone marrow suppression, and allergic reactions. It is currently available as a generic drug. There is no form of docetaxel as a liposomal formulation. There is a protein (albumin) bound form of a similar chemotherapeutic drug, paclitaxel known as Abraxane®, which demonstrated some clinical advantages to paclitaxel. ATI-1123 has shown superiority to docetaxel in several animal models including some tumor types not amenable to treatment by docetaxel. A Phase I study of ATI-1123 has been completed in late stage refractory patients and has shown some activity in several tumor types (mostly stable disease). We are currently evaluating clinical scenarios to bring into Phase II studies in several indications.
+  Sales, Marketing and Service
+ Cytori Cell TherapyTM
+ 
+We sell Celution cell processing systems, or Celution Systems, StemSource cell and tissue banking systems, or StemSource Systems, and surgical accessories and instrumentation to hospitals, clinics, physicians, researchers and other customers for commercial and research purposes, including performance of investigator-initiated studies. Our proprietary enzymatic reagents, which we market and sell under the brand names Celase® and Intravase®, are sold as part of our Celution Systems and StemSource Systems (with respect to Celase), or under certain circumstances, are sold separately. 
+ 
+We sell our Celution and StemSource Systems through a combination of a direct sales force, third-party distributors, independent sales representatives, and licensees.  Our strategy is to grow and leverage our installed base of Celution and StemSource devices at cell processing facilities, clinics, hospitals and research labs to drive recurring sales of our proprietary disposables.  To increase product familiarity and usage among current customers, we launch product enhancements, expand the approved indications for use, perform clinical and technical training, provide on-site case support, and facilitate facility-level licensing with regional and/or national regulatory bodies.
+ 
+In Japan, we sell our products through our wholly owned subsidiary, Cytori Therapeutics, K.K., which has a direct sales capability.  We currently intend to increase our direct sales personnel in Japan over time.  In the Bahamas, Chile, Europe, South Korea, Russia and Vietnam, we sell our full product portfolio either directly to customers or through numerous third-party distributors.  In the U.S., we are limited to selling only research reagents and surgical accessories and instrumentation directly to customers.  Bimini Technologies, LLC, through its wholly owned subsidiary Kerastem Technologies, LLC, has a global exclusive license to sell our Celution cell processing systems for hair applications.  Lorem Vascular has an exclusive license to sell our full product portfolio in all fields of use, excluding hair applications, in Australia, China, Hong Kong, Malaysia and Singapore.
+ 
+In early 2016, we commenced the process of implementing a managed access program, or MAP, (also known as early access program or named patient program) for our Habeo Cell Therapy in conjunction with Idis Managed Access, part of Clinigen Group plc, or Idis, in select countries across Europe, the Middle East and Africa, or EMEA, for patients with impaired hand function due to scleroderma. Initially, we have focused on select countries within these regions and intend to expand our focus over time, depending on interest and participation in our MAP, our strategic focus, and other factors.  Our MAP is intended to drive awareness of Habeo Cell Therapy in advance of anticipated commercial launch and also to provide useful pricing and clinical date. Though we have generated significant interest in the MAP, we have yet to treat a patient under it. We intend to continue to appropriately invest resources in our MAP.
+ 8
+
+
+As of December 31, 2016, we had three individuals in our global marketing team responsible for market assessments and business plans, competitive intelligence, distribution strategy, product management, social media and websites, forecasting, pricing and reimbursement, customer communication, relationship management and service.  We create awareness of and demand for our products among physicians and researchers through digital advertising, e-marketing campaigns, and webinars, pre-clinical and clinical publications, patient advocacy group partnerships, sales collateral, and industry and medical society meetings.
+ As of December 31, 2016, we had three Cytori employees in our field service team responsible for providing Celution and StemSource installations, maintenance, training, troubleshooting, and hardware and software update/upgrade services to new and existing customers.  This team also initiates and closes sites participating in Cytori-sponsored clinical trials.
+ For the year ended December 31, 2016, our sales were concentrated with respect to two distributors and three direct customers, which comprised 65% of our product revenue recognized.  Two direct customers accounted for 57% of total outstanding accounts receivable (excluding receivables from BARDA) as of December 31, 2016.
+ Cytori Nanomedicine™
+ Our Cytori Nanomedicine pipeline includes both early and late stage nanomedicine product candidates, patented liposomal encapsulated docetaxel (ATI-1123) and generic liposomal encapsulated doxorubicin (ATI-0918), respectively.  We are actively seeking regional and global partnerships with either pharmaceutical manufacturers or wholesale distributors for both of these product candidates, with priority on ATI-0918 in Europe where a generic form of liposomal doxorubicin is neither approved nor available.
+Customers and Partners
+ In Japan, Europe, the Middle East, the Asia-Pacific region and Latin America, we offer our Cytori Systems and StemSource Systems through direct sales representatives, distributors and licensing partners, to hospitals, clinics and researchers, including for purposes of performing investigator-initiated and funded studies.
+ Pursuant to our Sale and Exclusive License/Supply Agreement, or Bimini Agreement, with Bimini, we granted Bimini a global exclusive license to our Cytori Cell Therapy devices and consumable products for hair applications excluding systemic or intravascular delivery of adipose-derived regenerative cells, or ADRCs.  Bimini’s current focus is on the aesthetics cash-pay market.  Through Kerastem, its wholly owned subsidiary, Bimini is conducting an FDA-approved Phase II clinical trial in the United States, called STYLE, to study the safety and feasibility of Kerastem’s solution for female and male pattern baldness. In September 2016, Bimini announced completion of its STYLE trial enrollment of 70 patients at four clinical trial sites within the United States.  We anticipate that six- month follow-up data from this Phase II clinical trial will be available in mid-2017.  Outside of the United States, Bimini is engaged in market development efforts in Europe and Japan for the hair market. The Kerastem Hair Therapy is CE mark approved in the EU for sales to patients with alopecia, or hair loss. Under the Bimini Agreement, Bimini is required, among other things, to pay an eight percent (8%) royalty on its net sales of our products for contemplated hair applications.
+ Pursuant to our Amended and Restated License/Supply Agreement, or Lorem Agreement, with Lorem Vascular Pte. Ltd., or  Lorem Vascular, we granted Lorem Vascular an exclusive license in all fields of use (excluding hair applications subject to Bimini’s license) to our Cytori Cell Therapy products for sale into China, Hong Kong, Malaysia, Singapore and Australia.  Under the Lorem Agreement, Lorem Vascular committed to pay up to $500 million in license fees in the form of revenue milestones. In addition, Lorem Vascular is required to pay us 30% of their gross profits in China, Hong Kong and Malaysia for the term of the Lorem Agreement.  Lorem Vascular has certain minimum product purchase obligations, including purchase obligations triggered by achievement of applicable regulatory clearance for our products in China, which regulatory clearance was achieved as of April 2015.  Lorem Vascular has partially satisfied these related product purchase obligations, and as a result, we are currently in discussions with Lorem Vascular regarding restructuring of its obligations and our rights under the Lorem agreement.  We cannot guarantee that our restructuring discussions with Lorem Vascular will be successful.  Should we be unable to conclude these negotiations to our satisfaction, a dispute may ensue.  See, also, our discussions of the regulatory landscape in China for our products as well as discussions regarding our relationship with Lorem Vascular in the “Risk Factors” section and in the “Competition” and “Governmental Regulation” sections of this “Business” section below.
+ Refer to Note 2 of the Notes to Consolidated Financial Statements for a discussion of geographical concentration of sales. 
+ 9
+
+
+Manufacturing
+ Cytori Cell Therapy
+ We currently manufacture or source our Cytori Cell Therapy products at our headquarters in San Diego, California and in Wales, in the United Kingdom. We believe that our manufacturing capabilities will be sufficient to enable us to meet anticipated demand for these products in 2017. We are, and the manufacturer of any future therapeutic products would be, subject to periodic inspection by regulatory authorities and distribution partners. The manufacturer of devices and products for human use is subject to regulation and inspection from time to time by the FDA for compliance with the FDA’s Quality System Regulation, or QSR, requirements, as well as equivalent requirements and inspections by state and non-U.S. regulatory authorities, such as our Notified Body in Europe and the California Food and Drug Branch.
+ We source the raw materials for the Celution device, Celution consumable kit and other products that we manufacture from a variety of sources. Most of these components are available from multiple vendors either as off-the-shelf items or as custom fabrication.  We purchase our Celase and Intravase regents from Roche Diagnostics Corporation, or Roche.  While we have significant inventory of these reagents in inventory, we do not have a second source to provide us with these reagents should our supply arrangement with Roche terminate or be suspended, or should Roche be unable to meet its supply obligations thereunder.
+ 
+Cytori Nanomedicine
+ We are in the process of a facility re-start and validations at our recently acquired nanoparticle manufacturing facility located in San Antonio, Texas.   Once validation is complete, the facility and processes are designed to comply with cGMP per FDA and EMA regulations to manufacture drug candidates for clinical, research, development and commercial use. Upon approval of our drug candidates, our manufacturing capabilities will encompass validated manufacturing processes for drug product as well as a quality assurance product release process with the ability to ultimately scale-up the process to meet increasing market demands. We believe   our strategic investments in the analytical and manufacturing capabilities, including personnel from drug discovery through drug development, will allow us to advance our product candidates more quickly. Our San Antonio facility enables us to produce drug substance in a cost-effective manner while retaining control over the process and timing. As needed, the use of a qualified Clinical Manufacturing Organization may be utilized to perform various manufacturing processes as we deem appropriate to meet our operational objectives.
+ Our current principal suppliers for our Cytori Nanomedicines business are LGM Pharma, which supplies our active pharmaceutical ingredient, or API (doxorubicin HC1), as well as Lipoid, LLC and Dishman Netherlands, B.V., which supply us with other raw materials used in the manufacture of our ATI-0918 and ATI-1123 drug candidates.  Each of these suppliers is currently a sole source supplier.
+ Competition
+ We compete primarily on the basis of the safety and efficacy of our therapies across a broad range of clinical indications to address significant unmet medical and market needs, supported by our brand name, pricing, products, published clinical data, regulatory approvals, and reimbursement.  We believe that our continued success depends on our ability to:
+
+• | Develop and innovate our product and technology platforms;
+--+-----------------------------------------------------------
+
+
+• | Initiate new and advance existing clinical development programs;
+--+-----------------------------------------------------------------
+
+
+• | Secure and maintain regulatory agency approvals;
+--+-------------------------------------------------
+
+
+• | Build and expand our commercial footprint;
+--+-------------------------------------------
+
+
+• | Achieve improved economies of scale and scope;
+--+-----------------------------------------------
+
+
+• | Generate and protect intellectual property;
+--+--------------------------------------------
+
+
+• | Hire and retain key talent; and
+--+--------------------------------
+
+
+• | Successfully execute acquisition, licensing, and partnership activities.
+--+-------------------------------------------------------------------------
+
+ 10
+
+
+Cytori Cell Therapy
+ According to the Alliance for Regenerative Medicine, there over 700 companies worldwide and 801 clinical trials underway within the global regenerative medicine market.  Per Allied Market Research, this market is projected to reach $30.2 billion by 2022 and to be dominated by the cell therapy segment. 
+ 
+Today, we compete directly against companies within the autologous adipose-derived cell therapy segment offering manual, semi-automated, or full automated cell processing and/or banking systems used with or without tissue dissociation reagents.  Our primary competitors include, but are not limited to, Adisave, Biosafe Group, GID Group, Healeon Medical, Human Med AG, Medikan International, PNC International, SERVA Electrophoresis GmbH, and Tissue Genesis.  None of these companies are conducting clinical trials for the treatment of hand dysfunction in scleroderma patients.  However, they are engaged in a number of clinical trials around the world.
+ 
+ 
+Company | Clinical Trial 
+Affiliation | Location | Indication
+Adisave | Sponsor | Canada | Wounds and Soft Tissue Defects
+GID Group | Sponsor | U.S. | Alopecia 
+GID Group | Sponsor | U.S. | Knee Osteoarthritis 
+Healeon Medical | Sponsor | U.S. | Alopecia 
+Human Med AG | Co-Collaborator | France | Knee Osteoarthritis 
+Tissue Genesis | Sponsor | U.S. | Critical Limb Ischemia 
+
+ A study published in 2016 reported that there were 570 medical clinics in the U.S. advertising and offering stem cell treatments, including those derived from adipose tissue, directly to patients.  It is unclear whether the FDA will allow these clinics to continue to operate in this fashion and whether they will pose a threat to our business if and at such time that we obtain PMA approval to commercialize Habeo Cell Therapy in the U.S. 
+ In the future, we also anticipate encountering competition from companies developing and offering drugs for the treatment of scleroderma including, but not limited to, Actelion Pharmaceuticals, Allergan, Apricus Biosciences, Bayer, Corbus Pharmaceuticals, Covis Pharma, CSL Behring, Genentech, and United Therapeutics.  No companies today have approved drugs indicated for improving hand function in scleroderma patients while only Tracleer® (Bosentan) is approved in Europe for the prevention of new digital ulcers in scleroderma patients.  Habeo Cell Therapy is expected to compete with or be used in conjunction with second and/or third line therapies including, but not limited to, phosphodiesterase inhibitors, botulinum toxin A, angiotensin II receptor blockers, ACE inhibitors, alpha blockers, selective serotonin reuptake inhibitors, topical nitrates, IV prostanoids, endothelin receptor antagonists, immunosuppressants, and surgical interventions.
+ Cytori Nanomedicine™
+ ATI-0918, our generic liposomal encapsulated doxorubicin product candidate is expected to face competition from both patented and generic nanomedicine products for the treatment of breast cancer (BC), ovarian cancer (OC), multiple myeloma (MM), and/or Kaposi’s Sarcoma (KS) in all geographies.  New nanoparticle-doxorubicin monotherapies and drug combination therapies represent third generation approaches intended to be safer and more effective than today’s patented and generic pegylated liposomal doxorubicin.
+
+U.S. 
+Company | Product | Formulation | Stage | Indications 
+JNJ Janssen | DOXIL | Pegylated liposomal doxorubicin | Commercial | BC, OC, MM, KS 
+Sun Pharma | Lipodox | Pegylated liposomal doxorubicin | Commercial | BC, OC, MM, KS 
+Taiwan Liposome Co | Doxisome | Pegylated liposomal doxorubicin | ANDA Submitted | BC, OC, KS 
+Teva Actavis | Doxorubicin Liposome | Pegylated liposomal doxorubicin | ANDA Submitted | BC, OC, MM, KS 
+Celsion | Thermodox | Heat-sensitive liposomal doxorubicin | Phase 1/2/3 | Liver; Recurrent BC 
+Supratek Pharma | SP1049C | Block copolymer doxorubicin | Phase 1/2/3 | Upper GI, MDR lung, BC
+Adocia | DriveIn | Hyaluronan nanoparticle doxorubicin | Preclinical | 
+
+ 11
+
+
+
+ 
+Europe 
+Company | Product | Formulation | Stage | Indications 
+JNJ Janssen | CAELYX | Pegylated liposomal doxorubicin | Commercial | BC, OC, KS 
+Teva | Myocet | Non-pegylated liposomal doxorubicin | Commercial | Breast (with cyclophosphamide)
+Taiwan Liposome Co | Doxisome | Pegylated liposomal doxorubicin | MAA Submission H1 2017 | BC, OC, KS 
+InnoMedica | Talidox | Glycan targeted liposomal doxorubicin | Phase 1/2 | OC, KS 
+Ceronco Biosciences | CB001 | Glucosylceramide-enriched liposomal doxorubicin | Preclinical | BC, OC, KS 
+
+
+Rest of World 
+Country | Company | Product | Formulation | Stage | Indications 
+China | Shanghai F-Z | Libaoduo | Pegylated liposomal doxorubicin | BE Study vs Lipodox Ongoing | BC, OC, KS 
+China | CSPC | Duomeisu | Pegylated liposomal doxorubicin | Commercial | BC, OC, KS, MM, lymphoma
+Hong Kong | NAL Pharma | NAL1872 | Pegylated liposomal doxorubicin | Preclinical | BC, OC, KS 
+India | Intas Pharma | Pegadria | Pegylated liposomal doxorubicin | BE Study vs DOXIL Complete | BC, OC, KS 
+India | Dr. Reddy's Labs | Doxorubicin | Pegylated liposomal doxorubicin | BE Study vs Lipodox Ongoing | BC, OC, KS 
+India | Alkem Labs | Lipisol | Pegylated liposomal doxorubicin | Commercial | 
+India | Celon Labs | Lippod | Pegylated liposomal doxorubicin | Commercial | BC, OC, MM, KS 
+India | Cipla | Oncodox PEG | Pegylated liposomal doxorubicin | Commercial | BC, OC, MM, KS 
+India | Natco Pharma | Natdox-LP | Pegylated liposomal doxorubicin | Commercial | OC 
+India | SRS Pharma | Dox HCl Liposome | Pegylated liposomal doxorubicin | Commercial | BC, OC, KS 
+India | Parenteral Drugs | Doxopar | Pegylated liposomal doxorubicin | Commercial | BC, OC, KS 
+India | Zuventus | Rubilong | Pegylated liposomal doxorubicin | Commercial | BC, OC, KS 
+India | Zydus Cadila | Nudoxa | Pegylated liposomal doxorubicin | Commercial | BC, OC, KS 
+Philippines Sri Lanka Taiwan Thailand Vietnam | TTY Biopharm | Lipo-dox | Pegylated liposomal doxorubicin | Commercial | BC, OC, MM, KS 
+Philippines Sri Lanka Taiwan Thailand Vietnam | TTY Biopharm | CAELYX II | Pegylated liposomal doxorubicin | Development | BC, OC, MM, KS 
+Russia | Oasmia | Doxophos | Nanoparticle doxorubicin | MAA Submission in Dec 2015 | BC 
+
+ Our ATI-1123 product candidate is expected to face competition from both Sanofi’s Taxotere, which is approved for 11 indications and available in 90 countries with a majority of sales from China, Japan, Korea, and Taiwan, and generic docetaxel which is available from major suppliers in the U.S., Europe and Japan including, but not limited to, Accord, Actavis, Dr. Reddy’s Labs, GLS Pharma, Hospira, Sun Pharma, Teva, and Winthrop.  Further competition may result from advances made by companies currently developing nanoparticle-docetaxel products including, but not limited to, Adocia, Cristal Therapeutics, and Oasmia Pharmaceutical. 
+ Research and Development
+ Research and development expenses were $16.2 million and $19.0 million for the years ended December 31, 2016 and 2015, respectively.  These expenses have supported the basic research, product development and clinical activities necessary to bring our products to market.
+ Our research and development efforts in 2016 focused predominantly on the following areas:
+  
+• | Completion of enrollment in the STAR (hand manifestation of scleroderma) trial and ongoing ACT-OA (knee osteoarthritis) trial expenses;
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Support of ongoing preclinical and other research activities towards BARDA contract milestones;
+--+------------------------------------------------------------------------------------------------
+
+
+• | Support of the investigator initiated trials ADRESU in Japan and SCLERADEC-II in France;
+--+-----------------------------------------------------------------------------------------
+
+
+• | Planning and development of next generation Celution Cell Therapy products, including detailed product roadmaps for the device, consumables and accessories;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 12
+
+
+ 
+• | Development of new configurations and expanded functionality of our Celution® platform to address the current Japanese regulatory approval as a medical device (Japan Class I) and other markets;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Conduct ADRC viability and transport studies in support of clinical trial requirements;
+--+----------------------------------------------------------------------------------------
+
+
+• | Conduct presentation and publishing of research efforts related to ADRC characterization and potency to further establish scientific leadership in the field; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continued optimization and development of the Celution® System family of products and next-generation devices, single-use consumables and related instrumentation.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Intellectual Property
+ Our success depends in large part on our ability to protect our proprietary technology, including the Celution® System product platform, and to operate without infringing on the proprietary rights of third parties. We rely on a combination of patent, trade secret, copyright and trademark laws, as well as confidentiality agreements, licensing agreements and other agreements, to establish and protect our proprietary rights. Our success also depends, in part, on our ability to avoid infringing patents issued to others. If we were judicially determined to be infringing on any third-party patent, we could be required to pay damages, alter our products or processes, obtain licenses or cease certain activities.
+ To protect our proprietary medical technologies, including the Celution® System platform and other scientific discoveries, we have a portfolio of over 100 issued patents worldwide. We currently have 34 issued U.S. patents and 68 issued international patents. Of the 34 issued U.S. patents, eight were issued in 2016. Of the 68 issued international patents, seven were issued in 2016. In addition, we have over 45 patent applications pending worldwide related to our Cytori Cell Therapy technology. We are seeking additional patents on methods and systems for processing adipose-derived stem and regenerative cells, on the use of adipose-derived stem and regenerative cells for a variety of therapeutic indications, including their mechanisms of actions, on compositions of matter that include adipose-derived stem and regenerative cells, and on other scientific discoveries. We are seeking additional patents on methods and systems for processing adipose-derived stem and regenerative cells, on the use of adipose-derived stem and regenerative cells for a variety of therapeutic indications, including their mechanisms of action, on compositions of matter that include adipose-derived stem and regenerative cells, and on other scientific discoveries. Regarding our Cytori Nanomedicine program, as part of our assert acquisition transaction with Azaya Therapeutics, we acquired Azaya Therapeutics’ patent portfolio consisting of two issued patents, and one pending patent application. Since the Azaya asset acquisition, we have filed one patent application relating to Cytori Nanomedicine, and intend to actively continue to enhance our nanomedicine portfolio.
+We cannot assure that any of our pending patent applications will be issued, that we will develop additional proprietary products that are patentable, that any patents issued to us will provide us with competitive advantages or will not be challenged by any third parties or that the patents of others will not prevent the commercialization of products incorporating our technology. Furthermore, we cannot assure that others will not independently develop similar products, duplicate any of our products or design around our patents. U.S. patent applications are not immediately made public, so we might be surprised by the grant to someone else of a patent on a technology we are actively using.
+ There is a risk that any patent applications that we file and any patents that we hold or later obtain could be challenged by third parties and declared invalid or infringing of third party claims. For many of our pending applications, patent interference proceedings may be instituted with the U.S. Patent and Trademark Office, or the USPTO, when more than one person files a patent application covering the same technology, or if someone wishes to challenge the validity of an issued patent. At the completion of the interference proceeding, the USPTO will determine which competing applicant is entitled to the patent, or whether an issued patent is valid. Patent interference proceedings are complex, highly contested legal proceedings, and the USPTO’s decision is subject to appeal. This means that if an interference proceeding arises with respect to any of our patent applications, we may experience significant expenses and delay in obtaining a patent, and if the outcome of the proceeding is unfavorable to us, the patent could be issued to a competitor rather than to us.  Third parties can file post-grant proceedings in the USPTO, seeking to have issued patent invalidated, within nine months of issuance. This means that patents undergoing post-grant proceedings may be lost, or some or all claims may require amendment or cancellation, if the outcome of the proceedings is unfavorable to us. Post-grant proceedings are complex and could result in a reduction or loss of patent rights. The institution of post-grant proceedings against our patents could also result in significant expenses.
+ Patent law outside the United States is uncertain and in many countries, is currently undergoing review and revisions. The laws of some countries may not protect our proprietary rights to the same extent as the laws of the United States. Third parties may attempt to oppose the issuance of patents to us in foreign countries by initiating opposition proceedings. Opposition proceedings against any of our patent filings in a foreign country could have an adverse effect on our corresponding patents that are issued or pending in the United States It may be necessary or useful for us to participate in proceedings to determine the validity of our patents or our competitors’ patents that have been issued in countries other than the United States. This could result in substantial costs, divert our 
+ 13
+
+
+efforts and attention from other aspects of our business, and could have a material adverse effect on our results of operations and financial condition. We currently have pending patent applications or issued patents in Europe, Brazil, Mexico, India, Russia, Australia, Japan, Canada, China, Korea and Singapore, among others.
+ In addition to patent protection, we rely on unpatented trade secrets and proprietary technological expertise. We cannot assure you that others will not independently develop or otherwise acquire substantially equivalent techniques, somehow gain access to our trade secrets and proprietary technological expertise or disclose such trade secrets, or that we can ultimately protect our rights to such unpatented trade secrets and proprietary technological expertise. We rely, in part, on confidentiality agreements with our marketing partners, employees, advisors, vendors and consultants to protect our trade secrets and proprietary technological expertise. We cannot assure you that these agreements will not be breached, that we will have adequate remedies for any breach or that our unpatented trade secrets and proprietary technological expertise will not otherwise become known or be independently discovered by competitors.
+ Government Regulation – Medical Devices
+ As a medical company, we operate under stringent regulations and our companies and products are subject to a variety of distinct regulations around the world that are subject to modification or change.
+Cytori Cell Therapy
+ Cytori Cell Therapy technology is regulated through a variety or agencies and approaches around the world. Our products must receive regulatory clearances or approvals from regulatory bodies in the European Union such as the EMA and the FDA and from other applicable governments prior to their sale or in some cases prior to clinical trials. This technology platform incorporates multiple elements including devices, reagents and software that in combination yield an autologous cellular product. As a result of the complex nature of our products and differing regulations through the world, there is no single unified of global set of regulatory requirements or common approach to regulation and is therefore region specific.
+ Cytori Cell Therapy technology is, and will be, subject to stringent government regulation in the United States by the FDA under the Federal Food, Drug and Cosmetic Act. The FDA regulates the design/development process, clinical testing, manufacture, safety, labeling, sale, distribution and promotion of medical devices and drugs. Included among these regulations are pre-market clearance and pre-market approval requirements, design control requirements, and the requirements to comply with Quality System Regulations/Good Manufacturing Practices. Other statutory and regulatory requirements govern, among other things, registration and inspection, medical device listing, prohibitions against misbranding and adulteration, labeling and post-market reporting. In the U.S., we must currently obtain FDA clearance or approval through the PMA application process, which requires clinical trials to generate clinical data supportive of safety and efficacy. Approval of a PMA could take four or more years from the time the process is initiated due to the requirement for clinical trials. Failure to comply with applicable requirements can result in application integrity proceedings, fines, recalls or seizures of products, injunctions, civil penalties, total or partial suspensions of production, withdrawals of existing product approvals or clearances, refusals to approve or clear new applications or notifications, and criminal prosecution.
+ Recently, the U.S. government enacted the 21st Century Cures Act, or the CURES Act, in the United States that has many provisions that could be favorable for us. However, the provisions of the CURES Act are broad and lack enough detail currently to determine its effect on our regulatory pathway. Further interpretation and implementation of the CURES Act must occur before any definitive assessments can be made.  
+ Outside the U.S., the Cytori Cell Therapy family of products must also comply with the government regulations of each individual country in which the products are to be distributed and sold. These regulations vary in complexity and can be as stringent, and on occasion even more stringent, than FDA regulations in the United States. International government regulations vary from country to country and region to region. For example, regulations in some parts of the world only require product registration while other regions/countries require a complex product approval process. Due to the fact that there are new and emerging cell therapy and cell banking regulations that have recently been drafted and/or implemented in various countries around the world, the application and subsequent implementation of these new and emerging regulations have little to no precedent. Furthermore, the level of complexity and stringency is not always precisely understood today for each country, creating greater uncertainty for the international regulatory process. Furthermore, government regulations can change with little to no notice and may result in up-regulation of our product(s), thereby, creating a greater regulatory burden for our cell processing and cell banking technology products.
+ In Europe, Cytori Cell Therapy is approved as the Celution device and consumable product and is sold for commercial and research use. Expansion of use of Cytori Cell Therapy in Europe will likely require an expansion of our regulatory claims that would likely include disease-specific claims obtained through the completion of clinical trials. It is possible that Cytori Cell Therapy may be regulated as a device, similar to its regulatory pathway in the U.S., an advanced tissue medicinal product or ATMP, or some combination of the two in Europe. Cytori is current working with both European authorities and country-specific competent authorities to clarify the proper path for Cytori’s Habeo Cell Therapy in Europe.
+ 14
+
+
+Regulations in the Asia-Pacific and Japan regions are currently evolving for cell therapy products.  For example, the Japan Diet enacted a regenerative medicine law in November of 2014 following sweeping changes in Japan’s medical device regulations in 2014.  In China, the regulatory landscape for cell therapies such as ours is subject to increasing regulation, and success in this market will depend heavily on a firm understanding of applicable regulations and a commitment to pursuing appropriate regulatory approvals, including any required approvals from the National Health and Family Planning Commission of the People’s Republic of China, or NHFPC, and other governmental entities. These regulatory uncertainties further complicate the regulatory process in the Asia-Pacific region and may lengthen approval timelines and/or market entrance or penetration.
+ Regulatory Developments
+ China Regulatory Clearance
+ In April 2015, the State Food and Drug Administration of the People’s Republic of China, or CFDA, granted regulatory clearance for our Celution device, consumable kit and reagents necessary to allow the importation and sale of our products into the Chinese market, the world’s largest healthcare market.  The Chinese market for our Celution products is subject to an exclusive license in favor of our partner, Lorem Vascular.    
+ EU Orphan Designation
+ In April 2015, the European Commission, acting on the positive recommendation from the European Medicines Agency Committee for Orphan Medicinal Products, granted an orphan drug designation to Assistance Publique Hopitaux du Marseille (France), the sponsor institution for the SCLERADEC I and SCLERADEC II trials using Cytori Cell Therapy, for the treatment of systemic sclerosis.
+ In April 2016, the European Commission, acting on the positive recommendation from the European Medicines Agency Committee for Orphan Medicinal Products, issued orphan drug designation to a broad range of Cytori Cell Therapy formulations when used for the treatment of systemic sclerosis under Community Register of Orphan Medicinal Products number EU/3/16/1643.
+ In November 2016, the US FDA Office of Orphan Products Development (OOPD) granted Cytori an orphan drug designation for cryopreserved or centrally processed ECCS-50 Habeo for scleroderma. 
+ Government Regulation – Nanoparticle Oncology Drugs
+ Our nanoparticle oncology drug products must receive regulatory approvals from the EMA and the FDA and, from other applicable governments prior to their sale. 
+ Our current and future nanoparticle oncology drugs are, or will be, subject to stringent government regulation in the United States by the FDA under the Federal Food, Drug and Cosmetic Act. The FDA regulates the design/development process, clinical testing, manufacture, safety, labeling, sale, distribution, and promotion of oncology drugs. Included among these regulations are drug approval requirements and the current Good Manufacturing Practices, cGMP. Other statutory and regulatory requirements govern, among other things, cGMP inspection, prohibitions against misbranding and adulteration, labeling and post-market reporting. The recent CURES Act legislation regarding drugs in the United States has yet to be implemented and may yield additional regulatory requirements on therapeutic drugs while providing some relief in selected regulatory burdens. The FDA’s interpretation and implementation of the CURES Act has yet to be published.  
+ Our nanoparticle oncology drugs must also comply with the government regulations of each individual country in which the products are to be distributed and sold. These regulations vary in complexity and can be as stringent, and on occasion even more stringent, than FDA regulations in the United States. International government regulations vary from country to country and region to region. For instance, our ATI-0918 drug candidate relies on an expedited approval process referred to as ‘bioequivalence’ or BE approved under an abbreviated new drug application, or ANDA.  ANDA and BE products require a ‘reference drug’ and/or ‘reference listed drug’ ,or RLD, to show equivalence with. The reference drug may not be the same in all territories or countries, which could require different and unique BE clinical studies for some territories. Furthermore, the level of complexity and stringency is not always precisely understood today for each country, creating greater uncertainty for the international regulatory process. Additionally, government regulations can change with little to no notice and may result in the elimination of the BE regulatory pathway in some regions, creating increased regulatory burden.
+ Worldwide, the regulatory process can be lengthy, expensive, and uncertain with no guarantee of approval. Before any new drugs may be introduced to the U.S. market, the manufacturer generally must obtain FDA approval through either ANDA process for generic drugs off patent that allow for bioequivalence to and existing reference listed drug, or the lengthier new drug approval (NDA) process, 
+ 15
+
+
+which typically requires multiple successful Phase III clinical trials to generate clinical data supportive of safety and efficacy along with extensive pharmacodynamic and pharmacokinetic preclinical testing to demonstrate safety. Approval of a ANDA could take four or more years from the time the process is initiated due to the requirement for clinical trials. NDA drugs could take significantly longer due to the additional preclinical requirements along with the typical requirement for two successful Phase III clinical trials. 
+ Our lead ATI-0918 drug candidate is eligible for the ANDA regulatory pathway, while our ATI-0123 drug candidate is subject to the significantly lengthier NDA process. Changes to the reference listed drug (RLD) for drugs eligible for the ANDA process can result in significant delays in the regulatory process as BE clinical studies may need to be repeated for regions / countries that no longer recognize the RLD utilized in BE clinical studies.  Failure to comply with applicable requirements can result in application integrity proceedings, fines, recalls or seizures of products, injunctions, civil penalties, total or partial suspensions of production, withdrawals of existing product approvals, refusals to approve new applications or notifications, and criminal prosecution.
+ Drugs are also subject to post-market reporting requirements for deaths or serious injuries when the drug may have caused or contributed to the death or serious injury, or serious adverse events.  If safety or effectiveness problems occur after the drug reaches the market, the FDA may take steps to prevent or limit further marketing of the drug.  Additionally, the FDA actively enforces regulations prohibiting marketing and promotion of drugs for indications or uses that have not been approved by the FDA.  
+ We must comply with extensive regulations from foreign jurisdictions regarding safety, manufacturing processes and quality. These regulations, including the requirements for marketing and authorization, may differ from the FDA regulatory scheme in the United States.
+ Employees
+ As of December 31, 2016, we had 65 full-time employees. Of these full-time employees, seven were engaged in manufacturing, 31 were engaged in research and development, nine were engaged in sales and marketing and 18 were engaged in management, finance and administration.  From time to time, we also employ independent contractors to support our operations.  Our employees are not represented by any collective bargaining agreements and we have never experienced an organized work stoppage. 
+Corporate Information and Web Site Access to SEC Filings
+ We were initially formed as a California general partnership in July 1996, and incorporated in the State of Delaware in May 1997. We were formerly known as MacroPore Biosurgery, Inc., and before that as MacroPore, Inc. Our corporate offices are located at 3020 Callan Road, San Diego, CA  92121. Our telephone number is (858) 458-0900. We maintain an Internet website at www.cytori.com. Through this site, we make available free of charge our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934, or the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the U.S. Securities and Exchange Commission, or the SEC. In addition, we publish on our website all reports filed under Section 16(a) of the Exchange Act by our directors, officers and stockholders owning more than 10% of our outstanding common stock. These materials are accessible via the Investor Relations—Reports and Filings section of our website within the “SEC Filings” link. Some of the information is stored directly on our website, while other information can be accessed by selecting the provided link to the section on the SEC website, which contains filings for our company and its insiders.
+  The public can also obtain any documents that we file with the SEC at http://www.sec.gov. The public may read and copy any materials that we file with the SEC at the SEC’s Public Reference Room at 100 F Street, N.E., Room 1580, Washington, D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330.
+ 16
+
+
+Item 1. Financial Statements
+Report of Independent Registered Public Accounting Firm
+ 
+Board of Directors and Stockholders
+ Cytori Therapeutics, Inc.
+ 
+We have audited the accompanying consolidated balance sheet of Cytori Therapeutics, Inc. (the “Company”) as of December 31, 2016 and the related consolidated statements of operations and comprehensive loss, stockholders’ equity, and cash flows for the year then ended. In connection with our audit of the consolidated financial statements, we have also audited the accompanying schedule of valuation and qualifying accounts listed in the accompanying index at Item 15. These financial statements and schedule are the responsibility of the Company’s management. Our responsibility is to express an opinion on these financial statements and schedule based on our audit.
+ 
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting.  Our audit included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements and schedule. We believe that our audit provides a reasonable basis for our opinion.
+ 
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Cytori Therapeutics, Inc. at December 31, 2016, and the results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America.
+ 
+Also, in our opinion, the financial statement schedule, when considered in relation to the basic consolidated financial statements taken as a whole, presents fairly, in material respects, the information set forth therein.
+ 
+The accompanying consolidated financial statements and schedule have been prepared assuming that the Company will continue as a going concern. As described in Note 1 to the consolidated financial statements, the Company has suffered recurring losses and negative cash flows from operations that raise substantial doubt about its ability to continue as a going concern. Management’s plans in regard to these matters are also described in Note 1. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+ 
+
+/s/ BDO USA, LLP
+ San Diego, California
+ 
+March 24, 2017
+ 
+69
+
+
+Report of Independent Registered Public Accounting Firm
+ The Board of Directors and Stockholders
+ Cytori Therapeutics, Inc.:
+ We have audited the accompanying consolidated balance sheet of Cytori Therapeutics, Inc. and subsidiaries (the Company) as of December 31, 2015, and the related consolidated statements of operations and comprehensive loss, stockholders’ equity, and cash flows for the year ended December 31, 2015. In connection with our audit of the consolidated financial statements, we have also audited the accompanying schedule of valuation and qualifying accounts as of and for the year ended December 31, 2015. These consolidated financial statements and financial statement schedule are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audit.
+ We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our opinion.
+ In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Cytori Therapeutics, Inc. and subsidiaries as of December 31, 2015, and the results of their operations and their cash flows for the year ended December 31, 2015, in conformity with U.S. generally accepted accounting principles. Also, in our opinion, the related financial statement schedule, when considered in relation to the basic consolidated financial statements taken as a whole, presents fairly, in all material respects, the information set forth therein.
+ The accompanying consolidated financial statements and financial statement schedule have been prepared assuming that the Company will continue as a going concern. As discussed in note 1 to the consolidated financial statements, the Company’s recurring losses from operations and liquidity position raises substantial doubt about its ability to continue as a going concern. Management’s plans in regard to these matters are also described in note 1. The consolidated financial statements and financial statement schedule do not include any adjustments that might result from the outcome of this uncertainty.
+ /s/ KPMG LLP
+ San Diego, California
+ March 11, 2016
+ 
+70
+
+
+CYTORI THERAPEUTICS, INC.
+ CONSOLIDATED BALANCE SHEETS
+ (in thousands, except share and par value data)
+ 
+ 
+ | As of December31, | 
+--------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+---------
+ | 2016 | | | 2015 | 
+Assets | | | | | | | 
+Current assets: | | | | | | | 
+Cash and cash equivalents | $ | 12,560 | | | $ | 14,338 | 
+Accounts receivable, net of reserves of $167 and $797 in 2016 and 2015, respectively | | 1,242 | | | | 1,052 | 
+Restricted cash | | 350 | | | | — | 
+Inventories, net | | 3,725 | | | | 4,298 | 
+Other current assets | | 870 | | | | 1,555 | 
+Total current assets | | 18,747 | | | | 21,243 | 
+Property and equipment, net | | 1,157 | | | | 1,631 | 
+Restricted cash | | — | | | | 350 | 
+Other assets | | 2,336 | | | | 1,521 | 
+Intangibles, net | | 8,447 | | | | 9,031 | 
+Goodwill | | 3,922 | | | | 3,922 | 
+Total assets | $ | 34,609 | | | $ | 37,698 | 
+Liabilities and Stockholders’ Equity | | | | | | | 
+Current liabilities: | | | | | | | 
+Accounts payable and accrued expenses | $ | 5,872 | | | $ | 6,687 | 
+Current portion of long-term obligations, net of discount | | 6,629 | | | | — | 
+Joint venture purchase obligation | | — | | | | 1,750 | 
+Total current liabilities | | 12,501 | | | | 8,437 | 
+Deferred revenues | | 97 | | | | 105 | 
+Long-term deferred rent and other | | 17 | | | | 269 | 
+Long-term obligations, net of discount, less current portion | | 11,008 | | | | 16,681 | 
+Total liabilities | | 23,623 | | | | 25,492 | 
+Commitments and contingencies (Note 7) | | | | | | | 
+Stockholders’ equity: | | | | | | | 
+Preferred stock, $0.001 par value; 5,000,000 shares authorized; 13,500 shares issued; no shares outstanding in 2016 and 2015 | | — | | | | — | 
+Common stock, $0.001 par value; 75,000,000 shares authorized; 21,707,890 and 13,003,893 shares issued and outstanding in 2016 and 2015, respectively | | 22 | | | | 13 | 
+Additional paid-in capital | | 388,769 | | | | 368,214 | 
+Accumulated other comprehensive income | | 1,258 | | | | 996 | 
+Accumulated deficit | | (379,063 | ) | | | (357,017 | )
+Total stockholders’ equity | | 10,986 | | | | 12,206 | 
+Total liabilities and stockholders’ equity | $ | 34,609 | | | $ | 37,698 | 
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE CONSOLIDATED FINANCIAL STATEMENTS
+ 71
+
+
+CYTORI THERAPEUTICS, INC.
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+ (in thousands, except share and per share data)
+ 
+ 
+ | For the Years Ended December 31, | 
+------------------------------------------------------------------------------------------------------------------+----------------------------------+-----------
+ | 2016 | | | 2015 | 
+Product revenues | $ | 4,656 | | | $ | 4,838 | 
+Cost of product revenues | | 2,715 | | | | 3,186 | 
+Gross profit | | 1,941 | | | | 1,652 | 
+Development revenues: | | | | | | | 
+Government contracts and other | | 6,724 | | | | 6,821 | 
+ | | 6,724 | | | | 6,821 | 
+Operating expenses: | | | | | | | 
+Research and development | | 16,197 | | | | 19,000 | 
+Sales and marketing | | 3,611 | | | | 2,662 | 
+General and administrative | | 8,563 | | | | 9,765 | 
+Change in fair value of warrant liabilities | | — | | | | (7,668 | )
+Total operating expenses | | 28,371 | | | | 23,759 | 
+Operating loss | | (19,706 | ) | | | (15,286 | )
+Other income (expense): | | | | | | | 
+Loss on debt extinguishment | | — | | | | (260 | )
+Interest income | | 19 | | | | 9 | 
+Interest expense | | (2,592 | ) | | | (3,379 | )
+Other income, net | | 233 | | | | 172 | 
+Total other expense | | (2,340 | ) | | | (3,458 | )
+Net loss | $ | (22,046 | ) | | $ | (18,744 | )
+Beneficial conversion feature for convertible preferred stock | | — | | | | (661 | )
+Net loss allocable to common stockholders | $ | (22,046 | ) | | $ | (19,405 | )
+Basic and diluted net loss per share allocable to common stockholders | $ | (1.28 | ) | | $ | (2.07 | )
+Basic and diluted weighted average shares used in calculating net loss per share allocable to common stockholders | | 17,290,933 | | | | 9,386,488 | 
+Comprehensive loss: | | | | | | | 
+Net loss | $ | (22,046 | ) | | $ | (18,744 | )
+Other comprehensive income – foreign currency translation adjustments | | 262 | | | | 296 | 
+Comprehensive loss | $ | (21,784 | ) | | $ | (18,448 | )
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE CONSOLIDATED FINANCIAL STATEMENTS
+ 
+
+72
+
+
+CYTORI THERAPEUTICS, INC.
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+ FOR THE YEARS ENDED DECEMBER 31, 2016 AND 2015
+ (in thousands, except share data)
+ 
+ 
+ | | | | | | | | | | Accumulated | | | | | | | | | 
+---------------------------------------------------------------------------------------+-----------------+--------+---+--------------+---+---+---------+---+---------------+-------------+------------+-------------+----+-------+---------------+---+---------+---------+--
+ | Convertible | | | | | | | | | | Additional | | | other | | | | | | | Total | 
+ | preferred stock | | | Common stock | | | paid-in | | comprehensive | | | Accumulated | | | stockholders’ | 
+ | Shares | | | Amount | | | Shares | | Amount | | | capital | | | (loss) income | | | deficit | | | equity (deficit) | 
+Balance at December 31, 2014 | | 5,311 | | | $ | — | | | 6,623,225 | | | $ | 7 | | | $ | 331,864 | | | $ | 700 | | | $ | (338,273 | ) | | $ | (5,702 | )
+Share-based compensation | | — | | | | — | | | — | | | | — | | | | 2,041 | | | | — | | | | — | | | | 2,041 | 
+Issuance of common stock under stock option plan and employee stock purchase plan | | — | | | | — | | | 15,437 | | | | — | | | | 27 | | | | — | | | | — | | | | 27 | 
+Conversion of Series A 3.6% Convertible Preferred Stock into common stock | | (5,311 | ) | | | — | | | 680,943 | | | | 1 | | | | (3 | ) | | | — | | | | — | | | | (2 | )
+Issuance of common stock under stock warrant agreement, net | | — | | | | — | | | 3,123,577 | | | | 3 | | | | 22,810 | | | | — | | | | — | | | | 22,813 | 
+Sale of common stock, net | | — | | | | — | | | 2,560,711 | | | | 2 | | | | 10,699 | | | | — | | | | — | | | | 10,701 | 
+Allocation of fair value for debt-related warrants | | — | | | | — | | — | | | — | | | | 776 | | | | — | | | — | | | | 776 | 
+Foreign currency translation adjustment and accumulated other comprehensive income | | — | | | | — | | — | | | — | | | — | | | | 296 | | | — | | | | 296 | 
+Net loss | | — | | | | — | | | — | | | — | | | — | | | | — | | | | (18,744 | ) | | | (18,744 | )
+Balance at December 31, 2015 | | — | | | | — | | | 13,003,893 | | | | 13 | | | | 368,214 | | | | 996 | | | | (357,017 | ) | | | 12,206 | 
+Share-based compensation | | — | | | | — | | | — | | | | — | | | | 1,080 | | | | — | | | | — | | | | 1,080 | 
+Issuance of common stock under employee stock purchase plan | | — | | | | — | | | 30,744 | | | | — | | | | 6 | | | | — | | | | — | | | | 6 | 
+Sale of common stock, net | | — | | | | — | | | 8,673,253 | | | | 9 | | | | 19,469 | | | | — | | | | — | | | | 19,478 | 
+Foreign currency translation adjustment and accumulated other comprehensive income | | — | | | | — | | | — | | | | — | | | | — | | | | 262 | | | | — | | | | 262 | 
+Net loss | | — | | | | — | | | — | | | | — | | | | — | | | | | | | | (22,046 | ) | | | (22,046 | )
+Balance at December 31, 2016 | | — | | | $ | — | | | 21,707,890 | | | $ | 22 | | | $ | 388,769 | | | $ | 1,258 | | | $ | (379,063 | ) | | $ | 10,986 | 
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE CONSOLIDATED FINANCIAL STATEMENTS
+ 
+
+73
+
+
+CYTORI THERAPEUTICS, INC.
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ (in thousands)
+ 
+ 
+ | For the Years Ended December 31, | 
+-------------------------------------------------------------------------------------+----------------------------------+--------
+ | 2016 | | | 2015 | 
+Cash flows from operating activities: | | | | | | | 
+Net loss | $ | (22,046 | ) | | $ | (18,744 | )
+Adjustments to reconcile net loss to net cash used in operating activities: | | | | | | | 
+Depreciation and amortization | | 1,182 | | | | 1,093 | 
+Amortization of deferred financing costs and debt discount | | 954 | | | | 979 | 
+Joint Venture acquisition obligation accretion | | 24 | | | | 365 | 
+Provision for doubtful accounts | | — | | | | (105 | )
+Provision for expired inventory | | 172 | | | | — | 
+Change in fair value of warrants | | — | | | | (7,668 | )
+Share-based compensation expense | | 1,080 | | | | 2,041 | 
+(Gain) loss on asset disposal | | (127 | ) | | | 8 | 
+Loss on debt extinguishment | | — | | | | 260 | 
+Increases (decreases) in cash caused by changes in operating assets and liabilities: | | | | | | | 
+Accounts receivable | | (179 | ) | | | 328 | 
+Inventories | | 471 | | | | 490 | 
+Other current assets | | 633 | | | | (637 | )
+Other assets | | (764 | ) | | | 363 | 
+Accounts payable and accrued expenses | | (673 | ) | | | 1,045 | 
+Deferred revenues | | (8 | ) | | | 3 | 
+Long-term deferred rent | | (252 | ) | | | (289 | )
+Net cash used in operating activities | | (19,533 | ) | | | (20,468 | )
+Cash flows from investing activities: | | | | | | | 
+Purchases of property and equipment | | (67 | ) | | | (611 | )
+Expenditures for intellectual property | | — | | | | (13 | )
+Proceeds from sale of assets | 131 | | | | 11 | 
+Net cash provided by (used in) investing activities | | 64 | | | | (613 | )
+Cash flows from financing activities: | | | | | | | 
+Principal payments on long-term obligations | | — | | | | (25,032 | )
+Proceeds from long-term obligations | | — | | | | 17,700 | 
+Debt issuance costs and loan fees | | — | | | | (1,854 | )
+Joint Venture purchase payments | | (1,774 | ) | | | (1,623 | )
+Proceeds from exercise of employee stock options and warrants | | — | | | | 4,997 | 
+Proceeds from sale of common stock | | 21,467 | | | | 29,054 | 
+Costs from sale of common stock | | (2,084 | ) | | | (2,370 | )
+Dividends paid on preferred stock | | — | | | | (75 | )
+Net cash provided by financing activities | | 17,609 | | | | 20,797 | 
+Effect of exchange rate changes on cash and cash equivalents | | 82 | | | | — | 
+Net decrease in cash and cash equivalents | | (1,778 | ) | | | (284 | )
+Cash and cash equivalents at beginning of period | | 14,338 | | | | 14,622 | 
+Cash and cash equivalents at end of period | $ | 12,560 | | | $ | 14,338 | 
+Supplemental disclosure of cash flows information: | | | | | | | 
+Cash paid during period for: | | | | | | | 
+Interest | $ | 1,618 | | | $ | 1,994 | 
+Final payment fee on long-term debt | $ | — | | | $ | 1,839 | 
+Supplemental schedule of non-cash investing and financing activities: | | | | | | | 
+Issuance costs paid in common stock | $ | 189 | | | $ | — | 
+Conversion of preferred stock into common stock | $ | — | | | $ | 10 | 
+Declared dividend related to preferred stock | $ | — | | | $ | 3 | 
+Fair value of warrants allocated to additional paid-in capital | $ | — | | | $ | 776 | 
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE CONSOLIDATED FINANCIAL STATEMENTS
+ 
+74
+
+
+CYTORI THERAPEUTICS, INC.
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ DECEMBER 31, 2016
+  
+1. | Organization and Operations
+---+----------------------------
+
+The Company
+ Cytori Therapeutics, Inc. (NASDAQ: CYTX) develops cell therapies uniquely formulated and optimized for specific diseases and medical conditions with a primary focus on impaired hand function in scleroderma, in addition to our other pipeline areas, such as osteoarthritis of the knee, stress urinary incontinence, and full thickness thermal burns including those complicated by radiation exposure. 
+Principles of Consolidation
+ The accompanying consolidated financial statements include our accounts and those of our subsidiaries.  All significant intercompany transactions and balances have been eliminated in consolidation.
+ We have five wholly-owned subsidiaries located in Japan, United Kingdom, Switzerland, India and Spain that have been established primarily to support our sales and marketing activities in these regions.
+Reverse Stock Split
+ On May 10, 2016, following stockholder and Board approval, an amendment (the “Amendment”) to the Company’s amended and restated certificate of incorporation, as amended, was filed and declared effective, which Amendment effectuated a one-for-fifteen (1:15) reverse stock split of the Company’s (i) outstanding common stock, and (ii) common stock reserved for issuance upon exercise of outstanding warrants and options (the “1:15 Reverse Stock Split”).  Upon effectiveness of the 1:15 Reverse Stock Split, the number of shares of the Company’s common stock (x) issued and outstanding decreased from approximately 200 million shares (as of May 10, 2016) to approximately 13.3 million shares; (y) reserved for issuance upon exercise of outstanding warrants and options decreased from approximately 16 million shares to approximately 1.1 million shares, and (z) reserved but unallocated under our current equity incentive plans (including the stockholder-approved share increase to the Company’s 2014 Equity Incentive Plan) decreased from approximately 6.5 million common shares to approximately 0.4 million common shares. In connection with the 1:15 Reverse Stock Split, the Company also decreased the total number of its authorized shares of common stock from 290 million to 75 million. The number of authorized shares of preferred stock remained unchanged. Following the 1:15 Reverse Stock Split, certain reclassifications have been made to the prior periods’ financial statements to conform to the current period's presentation. The Company adjusted stockholders’ equity to reflect the 1:15 Reverse Stock Split by reclassifying an amount equal to the par value of the shares eliminated by the split from common stock to the additional paid-in capital during the first quarter of fiscal 2016, resulting in no net impact to stockholders' equity on our consolidated balance sheets. The Company’s shares of common stock commenced trading on a split-adjusted basis on May 12, 2016. Proportional adjustments for the reverse stock split were made to the Company's outstanding stock options, warrants awards issued and available under and equity incentive plans for all periods presented.
+Certain Risks and Uncertainties
+ Our prospects are subject to the risks and uncertainties frequently encountered by companies in the early stages of development and commercialization, especially those companies in rapidly evolving and technologically advanced industries such as the biotech/medical device field. Our future viability largely depends on our ability to complete development of new products and receive regulatory approvals for those products. No assurance can be given that our new products will be successfully developed, regulatory approvals will be granted, or acceptance of these products will be achieved. The development of medical devices for specific therapeutic applications is subject to a number of risks, including research, regulatory and marketing risks. There can be no assurance that our development stage products will overcome these hurdles and become commercially viable and/or gain commercial acceptance.
+Liquidity and Going Concern
+ We incurred net losses of $22.0 million and $18.7 million for the years ended December 31, 2016 and 2015, respectively.  We have an accumulated deficit of $379.1 million as of December 31, 2016.  Additionally, we have used net cash of $19.5 million and $20.5 million to fund our operating activities for the years ended December 31, 2016 and 2015, respectively. These factors raise substantial doubt about the Company’s ability to continue as a going concern.
+ 75
+
+
+Further, our Loan and Security Agreement, or the Loan and Security Agreement, with Oxford Finance, LCC, or Oxford, as further described in Note 8, requires to maintain a minimum of $5.0 million in unrestricted cash and cash equivalents on hand to avoid an event of default under the Loan and Security Agreement. Based on our cash and cash equivalents on hand of approximately $12.6 million at December 31, 2016, and our obligation to make payments of principal of $0.6 million plus accrued interest in monthly installments, we estimate that we must raise additional capital and/or obtain a waiver or restructure the Loan and Security Agreement on or before May 2017 to avoid defaulting under our $5.0 million minimum cash/cash equivalents covenant.
+ 
+To date, these operating losses have been funded primarily from outside sources of invested capital including our recently completed Lincoln Park Purchase Agreement with Lincoln Park Capital Fund, LLC (“Lincoln Park”) and the Rights Offering (each defined below), our at-the-market (“ATM”) equity facility, the Loan and Security Agreement and gross profits.  We have had, and we will likely continue to have, an ongoing need to raise additional cash from outside sources to fund our future clinical development programs and other operations.
+ On June 15, 2016, we closed a rights offering originally filed under Form S-1 registration statement in April 2016 (the “Rights Offering”). Pursuant to the Rights Offering, we sold an aggregate of 6,704,852 units consisting of a total of 6,704,852 shares of common stock and 3,352,306 warrants, with each warrant exercisable for one share of common stock at an exercise price of $3.06 per share, resulting in total gross proceeds to Cytori of $17.1 million. See Note 11 for further discussion on the Rights Offering.
+ On December 22, 2016, we entered into a purchase agreement and a registration rights agreement, with Lincoln Park pursuant to which we have the right to sell to Lincoln Park and Lincoln Park is obligated to purchase up to $20.0 million in amounts of shares, of the Company’s common stock, over the 30-month period commencing on the date that a registration statement, which the Company filed with the Securities and Exchange Commission (the “SEC”) on December 30, 2016. See Note 11 for further discussion on the Lincoln Park agreement.
+ Pursuant to these securities transactions and related equity issuances, as well as anticipated gross profits and potential outside sources of capital, we believe we have sufficient cash to fund operations through Q2 2017. We continue to seek additional capital through product revenues, strategic transactions, including extension opportunities under our awarded U.S. Department of Health and Human Service’s Biomedical Advanced Research and Development Authority (“BARDA”) contract, and from other financing alternatives. Without additional capital, current working capital and cash generated from sales will not provide adequate funding for research, sales and marketing efforts and product development activities at their current levels. If sufficient capital is not raised, we will at a minimum need to significantly reduce or curtail our research and development and other operations, and this could negatively affect our ability to achieve corporate growth goals.
+ Should we be unable to raise additional cash from outside sources, this will have a material adverse impact on our operations.
+ The accompanying consolidated financial statements have been prepared assuming we will continue to operate as a going concern, which contemplates the realization of assets and settlement of liabilities in the normal course of business, and do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classifications of liabilities that may result from uncertainty related to its ability to continue as a going concern. 
+ Reclassifications
+ Certain immaterial reclassifications have been made to certain of the prior years’ consolidated financial statements to conform to the current year presentation.
+  
+2. | Summary of Significant Accounting Policies
+---+-------------------------------------------
+
+Use of Estimates
+ The preparation of consolidated financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions affecting the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenue and expenses during the reporting period.  Our most significant estimates and critical accounting policies involve recognizing revenue, reviewing goodwill and intangible assets for impairment, determining the assumptions used in measuring share-based compensation expense, measuring accretion expense related to our acquisition of the joint venture, and valuing allowances for doubtful accounts and inventory reserves.
+ Actual results could differ from these estimates. Management’s estimates and assumptions are reviewed regularly, and the effects of revisions are reflected in the consolidated financial statements in the periods they are determined to be necessary.
+ 76
+
+
+Cash and cash equivalents
+ We consider all highly liquid investments with maturities of three months or less at the time of purchase to be cash equivalents.
+ Cash and cash equivalents includes cash in readily available checking and savings accounts. We held no investments as of December 31, 2016 and 2015.  We maintain our cash at insured financial institutions.
+ Restricted Cash 
+ Restricted cash consists of cash invested in a certificate of deposit used as collateral for the issuance of a letter of credit pursuant to a lease agreement entered into on April 2, 2010 (amended November 4, 2011) for leasing of property at 3020 and 3030 Callan Road, San Diego, California. The lease agreement required us to execute a letter of credit for $0.4 million naming the landlord as a beneficiary. It is required by the landlord that we maintain $0.4 million as restricted cash for the duration of the lease, which expires October 31, 2017.
+Accounts Receivable
+ Accounts receivable are recorded at the invoiced amount and do not bear interest. The Company periodically assesses the collectability of accounts receivable on a specific customer basis considering factors such as evaluation of collectability, historical collection experience, the age of accounts receivable and other currently available evidence of the collectability, and records an allowance for doubtful accounts for the estimated uncollectible amount. Account balances are charged off against the allowance after all means of collection have been exhausted and the potential for recovery is considered remote.
+Inventories
+ Inventories include the cost of material, labor, and overhead related to Celution devices, consumable kits, and reagents, and are stated at the lower of cost, determined on the first-in, first-out (FIFO) method, or market.  We periodically evaluate our on-hand stock and make appropriate provisions for any stock deemed excess or obsolete.  Manufacturing costs resulting from lower than “normal” production levels are expensed as incurred.
+Property and Equipment
+ Property and equipment are stated at cost, net of accumulated depreciation. Depreciation expense, which includes the amortization of capitalized leasehold improvements, is provided for on a straight-line basis over the estimated useful lives of the assets, or the life of the lease, whichever is shorter, and range from three to five years. When assets are sold or otherwise disposed of, the cost and related accumulated depreciation are removed from the accounts and the resulting gain or loss, if any, is included in operations. Maintenance and repairs are charged to operations as incurred.
+Impairment
+ We assess certain of our long-lived assets, such as property and equipment and intangible assets other than goodwill, for potential impairment when there is a change in circumstances that indicates carrying values of assets may not be recoverable. Such long-lived assets are deemed to be impaired when the undiscounted cash flows expected to be generated by the asset (or asset group) are less than the asset’s carrying amount. Any required impairment loss would be measured as the amount by which the asset’s carrying value exceeds its fair value, and would be recorded as a reduction in the carrying value of the related asset and a charge to operating expense.  We recognized no impairment losses during any of the periods presented in these financial statements.
+Goodwill and Intangibles
+ Goodwill is reviewed for impairment annually or more frequently if indicators of impairment exist. We perform our impairment test annually during the fourth quarter. The impairment evaluation is performed assuming the Company operates in a single operating segment and reporting unit. First the Company assesses qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the two-step goodwill impairment test. If, after assessing qualitative factors, the Company determines it is not more likely than not that the fair value of a reporting unit is less than its carrying amount, then performing the two-step impairment test is unnecessary. If deemed necessary, a two-step test is used to identify the potential impairment and to measure the amount of goodwill impairment, if any. The first step is to compare the fair value of the reporting unit with its carrying amount, including goodwill. If the fair value of the reporting unit exceeds its carrying amount, goodwill is considered not impaired; otherwise, there is an indication that goodwill may be impaired and the amount of the loss, if any, is measured by performing 
+ 77
+
+
+step two. Under step two, the impairment loss, if any, is measured by comparing the implied fair value of the reporting unit goodwill with the carrying amount of goodwill. There was no indication of impairment of goodwill for all periods presented.
+ Separable intangible assets that have finite useful lives are amortized over their respective useful lives.
+ 
+As part of the May 2013 acquisition of the Joint Venture (see Note 4), we acquired intangible assets which consisted primarily of contractual license rights that had previously enabled the Joint Venture to conduct development and manufacturing activities pertaining to certain aspects of Cytori’s Celution technology.  The useful life of the identifiable intangible assets was estimated based on the assumed future economic benefit expected to be received from the assets. The technology was valued at $9.4 million and is being amortized on a straight-line basis over a useful life of eleven years, commensurate with the expected cash flows. The amortization expense was $0.6 million and $0.4 million for the years ended December 31, 2016 and 2015, respectively, and was included in cost of product revenue on the consolidated statements of operations. The estimated aggregate amortization expense will be $1.2 million for 2017, $1.2 million for 2018 and $6.0 million thereafter. Accumulated amortization on the intangible assets was $1.2 million as of December 31, 2016 and $0.6 million as of December 31, 2015.
+ The changes in the carrying amounts of finite-life intangible assets and goodwill for the years ended December 31, 2016 and 2015 are as follows (in thousands):
+ 
+ 
+ | December 31, 2016 | 
+------------------------------------------+-------------------+-------
+Other intangibles, net: | | | 
+Beginning balance | $ | 9,031 | 
+Increase | | — | 
+Amortization | | (584 | )
+Ending balance | | 8,447 | 
+Goodwill, net: | | | 
+Beginning balance | | 3,922 | 
+Increase (decrease) | | — | 
+Ending balance | | 3,922 | 
+Total goodwill and other intangibles, net | $ | 12,369 | 
+
+
+ | December 31, 2015 | 
+------------------------------------------+-------------------+-------
+Other intangibles, net: | | | 
+Beginning balance | $ | 9,415 | 
+Increase | | 13 | 
+Amortization | | (397 | )
+Ending balance | | 9,031 | 
+Goodwill, net: | | | 
+Beginning balance | | 3,922 | 
+Increase (decrease) | | — | 
+Ending balance | | 3,922 | 
+Total goodwill and other intangibles, net | $ | 12,953 | 
+
+Warrant Liability
+ In connection with the October 2014 Securities Purchase Agreement, the Company issued common stock purchase warrants (the “October 2014 Warrants”) to certain institutional investors with certain exercise price reset features.  Each warrant had an initial exercise price of $0.5771 per share, was exercisable six months and one day after the date of issuance and was to expire five years from the date on which it was initially exercisable. Pursuant to the second closing of the May 2015 Securities Purchase Agreement, the exercise price of these warrants was reset to $0.3263. The initial fair value of the liability associated with these warrants was $10.0 million and it decreased to $3.3 million as of December 17, 2015 when these warrants were cashless exercised by all holders.
+ In May 2015, the Company entered into a Securities Purchase Agreement with certain institutional investors pursuant to which the Company agreed to sell up to $25 million of units, with each unit consisting of one share of its common stock and one warrant to purchase one share of its common stock, in a registered direct offering. The May 2015 Securities Purchase Agreement contemplated two closings, the first of which occurred on May 8, 2015, the second of which occurred upon satisfaction of certain conditions precedent, including, but not limited to, receipt of required stockholder approval, on August 27, 2015.  Each warrant issued at the initial closing (the “May 2015 Warrants”) had an initial exercise price of $1.02 per share, was exercisable six months and one day after the date of issuance and expires five years from the date on which it is initially 
+ 78
+
+
+exercisable. Each warrant issued at the second closing (the “August 2015 Warrants”) had an initial exercise price of $0.401 per share, and was to expire five years from the date of issuance. The initial fair value of the liability associated with the May 2015 Warrants was $14.3 million and it decreased to $5.0 million as of December 17, 2015 when these warrants were cashless exercised by all holders. The initial fair value of the liability associated with the August 2015 Warrants was $1.6 million, and it decreased to $1.5 million as of December 17, 2015, when these warrants were cashless exercised by all holders.
+ On December 17, 2015, the Company and the holders of October 2014 Warrants agreed to amend the October 2014 Warrants pursuant to an Amendment to Common Stock Purchase Warrant (the “2014 Amendment”). Also on December 17, 2015, the Company and the holders of the May 2015 Warrants and the August 2015 Warrants (collectively the “2015 Warrants”) agreed to amend the 2015 Warrants pursuant to an Amendment to Series A-1 Warrant to Purchase Common Stock and Amendment to Series A-2 Warrant to Purchase Common Stock, respectively (the “2015 Amendment” and, together with the 2014 Amendment, the “Warrant Amendments”). The Warrant Amendments provide that the holders may exercise their warrants on a “cashless exercise” basis in whole on or prior to December 31, 2015, whereby each exercising holder of the amended 2015 Warrants would receive 0.75 shares for each warrant share exercised and each exercising holder of the amended 2014 Warrants would receive 0.69 shares for each warrant share exercised. In addition, the Warrant Amendments removed certain provisions which provided that the exercise price of the Warrants would be reset in the event of certain equity issuances by the Company for a price below the exercise price of the Warrants as of the time of such issuance. All warrants were cashless exercised on or before December 31, 2015.
+ The warrants were not traded in an active securities market and, as such, the estimated fair value as of their exercise date on December 17, 2015 was determined by using the Monte Carlo option pricing model. The 2014 and 2015 warrants were settled on or prior to December 31, 2015.
+ Revenue Recognition
+ Product Sales
+ We recognize revenue from product sales when the following fundamental criteria are met: (i) persuasive evidence of an arrangement exists, (ii) delivery has occurred, (iii) the price to the customer is fixed or determinable and (iv) collection of the resulting accounts receivable is reasonably assured.  We evaluate customers that have not developed a sufficient payment history with us or for whom a letter of credit is not in place at the time of the transaction and defer revenues until collectability is reasonably assured.
+ For all sales, we use a binding purchase order or a signed agreement as evidence of an arrangement.  If the other revenue recognition criteria are met, revenue for these product sales is recognized upon delivery to the customer as all risks and rewards of ownership have been substantively transferred to the customer at that point.  For sales to customers who arrange for and manage the shipping process, we recognize revenue upon shipment from our facilities. Shipping and handling costs that are billed to our customers are classified as revenue.  The customer’s obligation to pay and the payment terms are set at the time of delivery and are not dependent on the subsequent use or resale of our products. For sales where all revenue recognition criteria are not met, revenue is deferred and related inventory remains on our books.
+ 
+Concentration of Significant Customers & Geographical Sales
+ For the year ended December 31, 2016, our sales were concentrated with respect to two distributors and three direct customers, which comprised 65% of our product revenue recognized.  Two direct customers accounted for 57% of total outstanding accounts receivable (excluding receivables from BARDA) as of December 31, 2016.
+ For the year ended December 31, 2015, our sales were concentrated with respect to one distributor and four direct customers, which comprised 63% of our product revenue recognized.  Two direct customers accounted for 73% of total outstanding accounts receivable (excluding receivables from BARDA) as of December 31, 2015.
+ Product revenues, classified by geographic location, are as follows (in thousands):
+ 
+ 
+ | Years ended December 31, | 
+-----------------------+--------------------------+------
+ | 2016 | | 2015 
+ | Product Revenues | | % of Total | | Product Revenues | | % of Total
+Americas | $ | 936 | | 20 | % | $ | 982 | 20 | %
+Japan | | 3,279 | | 71 | % | | 2,394 | 50 | %
+EMEA | | 379 | | 8 | % | | 675 | 14 | %
+Asia Pacific | | 62 | | 1 | % | | 787 | 16 | %
+Total product revenues | $ | 4,656 | | 100 | % | $ | 4,838 | 100 | %
+
+ 79
+
+
+
+Development Revenues
+ We earn revenue for performing tasks under research and development agreements with governmental agencies like BARDA. Revenues derived from reimbursement of direct out-of-pocket expenses for research costs associated with government contracts are recorded as government contract and other within development revenues.  Government contract revenue is recorded at the gross amount of the reimbursement.  The costs associated with these reimbursements are reflected as a component of research and development expense in our statements of operations.   We recognized $6.7 million and $6.8 million in BARDA revenue for the years ended December 31, 2016 and 2015, respectively.
+Research and Development
+ Research and development expenditures, which are charged to operations in the period incurred, include costs associated with the design, development, testing and enhancement of our products, regulatory fees, the purchase of laboratory supplies, and pre-clinical and clinical studies as well as salaries and benefits for our research and development employees.
+ Also included in research and development expenditures are costs incurred to support the government reimbursement contract, including $6.3 million and $6.3 million of qualified expenses that were incurred for the years ended December 31, 2016 and 2015, related to our government contract with BARDA.
+ Deferred Financing Costs and Other Debt-Related Costs
+ Deferred financing costs are capitalized, recorded as an offset to debt balances and amortized to interest expense over the term of the associated debt instrument using the effective interest method.  If the maturity of the debt is accelerated because of default or early debt repayment, then the amortization would be accelerated.
+Income Taxes
+ Income taxes are accounted for under the asset and liability method.  Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carry forwards.  Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income (loss) in the years in which those temporary differences are expected to be recovered or settled.  Due to our history of losses, a full valuation allowance has been recognized against our deferred tax assets.
+ The Company’s policy is to recognize interest and penalties related to income tax matters in income tax expense. For the years ended December 31, 2016 and 2015, the Company has not recorded any interest or penalties related to income tax matters. The Company does not foresee any material changes to unrecognized tax benefits within the next twelve months.
+ Share-Based Compensation
+ We recognize the fair value of all share-based payment awards in our statements of operations over the requisite vesting period of each award, which approximates the period during which the employee and non-employee director is required to provide service in exchange for the award. We estimate the fair value of these options using the Black-Scholes option pricing model using assumptions for expected volatility, expected term, and risk-free interest rate.  Expected volatility is based primarily on historical volatility and is computed using daily pricing observations for recent periods that correspond to the expected term of the options. The expected term is calculated based on historical data for and applied to all employee awards as a single group as we do not expect (nor does historical data suggest) substantially different exercise or post-vesting termination behavior amongst our employee population. The risk-free interest rate is the interest rate for treasury instruments with maturities that approximate the expected term.
+ Segment Information
+ For the years ended December 31, 2016 and 2015, all of our financial results relate to cell therapy, therefore we report our results in one operating segment.
+ 80
+
+
+Loss Per Share
+ Basic per share data is computed by dividing net income or loss applicable to common stockholders by the weighted average number of common shares outstanding during the period. Diluted per share data is computed by dividing net income or loss applicable to common stockholders by the weighted average number of common shares outstanding during the period increased to include, if dilutive, the number of additional common shares that would have been outstanding as calculated using the treasury stock method. Potential common shares were related entirely to outstanding but unexercised options and warrants for all periods presented.
+ We have excluded all potentially dilutive securities, including unvested performance-based restricted stock, from the calculation of diluted loss per share attributable to common stockholders for the years ended December 31, 2016 and 2015, as their inclusion would be antidilutive.  Potentially dilutive securities excluded from the calculations of diluted loss per share were 4.2 million as of December 31, 2016, which includes 3.6 million outstanding warrants and 0.6 million options and restricted stock awards. Potentially dilutive securities excluded from the calculations of diluted loss per share were 12.3 million as of December 31, 2015.
+ Recent Accounting Pronouncements
+ In May 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2016-12, Revenue from Contracts with Customers, the amendment of which addressed narrow-scope improvements to the guidance on collectability, noncash consideration, and completed contracts at transition as well as providing a practical expedient for contract modifications. In April 2016 and March 2016, the FASB issued ASU No. 2016-10 and ASU No. 2016-08, respectively, the amendments of which further clarified aspects of Topic 606: identifying performance obligations and the licensing and implementation guidance and intended to improve the operability and understandability of the implementation guidance on principal versus agent considerations. The FASB issued the initial release of Topic 606 in ASU No. 2014-09, which requires entities to recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. Entities may use a full retrospective approach or report the cumulative effect as of the date of adoption. On July 9, 2015, the FASB voted to defer the effective date by one year to December 15, 2017 for interim and annual reporting periods beginning after that date. Early adoption of ASU 2016-10 is permitted but not before the original effective date (annual periods beginning after December 15, 2017). We are currently in the process of evaluating our various contracts and revenue streams subject to this update but have not completed our assessment and, therefore, have not yet concluded on whether the adoption of this update will have a material effect on our consolidated financial statements and related disclosures.
+ In August 2014, the FASB issued ASU 2014-15, Disclosure of Uncertainties about an Entity’s Ability to Continue as a Going Concern. ASU 2014-15 requires management to evaluate relevant conditions, events and certain management plans that are known or reasonably knowable that when, considered in the aggregate, raise substantial doubt about the entity’s ability to continue as a going concern within one year after the date that the financial statements are issued, for both annual and interim periods. ASU 2014-15 also requires certain disclosures around management’s plans and evaluation, as well as the plans, if any, that are intended to mitigate those conditions or events that will alleviate the substantial doubt. ASU 2014-15 is effective for annual reporting periods, and interim periods within those periods, ending after December 15, 2016. The Company adopted this guidance to assess going concern at December 31, 2016 and its liquidity disclosures reflect the requirements of the new standard.
+ In July 2015, FASB issued ASU 2015-11, Simplifying the Measurement of Inventory. This update applies to companies that measure inventory on a first in, first out, or FIFO, or average cost basis. Under this update, companies are to measure their inventory at the lower of cost and net realizable value. Net realizable value is the estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion. The amendments in this update are effective for annual reporting periods, and interim periods within those periods, beginning after December 15, 2016 with earlier application permitted as of the beginning of an interim or annual reporting period. The adoption of ASU 2015-11 will not have a material impact on our consolidated financial statements.
+ In February 2016, the FASB issued ASU 2016-02, Leases. Under this new guidance, at the commencement date, lessees will be required to recognize (i) a lease liability, which is a lessee’s obligation to make lease payments arising from a lease, measured on a discounted basis and (ii) a right-of-use asset, which is an asset that represents the lessee’s right to use, or control the use of, a specified asset for the lease term. This guidance is not applicable for leases with a term of 12 months or less. The new standard is effective for annual reporting periods, and interim periods within those periods, beginning after December 15, 2018, with early adoption permitted. We are currently evaluating the impact that this standard will have on our consolidated financial statements.
+ In March 2016, the FASB issued ASU 2016-09, Improvements to Employee Share-Based Payment Accounting, which involves several aspects of the accounting for stock-based payment transactions, including the income tax consequences, classification of 
+ 81
+
+
+awards as either equity or liabilities, and classification on the statement of cash flows. This new guidance will require all income tax effects of awards to be recognized as income tax expense or benefit in the income statement when the awards vest or are settled, as opposed to additional paid-in-capital where it is currently recorded. It also will allow an employer to repurchase more of an employee’s shares than it can today for tax withholding purposes without triggering liability accounting. All tax-related cash flows resulting from stock-based payments are to be reported as operating activities on the statement of cash flows. The guidance also allows a Company to make a policy election to either estimate the number of awards that are expected to vest or account for forfeitures as they occur. This new standard is effective for annual reporting periods, and interim periods within those periods, beginning after December 15, 2016, with early adoption permitted. We have elected to keep our policy consistent for the application of a forfeiture rate and, as such, the adoption of this standard will not have a material impact on our consolidated financial statements.
+ In August 2016, the FASB issued ASU 2016-15, Statement of Cash Flows (Topic 230): Classification of certain cash receipts and cash payments, which addresses the following eight specific cash flow issues: Debt prepayment or debt extinguishment costs; settlement of zero-coupon debt instruments or other debt instruments with coupon interest rates that are insignificant in relation to the effective interest rate of the borrowing; contingent consideration payments made after a business combination; proceeds from the settlement of insurance claims; proceeds from the settlement of corporate-owned life insurance policies (including bank-owned life insurance policies); distributions received from equity method investees; beneficial interests in securitization transactions; and separately identifiable cash flows and application of the predominance principle. The new standard is effective for annual reporting periods, and interim periods within those periods, beginning after December 15, 2017, with early adoption permitted. We do not anticipate that the adoption of ASU 2016-15 will have a material impact on our consolidated financial statements.
+ In November 2016, the FASB issued Accounting Standards Update No. 2016-18, Restricted Cash, which requires entities to show the changes in the total of cash, cash equivalents, restricted cash and restricted cash equivalents in the statement of cash flows. As a result, entities will no longer present transfers between cash and cash equivalents and restricted cash and restricted cash equivalents in the statement of cash flows. The amendments in this update should be applied using a retrospective transition method to each period presented. This update is effective for annual periods beginning after December 15, 2017, and interim periods within those fiscal years with early adoption permitted, including adoption in an interim period. The adoption of this standard will change the presentation of our statement of cash flows to include our restricted cash balance. We are assessing whether to adopt the new guidance early in 2017.
+ In January 2017, the FASB issued Accounting Standards Update No. 2017-01, Clarifying the Definition of a Business, which clarifies and provides a more robust framework to use in determining when a set of assets and activities is a business. The amendments in this update should be applied prospectively on or after the effective date. This update is effective for annual periods beginning after December 15, 2017, and interim periods within those periods. Early adoption is permitted for acquisition or deconsolidation transactions occurring before the issuance date or effective date and only when the transactions have not been reported in issued or made available for issuance financial statements. We do not expect the adoption to have any significant impact on our consolidated financial statements, and we are in the process of determining whether to adopt the new guidance early.
+ In February 2017, the FASB recently issued ASU 2017-04, Simplifying the Test for Goodwill Impairment, to simplify how all entities assess goodwill for impairment by eliminating Step 2 from the goodwill impairment test. As amended, the goodwill impairment test will consist of one step comparing the fair value of a reporting unit with its carrying amount. An entity should recognize a goodwill impairment charge for the amount by which the reporting unit's carrying amount exceeds its fair value. This update is effective for annual periods beginning after December 15, 2019, and interim periods within those periods. Early adoption is permitted for interim or annual goodwill impairment tests performed on testing dates after January 1, 2017.  We do not anticipate that the adoption of ASU 2017-04 will have a material impact on our consolidated financial statements.
+ 
+ 
+3. | Agreement with Lorem Vascular
+---+------------------------------
+
+ On October 29, 2013, we entered into an agreement with Lorem Vascular to commercialize Cytori Cell Therapy (OICH-D3) for the cardiovascular, renal and diabetes markets, in China, Hong Kong, Malaysia, Singapore and Australia (License/Supply Agreement), and a Common Stock Purchase Agreement. On January 30, 2014, we entered into the Amended and Restated License/Supply Agreement with Lorem Vascular (the “Restated Agreement”) which restated the License/Supply Agreement in its entirety and expanded the licensed field to all uses excepting alopecia (hair loss). Under the Restated Agreement, Lorem Vascular committed to pay up to $500 million in license fees in the form of revenue milestones. In addition, Lorem Vascular is required to pay us 30% of their gross profits in China, Hong Kong and Malaysia for the term of the agreement. In addition, Lorem Vascular has agreed to purchase the Cytori Celution® System and consumables under the Restated Agreement.  Pursuant to the related Common Stock Purchase Agreement, Cytori sold Lorem Vascular 8.0 million shares of Cytori common stock at 
+ 82
+
+
+$3.00 per share for a total of $24.0 million. The equity purchased was closed in two equal installments, in November 2013 and January 2014.
+ Lorem Vascular initially purchased approximately $1.8 million in Celution® devices and consumables in December 2013. In addition to this purchase, upon achieving regulatory clearance from the Chinese Food and Drug Administration (“CFDA”), Cytori’s license agreement with Lorem Vascular obligates Lorem Vascular to purchase an opening order of 23 Celution Systems and 1,100 Celution Consumable Sets. Class I regulatory clearance was granted in April 2015. There were no business transactions with Lorem Vascular during the year ended December 31, 2016. As of December 31, 2015, Lorem Vascular has partially satisfied this purchase order.
+  
+4. | Transactions with Olympus Corporation
+---+--------------------------------------
+
+ Under our Joint Venture Termination Agreement (“Termination Agreement”), dated May 8, 2013, with Olympus Corporation (“Olympus”), we were required to pay Olympus a total purchase price of $6.0 million within two years of the date of the Termination Agreement. Pursuant to amendments to the Termination Agreement, dated April 30, 2015 and January 8, 2016, the Company’s repayment obligations were extended through May 8, 2016.  We made payments under the Termination Agreement totaling approximately $4.2 million through December 31, 2015, as well as separate payments of $0.5 million each in January 2016 and April 2016, and paid the remaining balance of $0.8 million before the May 8, 2016 due date. There were no outstanding obligations to Olympus as of December 31, 2016.
+  
+5. | Fair Value
+---+-----------
+
+Measurements
+ Fair value measurements are market-based measurements, not entity-specific measurements.  Therefore, fair value measurements are determined based on the assumptions that market participants would use in pricing the asset or liability.  We follow a three-level hierarchy to prioritize the inputs used in the valuation techniques to derive fair values.  The basis for fair value measurements for each level within the hierarchy is described below:
+
+• | Level 1: Quoted prices in active markets for identical assets or liabilities.
+--+------------------------------------------------------------------------------
+
+
+• | Level 2: Quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations in which all significant inputs are observable in active markets.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Level 3: Valuations derived from valuation techniques in which one or more significant inputs are unobservable in active markets.
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+ As of December 31, 2016 and 2015, we did not have any assets or liabilities measured at fair value presented on our balance sheets.   The 2014 and 2015 warrants included exercise price reset features (down-round protection) and were accounted for as liabilities, with changes in the fair value included in net loss for the respective periods.  Because some of the inputs to our valuation model were either not observable or were not derived principally from or corroborated by observable market data by correlation or other means, the warrant liability was classified as Level 3 in the fair value hierarchy. All of these warrants were cashless exercised on or before December 31, 2015.
+ The following table summarizes the final valuation pertaining to the warrants that were previously included in our Level 3 warrant liabilities (in thousands):
+ 
+ 
+Warrant liability | December 31, 2015 | 
+--------------------------------+-------------------+--------
+Balance as of December 31, 2014 | $ | 9,793 | 
+Additions to warrant liability | | 15,979 | 
+Exercised warrants | | (18,104 | )
+Change in fair value | | (7,668 | )
+Balance as of December 31, 2015 | $ | — | 
+
+Financial Instruments
+ We disclose fair value information about all financial instruments, whether or not recognized in the balance sheets, for which it is practicable to estimate fair value. The disclosures of estimated fair value of financial instruments at December 31, 2016 and 2015, were determined using available market information and appropriate valuation methods. Considerable judgment is 
+ 83
+
+
+necessary to interpret market data and develop estimated fair value. The use of different market assumptions or estimation methods may have a material effect on the estimated fair value amounts.
+ The carrying amounts for cash and cash equivalents, accounts receivable, inventories, other current assets, accounts payable, accrued expenses and other liabilities approximate fair value due to the short-term nature of these instruments.
+ If quoted market prices are not available, we calculate the fair value of our fixed rate debt based on a currently available market rate assuming the loans are outstanding through maturity and considering the collateral. In determining the current market rate for fixed rate debt, a market spread is added to the quoted yields on federal government treasury securities with similar terms to the debt.
+ At December 31, 2016 and 2015, the aggregate fair value and the carrying value of the Company’s long-term debt were as follows (in thousands):
+ 
+ 
+ | December 31, 2016 | | December 31, 2015 | 
+-----+-------------------+--------+-------------------+--
+ | Fair Value | | Carrying Value | | | Fair Value | | Carrying Value
+Debt | $ | 17,611 | | $ | 17,637 | | $ | 16,844 | $ | 16,681
+
+ 
+Carrying value is net of debt discount of $1.2 million and $2.1 million as of December 31, 2016 and 2015, respectively. 
+ The fair value of debt is classified as Level 3 in the fair value hierarchy as some of the inputs, primarily the effective interest rate, to our valuation model are either not observable quoted prices or are not derived principally from or corroborated by observable market data by correlation or other means.
+ 
+Nonfinancial Assets and Liabilities
+ We apply fair value techniques on a non-recurring basis associated with: (1) valuing potential impairment losses related to goodwill which are accounted for pursuant to the authoritative guidance for intangibles—goodwill and other; and (2) valuing potential impairment losses related to long-lived assets which are accounted for pursuant to the authoritative guidance for property, plant and equipment.
+
+6. | Composition of Certain Financial Statement Captions
+---+----------------------------------------------------
+
+ Inventories, net
+ As of December 31, 2016 and 2015, inventories, net, were comprised of the following (in thousands):
+ 
+ 
+ | December 31, | 
+----------------+--------------+------
+ | 2016 | | 2015 | 
+Raw materials | $ | 885 | | $ | 1,009
+Work in process | | 1,021 | | | 816 
+Finished goods | | 1,819 | | | 2,473
+ | $ | 3,725 | | $ | 4,298
+
+Other Current Assets
+ As of December 31, 2016 and 2015, other current assets were comprised of the following (in thousands):
+ 
+ 
+ | December 31, | 
+--------------------------+--------------+----
+ | 2016 | | 2015 | 
+Prepaid supplies, current | $ | 734 | | $ | 995 
+Prepaid insurance | | 83 | | | 300 
+Other receivables | | 53 | | | 260 
+ | $ | 870 | | $ | 1,555
+
+ 
+84
+
+
+Property and Equipment, net
+ As of December 31, 2016 and 2015, property and equipment, net, were comprised of the following (in thousands):
+ 
+ 
+ | December 31, | 
+----------------------------------------+--------------+-------
+ | 2016 | | | 2015 | 
+Manufacturing and development equipment | $ | 4,256 | | | $ | 5,464 | 
+Office and computer equipment | | 1,953 | | | | 1,939 | 
+Leasehold improvements | | 3,399 | | | | 3,391 | 
+ | | 9,608 | | | | 10,794 | 
+Less accumulated depreciation | | (8,451 | ) | | | (9,163 | )
+ | $ | 1,157 | | | $ | 1,631 | 
+
+ 
+Depreciation expense totaled $0.7 million and $0.7 million for the years ended December 31, 2016 and 2015, respectively.
+ Other Assets
+ As of December 31, 2016 and 2015, other assets were comprised of the following (in thousands):
+ 
+ 
+ | December 31, | 
+----------------------------+--------------+------
+ | 2016 | | 2015 | 
+Prepaid supplies, long-term | $ | 1,838 | | $ | 996 
+Deposits | | 498 | | | 525 
+ | $ | 2,336 | | $ | 1,521
+
+Accounts Payable and Accrued Expenses
+ As of December 31, 2016 and 2015, accounts payable and accrued expenses were comprised of the following (in thousands):
+ 
+ 
+ | December 31, | 
+--------------------------+--------------+------
+ | 2016 | | 2015 | 
+Accrued expenses | $ | 1,752 | | $ | 2,022
+Accounts payable | | 1,332 | | | 1,009
+Accrued payroll and bonus | | 989 | | | 1,058
+Accrued legal fees | | 614 | | | 372 
+Accrued vacation | | 502 | | | 573 
+Accrued R&D studies | | 347 | | | 1,117
+Deferred rent | | 215 | | | 221 
+Accrued accounting fees | | 121 | | | 315 
+ | $ | 5,872 | | $ | 6,687
+
+
+7. | Commitments and Contingencies
+---+------------------------------
+
+ We have entered into agreements with various research organizations for pre-clinical and clinical development studies, which have provisions for cancellation. Under the terms of these agreements, the vendors provide a variety of services including conducting research, recruiting and enrolling patients, monitoring studies and data analysis. Payments under these agreements typically include fees for services and reimbursement of expenses. The timing of payments due under these agreements is estimated based on current study progress.  As of December 31, 2016, we have clinical research study obligations of $3.3 million, $3.2 million of which are expected to be complete within a year.  Should the timing of the clinical trials change, the timing of the payment of these obligations would also change.
+ We lease facilities for our headquarters office location as well as international office locations. As of December 31, 2016, we have remaining lease obligations of $1.8 million, all of which is expected to be completed within a year. Rent expense, which includes common area maintenance, for the years ended December 31, 2016 and 2015 was $2.5 million and $2.5 million, respectively.
+ 85
+
+
+We are party to an agreement with Roche Diagnostics Corporation, our sole supplier of reagents, which requires us to make certain product purchase minimums. Pursuant to the agreement, as of December 31, 2016, we have a minimum purchase obligation as follows:
+ 
+ 
+Years Ending December 31, | | Obligation
+--------------------------+---+-----------
+2017 | $ | 1,074 
+2018 | | 1,074 
+2019 | | 1,473 
+2020 | | 1,473 
+2021 | | 1,473 
+Total | $ | 6,567 
+
+ 
+We are subject to various claims and contingencies related to legal proceedings.  Due to their nature, such legal proceedings involve inherent uncertainties including, but not limited to, court rulings, negotiations between affected parties and governmental actions.  Management assesses the probability of loss for such contingencies and accrues a liability and/or discloses the relevant circumstances, as appropriate.  Management believes that any liability to us that may arise as a result of currently pending legal proceedings will not have a material adverse effect on our financial condition, liquidity, or results of operations as a whole.
+  
+8. | Long-term Obligations
+---+----------------------
+
+ On September 29, 2014 we entered into a 2nd Amendment to the 2013 Loan and Security Agreement (the “2013 Loan Agreement”) with Oxford and Silicon Valley Bank. Pursuant to the amended 2013 Loan Agreement, and we were provided a conditional waiver of principal payments subject to meeting certain capital raise requirements, which we achieved in October. The waiver of principal payments continued through April 1, 2015 and we were then required to make payments of principal and accrued interest in equal monthly installments sufficient to amortize the Term Loan through the maturity date. 
+  On May 29, 2015, we entered into the Loan and Security Agreement, dated May 29, 2015 (the “Loan and Security Agreement”), with Oxford, pursuant to which Oxford funded an aggregate principal amount of $17.7 million (“Term Loan”), subject to the terms and conditions set forth in the Loan and Security Agreement. The Term Loan accrues interest at a floating rate of at least 8.95% per annum, comprised of three-month LIBOR rate with a floor of 1.00% plus 7.95%.  Pursuant to the Loan and Security Agreement, we were previously required to make interest only payments through June 1, 2016 and thereafter we were required to make payments of principal and accrued interest in equal monthly installments sufficient to amortize the Term loan through June 1, 2019, the maturity date. On February 23, 2016, we received an acknowledgement and agreement from Oxford related to the positive data on our U.S. ACT-OA clinical trial. As a result, pursuant to the Loan and Security Agreement, the period for which we are required to make interest-only payments was extended from July 1, 2016 to January 1, 2017. All unpaid principal and interest with respect to the Term Loan is due and payable in full on June 1, 2019. At maturity of the Term Loan, or earlier repayment in full following voluntary prepayment or upon acceleration, we are required to make a final payment in an aggregate amount equal to approximately $1.1 million. In connection with the Term Loan, on May 29, 2015, we issued to Oxford warrants to purchase an aggregate of 94,441 shares of our common stock at an exercise price of $10.35 per share. These warrants became exercisable as of November 30, 2015 and will expire on May 29, 2025 and, following the authoritative accounting guidance, are equity classified.
+ In connection with the Loan and Security Agreement, we prepaid all outstanding amounts under our prior loan agreement with Oxford and Silicon Valley Bank, at which time the Company’s obligations under the prior loan agreement immediately terminated. We paid approximately $25.4 million to Oxford and Silicon Valley Bank, consisting of the then outstanding principal balance due of approximately $23.4 million, accrued but unpaid interest of approximately $0.2 million, final payment and other agency fees of approximately $1.8 million and other customary lender fees and expenses.
+ For Oxford, we accounted for this Term Loan as a debt modification.  We retired $3.1 million of the principal of the previous loan and the corresponding unamortized fees were expensed. The remaining fees of $0.8 million were recorded as debt discount, and along with the new loan fees, are amortized as an adjustment of interest expense using the effective interest method.  For Silicon Valley Bank, which did not participate in the Term Loan, the payoff of the loan was accounted for as debt extinguishment.  Accordingly, a total loss on debt extinguishment of $0.3 million was recorded in 2015, which includes the unamortized fees and discounts along with final payment fees.
+ We allocated the aggregate proceeds of the Term Loan between the warrants and the debt obligations based on their relative fair values.  The fair value of the warrants issued to Oxford was calculated utilizing the Black-Scholes option pricing model. The Black-Scholes option-pricing model incorporates various and highly sensitive assumptions including expected volatility, expected term and risk-free interest rates. The expected volatility is based on the historical volatility of the Company’s common 
+ 86
+
+
+stock over the most recent period. The risk-free interest rate for period within the contractual life of the warrant is based on the U.S. Treasury yield in effect at the time of grant. We amortize the relative fair value of the warrants at the issuance date as a discount of $0.8 million over the term of the loan using the effective interest method, with an effective interest rate of 14.95%. The Term Loan is collateralized by a security interest in substantially all of the Company’s existing and subsequently acquired assets, subject to certain exceptions set forth in the Loan and Security Agreement and excluding its intellectual property assets, which are subject to a negative pledge. The minimum liquidity covenant is $5 million. As of December 31, 2016 we were in compliance with the debt covenants.
+ Additional details relating to the outstanding Term Loan as of December 31, 2016 and 2015 are presented in the following table (in thousands):
+ 
+ 
+Year ended December 31, 2016 | | | | | | | | | | | 
+-----------------------------+----------------------+--------+-----------------+------+--------------------------+---+---------------+----------------------------------+-----------+---+-------
+Origination Date | Original Loan Amount | | Interest Rate** | | Current Monthly Payment* | | Original Term | Remaining Principal (Face Value) | 
+May 2015 | $ | 17,700 | | 8.95 | % | $ | 136 | | 48 Months | $ | 17,700
+
+
+Year ended December 31, 2015 | | | | | | | | | | | 
+-----------------------------+----------------------+--------+-----------------+------+----------------------------+---+---------------+----------------------------------+-----------+---+-------
+Origination Date | Original Loan Amount | | Interest Rate** | | Current Monthly Payment*** | | Original Term | Remaining Principal (Face Value) | 
+May 2015 | $ | 17,700 | | 8.95 | % | $ | 136 | | 48 Months | $ | 17,700
+
+ 
+*
+
+Monthly payment as of December 2016, which reflects interest only
+ **3 month LIBOR rate with a floor of 1% plus 7.95%
+ 
+
+As of December 31, 2016, the future contractual principal and final fee payments on all of our debt and capital lease obligations are as follows (as thousands):
+ 
+ 
+Years Ending December 31, | | 
+--------------------------+---+-------
+2017 | $ | 7,080 
+2018 | | 7,080 
+2019 | | 4,629 
+Total | $ | 18,789
+
+
+Reconciliation of Face Value to Book Value as of December 31, 2016 | | | 
+------------------------------------------------------------------------------+---+--------+--
+Total debt and lease obligations, including final payment fee (Face Value) | $ | 18,789 | 
+Less: Debt discount | | (1,152 | )
+Total obligation | $ | 17,637 | 
+
+ 
+Our interest expense for the years ended December 31, 2016 and 2015 was $2.6 million and $3.4 million, respectively.  Interest expense is calculated using the effective interest method, therefore it is inclusive of non-cash amortization in the amount of $1.0 million and $1.0 million, respectively, related to the amortization of the debt discount related to the capitalized loan costs and accretion of final payment.
+  
+9. | Income Taxes
+---+-------------
+
+ Due to our net losses for the years ended December 31, 2016 and 2015, and since we have recorded a full valuation allowance against deferred tax assets, there was no provision or benefit for income taxes recorded. We recorded an immaterial amount pertaining to current foreign income tax provision expense for the year ended December 31, 2016 and no components of current or deferred federal or state income tax provisions for the years ended December 31, 2015.
+ 87
+
+
+A reconciliation of the total income tax provision tax rate to the statutory federal income tax rate of 34% for the years ended December 31, 2016 and 2015 is as follows:
+ 
+ 
+ | 2016 | | | 2015
+-------------------------------------------------------+------+--------+----+-----
+Income tax expense (benefit) at federal statutory rate | | (34.00 | )% | | (34.00 | )%
+Income tax expense (benefit) at state statutory rate | | (3.41 | )% | | (4.40 | )%
+Mark to market permanent adjustment | | 0.00 | % | | (13.91 | )%
+Change in valuation allowance | | 16.75 | % | | (7.45 | )%
+Change in state rate | | (0.06 | )% | | (0.09 | )%
+Permanent interest adjustments | | 0.16 | % | | 6.25 | % 
+Stock compensation | | 12.67 | % | | 20.43 | % 
+Transfer pricing | | 0.00 | % | | 18.49 | % 
+Research credit | | (1.44 | )% | | (2.37 | )%
+Foreign rate differential | | 0.79 | % | | 0.69 | % 
+NOLs expiring and adjustments to NOL | | 6.00 | % | | 13.92 | % 
+Other, net | | 2.54 | % | | 2.44 | % 
+ | | 0.00 | % | | 0.00 | % 
+
+ 
+The tax effects of temporary differences that give rise to significant portions of our deferred tax assets and deferred tax liabilities as of December 31, 2016 and 2015 are as follows (in thousands):
+ 
+ 
+ | 2016 | | | 2015 | 
+--------------------------------------------------------------------------+------+----------+---+------+--
+Deferred tax assets: | | | | | | | 
+Allowances and reserves | $ | 573 | | | $ | 673 | 
+Accrued expenses | | 701 | | | | 951 | 
+Deferred revenue and gain-on-sale | | 33 | | | | 39 | 
+Stock based compensation | | 1,947 | | | | 4,547 | 
+Net operating loss carryforwards | | 125,182 | | | | 119,000 | 
+Income tax credit carryforwards | | 7,764 | | | | 7,437 | 
+Property and equipment, principally due to differences in depreciation | | 675 | | | | 683 | 
+Other, net | | 15 | | | | 16 | 
+ | | 136,890 | | | | 133,346 | 
+Valuation allowance | | (134,873 | ) | | | (131,187 | )
+Total deferred tax assets, net of allowance | | 2,017 | | | | 2,159 | 
+Deferred tax liabilities: | | | | | | | 
+Intangibles assets | | (2,017 | ) | | | (2,159 | )
+Total deferred tax liability | | (2,017 | ) | | | (2,159 | )
+Net deferred tax assets (liability) | $ | — | | | $ | — | 
+
+ 
+We have established a valuation allowance against our net deferred tax assets due to the uncertainty surrounding the realization of such assets. We periodically evaluate the recoverability of the deferred tax assets. At such time as it is determined that it is more likely than not that deferred assets are realizable, the valuation allowance will be reduced. We have recorded a full valuation allowance of $134.9 million as of December 31, 2016 as we do not believe it is more likely than not our net deferred tax assets will be realized. We increased our valuation allowance by approximately $3.7 million during the year ended December 31, 2016.
+ At December 31, 2016, we had federal, and state tax loss carry forwards of approximately $344.2 million, and $158.1 million.  The federal and state net operating loss carry forwards begin to expire in 2019 and 2017, respectively, if unused.  At December 31, 2016, we had federal and state tax credit carry forwards of approximately $4.9 million and $4.4 million, respectively, after reduction for uncertain tax positions.  The Company has not performed a formal research and development credit study with respect to these credits.  The federal credits will begin to expire in 2018, if unused, and the state credits carry forward indefinitely. 
+ Pursuant to the Internal Revenue Code (“IRC”) of 1986, as amended, specifically IRC §382 and IRC §383, our ability to use net operating loss and R&D tax credit carry forwards (“tax attribute carry forwards”) to offset future taxable income is limited if we experience a cumulative change in ownership of more than 50% within a three-year testing period. We have not completed an ownership change analysis pursuant to IRC Section 382 for taxable years ended after December 31, 2007. If ownership changes 
+ 88
+
+
+within the meaning of IRC Section 382 are identified as having occurred subsequent to 2007, the amount of remaining tax attribute carry forwards available to offset future taxable income and income tax expense in future years may be significantly restricted or eliminated.  Further, our deferred tax assets associated with such tax attributes could be significantly reduced upon realization of an ownership change within the meaning of IRC §382.
+ We recognize tax benefits associated with the exercise of stock options directly to stockholders’ equity only when realized.  Accordingly, deferred tax assets are not recognized for net operating loss carry forwards resulting from windfall tax benefits.  At December 31, 2016, deferred tax assets do not include $1.3 million of excess tax benefits from stock-based compensation.
+ The Company follows the provisions of income tax guidance which provides recognition criteria and a related measurement model for uncertain tax positions taken or expected to be taken in income tax returns. The guidance requires that a position taken or expected to be taken in a tax return be recognized in the financial statements when it is more likely than not that the position would be sustained upon examination by tax authorities. Tax positions that meet the more likely than not threshold are then measured using a probability weighted approach recognizing the largest amount of tax benefit that is greater than 50% likely of being realized upon ultimate settlement. The Company has not recognized any liability for uncertain tax positions as of December 31, 2016 and 2015. 
+ Following is a tabular reconciliation of the unrecognized tax benefits activity during the years ended December 31, 2016 and 2015 (in thousands):
+ 
+ 
+ | 2016 | | | 2015 | 
+------------------------------------------------+------+-------+---+------+--
+Unrecognized Tax Benefits – Beginning | $ | 1,987 | | | $ | 1,852
+Gross increases – tax positions in prior period | | 1 | | | | — 
+Gross decreases – tax positions in prior period | | (13 | ) | | | — 
+Gross increase – current-period tax positions | | 87 | | | | 135 
+Unrecognized Tax Benefits – Ending | $ | 2,062 | | | $ | 1,987
+
+ 
+The unrecognized tax benefit amounts are reflected in the determination of the Company’s deferred tax assets.  If recognized, none of these amounts would affect the Company’s effective tax rate, since it would be offset by an equal reduction in the deferred tax asset valuation allowance.  The Company does not foresee material changes to its liability for uncertain tax benefits within the next twelve months. 
+ The Company’s material tax jurisdictions are United States and California.  The Company is currently not under examination by the Internal Revenue Service or any other taxing authority.
+ The Company’s tax years for 1998 (federal) and 1997 (CA) and forward can be subject to examination by the United States and California tax authorities due to the carry forward of net operating losses and research development credits.
+  
+10. | Employee Benefit Plan
+----+----------------------
+
+ We implemented a 401(k) retirement savings and profit sharing plan (the “Plan”) effective January 1, 1999. We may make discretionary annual contributions to the Plan, which is allocated to the profit sharing accounts based on the number of years of employee service and compensation. At the sole discretion of the Board of Directors, we may also match the participants’ contributions to the Plan. We made no discretionary or matching contributions to the Plan in 2016 or 2015.
+  
+11. | Stockholders’ Equity
+----+---------------------
+
+Preferred Stock
+ We have authorized 5 million shares of $0.001 par value preferred stock. Our Board of Directors is authorized to designate the terms and conditions of any preferred stock we issue without further action by the common stockholders.  There were 13,500 shares of Series A 3.6% Convertible Preferred Stock that had been issued at December 31, 2016 and 2015, none of which were outstanding as of either date.
+ All outstanding shares of the Series A 3.6% Convertible Preferred Stock were converted into common stock during the fourth quarter of 2014 and the first quarter of 2015 at the option of the holders. The fair value of the common stock into which the Series A 3.6% Convertible Preferred Stock was convertible on the date of issuance exceeded the proceeds allocated to the preferred stock, resulting in the beneficial conversion feature that we recognized as a dividend to the preferred stockholders and, accordingly, an adjustment to net loss to arrive at net loss allocable to common stockholders.  Certain shares of Series A 3.6% Convertible Preferred Stock were not convertible until stockholder approval, which occurred in January 2015.  As a result, a dividend for the beneficial conversion feature of $0.7 million was recorded during the quarter ended March 31, 2015.
+ 89
+
+
+In connection with the 3.6% Convertible Preferred Stock outstanding at December 31, 2014, we declared a cash dividend of $0.07 million. The cash dividend was paid in January and April 2015.
+ Common Stock
+ In May 2015, the Company entered into a Securities Purchase Agreement with certain institutional investors pursuant to which the Company agreed to sell up to $25.0 million of units, with each unit consisting of one share of its common stock and one warrant to purchase one share of its common stock, in a registered direct offering.  The purchase and sale of the units took place in two separate closings.  At the initial closing, which took place on May 8, 2015, the Company received approximately $17.4 million in net proceeds from the sale of units. The second closing occurred on August 27, 2015 upon satisfaction of certain conditions, including, without limitation, stockholder vote, and the Company received approximately $2.1 million in net proceeds from the sale of 500,000 units of the 1,000,000 units available for sale at the second closing.
+ On December 17, 2015, the Company and the holders of October 2014 warrants agreed to amend the October 2014 Warrants pursuant to an Amendment to Common Stock Purchase Warrant (the “2014 Amendment”). Also on December 17, 2015, the Company and the holders of the May 2015 Warrants and the August 2015 Warrants (collectively the “2015 Warrants”) agreed to amend the 2015 Warrants pursuant to an Amendment to Series A-1 Warrant to Purchase Common Stock and Amendment to Series A-2 Warrant to Purchase Common Stock, respectively (the “2015 Amendment” and, together with the 2014 Amendment, the “Warrant Amendments”). The Warrant Amendments provided that the holders may exercise their warrants on a “cashless exercise” basis in whole on or prior to December 31, 2015, whereby each exercising holder of the amended 2015 Warrants would receive 0.75 shares for each warrant share exercised and each exercising holder of the amended 2014 Warrants would receive 0.69 shares for each warrant share exercised. In addition, the Warrant Amendments removed certain provisions which provided that the exercise price of the Warrants would be reset in the event of certain equity issuances by the Company for a price below the exercise price of the Warrants at the time of such issuance. All 2014 Warrants and all 2015 Warrants were cashless exercised on or before December 31, 2015.
+ During 2016, we sold 1,840,982 shares of our common stock under an at-the-market offering program (“ATM”), receiving total net proceeds of approximately $4.4 million. During 2015, we sold 5,800,000 shares of our common stock under the ATM program, receiving total net proceeds of approximately $7.2 million. 
+ Pursuant to a registration statement on Form S-1, originally filed on April 6, 2016, as amended, and declared effective by the SEC on May 26, 2016, and related prospectus (as supplemented), the Company registered, offered and sold to its participating stockholders of record as of the announced May 20, 2016 record date, one non-transferable subscription right for each share of common stock held by each stockholder as of the record date. Each right entitled the holder thereof to purchase one unit at the subscription price of $2.55 per unit, composed of one share of common stock and 0.5 of a warrant, with each whole warrant exercisable to purchase one share of common stock at an exercise price of $3.06 per share for 30 months from the date of issuance.  Pursuant to the Rights Offering, which closed on June 15, 2016, the Company sold an aggregate of 6,704,852 units, resulting in total net proceeds to the Company of $15.3 million, respectively.  The warrants issued pursuant to the Rights Offering are currently listed on NASDAQ under the symbol “CTYXW.”  Based on the relevant authoritative accounting guidance, the warrants were equity classified at the issuance date. Upon notice to the warrant holders, the warrants may be redeemed by the Company at $0.01 per warrant prior to their expiration and exercise if the Company’s common stock closes above $7.65 per share for 10 consecutive trading days.
+ On December 22, 2016, we entered into the Lincoln Park Purchase Agreement pursuant to which we have the right to sell to Lincoln Park and Lincoln Park is obligated to purchase up to $20.0 million in amounts of shares, of our common stock, over the 30-month period commencing on the date that a registration statement, which we filed with the SEC in December 2016. We may direct Lincoln Park, at its sole discretion and subject to certain conditions, to purchase up to 100,000 shares of common stock on any business day but in no event will the amount of a single Regular Purchase (as defined in the Lincoln Park Purchase Agreement) exceed $1.0 million. The purchase price of shares of common stock related to the Regular Purchases will be based on the prevailing market prices of such shares at the time of sales. Our sales of shares of common stock to Lincoln Park under the Lincoln Park Purchase Agreement are limited to no more than the number of shares that would result in the beneficial ownership by Lincoln Park and its affiliates, at any single point in time, of more than 9.99% of the then outstanding shares of the common stock. There are no trading volume requirements or restrictions under the Lincoln Park Purchase Agreement. There is no upper limit on the price per share that Lincoln Park must pay for common stock under a Regular Purchase or an accelerated purchase and in no event will shares be sold to Lincoln Park on a day our closing price is less than the floor price of $0.50 per share as set forth in the Purchase Agreement. On December 22, 2016, we issued to Lincoln Park 127,419 shares of common stock with a market value on the date of issuance of approximately $0.2 million as commitment shares in consideration for entering into the Lincoln Park Purchase Agreement. We will issue up to an additional 382,258 shares of common stock on a pro rata basis to Lincoln Park only as and when shares are sold under the Lincoln Park Purchase Agreement to Lincoln Park. To date, we have sold no shares under the Lincoln Park Purchase Agreement with Lincoln Park. 
+ 
+90
+
+
+ 
+12. | Stock-based Compensation
+----+-------------------------
+
+ In August 2014, we adopted the 2014 Equity Incentive Plan (the “2014 Plan”), which provides our employees, directors and consultants the opportunity to purchase our common stock in the form of options (incentive or non-qualified), stock appreciation rights, restricted stock purchase rights, restricted stock bonuses, restricted stock units, performance shares, performance units, cash-based awards other stock-based awards, and deferred compensation awards.  The 2014 Plan initially provides for issuance of 265,000 shares of our common stock.  In May 2016, the Company amended the 2014 Plan to add 333,333 shares to its share pool. In August 2015, the Company amended the 2014 Plan to add 301,800 shares to its share pool. In addition, the amendment increased the number of “incentive stock options” which may be issued under the 2014 Plan by an identical amount.
+ On December 29, 2015, we adopted the 2015 New Employee Incentive Plan (the “2015 Plan”). Awards under the 2015 Plan may only be made to an employee who has not previously been an employee or member of the Board of any parent or subsidiary, or following a bona fide period of non-employment by the Company or a parent or subsidiary, if he or she is granted such award in connection with his or her commencement of employment with the Company or a subsidiary and such grant is an inducement material to his or her entering into employment with the Company or such subsidiary. The 2015 Plan provides for issuance of 66,666 shares. 
+ As of December 31, 2016, there are 525,965 shares of common stock remaining and available for future issuances under the 2014 Plan, which is exclusive of securities to be issued upon an exercise of outstanding options, warrants, and rights.
+ Stock Options
+ Generally, options issued under the 2014 Plan, are subject to four-year vesting, and have a contractual term of 10 years.  Most options contain one of the following two vesting provisions:
+
+• | 12/48 of a granted award will vest after one year of service, while an additional 1/48 of the award will vest at the end of each month thereafter for 36 months, or
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | 1/48 of the award will vest at the end of each month over a four-year period.
+--+------------------------------------------------------------------------------
+
+ A summary of activity for the year ended December 31, 2016 is as follows:
+ 
+ 
+ | Options | | | Weighted Average Exercise Price | 
+--------------------------------+---------+----------+---+---------------------------------+--
+Balance as of January 1, 2016 | | 573,727 | | | $ | 44.85 
+Granted | | 347,407 | | | $ | 2.73 
+Expired | | (23,979 | ) | | $ | 104.11
+Cancelled/forfeited | | (261,043 | ) | | $ | 32.07 
+Balance as of December 31, 2016 | | 636,112 | | | $ | 24.39 
+
+
+ | Options | | Weighted Average Exercise Price | | | Weighted Average Remaining Contractual Term (years) | Aggregate Intrinsic Value
+-------------------------------------------------+---------+---------+---------------------------------+---+-------+-----------------------------------------------------+--------------------------
+Balance as of December 31, 2016 | | 636,112 | | $ | 24.39 | | 7.38 | $ | —
+Vested and expected to vest at December 31, 2016 | | 598,135 | | $ | 25.72 | | 7.27 | $ | —
+Exercisable at December 31, 2016 | | 286,358 | | $ | 47.76 | | 5.54 | $ | —
+
+ 
+There were no stock options exercised in 2016 or 2015. 
+ The fair value of each option awarded during the year ended December 31, 2016 and 2015 was estimated on the date of grant using the Black-Scholes-Merton option valuation model based on the following weighted-average assumptions:
+ 
+ 
+ | Years ended December 31, | 
+-------------------------------------------------+--------------------------+------
+ | 2016 | | | 2015 | 
+Expected term | 6.0 years | | | 6.0 years | 
+Risk-free interest rate | | 1.75 | % | | | 1.58 | %
+Volatility | | 77.56 | % | | | 75.07 | %
+Dividends | | — | | | | — | 
+Resulting weighted average grant date fair value | $ | 1.84 | | | $ | 4.50 | 
+
+ 91
+
+
+
+The weighted average risk-free interest rate represents the interest rate for treasury constant maturity instruments published by the Federal Reserve Board. If the term of available treasury constant maturity instruments is not equal to the expected term of an employee option, we use the weighted average of the two Federal Reserve securities closest to the expected term of the employee option.
+ The dividend yield has been assumed to be zero as we (a) have never declared or paid any dividends and (b) do not currently anticipate paying any cash dividends on our outstanding shares of common stock in the foreseeable future.
+ Restricted Stock Awards
+ Generally, restricted stock awards issued under the 2014 Plan are subject to a vesting period that coincides with the fulfillment of service requirements for each award and have a contractual term of 10 years. These awards are amortized to compensation expense over the estimated vesting period based upon the fair value of our common stock on the award date.
+ A summary of activity for the year ended December 31, 2016 is as follows:
+ 
+ 
+ | Restricted Stock Awards | | | Weighted Average Grant Date Fair Value | 
+--------------------------------+-------------------------+---------+---+----------------------------------------+--
+Balance as of January 1, 2016 | | 31,196 | | | $ | 12.15
+Vested/Released | | (11,568 | ) | | $ | 15.18
+Cancelled/forfeited | | (19,113 | ) | | $ | 10.03
+Balance as of December 31, 2016 | | 515 | | | $ | 64.52
+
+ 
+The following summarizes the total compensation cost recognized for the stock options and restricted stock awards in the accompanying financial statements (in thousands):
+ 
+ 
+ | Years ended December 31, | 
+--------------------------------------------------------------------------------------------------------------------------------+--------------------------+------
+ | 2016 | | 2015 | 
+Total compensation cost for share-based payment arrangements recognized in the statement of operations (net of tax of $0) | $ | 1,080 | | $ | 2,041
+
+ 
+As of December 31, 2016, the total compensation cost related to non-vested stock options and stock awards not yet recognized for all our plans is approximately $1.0 million, which is expected to be recognized as a result of vesting under service conditions over a weighted average period of 1.58 years.
+ To settle stock options and restricted stock awards, we will issue new shares of our common stock.  At December 31, 2016, we have an aggregate of 49,708,768 shares authorized and available to satisfy option exercises under our plans.
+  
+13. | Quarterly Information (unaudited)
+----+----------------------------------
+
+ The following unaudited quarterly financial information includes, in management’s opinion, all the normal and recurring adjustments necessary to fairly state the results of operations and related information for the periods presented (in thousands):
+ 
+ 
+ | For the three months ended | 
+--------------------------------------------------------------+----------------------------+-------
+ | March 31, 2016 | | | June 30, 2016 | | | September 30, 2016 | | December 31, 2016 | 
+Product revenues | $ | 1,333 | | | $ | 1,126 | | $ | 731 | | $ | 1,466 | 
+Gross profit | | 766 | | | | 541 | | | 113 | | | 521 | 
+Development revenues | | 1,585 | | | | 1,699 | | | 1,879 | | | 1,561 | 
+Operating expenses | | (7,448 | ) | | | (8,464 | ) | | (6,789 | ) | | (5,670 | )
+Other expense, net | | (242 | ) | | | (181 | ) | | (587 | ) | | (1,330 | )
+Net income (loss) | $ | (5,339 | ) | | $ | (6,405 | ) | $ | (5,384 | ) | $ | (4,918 | )
+Beneficial conversion feature for convertible preferred stock | | — | | | | — | | | — | | | — | 
+Net income (loss) allocable to common stock holders | | (5,339 | ) | | | (6,405 | ) | | (5,384 | ) | | (4,918 | )
+Basic and diluted net loss per share | $ | (0.41 | ) | | $ | (0.43 | ) | $ | (0.26 | ) | $ | (0.24 | )
+
+92
+
+
+ 
+ | For the three months ended | 
+--------------------------------------------------------------+----------------------------+--------
+ | March 31, 2015 | | | June 30, 2015 | | | September 30, 2015 | | December 31, 2015 | 
+Product revenues | $ | 902 | | | $ | 1,614 | | $ | 766 | | $ | 1,556 | 
+Gross profit | | 305 | | | | 318 | | | 264 | | | 765 | 
+Development revenues | | 1,444 | | | | 1,847 | | | 1,710 | | | 1,820 | 
+Operating expenses | | (22,745 | ) | | | 3,626 | | | 16 | | | (4,656 | )
+Other expense, net | | (961 | ) | | | (1,342 | ) | | (470 | ) | | (685 | )
+Net income (loss) | $ | (21,957 | ) | | $ | 4,449 | | $ | 1,520 | | $ | (2,756 | )
+Beneficial conversion feature for convertible preferred stock | | (661 | ) | | | — | | | — | | | — | 
+Net income (loss) allocable to common stock holders | | (22,618 | ) | | | 4,449 | | | 1,520 | | | (2,756 | )
+Basic and diluted net loss per share | $ | (3.19 | ) | | $ | 0.45 | | $ | 0.15 | | $ | (0.25 | )
+
+
+14. | Subsequent Events
+----+------------------
+
+Azaya Therapeutics, Inc. Assets
+ On February 15, 2017 (the “Closing Date”), Cytori completed the acquisition from Azaya Therapeutics, Inc. (“Azaya”) of substantially all of the assets and the assumption of certain of liabilities, pursuant to an Asset Purchase Agreement.  Pursuant to the Acquisition, Cytori has acquired the rights, title and interest in and to (i) Azaya’s ATI-0918 drug candidate, a generic bioequivalent formulation of DOXIL/CAELYX, a chemotherapy drug that is a liposomal encapsulation of doxorubicin (ATI-0918); (ii) Azaya’s ATI-1123 drug candidate, a liposomal formulation of docetaxel (ATI-1123); and (iii) certain equipment, inventory and other assets necessary to develop, manufacture, test and validate ATI-0918 and ATI-1123.
+ Under the terms of the Purchase Agreement, at the closing of the Acquisition, the Company (i) issued 1,173,241 of shares of its common stock, par value, $0.001 per share , in Azaya’s name, (A) 879,931 of which will be delivered to Azaya promptly after the Closing, and (B) 293,310 of which will be deposited into a 15-month escrow pursuant to a standard escrow agreement; and (ii) assumed the obligation to pay approximately $2.0 million of Azaya’s existing trade payables, which payments the Company intends to make at or within thirty days after the Closing.  The price per share was $1.7047, which price was equal to the volume weighted average closing price of the shares on the Nasdaq Capital Market over the ten consecutive trading days ending on the trading date immediately prior to the date of the Closing Date.  
+ In addition, as of the Closing Date, the Company assumed obligations to: (i) pay Azaya fixed commercialization milestone payments based upon achievement of certain net sales milestones for ATI-0918; (ii) make certain earn-out payments to Azaya equal to a mid-single-digit percentage of net sales of ATI-0918; and (iii) make certain earn-out payments to Azaya equal to a low single-digit percentage of net sales of any product (each a “Patented Product”), including ATI-1123, that practices a claim in the related patent assigned by Azaya to the Company (the “ATI-1123 Patent”).  Cytori’s aggregate earn-out payment obligations to Azaya from global net sales of both ATI-0918 and any Patented Product will not exceed $100.0 million (the “Earn-Out Cap”).
+ Further, the Purchase Agreement provides that if Cytori enters into certain assignments, licenses or other transfers of rights to a Patented Product or the ATI-1123 Patent, the Company will pay Azaya a percentage in the low to mid-teens of the consideration received by the Company, provided, that Cytori’s aggregate payment obligation to Azaya for any such assignment, license or other transfer of rights will not exceed $50.0 million.
+ If the Company or its successors, sublicenses or transferees sells a competing product to ATI-0918 at any time prior to satisfaction of the Earn-Out Cap, other than because ATI-0918 fails to receive marketing authorization from the European Medicines Agency within a certain period of time or fails to generate a minimum threshold of net sales within a pre-determined amount of time, then 50% of the net sales of such competing product would be deemed to be net sales of ATI-0918 under the Purchase Agreement for purposes of calculating commercialization milestone payments and earn-out payments.
+ Both the Company and Azaya agreed to customary representations, warranties and covenants in the Purchase Agreement. Each party also agreed to customary indemnification obligations, provided, that Azaya’s maximum liability to the Company for breaches of Azaya’s representations and warranties in the Purchase Agreement and any ancillary agreements entered into in connection therewith, is limited to $3.9 million, subject to limited exceptions.
+ 93
+
+
+Lease Agreement
+ On February 27, 2017, Cytori entered into a Lease Agreement (the “Lease”) with 6262 Lusk Investors LLC, a California limited liability company (“Landlord”), for approximately 29,499 square feet of office space for the Company’s corporate headquarters in San Diego, California. The initial term of the Lease is 63 months, and may be extended upon mutual agreement of the Company and the Landlord.  The Lease is scheduled to commence on November 1, 2017 date, unless the premises are earlier occupied by the Company or the commencement date is delayed to allow for substantial completion of tenant improvements.  
+ Under the Lease, the Company will be obligated to pay base rent as follows (in thousands): 
+  
+• | Year 1: $761; 
+--+---------------------------------------------------------
+• | Year 2: $784; 
+• | Year 3: $807; 
+• | Year 4: $832; 
+• | Year 5: $857; 
+• | Months 61-63: $74 per month ($882 annualized base rent).
+
+ In addition to the base rent, the Company will also be obligated under the Lease to make certain payments for operating expenses, property taxes, insurance, insurance deductibles and other amounts. 
+ In connection with the Lease, the Company issued a letter of credit, or Letter of Credit, in favor of the Landlord in the initial principal amount of $0.1 million, which Letter of Credit will increase to $0.3 million on June 1, 2017, and to $0.5 million on the commencement date.  The Letter of Credit will remain in effect for the term of the Lease. 
+ The Company has agreed to customary indemnifications of the Landlord and its affiliates arising out of the Company’s use of the rented premises, breaches of the Company’s obligations under the Lease and similar matters (except to the extent arising out of the Landlord’s gross negligence or willful misconduct).
+ 
+94
+
+

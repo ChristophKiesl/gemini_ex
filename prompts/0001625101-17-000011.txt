@@ -1,0 +1,344 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ Item 1. Business
+ General
+ We are a medical technology company developing a novel tissue treatment platform based upon our proprietary Nano-Pulse Stimulation (NPS) technology. We believe NPS will provide unique benefits to patients in a wide variety of medical applications. We are currently pursuing applications in immuno-oncology, dermatology, general tissue treatment and veterinary medicine, and we may pursue many others in the future   
+ Nano-Pulse Stimulation is a non-thermal, precise, focal drug-free tissue treatment technology that initiates cell death within treated tissue. NPS utilizes nanosecond pulsed electric fields to induce cell signaling and the activation of cellular pathways by creating transient nanopores in cellular membranes and organelles. Once created, these transient nanopores allow ions to pass through these membranes, which disrupts cellular function and initiates cell death. NPS cell death eliminates treated tissue cells with a minimal inflammatory response, leading to a favorable healing process and the replacement of treated tissue cells with healthy tissue cells. 
+ In pre-clinical models of cancerous lesions, NPS has been shown to induce immunogenic cell death (ICD), a process that leads to the exposure of the unique cancer cell antigens to the immune system, resulting in the generation of cytotoxic T-cells and the mounting of an adaptive immune response targeted against those cells, without any observed toxic side effects. Based on this pre-clinical research, we believe NPS can offer a novel tumor treatment therapy, as a monotherapy and in combination with other therapies. 
+ ﻿
+ The PulseTxTM System (PulseTx) is our proprietary NPS delivery system comprised of a tunable nanosecond pulse generation system and interchangeable tissue applicators, designed to enable the application of NPS across a variety of tissue treatment applications. We believe the unique biological response of cells to our novel NPS technology enables Pulse Biosciences the opportunity to pursue therapeutic applications across a wide array of tissues types, including benign and cancerous lesions. The favorable healing characteristics of NPS afford opportunities in applications such a as dermatology and aesthetics, while the ability to initiate ICD holds promise in key applications such as immune-oncology.
+ ﻿
+ Pulse Biosciences strategy is to deploy the PulseTx System in pilot clinical studies to help identify those applications where NPS represents a high value opportunity. Based on these results and the market opportunity we will pursue the required regulatory clearances and ultimately commercialize these opportunities.   
+
+
+     
+3
+
+ 
+     Our Proprietary Nano-Pulse Stimulation Technology
+ We are developing a therapeutic tissue treatment platform based upon our proprietary NPS technology. NPS is a local, non-thermal, and drug-free treatment that can physically stimulate cell death, a process in which cells systematically eliminate themselves to make way for new cells. The NPS cell death process triggers a cascade of cellular events that in preclinical models has been shown to induce a sustained adaptive immune response when employed in cancerous tumor cells, producing a durable systemic therapeutic benefit from a local treatment. 
+ Programmed cell death is a normal process exhibited by many cells in the human body when they are no longer functioning properly. It involves a slow “digestion” of cellular proteins and DNA in the cells that are then recognized and removed by the immune system. When this process results in ICD, it stimulates the immune system to generate an immune response that actively seeks out and destroys any similar cells in the body. Pre-clinical studies suggest that NPS can stimulate programmed cell death and ICD in cancer cells. 
+ We believe the unique characteristics of NPS cell death will translate to positive clinical outcomes and may establish NPS as a superior treatment modality across a variety of potential applications, including oncology, dermatology, and other minimally invasive applications where current treatment modalities do not provide benefits comparable to those afforded by NPS. 
+ NPS exerts an electrical force on water molecules, driving them into the lipid bilayer, and producing transient, water-filled nanopores in cell and organelle membranes.
+ ﻿
+
+﻿ | 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ | These transient pores allow ions to pass through them, and this can have several immediate effects including the release of calcium ions from the endoplasmic reticulum and the termination of the mitochondrial membrane potential. Downstream effects of NPS include initiating a signaling cascade that we believe can result in ICD in immunogenic lesions. ICD is a process by which cells are induced to die in a manner that activates the immune system to both clear the dying tumor cell and enroll cytotoxic T cells (CD8 +) and other immune system cells to recognize and eliminate cells of the same tumor type. Alternatively, in non-immunogenic lesions, we believe NPS can initiate a positive healing response with little inflammation. 
+
+  It is this nanoporation effect on internal cellular membranes that differentiates our technology from other energy -based therapies, such as irreversible electroporation (IRE) and radiofrequency ablation (RFA). 
+ We believe we are a uniquely positioned medical technology company with the intellectual property, technology, and know-how to commercialize our NPS technology. Many other medical device companies produce products for treating and ablating tumors using a number of different modalities, including the use of extreme heat (e.g. RFA, microwave ablation or electrocauterization) or cold (e.g. cryoablation), or weaker electric fields with much longer pulses (e.g. IRE). The use of these modalities generally leads to immediate cellular necrosis. We believe that NPS differs significantly as it offers a non-thermal and non-ionizing technology that can be used to precisely treat a volume of tissue with minimal inflammatory response, potentially reducing collateral damage to surrounding tissue with a favorable healing profile. We believe these attributes, as well as the ability to induce ICD, will enable the use of NPS in a number of high value applications. 
+ The cellular response to NPS is believed to occur in the following steps:
+
+· | Nanopores form within cellular membranes immediately and calcium increases in the cytoplasm within one second;
+--+---------------------------------------------------------------------------------------------------------------
+
+
+· | Phosphatidylserine (PS) is externalized to the cell surface within several seconds and is one marker used by the immune system to target and phagocytose unhealthy cells;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Calcium-dependent reactive oxygen species (ROS) generation occurs within approximately one minute;
+--+---------------------------------------------------------------------------------------------------
+
+
+· | Pyknosis and DNA fragmentation are stimulated within approximately 10 minutes (pyknosis is the shrinking of a cell nucleus along with condensation of the tissue in a cell that is undergoing necrosis or programmed cell death);
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+     
+4
+
+ 
+     
+· | Calreticulin protein is externalized to the cell surface to become a second “eat me” signal within approximately two hours;
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+· | Caspase activation occurs within approximately three hours (caspases are a family of cellular proteins that are normally inactive but can be activated during programmed cell death to degrade other cellular proteins); and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | We believe an adaptive immune response to the treated tumor can be triggered over a period of 14-28 days, as demonstrated in pre-clinical models showing the presence of CD8 + T cells, 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Potential Benefits of NPS Technology:
+
+· | Fast, precise, and focal treatment of tissue;
+--+----------------------------------------------
+
+
+· | Induction of ICD, which can induce a targeted adaptive immune response;
+--+------------------------------------------------------------------------
+
+
+· | Elimination of unwanted tissue with a favorable healing profile;
+--+-----------------------------------------------------------------
+
+
+· | Reduction of potential damage to adjacent tissue because NPS does not rely on heat for ablation; and,
+--+------------------------------------------------------------------------------------------------------
+
+
+· | Utilization as a monotherapy or in combination with other therapeutics such as checkpoint inhibitor therapies (αPD-1, αPD-L1, αCTLA-4).
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+  Side Effects of NPS Technology
+ We recently completed a clinical study treating skin with NPS at multiple energy levels, utilizing multiple applicator configurations and applying up to 30 separate NPS treatments to each patient over the course of the 60-day treatment phase of the study. During the study, no adverse events were reported and no side effects were observed.  Furthermore, subsequent histological review of the treated tissues did not reveal negative unintended tissue responses resulting from the NPS treatments.
+ During the course of conducting pre-clinical studies, over 1,000 tumors have been treated with NPS with no consistent side effects observed. Our predecessors and others carried out longer-term experiments in which a single tumor was ablated in each animal followed by observation for a period of 4 months for melanoma and 300 days for pancreatic cancer. No side effects were observed in these animals. The few reported problems observed over the past 10 years of animal studies resulted from improper placement of the applicators. 
+ Our Proprietary NPS Delivery System
+ To deliver our NPS therapies and treatments we have developed our NPS platform, the PulseTx system. The PulseTx is a first-of-its-kind tunable nanosecond pulse generation and interchangeable applicator system designed to enable NPS treatments and therapies across multiple clinical and research application. The PulseTx is comprised of two primary components:
+· | The PulseTx Generator: a novel and proprietary tunable pulse generator capable of delivering treatments with varying pulse amplitude, duration, frequency and number. These are the key NPS parameters for stimulating cell death and ICD in tissue. The ability to tune these parameters with the PulseTx enables the development treatments of and therapies for a variety of applications and tissue types.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | PulseTx Applicator Suite; a suite of interchangeable NPS treatment applicators that deliver NPS directly to the tissue being treated. We are designing a suite of single and multiple use PulseTx Applicators tailored to specific applications, including open or minimally invasive surface, surgery or solid tissue treatments.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  We believe that the design of the PulseTx system will allow the system to be deployed in a standard clinic or laboratory setting, without the need for special facilities or installation requirements.
+ We submitted a United States Food and Drug Administration (FDA) 510(k) for the PulseTx System for soft tissue ablation during the first quarter of 2017. We plan to conduct post-market studies that we believe will demonstrate improved clinical outcomes and drive specific indications. Although additional and broader indications may be cleared through the 510(k) process, we may be required to pursue Premarket Approval from the FDA to make labeling claims for specific indications.
+ ﻿
+ ﻿
+
+
+     
+5
+
+ 
+     Applications
+ ﻿
+ Dermatology/Aesthetics
+ We believe NPS has high potential to offer improved clinical outcomes for a broad range of dermatology conditions and aesthetic improvement applications for which targeted removal of skin lesions is medically or cosmetically desirable.  Current dermatology procedures to remove lesions or undesired skin tissue typically involve either excision (e.g. surgery) or the use of extreme heat (e.g. lasers or radiofrequency energy) or extreme cold (e.g. cryoablation). Patients are advised that these methods of tissue removal can be effective, but carry a risk of collateral damage to nearby healthy tissue and the associated inflammatory response to severe tissue injury, which can result in visible scars and pigment changes that can appear as cosmetically undesirable as the original lesion.      The novel NPS non-thermal mechanism for removing undesired skin lesions has the potential for both reducing collateral damage to surrounding healthy tissue and minimizing the inflammatory response as compared to standard treatment modalities, both of which can help contribute to cosmetically desired appearance of the skin when the lesion is eliminated and the skin is healed. 
+ We recently completed our first NPS clinical study in dermatology, a dose response study in skin. This important skin safety and dose response study was designed to evaluate the tissue effects of a wide range of NPS energy “doses” on healthy skin. Over 170 individual sections of skin were tested during the course of the study.  The interim analysis of investigator evaluations, clinical photographs, and microscopic examination of tissue samples consistently demonstrated a pattern of controlled destruction of targeted tissue in the upper layer of the skin (the epidermis) where many skin lesions are located, and a tissue sparing effect in the dermal skin layer. This finding of selective epidermal effects was consistent and apparent for all tested energy settings in the study.  In addition, based on key microscopic indicators of long-term skin safety, a dermatopathologist concluded NPS has a low risk of undesired dermal damage and a restoration of a normal population of the melanocytes that produce skin pigment in the epidermis, when compared to untreated controls.
+ Based on the promising interim analysis from this recent NPS dose-response study, we have identified multiple potentially high value applications in dermatology for which the non-thermal effects of NPS in normal skin epidermis may lead to improved patient experiences and improved outcomes when compared to existing more destructive lesion removal methods. Potential application candidates in dermatology include Seborrheic Keratosis, warts, cherry angiomas, Basal Cell Carcinoma, Squamous Cell Carcinoma (SCC), and Actinic Keratosis, although we believe there are more skin conditions to consider for future studies.  Key considerations in prioritizing our initial clinical application include, a substantial market size for skin treatments that are more typically paid directly by patients, a likelihood of favorable clinical outcomes based on the continued analysis of our dose response study data, comparisons to the current standards of care for lesion removal, and an indication for which there is a 510(k) pathway for clearance may be possible. Once we choose the initial application in dermatology, we will pursue a clinical study that we believe can be the basis for a 510(k) clearance for a specific indication.
+ We intend to pursue one or more clinical studies of NPS in dermatology applications during 2017 with the longer term plan of demonstrating the benefits of NPS in a range of dermatology conditions for which a non-thermal alternative to current methods may be preferred.
+ Oncology
+ We believe that NPS may afford a new paradigm in the treatment of certain cancers, either as a standalone therapy or in combination with other therapies currently available and in development. Immunotherapy continues to transform cancer care as the field advances with scientific discoveries in the laboratory and clinic.
+ It is well established that cancer cells can be recognized by the immune system. Under normal circumstances, these cancer cells will be detected by the immune surveillance system and eliminated. However, when cancer cells either evade or defeat the immune surveillance system, tumors grow and spread in an unregulated manner resulting in malignancies and, over time, may even cause the lack or loss of response to treatments.  
+ We believe that NPS may offer a novel approach to treating tumors as a monotherapy and in combination with other therapies. Pre-clinical research demonstrates that NPS ablates treated tumors, modulates the tumor microenvironment of treated tumors and induces ICD in a drug-free manner. As a result of ICD, the patient’s immune system is able to detect the tumor cell antigens and mount an immune response specifically against those tumor cells that were treated with NPS. 
+ Specifically, when tumors are treated with NPS, the cellular transient nanopores in individual tumor cells trigger endoplasmic reticulum stress and the release of intracellular calcium along with ROS and the emission of danger-associated 
+
+     
+6
+
+ 
+     molecular patterns (DAMPs). As a result, these tumor cells undergo ICD, which is a unique form of cell death that is responsible for recruiting immune cells to the site of the NPS-treated tumors for antigen processing and presentation. 
+ ICD is a desirable form of cell death in cancer therapy as it exhibits a preference for the cross-presentation of tumor cell antigens in the lymph nodes. The hallmark of ICD and cross-presentation is the generation of an adaptive immune response including CD4+ helper-T cells and, more important for killing cancer cells, CD8+ cytotoxic-T cells. In effect, NPS serves as an in situ personalized cancer vaccination against a patient’s own tumors. Furthermore, we believe the microenvironment in NPS-treated tumors is modified and that the protective mechanisms surrounding the tumor are reduced and possibly eliminated.
+ The ability of NPS to initiate an immune response against cancerous tumors and the related cancer microenvironment may lend itself more favorably to immunogenic cancers. Cancer immunogenicity reflects a tumor’s ability to stimulate an immune response. It has been hypothesized that cancer immunogenicity increases with mutation rate, meaning the more mutations a tumor has, the higher the chance the tumor antigens can trigger the immune response. Cancers with the highest mutation rates include melanoma, certain lung cancers, and bladder cancer.  
+ Relative to existing immune therapies, we believe that NPS therapy will activate the adaptive immune response specific to an individual’s tumors in a non-toxic, targeted manner. Given the many different approaches to modulating an immune response and the ability of an immune response to access tumors, significant potential exists for NPS to be synergistic with existing therapies and therapies in development.  
+ Our previously published pre-clinical work demonstrated the ability of NPS to treat and eliminate targeted melanoma tumors and that NPS-treated tumor cells can be used as a vaccine to protect mice against fibrosarcoma subdermal allografts. Additional pre-clinical studies conducted to date confirm the elimination of NPS treated tumors along with the generation of an adaptive immune response against various other tumor types. We continue to develop NPS, delineate the immune response and explore additional applications in oncology using pre-clinical animal models in preparation for upcoming clinical studies. 
+ We are in the early stages of planning to commence our first clinical oncology study in patients with unresectable in-transit melanoma. We believe the high immunogenicity of melanoma lends itself well to our NPS therapy and we plan to initiate an open label study of in-transit melanoma in 2017.
+ Minimally Invasive Ablation Applications
+ We believe the use of NPS to treat and/or ablate tissue in a minimally invasive manner is an exciting opportunity for the technology. NPS may offer a new approach to eliminate unwanted tissue that we believe will be predictable and uniform and will result in minimal collateral damage to surrounding tissue. We believe that these benefits can be important to several minimally invasive high value applications, including atrial fibrillation and other cardiac applications, lung disease, Barret’s esophagus, ear, nose and throat papillomas and thyroid nodules. Veterinary Applications
+ We believe that NPS can provide a novel treatment in veterinary medicine, one that can provide a minimally invasive approach for pets in this largely cash pay-for-service market. Although the FDA does have regulatory oversight over medical devices used in veterinary medicine and can take appropriate regulatory action if a device is misbranded, no regulatory clearance is necessary to introduce a therapy or device to the market.  
+ We believe that addressing the veterinary oncology market is attractive because:
+
+· | animal data might yield information on the novel biological effects of NPS on tumors, especially confirmation of an adaptive immune response, which would help validate potential translational applications to humans;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | it may offer a faster path to commercialization because of the less stringent regulatory pathway for veterinary medical devices; and
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | it is large and continues to grow.
+--+-----------------------------------
+
+  ﻿
+ Strategy
+ ﻿
+ We have consolidated several different entities working on nanosecond pulsed electric fields, and we now own or license 49 issued patents and 61 filed patent applications in the United States and worldwide. This novel platform technology with strong IP protection allows us to follow a broad, platform based approach to introducing our NPS technology and related 
+
+     
+7
+
+ 
+     therapies and devices.
+ Our strategy is to:
+
+· | Develop a general purpose NPS platform for use across a broad array of applications. We are developing a versatile nanosecond pulse generation system, the PulseTx System, that can produce pulses of variable number, width, amplitude, and frequency and can be used with various applicator types and deployed into a wide range of applications;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Demonstrate the unique benefits of our NPS technology and the PulseTx System across a number of compelling treatment applications. We intend to conduct multiple clinical trials to demonstrate the unique ability of NPS to treat tissues across a number of applications with the highest value to clinicians and patients. We believe that a solid foundation of clinical data will provide the opportunity to pursue regulatory clearances and demonstrate to clinicians and patients the favorable treatment outcomes and patient experience afforded by our technology; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Pursue 510(k) clearance from the FDA for general soft tissue ablation followed by post-market studies to show improved clinical outcomes across a number of applications. We submitted an FDA 510(k) for the PulseTx System in the first quarter of 2017. We believe a 510(k) clearance for soft tissue ablation will provide a foundation for future clearances with specific indications that we will pursue with the addition of clinical data; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Commercialize applications by focusing initially on those clinical uses requiring modest clinical data to demonstrate efficacy and safety and for which cash payment patterns or coded reimbursement arrangements are well-established. Conditions that require long-term evidence to support third-party reimbursement and/or a longer time horizon to evaluate efficacy and safety, including various skin cancers, are expected later in the commercial launch sequence. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  ﻿
+ ﻿
+ Intellectual Property
+ We believe that our current and any future patents and other proprietary rights we own or license are and will be essential to our business and create an important competitive advantage for us. We also rely on trade secrets, know-how, continuing technological innovations and licensing opportunities to develop, maintain and strengthen our competitive position. We seek to protect our intellectual property, in part, through confidentiality agreements with our employees, consultants and other parties, patent registration and access control to sensitive information. Our success also will depend on the ability of our licensors to obtain, maintain (including making periodic filings and payments) and enforce confidentiality agreements and patent protection for their intellectual property, in particular, those patents and other intellectual property to which we have secured rights.
+ We own or license 49 issued patents and 61 filed patent applications in the United States and worldwide to protect the intellectual property on which nanosecond pulsed electric field technology is based on. Our United States issued patents are set to expire between 2020 and 2034.
+ As we expand our business internationally, we will seek patent, trademark and copyright protections as appropriate and available and conduct our business with the protections of confidentiality and trade secrets. Depending on the jurisdiction, we may not be able to obtain the scope of protections we seek, in which event we will need to balance the available protections against the importance of such market to us.
+ Research and Development
+ We are currently conducting research and development activities in pursuit of commercial applications for our NPS technology, but have not yet commercialized or recognized revenue from our technology. Therefore, the majority of our business activities are devoted to research, including clinical trials, related to our core technologies and development of devices and products based on those technologies. Research and development expenses totaled $6.0 million, $2.6 million and $26,000 for the years ended December 31, 2016 and 2015 and for the period of May 19, 2014 (inception) through December 31, 2014, respectively. Research and development expenses are expected to increase substantially during the fiscal year ending 2017, reflecting the increased growth in our operational activities and expansion of our clinical trial programs.    Our R&D development team incorporates data and feedback obtained from our clinical and research programs into the development of the PulseTx NPS System and further inform our clinical strategies. We believe that developing and leveraging relationships among clinicians is a key element in driving the adoption of our technology in clinical studies in the 
+
+     
+8
+
+ 
+     short-term and enhances the potential for possible commercial systems in the future.
+ Competition
+ The applications we intend to target are subject to intense competition from rapidly evolving companies and new scientific discoveries. We compete against well-established incumbent technologies offering products in oncology, dermatology and aesthetics, minimally invasive treatments, and veterinary applications. Given the broad scope of our technology, we face competition ranging from large manufacturers with multiple business lines to small companies with focused products, as well as providers of other medical therapies and therapeutics for conditions that we intend to treat. Our future success will depend on our ability to establish and maintain a competitive position in current and future technologies.
+ In immuno-oncology, we compete with multiple new technologies stimulating the immune system to target cancer. An increased understanding of the multiple mechanisms by which cancer or precancerous cells can evade the immune system has helped researchers develop drugs including those that target immune inhibitors or stimulate T-cell production. For example, approved checkpoint inhibitor therapeutics are administered systemically and modulate the immune system in a more global way, which can lead to significant side effects including autoimmune diseases. Companies with approved checkpoint inhibitors include: Bristol-Myers Squibb and Merck. CAR-T cell therapy has gained attention recently; which refers to a therapy where T cells are removed from a patient and modified to express receptors on its surface that are specific to a cancer type. These cells are then cultured and infused back into the body. Companies developing CAR-T cell therapies include Juno Therapeutics and Kite Pharma.
+ We compete with multiple tissue removal technologies. These technologies cause immediate cell necrosis, killing cells within seconds to hours following exposure and triggering inflammation. Our technology is unique and differentiated in that NPS stimulates primarily intracellular cell death which we believe would be less traumatic to treated tissue and would result in less scarring or collateral damage to surrounding tissues. Tissue removal technologies include RFA, microwave ablation, cryoablation, laser therapies and IRE.
+ IRE uses pulsed electric fields at a high voltage in hundreds of microsecond pulse widths. These pulses cause irreversible damage to cell membranes, resulting in necrosis (death) of the tumor cells. However, this technology stimulates nerves and muscles in a manner that makes it common for clinicians to use general anesthesia and muscle blockade during treatment. In contrast, NPS utilizes pulses 1,000 times shorter and in pre-clinical and limited clinical studies has not required the use of muscle blockade. Moreover, our technology transiently permeabilizes internal organelles which can lead to a signaling cascade ending in immunogenic cell death.
+ Tissue ablation companies for therapeutic applications include: Medtronic, Boston Scientific, AngioDynamics and St. Jude Medical. Ablation companies for dermatologic and aesthetic applications include: Alma Lasers, Cutera and Syneron Medical.
+ Government Regulation
+ ﻿
+ In general, medical device companies must navigate a challenging regulatory environment. The FDA regulates the medical device market to ensure the safety and efficacy of these products. The FDA allows for two primary pathways for a medical device to gain approval for commercialization: a successful pre-market approval, or PMA application or 510(k) clearance. A completely novel product must go through the more rigorous premarket approval, or PMA, process if it cannot receive authorization through a 510(k). The FDA has established three different classes of medical devices that indicate the level of risk associated with using a device and consequent degree of regulatory controls needed to govern its safety and efficacy. Level I and Level II devices are considered lower risk and often can gain approval for commercial distribution by submitting a notification request to the FDA, generally known as the 510(k) process. The devices regarded as the highest risk by the FDA are designated Class III status and generally require the submission of a PMA application for approval to commercialize a product. These generally include life-sustaining, life-supporting, or implantable devices or devices without a known predicate technology already approved by the FDA.
+ ﻿
+ The 510(k) clearance path can be significantly less time-consuming than PMA approval, making this route preferable for a medical device company. Through a 510(k), a company must provide documentation that its device is safe and effective by showing it is substantially equivalent to a device already cleared through a 510(k) or in distribution before May 28, 1976 for which the FDA has not yet required a PMA submission. The FDA has a 90 calendar day review goal from the date of the 510(k) submission to authorize or decline commercial distribution of the device. However, similar to the PMA 
+
+     
+9
+
+ 
+     process, approval may take longer than this 90 day goal. If the FDA resolves that the product is not substantially equivalent to a predicate device, a clearance will not be granted. 
+ ﻿
+ A PMA application must be accompanied by substantial data that supports the safety and efficacy of the device, which includes the provision of preclinical, clinical, technical, manufacturing and labeling information. If the FDA deems the application acceptable to pass through the first level of scrutiny, it has 180 days to review the submission, but it can typically take longer (up to several years) as this regulatory body can request additional information or clarifications. The FDA may also impose additional regulatory hurdles for a PMA, including the institution of an outside advisory panel of experts to assess the application or provide recommendations as to whether to approve the device. Although the FDA in the end approves or disapproves the device, in nearly all cases the FDA follows the recommendation from the independent panel concerning approvability of the new device. As part of this process, the FDA will also inspect the manufacturing operations of the company requesting approval to verify compliance with quality control regulations. Significant changes in the fabrication of a device, or alterations in the labeling or design of a product require new PMA applications or PMA supplements for a product originally approved under a PMA. This creates substantial regulatory risk for devices undergoing the PMA route.
+ ﻿
+ Pervasive and Continuing Regulation
+ ﻿
+ After a device is placed on the market, numerous regulatory requirements continue to apply. These include:
+ ﻿
+ The FDA’s QSR which requires manufacturers, including third-party manufacturers, to follow stringent design, testing, control, documentation and other quality assurance procedures during all aspects of the manufacturing process;
+ ﻿
+ labeling regulations and FDA prohibitions against the promotion of products for uncleared, unapproved or off-label uses;
+ ﻿
+ clearance or approval of product modifications that could significantly affect safety or efficacy or that would constitute a major change in intended use;
+ ﻿
+ medical device reporting, or MDR, regulations, which require that manufacturers report to the FDA if their device may have caused or contributed to a death or serious injury or malfunctioned in a way that would likely cause or contribute to a death or serious injury if the malfunction were to recur; and
+ ﻿
+ post-market surveillance regulations, which apply when necessary to protect the public health or to provide additional safety and effectiveness data for the device.
+ ﻿
+ After a device receives 510(k) clearance or PMA approval, any modification that could significantly affect its safety or effectiveness, or that would constitute a major change in its intended use, will require a new clearance or approval. The FDA requires each manufacturer to make this determination initially, but the FDA can review any such decision and can disagree with a manufacturer’s determination. If the FDA disagrees with the determination not to seek a new 510(k) clearance or PMA, the FDA may retroactively require a new 510(k) clearance or premarket approval. The FDA could also require a manufacturer to cease marketing and distribution and/or recall the modified device until 510(k) clearance or premarket approval is obtained. Also, in these circumstances, it may be subject to significant regulatory fines, penalties, and warning letters.
+ ﻿
+ The MDR regulations require that we report to the FDA any incident in which our product may have caused or contributed to a death or serious injury or in which our product malfunctioned and, if the malfunction were to recur, would likely cause or contribute to death or serious injury.
+ ﻿
+ The FDA has broad post-market and regulatory enforcement powers. We may be subject to unannounced inspections by the FDA and the Food and Drug Branch of CDHS to determine our compliance with the QSR and other regulations, and these inspections may include the manufacturing facilities of our suppliers. 
+ ﻿
+ Failure to comply with applicable regulatory requirements can result in enforcement action by FDA, which may include any of the following sanctions:
+ ﻿
+ warning letters, fines, injunctions, consent decrees and civil penalties;
+ ﻿
+ repair, replacement, refunds, recall or seizure of our products;
+
+
+     
+10
+
+ 
+     ﻿
+ operating restrictions, partial suspension or total shutdown of production;
+ ﻿
+ refusing our requests for 510(k) clearance or premarket approval of new products, new intended uses or modifications to existing products;
+ ﻿
+ withdrawing 510(k) clearance or premarket approvals that have already been granted; and
+ ﻿
+ criminal prosecution.
+ ﻿
+ Regulatory System for Medical Devices in Europe
+ ﻿
+ The European Union consists of 28 member states and has a coordinated system for the authorization of medical devices. The E.U. Medical Devices Directive, or MDD, sets out the basic regulatory framework for medical devices in the European Union. This directive has been separately enacted in more detail in the national legislation of the individual member states of the European Union.
+ ﻿
+ The system of regulating medical devices operates by way of a certification for each medical device. Each certificated device is marked with CE mark which shows that the device has a Certificat de Conformité. There are national bodies known as Competent Authorities in each member state which oversee the implementation of the MDD within their jurisdiction. The means for achieving the requirements for CE mark varies according to the nature of the device. Devices are classified in accordance with their perceived risks, similarly to the U.S. system. The class of a product determines the requirements to be fulfilled before CE mark can be placed on a product, known as a conformity assessment. Conformity assessments for our products are carried out as required by the MDD. Each member state can appoint Notified Bodies within its jurisdiction. If a Notified Body of one member state has issued a Certificat de Conformité, the device can be sold throughout the European Union without further conformance tests being required in other member states.
+ ﻿
+ Health Insurance Portability and Accountability Act
+ ﻿
+ The Health Insurance Portability and Accountability Act of 1996, or HIPAA, established for the first time comprehensive federal protection for the privacy and security of health information. The HIPAA standards apply to three types of organizations, or Covered Entities: health plans, healthcare clearing houses, and healthcare providers which conduct certain healthcare transactions electronically. Title II of HIPAA, the Administrative Simplification Act, contains provisions that address the privacy of health data, the security of health data, the standardization of identifying numbers used in the healthcare system and the standardization of certain healthcare transactions. The privacy regulations protect medical records and other protected health information by limiting their use and release, giving patients the right to access their medical records and limiting most disclosures of health information to the minimum amount necessary to accomplish an intended purpose. The HIPAA security standards require the adoption of administrative, physical, and technical safeguards and the adoption of written security policies and procedures. HIPAA requires Covered Entities to obtain a written assurance of compliance from individuals or organizations who provide services to Covered Entities involving the use or disclosure of protected health information (“Business Associates”).
+ ﻿
+ On February 17, 2009, Congress enacted Subtitle D of the Health Information Technology for Economic and Clinical Health Act, or HITECH, provisions of the American Recovery and Reinvestment Act of 2009. HITECH amends HIPAA and, among other things, expands and strengthens HIPAA, creates new targets for enforcement, imposes new penalties for noncompliance and establishes new breach notification requirements for Covered Entities and Business Associates. Regulations implementing major provisions of HITECH were finalized on January 25, 2013 through publication of the HIPAA Omnibus Rule, or the Omnibus Rule. The Omnibus Rule contained significant changes for Covered Entities and Business Associates with respect to permitted uses and disclosures of Protected Health Information.
+ ﻿
+ Under HITECH’s new breach notification requirements, Covered Entities must report breaches of protected health information that has not been encrypted or otherwise secured in accordance with guidance from the Secretary of the U.S. Department of Health and Human Services, or the Secretary. Required breach notices must be made as soon as is reasonably practicable, but no later than 60 days following discovery of the breach. Reports must be made to affected individuals and to the Secretary and in some cases, they must be reported through local and national media, depending on the size of the breach. We are currently subject to the HIPAA regulations. We are subject to audit under the U.S. Department of Health and Human Services, or HHS, HITECH-mandated audit program. We may also be audited in connection with a privacy complaint. We are subject to prosecution and/or administrative enforcement and increased civil and criminal penalties for non-compliance, including a new, four-tiered system of monetary penalties adopted under HITECH. We are also subject to enforcement by 
+
+     
+11
+
+ 
+     state attorneys general who were given authority to enforce HIPAA under HITECH. To avoid penalties under the HITECH breach notification provisions, we must ensure that breaches of protected health information are promptly detected and reported within the company, so that we can make all required notifications on a timely basis. However, even if we make required reports on a timely basis, we may still be subject to penalties for the underlying breach.
+ ﻿
+ In addition to the federal privacy regulations, there are a number of state laws regarding the privacy and security of health information and personal data that are applicable to clinical laboratories. The compliance requirements of these laws, including additional breach reporting requirements, and the penalties for violation vary widely and new privacy and security laws in this area are evolving. Requirements of these laws and penalties for violations vary widely. We believe that we have taken the steps required of us to comply with health information privacy and security statutes and regulations in all jurisdictions, both state and federal. However, we may not be able to maintain compliance in all jurisdictions where we do business. Failure to maintain compliance, or changes in state or federal laws regarding privacy or security, could result in civil and/or criminal penalties and could have a material adverse effect on our business.
+ ﻿
+ If we or our operations are found to be in violation of HIPAA, HITECH or their implementing regulations, we may be subject to penalties, including civil and criminal penalties, fines, and exclusion from participation in U.S. federal or state health care programs, and the curtailment or restructuring of our operations. HITECH increased the civil and criminal penalties that may be imposed against Covered Entities, their Business Associates and possibly other persons, and gave state attorneys general new authority to file civil actions for damages or injunctions in federal courts to enforce the federal HIPAA laws and seek attorney’s fees and costs associated with pursuing federal civil actions.
+ ﻿
+ In addition to federal privacy regulations, there are a number of state laws governing confidentiality of health information that are applicable to our operations. New laws governing privacy may be adopted in the future as well. We have taken steps to comply with health information privacy requirements that are applicable to us.
+ ﻿
+ Federal, State and Foreign Fraud and Abuse Laws
+ ﻿
+ Because of the significant federal funding involved in Medicare and Medicaid, Congress and the states have enacted, and actively enforce, a number of laws to eliminate fraud and abuse in federal healthcare programs. Our business is subject to compliance with these laws. In March 2010, the Recipient Protection and Affordable Care Act, as amended by the Healthcare and Education Affordability Reconciliation Act, which we refer to collectively as the Affordable Care Act, was enacted in the United States. The provisions of the Affordable Care Act are effective on various dates. The Affordable Care Act expands the government’s investigative and enforcement authority and increases the penalties for fraud and abuse, including amendments to both the Anti-Kickback Statute and the False Claims Act, to make it easier to bring suit under these statutes. The Affordable Care Act also allocates additional resources and tools for the government to police healthcare fraud, with expanded subpoena power for HHS, additional funding to investigate fraud and abuse across the healthcare system and expanded use of recovery audit contractors for enforcement.
+ ﻿
+ Anti-Kickback Statutes. The federal healthcare programs’ Anti-Kickback Statute prohibits persons from knowingly and willfully soliciting, offering, receiving or providing remuneration, directly or indirectly, in exchange for or to induce either the referral of an individual, or the furnishing or arranging for a good or service, for which payment may be made under a federal healthcare program such as Medicare or Medicaid.
+ ﻿
+ The definition of “remuneration” has been broadly interpreted to include anything of value, including, for example, gifts, certain discounts, the furnishing of free supplies, equipment or services, credit arrangements, payment of cash and waivers of payments. Several courts have interpreted the statute’s intent requirement to mean that if any one purpose of an arrangement involving remuneration is to induce referrals of federal healthcare covered businesses, the statute has been violated. Penalties for violations include criminal penalties and civil sanctions such as fines, imprisonment and possible exclusion from Medicare, Medicaid and other federal healthcare programs. In addition some kickback allegations have been claimed to violate the Federal False Claims Act, discussed in more detail below.
+ ﻿
+ The Anti-Kickback Statute is broad and prohibits many arrangements and practices that are otherwise lawful in businesses outside of the healthcare industry. Recognizing that the Anti-Kickback Statute is broad and may technically prohibit many innocuous or beneficial arrangements, Congress authorized the Office of Inspector General, or OIG, of HHS to issue a series of regulations known as “safe harbors.” These safe harbors set forth provisions that, if all their applicable requirements are met, will assure healthcare providers and other parties that they will not be prosecuted under the Anti-Kickback Statute. The failure of a transaction or arrangement to fit precisely within one or more safe harbors does not necessarily mean that it is illegal or that prosecution will be pursued. However, conduct and business arrangements that do 
+
+     
+12
+
+ 
+     not fully satisfy an applicable safe harbor may result in increased scrutiny by government enforcement authorities such as OIG.
+ ﻿
+ Many states have adopted laws similar to the Anti-Kickback Statute. Some of these state prohibitions apply to referral of recipients for healthcare items or services reimbursed by any source, not only the Medicare and Medicaid programs.
+ ﻿
+ Government officials have focused their enforcement efforts on the marketing of healthcare services and products, among other activities, and recently have brought cases against companies, and certain individual sales, marketing and executive personnel, for allegedly offering unlawful inducements to potential or existing customers in an attempt to procure their business.
+ ﻿
+ Federal False Claims Act. Another development affecting the healthcare industry is the increased use of the federal False Claims Act, and in particular, action brought pursuant to the False Claims Act’s “whistleblower” or “qui tam” provisions. The False Claims Act imposes liability on any person or entity that, among other things, knowingly presents, or causes to be presented, a false or fraudulent claim for payment by a federal healthcare program. The qui tam provisions of the False Claims Act allow a private individual to bring actions on behalf of the federal government alleging that the defendant has violated the False Claims Act and to share in any monetary recovery. In recent years, the number of suits brought against healthcare providers by private individuals has increased dramatically. In addition, various states have enacted false claims laws analogous to the False Claims Act, and many of these state laws apply where a claim is submitted to any third-party payor and not just a federal healthcare program.
+ ﻿
+ When an entity is determined to have violated the False Claims Act, it may be required to pay up to three times the actual damages sustained by the government, plus civil penalties of between $5,500 and $11,000 for each separate instance of false claim. As part of any settlement, the government may ask the entity to enter into a corporate integrity agreement, which imposes certain compliance, certification and reporting obligations. There are many potential bases for liability under the False Claims Act. Liability arises, primarily, when an entity knowingly submits, or causes another to submit, a false claim for reimbursement to the federal government. The federal government has used the False Claims Act to assert liability on the basis of inadequate care, kickbacks and other improper referrals, and improper use of Medicare numbers when detailing the provider of services, in addition to the more predictable allegations as to misrepresentations with respect to the services rendered. In addition, the federal government has prosecuted companies under the False Claims Act in connection with off-label promotion of products. Our future activities relating to the reporting of wholesale or estimated retail prices of our products, the reporting of discount and rebate information and other information affecting federal, state and third-party reimbursement of our products and the sale and marketing of our products may be subject to scrutiny under these laws.
+ ﻿
+ While we are unaware of any current matters, we are unable to predict whether we will be subject to actions under the False Claims Act or a similar state law, or the impact of such actions. However, the costs of defending such claims, as well as any sanctions imposed, could significantly affect our financial performance.
+ ﻿
+ The Sunshine Act. The Physician Payment Sunshine Act, or the Sunshine Act, which was enacted as part of the Affordable Care Act, requires all entities that operate in the United States and manufacturers of a drug, device, biologic or other medical supply that is covered by Medicare, Medicaid or the Children’s Health Insurance Program to report annually to the Secretary of HHS: (i) payments or other transfers of value made by that entity, or by a third-party as directed by that entity, to physicians and teaching hospitals or to third parties on behalf of physicians or teaching hospitals; and (ii) physician ownership and investment interests in the entity. The payments required to be reported include the cost of meals provided to a physician, travel reimbursements and other transfers of value, including those provided as part of contracted services such as speaker programs, advisory boards, consultation services and clinical trial services. The final rule implementing the Sunshine Act required data collection on payments to begin on August 1, 2013. The first annual report, comprised of data collected from August 1, 2013 to December 31, 2013, was due March 31, 2014. The statute requires the federal government to make reported information available to the public starting September 2014, which it has. Failure to comply with the reporting requirements can result in significant civil monetary penalties ranging from $1,000 to $10,000 for each payment or other transfer of value that is not reported (up to a maximum per annual report of $150,000) and from $10,000 to $100,000 for each knowing failure to report (up to a maximum per annual report of $1.0 million). Additionally, there are criminal penalties if an entity intentionally makes false statements in such reports. We are subject to the Sunshine Act and the information we disclose may lead to greater scrutiny, which may result in modifications to established practices and additional costs. Additionally, similar reporting requirements have also been enacted on the state level domestically, and an increasing number of countries worldwide either have adopted or are considering similar laws requiring transparency of interactions with healthcare professionals.
+ ﻿
+
+
+     
+13
+
+ 
+     Foreign Corrupt Practices Act. The Foreign Corrupt Practices Act, or FCPA, prohibits any United States individual or business from paying, offering, or authorizing payment or offering of anything of value, directly or indirectly, to any foreign official, political party or candidate for the purpose of influencing any act or decision of the foreign entity in order to assist the individual or business in obtaining or retaining business. The FCPA also obligates companies whose securities are listed in the United States to comply with accounting provisions requiring us to maintain books and records that accurately and fairly reflect all transactions of the corporation, including international subsidiaries, if any, and to devise and maintain an adequate system of internal accounting controls for international operations.
+ ﻿
+ International Laws. In Europe, various countries have adopted anti-bribery laws providing for severe consequences, in the form of criminal penalties and/or significant fines, for individuals and/or companies committing a bribery offense. Violations of these anti-bribery laws, or allegations of such violations, could have a negative impact on our business, results of operations and reputation. For instance, in the United Kingdom, under the Bribery Act 2010, which went into effect in July 2011, a bribery occurs when a person offers, gives or promises to give a financial or other advantage to induce or reward another individual to improperly perform certain functions or activities, including any function of a public nature. Bribery of foreign public officials also falls within the scope of the Bribery Act 2010. Under the new regime, an individual found in violation of the Bribery Act of 2010, faces imprisonment of up to 10 years. In addition, the individual can be subject to an unlimited fine, as can commercial organizations for failure to prevent bribery.
+ ﻿
+ There are also international privacy laws that impose restrictions on the access, use, and disclosure of health information. All of these laws may impact our business. Our failure to comply with these privacy laws or significant changes in the laws restricting our ability to obtain required patient information could significantly impact our business and our future business plans.
+ ﻿
+ U.S. Healthcare Reform
+ ﻿
+ Changes in healthcare policy could increase our costs and subject us to additional regulatory requirements that may interrupt commercialization of our current and future solutions. Changes in healthcare policy could increase our costs, decrease our revenues and impact sales of and reimbursement for our current and future solutions. The Affordable Care Act substantially changes the way healthcare is financed by both governmental and private insurers, and significantly impacts our industry. The Act contains a number of provisions that impact our business and operations, some of which in ways we cannot currently predict, including those governing enrollment in federal healthcare programs and reimbursement changes.
+ ﻿
+ There will continue to be proposals by legislators at both the federal and state levels, regulators and third-party payors to reduce costs while expanding individual healthcare benefits. Certain of these changes could impose additional limitations on the prices we will be able to charge for our current and future solutions or the amounts of reimbursement available for our current and future solutions from governmental agencies or third-party payors. While in general it is too early to predict specifically what effect the Affordable Care Act and its implementation or any future healthcare reform legislation or policies will have on our business, current and future healthcare reform legislation and policies could have a material adverse effect on our business and financial condition.
+ ﻿
+ Third-Party Reimbursement
+ ﻿
+
+Payment for patient care in the United States is generally made by third-party payors, including private insurers and government insurance programs, such as Medicare and Medicaid. The Medicare program, the largest single payor in the United States, is a federal governmental health insurance program administered by the Centers for Medicare and Medicaid Services, or CMS, and covers certain medical care expenses for eligible elderly and disabled individuals. Because a large percentage of the population with PAD includes Medicare beneficiaries, and private insurers may follow the coverage and payment policies of Medicare, Medicare’s coverage and payment policies are significant to our operations    Environmental
+ We are subject to federal, state and local laws, rules, regulations and policies governing the use, generation, manufacture, storage, air emission, effluent discharge, handling and disposal of certain hazardous and potentially hazardous substances used in connection with our operations. Although we believe that we have complied with these laws and regulations in all material respects and, to date, have not been required to take any action to correct any noncompliance, there can be no assurance that we will not be required to incur significant costs to comply with environmental regulations in the future.   
+
+     
+14
+
+ 
+     Insurance
+ We maintain product and clinical trial liability insurance coverage which includes a maximum of per claim and an annual aggregate policy limits, subject to self-insured retentions. The policy covers, subject to policy conditions and exclusions, claims of bodily injury and property damage from any product manufactured by us or from trial-related adverse events.
+ There is no assurance that our level of coverage is adequate. We may not be able to sustain or maintain our current level of coverage and cannot assure you that adequate insurance coverage will continue to be available on commercially reasonable terms, or at all. A successful product liability claim may exceed our existing coverages and may make future coverages significantly more expensive, if available at all.
+ Employees
+ As of December 31, 2016, we had 13 full-time employees. Of these employees, nine were in research and development and four were in general and administration. Substantially all of our employees are located at our headquarters in Burlingame, California. None of our employees are represented by labor unions or are covered by a collective bargaining agreement with respect to their employment. We have not experienced any work stoppages, and we consider our relationship with our employees to be good. Available Information
+ We were incorporated in Nevada on May 19, 2014 under the name Electroblate, Inc. Electroblate, Inc. changed its name to Pulse Biosciences, Inc. effective December 8, 2015. Our corporate offices are located at 849 Mitten Road, Suite 104, Burlingame, California. Our telephone number is (650) 697-3939.  
+ Our website is located at www.pulsebiosciences.com. The information that can be accessed through our website is not incorporated into this Annual Report on Form 10-K, and the inclusion of our website address is an inactive textual reference only. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge through the “Investor Relations” section of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (SEC).
+ ﻿
+ Additionally, we use our website as a channel for distribution for important company information. Important information, including press releases, analyst presentations and financial information regarding us, as well as corporate governance information, is routinely posted and accessible on the “Investor Relations” section of the website, which is accessible by clicking “Investors” on the menu tab labeled “About Us” on our website home page.   
+
+     
+15
+
+ 
+     
