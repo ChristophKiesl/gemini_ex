@@ -1,0 +1,1840 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+ 
+GSE Systems, Inc. (GSE Systems, GSE, the Company, we, us or our), a Nasdaq-listed company trading under the symbol GVP, is a leading provider of engineering services and technology, expert staffing, and simulation software to clients in the power and process industries. We provide customers with simulation, engineering technology, engineering and plant services that help clients reduce risks associated with operating their plants, increase revenue through improved plant and employee performance, and lower costs through improved operational efficiency. In addition, we provide professional services that systematically help clients fill key vacancies in the organization on a short-term basis, including but not limited to, the following: procedure writing, planning, scheduling; engineering; Senior Reactor Operator [SRO] training; various technical support and training personnel focused on regulatory compliance and certification in the nuclear power industry.
+ 
+Our services help our customers provide clean energy to all in a reliable and safe manner. There is growing recognition of the importance of low and zero carbon energy as the United States in particular, and the world in general, races to decarbonize power grids.  GSE is uniquely positioned as one of the largest independent nuclear services companies in the United States to support decarbonization of the power industry.  In fact, the more wind and solar that comes onto the grid, the greater zero carbon base-load becomes to ensure grid stability, reliability and safety.  Decarbonization is a leading means of delivering environmental equity – ensuring that anyone regardless of background and economic status can benefit from a safe and healthy environment, free of pollution related to carbon intensive power generation. GSE operations also include interactive software for tutorials and simulation for the refining, chemical, and petrochemical industries.
+ 
+We execute projects globally with approximately 332 employees, as of December 31, 2020. We operate from offices in the U.S. and China and with our employees deployed at client sites. While most of our revenue comes from the nuclear power market, we also serve agencies in the United States Department of Energy, United States Navy and adjacent defense opportunities, and the oil and gas, refining, chemical, and petrochemical markets.
+ 
+GSE Systems was formed on March 30, 1994, to consolidate the simulation and related businesses of General Physics International Engineering & Simulation, S3 Technologies, and EuroSim. The Company completed its Initial Public Offering in 1995.
+ 
+On November 14, 2014, we acquired Hyperspring, LLC (Hyperspring). Hyperspring is a nuclear industry expert staffing firm that employs highly skilled, high-value professionals primarily filling training and consulting positions on a contract basis for nuclear power plant operators. Hyperspring professionals provide training, operations and maintenance support including: generic fundamentals exams (GFES), accreditation training visit (ATV) preparation, senior reactor operator (SRO) certification, procedure development, work management, tagging/labeling, outage execution, planning/scheduling, corrective action, self-assessments and equipment reliability. Customers have included Entergy, TVA, PSEG Nuclear and First Energy, among others.
+ 
+On September 20, 2017, we acquired Absolute Consulting, Inc. (Absolute). Absolute is a provider of technical consulting and staffing solutions to the global nuclear power industry with expertise in procedure writing, engineering, technical support, scheduling, planning, project management, training, project controls, and corrective actions. Customers have included Entergy, Duke Energy, Vistra Energy and Southern Nuclear Operating Company, among others.
+ 
+On May 11, 2018, we acquired True North Consulting, LLC (True North). True North is a provider of engineering solutions to nuclear and non-nuclear power plants with an emphasis on regulatory-driven ASME code programs. Customers have included Exelon, Entergy, Southern Nuclear Operating Company, and EPRI, among others.
+ 
+
+4
+ 
+ 
+Table of Contents
+-----------------
+
+
+On February 15, 2019, we acquired DP Engineering Ltd, Co, (DP Engineering). DP Engineering is a specialized provider of high-value engineering services and solutions to the nuclear power industry. Founded in 1995 in Fort Worth, Texas, DP Engineering generates over 90% of its revenue from the nuclear power industry with core expertise in: mechanical design; civil/structural design; electrical, instrumentation and controls design; digital controls/cyber security; and fire protection. DP Engineering primarily works under master service agreements as the Engineer of Choice (EOC). Customers have included Entergy, Fluor, Talen Energy Services, and Vistra Energy, among others.
+ 
+Renewed Focus for 2021
+ 
+Early in 2020 as the COVID-19 unfolded, the end markets that GSE serves, namely the power industries, delayed the essential services it could and dramatically cut back on non-essential services. Although this impacted GSE, as an essential services provider to an essential industrial base, GSE benefited from maintaining a baseline of business to continue and align itself to the realities of the pandemic. As GSE enters 2021, the effects of the pandemic are still impacting the end markets we serve, but those effects may be mitigated for a number of factors, including the following: the pandemic  largely has had a targeted effect on the population; there now are number of vaccines in the market being distributed and, despite logistical challenges, making solid progress for those in most need; the economy of the United States has not had as much disruption as was initially feared which has benefited our end markets; and most importantly the end markets of GSE seem poised to spend to catch up on essential services that had been delayed as a result of the pandemic. As GSE ended 2020 and began 2021, we have had a number of significant contract wins that have been publicly announced, which we hope is a harbinger of a more solid 2021 business environment.
+ 
+As we look ahead to 2021 and beyond, with a new administration in the United States, there is renewed focus on decarbonizing the power sector, which is recognized as a key means in achieving environmental equity. The new administration is in the process of rejoining the Paris climate accord, has spoken in support of zero carbon power sources such as nuclear, and has spoken of increased public spending in support of the industry and related industries. Management feels that GSE is well positioned as one of the largest independent businesses focused on services supporting decarbonization to benefit from these significant developments in the economy and governing policy.
+ 
+In light of these emerging policies, there has been significant increase in the public awareness of the essential requirement that nuclear be a big part of the grid to achieve zero carbon goals. In an article early in 2020, Yale360.com highlighted the potential of new generation Small Module Reactors (“SMR’s”) in driving the achievement of a zero-carbon grid. Nuclear, especially SMR’s, are recognized for their potential to replace carbon intensive power generation while maintaining a smaller footprint than existing coal plants. In February 2021, the Montana State Senate approved a feasibility study to evaluate replacing coal fired power generation with SMR’s at the Colstrip power plant. This is an exciting development for decarbonization. The benefits of SMR’s are also noted as a key element to restore ecological systems while simultaneously maintaining zero carbon power generation. Idaho GOP Rep. Mike Simpson has proposed a sweeping $33.5 billion plan to save the Pacific Northwest’s iconic salmon that includes breaching four of the most controversial dams in the country. The power generation of the dams would be replaced by building SMR’s as part of this plan. The massive infrastructure bill under consideration by the US government, has all eyes on investments to decarbonize the power sector.
+ 
+Branding
+ 
+GSE Systems, Inc. remains the legal name of the parent company, publicly traded on Nasdaq under the ticker symbol “GVP”; GSE operations and marketing uses the more distinct trademark “GSE Solutions” as a way to communicate the fact that GSE’s specialized business units help customers reduce risk and optimize performance through unique solutions, a centralized project approach, expert resource management, and a culture of continuous improvement to drive decarbonization of the power industry.
+Operating Segments
+ 
+We operate through two reportable business segments: Performance Improvement Solutions and Nuclear Industry Training and Consulting. Each segment focuses on delivering solutions to customers within our target markets. Marketing and communications, accounting, finance, legal, human resources, corporate development, information systems and other administrative services are organized at the corporate level. Business development and sales resources are generally aligned with each segment to support existing customer accounts and new customer development. The business units collaborate to facilitate cross-selling and the development of new solutions. The following is a description of our business segments:
+ 
+
+5
+ 
+ 
+Table of Contents
+-----------------
+
+
+Performance Improvement Solutions (approximately 57.0% of revenue)
+ 
+Our Performance Improvement Solutions segment primarily encompasses our power plant high-fidelity simulation solutions, technical engineering services for ASME programs, power plant thermal performance optimization, and interactive computer based tutorials/simulation focused on the process industry. The Performance Solutions segment includes various simulation products, engineering services, and operation training systems delivered across the industries we serve: primarily nuclear and fossil fuel power generation and the process industries. Our simulation solutions include the following: (1) simulation software and services, including operator training systems, for the nuclear power industry, (2) simulation software and services, including operator training systems, for the fossil power industry, and (3) simulation software and services for the process industries used to teach fundamental industry processes and control systems to newly hired employees and for ongoing workforce development and training. GSE and its predecessors have been providing these services since 1976.
+ 
+Our engineering solutions include the following: (1) in-service testing for engineering programs focused on ASME OM code including Appendix J, balance of plant programs, and thermal performance; (2) in-service inspection for specialty engineering including ASME Section XI; (3) software solutions; and (4) mechanical design, civil/structural design, electrical, instrumentation and controls design, digital controls/cyber security, and fire protection for nuclear power plant design modifications.  Our GSE True North Consulting and GSE DP Engineering businesses typically work as either the engineer of choice or specialty engineer of choice for our clients under master services agreements and are included in our Performance Improvement Solutions segment due to their service offerings. GSE has been providing these engineering solutions and services since 1995.
+ 
+Nuclear Industry Training and Consulting (approximately 43.0% of revenue)
+ 
+Nuclear Industry Training and Consulting provides highly specialized and skilled nuclear operations instructors, procedure writers, technical engineers, and other consultants to the nuclear power industry. These employees work at our clients’ facilities under client direction. Examples of these highly skilled positions are senior reactor operations instructors, procedure writers, project managers, work management specialists, planners and training material developers. This business is managed through Hyperspring and Absolute subsidiaries. The business model, management focus, margins and other factors clearly separate the business line from the rest of the Company’s product and service portfolio. GSE has been providing these services since 1997.
+ 
+Financial information is provided in Note 20 of the accompanying consolidated financial statements regarding our business segments and geographic operations and revenue.
+ 
+Business Strategy, Industry Trends, Products and Services
+ 
+Business Strategy
+ 
+Serve existing customers and adjacencies with compelling solutions, with a focus on decarbonization:
+ 
+Our objective has been to create a leading business focused on decarbonizing the power industries by providing a diverse set of highly unique and essential services and technologies. GSE is now one of the leading, publicly traded engineering and technology companies serving the zero-carbon energy sector of nuclear power and adjacent nuclear markets in DOE, US Navy and related defense sectors. As a result of this effort and established leadership position in key sectors, GSE is positioned to expand into essential clean energy opportunities that may arise such as wind, solar, hydrogen production, and others. In 2021, we will focus on organic growth in the sectors we serve by: cross selling and upselling in our existing markets as we focus on delivering significant value to our customers in a manner of excellence; create new and compelling solutions in-house as a result of advancing our technology offerings in sponsorship with industry early adopters focused on critical business need; develop  new services as a result of combining the expertise of the Company; expand into compelling adjacent markets such as clean energy as they may arise with renewed sales focus.
+ 
+
+6
+ 
+ 
+Table of Contents
+-----------------
+
+
+Cross sell and upsell into existing markets:
+ 
+GSE has spent the past several years conducting a rollup of essential services providers to the industry. To ensure efficient and streamlined operations for the business, the Company has brought all of the engineering services together into one organization with one leader; and the NITC teams together as one team under one leader. The business units operating uniformly within their respective structure. As such, the opportunity to cross-sell the capabilities across the entire customer base is greatly enhanced. This further differentiates GSE as a unique provider to industry vs. providers of specific niche services. The unified go-to-market efforts, such as cross-selling capability should lead to greater share  of available spending within the customer base, which in turn should lead to significant upselling opportunity. As a result of a rejuvenated marketing effort, the Company is equipped to take this new approach to market. In particular, with the US government rejoining the Paris Climate Agreement and driving to decarbonize the energy grid by 2035, and create a carbon neutral economy by 2050, decarbonization of the energy sector will require significant investment for decades to come. As a key provider of essential services to the power sector, with a focus on decarbonization, GSE is poised to benefit from and exploit this investment.
+ 
+Organic growth through new and compelling technology:
+ 
+While the company was managing through the pandemic, in parallel the leadership was working to investigate compelling opportunities by which new offerings that uniquely result from the combination of capabilities across GSE could create significant value for the industry and advance the efforts of decarbonizing the power sector.  As a result, the Company has identified a robust pipeline of new and compelling technology solutions to develop and take to market. Net new solutions would create new revenue streams with the potential of on-going annuities through license revenue, software maintenance and services revenue. As the Company has demonstrated in the past few years, small wins over time accrue into meaningful revenue on an on-going basis. This is a key element of our organic growth thesis: focusing on creating and bringing to market compelling technology solutions.
+ 
+Focus on compelling adjacencies in clean energy, defense, and national labs:
+ 
+- Research and development (R&D). We invest in R&D to deliver unique solutions that add value to our end-user markets. Our software tools leverage the high-end expertise of our experienced staff in helping plants operate better and more efficiently. Our software technology together with our deep staff expertise supports multiple industries including the nuclear industry, as a part of the larger decarbonization drive. GSE’s software technology includes decision-support tools for engineering simulation supporting design and plant commissioning, operational performance tools, and training platform.
+ 
+One area of significant recent enhancement is in improving the thermal performance of power plants. We have introduced the next generation platform in TSM Enterprise, providing the technology solution to centralize and continuously monitor plant thermal performance.  The solution benefits our customers by automating standardized reporting in modern dashboards available to engineers and decision makers across the fleet, leverage automation to facilitate troubleshooting plant performance issues, reducing time and error with direct access to source data, and applying industry guidelines for problem resolution. This platform also supports integration with Data Validation and Reconciliation (DVR) (implemented by GSE’s True North division) that enhances the quality of data for analysis and decision making, providing a solution to better detect and identify faulty measurements/sensors and thus reduce maintenance costs by focusing on critical components. 
+ 
+In the area of engineering simulations, we deliver nuclear core and Balance-of-Plant modeling and visualization systems to the industry. To address the nuclear industry’s need for more accurate simulation of both normal and accident scenarios, we provide our DesignEP® and RELAP5-HD® solutions. Our entire JADETM suite of simulation software, including industry leading JTOPMERET® and JElectricTM software, provides the most accurate simulation of Balance-of-Plant and electrical systems available to the nuclear and fossil plant simulation market. The significant enhancements we have made to our SimExec® and OpenSimTM platforms enables customers to be more efficient in the daily operation of their simulators. We have brought SimExec® and OpenSimTM together into a next generation unified environment that adds new capabilities as requested by clients and driven by market need.
+ 
+We intend to continue to make pragmatic and measured investments in R&D that first and foremost are driven by the market and complement our growth strategy. Such investments in R&D may result in on-going enhancement of existing solutions as well as the creation of new solutions to serve our target markets, ensuring that we add greater value that is easier to use, at lower total cost of ownership than any alternative available to customers. GSE has pioneered a number of industry standards and intends to continue to be one of the most innovative companies in our industry. During the years ended December 31, 2020 and 2019, we have made R&D investments totaling $1.0 million and $1.1 million, respectively.
+ 
+
+7
+ 
+ 
+Table of Contents
+-----------------
+
+
+- Strengthen and develop our talent while delivering high-quality solutions. Over the past several years GSE has assembled a unique and highly experienced group of talent through organic growth and strategic acquisition. Our Engineering team comprised of design, simulation, regulatory compliance, and performance optimization capabilities are unique to the industry and capable of addressing the entire power generation life cycle.
+ 
+Our experienced employees and management team are our most valuable resources. The continued integration of our team in parallel with attracting, training, and retaining top talent is critical to our success. To achieve our goals, we intend to remain focused on providing our employees with opportunities to increase client contact within their areas of expertise and to expand and deepen our service offerings. As we refine our product and service areas to best align with the critical areas listed above, we will also integrate and apply our composite employee talent to the fullest extent possible combining employee personal and professional growth opportunities with fulfillment of cutting-edge industry needs. Performance-based incentives including opportunities for stock ownership, bonuses and competitive benefits as benchmarked to our industry and locations will also be utilized to ensure continuity of our approach.
+ 
+We have developed a strong reputation for quality services based upon our industry-recognized depth of experience, ability to attract and retain quality professionals, and exceptional expertise across multiple service sectors. As we continue to integrate and leverage our individual company components assembled over the past several years, our capabilities and reputation will further strengthen.
+ 
+Industry Trends
+ 
+- Industry need to build and sustain a highly skilled workforce
+ 
+We believe a critical ongoing challenge facing the industries we serve is access to, and continued development of, a highly trained and efficient workforce. This challenge manifests primarily in two ways: the increasing pace at which industry knowledge and experience are lost as a significant percentage of the existing experienced workforce reaches retirement age; and the fact that as new power plants come on-line, there is an increased demand for more workers to staff and operate those plants.
+ 
+In the United States, the energy industry is expected to lose a large percentage of its workforce within the next few years as baby boomers retire on the traditional schedule. For example, Power Engineering reported that the power sector needs more than 100,000 skilled workers within the next few years to replace retiring baby boomers.  Electric, Light, and Power  reported that 72% of energy employers currently struggle to find quality candidates and fill open positions. The National Electrical Contractors Association reported that 7,000 electricians join the field each year, while 10,000 retire. Finally, the Nuclear Energy Institute estimated that 39% of the nuclear workforce were eligible to retire in the next few years. As the nuclear industry continues to operate and modernizes its fleet and strains to maintain the high standards of training for the existing workforce, existing plant simulator systems, which provide a critical environment for training services, are often operating 24 hours a day. As workers retire and the need to backfill as well as expand the workforce for new units, certain operators are exploring the opportunity to de-bottleneck their existing simulator capabilities through the creation of dual reference simulators. Other workforce shortages and/or short-term spikes in demand for specialist skills that we offer similarly are positive developments for our business. Further, as new nuclear technologies are researched and developed, such as new reactors and new fuels, the R&D industry needs to identify the right talent to advance those endeavors.  Our business is uniquely positioned to identify and provide solutions that offer the best personnel for both short and long-term assignments.
+ 
+Globally, as more people increase their standard of living, there is an expectation that their demand for power will increase, which in turn will require the on-going construction of power plants to meet this surging demand. The drive to lower carbon emissions from power generation while ensuring a stable baseload to accommodate intermittent energy sources such as wind and solar power brings focus on the essential nature of nuclear power. Developing a skilled labor force to operate these plants and keeping their skills current and their certifications in compliance with regulatory requirements is a key challenge facing the global power industry.
+ 
+- Status of decarbonization nuclear power in 2020/2021
+ 
+According to World Energy Outlook report, 2019 had the second highest energy generation year for nuclear in history. By 2030, nuclear is planned to increase in generation capacity from roughly 400 GW to roughly 450 GW. Most new plants will be built in developing economies such as China and India, and advanced economies will invest to extend the lifetimes and increase the output of remaining nuclear reactors to bridge the gap to a new generation of reactors under development.
+ 
+
+8
+ 
+ 
+Table of Contents
+-----------------
+
+
+Decarbonizing the power sector is a key focus for advanced and developing nations. As a critical part of zero carbon clean energy, nuclear energy ensures access to abundant, clean, reliable and affordable energy to all who can connect to the grid, no matter a person’s background or status. To combat climate change and the pollution of the atmosphere, nuclear is a key element to decarbonizing the power sector across the world.  As more variable sources of power come on to the grid, such as wind and solar, ensuring a stable grid requires baseload, and nuclear is the essential source of economically scalable carbon free baseload. As such, nuclear, wind and solar are tied together in the massive effort to decarbonize economies the world over.
+ 
+Nuclear provides 10% of the world’s power, and 20% of power for the United States.  President Biden is on record indicating a desire to decarbonize the US power sector by 2035 and achieve a carbon neutral grid by 2050.  To support this effort, the Department of Energy has made significant investment in the development of next generation zero carbon energy production through the development of advanced reactors and/or small modular reactors from Terra Power, X-Energy, NuScale and others.
+ 
+These reactors are quickly becoming realty, with a January 2021 announcement of an agreement to facilitate the development of a project proposal for a NuScale designed plant to be built at the Unites States Department of Energy [DOE] Idaho National Laboratory grounds.  Engineering, procurement and construction firm Fluor will provide its services for Utah Associated Municipal Power Systems’ [UAMPS] Carbon-Free Power Project. The project includes plans for nuclear energy featuring NuScale’s small modular reactor design. NuScale has been a long-time customer of GSE, using our simulation technology and engineering services to enhance the reactor design, operations and accelerate NRC licensing efforts.  In addition to the NuScale plans, HOLTEC, another firm with SMR technology, is studying the feasibility of building an SMR facility in New Jersey at the Oyster Creek site of a decommissioned traditional nuclear power plant.
+ 
+The SMR momentum is noted in the mainstream press. The Wall Street journal notes the significant plans for SMR’s being developed in the United States and elsewhere at an accelerated clip.  In addition to the plants currently planned, as mentioned earlier in this document, proponents of SMR’s, see them as a complementary role in the smart grid of the future—replacing coal- and gas-fired plants and operating alongside wind and solar.
+ 
+ All of this is part of a broader effort for decarbonization that GSE, through the aforementioned strategies, plans to exploit for organic growth.
+ 
+Products and Services
+ 
+- Performance Improvement Solutions
+ 
+Our engineering team, comprised of design, simulation, regulatory compliance, and performance optimization capabilities are unique to the industry and capable of addressing the entire power generation life cycle. As we move forward in alignment with client and industry goals targeting clean energy production and overall decarbonization we are positioned to be at the forefront in three critical areas:
+
+• | optimization of existing generation assets
+--+-------------------------------------------
+
+
+• | design support and deployment of advanced reactor designs
+--+----------------------------------------------------------
+
+
+• | integration with renewable power sources
+--+-----------------------------------------
+
+Optimizing Existing Generation Assets
+ 
+As the existing fleet of nuclear reactors age and competitive pressures increase, we find ever increasing significance in being able to provide value to their continued operation.  Maximizing power production through a variety of methods such as digital verification and reconciliation, a statistical based analysis used to lower uncertainty, and thus increase recognized power output is instrumental in helping these facilities face current competitive pressures.  Other approaches involving safe reduction of testing and inspection requirements or performance periodicities are also at the forefront of our cost saving techniques with defined services and products providing a clear and positive return on investment.  In all cases these efforts are aligned with keeping this important source of carbon free base power economically and technically viable.
+ 
+
+9
+ 
+ 
+Table of Contents
+-----------------
+
+Advanced Reactor Designs & Deployment
+ 
+Designers of first-of-a-kind plants or existing plants need a highly accurate dynamic simulation platform to model a wide variety of design assumptions and concepts from control strategies to plant behavior to human factors. Because new builds and upgrades to existing plants result in deployment of new technology, often involving the integration of disparate technologies for the first time, a high-fidelity simulator enables designers to model the interaction between systems in advance of construction. With our combination of simulation technology and expert engineering, GSE was chosen to build first-of-a-kind simulators for the AP1000, PBMR, and small modular reactors such as those being built by NuScale.  Going forward we also envision many of the optimization techniques and strategies currently emphasized for the existing reactor fleet incorporated with new-build prototypes as they begin to add value and assume a larger component of our clean, carbon free, power requirements.
+Renewable Integration 
+ 
+A significant component of overall decarbonization regarding power generation will ultimately fall to renewable sources such as wind, solar, and hydro generation. These technologies are individually well on their way towards assuming a significant share of the overall generation make-up and are expected to significantly increase. One of the particular needs is the ability to safely and efficiently integrate these renewable sources with our existing and planned nuclear generation. We are on the cutting edge, working closely with academia and industry support organizations to design, model, and evaluate creative approaches to support this integration. Base load production, renewable availability, and other pertinent factors are at the core of the solutions we are exploring.
+Engineering Solutions for Decarbonization
+ 
+With overall decarbonization as our primary focus, we will blend our current and future efforts in those areas described above to best support that goal positioning our Engineering team as recognized leaders in the pursuit of Clean Energy. An overview highlighting many areas of our current and planned involvement as well as the associated benefits is summarized below:
+ 
+With nuclear power being such a high percentage of carbon free power generation, the continued safe and efficient operation of these plants is critical to meeting decarbonization goals. We help the industry achieve these goals through better training and provide engineering services to optimize performance while maintaining regulatory compliance. Our focus is on products and services to improve the efficiency and lower operating costs for existing power generation assets as well as help the next generation of carbon free power plants achieve design approval and plant startup as quickly as possible.
+ 
+Training plant operators and engineers is critical to safe operations and continued viability of the industry. Using state-of-the-art modeling tools combined with our leading nuclear power modeling expertise, GSE provides simulation solutions that achieve unparalleled fidelity and accuracy. We have also adapted these solutions to provide highly accurate training across a variety of delivery platforms. These include universal or generic simulators which are excellent in teaching fundamental concepts, systems, and plant behaviors. They are also used by academia for research on improved plant operations, human factors design and the development of automated procedures and decision support systems for the next generation of reactors. Our part task simulators and virtual control panels are cost effective solutions enabling customers broader freedom in where they deliver simulation training and opening the door for plant engineers and maintenance staff to access high fidelity training without interrupting the operator training program. Our full scope simulators use the most sophisticated modeling technology. For these reasons, GSE has delivered more nuclear power plant simulators than any other company in the world.
+ 
+Even prior to the COVID pandemic, GSE had delivered training products though the cloud. This delivery method reduces our customers infrastructure and ownership costs and provides anytime, anywhere access to rich learning content. Innovative Critical Thinking Exercises enable autonomous simulation training to take place, reducing the burden on instructors and increasing training touch time for students and employees. All of which enabling the training organization to be more flexible and efficient.
+ 
+
+10
+ 
+ 
+Table of Contents
+-----------------
+
+
+GSE’s simulation solutions not only address industry training needs, but are used for Simulation Assisted Engineering, the process of using simulation to virtually test and commission plant designs prior to construction.  Because new builds and upgrades to existing plants result in deployment of new technology, GSE’s high-fidelity simulator enables designers to model the interaction between systems in advance of construction. With our combination of simulation technology and expert engineering, GSE was chosen to build first-of-a-kind simulators for the AP1000, PBMR, and small modular reactors such as those being built by NuScale. This technique reduces design costs, accelerates design approvals, de-risks projects, and provides clients with a tool to sell their new plant designs to both customers and regulators.  In essence, enabling our customers to get to market faster.
+ 
+Beyond training, GSE technology is used to improve the efficiency of existing power generation assets. Our Thermal System Monitoring System provide live insights into plant operations, by monitoring performance of key plant equipment, analyzes degradation and advises actions to be taken. When combined with Data Validation and Reconciliation techniques, GSE can help reduce operating and maintenance cost. DVR enhances the quality of data for analysis and decision making, providing a solution to better detect and identify faulty measurements/sensors and thus reduce maintenance costs by focusing on critical components.
+ 
+Our EP-Plus software suite provides one common platform for all Engineering Programs, helping client engineers keep track of Engineering Program inspection and monitoring requirements aimed at safe plant operations. This reduces the engineering workload of our customers, saving costs and enabling staff to focus on the most critical activities.
+ 
+All of these technologies leverage the vast experience and industry expertise of GSE’s engineering organization. Our Engineering team helps our clients throughout the entire plant lifecycle. GSE is the engineer of choice in areas such as:
+ 
+
+• | Design engineering for plant mechanical, electrical, I&C, civil and structural, fire protection and cyber systems
+--+------------------------------------------------------------------------------------------------------------------
+
+
+• | Engineering Programs addressing ASME codes, balance of plant programs other regulatory programs and economic driven programs such as plant thermal performance
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Simulation engineering for nuclear, thermal and process plant training and virtual commissioning
+--+-------------------------------------------------------------------------------------------------
+
+ 
+We see organic growth through closer integration of these engineering activities and technologies to provide solutions to improve the performance of our customers’ people and plants.
+ 
+- Workforce Solutions: Nuclear Industry Training and Consulting
+ 
+As our customers’ experienced employees retire, access to industry experts to operate and train existing and new employees how to operate nuclear plants is essential to ensure safe, ongoing plant operation. In addition, operating and training needs change over time and sometimes our clients require fixed priced, discrete projects or specialized courses in contrast to straight staff augmentation. The industry needs operating personnel, including procedure writers, engineers, operators and instructors who can step in and use, as well as, update the client’s operating methods, procedures, training material and more. Finding technical professionals and instructors, who know the subject, can perform the work or teach it to others and can adapt to the client’s culture is critical. GSE provides qualified professionals, instructors and turnkey projects/courses that work within the client’s system and complement the operating or training methods they already have in place. Examples of our training program courses include senior reactor operator certification, generic fundamentals training, and simulation supervisor training. GSE also provides expert support through workforce solutions, consulting, or turnkey projects for procedure writing, technical engineers, project managers, training material upgrade and development, outage execution, planning and scheduling, corrective actions programs, and equipment reliability. Our workforce solutions include traditional staffing services, such as temporary and direct hire, as well as customized approaches in which we work with our customers to evaluate their specific needs and put together a strategic plan specifically to meet their unique needs. Workforce solutions is not only a complement to our other service offerings; it often leads the way as the preferred method for many of our clients to execute entire projects and/or supplement their own staff during project peak periods or with specialized skill sets that are often hard to find.  Our staffing experts give our customers the ability to ramp up quickly, eliminate risks, and provide more flexible options as situations often demand.
+ 
+
+11
+ 
+ 
+Table of Contents
+-----------------
+
+
+In addition to the core training and staffing business lines in the nuclear sector, we have significant organic growth opportunity with our workforce solutions and consulting services by expanding our service offerings to meet the evolving needs of the energy industry as well as other opportunities that support decarbonization and major infrastructure projects.  Due to the experience within our team, we are already well positioned to offer expanded workforce solutions through our existing relationships and industry knowledge. This growth is occurring both with existing and new customers. We are placing a greater emphasis on cross-selling the services offered by our NITC organization with our Engineering and Performance group. NITC is expanding our footprint with companies dedicated to the support of decarbonization, and we have already been awarded contracts to support engineering, manufacturing, and construction projects with companies focused on clean energy solutions. Further the U.S. government has already announced intentions to increase spending in key areas such as communication, clean energy, manufacturing, transportation, and environmental projects. We anticipated these developments and have made key hires to better position GSE to support those opportunities. As the pandemic has shown, we must also be able to adapt quickly to evolving staffing needs. This has certainly been demonstrated with companies adjusting and allowing more employees to work from home. Our workforce solutions offer our customers more flexibility to support ever changing needs. This flexibility combined with our ability to support all of these areas position GSE both for current and future staffing needs.
+ 
+We recognize the necessity to listen to the needs of our customers and provide the right solution. Whether the answer is one of our traditional service offerings or putting together a customized approach, we have the capabilities to help our customers get the job done.  We bring together the collection of skills we have amassed over more than 40 years beginning with its traditional roots in custom high-fidelity simulation and training solutions for the power industries, extended through the acquisition of specialized engineering capabilities, enhanced by the entry and intermediate level training solutions of EnVision, backed by the extensive nuclear industry training and consulting services of Absolute and Hyperspring, and now strengthened by our ability to successfully adapt, diversify, and offer a solutions based approach with our workforce solutions.
+ 
+Customer and Locations
+ 
+For almost 50 years, we have been developing next-generation, custom training simulation technologies. Since we built the first commercial full-scope nuclear power plant simulator in 1971, we have completed more than 1,100 installations across the power and process industries in 50 countries.
+ 
+In 2020, approximately 17.0% of our revenue was generated from end-users outside the United States and we have a concentration of revenue from one individual customers, which accounted for 14.1% of our consolidated revenue, respectively. A small representative list of our customer base includes: ABB Inc., American Electric Power, Bechtel Hanford National Laboratory, Duke Energy, EDF Energy (United Kingdom), Emerson Process Management, Entergy Nuclear Operations Inc, Exelon, PSEG Nuclear, Inc., Siemens AG (Germany), Southern Nuclear Operating Company, Inc., State Nuclear Power Automation System Engineering Company (China), Savannah River Nuclear Solutions, LLC, Slovenkse Elektrarne, A.S. (Slovakia), Tennessee Valley Authority, and Westinghouse Electric Co.
+ Hydrocarbon and chemical process customers include numerous large oil refineries and chemical plants such as BP (worldwide), Statoil ASA (Norway), Chevron,, Shell Oil Company (worldwide), Total (Belgium), and Valero (USA).
+ 
+Marketing and Sales
+ 
+We market our products and services through a network of direct sales staff, agents and representatives, and strategic alliance partners. Market-oriented business and customer account teams define and implement specific campaigns to pursue opportunities.
+ 
+We continue to have a proactive public relations program, issuing non-financial press releases to announce product development and significant deliveries, as well as our presence at numerous industry trade shows and technical conferences. We are active on numerous social media platforms and strive to build a strong presence across all media that our clients use to find information about the Company. Our goal is to provide useful information at each stage of the client’s journey with the Company.
+ 
+The Company’s ability to support its multi-facility, international, and multinational clients is facilitated by its network of offices and strategic partners in the U.S. and overseas. In addition to its office located in China, the Company’s ability to conduct international business is enhanced by its multilingual and multicultural workforce. GSE has strategic relationships with system integrators and agents representing its interests in Bulgaria, Japan, Malaysia, Singapore, South Korea, Taiwan, Ukraine and various locations in the Gulf Coast Countries of the Middle East.
+ 
+
+12
+ 
+ 
+Table of Contents
+-----------------
+
+Competition
+ 
+In the nuclear simulation market, we compete directly with firms primarily from Canada, France and the U.S., such as L-3 MAPPS Inc., a subsidiary of Harris (Canada), CORYS T.E.S.S (France) and Western Services Corporation. In the fossil simulation market, the Company competes with smaller companies in the U.S. and overseas. In the process industry our main competition comes from large digital control system/automation companies such as Honeywell and Schneider. In our engineering market, we compete with firms primarily from North America such as Enercon Services, Kinectrics, Sargent & Lundy, and AECOM.
+ 
+The Nuclear Industry Training and Consulting business services include technical professional and training-related and services as well as staff augmentation solutions. The competition for these services includes but is not limited to the following: GP Strategies, The Westwind Group, Professional Training Technologies, and Western Technical Services. The competition for staff augmentation includes: System One, Aerotek, and Peak Technical. Competition with staff augmentation is further impacted by wide scale industry consolidation as a result of the growing movement toward use of Managed Staffing Providers (MSPs).  As some competitors, such as Allied Technical, have been forced to close their doors, others have lost market share with the MSP model as it has shown a clearer picture of which companies can best deliver.  NITC has continuously found success with the MSP models and avoided the missteps that have impacted other competitors.
+ 
+Competitive Advantages
+ 
+Although there is competition in various industry niches, few companies in our space compare to our engineering, simulation and performance optimization expertise, especially for the nuclear power industry. Few of our competitors serve the broader performance improvement market and few work across the full spectrum of energy markets addressing clean energy sources and decarbonization initiatives, specifically, existing nuclear generation, advanced reactor applications, and ongoing integration with renewable power sources.  Our unique combination of talent and expertise, built through organic and acquisition-based growth has positioned us perfectly to align with the clean energy initiatives of our clients and the industry at large.
+Full Spectrum Support.  Over the past several years GSE has assembled a unique and highly experienced group of talent through organic growth and strategic acquisition.  Our Engineering team comprised of design, simulation, regulatory compliance, and performance optimization capabilities are unique to the industry and capable of addressing the entire power generation life cycle. A major and ongoing attribute associated with this unique grouping of expertise is our multi-tiered approach aimed at leveraging the aggregate strengths and abilities of our resource components towards maximizing client and shareholder value. This centers on the following key areas:
+
+• | Retain and strengthen our “Base” revenue through optimization of current capabilities and established client relationships. 
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+• | Integrate our product and service areas to provide more comprehensive or enhanced solutions when internal or external value can be identified.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Explore, evaluate, and develop new collaborative service areas, products, and solutions closely aligned with internal core strengths, client goals, and overall industry clean power initiatives.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Base Revenue and Strategic Integration. We will continue to build upon what has historically worked well for our Engineering Service Areas maintaining our client connections through efforts that provide a clear and immediate return such as optimized power generation and efforts that reduce or extend testing and inspection requirements.  In parallel we are aggressively evaluating ways to integrate and package our design, simulation, and plant performance components to further enhance client benefit.  In many cases this is structured with our historical base scope of supply proposed as the stand-alone foundation with optional scopes included to deliver a more integrated comprehensive solution if desired.
+New Product / Service Areas.  A dedicated, strategically focused exercise centered on evaluation of core capabilities, potential adjacencies, client needs, and industry direction has resulted in several new product or service initiatives within our Engineering group.  Further development, expansion, and application of existing product lines and associated services have moved to the forefront of this effort with the added benefit of minimizing engineering and information technology level of effort while maintaining very high client benefit. Additional competitive advantage are also present through client contracts which help fund the R&D components of the initiatives.
+ 
+
+13
+ 
+ 
+Table of Contents
+-----------------
+
+Proprietary Software Tools. We developed a library of proprietary software tools including auto-code generators and first principles-based system models that substantially improve and expedite the design, production and integration, testing and modification of software and systems. These tools are used to automatically generate the computer code and systems models required for specific functions commonly used in simulation applications, thereby enabling the Company or its customers to develop repeatable high-fidelity, real-time software quickly, accurately and at lower costs. The Company also has an expertise integrating third-party engineering codes into the Company’s simulation environment, thereby offering some of the most sophisticated technical solutions in the market. The Company has a substantial library of Process-Specific Simulation models and eLearning Modules aimed at the oil and gas, refining and specialty chemicals markets. Lastly, our Thermal System Monitoring (TSM) platform is being used as a plant performance reporting tool and as the graphical user interface for our digital validation and reconciliation (DVR) service initiatives which provide high value client return through power recovery and other optimization strategies.  This platform also serves as the foundation for our new product service initiatives with numerous optional modules and applications under consideration.
+Performance Expertise. We are a leading innovator and developer of engineering directed solutions for the power generation industry. Our design, simulation, and plant performance resources are fully engaged with industry developments and client requirements routinely providing answers to our clients most pressing needs. Design modifications addressing base generation usage for nuclear facilities, optimization of power production through innovative statistical analysis, and real-time simulation software producing high-fidelity, real-time plant simulation are representative examples. As of December 31, 2020, the Company employed a highly educated and experienced multinational workforce of approximately 332 employees, including approximately 141 engineers and scientists in fields such as nuclear, chemical, mechanical and electrical engineering, applied mathematics and computer sciences, and approximately 118 instructors and plant operations staff specialists.
+Unique Combination of Talent. Few in our market space brings together the sophistication of simulation technology with the engineering expertise, training expertise and plant performance expertise to provide the holistic people and plant performance improvement solutions as well as we do.
+ 
+Reputation for Customer Satisfaction. As part of its ISO-9001:2015 Quality Program Certification, GSE measures customer satisfaction across numerous factors such as On-Time Delivery, Problem Solving, and Customer Communication. In each category measured we routinely exceed customer expectations.
+ 
+Training Curricula. The Company has developed hundreds of detailed courses and simulator exercise material and specific industrial applications including oil and gas refining, gas-oil production, nuclear and combined cycle gas turbine power plant and desalination.
+ 
+Our Nuclear Industry Training and Consulting business is mostly focused on training and operations support. Our trainers and consultants provide their services at customer facilities which allows us to interface with our customers directly in the course of doing business versus only periodically calling on customers. Our proximity gives us a significant competitive advantage in that we can immediately offer and implement solutions rather than contending with lengthy bid processes.
+ 
+Intellectual Property.
+ 
+The Company depends upon its intellectual property rights in its proprietary technologies and in its distinctive trade and service marks. GSE maintains a portfolio of: trademarks and servicemarks (both registered and unregistered) on its logos, product and service names, and other elements of trade dress; copyrights (both registered and unregistered) on written materials including software code, manuals, and other creative works; trade secret protections on its proprietary technologies and methodologies; and licenses from third parties to use and commercially exploit other protected intellectual property. While such trademarks, copyrights, trade secrets, and inbound licenses as a group are of material importance to the Company, we do not consider any one trademark, copyright, trade secret, or license to be of such importance that the loss or expiration thereof would materially affect the Company. GSE distributes its software products under software license agreements that grant customers nonexclusive and nontransferable licenses for the use of the products. Usage of GSE’s licensed on-premise software is restricted to designated computers at specified sites, unless the customer obtains a site-wide license for its use of the software. GSE software products delivered as a service (SaaS) over the Internet also contain customer verifications and usage limitations. The Company employs not only software and hardware security measures to prevent unauthorized use of its software, but also detailed contractual terms and limitations within its license and service agreements to prohibit unauthorized usage or reproduction. GSE offers its customers both perpetual software licenses with unlimited duration (as long as the customer complies with the license terms) and term-limited software licenses and usage agreements.
+ 
+
+14
+ 
+ 
+Table of Contents
+-----------------
+
+
+The Company does not own any patents. The Company believes that all of the Company’s trademarks are valid and will have an unlimited duration as long as they are adequately protected and sufficiently used. GSE has numerous registered U.S. trademarks, including: GSE Systems®, JTOPMERET®, RELAP5-HD®, TOTALVISION®, VPanel® and SimExec®. GSE believes that its international trademark protection is adequate to its business needs. The Company also claims trademark rights to DesignEP™, Java Application and Development Environment (JADE)™, OpenSim™, PSA-HD™, RACS™, SimSuite Pro™, SmartTutor™, THOR™, and Xtreme I/S™. Despite these protections, the Company cannot be sure that it has protected or will be able to protect its intellectual property adequately, that the unauthorized disclosure or use of its intellectual property will be prevented, that others have not or will not develop similar technology independently, or, to the extent it owns any patents in the future, that others have not or will not be able to design around those patents. Furthermore, the laws of certain countries in which the Company’s products are sold do not protect its products and intellectual property rights to the same extent as the laws of the United States.
+ 
+Government Regulations
+ 
+Our operations are directly and indirectly affected by political developments and both domestic and foreign governmental regulations. We cannot determine the extent to which changing political priorities, new legislation, new regulations or changes in existing laws or regulations may affect our future operations, positively or negatively.
+Industries Served
+ 
+The following chart illustrates the approximate percentage of the Company’s 2020 and 2019 consolidated revenue by industries served:
+ 
+
+ | Years ended December 31, | 
+------------------+--------------------------+----
+ | 2020 | | | 2019
+Nuclear power | | 89 | % | | 90 | %
+Fossil fuel power | | 7 | % | | 7 | %
+Process | | 4 | % | | 2 | %
+Other | | – | | | 1 | %
+Total | | 100 | % | | 100 | %
+
+Backlog
+ 
+As of December 31, 2020, we had approximately $40.4 million of total gross revenue in backlog compared to $52.7 million as of December 31, 2019.  Most of our contract terms are for less than 24 months. Our backlog includes only those amounts that have been funded and authorized and does not reflect the full amounts we may receive over the term of such contracts. Our backlog includes future expected revenue at contract rates, excluding contract renewals or extensions that are at the discretion of the client. We calculate backlog without regard to possible project reductions or expansions or potential cancellations unless and until we have reason to believe that such changes may occur.
+ 
+Backlog is expressed in terms of gross revenue and, therefore, may include significant estimated amounts of third-party or pass-through costs to subcontractors and other parties.  Because backlog is not a defined accounting term, our computation of backlog may not necessarily be comparable to that of our industry peers.
+ 
+Human Capital
+ 
+As of December 31, 2020, we had approximately 332 employees, which include 197 in our Performance Improvement segment and 135 in our Nuclear Industry Training and Consulting segment. The 332 employees are comprised of 292  fulltime employees and 44 part time employees, 133 of these employees fall under our Workforce Solutions which is our staff augmentation division and most of the remainder fall under Engineering Performance. Excluding our Nuclear Industry Training and Consulting business, which consists primarily of specialized instructors, our employee attrition rate for 2020 among all staff was approximately 8.9%.To date, we have been able to locate and engage highly qualified employees as needed and we expect our growth efforts to be addressed through attracting top talent.
+ 
+Our people are what make us the Company we are today. Not only does it depend on employing highly skilled professionals but also people who can work together, effectively and collaboratively, as a team, whether departmental, cross functional, or cross company. Our employees come from diverse backgrounds as well as a diverse geography, and we look to attract people by offering a positive and welcoming work environment, strong management and leadership teams, along with a competitive compensation and benefit package.
+ 
+
+15
+ 
+ 
+Table of Contents
+-----------------
+
+Talent Management
+ 
+GSE is committed to recruiting, hiring, retaining, and developing the most talented and skilled professionals & graduates available in the job market. Our approach to Talent Management includes a rigorous selection process followed by coaching, training, and knowledge transfer. We differentiate our program from typical performance management programs by focusing on the manager’s role. HR provides support but the day-to-day interactions that ensure the employee’s success come from the manager. They coach and develop employees through their active and regular interactions. This is a critical part of both current performance as well as knowledge transfer from our more experienced staff that may be nearing the end of their career, to our less experienced. Training takes place internally and across our companies to take advantage of our SMEs in our industry. As a result of this we can integrate different talent pools to be interchangeable across projects. In addition, we offer a tuition reimbursement that allows employees to further their education or attend external professional development programs.
+ 
+In 2021, we will be putting career paths in place and compensation structures that will increase our retention rates as well as offering leadership development for our upcoming, emerging leaders that will lead us into the future.
+ 
+Compensation & Benefits
+ 
+GSE offers market competitive compensation and benefit programs for our employees in order to attract and retain superior talent. In addition to competitive base wages, additional programs include a Long-Term Incentive Stock Option Plan, a Company matched 401(k) Plan, healthcare and insurance benefits, health savings and flexible spending accounts, paid time off, family leave, and employee assistance programs are provided.
+Diversity & Inclusion
+ 
+A diverse and inclusive workforce adds value to our company and helps us succeed. We believe diversity is important because it provides varied insight and varied perspectives which results in innovative thinking, better decision making and faster problem solving. Having a diverse workforce also brings different skill sets and experiences that are shared throughout the Company. Our culture which is collaborative in nature, provides for inclusion of all employees in all aspects of our work.
+Health, Safety, & COVID-19
+ 
+The health and safety of our employees is of paramount importance to us. Our OSHA records show that we have had zero injuries/illnesses in the past four years, and we attribute that to our employees working carefully so they don’t get injured. We provide everyone a safety manual and the employees that work at power plants are also provided with the necessary safety training on site.
+ 
+In response to COVID-19, we have implemented some protocols to keep our employees safe. All employees are provided remote work with office visits restricted to essential work only and includes use of masks, social distancing, and proper hand washing and cleaning protocols. Travel has also been limited to essential work only. While some employees are doing essential work at client sites, all our clients have provided their COVID safety protocols, and they are strictly adhered to.
+ 
+During COVID-19, our employees have faced the challenges of maintaining their mental health as well as providing an environment for their children to participate in virtual learning. In response to this, we have provided multiple mental health resources for our employees and their families including subscriptions to Headspace as well as a wellness program that incentivizes and motivates people to eat healthy, get some form of exercise, and destress. We also offer an EAP and full access to mental health providers through our health partner, Cigna. And in order for our employees to be able to assist in the virtual learning environment with their children, we have offered flexible work schedules to accommodate their needs.
+ 
+
+16
+ 
+ 
+Table of Contents
+-----------------
+
+
+COVID-19
+ 
+GSE employees began working remotely during the first quarter of 2020 due to the COVID-19 pandemic and will continue to do so when practical and as mandated by local, state and federal directives and regulations. Employees almost entirely work from home within our Performance Improvement Solutions (“Performance”) segment, except when required to be at the client site for essential project work. Our Performance contracts, which are considered an essential service, are permitted to and mostly continue without pause; however, we have experienced certain delays in new business. For our staff augmentation business, we have seen certain contracts for our Nuclear Industry Training and Consulting (“NITC”) customers paused or delayed as clients shrink their own on-premise workforces to the minimum operating levels in response to the pandemic; as a result, our NITC segment has experienced a decline in its billable employee base since the start of the pandemic. Although we cannot fully estimate the length or gravity of the impact of the COVID-19 pandemic to our business at this time, we have experienced delays in commencing new projects and thus our ability to recognize revenue has been delayed for some contracts. We have also experienced order reductions or other negative changes to orders due to the pandemic. We routinely monitor our operating expenses as a result of contract delays and have made adjustments to keep our gross profit at a sustainable level.
+ 
+Item 1.  Financial Statements
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED 
+BALANCE SHEETS
+ (in thousands, except share data)
+ 
+
+ | December 31, | 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+--------
+ | 2020 | | | 2019 | 
+ASSETS | | | | | 
+Current assets: | | | | | 
+Cash and cash equivalents | $ | 6,702 | | | $ | 11,691 | 
+Contract receivables, net | | 10,494 | | | | 17,207 | 
+Prepaid expenses and other current assets | | 1,554 | | | | 1,880 | 
+Total current assets | | 18,750 | | | | 30,778 | 
+Equipment, software and leasehold improvements, net | | 616 | | | | 939 | 
+Software development costs, net | | 630 | | | | 641 | 
+Goodwill | | 13,339 | | | | 13,339 | 
+Intangible assets, net | | 4,234 | | | | 10,479 | 
+Deferred tax assets | | - | | | | 57 | 
+Operating lease right-of-use assets, net | | 1,562 | | | | 2,215 | 
+Other assets | | 59 | | | | 61 | 
+Total assets | $ | 39,190 | | | $ | 58,509 | 
+LIABILITIES AND STOCKHOLDERS’ EQUITY | | | | | | | 
+Current liabilities: | | | | | | | 
+Line of credit | $ | 3,006 | | | $ | - | 
+Paycheck Protection Program Loan, current portion | | 5,034 | | | | - | 
+Debt, net of issuance costs and discount | | - | | | | 18,481 | 
+Accounts payable | | 570 | | | | 1,097 | 
+Accrued expenses | | 1,297 | | | | 1,871 | 
+Accrued compensation | | 1,505 | | | | 1,876 | 
+Billings in excess of revenue earned | | 5,285 | | | | 7,613 | 
+Accrued warranty | | 665 | | | | 921 | 
+Income taxes payable | | 1,621 | | | | 1,341 | 
+Other current liabilities | | 2,498 | | | | 1,234 | 
+Total current liabilities | | 21,481 | | | | 34,434 | 
+Paycheck Protection Program Loan, noncurrent portion | | 5,034 | | | | - | 
+Operating lease liabilities noncurrent | | 1,831 | | | | 3,000 | 
+Other noncurrent liabilities | | 339 | | | | 956 | 
+Total liabilities | | 28,685 | | | | 38,390 | 
+Commitments and contingencies | | | | | | | 
+Stockholders’ equity: | | | | | | | 
+Preferred stock $.01 par value; 2,000,000 shares authorized; no shares issued and outstanding | | - | | | | - | 
+Common stock $0.01 par value; 60,000,000 shares authorized, 22,192,569 and 21,838,963 shares issued, 20,593,658 and 20,240,052 shares outstanding, respectively | | 222 | | | | 218 | 
+Additional paid-in capital | | 79,687 | | | | 79,400 | 
+Accumulated deficit | | (65,191 | ) | | | (54,654 | )
+Accumulated other comprehensive loss | | (1,214 | ) | | | (1,846 | )
+Treasury stock at cost, 1,598,911 shares | | (2,999 | ) | | | (2,999 | )
+Total stockholders’ equity | | 10,505 | | | | 20,119 | 
+Total liabilities and stockholders’ equity | $ | 39,190 | | | $ | 58,509 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+  
+48
+ 
+ 
+Table of Contents
+-----------------
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF 
+OPERATIONS
+ (in thousands, except per share data)
+ 
+
+ | Years ended December 31, | 
+-------------------------------------------------------------------------------+--------------------------+-----------
+ | 2020 | | | 2019 | 
+Revenue | $ | 57,620 | | | $ | 82,975 | 
+Cost of revenue | | 42,835 | | | | 62,677 | 
+Gross profit | | 14,785 | | | | 20,298 | 
+Operating expenses | | | | | | | 
+Selling, general and administrative | | 15,765 | | | | 16,169 | 
+Research and development | | 686 | | | | 710 | 
+Restructuring charges | | 1,297 | | | | 2,478 | 
+Loss on impairment | | 4,302 | | | | 5,597 | 
+Depreciation | | 330 | | | | 363 | 
+Amortization of definite-lived intangible assets | | 1,943 | | | | 2,400 | 
+Total operating expenses | | 24,323 | | | | 27,717 | 
+Operating loss | | (9,538 | ) | | | (7,419 | )
+Interest expense | | (623 | ) | | | (988 | )
+Loss on derivative instruments, net | | (17 | ) | | | (13 | )
+Other (expense) income, net | | (4 | ) | | | 2,068 | 
+Loss before income taxes | | (10,182 | ) | | | (6,352 | )
+Provision for income taxes | | 355 | | | | 5,733 | 
+Net loss | $ | (10,537 | ) | | $ | (12,085 | )
+Net loss per common share - basic | $ | (0.52 | ) | | $ | (0.60 | )
+Diluted loss per common share | $ | (0.52 | ) | | $ | (0.60 | )
+Weighted average shares outstanding used to compute net loss per share - basic | | 20,439,157 | | | | 20,062,021 | 
+Weighted average shares outstanding - Diluted | | 20,439,157 | | | | 20,062,021 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+49
+ 
+ 
+Table of Contents
+-----------------
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF 
+COMPREHENSIVE LOSS
+ (in thousands)
+ 
+
+ | Years ended December 31, | 
+----------------------------------+--------------------------+--------
+ | 2020 | | | 2019 | 
+Net loss | $ | (10,537 | ) | | $ | (12,085 | )
+Cumulative translation adjustment | | 632 | | | | (211 | )
+Comprehensive loss | $ | (9,905 | ) | | $ | (12,296 | )
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+50
+ 
+ 
+Table of Contents
+-----------------
+
+GSE SYSTEMS, INC, AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF 
+CHANGES IN STOCKHOLDERS’ EQUITY
+ (in thousands)
+ 
+
+ | Common Stock | | Additional Paid-in | | | Accumulated | | Accumulated Other Comprehensive | | Treasury Stock | | | | 
+------------------------------------------+--------------+--------+--------------------+---+-----+-------------+---+---------------------------------+---+----------------+---------+---+--------+--
+ | Shares | | Amount | | | Capital | | Deficit | | Loss | | | Shares | | | Amount | Total | 
+Balance, January 1, 2019 | | 21,485 | | $ | 214 | | $ | 78,118 | | $ | (42,569 | ) | | $ | (1,635 | ) | (1,599 | ) | $ | (2,999 | ) | $ | 31,129 | 
+Stock-based compensation expense | | - | | | - | | | 1,513 | | | - | | | | - | | - | | | - | | | 1,513 | 
+Common stock issued for options exercised | | 9 | | | 1 | | | - | | | - | | | | - | | - | | | - | | | 1 | 
+Common stock issued for RSUs vested | | 345 | | | 3 | | | (3 | ) | | - | | | | - | | - | | | - | | | - | 
+Shares withheld to pay taxes | | - | | | - | | | (228 | ) | | - | | | | - | | - | | | - | | | (228 | )
+Foreign currency translation adjustment | | - | | | - | | | - | | | - | | | | (211 | ) | - | | | - | | | (211 | )
+Net loss | | - | | | - | | | - | | | (12,085 | ) | | | - | | - | | | - | | | (12,085 | )
+Balance, December 31, 2019 | | 21,839 | | $ | 218 | | $ | 79,400 | | $ | (54,654 | ) | | $ | (1,846 | ) | (1,599 | ) | $ | (2,999 | ) | $ | 20,119 | 
+Stock-based compensation expense | | - | | | - | | | 378 | | | - | | | | - | | - | | | - | | | 378 | 
+Common stock issued for RSUs vested | | 354 | | | 4 | | | (4 | ) | | - | | | | - | | - | | | - | | | - | 
+Shares withheld to pay taxes | | - | | | - | | | (87 | ) | | - | | | | - | | - | | | - | | | (87 | )
+Foreign currency translation adjustment | | - | | | - | | | - | | | - | | | | 632 | | - | | | - | | | 632 | 
+Net loss | | - | | | - | | | - | | | (10,537 | ) | | | - | | - | | | - | | | (10,537 | )
+Balance, December 31, 2020 | | 22,193 | | $ | 222 | | $ | 79,687 | | $ | (65,191 | ) | | $ | (1,214 | ) | (1,599 | ) | $ | (2,999 | ) | $ | 10,505 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+51
+ 
+ 
+Table of Contents
+-----------------
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ CONSOLIDATED STATEMENTS OF 
+CASH FLOWS
+ (in thousands)
+ 
+
+ | Years ended December 31, | 
+------------------------------------------------------------------------------------------+--------------------------+--------
+ | 2020 | | | 2019 | 
+Cash flows from operating activities: | | | | | 
+Net loss | $ | (10,537 | ) | | $ | (12,085 | )
+Adjustments to reconcile net loss to net cash (used in) provided by operating activities: | | | | | | | 
+Loss on impairment | | 4,302 | | | | 5,597 | 
+Depreciation | | 330 | | | | 363 | 
+Amortization of intangible assets | | 1,943 | | | | 2,400 | 
+Amortization of deferred financing costs | | 82 | | | | - | 
+Amortization of capitalized software development costs | | 339 | | | | 366 | 
+Change in fair value of contingent consideration | | - | | | | (1,200 | )
+Stock-based compensation expense | | 378 | | | | 1,513 | 
+Bad debt expense | | 103 | | | | 31 | 
+Loss on derivative instruments, net | | 17 | | | | 13 | 
+Deferred income taxes | | - | | | | 5,349 | 
+Gain on sale of assets | | (5 | ) | | | (66 | )
+Changes in assets and liabilities: | | | | | | | 
+Contract receivables, net | | 6,901 | | | | 6,754 | 
+Prepaid expenses and other assets | | 81 | | | | 532 | 
+Accounts payable, accrued compensation and accrued expenses | | (1,498 | ) | | | (3,458 | )
+Billings in excess of revenue earned | | (2,374 | ) | | | (3,051 | )
+Accrued warranty | | (721 | ) | | | (294 | )
+Other liabilities | | 1,777 | | | | 1,240 | 
+Net cash provided by operating activities | | 1,118 | | | | 4,004 | 
+Cash flows from investing activities: | | | | | | | 
+Capital expenditures | | (13 | ) | | | (131 | )
+Proceeds from sale of equipment | | 11 | | | | 13 | 
+Capitalized software development costs | | (328 | ) | | | (392 | )
+Acquisition of DP Engineering, net of cash acquired | | - | | | | (13,542 | )
+Net cash used in investing activities | | (330 | ) | | | (14,052 | )
+Cash flows from financing activities: | | | | | | | 
+Proceeds from line of credit | | 4,752 | | | | - | 
+Repayment of line of credit | | (1,746) | | | | - | 
+Payment of insurance premium | | (204 | ) | | | - | 
+Proceeds from issuance of long-term debt | | - | | | | 14,263 | 
+Repayment of long-term debt | | (18,481 | ) | | | (4,294 | )
+Proceeds from Paycheck Protection Program Loan | | 10,000 | | | | - | 
+Proceeds from issuance of common stock | | - | | | | 1 | 
+Termination fee on Interest rate swap agreement | | (209 | ) | | | - | 
+Shares withheld to pay taxes | | (87 | ) | | | (228 | )
+Deferred financing costs | | (91 | ) | | | - | 
+Net cash (used in) provided by financing activities | | (6,066 | ) | | | 9,742 | 
+Effect of exchange rate changes on cash | | 289 | | | | (126 | )
+Net decrease in cash and cash equivalents | | (4,989 | ) | | | (432 | )
+Cash, cash equivalents at beginning of year | | 11,691 | | | | 12,123 | 
+Cash, cash equivalents at end of year | $ | 6,702 | | | $ | 11,691 | 
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+
+52
+ 
+ 
+Table of Contents
+-----------------
+
+GSE SYSTEMS, INC. AND SUBSIDIARIES
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ December 31, 2020 and 2019
+ 1.  Summary of Significant Accounting Policies
+ 
+Principles of consolidation
+ 
+GSE Systems, Inc. is a leading provider of professional and technical engineering, staffing services, and simulation software to clients in the power and process industries. References in this report to “GSE,” the “Company,” “we” and “our” are to GSE Systems and its subsidiaries, collectively. All intercompany balances and transactions have been eliminated in consolidation.
+ 
+Accounting estimates
+ 
+The preparation of the consolidated financial statements in conformity with generally accepted accounting principles in the United States of America (U.S. GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expenses during the reporting period. On an ongoing basis, the Company evaluates the estimates used, including, but not limited to those related to revenue recognition on long-term contracts, allowance for doubtful accounts, product warranties, valuation of goodwill and intangible assets acquired, impairment of long-lived assets to be disposed of, valuation of contingent consideration issued in business acquisitions, valuation of stock-based compensation awards and the recoverability of deferred tax assets. Actual results could differ from these estimates.
+
+Business combinations
+ 
+Business combinations are accounted for in accordance with the Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”), ASC 805, Business Combinations, using the acquisition method. Under the acquisition method, the identifiable assets acquired, liabilities assumed and any non-controlling interest in the acquiree are recognized at fair value on the acquisition date, which is the date on which control is transferred to the Company. Any excess purchase price is recorded as goodwill. Transaction costs associated with business combinations are expensed as incurred.
+ 
+Revenues and the results of operations of the acquired business are included in the accompanying consolidated statements of operations commencing on the date of acquisition.
+ 
+Acquisitions may include contingent consideration payments based on future financial measures of an acquired company. Under ASC 805, contingent consideration is required to be recognized at fair value as of the acquisition date. We estimate the fair value of these liabilities based on financial projections of the acquired companies and estimated probabilities of achievement. At each reporting date, the contingent consideration obligation is revalued to estimated fair value, and changes in fair value subsequent to the acquisition are reflected in income or expense in the consolidated statements of operations, and could cause a material impact to our operating results. Changes in the fair value of contingent consideration obligations may result from changes in discount periods and rates, changes in the timing and amount of revenue and/or earnings estimates, and changes in probability assumptions with respect to the likelihood of achieving the various earn-out criteria.
+
+Revenue recognition
+ 
+The Company derives its revenue through three broad revenue streams: 1) System Design and Build (SDB), 2) Software, and 3) Training and Consulting services. We recognize revenue from SDB and software contracts mainly through the Performance Improvement Solutions segment and the training and consulting service contracts through both the Performance Improvement Solutions segment and Nuclear Industry Training and Consulting segment.
+ 
+
+53
+ 
+ 
+Table of Contents
+-----------------
+
+
+The SDB contracts are typically fixed-price and consist of initial design, engineering, assembly and installation of training simulators which include hardware, software, labor, and post contract support (PCS) on the software. We generally have two main performance obligations for an SDB contract: the training simulator build and PCS. The training simulator build performance obligation generally includes hardware, software, and labor. The transaction price under the SDB contracts is allocated to each performance obligation based on its standalone selling price. We recognize the training simulator build revenue over the construction and installation period using the cost-to-cost input method. In applying the cost-to-cost input method, we use the actual costs incurred to date relative to the total estimated costs to measure the work progress toward the completion of the performance obligation and recognize revenue over time as control transfers to a customer. Estimated contract costs are reviewed and revised periodically during the contract period, and the cumulative effect of any change in estimates is recognized in the period in which the change is identified. Estimated losses are recognized in the period such losses become known.
+ 
+Uncertainties inherent in the performance of contracts include labor availability and productivity, material costs, change order scope and pricing, software modification and customer acceptance issues. The reliability of these cost estimates is critical to the Company’s revenue recognition as a significant change in the estimates can cause the Company’s revenue and related margins to change significantly from previous estimates.
+ 
+Management judgments and estimates involved in the initial creation and subsequent updates to the Company’s estimates-at-completion and related profit recognized are critical for our revenue recognition associated with SDB contracts. Inputs and assumptions requiring significant management judgment included anticipated direct labor, subcontract labor, and other direct costs required to deliver on unfinished performance obligations.
+ 
+The SDB contracts generally provide a one-year base warranty on the systems. The base warranty will not be accounted for as a separate performance obligation under the contract because it does not provide the customer with a service in addition to the assurance that the completed project complies with agreed-upon specifications. Warranties extended beyond our typical one-year period will be evaluated on a case by case basis to determine if it provides more than just assurance that the product operates as intended, which requires carve-out as a separate performance obligation.
+ 
+Revenue from the sale of perpetual standalone and term software licenses, which do not require significant modification or customization, is recognized upon its delivery to the customer.  Revenue from the sale of cloud-based, subscription-based software licenses is recognized ratably over the term of such licenses following delivery to the customer. Delivery is considered to have occurred when the customer receives a copy of the software and is able to use and benefit from the software.
+ 
+A software license sale contract with multiple deliverables typically includes the following elements: license, installation and training services, and PCS. The total transaction price of a software license sale contract is typically fixed, and is allocated to the identified performance obligations based on their relative standalone selling prices. Revenue is recognized as the performance obligations are satisfied. Specifically, license revenue is recognized when the software license is delivered to the customer; installation and training revenue are recognized when the installation and training are completed without regard to a detailed evaluation of the point in time criteria due to the short-term nature of the installation and training services (one to two days on average); and PCS revenue is recognized ratably over the service period, as PCS is deemed as a stand-ready obligation.
+ 
+The contracts within the training and consulting services revenue stream are either time and materials (T&M) based or fixed-price based. Under a typical T&M contract, the Company is compensated based on the number of hours of approved time provided by temporary workers and the bill rates which are fixed by type of work, as well as approved expenses incurred. The customers are billed on a regular basis, such as weekly, biweekly or monthly. In accordance with ASC 606-10-55-18, Revenue from contracts with customers, we elected to apply the “right to invoice” practical expedient, under which we recognize revenue in the amount to which we have the right to invoice. The invoice amount represents the number of hours of approved time worked by each temporary worker multiplied by the bill rate for the type of work, as well as approved expenses incurred. Under a typical fixed-price contract, we recognize the revenue on a Percentage of Completion basis as it relates to GSE Construction Contracts with revenue recognized based on project delivery over time. Revenue from the sale of short-term contracts with a delivery period of one month or less is recognized in the month completed.
+ 
+For contracts with multiple performance obligations, we allocate the contract price to each performance obligation based on its relative standalone selling price. We generally determine standalone selling prices based on the prices charged to customers.
+ 
+The transaction price for Software contracts is generally fixed, and we recognize revenue upon delivery of the software, with fees due in advance or shortly after delivery of the software.
+ 
+
+54
+ 
+ 
+Table of Contents
+-----------------
+
+
+We recognize Training and Consulting Services revenue as services are performed and bill our customers for services that we have provided on a regular basis (i.e. weekly, biweekly or monthly) and in time with revenue recognition.
+ 
+Contract asset, which we classify as unbilled receivables, relates to performance under the contract for obligations that are satisfied but not yet billed. Contract assets are recognized as revenue as they occur.
+ 
+Contract liability, which we classify as billing-in-excess of revenue earned, relates to payments received in advance of performance under the contract. Contract liabilities are recognized as revenue as performance obligations are satisfied.
+ 
+Cash and cash equivalents
+ 
+Cash and cash equivalents represent cash and highly liquid investments including money market accounts with maturities of three months or less at the date of purchase.
+
+Contract receivables, net and contract asset and liabilities
+ 
+Contract receivables include recoverable costs and accrued profit not billed which represents revenue recognized in excess of amounts billed. Contract asset (unbilled receivables) include amounts earned in performance of services that have not been invoiced. Contract liabilities include billings in excess of revenue earned on uncompleted contracts in the accompanying consolidated balance sheets represent advanced billings to clients on contracts in advance of work performed. Generally, such amounts will be earned and recognized over the next twelve months.
+ 
+Billed receivables are recorded at invoiced amounts. The allowance for doubtful accounts is based on historical trends of past due accounts, write-offs, specific identification and review of customer accounts.
+
+Impairment of long-lived assets
+ 
+Long-lived assets, such as equipment, purchased software, capitalized software development costs, and intangible assets subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to estimated undiscounted future cash flows expected to be generated by the asset. If the carrying amount of an asset exceeds its estimated undiscounted future cash flows, an impairment charge is recognized at the amount by which the carrying amount of the asset exceeds its fair value. Assets to be disposed of would be separately presented in the consolidated balance sheets and reported at the lower of the carrying amount or fair value less costs to sell, and would no longer be depreciated.
+ 
+Development expenditures
+ 
+Development expenditures incurred to meet customer specifications under contracts are charged to cost of revenue. Company sponsored development expenditures are either charged to operations as incurred and are included in research and development expenses or are capitalized as software development costs. The amounts incurred for Company sponsored development activities relating to the development of new products and services or the improvement of existing products and services, were approximately $1.0 million and $1.1 million for the years ended December 31, 2020 and 2019, respectively. Of these amounts, the Company capitalized approximately $0.3 million and $0.4 million for the years ended December 31, 2020 and 2019, respectively.
+
+Equipment, software and leasehold improvements, net
+ 
+Equipment and purchased software are recorded at cost and depreciated using the straight-line method with estimated useful lives ranging from three years to ten years. Leasehold improvements are amortized over the term of the lease or the estimated useful life, whichever is shorter, using the straight-line method. Upon sale or retirement, the cost and related depreciation are eliminated from the respective accounts and any resulting gain or loss is included in operations. Maintenance and repairs are charged to expense as incurred.
+ 
+
+55
+ 
+ 
+Table of Contents
+-----------------
+
+
+Software development costs
+ 
+Certain computer software development costs, including direct labor cost, are capitalized in the accompanying consolidated balance sheets. Capitalization of computer software development costs begins upon the establishment of technological feasibility. Capitalization ceases and amortization of capitalized costs begins when the software product is commercially available for general release to customers. Amortization of capitalized computer software development costs is included in cost of revenue and is determined using the straight-line method over the remaining estimated economic life of the product, typically three years. On an annual basis, or more frequently as conditions indicate, the Company assesses the recovery of the unamortized software development costs by estimating the net undiscounted cash flows expected to be generated by the sale of the product. If the undiscounted cash flows are not sufficient to recover the unamortized software costs the Company will write-down the carrying amount of such asset to its estimated fair value based on the future discounted cash flows. The excess of any unamortized computer software costs over the related fair value is written down and charged to operations. Included in capitalized software development costs are certain expenses associated with the development software as a service. Significant changes in the sales projections could result in an impairment with respect to the capitalized software that is reported on the Company’s consolidated balance sheets.
+
+Goodwill and intangible assets
+ 
+The Company’s intangible assets include amounts recognized in connection with business acquisitions, including customer relationships, trade names, non-compete agreements and alliance agreements. Due to the impact of the COVID-19 pandemic, definite-lived intangible assets were reviewed for impairment in the first quarter of 2020. The undiscounted cash flows evidenced impairment for the DP Engineering asset group as such, we used a discounted cash flow model to determine the fair value of the DP Engineering asset group and recorded an impairment charge of $4.3 million as of the period ended March 31, 2020.
+ 
+The Company’s intangible assets impairment analysis includes the use of undiscounted and discounted cash flow models that requires management to make assumptions regarding estimates of revenue growth rates and operating margins used to calculate projected future cash flows.
+ 
+Intangible assets are initially valued at fair value using generally accepted valuation methods appropriate for the type of intangible asset. Amortization is recognized on a straight-line basis over the estimated useful life of the intangible asset, except for contract backlog and contractual customer relations, which are recognized in proportion to the related project revenue streams. Intangible assets with definite lives are reviewed for impairment if indicators of impairment arise. The Company does not have any intangible assets with indefinite useful lives.
+ 
+We review goodwill for impairment annually as of December 31 and whenever events or changes in circumstances indicate the carrying value of goodwill may not be recoverable. We test goodwill at the reporting unit level. A reporting unit is an operating segment, or one level below an operating segment, as defined by U.S. GAAP. We have determined that we have two reporting units, which are the same as our two operating segments: (i) Performance Improvement Solutions (“Performance”) and (ii) Nuclear Industry Training and Consulting (“NITC”).
+ 
+Goodwill represents the excess of costs over fair value of assets of businesses acquired. The Company reviews goodwill for impairment annually as of December 31 and whenever events or changes in circumstances indicate the carrying value of goodwill may not be recoverable in accordance with Accounting Standards Update (“ASU”) 2011-08, Intangibles - Goodwill and Other (Topic 350): Testing Goodwill for Impairment. The Company tests goodwill at the reporting unit level.
+ 
+ ASU 2011-08 permits an entity to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform impairment testing. Under ASU 2011-08, an entity is not required to perform step one of the goodwill impairment test for a reporting unit if it is more likely than not that its fair value is greater than its carrying amount. Additionally, ASU 2017-04, Simplifying the Test for Goodwill Impairment by eliminating two step approach when there is indication of impairment.
+ 
+On February 15, 2019, we acquired DP Engineering and preliminarily recorded goodwill and identified intangible assets as part of the acquisition. On February 23, 2019, an unexpected event occurred at one of DP Engineering’s significant customers and all pending work for that customer was terminated as a result of a root cause analysis on February 28, 2019. On May 10, 2019, the Company determined that a material impairment had occurred, requiring an assessment for impairment to be completed related to $5.6 million of goodwill recorded in the acquisition. (See Note 7).
+ 
+
+56
+ 
+ 
+Table of Contents
+-----------------
+
+
+During the first quarter of fiscal 2020, We determined that the impact of the COVID-19 pandemic on its operations was an indicator of a triggering event that could result in potential impairment of goodwill. As such we performed a Step 1 goodwill analysis whereby we compared the fair value of each reporting unit to its respective carrying value, Based upon this analysis, we determined the fair value of goodwill at the reporting unit levels exceeded the carrying value and thus there was no impairment as of the period ended March 31, 2020. The Step 1 analysis was updated as of December 31, 2020 for our annual impairment test, and did not identify any impairment of goodwill as of such date. In addition, we make certain judgments and assumptions in allocating shared assets and liabilities to determine the carrying values for each of our reporting units. As of December 31, 2019, we performed a quantitative step 1 goodwill impairment test and concluded that the fair values of each of our reporting units exceeded their respective carrying values.
+ 
+Our goodwill impairment analysis includes the use of a discounted cash flow model that requires management to make assumptions regarding estimates of revenue growth rates and operating margins used to calculate projected future cash flows, and risk-adjusted discount rates.
+ 
+Foreign currency translation
+ 
+The United States Dollar (USD) is the functional currency of GSE and subsidiaries operating in the United States. The functional currency of each of our foreign subsidiaries is the currency of the economic environment in which the subsidiary primarily does business. Our foreign subsidiaries’ financial statements are translated into USD using the exchange rates applicable to the dates of the financial statements. Assets and liabilities are translated into USD using the period-end spot foreign exchange rates. Income and expenses are translated at the average exchange rate for the year. Equity accounts are translated at historical exchange rates. The effects of these translation adjustments are cumulative translation adjustments, which are reported as a component of accumulated other comprehensive income (loss) included in the consolidated statements of changes in stockholders’ equity.
+ 
+For any business transaction that is in a currency different from the entity’s functional currency, we record a gain or loss based on the difference between the exchange rate at the transaction date and the exchange rate at the transaction settlement date (or rate at period end, if unsettled) to the foreign currency realized gain (loss) account in the consolidated statements of operations.
+ 
+Income taxes
+ 
+Income taxes are provided under the asset and liability method. Under this method, deferred income taxes are determined based on the differences between the consolidated financial statements and tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amounts expected to be realized. A provision is made for the Company’s current liability for federal, state and foreign income taxes and the change in the Company’s deferred income tax assets and liabilities.
+ 
+We establish accruals for uncertain tax positions taken or expected to be taken in a tax return when it is not more likely than not (i.e., a likelihood of more than fifty percent) that the position would be sustained upon examination by tax authorities that have full knowledge of all relevant information. A recognized tax position is then measured at the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement. Favorable or unfavorable adjustment of the accrual for any particular issue would be recognized as an increase or decrease to income tax expense in the period of a change in facts and circumstances. Interest and penalties related to income taxes are accounted for as income tax expense.
+
+Stock-based compensation
+ 
+Stock-based compensation expense is based on the grant-date fair value estimated in accordance with the provisions of ASC 718, Compensation-Stock Compensation. Compensation expense related to stock-based awards is recognized on a pro rata straight-line basis based on the fair value of share awards that are scheduled to vest during the requisite service period.
+ 
+
+57
+ 
+ 
+Table of Contents
+-----------------
+
+
+Significant customers and concentration of credit risk
+ 
+For the year ended December 31, 2020, we have a concentration of revenue from one individual customer, which accounted for 14.1% of our consolidated revenue. For the year ended December 31, 2019, we had a concentration of revenue from one customer, which accounted for 27.8% of our consolidated revenue. This customer is part of both Performance and NITC segments. No other individual customer accounted for more than 10% of our consolidated revenue in 2020 or 2019.
+ 
+As of December 31, 2020, we have no customer that accounted over 10% of the Company’s consolidated contract receivables. As of December 31, 2019, the Company had two customers that accounted for 12.6% and 10.3% of the Company’s consolidated contract receivables.
+
+Fair values of financial instruments
+ 
+The carrying amounts of current assets and current liabilities reported in the consolidated balance sheets approximate fair value due to their short term duration.
+
+Derivative instruments
+ 
+ Occasionally, the Company utilizes forward foreign currency exchange contracts to manage market risks associated with the fluctuations in foreign currency exchange rates. It is the Company’s policy to use such derivative financial instruments to protect against market risk arising in the normal course of business in order to reduce the impact of these exposures. The Company minimizes credit exposure by limiting counterparties to nationally recognized financial institutions. We do not have such derivative instruments as of December 31, 2020.
+
+
+COVID-19
+ 
+GSE employees began working remotely during the first quarter of 2020 due to the COVID-19 pandemic and will continue to do so when practical and as mandated by local, state and federal directives and regulations. Employees almost entirely work from home within our Performance Improvement Solutions (“Performance”) segment, except when required to be at the client site for essential project work. Our Performance contracts, which are considered an essential service, are permitted to and mostly continue without pause; however, we have experienced certain delays in new business. For our staff augmentation business, we have seen certain contracts for our Nuclear Industry Training and Consulting (“NITC”) customers paused or delayed as clients shrink their own on-premise workforces to the minimum operating levels in response to the pandemic; as a result, our NITC segment has experienced a decline in its billable employee base since the start of the pandemic. Although we cannot fully estimate the length or gravity of the impact of the COVID-19 pandemic to our business at this time, we have experienced delays in commencing new projects and thus our ability to recognize revenue has been delayed for some contracts. We have also experienced order reductions or other negative changes to orders due to the pandemic. We routinely monitor our operating expenses as a result of contract delays and have made adjustments to keep our gross profit at a sustainable level.
+ 
+Going Concern
+ 
+In 2019, our operating results were negatively impacted by the loss of a major customer in our DP Engineering subsidiary. In 2020, we had several projects delayed and new orders postponed because of the COVID-19 pandemic.  We have amended our credit facility with Citizens Bank in 2020 based upon expected covenant violations and have been required to curtail term debt in exchange for revised financial covenants.  Scheduled term loan repayments and agreed upon curtailment required us to use $18.5 million in available cash to pay-off our term debt in 2020.  As such, our working capital position on December 31, 2020 was a deficit of $2.7 million.  This working capital deficit includes $5.0 million  from current maturities on our PPP loan, which we expect will be forgiven and have not received any indications to the contrary (See Note 4). If the PPP loan is not forgiven, in part or in whole, we will work with our bank to extend repayment terms as permitted to mitigate the impact on our cashflows.  However, if unforgiven and unamended, our PPP loan would be due April 23, 2022, in part or in whole, and may stress our free cash flow and the business to a degree that may cause our covenants to fail.
+ 
+
+58
+ 
+ 
+Table of Contents
+-----------------
+
+
+The COVID-19 macroeconomic environment is considered fluid and although recovery is anticipated to steadily occur over the next 12 months, a further decline will stress our ability to meet covenant requirements.  Further continuance of delays in commencing work on outstanding orders or a continued loss of orders, further disruption of our business because of worker illness or mandated shutdowns may also exacerbate the situation.  Jurisdictions where our businesses operate across the country are pushing toward re-opening places of business and government support, through the American Rescue Plan Act of 2021, will continue support the broad economy on that path.  However, the timing of these elements taking place are not predictable and may not serve to mitigate our situation or improve our specific company’s health.
+ 
+We signed the Ninth Amendment and Reaffirmation Agreement (the “Nineth Amendment”) with our bank on March 29, 2021 to waive the fixed charge coverage ratio and leverage ratio for the quarters ending March 31 and June 30, 2021, and to adjust the thresholds for future covenants to ease the risk of non-compliance experienced in previous quarters (See Note 25).  However, our new covenant compliance is dependent on meeting future projections, which are subject to the variability and unknown speed and extent of post-COVID-19 recovery.
+ 
+The Company also maintains options to compensate for a further decline in operations to bolster cash positions by raising capital through its access to the public markets or entering alternative finance arrangements afforded to it through established financial relationships.  Impact to net income could be mitigated through one or many of the various cost cutting measures at its disposal, directed at compensation, vendor augmentation or delay of investment initiatives in its corporate office.
+ 
+ These actions and options, which are further supported by positively trending macroeconomic conditions, and the potential to see recovering business and orders ease the risk to the bank covenants experienced in previous quarters.  However, when considering the unpredictability of the above, there continues to be substantial doubt the Company will continue as a going concern over the next twelve months.
+
+
+2.  Recent Accounting Pronouncements
+ 
+Accounting pronouncements recently adopted
+ 
+In January 2017, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2017-04, Simplifying the Test for Goodwill Impairment (“ASU 2017-04”). ASU 2017-04 simplifies the accounting for goodwill impairment by eliminating Step 2 of the current goodwill impairment test, which required hypothetical purchase price allocation. Goodwill impairment will now be the amount by which the reporting unit’s carrying value exceeds its fair value, limited to the carrying value of the goodwill. We adopted the new standard and began using the simplified approach on January 1, 2020.
+ 
+Accounting pronouncements not yet adopted
+ 
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments - Credit Losses, which introduces new guidance for credit losses on instruments within its scope. The new guidance introduces an approach based on expected losses to estimate credit losses on certain types of financial instruments, including, but not limited to, trade and other receivables, held-to-maturity debt securities, loans and net investments in leases. The new guidance also modifies the impairment model for available-for-sale debt securities and requires the entities to determine whether all or a portion of the unrealized loss on an available-for-sale debt security is a credit loss. The standard also indicates that entities may not use the length of time a security has been in an unrealized loss position as a factor in concluding whether a credit loss exists. Early adoption is permitted for all entities for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. On October 16, 2019, the FASB voted to defer the deadlines for private companies and certain small public companies, including smaller reporting companies, to implement the new accounting standards on credit losses. The new effective date is January 1, 2023. As a smaller reporting company, we have elected to defer adoption in line with new deadlines and are currently evaluating the effects, if any, that the adoption of this guidance will have on our consolidated financial position, results of operations and cash flows.
+ 
+In January 2020, the FASB issued ASU 2020-01, Investments – Equity Securities, Investments – Equity Method and Joint Ventures, and Derivatives and Hedging, which provides clarity for companies that holds equity securities at cost to first update the fair value of an investment, immediately prior to applying the Equity Method of Accounting; or clarity for companies that enter into forward contracts to purchase additional shares of an equity security that would then require the investee to account for the investment via the Equity Method. This ASU is applicable for public companies starting with fiscal years beginning after December 31, 2020 and interim periods within those fiscal years. The Company plans to adopt ASU 2020-01 in Q1 of Fiscal 2021 and does not currently hold any investments at cost, and thus expects no impact to its financial statements.
+ 
+
+59
+ 
+ 
+Table of Contents
+-----------------
+
+
+In September 2020, the FASB issued ASU 2020-10, Codification Improvements, which is part of an ongoing attempt to improve the consistency of the codification. Previously the option to disclose information it the footnotes to the financial statements was in one of two sections: Disclosure Section (Section 50) or Other Presentation Matters (Section 45). ASU 2020-10 conforms the disclosure requirements into Section 50 and provides additional information on specific guidance that was previously unclear or not included in the codification. This ASU is applicable for public companies starting with fiscal years beginning after December 15, 2020, with early adoption available for interim and annual financial statements not already filed and using the retrospective approach. Currently, the Company is reviewing the guidance for applicability; however, the FASB does not believe that this should change any of the current reporting or disclosure requirements. The Company plans to adopt ASU 2020-10 starting in Q1 of Fiscal 2021 and expects no material impact to its consolidated financial statements.
+ 
+Management has evaluated other recently issued accounting pronouncements and does not believe that any of these pronouncements will have a significant impact on our consolidated financial statements and related disclosures.
+ 
+3  Earnings per share
+ 
+Basic earnings per share is based on the weighted average number of outstanding common shares for the period.  Diluted earnings per share adjusts the weighted average shares outstanding for the potential dilution that could occur if outstanding vested stock options were exercised. Basic and diluted earnings per share are based on the weighted average number of outstanding shares for the period.
+ 
+The number of common shares and common share equivalents used in the determination of basic and diluted (loss) earnings per share were as follows:
+ 
+
+(in thousands, except for per share data) | Years ended December 31, | 
+----------------------------------------------------------------------------------------------------+--------------------------+-----------
+ | 2020 | | | 2019 | 
+Numerator: | | | | | 
+Net (loss) income attributed to common stockholders | $ | (10,537 | ) | | $ | (12,085 | )
+Denominator: | | | | | | | 
+Weighted-average shares outstanding for basic earnings per share | | 20,439,157 | | | | 20,062,021 | 
+Effect of dilutive securities: | | | | | | | 
+Employee stock options and warrants | | - | | | | - | 
+Adjusted weighted-average shares outstanding and assumed conversions for diluted earnings per share | | 20,439,157 | | | | 20,062,021 | 
+Shares related to dilutive securities excluded because inclusion would be anti-dilutive | | - | | | | 314,234 | 
+
+4  Paycheck Protection Program Loan
+    On March 27, 2020, the United States enacted the Coronavirus Aid, Relief and Economic Security Act (“CARES Act”). The CARES Act’s purpose is to extend liquidity to small businesses and assist in retaining employees during the COVID-19 pandemic. On April 23, 2020, GSE was approved for and on the next day received a $10 million PPP Loan (“PPP Loan” or “Loan”) from the Small Business Administration (SBA) as part of the CARES Act from the Bank. On June 5, 2020, the Paycheck Protection Program Flexibility Act (“PPPFA”) was signed into law. This new law acted to ease some of the burden of the first legislation in order to expand the amount of forgiveness available.
+ 
+
+60
+ 
+ 
+Table of Contents
+-----------------
+
+
+The aim of the PPP Loan is to provide funding for businesses for certain payroll and nonpayroll costs. Proceeds for the PPP Loan are eligible for complete forgiveness, if used at least 60% for payroll cost with up to 40% for certain other nonpayroll costs. Forgiveness for amounts less than the total amount of the PPP Loan ($10 million) is allowed, retaining 60/40 requirements, but will be limited based upon the amount of funds used for payroll costs and further reduced by a full-time employee and salary/hourly rate wage reduction limitation. GSE has relied primarily on eligible wages and expenses and is well within the ratios.
+ 
+The SBA has stated that PPP loans above $2 million will be subjected to audited for appropriate usage of the funds and confirmation of loan forgiveness. GSE stated, as part of the initial application, that the receipt of such funds was required in order to maintain its employees during the pandemic, and GSE was confident in its ability to report on the proper use the funds and obtain full forgiveness. GSE has also prepared and performed extensive review in its submission of the mandated Form 3590 – PPP Loan Necessity Questionnaire and remains confident to that end.
+ 
+The terms of the loan are as follows: The July 5 legislation provides for an automatic 10 months deferment, after the coverage period, on the first payment, placing it on August 9, 2021. Subsequent payments, in accordance with our loan documentation, will occur monthly in equal monthly proportions, beginning with the first full month following the deferment period and will be comprised of principal and interest, with the loan fully due on April 23, 2022. Although the first payment is not required until September 2021, the loan balance accrues at an interest rate of 1% from April 23, 2020. If the loan is forgiven, the related interest incurred is also forgiven.
+ 
+We realized all possible PPP Loan (“PPP Loan” or “Loan”) forgiveness expenses through the 24 week coverage period during the 2020 fiscal year. We have applied for forgiveness in Q1 of 2021, with expected response in Q2 of 2021. Any balance unforgiven by the SBA and accruing 1% interest since inception will be payable starting on the date instructed by the SBA and in equal monthly payments with the final balance due by April 23, 2022. Loan forgiveness is achieved by applying for forgiveness with the Company’s lender, the Bank, with costs eligible for forgiveness as incurred and receiving final clearance from the SBA. The Bank has successfully completed their review and provided the loan forgiveness application and support to the SBA on February 26, 2021 for their process to begin, legislated to take no more than an additional 90 days. Upon receipt of the funds, a Loan Payable – PPP balance of $10 million was recorded and a related interest was accrued and booked through Q4 2020. As of December 31, 2020, GSE reported half of the loan balance and accrued interest as a short term payable.
+ 
+The PPP Loan contains events of default and other provisions customary for a loan of this type. The Payroll Protection Program provides that (1) the use of PPP Loan amount shall be limited to certain qualifying expenses, (2) 100% of the principal amount of the loan is guaranteed by the Small Business Administration.
+ 
+The SBA provides for certain customary events of default, including if the Company (i) fails to do anything required by the Note and other Loan Documents; (ii) does not disclose, or anyone acting on its behalf does not disclose, any material fact to the Bank or the SBA; (iii) makes, or anyone acting on its behalf makes, a materially false or misleading representation to lender or the SBA; (iv) reorganizes, merges, consolidates or otherwise changes ownership or business structure without the Bank’s prior written consent; (v) takes certain prohibited actions after the Bank makes a determination that the PPP Loan is not entitled to full forgiveness. Upon default the Bank may require immediate payment of all amounts owing under the PPP Loan or file suit and obtain judgment.
+ 
+As of December 31, 2020, we had $10.0 million of outstanding PPP Loan and accrued interest of $69 thousand as debt in our consolidated balance sheets. We classified $5.0 million as current and $5.0 million as noncurrent in our consolidated balance sheets. We recorded $69 thousand of interest expense during the year end December 31, 2020.
+ 
+As of December 31, 2020, management believes the Company was in full compliance with all requirements in order to apply for forgiveness under the PPP Loan. 
+ 
+
+61
+ 
+ 
+Table of Contents
+-----------------
+
+5.  Revenue
+ 
+We account for revenue in accordance with ASC 606, Revenue from Contracts with Customers. We primarily generate revenue through three distinct revenue streams: (1) System Design and Build (“SDB”), (2) Software and (3) Training and Consulting Services across our Performance and NITC segments. We recognize revenue from SDB and software contracts mainly through our Performance segment. We recognize training and consulting service contracts through both segments.
+ 
+
+The following table represents a disaggregation of revenue by type of goods or services for the years ended December 31, 2020 and 2019, along with the reportable segment for each category:
+ (in thousands)
+ 
+ 
+ | Twelve Months Ended December 31, | 
+-------------------------------------------------+----------------------------------+-------
+ | 2020 | | 2019 | 
+Performance Improvement Solutions segment | | | | 
+System Design and Build | $ | 11,197 | | $ | 19,573
+Point in time | | 316 | | | 299 
+Over time | | 10,881 | | | 19,274
+Software | | 3,873 | | | 2,883 
+Point in time | | 1,411 | | | 386 
+Over time | | 2,462 | | | 2,497 
+Training and Consulting Services | | 17,720 | | | 23,320
+Point in time | | 110 | | | 68 
+Over time | | 17,610 | | | 23,252
+Nuclear Industry Training and Consulting segment | | | | | 
+Training and Consulting Services | | 24,830 | | | 37,199
+Point in time | | 21 | | | 63 
+Over time | | 24,809 | | | 37,136
+Total revenue | $ | 57,620 | | $ | 82,975
+
+  SDB contracts are typically fixed-priced, and we receive payments based on a billing schedule established in our contracts. We generally have two main performance obligations: (1) the training simulator build and (2) the Post Contract Support (“PCS”) period. Fees for PCS are normally paid in advance of the related service period. The training simulator build performance obligation generally includes hardware, software, and labor. The transaction price under the SDB contracts is allocated to each performance obligation based on its standalone selling price. We recognize the training simulator build revenue over the construction and installation period using the cost-to-cost input method. In applying the cost-to-cost input method, we use the actual costs incurred to date relative to the total estimated costs to measure the work progress toward the completion of the performance obligation and recognize revenue over time as control transfers to a customer. Estimated contract costs are reviewed and revised periodically during the contract period, and the cumulative effect of any change in estimates is recognized in the period in which the change is identified. Estimated losses are recognized in the period such losses become known.
+ 
+Uncertainties inherent in the performance of contracts include labor availability and productivity, material costs, change order scope and pricing, software modification and customer acceptance issues. The reliability of these cost estimates is critical to the Company’s revenue recognition as a significant change in the estimates can cause the Company’s revenue and related margins to change significantly from previous estimates.
+ 
+Management judgments and estimates involved in the initial creation and subsequent updates to the Company’s estimates-at-completion and related profit recognized are critical to our revenue recognition associated with SDB contracts. Inputs and assumptions requiring significant management judgment included anticipated direct labor, subcontract labor, and other direct costs required to deliver on unfinished performance obligations.
+ 
+The transaction price for Software contracts is generally fixed, and we recognize revenue upon delivery of the software, with fees due in advance or shortly after delivery of the software.
+ 
+We recognize Training and Consulting Services revenue as services are performed and bill our customers for services that we have provided on a regular basis (i.e. weekly, biweekly or monthly) and in time with revenue recognition.
+ 
+Contract asset, which we classify as unbilled receivables, relates to performance under the contract for obligations that are satisfied but not yet billed. Contract assets are recognized as revenue as they occur.
+ 
+Contract liability, which we classify as billing-in-excess of revenue earned, relates to payments received in advance of performance under the contract. Contract liabilities are recognized as revenue as performance obligations are satisfied.
+ 
+
+62
+ 
+ 
+Table of Contents
+-----------------
+
+
+The following table reflects the balance of contract liabilities and the revenue recognized in the reporting period that was included in the contract liabilities from contracts with customers:
+ 
+(in thousands)
+ 
+ | December 31, 2020 | | December 31, 2019 | 
+---------------------------------------------------------------------------------------------+-------------------+-------+-------------------+--
+Billings in excess of revenue earned (BIE) | $ | 5,285 | | $ | 7,613
+Revenue recognized in the period from amounts included in BIE at the beginning of the period | $ | 6,691 | | | 9,089
+
+ 
+For the year ended December 31, 2020, the Company recognized revenue of $0.3 million related to performance obligations satisfied in previous periods.
+ 
+As of December 31, 2020, the aggregate amount of transaction price allocated to the remaining performance obligations of SDB, software and fixed-price training and consulting services contracts is $22.1 million. The Company will recognize the revenue as the performance obligations are satisfied, which is expected to occur over the next twelve months.
+ 
+Part of the training and consulting services contracts are T&M based. Under a typical T&M contract, the Company is compensated based on the number of hours of approved time provided by temporary workers and the bill rates, which are fixed by type of work, as well as approved expenses incurred. As part of our adoption of ASU 2014-09, we have elected to use the optional exemption under ASC 606-10-50-14(b) Revenue from contracts with customers, pursuant to which we have excluded disclosures of transaction prices allocated to remaining performance obligations under such contracts and when we expect to recognize the revenue.
+ 
+6.  Restructuring expenses
+
+International Restructuring
+ 
+On December 27, 2017, the Board of Directors approved an international restructuring plan to streamline and optimize the Company’s global operations. Beginning in December 2017, GSE has been in the process of consolidating its engineering services and R&D activities to Maryland and ceasing an unprofitable non-core business in the United Kingdom (UK). As a result, the Company closed its offices in Nyköping, Sweden; Chennai, India; and Stockton-on-Tees, UK. These actions are designed to improve Company productivity by eliminating duplicate employee functions, increasing GSE’s focus on its core business, improving efficiency and maintaining the full range of engineering capabilities while reducing costs and organizational complexity.
+ 
+GSE eliminated approximately 40 positions due to these changes, primarily in Europe and India, and has undertaken other related cost-savings measures. As a result of these efforts, GSE has recorded total restructuring charges of approximately $3.1 million, primarily related to workforce reductions, contracts termination costs and asset write-offs due to the exit activities. We recorded a restructuring charge of $0.1 million and $1.0 million for the years ended December 31, 2019 and December 31, 2020, respectively. In addition to the restructuring costs incurred to date, the Company has an estimated $1.2 million of cumulative translation adjustments that will be charged against net income (loss) and an estimated $0.8 million of tax benefit that will be realized upon liquidation of these foreign entities. GSE expects to recognize the remaining restructuring costs, currency translation adjustments, and tax benefits in 2021.
+ 
+DP Engineering Restructuring
+ 
+During the third quarter of 2019, the Company implemented a restructuring plan as a result of the work suspension of DP Engineering’s largest customer and subsequent notification on August 6, 2019 that the EOC contract was being terminated.  Accordingly, the Company took the necessary measures to reduce DP’s workforce by approximately 12 FTE’s and in addition terminated one of its office leases early resulting in one-time costs of $0.3 million being paid in the third quarter 2019. As a result of this plan, we incurred $0.2 million and $0.7 million restructuring cost to align the workforce to the expected level of business for the years ended December 31, 2020 and 2019, respectively.
+ 
+
+63
+ 
+ 
+Table of Contents
+-----------------
+
+
+Lease abandonment
+ 
+As of  December 31, 2019, management decided to cease-use, abandoned, a portion of several operating lease right of use lease assets in long idled space in our Sykesville office and in DP Engineering’s Fort Worth office. This was decided as part of  the on-going international restructuring plans to right size the organization. Management determined the square footage which would remain in use and took steps to ensure the abandoned space was separated from the remaining in use space, end access of all employees to the abandoned sections, and remove any remaining office furniture assets. We applied the abandonment guidance in ASC 360-10-35. We believe “abandonment” means ceasing to use the underlying asset and lacking either the intent or the ability to sublease the underlying asset. Accordingly, lease abandonment restructuring charges incurred relating to the right of use assets for the year ended December 31, 2019 totaled $1.5 million. No additional charges were incurred for the year ended December 31, 2020.
+ 
+The following table shows the abandoned square footage and right out use asset details:
+ 
+
+ | Sykesville | | DP Engineering | | | Total
+-----------------------------------+------------+--------+----------------+---+--------+------
+Square Ft in use December 1, 2019 | | 36,549 | | | 19,871 | | | 56,420
+Square Ft in use December 31, 2019 | | 14,636 | | | 9,936 | | | 24,572
+Abandoned Square Ft | | 21,913 | | | 9,936 | | | 31,849
+(in thousands) | | | | | | | | 
+Pre-Abandonment ROU Balance | $ | 1,474 | | $ | 1,291 | | $ | 2,765 
+Post-Abandonment Balance | | 590 | | | 646 | | | 1,236 
+Abandonment ROU | | 884 | | | 646 | | | 1,529 
+
+
+The following table shows the total restructuring costs:
+
+
+
+ 
+ | Total 2020 Restructuring Costs | | Total 2019 Restructuring Costs | 
+------------------------------+--------------------------------+-------+--------------------------------+--
+Restructuring Costs | | | | 
+Lease termination costs | $ | - | | $ | 1,625
+International restructuring | | 1,119 | | | 106 
+Employee termination benefits | | 178 | | | 747 
+Total | $ | 1,297 | | $ | 2,478
+
+Expected Restructuring Costs
+ 
+GSE expects no additional restructuring costs under the international restructuring plan, except currency translation adjustments and the related tax benefits upon liquidation of foreign entities in 2021. As a part of the DP restructuring, the right sizing effort had led to the lease abandonment and related impairment as mentioned above. In a continuing effort to align the Company’s workforce and by extension the available workspace, we expect future restructuring as we continue to migrate out of the Sykesville office. At this time management is unable to estimate the ultimate restructuring costs or timeline over which these costs will be recognized.
+7.  Goodwill and Intangible Assets
+ 
+Intangible Assets Subject to Amortization
+  
+During the first quarter of fiscal 2020, We determined that the impact of the COVID-19 pandemic on the Company’s operations was an indicator of a triggering event that could result in potential impairment of goodwill. As such we performed a Step 1 goodwill analysis whereby we compared the fair value of each reporting unit to its respective carrying value, Based upon this analysis, we determined the fair value of goodwill at the reporting unit levels exceeded the carrying value and thus there was no impairment for the period ended March 31, 2020. The Step 1 analysis was updated as of December 31, 2020 for our annual impairment test, and did not identify any impairment of goodwill as of such date. We also had no goodwill impairment for the year ended December 31, 2019.
+ 
+
+64
+ 
+ 
+Table of Contents
+-----------------
+
+
+ Our goodwill impairment analysis includes the use of a discounted cash flow model that requires management to make assumptions regarding estimates of growth rates used to forecast revenue, operating margin and terminal value as well as determining the appropriate risk-adjusted discount rates and other factors that impact fair value determinations.
+ 
+We recognized definite-lived intangible assets of $6.8 million upon acquisition of DP Engineering on February 15, 2019, including customer contracts and relationships, trademarks and non-compete agreements, with amortization periods of 5 to 15 years. Amortization of our definite-lived intangible assets is recognized on a straight-line basis over the estimate useful life of the associated assets.
+ 
+ Following the February 23, 2019 event occurring at a DP Engineering customer location and subsequent receipt of the Notice of Suspension on February 28, 2019, the Company concluded that DP Engineering’s relationship with it’s largest customer has been adversely impacted. The DP Engineering customer contracts and relationships were the major components of the definite-lived intangible assets recognized in connection with the acquisition. Accordingly, the Company determined that a triggering event had occurred requiring an interim assessment of whether a potential impairment of definite-lived intangible asset impairment test was necessary in accordance with the related impairment guidance. As a result, it was determined that a material impairment had occurred, requiring an impairment of $5.6 million of goodwill recorded in 2019.
+
+
+Due to the impact of the COVID-19 pandemic, definite-lived intangible assets were reviewed for impairment. The undiscounted cash flows evidenced impairment for the DP Engineering asset group as such, we used a discounted cash flow model to determine the fair value of the DP Engineering asset group and recorded an impairment charge of $4.3 million as of the period ended March 31, 2020.
+ 
+  The Company’s intangible assets impairment analysis includes the use of undiscounted cash flow and discounted cash flow models that requires management to make assumptions regarding estimates of growth rates used to forecast revenue, operating margin and terminal value as well as determining the appropriate risk-adjusted discount rates and other factors that impact fair value determinations.
+
+
+Management determined no additional triggering impact occurred during the year ended December 31, 2020.
+ 
+
+65
+ 
+ 
+Table of Contents
+-----------------
+
+
+The following table shows the gross carrying amount and accumulated amortization of definite-lived intangible assets:
+ 
+
+(in thousands) | As of December 31, 2020 | 
+---------------------------------------+-------------------------+-------
+ | Gross Carrying Amount | | Accumulated Amortization | | | Impact of Impairment | | Net | 
+Amortized intangible assets: | | | | | | | | | 
+Customer relationships | $ | 11,730 | | $ | (5,504 | ) | $ | (3,102 | ) | $ | 3,124
+Trade names | | 2,467 | | | (1,020 | ) | | (778 | ) | | 669 
+Developed technology | | 471 | | | (471 | ) | | - | | | - 
+Non-contractual customer relationships | | 433 | | | (433 | ) | | - | | | - 
+Noncompete agreement | | 949 | | | (336 | ) | | (422 | ) | | 191 
+Alliance agreement | | 527 | | | (277 | ) | | - | | | 250 
+Others | | 167 | | | (167 | ) | | - | | | - 
+Total | $ | 16,744 | | $ | (8,208 | ) | $ | (4,302 | ) | $ | 4,234
+
+
+(in thousands) | As of December 31, 2019 | 
+---------------------------------------+-------------------------+-------
+ | Gross Carrying Amount | | Accumulated Amortization | | | Net
+Amortized intangible assets: | | | | | | 
+Customer relationships | $ | 11,730 | | $ | (4,079 | ) | $ | 7,651 
+Trade names | | 2,467 | | | (727 | ) | | 1,740 
+Developed technology | | 471 | | | (471 | ) | | - 
+Non-contractual customer relationships | | 433 | | | (433 | ) | | - 
+Noncompete agreement | | 949 | | | (217 | ) | | 732 
+Alliance agreement | | 527 | | | (171 | ) | | 356 
+Others | | 167 | | | (167 | ) | | - 
+Total | $ | 16,744 | | $ | (6,265 | ) | $ | 10,479
+
+ 
+
+66
+ 
+ 
+Table of Contents
+-----------------
+
+
+Amortization expense related to definite-lived intangible assets totaled 1.9 million and $2.4 million for the years ended December 31, 2020 and 2019, respectively. The following table shows the estimated amortization expense of the definite-lived intangible assets for the next five years:
+ 
+
+(in thousands) | | 
+-------------------------+---+------
+Years ended December 31: | | 
+2021 | $ | 1,213
+2022 | | 911 
+2023 | | 640 
+2024 | | 435 
+Thereafter | | 1,035
+ | $ | 4,234
+
+Goodwill
+ 
+The change in the net carrying amount of goodwill from January 1, 2019 through December 31, 2019 is noted below, there were no changes in goodwill during 2020:
+ 
+(in thousands)
+ 
+ | Performance Improvement Solutions | | | Nuclear Industry Training and Consulting | | | Total
+------------------------------------+-----------------------------------+--------+---+------------------------------------------+---+-------+------
+Net book value at January 1, 2019 | $ | 4,739 | | | $ | 8,431 | | $ | 13,170 | 
+Acquisition | | 5,766 | | | | - | | | 5,766 | 
+Dispositions | | - | | | | - | | | - | 
+Goodwill impairment loss | | (5,597 | ) | | | - | | | (5,597 | )
+Net book value at December 31, 2019 | $ | 4,908 | | | $ | 8,431 | | $ | 13,339 | 
+
+8.  Contract Receivables
+ 
+Contract receivables represent the Company’s unconditional rights to consideration due from a broad base of both domestic and international customers. Net contract receivables are considered to be collectible within twelve months.
+ 
+Recoverable costs and accrued profit not billed represent costs incurred and associated profit accrued on contracts that will become billable upon future milestones or completion of contracts. The components of contract receivables are as follows:
+ 
+
+(in thousands) | December 31, | 
+--------------------------------+--------------+-------
+ | 2020 | | | 2019 | 
+Billed receivables | $ | 5,694 | | | $ | 11,041 | 
+Unbilled receivables | | 5,160 | | | | 6,624 | 
+Allowance for doubtful accounts | | (360 | ) | | | (458 | )
+Total contract receivables, net | $ | 10,494 | | | $ | 17,207 | 
+
+ 
+
+67
+ 
+ 
+Table of Contents
+-----------------
+
+
+Management reviews collectability of receivables periodically and records an allowance for doubtful accounts to reduce our receivables to their net realizable value when it is probable that the Company will not be able to collect all amounts due according to the contractual terms of the receivable. The allowance for doubtful accounts is based on historical trends of past due accounts, write-offs, and specific identification and review of customer accounts. During the years ended December 31, 2020 and 2019, the Company recorded allowances for doubtful accounts of $103 thousand and $31 thousand, respectively.
+ 
+During January 2021, the Company invoiced $3.7 million of the unbilled amounts related to the balance at December 31, 2020.
+
+The activity in the allowance for doubtful accounts is as follows:
+ 
+
+(in thousands) | As of and for the | 
+------------------------+--------------------------+-----
+ | Years ended December 31, | 
+ | 2020 | | | 2019 | 
+Beginning balance | $ | 458 | | | $ | 427
+Current year provision | | 103 | | | | 31 
+Current year write-offs | | (201 | ) | | | - 
+Ending balance | $ | 360 | | | $ | 458
+
+9.  Prepaid Expenses and Other Current Assets
+ 
+Prepaid expenses and other current assets consist of the following:
+ 
+
+(in thousands) | December 31, | 
+----------------------+--------------+------
+ | 2020 | | 2019 | 
+Income tax receivable | $ | 136 | | $ | 237 
+Prepaid expenses | | 883 | | | 861 
+Other current assets | | 535 | | | 782 
+Total | $ | 1,554 | | $ | 1,880
+
+ 
+Other current assets primarily include value-added tax receivables and cash deposited in a Swedish tax account. Prepaid expenses primarily include prepayment for insurance and other subscription-based services.
+ 
+10.  Equipment, Software and Leasehold Improvements
+ 
+Equipment, software and leasehold improvements, net consist of the following:
+ 
+
+(in thousands) | December 31, | 
+----------------------------------------------------+--------------+-------
+ | 2020 | | | 2019 | 
+Computer and equipment | $ | 2,229 | | | $ | 2,266 | 
+Software | | 1,695 | | | | 1,693 | 
+Leasehold improvements | | 660 | | | | 664 | 
+Furniture and fixtures | | 848 | | | | 900 | 
+ | | 5,432 | | | | 5,523 | 
+Accumulated depreciation | | (4,816 | ) | | | (4,584 | )
+Equipment, software and leasehold improvements, net | $ | 616 | | | $ | 939 | 
+
+ 
+Depreciation expense was $0.3 million and $0.4 million for the years ended December 31, 2020 and 2019, respectively.
+ 
+
+68
+ 
+ 
+Table of Contents
+-----------------
+
+11.  Product Warranty
+ 
+Accrued warranty
+ 
+For contracts that contain a warranty provision, the Company provides an accrual for estimated future warranty costs based on historical experience and projected claims. The Company’s contracts may contain warranty provisions ranging from one year to five years. The current portion of the accrued warranty is presented separately on the consolidated balance sheets within current liabilities whereas the noncurrent portion is included in other liabilities.
+ 
+In the final quarter of 2019, management reassessed the warranty percentage used in determining project budgets for warranty projects which were active at the end of 2019 and used in project budgets for non-warranty projects active at the end of 2019. In 2018 and prior periods, the GSE standard warranty was 4% of non-physical material cost of an individual project. Physical material is excluded from this target as the associated vendor typically provides their own warranty. Based on historical warranty costs, trends in actual expenses incurred and discussions with sales managers, it is management’s determination that a 3% warranty provision is a conservative estimate for all warranty costs both for active warranty projects and active non-warranty projects. The adjustment of this change resulted in a $0.2 million decrease in warranty provision.
+ 
+
+69
+ 
+ 
+Table of Contents
+-----------------
+
+
+
+The activity in the accrued warranty accounts is as follows:
+ 
+
+(in thousands) | As of and for the | 
+-----------------------+--------------------------+------
+ | years ended December 31, | 
+ | 2020 | | | 2019 | 
+Beginning balance | $ | 1,323 | | | $ | 1,621 | 
+Current year provision | | (205 | ) | | | (133 | )
+Current year claims | | (203 | ) | | | (164 | )
+Currency adjustment | | 7 | | | | (1 | )
+Ending balance | $ | 922 | | | $ | 1,323 | 
+
+ 
+The current and non-current warranty balance is as follows:
+ 
+
+ | December 31, | 
+---------------+--------------+----
+ | 2020 | | 2019 | 
+Current | $ | 665 | | $ | 921 
+Non-current | | 257 | | | 402 
+Total Warranty | $ | 922 | | $ | 1,323
+
+12.  Fair Value of Financial Instruments
+ 
+ASC 820, Fair Value Measurement (ASC 820) defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 also establishes a fair value hierarchy which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.
+ 
+The levels of the fair value hierarchy established by ASC 820 are:
+ 
+Level 1: inputs are quoted prices, unadjusted, in active markets for identical assets or liabilities that the reporting entity has the ability to access at the measurement date.
+ 
+Level 2: inputs are other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly. A Level 2 input must be observable for substantially the full term of the asset or liability. For 2019, the Monte Carlo model was used to calculate the fair value of level 2 instruments. The inputs used are current stock price, expected term, risk-free rate, number of trials, volatility and interest rates.
+ 
+Level 3: inputs are unobservable and reflect the reporting entity’s own assumptions about the assumptions that market participants would use in pricing the asset or liability.
+ 
+As of December 31, 2020 and 2019, we considered the recorded value of certain of our financial assets and liabilities, which consist primarily of cash and cash equivalents, contract receivable and accounts payable, to approximate fair value based upon their short-term nature.
+ 
+During the years ended December 31, 2020 and 2019, the Company did not have any transfers into or out of Level 3.
+ 
+
+70
+ 
+ 
+Table of Contents
+-----------------
+
+
+The following table presents assets measured at fair value at December 31, 2020:
+ 
+
+ | Quoted Prices in Active Markets for Identical Assets | | Significant Other Observable Inputs | | | Significant Unobservable Inputs | | 
+-------------------+------------------------------------------------------+-----+-------------------------------------+---+---+---------------------------------+---+------
+(in thousands) | (Level 1) | | (Level 2) | | | (Level 3) | | Total
+Money market funds | $ | 435 | | $ | - | | $ | - | $ | 435
+Total assets | $ | 435 | | $ | - | | $ | - | $ | 435
+
+ 
+The following table presents assets and liabilities measured at fair value at December 31, 2019:
+ 
+
+ | Quoted Prices in Active Markets for Identical Assets | | Significant Other Observable Inputs | | | Significant Unobservable Inputs | | 
+----------------------------+------------------------------------------------------+-----+-------------------------------------+---+------+---------------------------------+---+------
+(in thousands) | (Level 1) | | (Level 2) | | | (Level 3) | | Total
+Money market funds | $ | 434 | | $ | - | | $ | - | $ | 434 | 
+Foreign exchange contracts | | - | | | 49 | | | - | | 49 | 
+Total assets | $ | 434 | | $ | 49 | | $ | - | $ | 483 | 
+Liability awards | $ | - | | $ | (9 | ) | $ | - | $ | (9 | )
+Interest rate swap contract | | - | | | (160 | ) | | - | | (160 | )
+Total liabilities | $ | - | | $ | (169 | ) | $ | - | $ | (169 | )
+
+ 
+As of December 31, 2019, we had classified our foreign exchange contracts within other assets. Our interest rate swap contract and liability awards were classified within other noncurrent assets as of the period ended December 31, 2019.
+ 
+13.  Debt
+ 
+On December 29, 2016, we entered a 3-year $5.0 million revolving line of credit facility with the Bank to fund general working capital needs and acquisitions. On May 11, 2018, we entered into the Amended and Restated Credit and Security Agreement (the “Credit Agreement” or the “Credit Facility”) to (a) expand the $5.0 million revolving line of credit (the “RLOC”) to include a letter of credit sub-facility and not be subject to a borrowing base and (b) to add a $25 million term loan facility, available to finance permitted acquisitions over the following 18 months. The credit facility was subject to certain financial covenants and reporting requirements  and was scheduled to mature in five years on May 11, 2023 and accrued interest at the one-month USD LIBOR, plus a margin that varies depending on our overall leverage ratio. The RLOC had required monthly payments of only interest, with principal due at maturity, while our term loan draws required monthly payments of principal and interest based on an amortization schedule. Our obligations under the Credit Agreement was guaranteed by our wholly owned subsidiaries Hyperspring, Absolute, True North, DP Engineering and by any future material domestic subsidiaries (collectively, “the Guarantors”).
+ 
+
+71
+ 
+ 
+Table of Contents
+-----------------
+
+
+On January 6, 2020, due to an expected violation of our covenants, we entered into the Sixth Amendment and Reaffirmation Agreement with an effective date of December 31, 2019, with our Bank to relax the fixed charge coverage ratio and leverage ratio and delay testing of both financial covenants. We agreed to an additional covenant, requiring us  to maintain a consolidated Adjusted EBITDA target of $4.3 million, tested quarterly as of December 31, 2019, March 31, 2020 and June 30, 2020. Further, we agreed to maintain a minimum USA liquidity of at least $5.0 million in the aggregate, tested bi-weekly as of the fifteenth and the last day of each month, beginning on December 31, 2019 and until June 30, 2020. In addition to the revised covenants, we agreed to make accelerated principal payments of $3.0 million on January 6, 2020; $1.0 million on March 31, 2020; and $1.0 million on June 30, 2020. We incurred $20 thousand of debt issuance costs related to this amendment.
+ 
+On April 17, 2020, effective March 31, 2020, we entered into the Seventh Amendment and Reaffirmation Agreement, which required us to maintain a minimum fixed charge coverage ratio of 1.25 to 1.00, tested quarterly as of the last day of each quarter, beginning with the quarter ending June 30, 2021. In addition, we agreed to not exceed a maximum leverage ratio, tested quarterly as of the last day of each quarter and beginning with the quarter ending September 30, 2020 as follows: (i) 3.00 to 1.00 for the period ending on September 30, 2020; (ii) 2.50 to 1.00 for the period ending on December 31, 2020; and (iii) 2.25 to 1.00 for the period ending on March 31, 2021 and for the periods ending December 31, March 31, June 30 and September 30, thereafter. We additionally agreed to make accelerated principal payments of $0.75 million on April 17, 2020 and $0.5 million on June 30, 2020. We incurred $50 thousand of debt issuance costs related to this amendment.
+ 
+On August 28, 2020, we signed the Eighth Amendment and Reaffirmation Agreement, “the Eighth Amendment”, with an effective date of June 29, 2020, due to violating our minimum Adjusted EBITDA covenant during the three months ended June 30, 2020. As part of the amendment, we agreed to pay $10 million to the Bank during the three months ended September 30, 2020, of which $0.7 million was paid to reduce our RLOC. We paid $9.1 million of our long-term debt and paid out $0.2 million for the unwinding of the interest rate swap agreement during the quarter. We incurred $10 thousand in additional debt issuance costs related to the amendment, which we expensed along with a $70 thousand previously deferred debt issuance cost during the year ended December 31, 2020.
+ 
+The Eighth Amendment removed our minimum Adjusted EBITDA covenant and changed our other debt covenants on an ongoing basis as follows: our maximum fixed charge coverage ratio will be tested quarterly as of the last day of each quarter, beginning with the quarter ending December 31, 2021 and must be 1.00 to 1.00; our leverage ratio will be tested quarterly, starting on March 31, 2021 as follows: (i) 3.00 to 1.00 for the period ending March 31, 2021; (ii) 2.75 to 1.00 for the period ending on June 30, 2021, (iii) 2.50 to 1.00 for the period ending on September 30, 2021, and (iv) 2.00 to 1.00 for the period ending on December 31, 2021 and for the periods ending on each December 31st, March 31st, June 30th and September 30th thereafter. We are also required to maintain a minimum of $3.5 million in aggregate USA liquidity, which was tested on September 15, 2020 and will be tested bi-weekly on an on-going basis.
+ 
+ On March 29, 2021, due to a projected violation of Q1 2021 leverage ratio, we signed the Ninth Amendment and Reaffirmation Agreement with an effective date of March 29, 2021 (See Note 25).
+
+
+Revolving Line of Credit (“RLOC”)
+   During the year ended December 31, 2020, we paid down $0.7 million on our RLOC as part of the Eighth Amendment, discussed above. Subsequently, we were able to draw down $0.7 million on the RLOC to fund our working capital needs. As of December 31, 2020, we had outstanding borrowings of $3.0 million under the RLOC and three letters of credit totaling $933 thousand outstanding to certain of our customers. After consideration of letters of credit, the amount available under the RLOC was approximately $1.1 million as of December 31, 2020. At December 31, 2019, there were no outstanding borrowings under the RLOC and four letters of credit totaling $1.2 million were outstanding. The amount available at December 31, 2019, after consideration of the letters of credit was approximately $3.8 million.
+
+
+We intend to continue using the RLOC for short-term working capital needs and the issuance of letters of credit in connection with business operations provided, we remain in compliance with our covenants. As discussed in Note 25, we entered into a 9th Amendment on our credit facility, as such our covenants have been waived through June 30, 2021. Letter of credit issuance fees range between 1.25% and 2.00% of the value of the letter of credit, depending on our overall leverage ratio. We pay an unused RLOC fee quarterly based on the average daily unused balance.
+ 
+Term Loans
+ 
+ We acquired DP Engineering on February 15, 2019 for approximately $13.5 million in cash, mainly from proceeds of $14.3 million from a term loan with our Bank. As of September 30, 2020, the loan is fully repaid including all accrued interest at the adjusted USD LIBOR, plus a margin ranging between 2.00% and 2.75% depending on our overall leverage ratio. There were no debt issuance costs or loan origination fees associated with this payoff.
+
+
+
+72
+ 
+ 
+Table of Contents
+-----------------
+
+
+As part of the Eighth Amendment discussed above, we repaid all of $9.1 million outstanding balance on our term loan during the year ended December 31, 2020.
+ 
+The Bank also agreed to remove its collateral agreement with the Company’s subsidiaries as part of the Eighth Amendment and repayment of our outstanding term loans during the year ended December 31, 2020. 
+ 
+Paycheck Protection Program Loan
+ 
+We entered into the PPP Loan agreement with the Bank which was approved by the Bank and funded on April 23, 2020, pursuant to the Paycheck Protection Program under the Coronavirus Aid, Relief and Economic Security Act (the “CARES Act”). The PPP Loan matures on April 24, 2022 and bears interest at a rate of 1.0% per annum. Monthly amortized principal and interest payments are deferred for ten months after the last day of the covered period, August 9, 2021. The PPP Loan funds were received on April 24, 2020. The PPP Loan contains events of default and other provisions customary for a loan of this type. The Payroll Protection Program provides that (1) the use of PPP Loan amount shall be limited to certain qualifying expenses, (2) 100% of the principal amount of the loan is guaranteed by the Small Business Administration and (3) an amount up to the full principal amount may qualify for loan forgiveness in accordance with the terms of CARES Act. We are not yet able to determine the amount that might be forgiven. As of  December 31, 2020, the Company was in full compliance with respect to the PPP Loan and believes the eligible expenses accumulated during the coverage period satisfy forgiveness criteria.
+ 
+14.  Derivative Instruments
+ 
+In the normal course of business, our operations are exposed to fluctuations in foreign currency values and interest rate changes. We may seek to control a portion of these risks through a risk management program that includes the use of derivative instruments.
+Foreign Currency Risk Management
+ 
+Our foreign currency denominated contract receivables, billings in excess of revenue earned and subcontractor accruals that are related to the outstanding foreign exchange contracts are remeasured at the end of each period into our functional currency, using the current exchange rate at the end of the period. The gain or loss resulting from such remeasurement is also included in loss on derivative instruments, net in the consolidated statements of operations.
+ 
+We utilize foreign currency exchange contracts to manage market risks associated with fluctuations in foreign currency exchange rates and to minimize credit exposure by limiting counterparties to nationally recognized financial institutions.
+ 
+As of December 31, 2020, we had no foreign exchange contracts outstanding.
+ 
+Interest Rate Risk Management
+ 
+ In June 2018, as part of our overall risk management policies, we entered into a pay-fixed, receive-floating interest rate swap contract with a notional amount of $9.0 million to reduce the impact associated with interest rate fluctuations on our outstanding term loans (see Note 13). The notional value amortizes monthly in equal amounts based on the 5-year principal repayment terms. Per the terms of the swap, we are required to pay interest on the basis of a fixed rate of 3.02%, and we receive interest on the basis of one-month USD LIBOR.
+
+
+As discussed in Note 13, we signed the Eighth Amendment with our Bank and repaid the $9.1 million outstanding balance on our term loan. Accordingly, we exited the swap agreement related to this loan and paid $0.2 million in cash.
+ 
+For the periods presented, we did not elect to designate any of our derivative contracts as hedges. Changes in the fair value of the derivative contracts are included in loss on derivative instruments, net in the consolidated statements of operations.
+ 
+
+73
+ 
+ 
+Table of Contents
+-----------------
+
+
+For the years ended December 31, 2020 and 2019, the Company recognized a net (loss) gain on its derivative instruments as outlined below:
+ 
+
+ | Years ended December 31, | 
+---------------------------------------------------------------------------------------+--------------------------+----
+(in thousands) | 2020 | | | 2019 | 
+Foreign exchange contracts- change in fair value | $ | 17 | | | $ | 6 | 
+Interest rate swap - change in fair value | | (49 | ) | | | (57 | )
+Remeasurement of related contract receivables and billings in excess of revenue earned | | 15 | | | | 38 | 
+ | $ | (17 | ) | | $ | (13 | )
+
+15.  Income Taxes
+ 
+The consolidated income before income taxes, by domestic and foreign sources, is as follows:
+ 
+
+(in thousands) | Years ended December 31, | 
+---------------+--------------------------+--------
+ | 2020 | | | 2019 | 
+Domestic | $ | (13,834 | ) | | $ | (6,671 | )
+Foreign | | 3,652 | | | | 319 | 
+Total | $ | (10,182 | ) | | $ | (6,352 | )
+
+
+The provision (benefit) for income taxes is as follows:
+ 
+
+(in thousands) | Years ended December 31, | 
+---------------+--------------------------+----
+ | 2020 | | 2019 | 
+Current: | | | | 
+Federal | $ | 3 | | $ | (30 | )
+State | | 67 | | | 60 | 
+Foreign | | 285 | | | 354 | 
+Subtotal | | 355 | | | 384 | 
+Deferred: | | | | | | 
+Federal | | - | | | 4,686 | 
+State | | - | | | 663 | 
+Foreign | | - | | | - | 
+Subtotal | | - | | | 5,349 | 
+Total | $ | 355 | | $ | 5,733 | 
+
+ 
+
+74
+ 
+ 
+Table of Contents
+-----------------
+
+
+The effective income tax rate for the years ended December 31, 2020 and 2019 differed from the statutory federal income tax rate as presented below:
+ 
+
+ | Effective Tax Rate percentage (%) | 
+-----------------------------------------------+-----------------------------------+------
+ | Years ended December 31, | 
+ | 2020 | | | 2019
+Statutory federal income tax rate | | 21.0 | % | | 21.0 | % 
+State income taxes, net of federal tax benefit | | 3.7 | % | | (12.1 | )%
+Effect of foreign operations | | (0.9 | )% | | (0.3 | )%
+Effect of foreign restructuring | | (6.7 | )% | | 0.0 | % 
+Change in valuation allowance | | (15.6 | )% | | (93.1 | )%
+Meals and Entertainment | | (0.4 | )% | | (1.4 | )%
+Stock based compensation | | (2.2 | )% | | (1.4 | )%
+GILTI Inclusion | | (0.2 | )% | | 0.0 | % 
+Other permanent differences | | 0.0 | % | | (0.6 | )%
+Uncertain Tax Positions | | (2.5 | )% | | 0.9 | % 
+Prior year reconciling items | | 0.3 | % | | (3.3 | )%
+Effective tax rate | | (3.5 | )% | | (90.3 | )%
+
+ 
+The difference between the effective rate and statutory rate in 2020 primarily resulted from a change in valuation allowance, permanent differences, accruals related to uncertain tax positions for certain foreign tax contingencies, foreign restructuring and the tax impact of stock compensation forfeitures.
+ 
+
+75
+ 
+ 
+Table of Contents
+-----------------
+
+
+Deferred income taxes arise from temporary differences between the tax bases of assets and liabilities and their reported amounts in the consolidated financial statements. A summary of the tax effect of the significant components of the deferred income tax assets and liabilities is as follows:
+ 
+
+(in thousands) | As of December 31, | 
+--------------------------------------------------+--------------------+-------
+ | 2020 | | | 2019 | 
+Deferred tax assets: | | | | | 
+Net operating loss carryforwards | $ | 5,406 | | | $ | 4,396 | 
+Accruals | | 387 | | | | 247 | 
+Reserves | | 309 | | | | 408 | 
+Alternative minimum tax credit carryforwards | | 69 | | | | 126 | 
+Stock-based compensation expense | | 251 | | | | 539 | 
+Intangible assets | | 2,362 | | | | 1,021 | 
+Goodwill | | 995 | | | | 1,037 | 
+Operating lease liability | | 747 | | | | 998 | 
+Other | | 271 | | | | 464 | 
+Total deferred tax asset | | 10,797 | | | | 9,236 | 
+Valuation allowance | | (9,165 | ) | | | (7,576 | )
+Total deferred tax asset less valuation allowance | | 1,632 | | | | 1,660 | 
+Deferred tax liabilities: | | | | | | | 
+Software development costs | | (164 | ) | | | (161 | )
+Fixed assets | | (22 | ) | | | (7 | )
+Intangible assets | | - | | | | (22 | )
+Indefinite-lived intangibles | | (967 | ) | | | (728 | )
+Operating lease - right of use asset | | (379 | ) | | | (510 | )
+Other | | (100 | ) | | | (175 | )
+Total deferred tax liability | | (1,632 | ) | | | (1,603 | )
+Net deferred tax asset | $ | - | | | $ | 57 | 
+
+ 
+As of December 31, 2019, the Company had a deferred tax asset of $57 thousand for alternative minimum tax credits which became fully refundable in the first quarter of 2020 with the enactment of the CARES Act. Accordingly, the entire balance was reclassed to a Federal Tax Receivable account during the first quarter.
+ 
+The Company files tax returns in the United States federal jurisdiction and in several state and foreign jurisdictions. Because of the net operating loss carryforwards, the Company is subject to U.S. federal and state income tax examinations for tax years 2000, and forward, and is subject to foreign tax examinations by tax authorities for the years 2015 and forward. Open tax years related to state and foreign jurisdictions remain subject to examination but are not considered material to our financial position, results of operations or cash flows.
+ 
+In assessing the realizability of deferred tax assets, management considers whether it is more likely than not that some or all of the deferred tax assets will not be realized. The Company’s ability to realize its deferred tax assets depends primarily upon the preponderance of positive evidence that could be demonstrated by three year cumulative positive earnings, reversal of existing deferred temporary differences, and generation of sufficient future taxable income to allow for the utilization of deductible temporary differences.
+ 
+As of each reporting date, the Company’s management considers new evidence, both positive and negative, that could impact management’s view with regard to future realization of deferred tax assets to estimate if sufficient future taxable income will be generated to use the existing deferred tax assets. This analysis is performed on a jurisdiction by jurisdiction basis.
+ 
+The Company performed an analysis of the valuation allowance position for its worldwide deferred tax assets and determined that a valuation allowance continues to be necessary on its U.S. and foreign deferred tax assets at December 31, 2020.
+ 
+
+76
+ 
+ 
+Table of Contents
+-----------------
+
+
+ At December 31, 2020, the Company’s largest deferred tax asset was $6.2 million of net operating losses, excluding the impact of uncertain tax positions. It primarily relates to a U.S. net operating loss carryforward of $6.2 million; $4.6 million of the net operating loss carryforward expires in various amounts between 2023 and 2037; $1.6 million of the net operating loss carryforward is an indefinite lived deferred tax asset. The Company does not believe that it is more likely than not that it will be able to realize its deferred tax assets for its U.S. and foreign deferred tax assets at December 31, 2020, therefore we have maintained a $9.2 million valuation allowance for our net deferred tax assets.
+ 
+As of December 31, 2020 and 2019, the Company’s consolidated cash and cash equivalents totaled $6.7 million and $11.7 million, respectively, including cash and cash equivalents held at non-U.S. entities totaling $3.1 million and $4.4 million, respectively. The non-U.S. entities include operating subsidiaries located in China.  The Company does not assert permanent reinvestment in China. Accordingly, the Company analyzed the cumulative earnings and profits and determined no US deferred liability exists given aggregated accumulated deficits.
+ 
+Uncertain Tax Positions
+ 
+During 2020 and 2019, the Company recorded tax liabilities for certain foreign tax contingencies. The Company recorded these uncertain tax positions in other current liabilities on the consolidated balance sheets.
+ 
+The following table outlines the Company’s uncertain tax liabilities, including accrued interest and penalties for each jurisdiction:
+ 
+
+ | China | | Ukraine | | | South Korea | | UK | U.S. | | | 
+---------------------------+-------+-----+--------------------------+---+-----+-------------+---+--------------------------+------+----+------------------------------------------------------------------+--
+(in thousands) | Tax | | Interest and Penalties | | | Tax | | Interest and Penalties | Tax | | Interest and Penalties | | | Tax | | Interest and Penalties | Tax | | Interest and Penalties | | | Total
+Balance, January 1, 2019 | $ | 204 | | $ | 285 | | $ | 82 | $ | 72 | | $ | 461 | | $ | 111 | $ | - | | $ | - | | $ | 996 | $ | 4 | $ | 2,215
+Increases | | - | | | 33 | | | - | | - | | | 93 | | | 67 | | - | | | - | | | - | | 2 | | 195 
+Decreases | | 3 | | | - | | | 4 | | 12 | | | - | | | - | | - | | | - | | | 203 | | - | | 222 
+Balance, December 31, 2019 | $ | 201 | | $ | 318 | | $ | 78 | $ | 60 | | $ | 554 | | $ | 178 | $ | - | | $ | - | | $ | 793 | $ | 6 | $ | 2,188
+Increases | | 13 | | | 60 | | | - | | - | | | 128 | | | 96 | | 45 | | | 21 | | | - | | 3 | | 366 
+Decreases | | - | | | - | | | 64 | | 50 | | | - | | | - | | - | | | - | | | - | | - | | 114 
+Balance, December 31, 2020 | $ | 214 | | $ | 378 | | $ | 14 | $ | 10 | | $ | 682 | | $ | 274 | $ | 45 | | $ | 21 | | $ | 793 | $ | 9 | $ | 2,440
+
+ 
+
+77
+ 
+ 
+Table of Contents
+-----------------
+
+16.  Capital Stock
+ 
+The Company’s Board of Directors has authorized 62,000,000 total shares of stock of which 60,000,000 are designated as common stock and 2,000,000 are designated as preferred stock. The Board of Directors has the authority to establish one or more classes of preferred stock and to determine, within any class of preferred stock, the preferences, rights and other terms of such class.
+ 
+As of December 31, 2020, the Company has reserved 6,017,632 shares of common stock for issuance; zero are reserved for shares upon exercise of outstanding stock options and 1,719,732 are reserved for shares upon vesting of restricted stock units.  The Company has 1,482,368 shares available for future grants under the Company’s 1995 Long-Term Incentive Plan.
+
+17.  Stock-Based Compensation
+ 
+Long-term incentive plan
+ 
+During 1995, the Company established the 1995 Long-Term Incentive Stock Option Plan (the Plan), which permits the granting of stock options (including incentive stock options and nonqualified stock options) stock appreciation rights, restricted or unrestricted stock awards, phantom stock, performance awards or any combination of these to employees, directors or consultants. The Plan was amended and restated effective April 22, 2016 and expires on April 21, 2026; the total number of shares that could be issued under the Plan is 7,500,000. As of December 31, 2020, 4,297,900 shares have been issued under the Plan, zero stock options and 1,719,732 restricted stock units (RSUs) were outstanding under the Plan, while 1,482,368 shares remain for future grants under the Plan.
+ 
+The Company recognizes compensation expense on a pro rata straight-line basis over the requisite service period for stock-based compensation awards with both graded and cliff vesting terms. The Company recognizes the cumulative effect of a change in the number of awards expected to vest in compensation expense in the period of change. The Company has not capitalized any portion of its stock-based compensation. The Company’s forfeiture rate is based on actuals.
+ 
+During the years ended December 31, 2020 and 2019, the Company recognized $0.4 million and $1.4 million, respectively, of stock-based compensation expense under the fair value method. Accordingly, the Company recognized associated deferred income tax expense (benefits) of $220 thousand and $86 thousand, respectively, during the years ended December 31, 2020 and 2019. During the years ended December 31, 2020 and 2019, there were approximately zero and $93 thousand of stock-based compensation expense related to the change in fair value of cash-settled RSUs, which the Company accounts for as a liability.
+ 
+Stock options
+ 
+Options to purchase shares of the Company’s common stock under the Plan expire in either seven years or ten years from the date of grant and become exercisable in three, five, or seven installments with a certain percentage of options vesting on the first anniversary of the grant date and additional options vesting on each of the subsequent anniversaries of the grant date, subject to acceleration under certain circumstances.
+ 
+
+78
+ 
+ 
+Table of Contents
+-----------------
+
+
+Information with respect to stock option activity as of and for the year ended December 31, 2020 is as follows:
+ 
+
+ | Number of Shares | | | Weighted Average Exercise Price | | | Aggregate Intrinsic Value (in thousands) | | Weighted Average Remaining Contractual Life (Years)
+-----------------------------------------+------------------+--------+---+---------------------------------+---+------+------------------------------------------+---+----------------------------------------------------
+Options outstanding at January 1, 2020 | | 5,000 | | | $ | 1.65 | | | 
+Options expired | | (5,000 | ) | | | - | | | 
+Options outstanding at December 31, 2020 | | - | | | | - | | $ | - | -
+Options exercisable at December 31, 2020 | | - | | | $ | - | | $ | - | -
+
+ 
+Information with respect to stock option activity as of and for the year ended December 31, 2019 is as follows:
+ 
+
+ | Number of Shares | | | Weighted Average Exercise Price | | | Aggregate Intrinsic Value (in thousands) | | Weighted Average Remaining Contractual Life (Years)
+-----------------------------------------+------------------+---------+---+---------------------------------+---+------+------------------------------------------+---+----------------------------------------------------
+Options outstanding at January 1, 2019 | | 55,000 | | | $ | 1.87 | | | 
+Options exercised | | (50,000 | ) | | | 1.89 | | | 
+Options outstanding at December 31, 2019 | | 5,000 | | | | 1.65 | | $ | - | 0.87
+Options exercisable at December 31, 2019 | | 5,000 | | | $ | - | | $ | - | - 
+
+ 
+The Company did not grant stock options during the years ended December 31, 2020, and 2019,
+ 
+The Company received cash for the exercise price associated with stock options exercised of $0 and $127 thousand during the years ended December 31, 2020 and 2019, respectively. The total intrinsic value realized by participants on stock options exercised was zero during the years ended December 31, 2020 and 2019, respectively.
+ 
+
+79
+ 
+ 
+Table of Contents
+-----------------
+
+Restricted Stock Units
+ 
+During the years ended December 31, 2020 and 2019, the Company issued RSUs to employees which vest upon the achievement of specific market-based or time-based measures. The fair value for RSU’s is calculated based on the stock price on the grant date and expensed ratably over the requisite service period, which ranges between one year and five years. The following table summarizes the information about vested and unvested restricted stock units for the years ended December 31, 2020 and 2019.
+
+ | Number of Shares | | | Weighted Average Fair Value | 
+------------------------------------+------------------+-----------+---+-----------------------------+--
+Nonvested RSUs at January 1, 2019 | | 1,571,525 | | | $ | 1.96
+RSUs granted | | 918,459 | | | | 2.56
+RSUs forfeited | | (64,172 | ) | | | 3.12
+RSUs vested | | (452,087 | ) | | | 3.30
+Nonvested RSUs at December 31, 2019 | | 1,973,725 | | | $ | 1.49
+Nonvested RSUs at January 1, 2020 | | 1,973,725 | | | $ | 1.49
+RSUs granted | | 689,000 | | | | 1.09
+RSUs forfeited | | (534,052 | ) | | | 2.49
+RSUs vested | | (408,941 | ) | | | 1.67
+Nonvested RSUs at December 31, 2020 | | 1,719,732 | | | $ | 1.36
+
+ 
+As of December 31, 2020, the Company had $0.1 million of unrecognized compensation expense related to the RSUs expected to be recognized on a pro-rata straight line basis over a weighted average remaining service period of approximately 0.63 years.
+ 
+18.  Leases
+ 
+According to ASC 842 Leases (Topic 842), for leases with a term of 12 months or less, a lessee is permitted to make an accounting policy election by class of underlying asset not to recognize lease assets and lease liabilities. If a lessee makes this election, it should recognize lease expense for such leases generally on a straight-line basis over the lease term. Leases generally have remaining terms of one to six years, whereas leases with an initial term of twelve months or less are not recognized on our consolidated balance sheet. We recognize lease expense for minimum lease payments on a straight-line basis over the term of the lease. We maintain leases of office facilities and equipment, and certain leases include options to renew or terminate. Renewal options are exercisable based upon our discretion and vary based on the nature of each lease, with renewal periods generally ranging from one to five years. The term of the lease includes renewal periods, only if we are reasonably certain that we will exercise the renewal option. When determining if a renewal option is reasonably certain of being exercised, we consider several factors, including but not limited to, the cost of moving to another location, the cost of disruption to our operations, the purpose or location of the leased asset and the terms associated with extending the lease.
+ 
+Operating lease Right-of-Use (“ROU”) assets and operating lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at commencement date. The operating lease ROU assets represent the lease liability, plus any lease payments made at or before the commencement date, less any lease incentives received. Our real estate leases, which are comprised primarily of office spaces, represent most of our remaining lease liability. Most of our lease payments are fixed, although an immaterial portion of payments are variable in nature. Variable lease payments vary based on changes in facts and circumstances related to the use of the ROU and are recorded as incurred. We use an incremental borrowing rate based on rates available at commencement in determining the present value of future payments.
+ 
+
+80
+ 
+ 
+Table of Contents
+-----------------
+
+
+Lease abandonment
+ 
+As discussed in Note 6, as of December 31, 2019, management decided to cease-use, abandoned, a portion of several operating lease right of use lease assets in long idled space in our Sykesville office and in DP Engineering’s Fort Worth office. This was decided as part of on the on-going international restructuring plans to right size the organization. Management took steps to ensure the abandoned space was separated from the remaining in use space, end access of all employees to the abandoned sections, and remove any remaining office furniture assets. We applied the abandonment guidance in ASC 360-10-35. We believe “abandonment” means ceasing to use the underlying asset and lacking either the intent or the ability to sublease the underlying asset. Accordingly, lease abandonment restructuring charges incurred relating to the right of use assets for the year ended December 31, 2019 totaled $1.5 million.
+ 
+We have lease agreements with lease and non-lease components, which are accounted for as a single lease. We apply a portfolio approach to effectively account for the operating lease ROU assets and liabilities. Lease contracts are evaluated at inception to determine whether they contain a lease and whether we obtain the right to control an identified asset.
+ 
+The following table summarizes the classification of operating ROU assets and lease liabilities on the consolidated balance sheets (in thousands):
+ 
+
+Operating Leases | Classification | December 31, 2020 | | December 31, 2019 | 
+--------------------------------------+---------------------------+-------------------+-------+-------------------+--
+Leased Assets | | | | | 
+Operating lease - right of use assets | Long term assets | $ | 1,562 | | $ | 2,215
+Lease Liabilities | | | | | | 
+Operating lease liabilities - Current | Other current liabilities | | 1,138 | | | 1,153
+Operating lease liabilities | Long term liabilities | | 1,831 | | | 3,000
+ | | $ | 2,969 | | $ | 4,153
+
+ 
+During September 2020, we notified the landlord of our consolidated subsidiary Absolute’s home office of our decision not to renew the lease.
+ 
+The Company executed a sublease agreement with a tenant to rent out 3,650 square feet from the lease at its Sykesville office on May 1, 2019. This agreement is in addition to the 3,822 of square feet previously subleased, which was entered into on April 1, 2017. The sublease does not relieve the Company of its primary lease obligation. The lessor agreements are both considered operating leases, maintaining the historical classification of the underlying lease. The Company does not recognize any underlying assets for the subleases as a lessor of operating leases. The net amount received from the sublease is recorded within selling, general and administrative expenses.
+ 
+The table below summarizes the lease income and expenses recorded in the consolidated statements of operations incurred year to date ended December 31, 2020 , (in thousands):
+ 
+
+Lease Cost | Classification | Twelve months ended December 31, 2020 | 
+----------------------------+----------------------------------------------+----------------------------------------+-----
+Operating lease cost (1) | Selling, general and administrative expenses | $ | 780 | 
+Short-term leases costs (2) | Selling, general and administrative expenses | | 36 | 
+Sublease income (3) | Selling, general and administrative expenses | | (129 | )
+Net lease cost | | $ | 687 | 
+
+ 
+(1) Includes variable lease costs which are immaterial.
+ 
+(2) Include leases maturing less than twelve months from the report date.
+ 
+(3) Sublease portfolio consists of 2 tenants, which sublease parts of our principal executive office located at 1332 Londontown Blvd, Suite 200, Sykesville, MD.
+
+
+81
+ 
+ 
+Table of Contents
+-----------------
+
+
+The Company is obligated under certain noncancelable operating leases for office facilities and equipment. Future minimum lease payments under noncancelable operating leases as of December 31, 2020 are as follows:
+ 
+
+(in thousands) | Gross Future Minimum Lease Payments | 
+--------------------------------+-------------------------------------+------
+2021 | $ | 1,260
+2022 | | 1,166
+2023 | | 631 
+2024 | | 116 
+2025 | | 3 
+Thereafter | | - 
+Total | $ | 3,176
+Less: Interest | | 207 
+Present value of lease payments | $ | 2,969
+
+ 
+The Company has calculated the weighted-average remaining lease term, presented in years below, and the weighted-average discount rate for our operating leases. As noted in our lease accounting policy, the Company uses the incremental borrowing rate as the lease discount rate:
+ 
+
+Lease Term and Discount Rate | Twelve months ended December 31, 2020 | 
+----------------------------------------------+----------------------------------------+-----
+Weighted-average remaining lease term (years) | | 
+Operating leases | | 2.64 | 
+Weighted-average discount rate | | | 
+Operating leases | | 5.00 | %
+
+ 
+The table below sets out the classification of lease payments in the consolidated statements of cash flows. There was no right-of-use assets obtained in exchange for operating lease liabilities represent new operating leases obtained through our business combination during the year to date ended December 31, 2020:
+ 
+(in thousands)
+ 
+ | Twelve months ended December 31, | 
+-----------------------------------------------------------------------------+----------------------------------+------
+Cash paid for amounts included in measurement of liabilities | 2020 | | 2019 | 
+Cash paid for amounts included in measurement of liabilities | $ | 1,314 | | $ | 1,275
+Right-of-use assets obtained in exchange for new operating lease liabilities | $ | - | | $ | 1,777
+
+19.  Employee Benefits
+ 
+The Company has a qualified defined contribution plan that covers all U.S. employees under Section 401(k) of the Internal Revenue Code. Under this plan, the Company’s stipulated basic contribution matches a portion of the participants’ contributions based upon a defined schedule for GSE Performance Improvement Solutions employees. The Company’s contributions to the plan were approximately $260 thousand and $290 thousand for the years ended December 31, 2020 and 2019, respectively.
+20.  Segment Information
+ 
+The Company has two reportable business segments.
+ 
+The Performance Improvement Solutions segment provides simulation, training and engineering products and services delivered across the breadth of industries we serve. Solutions include simulation for both training and engineering applications. Example engineering services include, but are not limited to, plant design verification and validation, thermal performance evaluation and optimization programs, and engineering programs for plants for ASME code and ASME Section XI. The Company provides these services across all market segments through our Performance, True North consulting, and DP Engineering subsidiaries. Example training applications include turnkey and custom training services. Contract terms are typically less than two years.
+ 
+
+82
+ 
+ 
+Table of Contents
+-----------------
+
+
+On February 15, 2019, through our wholly-owned subsidiary GSE Performance Solutions, Inc., the Company entered into the DP Engineering Purchase Agreement, to purchase 100% of the membership interests in DP Engineering. DP Engineering is a provider of value-added technical engineering solutions and consulting services to nuclear power plants with an emphasis on preparation and implementation of design modifications during plant outages. For reporting purposes, DP Engineering is included in our Performance segment due to similarities in services provided including engineering solutions and implementation of design modifications to the nuclear power sector.
+ 
+The Nuclear Industry Training and Consulting segment provides specialized workforce solutions primarily to the nuclear industry, working at clients’ facilities. This business is managed through our Hyperspring and Absolute subsidiaries. The business model, management focus, margins and other factors clearly separate this business line from the rest of the GSE product and service portfolio.
+ 
+The following table sets forth the revenue and operating results attributable to each reportable segment and includes a reconciliation of segment revenue to consolidated revenue and operating results to consolidated income before income tax expense (benefit). Inter-segment revenue is eliminated in consolidation and is not significant.
+ 
+
+(in thousands) | Years ended December 31, | 
+-----------------------------------------+--------------------------+--------
+ | 2020 | | | 2019 | 
+Revenue: | | | | | 
+Performance Improvement Solutions | $ | 32,790 | | | $ | 45,776 | 
+Nuclear Industry Training and Consulting | | 24,830 | | | | 37,199 | 
+Total revenue | $ | 57,620 | | | $ | 82,975 | 
+Operating loss | | | | | | | 
+Performance Improvement Solutions | $ | (2,683 | ) | | $ | (205 | )
+Nuclear Industry Training and Consulting | | (2,076 | ) | | | (1,617 | )
+Litigation | | (477 | ) | | | - | 
+Loss on impairment | | (4,302 | ) | | | (5,597 | )
+Operating loss | $ | (9,538 | ) | | $ | (7,419 | )
+Interest expense | | (623 | ) | | | (988 | )
+Loss on derivative instruments, net | | (17 | ) | | | (13 | )
+Other (expense) income, net | | (4 | ) | | | 2,068 | 
+Loss before income taxes | $ | (10,182 | ) | | $ | (6,352 | )
+
+ 
+Additional information relating to segments is as follows:
+ 
+
+(in thousands) | December 31, | 
+-----------------------------------------+--------------+-------
+ | 2020 | | 2019 | 
+Performance Improvement Solutions | $ | 25,845 | | $ | 41,550
+Nuclear Industry Training and Consulting | | 13,345 | | | 16,959
+Total assets | $ | 39,190 | | $ | 58,509
+
+ 
+For the years ended December 31, 2020 and 2019, 89% and 90%, respectively, of the Company’s consolidated revenue was from customers in the nuclear power industry. The Company designs, develops and delivers business and technology solutions to the energy industry worldwide. Revenue, operating income (loss) and total assets for the Company’s United States, European, and Asian subsidiaries as of and for the years ended December 31, 2020 and 2019 are as follows:
+ 
+
+83
+ 
+ 
+Table of Contents
+-----------------
+
+
+(in thousands) | Year ended December 31, 2020 | 
+---------------------------------------+------------------------------+--------
+ | United States | | | Europe | | | Asia | | Eliminations | Consolidated | 
+Revenue | $ | 56,628 | | | $ | - | | $ | 992 | $ | - | | $ | 57,620 | 
+Transfers between geographic locations | | 465 | | | | - | | | 31 | | (496 | ) | | - | 
+Total revenue | $ | 57,093 | | | $ | - | | $ | 1,023 | $ | (496 | ) | $ | 57,620 | 
+Operating income (loss) | $ | (13,041 | ) | | $ | 3,231 | | $ | 272 | $ | - | | $ | (9,538 | )
+Total assets, at December 31 | $ | 161,672 | | | $ | 2,679 | | $ | 3,191 | $ | (128,352 | ) | $ | 39,190 | 
+
+
+(in thousands) | Year ended December 31, 2019 | 
+---------------------------------------+------------------------------+--------
+ | United States | | | Europe | | | Asia | | Eliminations | Consolidated | 
+Revenue | $ | 81,597 | | | $ | - | | $ | 1,378 | $ | - | | $ | 82,975 | 
+Transfers between geographic locations | | 623 | | | | - | | | 124 | | (747 | ) | | - | 
+Total revenue | $ | 82,220 | | | $ | - | | $ | 1,502 | $ | (747 | ) | $ | 82,975 | 
+Operating income (loss) | $ | (7,710 | ) | | $ | 54 | | $ | 237 | $ | - | | $ | (7,419 | )
+Total assets, at December 31 | $ | 184,115 | | | $ | 3,526 | | $ | 2,805 | $ | (131,937 | ) | $ | 58,509 | 
+
+ 
+Revenues by geographic location above are attributed to the contracting entity.  Therefore, revenues from a foreign customer that contracted directly with our U.S. entity are included in revenues from the United States. All revenues in Asia were attributable to our Chinese subsidiary.
+ 
+Alternatively, revenue from customers domiciled in foreign countries were approximately 17% and 16%, of the Company’s consolidated 2020 and 2019 revenue, respectively.  Revenue from foreign countries where our customers reside were all individually less than 10% of the Company’s consolidated revenue during 2020 and 2019.
+ 
+21.  Supplemental Disclosure of Cash Flow Information
+ 
+
+(in thousands) | Year ended December 31, | 
+------------------------------------------------+-------------------------+----
+ | 2020 | | 2019 | 
+Cash paid for interest and income taxes: | | | | 
+Interest | $ | 532 | | $ | 989
+Income taxes | $ | 194 | | $ | 489
+Noncash activity of financing insurance premium | $ | 813 | | $ | - 
+
+22.  Non-consolidated Variable Interest Entity
+ 
+The Company, through its wholly owned subsidiary DP Engineering, effectively holds a 48% membership interest in DP-NXA Consultants LLC (“DP-NXA”).
+ 
+DP-NXA was established to provide industrial services that include civil, structural, architectural, electrical, fire protection, plumbing, mechanical consulting engineering services to customers. DP-NXA sub-contracts their work to its two owners, NXA Consultants LLC (“NXA”), which owns 52% of the entity, and DP Engineering. DP Engineering and NXA contributed $48 and $52, respectively, for 48% and 52% interest in DP-NXA. DP Engineering recorded the contributed cash as an equity investment.
+ 
+
+84
+ 
+ 
+Table of Contents
+-----------------
+
+
+The Company evaluated the nature of DP Engineering’s investment in DP-NXA and determined that DP-NXA is a variable interest entity (“VIE”). Since the Company does not have the power to direct activities that most significantly impact DP-NXA, it cannot be DP-NXA’s primary beneficiary. Furthermore, the Company concluded that it did not hold a controlling financial interest in DP-NXA since NXA, the VIE’s majority owner, makes all operational and business decisions. The Company accounts for its investment in DP-NXA using the equity method of accounting due to the fact the Company exerts significant influence with its 48% of membership interest, but does not control the financial and operating decisions.
+ 
+The Company’s maximum exposure to any losses incurred by DP-NXA is limited to its investment. As of December 31, 2020, the Company has not made any additional contributions to DP-NXA and believes its maximum exposure to any losses incurred by DP-NXA was not material. As of December 31, 2020, the Company does not have existing guarantee with or to DP-NXA, or any third-party work contracted with it.
+ 
+For the year ended December 31, 2020, the carrying value of the investment in DP-NXA was zero. We do not have any investment income or loss from DP-NXA for the year ended December 31, 2020.
+ 
+23.  Commitments and Contingencies
+ 
+Joyce v. Absolute Consulting, Inc.
+ 
+On March 29, 2019, a former employee of Absolute Consulting, Inc., filed a putative class action against Absolute and the Company, Joyce v. Absolute Consulting Inc., case number 1:19 cv 00868 RDB, in the United States District Court for the District of Maryland. The lawsuit alleged that the plaintiff and certain other employees were not properly compensated for overtime hours worked. The Company was subsequently dismissed from the case, leaving Absolute as the sole defendant.
+ 
+On August 17, 2020, Absolute entered into a Settlement Agreement with the plaintiffs, with a maximum settlement amount of $1.5 million, which required Court approval. On September 8, 2020, the Settlement Agreement between Absolute and the plaintiffs was ratified by the Court, and the case was dismissed, although the parties remain bound by   the terms of the settlement agreement. Following Court approval, Absolute made an initial payment toward the settlement amount, including legal fees, of $625 thousand. After the passing of an opt-in notice period expired, the final cost of settling this case, including plaintiff’s attorney fees was approximately $1.4 million. Approximately $713 thousand of the settlement amount was paid out prior to December 31, 2020, with approximately $715 thousand of the remaining balance paid out in 2021.
+ 
+On September 29, 2020, the Company received $952 thousand from a general escrow account, originally set up as part of the Company’s purchase of Absolute during fiscal 2017. The Company presented the loss on Joyce legal settlement and the benefit from the proceeds from the release of escrow from the Absolute transaction in selling, general and administrative expenses, in the amount of $477 thousand for the year ended December 31, 2020.
+ 
+Per ASC 450 Accounting for Contingencies, the Company reviews potential items and areas where a loss contingency could arise. In the opinion of management, we are not a party to any legal proceeding, the outcome of which, in management’s opinion, individually or in the aggregate, would have a material effect on our consolidated results of operations, financial position or cash flows, other than as noted above. We expense legal defense costs as incurred.
+ 
+ The Company is involved in litigation in the ordinary course of business. While it is too early to determine the outcome of such matters, management does not expect the resolution of these matters to have a material impact on the Company’s financial position or results of operations.
+
+
+24.  Contingent Consideration
+ 
+Acquisitions may include contingent consideration payments based on future financial measures of an acquired company. Under ASC 805, Business Combinations, contingent consideration is required to be recognized at fair value as of the acquisition date. We estimate the fair value of these liabilities based on financial projections of the acquired companies and estimated probabilities of achievement. At each reporting date, the contingent consideration obligation is revalued to estimated fair value and changes in fair value subsequent to the acquisition are reflected in income or expense in the consolidated statements of operations and could cause a material impact to our operating results. Changes in the fair value of contingent consideration obligations may result from changes in discount periods and rates, changes in the timing and amount of revenue and/or earnings estimates and changes in probability assumptions with respect to the likelihood of achieving the various earn-out criteria.
+ 
+
+85
+ 
+ 
+Table of Contents
+-----------------
+
+
+In connection with the acquisition of DP Engineering on February 15, 2019, the Company recognized the estimated fair value of contingent consideration for $1.2 million. During the year ended December 31, 2019, as a result of the triggering event described in Note 7, an impairment test was conducted on DP Engineering’s goodwill and definite-lived intangible assets and the Company determined the $1.2 million of contingent consideration recognized upon acquisition of DP Engineering has reduced to zero since the related earn-out payment is no longer expected to be paid. We have recorded this reduction as an offset to selling, general and administrative expenses in the 2019 consolidated statements of operations. There was zero contingent liability as of December 31, 2020.
+ 
+25. Subsequent Events
+ 
+On March 29, 2021, due to a projected violation of Q1 2021 leverage ratio, we signed the Ninth Amendment and Reaffirmation Agreement with an effective date of March 29, 2021, with our bank to waive the fixed charge coverage ratio and leverage ratio for the quarters ending March 31 and June 30, 2021, and we agreed, for each quarter hereafter, fixed charge coverage ratio shall not be less than 1.10 to 1.00. In addition, we agreed to not exceed a maximum leverage ratio and starting on September 30, 2021 as follows: (i) 3.25 to 1.00 for the period ending September 30, 2021; (ii) 3.00 to 1.00 for the period ending on December 31, 2021, (iii) 2.75 to 1.00 for the period ending March 31, 2022; (iv) 2.50 to 1.00 for the period ending June 30, 2022 and (iv) 2.00 to 1.00 for the periods ending September 30, 2022 and each December 31st, March 31st, June 30th and September 30th thereafter. We are also required to maintain a minimum of $2.5 million in aggregate USA liquidity. As part of the amendment, we agreed, at closing, (i) to make a $0.5 million pay down of RLOC; (ii) RLOC commitment to be reduced to $4.25 million; and (iii) $0.5 million of RLOC will only be available for issuance of Letters of Credit. We also agreed to pay $0.5 million to reduce RLOC to $3.75 million by June 30, 2021 and to $3.5 million by September 30, 2021. Commencing December 31, 2021 and on the last day of each quarter, we will pay $75 thousand to reduce the RLOC. We incurred $25 thousand of amendment fee related to this amendment. December 31, 2020.

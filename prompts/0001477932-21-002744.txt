@@ -1,0 +1,606 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Introduction
+ 
+This information included in this Annual Report on Form 10-K should be read in conjunction with the consolidated financial statements and related notes in “Item 8. Financial Statements and Supplemental Data” of this Report.
+ 
+Our logo and some of our trademarks and tradenames are used in this Report. This Report also includes trademarks, tradenames and service marks that are the property of others. Solely for convenience, trademarks, tradenames and service marks referred to in this Report may appear without the ®, ™ and SM symbols. References to our trademarks, tradenames and service marks are not intended to indicate in any way that we will not assert to the fullest extent under applicable law our rights or the rights of the applicable licensors if any, nor that respective owners to other intellectual property rights will not assert, to the fullest extent under applicable law, their rights thereto. We do not intend the use or display of other companies’ trademarks and trade names to imply a relationship with, or endorsement or sponsorship of us by, any other companies.
+ 
+The market data and certain other statistical information used throughout this Report are based on independent industry publications, reports by market research firms or other independent sources that we believe to be reliable sources. Industry publications and third-party research, surveys and studies generally indicate that their information has been obtained from sources believed to be reliable, although they do not guarantee the accuracy or completeness of such information. We are responsible for all of the disclosures contained in this Report, and we believe these industry publications and third-party research, surveys and studies are reliable. While we are not aware of any misstatements regarding any third-party information presented in this Report, their estimates, in particular, as they relate to projections, involve numerous assumptions, are subject to risks and uncertainties, and are subject to change based on various factors, including those discussed under the section entitled “Item 1A. Risk Factors”. These and other factors could cause our future performance to differ materially from our assumptions and estimates. Some market and other data included herein, as well as the data of competitors as they relate to Golden Matrix Group, Inc., is also based on our good faith estimates.
+ 
+On April 27, 2020, we filed a Certificate of Change Pursuant to NRS 78.209 with the Nevada Secretary of State pursuant to which we affected a reverse stock split of our authorized and issued and outstanding common stock in a ratio of 1-for-150. As a result of such filing, our authorized shares of common stock decreased from 6 billion to 40 million and our issued and outstanding shares of common stock decreased in a ratio of 1-for-150. All fractional shares of common stock remaining after the reverse split were rounded up to the nearest whole share. Pursuant to Section 78.207(1) of the Nevada Revised Statutes (“NRS”), shareholder approval was not required for this transaction. The Certificate of Change was effective with the Financial Industry Regulatory Authority (FINRA) on June 26, 2020. The effects of the reverse stock split are retroactively reflected throughout this Report.
+ 
+On May 12, 2020, the Board of Directors of the Company approved a change in the Company’s fiscal year from July 31 to January 31, effective immediately. As a result thereof, the Company has presented information in this Report, information where applicable, as of January 31, 2021, for the year ended January 31, 2021, for the six month transition period ended January 31, 2020, and for the fiscal years ended July 31, 2019 and 2018.
+ 
+Unless the context requires otherwise, references to the “Company,” “we,” “us,” “our,” and “Golden Matrix” in this Report refer specifically to Golden Matrix Group, Inc. and its consolidated subsidiary.
+ 
+
+4
+
+ 
+In addition, unless the context otherwise requires and for the purposes of this report only: 
+ 
+
+● | “Exchange Act” refers to the Securities Exchange Act of 1934, as amended; 
+--+----------------------------------------------------------------------------------------------
+● | “SEC” or the “Commission” refers to the United States Securities and Exchange Commission; and
+● | “Securities Act” refers to the Securities Act of 1933, as amended. 
+
+ 
+All dollar amounts in this Report are in U.S. dollars unless otherwise stated. 
+ 
+Where You Can Find Other Information 
+ 
+We file annual, quarterly, and current reports, proxy statements and other information with the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC like us at https://www.sec.gov. Copies of documents filed by us with the SEC are also available from us without charge, upon oral or written request to our Secretary, who can be contacted at the address and telephone number set forth on the cover page of this report. Our website address is https://goldenmatrix.com. The information on, or that may be accessed through, our website is not incorporated by reference into this Report and should not be considered a part of this Report.
+Organizational History
+ 
+The Company was incorporated in the State of Nevada on June 4, 2008, under the name Ibex Resources Corp. The Company’s business at the time was mining and exploration of mineral properties. In October 2009, the Company changed its name to Source Gold Corp, remaining in the business of acquiring exploration and development stage mineral properties. In April 2016, the Company changed its name to Golden Matrix Group, Inc., changing the direction of the Company’s business to focus on software technology.
+ 
+On February 18, 2016, Edward Aruda, the then Chief Executive Officer, Secretary, Treasurer and Director of the Company, tendered his resignation from the Company as CEO, Secretary and Treasurer, remaining as a Director of the Company. On February 18, 2016, the Board of Directors appointed Mr. Anthony Brian Goodman as Chief Executive Officer, President, Secretary, Treasurer, and Chairman of the Board of Directors, and appointed Ms. Weiting ‘Cathy’ Feng as Chief Financial Officer and Director of the Company.
+ 
+
+5
+
+ 
+On February 22, 2016, the Company entered into an Asset Purchase Agreement with Luxor Capital, LLC (“Luxor”), a Nevada limited liability corporation, which is wholly-owned by the Company’s Chief Executive Officer and Chairman, Anthony Brian Goodman. The Company purchased certain intellectual property relating to gaming (“Gaming IP”), along with the “know how” of that Gaming IP from Luxor. In consideration for the purchase, the Company agreed to issue 74 shares of the Company’s Common Stock and a Convertible Promissory Note in the amount of $2,374,712. On February 26, 2016, 60 shares were issued to Luxor.
+ 
+On April 1, 2016, the Company entered into a Back Office/Service Provider Agreement with Articulate Pty Ltd (“Articulate”), which is wholly-owned by Anthony Brian Goodman, CEO and Chairman of the Company and his wife Marla Goodman, for consulting services. Pursuant to the agreement, Articulate would receive $4,500 per month for services rendered and reimbursement of office expenses from the Company for the first three months of the agreement and $9,000 per month thereafter, together with $1,500 per month toward rent and reimbursement of expenses. The agreement also provides the right for Articulate to convert any of the amount due into a convertible promissory note, which is convertible into the Company’s common stock at the seven-day average closing price prior to conversion. The agreement continues indefinitely until terminated by either party with 12 months prior notice. On January 1, 2018, the Company and Articulate entered into an addendum to the agreement to terminate the Company’s obligation to pay $9,000 per month to Articulate. On December 1, 2018, the Company and Articulate amended the agreement to require the Company to pay $3,500 per month in rental contribution to Articulate, as well as certain other expenses totaling $2,000. On August 1, 2019, the parties further amended the agreement to increase the amount of rental contribution to $4,000 and provide for certain other expenses to be payable to Articulate totaling $7,000. On November 1, 2019, the parties entered into a further addendum to the agreement, to provide for the agreement to remain in place for continuous 30-day periods, unless either party terminates the agreement with 30 days’ notice.
+ 
+On April 8, 2016, Mr. Aruda resigned from his position on the Board of Directors with the Company. Mr. Aruda’s resignation was not due to any disagreement on any matter relating to the operations, policies, or practices of the Company.
+ 
+On May 25, 2016, the Company entered into a Cancellation and Release Agreement with certain holders of promissory notes issued pursuant to agreements made with previous management, in the amount totaling $2,693,697, and in exchange for the return of mining claims held by the Company.
+ 
+On June 1, 2016, the Company entered into a distribution usage rights agreement with Globaltech Software Services LLC. (“Globaltech”), whereby the Company agreed to provide certain proprietary technology in the form of a Credit Management system, Gaming system, and other Marketing and Gaming Technology. This agreement allowed the Company to bring operating revenue to the Company, and solidify the Company’s expertise in the gaming market. The distribution usage rights agreement was cancelled effective as of December 1, 2018.
+ 
+On September 22, 2016, the Company entered into a Cancellation and Release Agreement with certain holders of promissory notes issued pursuant to agreements made with previous management, in the amount totaling $709,336, and in exchange for the return of mining claims held by the Company. The Company no longer has any mining assets. All mining claims and assets were disposed of, and/or transferred in exchange of the cancellation of convertible notes held by various note holders.
+ 
+On February 28, 2018, the Company entered into an Asset Purchase Agreement with Luxor. Pursuant to the Asset Purchase Agreement, the Company purchased certain intellectual property and know-how relating to a proprietary gaming solution from Luxor (the “GM2 Asset”), in exchange, the Company issued 4,166,667 shares of common stock, and an Earn Out Payment calculated at 50% of the revenues generated by the GM2 Asset during the 12-month period from March 1, 2018 to February 28, 2019. A convertible note was required to be issued to Luxor before April 30, 2019, was to bear interest at the rate of 4% per annum, and be convertible into shares of the Company’s common stock at a conversion price equal to the average of the seven trading days closing prices on the date prior to conversion. The GM2 Asset included all source code and documentation.
+ 
+
+6
+
+ 
+On March 1, 2018, the Company entered into a License Agreement (the “License Agreement”) with Articulate. Pursuant to the License Agreement, Articulate received a license from the Company to use the GM2 Asset technology in East Asia to support gaming activity on mobile and desktop devices. Articulate agreed to pay the Company a usage fee calculated as a certain percentage of the monthly content and software usage within the GM2 Asset system (adjusted for U.S. dollars) in consideration for the use of the GM2 Asset technology. Specifically, the Company is due 0.25% of the monthly fees generated by the GM2 Asset in the event such fees are less than $100,000,000; 0.2% of the monthly fees generated by the GM2 Asset in the event such fees are over $100,000,000 and less than $200,500,000 and 0.15% of the monthly fees generated by the GM2 Asset in the event such fees are over $200,500,001.
+ 
+Any amount of fees not paid when due accrue interest at the lesser of 3% per annum above LIBOR or the highest rate permitted by law. The License Agreement had an initial term of 12 months and automatically renews thereafter for additional 12-month terms, provided that the License Agreement may be terminated at any time with 30 days prior notice. The License Agreement has continued to automatically renew on a 12-month basis, with the most recent renewal being for the 12 months ended March 1, 2022.
+ 
+On April 1, 2019, the Company issued Luxor a promissory note, which final note terms provide for a principal balance of $1,031,567, with interest accruing on the unpaid balance at a rate of 6% per annum. Installments of 20% of the total value of principal and interest were due on signing the note, 40% of the total value was due on October 1, 2019, and 40% of the total value including any accrued interest was due on April 1, 2020.
+ 
+As of January 31, 2020, the balance of the principal of the Promissory Note was $170,254; interest accrued was $39,013, and a late fee payable of $4,000 was due. The total amount due was $213,267, which is convertible into the Company’s common stock as discussed above. As of January 31, 2021, the full amount of the note had been repaid.
+ 
+On July 1, 2018, the Company entered into a License Agreement with Red Label Technology Pte. Ltd. (“Red Label”), pursuant to which the Company agreed to provide interactive gaming technology, online marketing systems and customer relation management systems to Red Label. Red Label received a license from the Company to use a unique system in incorporating gaming content, gaming management and marketing solutions to support the Company’s business-to-business operations.
+ 
+On December 1, 2018, the Company entered into a Cancellation of Distribution Usage Rights Agreement with Globaltech. The parties have agreed to suspend minimum monthly charges from December 1, 2018 and work together to enter into a Co-operation agreement in the coming months.
+ 
+Effective on April 22, 2021, the Board of Directors appointed Mr. Omar Jimenez as the Chief Financial Officer and Chief Compliance Officer of the Company effective as of the same date. The Board of Directors also appointed Mr. Jimenez as the Principal Accounting/Financial Officer of the Company, effective following the filing of this Report (the “Annual Report Filing Date”).
+ 
+In connection with such appointment, Mr. Anthony Brian Goodman, the President Chief Executive Officer and member of the Board of Directors of the Company, will cease serving as the Principal Accounting/Financial Officer of the Company on the Annual Report Filing Date, provided that Mr. Goodman continues to serve as the Chief Executive Officer, President and Principal Executive Officer of the Company. Additionally, in connection with such appointment, Weiting ‘Cathy’ Feng, who served as Chief Financial Officer and director of the Company prior to Mr. Jimenez’s appointment, ceased serving as Chief Financial Officer, and will serve as Chief Operating Officer and director of the Company moving forward. 
+ 
+
+7
+
+Prior Mining Claims
+ 
+The Company previously held mining assets, which it no longer owns. All mining claims and assets were disposed of and/or transferred in exchange of the cancellation of convertible notes held by various note holders.
+Novel Coronavirus (COVID-19)
+
+In December 2019, a novel strain of coronavirus, which causes the infectious disease known as COVID-19, was reported in Wuhan, China. The World Health Organization declared COVID-19 a “Public Health Emergency of International Concern” on January 30, 2020 and a global pandemic on March 11, 2020. In March and April, many U.S. states and foreign jurisdictions began issuing ‘stay-at-home’ orders. Subsequently, and continuing through the date of this Report, the COVID-19 pandemic adversely impacted global commercial activity, disrupted supply chains and contributed to significant volatility in financial markets. In 2020, the COVID-19 pandemic adversely impacted many different industries. The ongoing COVID-19 pandemic could have a continued material adverse impact on economic and market conditions and trigger a period of global economic slowdown. 
+ 
+A significant or prolonged decrease in consumer spending on entertainment or leisure activities would likely have an adverse effect on demand for our product offerings, reducing cash flows and revenues, and thereby materially harm our business, financial condition and results of operations. In addition, a recurrence of COVID-19 cases or an emergence of additional variants or strains could cause other widespread or more severe impacts depending on where infection rates are highest. We will continue to monitor developments relating to disruptions and uncertainties caused by COVID-19.
+ 
+As shown in our results of operations herein, we have to date, not experienced any significant material negative impact to our operations, revenues or gross profit due to COVID-19. However, moving forward, the range of possible impacts on the Company’s business from the coronavirus pandemic could include: (i) changing demand for the Company’s products and services; (ii) rising bottlenecks in the Company’s supply chain; and (iii) increasing contraction in the capital markets. At this time, the Company believes that it is premature to determine the potential impact on the Company’s business prospects from these or any other factors that may be related to the coronavirus pandemic; however, it is possible that COVID-19 and the worldwide response thereto, may have a material negative effect on our operations, cash flows and results of operations.
+ 
+Currently we believe that we have sufficient cash on hand, and availability to raise additional funding, or borrow additional funding, as needed, to support our operations for the foreseeable future; however, we will continue to evaluate our business operations based on new information as it becomes available and will make changes that we consider necessary in light of any new developments regarding the pandemic.
+ 
+The future impact of COVID-19 on our business and operations is currently unknown. The pandemic is developing rapidly and the full extent to which COVID-19 will ultimately impact us depends on future developments, including the duration and spread of the virus, as well as potential seasonality of new outbreaks.
+ 
+Who We Are and What We Do
+
+We are an established provider of enterprise Software-as-a-Service (“SaaS”) solutions for online casino operators and online sports betting operators, commonly referred to as iGaming operators. 
+ 
+We develop and own online gaming intellectual property (IP) and build configurable and scalable, turn-key and white-label gaming platforms for our international customers, located primarily in the Asia Pacific region.
+
+8
+
+ 
+As of January 31, 2021, our systems had over 3.5 million registered players and a total of more than 400 unique casino and live game operations within all of our platforms including our GM-X, Turnkey Solution, and White Label Solutions.
+ 
+The GM-X System provides access to over 4,000 unique, state of the art, online games, delivered by some of the world’s leading gaming providers.
+ 
+Players play approximately 14 million games a day and wager approximately $14.5 million a day via the GM-X System platform.
+ 
+The GM-X System turn-key solution (including modular, configurable and scalable gaming platforms), is a complete software package for starting an online gaming business, incorporating all the tools and gaming content necessary to run an online Casino and/or Sportsbook and offers a full suite of tools and features for successfully operating and maintaining an online gaming website; from player registration to user management and content management.
+ 
+The GM-X System has been deployed primarily in the Asia Pacific and we are currently focused on expanding our deployment into Europe, U.S., South America, and Africa. The online gambling industry, in the U.S., is essentially regulated at the state level. The Company is currently in discussions with multiple specialist gaming attorneys in the U.S. and currently plans to engage one of these gaming specialists to represent the Company in its applications for a gaming license in the U.S.
+ 
+The GM-X System provides a platform that facilitates our gaming customers’ operating online casinos, sportsbooks, lottery, and live games, as well as providing customers with seamless access to large portfolios of licensed gaming content, provided by established, licensed and accredited gaming content providers. We have distribution agreements with third party content providers to resell their game content. The game content includes games such as slots, table games (e.g., roulette, blackjack, and poker), sportsbooks and “live games.” A “live game” is when a live casino game is shown via a live streaming video link in real time from a casino table where live dealers deal cards from a licensed studio and allow players to place an online bet on the outcome of the card game. We have been granted distribution rights for the gaming content that we provide to our customers.
+ 
+Our GM-X System provides the core platform for our online casino and sportsbook operators. The system contains the back-office tools necessary for the customer to run a successful online iGaming operation. These tools include player account registration and creation, sophisticated payment services and gateways, geolocation, marketing, loyalty management, real-time analytics, and comprehensive reporting. The Company’s platform can be accessed through both desktop and mobile applications.
+ 
+The Company has developed its own proprietary Peer-to-Peer E-sports gaming product which is expected to launch in the coming months. This product will be marketed as the Player2P Platform (“Player2P”). The Player2P brand will be focused solely on esports gambling and 18+ gaming (i.e., gaming by those over 18 years of age). Player2P is expected to not only offer users traditional casino style games but allow players to compete against each other whilst playing E-sport console games.
+ 
+In addition to launching the Player2P product into our existing distribution network, we will aim to launch this business-to-consumer (B2C) platform into selected States in the U.S., subject to regulatory approvals.
+ 
+The Company plans to launch Player2P games as an E-sport skill game wherein competitive contestants compete against live opponents in video games, either online or in-person with real money at stake, subject to compliance with applicable law, and approval from applicable authorities.
+ 
+Our GM-X System is designed to enable our customers to rapidly launch and scale their iGaming and online sportsbook operations. The GM-X System supports both social and real money online casino gaming (“iGaming”). The back-office of the GM-X System contains comprehensive player management capabilities, in which customer and player activity data is stored and processed in real-time. The back office offers analytic and reporting tools to help our customers create loyalty and attempt to generate the highest value from players. The GM-X System also provides customers access to extensive and comprehensive data to assist them with optimizing player value and loyalty.
+ 
+
+9
+
+ 
+Our customers are primarily licensed online gaming operators. The Company also provides services and resells third party gaming content to licensed online gaming distributors. The majority of the Company’s customers hold gaming licenses in Asia, South America, and Europe. The Company provides business-to-business services and products and does not deal directly with players.
+ 
+According to a study by Grand View Research, the online gaming industry is expected to witness substantial growth over the next five years, and in addition to the growth opportunity we see within our existing core markets, a large and growing universe of additional potential new customers for the GM-X System. Our focus will be on developing markets such as Latin America, Africa, and selected U.S. States that are currently implementing regulated frameworks for allowing real money betting. As a result, we believe we have a significant opportunity to expand our tried and tested systems into a much broader global market because our proprietary gaming technologies are flexible and scalable and have been built and tested over many years.
+ 
+Our core markets are currently the Asia-Pacific (APAC) region and while we have a solid customer base; we are continuing to engage new gaming operators on a regular basis and we anticipate that our current operators will continue to grow. A September 2020 report by Statista reports that the gaming industry (including all games, not just online gambling) in the APAC region will be worth more than $174 billion by 2021, after seeing APAC games revenue amounting to $72.2 billion in 2019, which was more than double the revenue of the North American gaming market. Our vision is to become the platform of choice for casinos and sportsbook operators seeking to transition from a land-based casino and sportsbook environment onto an online environment.
+ 
+Our Platform and Services 
+ 
+The GM-X System provides a unified, flexible, and highly scalable platform that can be rapidly deployed for social iGaming, real money iGaming, and online sports betting. In addition to our platform, we offer a seamless integration of the world’s leading casino games, sportsbook systems, and live games. 
+ 
+The Company has distribution rights for the distribution of third-party casino games, live games and sportsbook systems.
+ 
+The Company generates revenue from these services based on fees charged pursuant to applicable contracts, which revenue is recognized over the time during which the services are provided. Typically, we are paid a portion of the revenue generated from our licensed content and pay the owners of such licensed games a portion of the revenue we receive.
+ 
+The Company provides its systems as an enterprise SaaS solution, as well as providing third party games. Revenue streams are generated by the use of the GM-X System by our customers and also the use of the gaming content by our customers. Customers are primarily online casino operators and online sports betting operators, commonly referred to as iGaming operators as well as gaming content distributors.
+ 
+Our GM-X System incorporates multiple modules, including, gaming content, sportsbook, player registration, payment gateways, back-office reports, accounting, management and customer loyalty and marketing tools.
+ 
+Our real money iGaming applications comply with the Unlawful Internet Gambling Enforcement Act of 2006 and with the federal Wire Act of 1961. Payment gateways integrate with a wide range of third-party payment processors.
+ 
+We may in the future need to initiate infringement claims or litigation. Litigation, whether we are a plaintiff or a defendant, can be expensive, time-consuming and may divert the efforts of our technical staff and managerial personnel, which could harm our business, whether or not such litigation results in a determination favorable to us. In addition, litigation is inherently uncertain, and thus we may not be able to stop our competitors from infringing upon our intellectual property rights, even if we are successful in any litigation.
+ 
+
+10
+
+ 
+Despite our efforts to protect our technology and proprietary rights through licenses and contractual protections, unauthorized parties may still copy or otherwise obtain and use our software and technology. In addition, we intend to continue to expand our international operations, and effective intellectual property, copyright and trade secret protection may not be available or may be limited in foreign countries. Any significant impairment of our intellectual property rights could harm our business or our ability to compete. Further, other companies in the real money and social casino gaming industries may own large numbers of patents, copyrights and trademarks and may threaten litigation, or file suit against us based on allegations of infringement or other violations of intellectual property rights. We may face allegations in the future that we have infringed on the intellectual property rights of third parties, including our competitors and non-practicing entities.
+ 
+We also face the risk that third parties will claim that we infringe on their intellectual property rights, which could result in costly license fees or expensive litigation.
+ 
+The iGaming and sports betting industries are subject to rapid technological change and we are developing technology and intellectual property that we believe is unique and provides us with a commercial advantage. While we respect third parties’ intellectual property rights avoid the inadvertent use of third party intellectual property, we may face claims in the future that the products or solutions that we develop, or those provided to us by third parties or used by our customers, infringe on third parties’ intellectual property rights.
+ 
+GM-X System
+
+Our GM-X System platform offers: 
+ 
+
+• | White Label flexible front-end development
+--+-------------------------------------------
+
+ 
+Customized and localized design of the casino operator’s mobile application and website, with a branded experience that is consistent with the casino operator’s brand and market positioning and streamlines player registration and account funding.
+ 
+We host our customers’ iGaming operations on a combination of proprietary and cloud servers including the Amazon Elastic Compute (EC2) Server. The Amazon EC2 Cloud is part of Amazon.com’s cloud-computing platform which is a highly scalable agile service enabling the Company’s ability to build, deploy and manage websites, apps or processes.
+ 
+
+• | World’s leading gaming content
+--+-------------------------------
+
+ 
+The GM-X System platform features a proprietary gaming engine that seamlessly integrates a large portfolio of gaming content that serves third party gaming content via a technical ‘middle layer’ that permits third party games to be published to the customers end user players through a single integration. The Company also offers operators quick access to our entire gaming portfolio via a single direct integration.
+ 
+
+• | Online Sportsbook
+--+------------------
+
+ 
+We provide a seamless integration to one of the world’s leading Sportsbook Systems, through a license and services agreement.
+ 
+
+11
+
+
+• | Loyalty Tools
+--+--------------
+
+
+• | Retention and Acquisition
+--+--------------------------
+
+ 
+The GM-X System provides comprehensive marketing and loyalty tools including Free Spins, Cash Bonuses, Leader Boards, Cash Back offers, Tournaments allowing casino operators to put their offers, games and unique brand experience in their players’ hands extending player sessions, increasing reactivation of players, boosting retention, and designing attractive bonus campaigns. Free Spins are a promotional acquisition and retention tool wherein the casino offers players a chance to play new and exciting slots without risking their own cash. The players can win real money and try out the latest online slot machines for free. Bonuses are free cash granted to players in response to a player’s wagering or activity within the casino. We have found that both are powerful loyalty tools.
+ 
+
+• | Data Analytics
+--+---------------
+
+ 
+The GM-X System offers in-depth real time, structured, transactional and gameplay data providing an overview of the gaming platform’s performance, player activity, and real time visibility, allowing customers to make better decisions and to drill down into the data and see gaming activity at game play or transaction level.
+ 
+Advanced reporting tools provide operators’ full visibility and control of the entire player lifecycle from one centralized point for all operational needs. A single account overview gives operators the capabilities and flexibility to tailor data-driven communication to player segments or even individual players, increasing the relevance of marketing activity to streamline costs and resources.
+ 
+
+• | Support – 24/7 Gaming Support
+--+------------------------------
+
+ 
+In the future we plan to provide a range of term-based operational services to support our customers’ online gaming operations. Our tailored managed services are expected to include player customer support across email, phone and live chat, marketing agency services and network management with a 24/7 uptime guarantee. We also plan to provide custom game theme development services in select engagements where customers seek to differentiate themselves with gaming content unique to a customer’s branded experience.
+ 
+
+• | Currencies
+--+-----------
+
+ 
+All major currencies are supported by the GM-X System.
+ 
+
+• | Languages
+--+----------
+
+ 
+Multiple out-of-the-box language options are available on the GM-X System.
+ 
+Our Business Model
+
+We provide platform and software services to our customers as well as third party gaming content which are all central to customer’s real money and social iGaming operations. We also plan to provide associated services including software development and technical and customer support in the future.
+ 
+Our customers are primarily online casino operators and online sports betting operators, commonly referred to as iGaming operators, as well as the third-party gaming content distributors which are essentially resellers of our gaming content and our systems. Our customers are located in the Asia Pacific region, as well as in Europe.
+ 
+
+12
+
+ 
+We currently earn revenue through two different revenue streams:
+ 
+
+(1) | Online iGaming platform and software services; and 
+----+---------------------------------------------------------------------------
+(2) | Resale of online gaming content from third party gaming content providers.
+
+ 
+In respect of our iGaming platform and third-party content, our revenue is calculated on a share of the revenues generated by our customers’ use of our platform and gaming content in their offering of real money iGaming and social iGaming to their players.
+ 
+In the future, we plan to add two additional revenue streams:
+ 
+
+(1) | Software Development Services; and 
+----+-------------------------------------------------
+(2) | Customer Support and Technical Support services.
+
+ 
+Set out below is additional details regarding how we recognize/will recognize revenue for each of our revenue streams.
+ 
+(1) Online iGaming Platform, Software Services and Third-Party Gaming Content
+ 
+We generate revenue through service agreements with customers and distributors, when our customers use our platform, software and third-party gaming content in operating their real money and social iGaming offerings. 
+ 
+In real money iGaming, conducted via websites, apps, and social networking, real money is wagered for monetary prizes. In social iGaming (social casino) gambling games, no money is paid out for wagers (no “Cash Out” option) and thus no real-world financial benefit is gained from winning social casino games. In the social casino setting, a player can purchase chips with which to gamble on more games, but these chips have no real-world value and cannot be redeemed for cash.
+ 
+Distributors are customers that act as sales agents and distribute our systems and third-party gaming content to casino and sports book operators. Distributors traditionally make a small margin on the resale of our systems and the third-party gaming content.
+ 
+We enter into revenue share agreements with our customers wherein we receive a percentage of the operator’s net gaming revenue generated on our platform, or alternatively a usage fee based on a percentage of wagering that takes place on the system. This percentage varies based on a range of factors, including the source of the operator revenue (iGaming versus online sports betting) and the brand or source of the gaming content served to players on our platform (internally developed systems versus gaming content licensed from third party gaming developers).
+ 
+The Company pays third party gaming developers a percentage of the operator’s net gaming revenue generated on our platform, the Company effectively receives a margin of gaming revenue, by charging the operator a higher percentage than it pays to the third-party supplier.
+ 
+iGaming is players wagering on the outcome of a game online, and these activities include poker, slots, table games (poker, blackjack, etc.), live games and lottery games. Sports betting is a form of gambling that entails a player placing a wager, also known as a bet, on the outcome of a sporting event.
+ 
+(2) Resale of online gaming content from third party gaming content providers
+
+The Company has license agreements with distributors. These distributors are customers that act as sales agents and distribute our systems and third-party gaming content to casino and sports book operators. Distributors traditionally make a small margin on the resale of our systems and the third-party gaming content. 
+ 
+(3) Platform Software Development Services (planned)
+ 
+In the future, we plan to generate revenue from platform software development services based on fees earned from the provision of platform development and related services. Revenue from platform and other development services will be recognized over time as we transfer control of the good or service and, accordingly, satisfy our performance obligation.
+
+13
+
+(4) Support Services (planned)
+ 
+The Company also plans to generate revenue in the future by providing 24-7 technical and customer support services. We anticipate designing our business model to align our incentives with those of our operator partners. During the implementation phase of a new deployment, we bill our customers for professional services provided. Upon the successful deployment of the GM-X System, we anticipate providing ongoing managed services pursuant to term-based agreements. Unlike traditional on-premise enterprise software deployments, which feature licenses and maintenance contracts, we retain exclusive access to our source code and provide software updates on a continuing basis.
+Intellectual Property
+
+Our intellectual property includes the source code for our GM-X System and other iGaming IP, the content of our websites, our registered domain names, our registered and unregistered trademarks, and certain trade secrets. We believe that our intellectual property is an essential asset of our business and that our registered domain names and our technology infrastructure will give us a competitive advantage in the marketplace. We rely on a combination of trademark, copyright and trade secret laws in the United States and foreign jurisdictions, as well as contractual provisions, to protect our proprietary technology and our brands. We also rely on copyright laws to protect the appearance and design of our sites and applications, although to date we have not registered for copyright protection on any particular content. We have registered numerous Internet domain names related to our business in order to protect our proprietary interests. The efforts we have taken to protect our intellectual property may not be sufficient or effective, and, despite these precautions, it may be possible for other parties to copy or otherwise obtain and use the content of our websites or our brand names without authorization. 
+ 
+Our primary web property is:
+ 
+
+• | www.goldenmatrix.com
+--+---------------------
+
+ 
+Currently the Company via its wholly-owned subsidiary Global Technology Group Pty Ltd, has an Alderney Gambling Control Commission license. The government of Alderney offers software service providers in the gambling industry with a gambling license that allows gambling operators to conduct business related to casino, lotto, and other gaming related activities. Alderney has long been recognized as one of the preferred locations for online Gambling operators. Alderney is regarded in the community as one of the strictest licensing jurisdictions with policies aimed at improving transparency and cultivating a good gaming environment.
+ 
+The Company is required to have a recognized business-to-business (B2B) gambling license in order to acquire certain gaming content. Currently the Company is not required to have a gaming license for the resale of its GM-X System or third-party content to operators in the jurisdictions in which it currently conducts business, however as the Company expands its global distribution licensing regulatory requirements will be required.
+ 
+Our Growth Strategy
+
+Our objective in managing capital is to ensure that we have sufficient liquidity to manage our business and growth objectives while maximizing return to shareholders. Liquidity is necessary to meet our existing general capital needs, fund our growth and expansion plans, and undertake certain capital market activities. We have historically met our liquidity needs through cash flow generated from operations and the sale of equity securities in private transactions. Our current objective is to meet all of our current liquidity and existing general capital requirements from the cash flow generated from ongoing operations and funds raised through the sale of equity. We may raise funding in the future to conduct potential acquisitions through the issuance of debt and/or the sale of capital stock. The COVID-19 pandemic has had no material impact on our business to date and we expect our business to be generally resilient to the pandemic. We have been able to maintain operations with employees and consultants working remotely to sustain our sales and the support of our online products. Notwithstanding the above, we have experienced minor productivity issues in connection with the movement of certain resources as a result of the pandemic.
+
+14
+
+ 
+Key elements of our growth strategy include:
+ 
+
+• | Supporting our existing customers as they scale up their respective iGaming and online sportsbook operations. As our customers’ businesses grow, we intend to deploy additional resources to develop the GM-X System’s platform functionality, expand our gaming content portfolios by integrating additional third-party content providers, and seek to obtain additional regulatory approvals to operate in other global markets.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Expanding our global reach by securing new casino and sportsbook operator customers in existing and newly regulated markets. 
+• | Investing in sales and marketing initiatives to aggressively pursue new deployment opportunities in developing markets such as Africa and Latin America, and also exploring opportunities in the U.S. market. 
+• | Developing and deploying our own proprietary gaming content in both casino iGaming as well as E-sport categories. It is currently anticipated that our E-sport portfolio will launch in the second quarter of 2021. 
+• | Pursuing acquisitions of synergistic companies and assets with the goal of expanding our competitive position in the markets in which we operate. We are also exploring the opportunity to selectively acquire independent slot development studios in order to launch our own proprietary games on our platform, funding permitting. 
+
+ 
+The Company does not intend to make significant investments (except for potential acquisitions, none of which are currently planned or pending) to support our business growth strategy. We believe that our business model is highly scalable and existing resources will be utilized to develop new offerings and features and enhance our existing platform, and improve our operating infrastructure.
+ 
+The Company may face significant costs with respect to legal fees incurred in the applications for licenses and continued regulatory requirements and legal representation.
+ 
+In order to acquire complementary businesses and technologies, we may need to engage in equity or debt financings to secure additional funds. Our ability to obtain additional capital, if and when required, will depend on our business plans, investor demand, our operating performance, capital markets conditions and other factors. If we raise additional funds by issuing equity, equity-linked or debt securities, those securities may have rights, preferences or privileges senior to the rights of our then issued and outstanding equity or debt, and our existing shareholders may experience dilution. If we are unable to obtain additional capital when required, or on satisfactory terms, our ability to continue to support our business growth or to respond to business opportunities, challenges or unforeseen circumstances could be adversely affected, and our business may be harmed.
+ 
+We may acquire other businesses, and our business may be detrimentally affected if we are unable to successfully integrate acquired businesses into our company or otherwise manage the growth associated with multiple acquisitions.
+ 
+As part of our business strategy, we have made, and we intend to make acquisitions as opportunities arise to add new or complementary businesses, products, brands, or technologies. In some cases, the costs of such acquisitions may be substantial, including as a result of professional fees and due diligence efforts. There is no assurance that the time and resources expended on pursuing a particular acquisition will result in a completed transaction, or that any completed transaction will ultimately be successful. In addition, we may be unable to identify suitable acquisition or strategic investment opportunities, or may be unable to obtain any required financing or regulatory approvals, and therefore may be unable to complete such acquisitions or strategic investments on favorable terms. We may decide to pursue acquisitions with which our investors may not agree and we cannot assure investors that any acquisition or investment will be successful or otherwise provide a favorable return on investment. In addition, if we fail to successfully close transactions or integrate new teams, or integrate the products and technologies associated with these acquisitions into our company, our business could be seriously harmed. Acquisitions may expose us to operational challenges and risks, including:
+ 
+
+15
+
+
+• | the ability to profitably manage acquired businesses or successfully integrate the acquired businesses’ operations, personnel, financial reporting, accounting and internal controls, technologies and products into our business; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | increased indebtedness and the expense of integrating acquired businesses, including significant administrative, operational, economic, geographic in managing and integrating the expanded or combined operations; 
+• | entry into jurisdictions or acquisition of products or technologies with which we have limited or no prior experience, and the potential of increased competition with new or existing competitors as a result of such acquisitions;
+• | the ability to fund our capital needs and any cash flow shortages that may occur if anticipated revenue is not realized or is delayed, whether by general economic or market conditions, or unforeseen internal difficulties; and 
+• | the ability to retain or hire qualified personnel required for expanded operations. 
+
+ 
+Our acquisition strategy may not succeed if we are unable to remain attractive to target companies or expeditiously close transactions.
+ 
+Over the next five years, we plan to:
+ 
+
+• | Support our existing customers as they continue to scale up their respective iGaming operations. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | Deploy additional gaming content and allied products to not only generate additional revenues, but also provide value to our customers in terms of customer engagement, loyalty and retention. 
+• | Grow our internal resources to support evolving customer requirements. 
+• | Continue to invest in our proprietary GM-X System platform’s functionality by expanding our gaming content library and third-party gaming content integrations. The Company will utilize its success and growing recognition in the market to negotiate additional distribution agreements with leading gaming content providers.
+• | Move expeditiously to obtain regulatory approvals to operate in new regulated global markets. 
+• | Seek to form new relationships and partnerships with leading gaming companies to ensure larger distribution channels, more global markets and a broader range of gaming content. 
+• | Continue to acquire new casino operator customers in existing and new regulated markets. 
+• | Continue to invest in sales and marketing initiatives to aggressively pursue new deployment opportunities. 
+• | Expand our gaming content development capabilities. 
+• | Invest in our gaming development capabilities in order to expand our portfolio of high-quality, in-house content, which we intend to strategically serve within our GM-X System, in order to improve our overall margins. 
+• | Seek to obtain a U.S. gaming license that will enable us to enter the U.S. market (where legal and applicable). 
+• | Pursue an acquisition strategy, whereby we intend to pursue a growth strategy aimed at strengthening our competitive position in the markets in which we compete through the acquisition of other businesses and assets that we believe will be accretive to our business. 
+
+
+16
+
+Employees and Employee Relations
+
+As of the date of this Report, we have two employees (our Chief Executive Officer and Chief Operating Officer) and sixteen consultants located in four countries. Additionally, Mr. Omar Jimenez, our recently appointed Chief Financial Officer and Chief Compliance Officer, serves as a part-time consultant to the Company. We currently conduct our business using the services of consultants and outside contractors. We do not intend to have any material change in the number of employees over the next 12 months. Where possible, we intend to conduct our business largely through consultants on a contract and fee for service basis.
+ 
+We have consultants and staff located in multiple countries and a significant level of operations outside of the U.S., which subjects us, potentially to additional costs and risks that could adversely affect our operating results.
+ 
+A significant portion of our operations are located outside of the U.S. We have software development, customer support and sales centers in the Philippines, Australia, and Taiwan, which account for most of our software development, support and sales personnel.
+ 
+Our goal is to attract and retain highly qualified and motivated personnel. We also often employ independent contractors to support our efforts. None of our employees or contractors are subject to a collective bargaining agreement. We consider our employee relations to be good and we have never experienced a work stoppage.
+ 
+We are committed to maintaining a working environment in which diversity and equality of opportunity are actively promoted and all unlawful discrimination is not tolerated. We are committed to ensuring employees are treated fairly and are not subjected to unfair or unlawful discrimination. We value diversity and to that end recognize the educational and business benefits of diversity amongst our employees, applicants, and other people with whom we have dealings.
+ 
+The Company has an equity compensation plan in place to attract and retain valuable human resources.
+ 
+Recruitment
+
+The Company strives to attract the best talent in order to meet the current and future demands of our business. We regularly advertise at universities and via online job portals. 
+ 
+The Company has a compelling employee and consultant value proposition that leverages our vibrant culture and state of the art working environment to attract talent to our Company.
+ 
+
+17
+
+Employee and Consultant Benefits
+
+We offer comprehensive benefit programs to our employees and consultants including a stock option plan. We offer financial well-being, a balance in working and personal life, culture and community support and development. We recognize and support the development and continuing education of our employees and offer opportunities to participate external learning programs. 
+Health and Safety
+
+The health and safety of our employees and consultants is a high priority. The Company ensures a safe working environment, safe equipment, policies, and procedures in order to ensure workers’ health and safety. Workers’ insurance is maintained to protect workers against workplace injury or illness. 
+The Company has a COVID-19 Safety Plan:
+ 
+
+• | Adding work from home flexibility; 
+--+-----------------------------------------------------------------------------------------------------------------------------------
+• | Encourage those who are sick to stay home; 
+• | Increasing cleaning protocols across all locations; 
+• | Initiating regular communication regarding impacts of the COVID-19 pandemic, including health and safety protocols and procedures;
+• | Providing additional personal protective equipment and cleaning supplies; 
+• | Prohibiting international non-essential travel for all employees; and 
+• | Requiring masks to be worn in all locations where required by local law. 
+
+Diversity and Inclusion
+
+The Company has a rich culture and history of inclusion and diversity and this has enabled it to create, develop and fully leverage the strengths of its workforce to meet and exceed customer expectations and meet its growth objectives.
+Competition
+
+We operate in a global and dynamic market and compete with a variety of organizations that offer services similar to those that we offer. The online gaming industry is highly competitive. A number of companies offer products that are similar to our products and target the same markets as we do. Certain of our current and potential competitors have longer operating histories, greater financial, technical and marketing resources, and a larger installed customer base than we do. These competitors may be able to respond more quickly than we can to new or emerging technologies and changes in customer requirements, develop superior products, and devote greater resources to the development, promotion and sale of their products than we can. 
+ 
+We face competition primarily from: (1) other gaming companies that provide competing services and products to customers, (2) online and retail casino operators that develop their own proprietary online gaming capabilities, and (3) other similar existing or developing technology providers that develop competing platforms.
+ 
+Our primary competitors are overseas based online gaming technology companies. With few exceptions, a majority of these gaming companies are listed on the London Stock Exchange and they use their own software.
+ 
+Examples of competing companies including; Relax Gaming, GAN, Softswiss, Bragg Gaming Group, Everymatrix, Softgamings and Gammastack.
+ 
+As an independent online gaming technology provider, we believe that we retain the ability to utilize the most profitable platform available and are not restricted to a single platform. Additionally, by ensuring that we operate in compliance with U.S. laws, we believe that in the event of legalized gaming in the U.S., we would not be precluded from taking advantage of U.S.-based gaming.
+
+18
+
+Industry and Market
+
+According to an April 2020 report by Grand View Research, the global online gambling market size was valued at $53.7 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2020 to 2027, reaching $127.3 billion by 2027. 
+ 
+Our core markets are currently the Asia-Pacific (APAC) region and while we have a solid customer base; we are continuing to engage new gaming operators on a regular basis and we anticipate that our current operators will continue to grow. A September 2020 report by Statista reports that the gaming industry (including all games, not just online gambling) in the APAC region will be worth more than $174 billion by 2021, after seeing APAC games revenue amounting to $72.2 billion in 2019, which was more than double the revenue of the North American gaming market.
+ 
+According to a November 2020 article from Espn.com (United States of sports betting: An updated map of where every state stands), there are currently 20 U.S. states that allow online sports betting (through approved and regulated betting portals), and according to bettingusa.com, there are five states (Delaware, Nevada, New Jersey, Pennsylvania, and West Virginia), where online casino games, online poker, or both are currently legal (again, through approved and regulated betting portals). As a result, the current U.S. market for the Company’s products and services is limited; however, the Company hopes that more U.S. states will pass laws in the upcoming months and years to legalize more forms of online gambling. Until such time as those laws are passed, if ever, the Company anticipates the majority of its revenues coming from Asia, South America, Europe, Africa, and Latin America.
+ 
+Our vision is to become the platform of choice for casinos and sportsbook operators seeking to transition from a land-based casino and sportsbook environment onto an online environment.
+ 
+Regulation
+
+The offering of online gaming platforms and related software and solutions is subject to extensive regulation and approval by various national, federal, state, provincial, tribal and foreign agencies (collectively, “gaming authorities”). Gaming laws require us to obtain licenses or findings of suitability from gaming authorities for our platforms and products. The criteria used by gaming authorities to make determinations as to the qualification and suitability of an applicant varies among jurisdictions, but generally require the submission of detailed personal and financial information followed by a thorough and sometimes lengthy investigation. Gaming authorities have broad discretion in determining whether an applicant qualifies for licensing or should be found suitable. Notwithstanding the foregoing, some jurisdictions explicitly prohibit gaming in all or certain forms and we will not market our gaming platform or services in these jurisdictions. 
+ 
+Currently the Company via its wholly-owned subsidiary Global Technology Group Pty Ltd, has an Alderney Gambling Control Commission (“AGCC”) license. The government of Alderney offers software service providers in the gambling industry with a gambling license that allows gambling operators to conduct business related to casino, lotto, and other gaming related activities. Alderney has long been recognized as one of the preferred locations for online Gambling operators. Alderney is regarded in the community as one of the strictest licensing jurisdictions with policies aimed at improving transparency and cultivating a good gaming environment. 
+ 
+The Alderney Gaming Control Commission offers two categories of eGambling licences: (1) A Category 1 Licence authorizes the organization and preparation of gambling operations, namely the registration and verification of players, the contractual relationship with them, and the management of player funds; and (2) A Category 2 Licence authorizes the effecting of the gambling transaction including operational management of a gambling platform located within an approved hosting center.
+ 
+Global Technology Group Pty currently holds an AGCC Category 2 Associate Certificate.
+ 
+
+19
+
+ 
+A Category 2 Associate is an entity to whom a Category 1 eGambling licensee transfers customers, or allows them to be transferred, for the purpose of that entity effecting gambling transactions with the customer or arranging for those customers to gamble with others.
+ 
+An eGambling license from the AGCC can be used by a licensee to operate in any country where it is legal to do so. In some countries, including the UK for example, a licensee will also be required to obtain a local licence issued by that country if accessing that market.
+ 
+Gambling sites licensed in Alderney under Category 1 are required to pay a £35,000 fee the first year in operation and a yearly fee thereafter based on the previous year’s “net gaming yield.” The annual fee ranges from £35,000 to £140,000 depending on how much money the gambling site is bringing in. Category 2 licensed companies are required to pay an introductory fee of £17,500 which applies for the first year and £35,000 per year thereafter.
+ 
+In some instances, the Company may be required to have a recognized business-to-business (B2B) gambling license in order to acquire and distribute certain gaming content.
+ 
+While the Company has a Category 2 Associate Certificate from the AGCC, it is not required to have a gaming license for its current services—the resale of its GM-X System or the sale of third-party content to operators in the jurisdictions in which it currently conducts business (and is not required to have a gaming license for its planned services including the provision of support services and software development), and therefore is not currently utilizing the AGCC license.
+ 
+As the Company expands its global distribution, licensing and regulatory requirements may be required.
+ 
+We sell and license our products to operators in the online gaming industry whose ability to operate in any jurisdiction may be impacted by changes in regulations. Even in jurisdictions where we have licenses, there can be no guarantee that a jurisdiction will not change its regulations in ways that impair our revenue or that would cause us to incur significant operating expenses in order to maintain compliance. Material changes, new laws or regulations, or material differences in interpretations by courts or governmental authorities could cause us to incur substantial additional compliance costs and adversely affect our operating results. See “Item 1A. Risk Factors,” for an additional discussion regarding such risks.
+ 
+Given the dynamic and rapid evolution of the iGaming industry, it can be difficult to plan strategically, as it relates to product rollout in new or existing jurisdictions which may be delayed or denied, and it is possible that competitors will be more successful than the Company at adapting to change and pursuing business opportunities.
+ 
+As the online iGaming industry advances, including with respect to regulation in new and existing jurisdictions, we may become subject to additional regulation and compliance-related costs, including licensing and taxes. Consequently, our online gaming offerings may not grow at the rates expected or be successful in the long term.
+ 
+If our product offerings do not obtain support or maintain support, or if they fail to grow in a manner in which we anticipate, or if we are unable to offer our products and systems in particular jurisdictions that may be material to our business, then our results of operations and financial situation could be harmed.
+ 
+The online gaming industry is heavily regulated and the Company’s failure to obtain or maintain required licenses or approvals, or otherwise comply with applicable regulation, could be disruptive to our business and could adversely affect our operations.
+ 
+Our Company, officers, directors, major shareholders, key employees, and business partners are generally subject to the laws and regulations relating to iGaming in the jurisdictions in which we conduct business. These laws and regulations vary from one jurisdiction to another and future legislative and regulatory action or other governmental action, and may have a material impact on our operations and financial results. In particular, some jurisdictions have introduced regulations attempting to restrict or prohibit online gaming, while others have taken the position that online gaming should be licensed and regulated and have adopted or are in the process of considering legislation to enable that to happen.
+ 
+
+20
+
+ 
+Regulatory regimes vary by jurisdiction. The Company currently is not required to hold a gambling license for the sale of its GM-X System or third-party software in the jurisdictions in which it currently conducts business, however most regulatory regimes include the following elements:
+ 
+
+• | an ability to apply for one or more gaming licenses for one or more categories of products (for example, the UK); 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• | a requirement for gaming license applicants to make detailed and extensive disclosures as to their beneficial ownership, their source of funds, the probity and integrity of certain persons associated with the applicant, the applicant’s management competence and structure and business plans, the applicant’s proposed geographical territories of operation and the applicant’s ability to operate a gaming business in a socially responsible manner in compliance with regulation;
+• | ongoing disclosure and reporting obligations, on a periodic and unplanned basis in response to issues affecting the business; 
+• | the testing and certification of games, software and systems; and 
+• | social responsibility obligations. 
+
+ 
+Gaming licenses are subject to conditions, suspension or revocation by the issuing regulatory authority at any time.
+ 
+We may be unable to obtain or maintain all necessary registrations, licenses, permits or approvals, and could incur fines or experience delays related to the licensing process, which could adversely affect our operations and financial viability.
+ 
+The determination of suitability process may be expensive and time-consuming. Our delay or failure to obtain gaming licenses in any jurisdiction may prevent us from distributing our product offerings, increasing our customer base and/or generating revenues. A gaming regulatory body may refuse to issue or renew a gaming license if the Company, or one of our directors, officers, employees, major shareholders, or business partners:
+ 
+A gaming regulatory body may refuse to issue or renew a gaming license or restrict or condition the same, based on the historic activities of the Company or our current or former directors, officers, employees, major shareholders or business partners, which could adversely affect our operations or financial condition.
+ 
+Our product offerings may require approval in regulated jurisdictions in which they are offered; this process cannot be assured or guaranteed.
+ 
+If we fail to obtain the necessary gaming license in a given jurisdiction, we would likely be prohibited from distributing and providing product offerings in that particular jurisdiction. Delays in regulatory approvals or failure to obtain such approvals may also serve as a barrier to entry to the market for our product offerings. If we are unable to overcome the barriers to entry, it will materially affect our results of operations and future prospects.
+ 
+To the extent new online gaming jurisdictions are established or expanded, we cannot guarantee we will be successful in expanding our business or customer base in line with the growth of existing jurisdictions. If we are unable to effectively develop and operate directly or indirectly within these new markets or if our competitors are able to successfully penetrate geographic markets that we cannot access or where we face other restrictions, then our business, operating results and financial condition could be impaired. Our failure to obtain or maintain the necessary regulatory approvals in jurisdictions, whether individually or collectively, would have a material adverse effect on our business.
+ 
+
+21
+
+U.S. Regulatory Environment
+
+State Level
+
+As described above, according to a November 2020 article from Espn.com (United States of sports betting: An updated map of where every state stands), there are currently 20 U.S. states that allow online sports betting (through approved and regulated betting portals), and according to bettingusa.com, there are five states (Delaware, Nevada, New Jersey, Pennsylvania, and West Virginia), where online casino games, online poker, or both are currently legal (again, through approved and regulated betting portals). As a result, the current U.S. market for the Company’s products and services is limited; however, the Company hopes that more U.S. states will pass laws in the upcoming months and years to legalize more forms of online gambling. Until such time as those laws are passed, if ever, the Company anticipates the majority of its revenues coming from Asia, South America, Europe, Africa, and Latin America. 
+Federal Level
+
+On October 13, 2006, then President George W. Bush, signed into law “The Unlawful Internet Gambling Enforcement Act of 2006 (“UIGEA”).” This act prohibits those involved in the business of betting or wagering from accepting any financial instrument, electronic or otherwise, for deposit that is intended to be utilized for unlawful Internet gambling. While the UIGEA does not define online gambling as being illegal, the UIGEA instructs the U.S. Treasury Department and Federal Reserve to impose obligations upon financial institutions and other payment processors to establish procedures designed to block online gaming-related financial transactions. It also expressly requires Internet bets and wagers to comply with the law of the jurisdiction where the wagers are initiated and received (i.e., within state borders). The law contains a safe harbor for wagers placed within a single state (disregarding intermediate routing of the transmission) where the method of placing the wager and receiving the wager is authorized by that state’s law, provided the underlying regulations establish appropriate age and location verification. 
+ 
+In addition to regulation at the state level, various federal laws apply to online gambling. Those include (1) the UIGEA, discussed above, (2) the Illegal Gambling Business Act and (3) the Travel Act. The Illegal Gambling Business Act (“IGBA”), makes it a crime to conduct, finance, manage, supervise, direct or own all or part of an “illegal gambling business” and the Travel Act makes it a crime to use the mail or any facility in interstate commerce with the intent to “distribute the proceeds of any unlawful activity,” or “otherwise promote, manage, establish, carry on, or facilitate the promotion, management, establishment, or carrying on, of any unlawful activity.” For there to be a violation of either the IGBA or the Travel Act there must be a violation of underlying state law.
+ 
+In addition, the Wire Act of 1961 (the “Wire Act”) provides that anyone engaged in the business of betting or wagering that knowingly uses a wire communication facility for the transmission in interstate or foreign commerce of bets or wagers or information assisting in the placing of bets or wagers on any sporting event or contest, or for the transmission of a wire communication which entitles the recipient to receive money or credit as a result of bets or wagers, or for information assisting in the placing of bets or wagers, will be fined or imprisoned, or both. In September 2011, the U.S. Department of Justice released to the public a formal legal opinion on the scope of the Wire Act concluding, interstate transmissions of wire communications that do not relate to a ‘sporting event or contest’ fall outside the reach of the Wire Act.
+ 
+Any or all of our planned future operations in the U.S. could be subject to, and/or may need to comply with the UIGEA, IGBA, Travel Act, Wire Act, and other state and federal statutes.
+ 
+Recent Events
+ 
+Sportsbook Software License and Services Agreement
+ 
+On October 28, 2020, the Company entered into a Sportsbook Software License and Services Agreement (the “License Agreement”) with Amelco UK Limited, a company incorporated in the United Kingdom (“Amelco”), pursuant to which the Company acquired a license to use Amelco’s Sportsbook and Licensed Application for the purpose of sub-licensing (reselling) the Sportsbook and Licensed Application to the Company’s existing or potential resellers and/or operators. Under the terms of the License Agreement, Amelco granted us a limited, non-exclusive, non-transferable and non-assignable (except as provided for in the agreement) license to use the Sportsbook technology. The agreement contains various representations and warranties of the parties, confidentiality obligations, limitations on liability and limited warranties of Amelco.
+
+22
+
+ 
+Pursuant to the License Agreement, Amelco will provide software and will also provide various services to the Company. The License Agreement requires the Company to pay Amelco an agreed upon percentage of the gross gaming revenues received by the Company from any sub-licensee of the technology. 
+ 
+The term of the License Agreement is for an initial period of 2 years from the date the sportsbook becomes available to end-users. The date that the system was available to end-users was 12th April 2021. The term will be automatically renewable for additional 2-year periods after the date which the sportsbook becomes available to end-users, until, at least 120 days prior to the end of the then current term, the agreement is terminated by either party. The License Agreement may also be terminated upon a breach of the agreement (subject to a thirty-day right to cure by the breaching party after notice thereof is provided by the non-breaching party), or in the event a party enters into bankruptcy or similar proceedings. Additionally, Amelco may terminate the License Agreement if we fail to pay amounts due within 15 days of the due date thereof; a change of control of the Company occurs (unless Amelco approves of such in writing); in the event certain restrictions affecting Amelco or the Company occur under applicable law or regulatory enforcement; or upon the expiration of Amelco’s agreements with third parties relating to the software. Finally, Amelco can terminate the agreement with 90 days prior notice if the royalty payable to Amelco falls below budgeted projections in any three successive periods.
+ 
+Distribution Agreement
+ 
+On November 18, 2020, we entered into a Distribution Agreement, which included a License and Services Agreement (collectively, the “Distribution Agreement”) with Playtech Software Limited, a company incorporated in the United Kingdom (“Playtech”). The Agreement has an effective date of December 1, 2020 (“Commencement Date”).
+ 
+Under the terms of the Distribution Agreement, Playtech has an exclusive license to Company products and all intellectual property rights covered under the agreement, such that Playtech shall be the sole and exclusive distributor of all Company products worldwide (the “Playtech Exclusivity”). Company products covered under the agreement include the GM-X System, the Company’s planned E-sports products, a marketing and loyalty system to be created for Playtech and a gaming system proprietary to the Company. The term of the Playtech Exclusivity begins on the Commencement Date, and continues for a period of 12 months after which the first product subject to exclusivity has been launched by a sub-licensee of Playtech (the “Initial Playtech Exclusivity Term”). Following the Initial Playtech Exclusivity Term, the Playtech Exclusivity automatically renews for additional 12 months periods, provided that if the total fees attributable to the products subject to exclusivity distributed by Playtech (in aggregate) at the end of the Initial Playtech Exclusivity Term or any extended term, is less than $300,000, then we have the right to revoke the Playtech Exclusivity for the subsequent 24 months’ period (during which time period Playtech retains the non-exclusive right to distribute such products), unless Playtech agrees to extend the exclusivity and pays the Company the difference between the actual fees attributable to the products and the $300,000 minimum fee within six months. The agreement contains customary representations, covenants and warranties, rights of audit and review, confidentiality obligations of the parties, indemnification obligations and data protection requirements.
+ 
+For the distribution of planned E-sports products and a gaming system proprietary to the Company, fees payable by Playtech to the Company total (i) 6% of the license fees base (ii) 50% of the remaining license fees base which Playtech determines for the fees it charges directly from the applicable sub-licensees for the distribution of the product.
+ 
+For the loyalty system, the license fee is waived from months 1 to 12 (including) commencing on the Commencement Date. From months 13 and onwards, the license fee is equivalent to 0.25% of the revenue actually collected by Playtech where such revenue is generated solely and exclusively from the games supported on the loyalty system distributed by Playtech, with a minimum payment of €10,000 per month but up to a maximum amount of €100,000 per month. Playtech has no obligation to distribute the loyalty system following the initial 12 months following the Commencement Date.
+ 
+
+23
+
+ 
+Pursuant to the Distribution Agreement, we have a non-exclusive license to distribute the Playtech Games within such US states in which we hold applicable regulatory licenses. The Playtech Games include casino, poker, live-dealer and sports-betting games.
+ 
+Fees payable by us to Playtech from the distribution of the Playtech Games total the sum of (i) 8% of the license fees base (ii) 50% of the remaining license fees base which Playtech determines for the fees charged directly from the applicable sub-licensees for the distribution of the applicable Playtech Games.
+ 
+The term of the agreement is for an initial period of three years from the Commencement Date, renewable thereafter for successive three-year periods unless either party provides written notice of their intent not to renew at least 90 days prior to such renewal date, subject to certain rights to terminate such agreement during the term in the event of a breach of the agreement, and/or if certain other fundamental events occur (for example, bankruptcy of the parties).
+ 
+Share Purchase Agreement
+ 
+On December 22, 2020, we entered into a Share Purchase Agreement (the “Share Purchase Agreement”) with Anthony Brian Goodman, the sole director and owner of Global Technology Group Pty Ltd, a company incorporated in Australia (“GTG”) and our Chief Executive Officer and director.
+ 
+GTG (a non-operational company formed under the laws of Australia) held a current Gaming License granted by the Alderney Gambling Control Commission (AGCC)(located in the Channel Islands). The license is one of the world’s most recognized gaming licenses and the acquisition of such license allows the Company to conduct gaming business in certain jurisdictions in Europe. Such acquisition is also anticipated to help the Company streamline the acquisition of additional licenses in other jurisdictions, of which there can be no assurance.
+ 
+Under the terms of the Share Purchase Agreement, Mr. Goodman agreed to sell 100% of the shares in GTG to the Company for a total of 85,000 Pounds Sterling (€)(approximately $113,000) to help the Company conduct certain business-to-business (B2B) gaming transactions and expand its operation into Europe. The consideration is simply to recoup Mr. Goodman’s setup costs. As of January 31, 2021, the consideration has not been paid.
+ 
+The Share Purchase Agreement also requires Mr. Goodman to lodge a change of control with the Alderney Gambling Control Commission and provide necessary know-how and hand over assistance that will enable the Company to fully utilize the Gaming License.
+ 
+The acquisition of GTG closed on January 19, 2021.
+ 
+Private Offering of Units
+
+On August 20, 2020, the Company sold, to eleven accredited investors, an aggregate of 527,029 units, with each unit consisting of one share of restricted common stock and one warrant to purchase one share of common stock, at a price of $3.40 per unit, raising cash of $1,791,863. The units were sold pursuant to the Company’s entry into subscription agreements with each investor. The subscription agreements provide the investors customary piggyback registration rights (for both the shares and the shares of common stock underlying the warrants) which remain in place for the lesser of one year following the closing of the offering and the date that the applicable investor is eligible to sell the applicable securities under Rule 144 of the Securities Act, as amended. Such piggyback registration rights agreements also provided that the Company is not required to register securities in a registration statement relating solely to an offering by the Company of securities for its own account if the managing underwriter or placement agent have advised the Company in writing that the inclusion of such securities would have a material adverse effect upon the ability of the Company to sell securities for its own account. 
+
+24
+
+ 
+The warrants had an exercise price of $4.10 per share (and no cashless exercise rights), and were exercisable until the earlier of (a) August 20, 2022, and (b) the 30th day after the Company provided the holder of the warrants notice that the closing sales price of the Company’s common stock has closed at or above $6.80 per share for a period of ten consecutive trading days.
+ 
+From November 23, 2020, to December 7, 2020 (ten consecutive trading days), the closing sales price of the Company’s common stock closed at or above $6.80 per share, and on December 8, 2020, the Company provided notice to the holders of the warrants that they had until January 7, 2021 to exercise such warrants, or such warrants would expire pursuant to their terms. From December 9, 2020, to January 7, 2021, ten holders of warrants to purchase an aggregate of 409,029 shares of the Company’s common stock exercised such warrants and paid an aggregate exercise price of $1,677,019 to the Company. In connection with such exercises the Company issued such warrant holders an aggregate of 409,029 shares of restricted common stock.
+ 
+Separately, effective on January 7, 2021, the Board of Directors of the Company agreed to extend the expiration date of warrants to purchase 118,000 shares of common stock, which would have otherwise expired on January 7, 2021, pursuant to the terms of the warrants, to February 8, 2021, which warrants expired unexercised. 
+ 
+On January 20, 2021, the Company sold an aggregate of 1,000,000 units to one investor, with each unit consisting of one share of restricted common stock and one warrant to purchase one share of common stock, at a price of $5.00 per unit. In total the Company raised cash of $4,999,982 pursuant to the private offering of the units. The units were sold pursuant to the entry into a subscription agreement with the investor. The Subscription Agreement provided the investor customary piggyback registration rights (for both the shares and the shares of common stock underlying the warrants) which remain in place for the lesser of one year following the closing of the offering and the date that the investor is eligible to sell the applicable securities under Rule 144 of the Securities Act. Such piggyback registration rights agreements also provided that the Company is not required to register securities in a registration statement relating solely to an offering by the Company of securities for its own account if the managing underwriter or placement agent have advised the Company in writing that the inclusion of such securities would have a material adverse effect upon the ability of the Company to sell securities for its own account. 
+ 
+The warrants have an exercise price of $6.00 per share (and no cashless exercise rights), and are exercisable until the earlier of (a) January 14, 2023, and (b) the 30th day after the Company provides the holder of the Warrants notice that the closing sales price of the Company’s common stock has closed at or above $10.00 per share for a period of ten consecutive trading days. The warrants include a beneficial ownership limitation, which limits the exercise of the warrants held by the investor in the event that upon exercise such investor (and any related parties of such investor) would hold more than 4.999% of the Company’s outstanding shares of common stock (which percentage may be increased to 9.999% with at least 61 days prior written notice to the Company from the investor).
+ 
+Asset Purchase Agreement
+ 
+On March 1, 2021, the Company entered into an Asset Purchase Agreement with Gamefish Global Pty Ltd, a company incorporated in Australia (“Gamefish”), pursuant to which the Company acquired an instance of certain intellectual property that consists of a fully functional Seamless Aggregation Platform (“Aggregation Platform”). As consideration for the acquisition, the Company agreed to pay Gamefish $174,000, payable pursuant to a schedule set forth in the agreement, and certain milestones being met with respect to the stability, functionality and operation of the Aggregation Platform. The Company also agreed to pay three months of monthly fees to Gamefish in the amount of $13,050 per month, for ongoing support for the intellectual property. The purchase is also contingent on the Company entering into mutually acceptable consulting agreements with two principals of Gamefish.
+
+25
+
+Stock Purchase Agreement
+ 
+On August 10, 2020, the Company entered into a Stock Purchase Agreement with Brett Goodman, the son of the Company’s Chief Executive Officer, and Jason Silver, who was then subject to a partnership agreement with Brett Goodman. Mr. Goodman and Mr. Silver had previously engaged a third-party company to develop a Peer-to-Peer betting application and the parties determined it was in the Company’s best interests to assume ownership of the Peer-to-Peer betting application development program, and to engage Mr. Goodman and Mr. Silver for management of the project. Pursuant to the agreement, we agreed to issue each of Mr. Goodman and Mr. Silver 2,000 shares of restricted common stock (4,000 shares in aggregate)(which shares were issued on March 24, 2021), and as a result, a $14,840 expense was recorded. Additionally, each of Mr. Goodman and Mr. Silver agreed to manage the project. We also agreed to reimburse Mr. Goodman and Mr. Silver for the costs of the project; however, there have been no expenses to date. 
+Hopestar Agreement
+ 
+On December 31, 2020, the Company, Articulate and Hopestar Technology Service Co., Ltd (“Hopestar”)(a customer of the Company) entered into an Agreement. Pursuant to the Agreement, Hopestar, which held certain credits which are issued to players who win slot game jackpots distributed by the Company (which are specific to Playtech, who the Company distributes gaming content for), agreed to reduce $500,000 of amounts owed by the Company to Hopestar, Articulate agreed to offer Hopestar $500,000 of gaming credits for alternative content (i.e., games distributed by companies other than Playtech), and Articulate agreed to reduce $500,000 of amounts owed by the Company to Articulate. As of January 31, 2021, the Company had $656,805 of accounts receivable from Articulate and $33,000 of accounts payable to Articulate.
+Item 1.01 Entry into a Material Definitive Agreement. 
+Stock Purchase Agreement
+ 
+On August 10, 2020, the Company entered into a Stock Purchase Agreement with Brett Goodman, the son of the Company’s Chief Executive Officer, and Jason Silver, who was then subject to a partnership agreement with Brett Goodman. Mr. Goodman and Mr. Silver had previously engaged a third-party company to develop a Peer-to-Peer betting application and the parties determined it was in the Company’s best interests to assume ownership of the Peer-to-Peer betting application development program, and to engage Mr. Goodman and Mr. Silver for management of the project. Pursuant to the agreement, we agreed to issue each of Mr. Goodman and Mr. Silver 2,000 shares of restricted common stock (4,000 shares in aggregate)(which shares were issued on March 24, 2021), and as a result, a $14,840 expense was recorded. Additionally, each of Mr. Goodman and Mr. Silver agreed to manage the project. We also agreed to reimburse Mr. Goodman and Mr. Silver for the costs of the project; however, there have been no expenses to date.
+Hopestar Agreement
+ 
+On December 31, 2020, the Company, Articulate and Hopestar Technology Service Co., Ltd (“Hopestar”)(a customer of the Company) entered into an Agreement. Pursuant to the Agreement, Hopestar, which held certain credits which are issued to players who win slot game jackpots distributed by the Company (which are specific to Playtech, who the Company distributes gaming content for), agreed to reduce $500,000 of amounts owed by the Company to Hopestar, Articulate agreed to offer Hopestar $500,000 of gaming credits for alternative content (i.e., games distributed by companies other than Playtech), and Articulate agreed to reduce $500,000 of amounts owed by the Company to Articulate. As of January 31, 2021, the Company had $656,805 of accounts receivable from Articulate and $33,000 of accounts payable to Articulate.
+ 
+Because this Annual Report on Form 10-K is being filed within four business days from the date of the reportable event described below, we have elected to make the following disclosures in this Annual Report on Form 10-K instead of in a Current Report on Form 8-K under Item 5.02:
+ 

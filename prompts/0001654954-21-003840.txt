@@ -1,0 +1,280 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+
+ 
+ ImageWare Systems, Inc., a Delaware corporation, has its principal place of business at 11440 West Bernardo Court, Suite 300, San Diego, California 92127. We maintain a corporate website at www.iwsinc.com. Our common stock, par value $0.01 per share (“Common Stock”), is currently listed for quotation on the OTCQB marketplace under the symbol “IWSY”. As used in this Annual Report, “we”, “us”, “our”, “ImageWare”, “ImageWare Systems” or the “Company” refers to ImageWare Systems, Inc. and all of its subsidiaries.
+  
+  Overview
+  
+ ImageWare Systems, Inc. (“ImageWare,” the “Company,” “we,” “our”) provides defense-grade biometric identification and authentication solutions to safeguard your data, products, services or facilities. We are experts in biometric authentication and considered a preeminent patent holder of multimodal biometrics IP, having many of the most-cited patents in the industry. Our patented IWS Biometric Engine® is one of the most accurate and fastest biometrics matching engines in the industry, capable of our patented biometrics fusion. Part of our heritage is in law enforcement, having built the first statewide digital booking platform for United States local law enforcement in the late 1990’s – and having more than three decades of experience in the challenging government sector creating biometric smart cards and logical access for millions of individuals. We are a “biometrics first” company, leveraging unique human characteristics to provide unparalleled accuracy for identification while protecting your identity. 
+  
+ The Company’s products also provide law enforcement and public safety sector with integrated biographic, mugshot, SMT, and fingerprint capture for booking, in addition to investigative capabilities. The Company also provides comprehensive authentication security software using biometrics to secure physical and logical access to facilities, computer networks or Internet sites. Biometric technology is now an integral part of all markets that the Company addresses, and every product leverages our patented IWS Biometric Engine®. 
+ 
+ The IWS Biometric Engine® is a patented biometric identity and authentication database built for multi-biometric enrollment, management and authentication. It is hardware agnostic and can utilize different types of biometric algorithms. It allows different types of biometrics to be operated at the same time on a seamlessly integrated platform. It is also offered as a Software Development Kit (“SDK”), enabling developers and system integrators to implement biometric solutions or integrate biometric capabilities, into existing applications.
+  
+ Our secure credential solutions empower customers to design and create smart digital identification wristbands and badges for access control systems. We develop, sell and support software and design systems that utilize digital imaging and biometrics for photo identification cards, credentials and identification systems. Our products in this market consist of IWS EPI Suite and IWS EPI Builder. These products allow for production of digital identification badges and related databases and records and can be used by, among others, schools, airports, hospitals, corporations and governments. We have added the ability to incorporate multiple biometrics into the ID systems with the integration of IWS Biometric Engine®.
+  
+ The Company is also a developer of a biometric based multi-factor authentication (“MFA”) Cloud-based service. ImageWare Authenticate (formerly, GoVerify ID®) brings together Cloud and mobile technologies to offer biometric multi-factor authentication for the enterprise, and across industries. ImageWare Authenticate consists of mobile and desktop clients, and the backend system which is a Cloud-based Software-as-a-Service (“SaaS”) servicing Cloud-based biometric template matching requests. ImageWare Authenticate comes in two offerings, Workforce and Customer. ImageWare Authenticate Customer is leveraged by product developers to enable biometric authentication for their consumers. For the enterprise, ImageWare Authenticate Workforce provides turnkey integration with Microsoft Windows, Microsoft Active Directory, CA SSO, IBM Security Access Manager (“ISAM”), SAP Cloud Platform, Fujitsu's RunMyProcess, Palo Alto Networks VPN and HPE’s Aruba ClearPass. These integrations provide multi-modal biometric authentication to replace or augment passwords for use with enterprise and consumer class systems.
+  
+ 
+   
+-1-
+
+
+
+ 
+ 
+ Our law enforcement solutions enable agencies to quickly capture, archive, search, retrieve, and share digital images, fingerprints and other biometrics, as well as criminal history records on a stand-alone, networked, wireless or Web-based platform. We develop, sell and support a suite of modular software products used by law enforcement and public safety agencies to create and manage criminal history records and to investigate crime. Our IWS Law Enforcement solution consists of five software modules: Capture and Investigative modules, which provide a criminal booking system with related databases, as well as the ability to create and print mug photo/scars, marks, and tattoos (SMT), as well as image lineups and electronic mug-books; a Facial Recognition module, which uses biometric facial recognition to identify suspects; a Web module, which provides access to centrally stored records over the Internet in a connected or wireless fashion; and a LiveScan module, which incorporates LiveScan capabilities into IWS Law Enforcement platform providing integrated fingerprint and palm print biometric management for civil and law enforcement use. The IWS Biometric Engine® is also available to our law enforcement clients and allows them to capture and search using multiple biometrics.
+  
+  Recent Developments
+  
+  New Products
+
+ In July 2020, we introduced BioIntellic™, our standalone, highly scalable anti-spoofing detection feature (embedded in the IWS Biometric Engine®) to ensure secure onboarding. BioIntellic™ bolsters our joint offering with our existing proofing partner in the African market, Contactable, and also supports our existing MTN business as well as drives new business in the African region and beyond.
+  
+
+ 
+ In October 2021, we completed a new QuickCapture Mobile software product that resides on the Laxton Chameleon 5 and 8 devices. QuickCapture Mobile will be an inherent part of our newest generation law enforcement platform, called LE 2.0. This powerful solution allows officers, public safety and military personnel in the field to have dynamic data on a perpetrator in the palm of their hands.
+  
+ In December 2020, we reached code completion of our GoVerifyID product, now renamed to Imageware Authenticate, which introduced a new administration portal for easier management and usability of the product along with compatibility with many other 3rd party identity and Cloud services, through the inclusion of identity protocols SAML and OIDC.
+   
+  Coronavirus (COVID-19) Pandemic
+  
+ On March 11, 2020, the World Health Organization declared the novel strain of coronavirus (“COVID-19”) a global pandemic and recommended containment and mitigation measures worldwide. As of March 2021, the global outbreak of COVID-19 continues to rapidly evolve, and the extent to which COVID-19 may impact our business and markets we serve will depend on future developments, which are highly uncertain and cannot be predicted with confidence, such as the duration of the outbreak, travel restrictions and social distancing in the United States and other countries, business closures or business disruptions, and the effectiveness of actions taken both in the United States and other countries. We are continuing to vigilantly monitor the situation with our primary focus on health and safety of our employees and clients.
+ The Series D Financing
+  
+ On November 12, 2020 and December 23, 2020, the Company consummated private placements of 12,060 shares of its Series D Convertible Preferred Stock, par value $0.01 per share (the "Series D Preferred"), resulting in gross proceeds to the Company of $12.06 million, less fees and expenses (the “Series D Financing”). The gross proceeds include approximately $2.2 million in principal amount due and payable under the terms of certain term loans issued by the Company on September 29, 2020 (“Bridge Notes”), which Bridge Notes were converted into Series D Preferred at Closing (the “Conversion”). The issuance of the Series D Preferred was made pursuant to securities purchase agreements, dated September 28, 2020 (the "Purchase Agreement"), by and between the Company and certain accredited investors (the "Purchasers"), for the sale of the Series D Preferred at a purchase price of $1,000 per share of Series D Preferred. The holders of Series D Preferred may voluntarily convert their shares of Series D Preferred into shares of the Company’s Common Stock at any time that is at least ninety days following the issuance date, at the conversion price calculated by dividing the Stated Value by the conversion price of $0.0583 per share of Common Stock, subject to adjustments as set forth in Section 5(e) of the Certificate of Designations, Preferences, and Rights of Series D Convertible Preferred Stock (the "Series D Certificate"). Dividends on shares of Series D Preferred will be paid prior to any junior securities, and are to be paid at the rate of 4% of the Stated Value (as defined in the Series D Certificate) per share per annum in the form of shares of Series D Preferred.
+  
+ On the fourth anniversary of the Issuance Date (as defined in the Series D Certificate), or in the event of the consummation of a Change of Control (as defined in the Series D Certificate), if any shares of Series D Preferred are outstanding, then each holder of Series D Preferred shall have the right (the “Holder Redemption Right”), at such holder’s option, to require the Company to redeem all or any portion of such holder’s shares of Series D Preferred at the Liquidation Preference Amount per share of Series D Preferred plus an amount equal to all accrued but unpaid dividends, if any, (such price, the “Holder Redemption Price”), which Holder Redemption Price shall be paid in cash.
+  
+ 
+   
+-2-
+
+
+
+ 
+ 
+ In connection with the sale of the Series D Preferred, we granted certain registration rights to the Investors with respect to the Conversion Shares and Dividend Shares, pursuant to a Registration Rights Agreement by and among us and the Investors. The registration statement registering the Conversion Shares and Dividend Shares was declared effective by the United States Securities and Exchange Commission (the “SEC”) on February 12, 2021.
+ 
+   Solutions and Products
+  
+ We are a "biometrics first" security company who brings the highest level of security to systems, data and places, by identifying and authenticating people through biometrics. Our solutions are focused on biometrics and secure credentials providing complete, cross-functional interoperable systems and an open architecture.
+  
+ IWS Biometric Engine. This is a biometric identity and authentication database for multi-biometric enrollment, management and authentication, managing population databases of unlimited sizes without regard to hardware or algorithm. Searches can be 1:1 (verification), 1:N (identification), and N:N (database integrity). IWS Biometric Engine is biometric agnostic, enabling the use of biometric devices and algorithms from any vendor, and with current support of the following biometric types: finger, face, iris, palm, and voice. We leverage the IWS Biometric Engine® to create products that provide government, law enforcement, public safety, border management and enterprise businesses, with a wide variety of solutions that address specific problems, mandates and technology standards. 
+  
+ ImageWare Authenticate.  The Company introduced GoVerify ID®, now known as ImageWare Authenticate, a multi-factor biometric authentication, MFA product, for the enterprise markets on November 14, 2016. ImageWare Authenticate supports multimodal biometric Cloud-based matching and authentication including, but not limited to, face, voice, fingerprint, iris, palm, and more. All the biometrics can be combined with authentication and access control tools, including tokens, digital certificates, passwords, and PINS, to provide the ultimate level of assurance, accountability, and ease of use for corporate networks, web applications, mobile devices, and PC desktop environments. ImageWare Authenticate provides multimodal biometric identity authentication that can be used in place of passwords or as a strong second factor authentication method. ImageWare Authenticate is provided as a Cloud-based SaaS solution, thereby, eliminating complex IT deployment of biometric software and eliminating startup costs. ImageWare Authenticate works with existing mobile devices, eliminating the need for specialized biometric scanning devices typically used with most biometric solutions. We enhanced the product and completed this work on December 31, 2020. We relaunched ImageWare Authenticate on February 1, 2021.
+  
+ IWS EPI Suite. This is an ID software solution for producing, issuing, and managing secure credentials and personal identification cards, also called biometric smart badges. It is used by many human resource departments, along with other corporate groups, to enroll employees and print physical badges which may be used later for physical access. Users can efficiently manage large amounts of data, images and card designs, as well as track and issue multiple cards per person, automatically populate multiple cards and eliminate redundant data entry. IWS EPI Suite was designed to integrate with our customers’ existing security and computing infrastructure. We believe that this compatibility may be an appealing feature to corporations, government agencies, transportation departments, schools, and other public institutions.
+  
+ IWS EPI Builder. This is an SDK and a leading secure credential component of identity management and security solutions, providing all aspects of ID functionality from image and biometric capture to the enrollment, issuance and management of secure documents. It contains components which developers or systems integrators can use to support and produce secure credentials, including national IDs, passports, International Civil Aviation Office -compliant travel documents, smartcards and driver licenses. IWS EPI Builder enables organizations to develop custom identification solutions or incorporate sophisticated identification capabilities into existing applications including the ability to capture images, biometric and demographic data; enable biometric identification and verification (1:1 and 1:X); as well as support numerous biometric hardware and software vendors. It also enables users to add electronic identification functionality for other applications, including access control, tracking of time and attendance, point of sale transactions, human resource systems, school photography systems, asset management, inventory control, warehouse management, facilities management and card production systems. We intend to update the EPI Suite and Builder platforms in late 2021 and offer these products in the Cloud.
+  
+ 
+   
+-3-
+
+
+
+ 
+ 
+ IWS Law Enforcement. IWS Law Enforcement is a digital booking, identification and investigative platform that enables users to digitally capture, store, search and retrieve images and demographic data, including mugshots and line ups, fingerprints and scars, marks and tattoos (SMT’s). Law enforcement may choose between submitting fingerprint data directly to the State Automated Fingerprint Identification System (“AFIS”), FBI criminal repository, or other agencies as required. Additional features and functionality include real-time access to images and data, creation of photo lineups or electric mug books, and production of identification cards and credentials. IWS Law Enforcement also uses off-the-shelf, biometric hardware and is designed to comply with open industry standards so that it can operate on an array of systems ranging from a stand-alone personal computer or handheld to larger, integrated systems. To avoid duplication of entries, the system can be integrated easily with several other information storage and retrieval systems, such as a records/jail management system (“RMS/JMS”) or an automated fingerprint identification system. We intend to update the Law Enforcement platform in first half of 2021 and offer the full suite in the Cloud as a SaaS offering.
+  
+ The IWS Law Enforcement platform contains the following components:
+  
+ Capture. This software module allows users to capture and store a variety of images (facial, SMT and others such as evidence photos) as well as biographical text information. Each record includes images and text information in an easy-to-view format made up of fields designed and defined by the individual agency. Current customers of this module range from agencies that capture a few thousand mug shots per year to those that capture hundreds of thousands of mug shots each year.
+  
+ LiveScan. This software module is FBI certified and complies with the FBI Integrated Automated Fingerprint Identification System (“IAFIS”) Image Quality Specifications (“IQS”) while utilizing FBI certified LiveScan devices from most major vendors. LiveScan allows users to capture single to ten prints and palm data, providing an integrated biometric management solution for both civil and law enforcement use. By adding LiveScan capabilities, law enforcement organizations further enhance the investigative process by providing additional identifiers to identify suspects involved in a crime. In addition, officers no longer need to travel to multiple booking stations to capture fingerprints and mugshots. All booking information, including images, may be located at a central designation and from there routed to the State AFIS or FBI criminal history record repository.
+  
+ Investigative. This software module allows users to search the database created with IWS Law Enforcement. Officers can conduct text searches in many fields, including file number, name, alias, distinctive features, and other information, such as gang membership and criminal history. The Investigative module creates a catalogue of possible matches, allowing officers or witnesses to save time by looking only at mug shots that closely resemble the description of the suspect. This module can also be used to create a line-up of similar facial images from which a witness may identify the suspect.
+  
+ EPI Designer for Law Enforcement. The EPI Designer for LE software is a design solution created for the IWS Law Enforcement databases based on the IWS EPI Suite program. This program allows integration with various IWS databases for the production of unique booking/inmate reports, wristbands, photo ID cards, Wanted or BOLO fliers, etc., created from the information stored in booking records. Designs can be created in minutes and quickly added to the IWS Law Enforcement system, allowing all users with appropriate permissions immediate access to the newly added form. 
+  
+ Quick Capture. Quick Capture is a multiple biometric capture application that dynamically adapts to a client’s required use case, including different city, state, and federal charge codes. With it, you can collect a variety of biometrics (face, finger, palm, iris, voice, etc.) using a variety of biometric hardware in the order desired as well as any needed biographic information associated with the subjects.
+  
+ 
+   
+-4-
+
+
+
+ 
+ 
+ BioIntellic. BioIntellic is a facial matching and anti-spoofing product integrated into ImageWare Authenticate. It is designed to prevent presentation attacks, by ensuring the captured biometric image is that of a live individual, not a picture of 3D mask. BioIntellic is also available as a standalone product, enabling companies to quickly integrate facial matching and liveness detection into their offerings.
+  
+  Maintenance and Customer Support
+  
+  Maintenance and support enrollment entitles software license customers to technical support services, including telephone and email support, problem resolution services, and the right to receive unspecified product upgrades, maintenance releases and patches released during the term of the support period. Maintenance and support service fees are an important source of recurring revenue, and we invest continuing resources into providing maintenance and support services.
+ Customers
+  
+ We have a wide variety of domestic and international customers. Most of our IWS Law Enforcement customers are government agencies at the federal, state and local levels in the United States and Canada, but we also have clients outside of North America. For the year ended December 31, 2020, two customers accounted for approximately 61% or $2,921,000 of total revenue and had trade receivables of approximately $250,000 as of the end of the year.  For the year ended December 31, 2019, two customers accounted for approximately 37% or $1,301,000 of total revenue and had trade receivables of approximately $161,000 as of the end of the year.
+ Our Strategy
+  
+ Our strategy is to be a “biometric first” cybersecurity company bringing the highest level of security to systems, data and places by identifying and authenticating people through biometrics. We sell to governments, law enforcement and public safety, as well as enterprises, through key partners and large systems integrators and with our own direct sales team.
+  
+ With recent COVID-19 events, remote work and social distancing have quickly been brought to the forefront of society. And while the impact of these events will be seen in the coming years, many problems have been immediately realized by corporations and government agencies, who are diligently looking for solutions to operate in a new business environment.
+  
+ Within a matter of weeks, corporations and government agencies have had to heavily rely upon remote access technologies to enable work continuity through the pandemic. This increase in employees remotely accessing sensitive corporate systems has increased the risk of both cybercrime and unintentional information leaks. This risk is also increased by the fact that many employees now use a mixture of personal and corporate owned devices on the job, a trend known as, Bring Your Own Device (BYOD).
+  
+ Verification of an individual through biometrics is an effective way to authenticate users accessing sensitive information and systems. ImageWare Authenticate provides this functionality and is already integrated in many of the authentication systems leveraged by large companies and agencies to manage the identities of their employees and users. We will market and sell ImageWare Authenticate as a solution for protecting corporate data to the most relevant business verticals during this time of increased susceptibility to broad cyberattacks, such as malware, viruses, trojans, ransomware infections and phishing attacks.
+  
+ Additionally, social distancing and the need to limit personal contact throughout everyday life is driving governments and corporations to deploy new ways to continue work and commerce while minimizing contact points between individuals. We believe this trend will increase the acceptance and use of biometrics as a means of contactless and touchless authentication for health, retail, finance/banking, government services, higher education and transportation.
+  
+ Scaling out biometrics across these verticals is going to require new methods and solutions to support the increased number of users and transactions. With our decades of experience innovating and scaling government grade biometric solutions and our years executed strategy of creating multimodal, vendor agnostic solutions, ImageWare has had a rich portfolio of products and solutions to address these new challenges brought on by the pandemic. 
+  
+   
+-5-
+
+
+
+ 
+ 
+ Additionally, the law enforcement community continues to be an important market and customer base. Over the past few years, innovation within our law enforcement product line has been static, which has resulted in revenue being primarily driven from support and maintenance. Recently ImageWare released a new product offering to the law enforcement sector called, QuickCapture Mobile. Quick Capture Mobile streamlines the process of capturing biometrics from perpetrators on a mobile, PC-based device, in the field. The law enforcement market will immediately benefit from this product. We believe we can develop the Quick Capture product to service other verticals such as; corporate, telecommunications, academia, hospitality and entertainment.
+  
+ We believe the increasing demand for biometric technology will drive demand for our solutions. In the coming year, we will work to develop an Identity Platform, which combines all of our products onto one end-to-end, Cloud-based platform, allowing large clients to do enrollments (Enroll, Verify, Credential and Authenticate). The building blocks of the Identity Platform consist of upgrades to our current standalone products (IWS LE, EPI Builder, and ImageWare Authenticate) as well as a new identity proofing product, to be developed to verify the authenticity of government issued IDs. The Enroll, Verify, Credential and Authenticate workflow, is foundational to the majority of governments and corporate opportunities we compete for, and therefore, a key to the Identity Platform. This single platform which allows a customer to create a digital identity fully vetted against a government issued ID, use it thereafter for a reliable biometric authentication and manage that identity through its life cycle is compelling. We are scheduling the Identity Platform to be completed in late 2021.
+  
+  Sales and Marketing
+  
+ We market and sell our products in most major world markets directly through our salesforce and indirectly through channel partners, including resellers, distributors and systems integrators. Our sales force includes both field, and inside sales, which provides us a lower-cost channel for additional sales into existing customers and for expanding our customer base.
+ International Operations
+  
+ We are a global company. We are headquartered in San Diego, California with a remote office in Ottawa, Canada. Our main business operations are based in San Diego, California. We regularly seek out opportunities to efficiently expand our operations in international locations that offer highly talented resources as a way to maximize our global competitiveness.
+ Software Licenses
+  
+ The bulk of our revenue presently is generated from new subscription and historical maintenance payments for our software solutions for Law Enforcement, Badging, Identity Management, and Multi-factor Access, MFA. We currently have four primary revenue sources:
+- Annual Maintenance of our Law Enforcement Solution;
+  
+ - Perpetual license revenue of our Badging Solution;
+  
+ - Term Subscriptions of our ImageWare Authenticate solution; and 
+  
+ - Professional Services fees associated with implementation and training for our customers.
+  
+ We are actively engaged in simplifying our revenue sources, migrating our existing customers Annual Maintenance, and perpetual license agreements to more consistent and sustainable subscription models.
+ Software as a Service Business Model
+  
+  We also provide an on-demand SaaS offering for ImageWare Authenticate. SaaS offerings will be offered on a subscription term-limited basis. We are exploring offering additional products as SaaS offerings on a subscription term-limited basis.
+  
+ 
+   
+-6-
+
+
+
+ 
+ 
+  Competition
+  
+  Biometric Market
+  
+ The market to provide biometric systems to the identity management market is evolving and we face competition from a number of sources. We believe that the strength of our competitive position is based on:
+  
+   ●
+ Our ability to provide a system which enables the enrollment, management and authentication of multiple biometrics managing population databases of unlimited sizes;
+
+ 
+   ●
+ Searches can be 1:1 (verification), 1:N (identification), and N:N (database integrity); and
+
+ 
+   ●
+ The system is technology and biometric agnostic, enabling the use of biometric devices and algorithms from any vendor, and the support of the following biometric types: finger, face, iris, palm and voice
+
+ 
+ Our multifactor-biometric product faces competition from Duo, HYPR, Daon and Aware Inc., none of which have offerings with the scope and flexibility of our IWS Biometric Engine and its companion suite of products or relevant patent protection. 
+  
+  Credential Market
+  
+ Due to the breadth of our software offering in the secure credential market space, we face differing degrees of competition in certain market segments. The strength of our competitive position is based upon:
+  
+   ●
+ our strong brand reputation with a customer base, which includes small and medium-sized businesses, Fortune 1000 corporations and large government agencies;
+
+ 
+   ●
+ the ease of integrating our technology into other complex applications;
+
+ 
+   ●
+ the leveraged strength that comes from offering customers software tools, packaged solutions and web-based service applications that support a wide range of hardware peripherals; and
+
+ 
+   ●
+ traditional NFC access control systems are easily hacked
+
+ 
+ Our software faces competition from a number of companies, like HID Global, ASSA ABLOY, Gemalto, as well as small, regionally based companies.
+  
+  The Law Enforcement and Public Safety Markets
+  
+ Due to the fragmented nature of the law enforcement and public safety market and the modular nature of our product suite, we face different degrees of competition with respect to each IWS Law Enforcement module. We believe the principal bases on which we compete with respect to all of our products are:
+  
+   ●
+ the unique ability to integrate our modular products into a complete biometric, LiveScan, imaging and investigative system;
+
+ 
+   ●
+ our reputation as a reliable systems supplier;
+
+ 
+   ●
+ the usability and functionality of our products;
+
+ 
+   ●
+ the responsiveness, availability and reliability of our customer support; and
+
+ 
+   ●
+ hardware agnostic across many biometric vendors.
+
+ 
+ Our law enforcement product line faces competition from other companies such as DataWorks Plus, Idemia, Gemalto and NEC. Internationally, there are often a number of local companies offering solutions in most countries.
+  
+   
+-7-
+
+
+
+ 
+ 
+  Intellectual Property
+  
+ We rely on trademark, patent, trade secret and copyright laws and confidentiality and license agreements to protect our intellectual property. We have several federally registered trademarks, including the trademark ImageWare and IWS Biometric Engine, as well as trademarks for which there are pending trademark registrations with the United States, Canadian and other International Patent & Trademark Offices.
+  
+ We hold several issued patents and have several other patent applications pending for elements of our products. We believe we have the foundational patents regarding the use of multiple biometrics and continue to be an IP leader in the biometric arena. It is our belief that this intellectual property leadership will create a sustainable competitive advantage.
+  
+ We are an early pioneer of patents related to multi-modal biometrics and currently are a worldwide leader in multi-modal biometric patents, with 27 issued patents worldwide and 14 pending or allowed patent applications worldwide as well. The Company’s patents are as follows:
+  
+ US Issued Patents - 17
+  US Allowed Patents - 1
+  US Patent Applications - 3
+  
+ International Issued Patents - 10
+  International Patent Applications - 10
+  
+ Total Worldwide Issued Patents - 27
+  Total Worldwide Allowed Patents - 1
+  Total Worldwide Patent Applications - 14
+  
+  Employees
+  
+ We had a total of 44 full-time employees as of December 31, 2020. In 2020, we had 40 employees based in the United States, three employees based in Canada and one employee based in Mexico. Our employees are not covered by any collective bargaining agreement, and we have never experienced a work stoppage. We believe that our relations with our employees are good.
+ Environmental Regulation
+  
+ Our business does not require us to comply with any particular environmental regulations.
+  
+  Additional Available Information
+  
+ We make available, free of charge, at our corporate website www.iwsinc.com copies of our annual reports filed with the SEC on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements, and all amendments to these reports, as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Exchange Act. We also provide copies of our Forms 8-K, 10-K, 10-Q, and proxy statements at no charge to investors upon request. Additionally, all reports filed by us with the SEC are available free of charge via EDGAR through the SEC website at www.sec.gov.
+  
+   
+-8-
+
+
+
+ 
+   

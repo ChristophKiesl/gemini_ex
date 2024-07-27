@@ -1,0 +1,616 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+OVERVIEW
+Canoo is a mobility technology company with a mission to bring EV’s to everyone. We have developed a technology platform that we believe will enable us to rapidly innovate, and bring new products addressing multiple use cases to market faster than our competition and at lower cost. Our vehicle architecture and design philosophy is aimed at driving productivity and returning capital to our customers. Our software and technology capabilities packaged around a modular, customizable product will fundamentally alter the value proposition across a vehicle’s life. 
+Our Multi-Purpose Platform (“MPP” or “platform”) is a self-contained, fully functional rolling chassis that directly houses all of the most critical components for operation of an EV. These include our in-house designed proprietary performance electric drivetrain, our battery systems, our advanced vehicle control electronics and software and other critical components, which all have been optimized for functional integration. Both our (1) true steer-by-wire system, believed to be the first such system applied to a production-intent vehicle, and (2) our flat composite leaf-spring suspension system are core components of our platform's unique functionality, enabling the development of a broad range of vehicle types and use cases due to the chassis’ flat profile and fully variable steering positions. All of our announced vehicles will share the same platform paired with different cabins, or top hats, to create a range of uniquely customized and use case optimized purpose-built mobility solutions targeting multiple segments of the rapidly expanding EV marketplace. 
+Unlike most of our peers, which are at the early stages of their vehicle development cycle, prior to our December 2020 public listing, we had already invested more than $250 million and passed critical milestones in developing and testing of our platform and product:
+
+● | Developed first Beta prototype in just 19 months from our inception in November 2017.
+--+--------------------------------------------------------------------------------------
+
+
+● | Expanded our Beta fleet to 32 properties and 13 drivable units.
+--+----------------------------------------------------------------
+
+
+● | Completed over 70 physical crash tests on our chassis platform and the Lifestyle Vehicle configuration.
+--+--------------------------------------------------------------------------------------------------------
+
+Importantly, the crash tests conducted on our platform will also aid us in more rapidly bringing our future vehicle models to market, as the majority of research and development and a significant portion of crash structure is integrated into the platform design. We believe this provides a critical advantage over our competitors in terms of required capital deployment and program development timing. The team has now moved into Gamma development on the Lifestyle Vehicle, putting us one step closer to bringing our first product to market in 2022. 
+With the addition of our Executive Chairman and consistent with a focus on continuing to develop proprietary technology, our recently formed Rapid Innovation team has accelerated the research and development of several prototype configurations. We will continue to seek out new use cases and applications currently not addressed by any of our peers or other market participants. This work has directly enabled us to design, develop and ultimately present to the public our Multi-Purpose Delivery Vehicle (“MPDV”), which was revealed in December 2020, and more recently the segment defining Canoo Pickup, which was revealed in March 2021.
+Technology
+The remarkable utility and modularity of our platform is enabled by a number of key technological advancements and critical design decisions made by us, providing distinct advantages over competitor offerings:
+All Critical Vehicle Components Integrated into a Compact Platform:
+We approached the development of our platform with a strong emphasis given to functional integration, meaning that any given component fulfills as many functions as possible. The result is a considerable reduction in the required total number of parts, thus reducing the platform size and weight and ultimately enabling a more cost-effective and operationally efficient chassis. 
+
+8
+
+
+
+Our in-house developed, proprietary platform architecture directly houses all of the most critical components, including:
+
+● | Advanced fully electric drivetrain, offering single and dual motor configurations adjustable for differentiated use cases;
+--+---------------------------------------------------------------------------------------------------------------------------
+
+
+● | Proprietary battery compartment which incorporates battery modules directly into the platform design, allowing for cost and mass savings for multiple battery pack sizes and arrangements.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Compact and efficient motors, designed to share space with our composite leaf spring suspension system to maintain the platform's unique flat profile;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Bi-directional onboard charging, delivering power on the go;
+--+-------------------------------------------------------------
+
+
+● | Custom developed primary electronic control units (ECUs), enabling software and hardware features;
+--+---------------------------------------------------------------------------------------------------
+
+
+● | Primary crash absorption structures, reducing the number of crash tests required to certify subsequent top hats; and
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+● | Scalable and modular electrical and network architecture, to future-proof for rapid innovation in ADAS and autonomous vehicle systems.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+Built Inside Out for Modularity and a Longer Useful Life: 
+Utilizing the platform for different use cases, we enable modularity that can be further enhanced with software and hardware accessories, to provide greater return on capital over a vehicle’s total useful life.
+Our platform was designed fully in house and without reliance on external licensing arrangements, with key features supporting modularity: 
+
+● | The platform supports dual, front or rear motor configurations capable of delivering more than 500 horsepower, based on current electric engine technology.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The platform was designed with upgradeability, service, maintenance and repair in mind to minimize total cost of ownership, extend the useable life of the vehicle and enable higher quality and customizability for 2nd, 3rd and 4th users.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Customer insights based on vehicle data and analytics.
+--+-------------------------------------------------------
+
+Enabling Maximum Interior Space: 
+EVs on the market today are designed by modifying internal combustion engine vehicle designs at the expense of space and functionality. Our platform instead optimizes the unique benefits of EV architecture with a flat design, made possible by two critical features:
+
+● | Market’s first true steer-by-wire system, enabling flexibility on positioning of the steering unit.
+--+----------------------------------------------------------------------------------------------------
+
+
+● | Composite leaf spring suspension system, which significantly lowers the vertical footprint of the chassis.
+--+-----------------------------------------------------------------------------------------------------------
+
+These design advantages create an overall flat platform architecture, maximizing usable interior space in the cabin while continuing to provide optimal ride and handling. In addition to our consumer vehicles, the platform supports a range of use cases, including pickup trucks and commercial delivery vehicles, with class-leading spatial efficiency.
+
+9
+
+
+
+Lower Cost, Faster Time to Market, and Improved Manufacturability:
+With our unique, highly modular platform architecture, we anticipate that we will be able to significantly reduce the cost and development time for future vehicle models:
+
+● | By leveraging our modular platform, we anticipate that new vehicle models can be developed in as little as 18 to 24 months.
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+● | The platform can be manufactured on an entirely independent basis, or in parallel with a vehicle top hat, which will:
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+o | Facilitate more efficient production at scale.
+--+-----------------------------------------------
+
+
+o | Provide flexibility with launching new use cases and geographies.
+--+------------------------------------------------------------------
+
+Products and Strategy 
+With the addition of seasoned public company leadership and the closing of our Business Combination and capital raise, we are able to calibrate towards long-term growth and expanding the total addressable market for our products. We are positioning to execute on our vehicle launch plans as well as continue our rapid platform research and development efforts into new vehicle types and use cases. A positive market outlook, supported by secular trends is further solidified by the new US administration’s fresh focus on EVs, sustainable mobility and infrastructure development. In addition, the continuing transition in the global automotive industry towards EVs both on the demand and supply side, offers us an incredible opportunity to lead the market with our MPP, our software-and hardware-based approach to mobility, and our unique focus on use case specific capital return across the ownership lifecycle.
+The versatility and modularity of our platform is illustrated by the multiple use cases that can be served by our vehicle lineup. Our initial upcoming vehicle pipeline currently includes the following: 
+
+● | In mid-2022, we will launch our first consumer vehicle, the Lifestyle Vehicle, offering a targeted EPA estimated range of 250+ miles, a 300 horsepower electric motor base configuration and a charging time of 20 to 80 percent in 28 minutes. Enabled by our uniquely flat modular platform, the Lifestyle Vehicle challenges the traditional notions of automotive shape and functionality, comfortably seating 7 passengers on a compact footprint comparable to a Volkswagen Golf.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The first of our series of Multi-Purpose Delivery Vehicles, the MPDV1, was announced in December 2020 and is currently expected to launch with limited production availability starting in 2022, and serial production launching in 2023. The MPDV1 is designed to cater to the needs of small businesses and last-mile commercial fleets, delivering best-in-class spatial efficiency, with over 200 cubic feet of total cargo volume, on a compact vehicle footprint ideal for easy maneuverability in urban environments. Our full lineup of Multi-Purpose Delivery Vehicles¸ which are expected to be offered in a range of length and height variations to address different market segments, are designed to be business-ready, driving productivity and offering owners a total cost of ownership profile maintenance and repair, use case specific customizable interiors, and features such as an onboard “power plant” to plug in work tools on the go.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Most recently in March 2021, we revealed the Canoo Pickup, a versatile extended cab pickup truck purpose-built for use case configurability. Built on the same multi-purpose platform as our other vehicles, the Pickup will offer performance specs designed to support professional uses cases, featuring an 1800 lb. payload capacity, single or dual motor configurations, and a targeted EPA estimated range of 200+ miles. Lined with trim and materials selected for durability, the vehicle will also offer seating configurations for up to 4 people, as well as an array of innovative features and add-ons, such a pull-out flatbed extension, integrated work and storage spaces, and charge ports, designed to help commercial and consumer customers do more with their vehicles. Pre-orders on the Pickup will be opening in the second quarter of 2021, with deliveries anticipated to begin as early as 2023 based on market demand.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+10
+
+
+
+As an emerging growth company, it is part of our core ethos to constantly innovate, and we view business transformation and growth as key factors of success. In transitioning from a private to public company, we are also working hard to mature our business by expanding our operations with recent hires of key personnel in areas such as manufacturing, software development and finance. In the coming year, we anticipate that we will broadly grow our sales and marketing efforts, evaluating the appropriate opportunities for both sales and/or subscription of our vehicles in new markets. Under the direction of our expanded public-company leadership team, we will continue build out a multi-faceted go-to-market strategy to optimize both financial return and customer experience in each of our target markets. 
+
+MARKET OPPORTUNITY
+The demand for EVs is increasing rapidly among both B2C and B2B markets. In the passenger EV market in the United States, demand is expected to grow at a 26% CAGR from 2019 to 2028, according to EVAdoption, with particularly high rates of growth anticipated within urban areas. Likewise, as companies are increasingly pressured by both regulators, consumers, and environmental, social and governance stakeholders to reduce their carbon footprint, the adoption of EVs among businesses, including commercial delivery vehicles, is also expected to see a dramatic increase, and this shift is projected to be led by the light commercial vehicle segment, a significant initial target segment for us. The demand for EV light commercial vehicles in the United States, Europe and China is expected to grow at a 33% CAGR from 2019 to 2028, according to BloombergNEF.
+B2B — COMMERCIAL VEHICLES 
+Significant Growth Anticipated in the Last-Mile Delivery Market 
+According to eMarketer, the North American e-commerce market is projected to grow at a 13% CAGR (2020 – 2022E), reaching approximately $1 trillion in scale by 2022. This has led to a comparable growth in-kind for the transportation services and logistics providers that support e-commerce. The growth and increase in efficiency of e-commerce has also resulted in a change in consumer expectations with e-commerce providers increasingly pushing from delivery of packages in two days to delivery provided within hours. This change is expected to result in an increase in demand for smaller delivery vehicles that can efficiently execute smaller volume and more frequent delivery routes. As a result, the last mile delivery market in North America is also expected to reach $51 billion in scale by 2022, riding a CAGR of 14% (2020 – 2024E), according to TechNavio. With relatively low EV penetration today, a significant growth opportunity exists with fleet owners needing to respond to the increasing pressure from consumers and regulatory bodies to reduce their carbon footprint.
+
+11
+
+
+
+While a number of EV companies have recently announced plans to produce delivery vehicles, the last mile delivery market is an entirely distinct segment and classification of vehicle differentiated from larger and midsize delivery vehicles and trucks. Last mile delivery vehicles are generally from the light commercial vehicle segment, many of which are Class 1 vehicles and operate in predominantly urban environments (thus requiring a compact size and maneuverability) with diverse use cases. Class 1 vehicles carry the same stringent regulatory and crash testing requirements required of passenger vehicles, and our platform, which is specifically designed for Class 1 vehicles and shared with our passenger vehicles, has been validated to support these crash requirements. These same crash requirements are not applicable to medium and heavy duty commercial vehicles, which therefore presents a high barrier to entry for many new market entrants who produce vehicles for these heavier commercial segments (as comprehensive crash testing requires development of an entirely new chassis, effectively started from scratch). Similarly, expertise in heavier commercial vehicle development does not directly translate to producing vehicles capable of satisfying passenger and light duty vehicle crash test requirements. Our platform has been specifically designed to support crash requirements for multiple vehicle profiles in the passenger and light duty commercial spaces. With our platform going through crash validation in the Lifestyle Vehicle program, the ability to meet full crash requirements therefore offers us a strong advantage in the last mile delivery space versus many of our potential competitors.
+Compelling EV Early Mover Opportunity
+We believe this last mile delivery segment represents an untapped market with strong demand for an attractive, flexible EV option. Further, the transition of existing and new last mile delivery fleets to all EVs is expected to be a significant trend in the short-term period, according to McKinsey. According to Bloomberg NEF, light duty commercial vehicles, such as last mile delivery vehicles, will be the first commercial vehicles to transition to electric, as compared to medium and heavy duty commercial vehicles.
+
+​
+In addition, according to Bloomberg NEF, drive trains for light duty commercial vehicles will also see the greatest surge in demand for electric drivetrains among all commercial vehicles (by a significant margin). Our development of our uniquely compact powertrain offers a future licensing opportunity in the segment.
+​
+​
+
+12
+
+
+
+A number of important factors are contributing to the trend of growth in the electrification of the light duty commercial vehicle segment. Retailers, logistics companies and other corporations are being encouraged by their customers to reduce their carbon footprints, and therefore these companies will be highly incentivized to transition their existing fleets or new vehicle purchases toward EVs. In addition, regulations in many cities, states and countries are also encouraging a shift away from — or in some cases banning — fossil fuel-powered vehicles, with many of the earliest of these regulations targeted at buses, trucks and delivery vehicles. On a national level, the Biden-Harris administration has announced plans to put the United States on a path to achieve net-zero emissions, economy-wide, by no later than 2050. The Biden-Harris administration envisions investments in infrastructure including roads, bridges and electricity grids; the auto industry to create jobs in auto manufacturing, the supply chain and electric vehicle charging stations; transit to provide for zero emission public transit options; the power sector to achieve a carbon pollution-free power sector by 2035; and innovation to drive dramatic cost reductions in critical clean energy technologies, including battery storage. In early 2021, President Biden signed an executive order that mandates the replacement of all civilian federal vehicles, over 600,000 vehicles, with U.S.-made clean and zero-emission vans, trucks and passenger vehicles; meanwhile, the administration has also announced a goal of building more than 500,000 EV chargers across the United States and has expressed its support for an expansion of federal tax credits and incentives targeted at EVs and EV manufacturing. We believe the Biden-Harris administration’s strong support for EVs and renewables will encourage an even more rapid shift from to EVs in the United States, particularly in the commercial vehicle market.
+In addition, states and local governments have begun to roll out their own legislation banning combustion engines. For example, in September 2020, Governor Gavin Newsom of California signed an executive order mandating that 100% of in-state sales of new passenger cars and trucks be zero-emission by 2035, and 100% of medium- and heavy duty vehicles sold and operated within the state be zero-emission by 2045. Fifteen additional U.S. states and Washington, D.C. have announced that they also intend to follow California’s lead in switching all heavy duty trucks, vans and buses over to running on electricity, with potentially more to follow suit in coming years. These trends are also evident in Europe and other major global markets which we are targeting. For instance, Norway has announced the ban of combustion engine sales by 2025, while Sweden, Slovenia, the Netherlands, Israel, Ireland, Iceland and Denmark have announced bans by 2030, the U.K. by 2035, Singapore, France and Canada by 2040 and Costa Rica by 2050. Washington, D.C. have announced that they also intend to follow California’s lead in switching all heavy duty trucks, vans and buses over to running on electricity, with potentially more to follow suit in coming years. 
+We are well positioned to capitalize on these macro tailwinds and market needs through an all-electric solution that offers maximized cargo volume in an efficient, urban-friendly footprint. We developed our MPDV1 by utilizing direct engineering carryover from the platform and Lifestyle Vehicle programs. We believe this has three distinct competitive advantages. First, our battery module configuration, together with our proprietary powertrain system, enable superior range efficiency. Second, our proprietary platform architecture and steer-by-wire technology allow for multiple cabin configurations and superior interior space for storage, while also allowing for support of greater cargo capacity relative to the vehicle’s dimensions. Finally, our platform and the MPDV1 were designed and engineered with durability and ease of service and repair in mind, which is a necessity for driving conditions in the commercial vehicle market and a key determinant of a vehicle’s residual value.
+
+13
+
+
+
+B2C — PASSENGER VEHICLES
+Highly Attractive Passenger EV Market in the United States
+According to Bloomberg NEF, global sales of new passenger EVs are expected to grow from 2.7% of total vehicle sales in 2020 to 10% and 58%, in 2025 and 2040, respectively. Consumers, facing the growing threat of climate change and becoming more confident in improved EV range and the broader expansion of EV charging infrastructures, are increasingly looking to an EV as their next vehicle. Consumers in urban areas, in particular, have shown the highest levels of demand.
+​
+​
+Demand for passenger EVs in the United States, specifically, is expected to rapidly grow at a 26% CAGR (2019 to 2028) and reach over 3 million EVs on the road by 2028, according to EVAdoption. Significant upside in the passenger EV segment remains as the penetration of EVs in the United States as a percentage of total annual passenger vehicle sales is expected to still be under 3% in 2022, according to data from Bloomberg NEF, presenting substantial growth prospects for our passenger vehicle offerings. California’s outsized market share and EV-friendly customer base offer a unique opportunity for an initial EV product rollout. 
+Battery and battery-related costs comprise the most expensive components of an EV, and according to Bloomberg NEF, the falling lithium-ion battery price is the most important factor affecting EV penetration in the future. Average lithium-ion battery price has fallen by 87% to $156/kWh from 2010 to 2019, and Bloomberg NEF data shows that the cost of lithium-ion batteries is expected to fall as low as $61/kWh by 2030. It is expected that the falling battery price will allow EVs to reach initial vehicle price parity with comparable internal combustion vehicles by mid-2020s in most segments.
+​
+​
+The scalable design and modularity of our platform reinforces the ability to introduce a variety of B2C focused vehicle cabin configurations at lower development costs while accelerating our go-to-market timing. Our initial and future B2C vehicles, built on top of our platform, present a strong opportunity to capitalize on significant demand for passenger EVs. 
+
+14
+
+
+
+PRODUCT OFFERINGS
+Our product strategy is underpinned by a use-case driven approach focused on delivering productivity to our customers. With an emphasis on designing and engineering feature sets that satisfy specific and individualized customer needs, we believe we can build a unique and differentiated brand proposition. Further, our focus on modularity, on both the hardware and software levels, will empower the 2nd, 3rd and 4th users of the vehicle to customize and connect with their automobiles. We think this approach will build long-term brand value and maximize the utility of an EV platform, which fundamentally offers lower wear and tear with significantly fewer mechanical components. Above all, our customers will benefit from a lower and highly competitive total cost of ownership. 
+We have established a multi-faceted go-to-market approach targeting both multiple different use case and market opportunities, substantially expanding our total addressable markets and access to growth avenues, while diversifying our business and revenue profile. Our flexible strategy is uniquely underpinned by our versatile Multi-Purpose Platform, which minimizes new development expenditures and engineering costs, and can be leveraged to capitalize on demand opportunities for multiple use cases and applications by more efficiently allocating capital to meet market demand.
+​
+​
+MULTI-PURPOSE DELIVERY VEHICLE
+We will leverage our modular platform with our existing powertrain, electrical architecture and thermal system to produce B2B delivery vehicles for small businesses and the last mile delivery segment. These customers may include independent contractors, service technicians, retailers, large corporations, logistics companies, or fleet managers, among others. 
+Last mile delivery vehicles operate in predominantly urban environments (thus requiring a compact size and maneuverability) and their use cases are more diverse. Importantly, last mile delivery vehicles, which fall under the light duty commercial vehicle segment, also carry the same stringent regulatory and crash testing requirements required of passenger vehicles. Our platform has been specifically designed to support crash requirements for multiple vehicle profiles in the passenger and light duty commercial spaces. With our platform going through crash validation in the Lifestyle Vehicle program, the ability to meet full crash requirements therefore offers us a strong advantage in the last mile delivery space among many of our potential competitors. 
+Further, with our proprietary flat architecture, delivery vehicle top hats on top of our platform are expected to offer class-leading cargo volume on a small footprint ideal for making deliveries in crowded or narrow urban streets and alleyways. Leveraging this spacious interior volume and the modularity of the platform, we are well positioned to offer multiple different commercial vehicles in less time and on a cost-competitive basis. Our true steer-by-wire design, an industry first, also allows us to easily adjust seating positioning in different cabins, as well as seamlessly integrate right-hand drive in applicable jurisdictions. Through this innovation, we have positioned ourselves extremely well to address the massive growing need for fully electric delivery vehicles aided by legislative tailwinds that will increasingly bar gas engine delivery vehicles from the world’s cities over the next decade. 
+
+15
+
+
+
+The result of tailoring our platform for small businesses and the last mile delivery market is our Multi-Purpose Delivery Vehicle program, specifically the MPDV1, which we revealed in December 2020 with an estimated limited production availability in 2022 and estimated serial production launch in 2023. Our MPDV1, our smallest Multi-Purpose Delivery Vehicle, is expected to offer leading spatial efficiency, offering up to approximately 6.0 cubic meters of cargo volume on a compact 4.6 meter footprint, ideal for operation in tight urban environments and small business uses and offering a greater potential return on capital for customer. 
+Our Multi-Purpose Delivery Vehicle lineup is also being developed to be offered in a range of length and height variations to address different market segments. Unique body design for cabins built on our platform can be modified as required to facilitate dimensional, performance and cost requirements.
+​
+​
+We are also in discussions with certain large OEMs who wish to enter the space but who focus primarily on medium or heavy duty commercial vehicles. The stringent crash requirements applicable to light duty vehicles are not applicable to medium and heavy duty commercial vehicles, which therefore presents a high barrier to entry for many new market entrants who produce vehicles for these heavier commercial segments and wish to enter the light duty vehicle segment (as comprehensive crash testing requires development of an entirely new chassis, effectively started from scratch). Similarly, expertise in heavier commercial vehicle development does not directly translate to producing vehicles capable of satisfying passenger and light duty vehicle crash test requirements.
+PICKUP
+In March 2021, we revealed the development of our all-electric pickup truck, with deliveries currently estimated to begin as early as 2023 based on market demand. The Canoo Pickup is an extended cab vehicle, offering performance specs to support professional use cases. The vehicle utilizes our proprietary platform to offer maximum space on a small footprint, with dual and rear motor configurations, a targeted EPA estimated range of 200+ miles, up to 550 lb.-ft of torque, and an 1800 lb. payload capacity. Lined with trim and materials selected for durability, the vehicle will offer two seats in the front with a customizable rear compartment that can accommodate two additional seats or support additional purpose-built use case configurability.
+
+16
+
+
+
+Our Pickup was purpose built to be versatile and incorporate an array of innovative features, designed to help commercial and consumer customers do more with their vehicles, including: a pull-out bed extension (expanding the truck bed from six feet to eight feet), integrated worktables in the front and bed of the vehicle, a bi-directional onboard charger and multi-accessory charge ports to charge customer’s work tools and devices, numerous spaces for cargo storage, advanced lighting, durability and stability to support safe operation of the vehicle, and integrated tow hooks and metal skid plates. A wide variety of accessories, such as optional roof racks, camper shells, and modular bed dividers and stowage solutions will also be made available so that customers can customize the Pickup to their particular needs, whether you use it for work or adventure.
+​
+​
+LIFESTYLE VEHICLE
+Our Lifestyle Vehicle is the result of a completely re-engineered vehicle design, eliminating wasted space throughout the vehicle and providing exceptional utility to the user. By capitalizing on EV architecture, our lifestyle vehicle eliminates compartmentalization and manifests an impression of “an urban loft on wheels.” Featuring more interior passenger volume than a large SUV and an exterior footprint comparable to a VW Golf, the Lifestyle Vehicle accommodates space for seven people. Preliminary specifications for the lifestyle vehicle include a targeted 250 mile EPA estimated range, fast charge time of 28 minutes from 20% to 80% capacity, seven seats and a 300 horsepower rear wheel drive electric motor. Our Lifestyle Vehicle was publicly unveiled in September 2019 and was met with widely positive reception by both media coverage as well as the general public. 
+Designed to offer a bold and new experience, our Lifestyle Vehicle is all about maximizing space and comfort for the consumer. The extensive glass coverage and visibility provides an airy, uncluttered experience for all passengers. The vehicle effectively delivers an additional living space for the consumer with bench seating and a spacious interior. Further, with autonomous driving becoming more prevalent, there will be more use cases inside the vehicle, as autonomous driving eventually negates the need for a driver’s seat altogether. This additional interior space also enables a more comfortable ride for passengers, more room for entertainment and lounging, and increased storage.
+
+17
+
+
+
+Each customer is expected to have various options to make the Lifestyle Vehicle feel like their own unique vehicle, including the potential for a customer to “wrap” their vehicle in custom skins and a novel pegboard system that offers a fun way for users customize the sidewall with various options and accessories that will be offered by us or licensed third parties.
+​
+​
+This ability to uniquely customize the exterior and interior will make each Canoo vehicle feel purpose-built for each customer and feel “new” irrespective of actual vehicle age. Customization for each consumer empower the 2nd, 3rd and 4th users of the vehicle to personalize their automobiles, increasing satisfaction as well as resulting in an increase in residual value. Wraps and accessories can also provide an important additional revenue stream for us, as well as a unique opportunity for customer acquisition through potential product customization for small and large business alike. 
+The Lifestyle Vehicle takes advantage of the interior space offered by our platform by incorporating an interior unlike anything available on today’s market. All seating is designed to look and feel more like furniture instead of traditional car seating. The rear seats have been designed similar to a lounge sofa and the front seats take inspiration from mid-century modern chairs, creating a relaxing living room atmosphere. 
+The Lifestyle Vehicle will also feature true steer-by-wire technology, a minimalist concealed infotainment panel, seamless mobile phone and device connection and over the air vehicle software updates. The Lifestyle Vehicle will also feature Level 2.5 Advanced Driver Assistance Systems, or ADAS, with compatibility for more advanced levels of autonomy; rather than betting on a particular technology/provider, the vehicle is uniquely integrateable with third party next-gen autonomy sensors and software, positioning the vehicle to be able to evolve and adapt to the next generation of automotive technology. 
+The Lifestyle Vehicle will be our first vehicle to start production and is targeted for a mid-2022 launch. In just 19 months, we were able to develop a fleet of 13 advanced drivable Lifestyle Vehicle prototypes, and we have validated our platform and Lifestyle Vehicle engineering and design for production with over 70 physical crash tests performed to date. 
+
+18
+
+
+
+FUTURE PRODUCTS AND MARKET OPPORTUNITIES
+New Vehicle/Segment Offerings
+We believe that our modular platform architecture offers us a significant competitive advantage by enabling lower development costs, accelerated commercialization timing and the efficient allocation of capital. In addition to our announced vehicle configurations, we are actively exploring other vehicle opportunities, such as:
+
+● | New vehicles segments, such as sedans, SUVs, luxury and performance vehicles, among others;
+--+--------------------------------------------------------------------------------------------
+
+
+● | Special purpose fleet applications (universities, corporate campuses, airports, etc.);
+--+---------------------------------------------------------------------------------------
+
+
+● | Government services and municipal transit fleets; and
+--+------------------------------------------------------
+
+
+● | Ride-sharing or shared mobility applications
+--+---------------------------------------------
+
+Rapid Innovation Team:
+Canoo’s recently developed Rapid Innovation Team is a cross-disciplinary team that was established to rapidly develop and assess new product concepts for commercial viability and engineering feasibility. 
+Before a major investment of time and capital, a series of quick but thoughtful sprints take a project to what is called the “zero line,” in order to gain human and financial resource support from the rest of the Company and take the idea from potential product to probable viability. 
+
+● | The process is structured in three-to-six-month sprints, the ultimate output of which is typically a full CAD package and drivable prototype, ready to progress to industrialization and commercialization phases.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Each sprint is structured as a competitive process in which three or more product and design teams separately generate concepts responding to the identified market opportunity, driven by input from our product planning and corporate development teams.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Sprints proceed along a process of natural selection, where at pre-defined milestones, teams present to cross-department committees, who then select top ideas, disband resources assigned to losing ideas, and reallocate resources or approve additional capital toward winning concepts to strengthen the teams for the next phases. Losing ideas are archived for future use or application of the underlying intellectual property for other applications that are better suited.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Key phases in the process include: (i) product definition; (ii) use case development; (iii) photoreal visualization; (iv) engineering input and early feasibility evaluation; and (v) manufacturing, serviceability, quality, and aftermarket diligence. 
+Our management team, product planning and corporate development functions can each trigger the Rapid Innovation process upon identification of a potential market opportunity. Through our Rapid Innovation Team, we are able to quickly develop new products and vehicle configurations, efficiently create product roadmaps and evaluate feasibility, and redeploy capital efficiently to take advantage of new market opportunities.
+Attractive Future Market Opportunities:
+President Biden’s announcement of plans to replace the U.S. government’s fleet of cars in trucks with electric vehicles offers a clear opportunity for additional demand for multiple different kinds of vehicle types and use cases. State and municipal government demands and needs are likely to follow with continued regulatory support for the transition of government fleets to EVs. 
+
+19
+
+
+
+With Uber and Lyft recently announcing their intention to have all vehicles offered through their platforms be electric by 2030, the need for EVs suited to ride-sharing applications is clear. An EV that can offer maximum space on a small footprint is well suited to meet the demand for more passenger space in combination with maneuverability in urban driving.
+We expect that we will be very well positioned to take advantage of these additional B2B opportunities as well as others as they arise because our core platform provides unique flexibility as well as opportunity for customization for specific use cases faster and at lower cost. In addition, importantly, the vehicles required for many of these applications, particularly in ride-sharing, will benefit from the attributes already engineered into our Lifestyle Vehicle, because it:
+
+● | is purpose-built for urban driving;
+--+------------------------------------
+
+
+● | provides a unique and exceptional passenger centric experience (with seamless mobile phone/app integration);
+--+-------------------------------------------------------------------------------------------------------------
+
+
+● | maximizes interior space to accommodate larger groups or cargo;
+--+----------------------------------------------------------------
+
+
+● | affords easy in/easy out access;
+--+---------------------------------
+
+
+● | can be customized through the use of “wraps,” pegboard accessories and other features;
+--+---------------------------------------------------------------------------------------
+
+
+● | may facilitate flexible lease or subscription options, which includes ease of refurbishment and cleaning;
+--+----------------------------------------------------------------------------------------------------------
+
+
+● | incorporates timeless design and a consistent “newness” factor;
+--+----------------------------------------------------------------
+
+
+● | is built to reduce ongoing repair and maintenance costs; and
+--+-------------------------------------------------------------
+
+
+● | provides enhanced vehicle durability and longevity.
+--+----------------------------------------------------
+
+We also believe that our team also has the engineering expertise, in combination with our high-performance proprietary powertrain technology, to develop a unique platform for larger commercial vehicles and we are actively exploring the opportunity. In the future, we also expect to launch a larger variant delivery vehicle that will be in the class 3 truck category.
+Autonomous Vehicle Development 
+Another area of opportunity is the rapidly developing industry for autonomous driving and related technology. The world’s largest technology and automotive companies are engaged in large-scale projects related to autonomous driving initiatives and other future mobility projects. According to AlixPartners, an estimated $75 billion is projected to be deployed between 2019 and 2023 on autonomous driving development. Autonomous driving and related technologies represent an ideal opportunity for our platform, which utilizes our true steer-by-wire system and is purpose built with the electrical and computing infrastructure needed for seamless integration with advanced autonomy systems as they evolve. Our platform is designed to allow autonomous vehicle technology companies to easily integrate their hardware suites and software stacks, facilitating rapid development and commercialization efforts. We believe that establishing and fostering these partnerships now will open the door for strong future revenue opportunities. We are already actively establishing these connections and exploring these opportunities with potential partners who we believe are well positioned to be the future leaders in the autonomous technology sector. 
+
+20
+
+
+
+Engineering and Technology Partnerships
+Our technology portfolio and engineering expertise may offer a unique opportunity to generate additional streams of revenue. We expect to pursue these opportunities when in alignment with our business goals, efficient allocation of our time and capital resources and the protection of our intellectual property. There is a significant market for engineering and technology partnerships among legacy OEMs who lack the expertise to develop an electric powertrain at the pace needed to capitalize on the rising regulatory requirements and global demand for EVs. We are at a distinct competitive advantage to capitalize on this growing demand. In fact, whereas other new EV entrants are forced to license key technologies and/or outsource primary engineering development to larger OEMs, we have already received significant OEM interest in our platform architecture, underlying technologies and our team’s expertise in platform engineering, powertrains and vehicle design. Our in house-designed components also present an opportunity for additional revenue as the demand for modifying existing ICE vehicles and designs for electrification increases in order to meet ambitious targets and mandates set around the world for electrification. This experience and advanced progress have garnered the attention of prospective collaboration partners, including leading global automotive OEMs. In February 2020, we entered into an agreement with Hyundai Motor Group to co-develop a future EV platform based on our modular and scalable platform technology, providing further validation of our technical leadership. 
+SALES AND DISTRIBUTION STRATEGY
+Our mission is to bring electric vehicles to everyone. We are building an accessible product to make all of our customers – whether commercial or consumer – more productive. Our goal from a sales and distribution strategy is to provide a frictionless experience that puts our products in the hands of customers seamlessly and efficiently, in the manner that works best for their lifestyle and purchasing habits. In doing so, we are exploring a multi-pronged and data-driven approach. 
+Sales. We expect to offer direct sales for fleets and volume orders. In select regions, we are also exploring sales of commercial and consumer vehicles through alternative distribution channels, including existing franchised dealerships, third-party vehicle showrooms and online sales aggregators, which may offer access to existing markets and sales channels, reduce capital expenditure, and allow for more rapid and seamless expansion to new markets, both urban and non-urban. 
+Subscriptions. Our vehicle subscriptions, in the markets where we offer them, will present consumers with a month-to-month and commitment free, alternative to vehicle ownership, similar to a flexible lease.
+In addition, we plan to where possible leverage third-party service and maintenance, whether through independent service providers or dealer networks, so owners of our vehicles can receive fast and seamless service wherever they are. As a technology-forward company, much of our maintenance will be done via over-air software updates. Our customer journey software will ensure that throughout the course of a vehicle’s life, from production and delivery to its first drive and service visit, each event is recorded so that the owner has the most up-to-date and accurate information. 
+We also anticipate that a significant future revenue channel for us will be sales and licensing of secondary market or aftermarket products, such as vehicle accessories, wraps, and other customizable add-ons. Through thoughtful design choices, such as our unique vehicle peg boards which can be accessorized with any number of attachments and fastenings for add-ons such as roof racks, additional storage and even a camper, our vehicles have been purpose-built to be modular and customizable, so that each customer, even downstream customers, will have the chance to personalize the vehicle for their own uses or aesthetic preferences. We anticipate that both direct and third-party partners, such as dealerships, will also support our customers for purchase and installation of our growing catalog of secondary and aftermarket products.
+
+21
+
+
+
+COMPETITIVE STRENGTHS
+Proprietary EV Platform
+We have designed what we believe to be the world’s most modular, flattest, production-ready EV platform, the Multi-Purpose Platform, or MPP, purposefully engineered to provide maximum passenger and cargo space on a small vehicle footprint. The platform’s modularity supports a wide range of vehicle applications and use cases. With a single platform, we expect to be able to enable the production of our Lifestyle Vehicle, MPDV1, Pickup, and sport sedan, among other additional vehicle variants. By using one interchangeable and uniquely versatile platform as the foundation for multiple vehicles, we expect to reduce both time and expense in research and development, testing and manufacturing, thereby enabling us to develop and scale future vehicle programs faster and at a significantly lower overall cost. In addition, by allowing us to much more rapidly develop and bring new products to market, our platform architecture will enable us to more efficiently allocate capital to meet current and evolving areas of demand and margin opportunities. 
+Notably, our team also has the in-house capabilities to design and engineer innovative top hats, developed for seamless integration with our core EV platform. We believe our capacity to develop vehicle top hats, with an expert team focused on manufacturability and execution, will afford us a competitive advantage for rapid development and scaling of our own current and future vehicle programs. 
+Cost-Effective and Proven Technology
+As a relatively new entrant to the EV space, we were able to forge our go-to-market strategy without the engineering constraints and bureaucracy often ingrained in traditional OEMs. At the same time, our world class management team has an established record of successfully designing, engineering and launching vehicles and technology products at scale. The culmination of these aspects resulted in developing technology not only tailored to the needs of EVs but also designed with scalability and affordability in mind. Poor engineering choices and inefficient manufacturing processes have impacted the affordability of the EVs that certain competitors have brought to market, which we believe limits market penetration and platform optionality. We have lowered the cost of bringing new vehicles to market by leveraging our proprietary architecture in order to reduce the vehicle’s bill of materials and simplify manufacturing processes, ultimately translating to more attractive pricing for our customers and a wider addressable target market in both the mid- and premium- tiers of the consumer and commercial vehicle markets.
+Since our inception, we have demonstrated an ability to consistently deliver on major commercial milestones with tangible development progress and results. To date, we have successfully designed and developed initial prototypes for four different vehicles. We successfully designed, developed and produced a Beta prototype of our first vehicle, the Lifestyle Vehicle, within 19 months and with an investment of approximately $250 million, a process that could take three to five years and require billions of dollars for some of our competitors or traditional OEMs to undertake. Since then, we have grown our Beta fleet to 32 properties and 13 drivable prototypes incorporating our platform and we have completed over 70 physical crash tests validating the accuracy and utility of our predictive computer-aided engineering (“CAE”) crash modeling. Our engineering team was able to achieve this industry leading speed and efficiency because of work borne out of a culture of rapid collaboration as well as years of EV-specific engineering experience. The team has now moved into Gamma development, putting us one step closer to bringing our first vehicle to market. 
+Our success has quickly garnered the attention of prospective customers, including leading global automotive manufacturers. In February 2020, we entered into a strategic partnership agreement with Hyundai Motor Group to co-develop a future EV platform based on our modular and scalable platform technology, providing external validation of our technical leadership.
+Intellectual Property Portfolio 
+We have significant in-house capabilities in the engineering and development of EVs, vehicle components, electronics and software. Our research and development efforts have resulted in a strong intellectual property portfolio, and we have filed for patent protection on numerous of our key inventions, including the platform and critical powertrain, suspension and battery technologies, among others. In addition, we also have a world-class in-house vehicle design team capable of producing bold and innovative new vehicle designs to cater to the modern EV consumer. 
+
+22
+
+
+
+TECHNOLOGY
+Our Technology
+Our core technological competencies are platform engineering, powertrain engineering, software engineering, connected vehicle engineering and enhanced vehicle manufacturability. 
+The Multi-Purpose Platform— A Modular EV Platform
+We have designed what we believe to be the world’s most modular, flattest production-intent EV platform, purposefully engineered to provide maximum passenger and cargo space on a small vehicle footprint and modular to support a wide range of vehicle configurations and use cases in the consumer and commercial markets. All of our EVs will be able to share the same core platform and utilize different cabins, or top hats, that can be married on top to create unique vehicle lines.
+Overall Platform Architecture
+The remarkable utility and modularity of our platform is enabled by a number of key technological advancements and critical design decisions made by us, providing distinct advantages over competitor offerings:
+All Critical Vehicle Components Integrated Into a Compact Platform: Our proprietary platform architecture directly houses all of the most critical components of an EV, including the market’s first true steer-by-wire platform, a composite leaf spring suspension system, an advanced fully electric drivetrain, a proprietary battery compartment and battery thermal management systems, power electronics, primary electronic control units (ECUs), crash absorption structures our bi-directional charger and autonomous driving components, among others. Each of these component systems has been engineered not only for optimal performance but also for efficient packaging into our compact platform, with a strong emphasis given to functional integration, meaning that all components fulfill as many functions as possible. This has reduced the total number of parts, platform size and weight, ultimately providing for more useable interior space in the vehicle cabin and a more overall cost-effective EV offering.
+A Highly Modular, Fully-Functional Rolling Chassis: Unlike other EV technologies on the market, our platform is a self-contained, fully functional rolling chassis, designed to support a broad range of vehicle weight and ride profiles and is even capable of operating independently offering a flexible range of commercial and consumer vehicle configurations. The platform supports dual, front or rear motor configurations and is capable of achieving a range of over 300 miles. This highly modular platform, we believe enables us to rapidly develop vehicles serving different market segments faster and at reduced cost, as the majority of research and development and a significant portion of crash structure is integrated into the platform design. Further, the platform was engineered for optimal production flexibility, and can be manufactured on an entirely independent basis, or in parallel with a vehicle top hat, a considerable innovation in design that reduces complexity in assembly and will facilitate more efficient production at scale. By leveraging our modular platform, along with our efficient design and production process, we anticipate that new vehicle models can be developed in as little as 18 to 24 months. 
+Enabling Maximum Interior Space: Without an internal combustion engine, EVs have little need for a traditional engine compartment and yet, nearly all competitor vehicles on the market today have failed to innovate in this area and continue to employ conventional vehicle designs at the expense of space and functionality. Bucking this trend, our platform takes advantage of the unique benefits of EV architecture with a flat design, made possible, in part, by two critical features, our true steer-by-wire and composite leaf spring suspension systems, each described in greater detail below. 
+Small Footprint, Ideal for Urban Markets: The dimensions of our platform have been selected to suit the needs of most typical light duty vehicle types. Sitting on a track and wheelbase smaller (and shorter bumper to bumper) than a Tesla Model 3, the Lifestyle Vehicle will be able to comfortably seat 7 with a total passenger volume of approximately 188 cubic feet. The very same platform, sitting on the same track and wheelbase, will be able to support a range of models of delivery vehicles, with total currently anticipated cargo volume of up to 13 square meters. This compact design provides for greater space efficiency, and enhanced maneuverability in urban environments.
+
+23
+
+
+
+True Steer-by-Wire
+Our platform will allow for the first true steer-by-wire vehicles on the market, eliminating the need for mechanical connections between the steering wheel and the pedals in the passenger compartment, and the wheels and braking systems located in the chassis. Steering, braking and acceleration of the vehicle will be performed entirely through electrical signal, and our system has been designed to be fully redundant (in hardware and software), ensuring continuous safe operation. 
+Our advanced steer-by-wire system is a critical part of our platform design and offers a number of significant advantages in vehicle design, engineering and safety. By eliminating the steering column, we are able to adjust the placement of the steering wheel to suit any cabin design and driver positioning, including to seamlessly integrate right-hand drive in applicable jurisdictions. In the Lifestyle Vehicle, for instance, this allowed us to position the driver further forward than is possible in a traditional internal combustion vehicle, thereby significantly opening up the vehicle interior on a comparatively small footprint. In our other vehicles designed around the same core platform, the steering wheel can be locatable anywhere in the vehicle cabin, offering greater design freedom and modularity. 
+True steer-by-wire technology offers weight savings and safety advantages. Eliminating the steering column removes a common source of serious injury in frontal collision. The technology also offers the opportunity to provide customers with a more responsive and smoother driving experience, which we are able to customize for different vehicles and driver preferences, as well as adapt to different driving conditions through software. Lastly, true steer-by-wire (specifically, our proprietary architecture in which all steering, braking and throttle functions are controllable via a secure, redundant communication framework) is essential for our longer-term vehicle strategy, paving the way for advanced autonomous driving wherein a mechanical steering column will no longer serve a central function. 
+Leaf Spring Suspension System
+Our platform incorporates a variable leaf spring suspension system offering advantages both in terms of vehicle design and modularity. Most EVs on the road today continue to employ large conventional strut towers, coil springs and dampeners — a legacy of internal combustion engine design — that intrude into the cabin and effectively constrict the vehicle’s useable passenger space to the limited area between the front and rear suspension towers. By contrast, our platform incorporates two composite fiberglass leaf springs, mounted transversally in the front and rear of the platform. With the aid of other compact suspension components, our leaf spring suspension allows the entire suspension package to sit below the height of the tires.
+These design advantages create an overall flat platform architecture, maximizing usable interior space in the cabin while continuing to provide optimal ride and roll support. The flat suspension allows for approximately 30% to 40% more interior space compared to a traditional passenger vehicle architecture of the same length. It also reduces the number of suspension parts needed in the platform, thereby reducing component cost and mass. 
+Importantly, our proprietary suspension system is also designed to be easily tunable to support a diverse range of additional vehicle weight and ride profiles. This modularity is critical to enabling the platform to perform optimally for multiple vehicle types. 
+Powertrain Systems
+We have developed a complete set of high-performance powertrain systems ideally suited for our modular vehicle architecture. 
+Advanced Drivetrain Systems
+Our electric drive unit includes a proprietary motor, gearbox, traction inverter and control software. We developed all of our powertrain systems in-house and believe we have made several important advancements. Our drive unit utilizes a proprietary interior permanent magnet motor developed to provide the highest efficiency throughout the vehicle usage spectrum.
+
+24
+
+
+
+Our drive units are integral to our modular platform development strategy, and are also distinct from our competitor offerings, in that they offer a future-forward, fully integrated design that can be utilized efficiently across multiple of our platforms and vehicles. Our platform is designed to accommodate single or dual electric motors. The rear primary unit is designed to deliver a maximum 220 kilowatts of power (300 horsepower) and 450 Newton meters of torque, and the front unit is designed to deliver a maximum 150 kilowatts of power (200 horsepower) and 320 Newton meters of torque. Efficiency of the motors is designed to peak at 97% which is optimized for urban driving environments.
+Battery and Battery Management Systems
+Multiple proprietary battery technologies are incorporated into our platform, including a unique battery enclosure architecture, in-house developed battery modules optimized for low cost and high energy density, thermal management technology and battery management systems. 
+Battery Compartment
+We believe a core distinguishing feature of our platform design is the elimination of a separate battery enclosure which is found in nearly all competitor vehicles. Rather than placing our battery modules into an enclosure that is then sealed and placed into the chassis, our battery modules are packaged directly inside the platform structure. This provides a number of critical advantages, including cost optimization, space savings that allow for a higher level of functional integration of components in the platform and significant reductions in mass, which each in turn improve vehicle range. A number of battery-related safety features are integrated in the platform architecture, including a high-strength steel platform frame and innovative crash features, such as a proprietary hollow-can crumple zone designed to protect the battery during side collision events. Our unique battery compartment design also makes it possible for us to easily service the battery at the cell level and helps ensure long-term safety and performance.
+Battery Cells and Thermal Management
+The design of our battery systems has focused on reducing the cost per unit of energy stored to a targeted best-in-class value, while maintaining performance, safety, reliability, durability and longevity. This is achieved through the use of high energy density, low cost commoditized cylindrical cells, high manufacturing throughput and capital efficient assembly process, as well as the avoidance of exotic materials and processes in the design of the battery system.
+Thermal management of the battery cells and modules is critical to ensure peak performance of the battery systems and enable battery safety. We have developed a proprietary liquid-cooled battery thermal management system that provides a very low thermal impedance between the battery cells and the coolant, allowing very high continuous power in both charge and discharge modes of operation. We also conduct extensive testing at both the cell and module levels to reduce common issues with battery thermal runaway that have traditionally plagued battery manufacturers. 
+We have built a state-of-the-art battery cell/module/pack laboratory and pilot build line at our facility in Torrance, CA. Our battery team includes decades of advanced automotive battery experience and subjects our battery designs to a full gamut of testing meant to ensure that all requirements for performance, lifetime and safety are achieved.
+Battery Management System
+Our in-house developed proprietary battery management system incorporates voltage, temperature and current monitoring functions to monitor battery condition and protect the battery pack in the event of any hazard. Battery performance is monitored in real time and the information gathered is used not only for onboard diagnostics but also transmitted to the cloud for powerful data and trend analysis. The performance of all our battery systems can be used to improve battery performance, perform predictive analytics and improve battery software for other vehicles in our fleet using over-the-air (“OTA”) update capabilities.
+
+25
+
+
+
+Support for Fast Charging
+Our platform battery pack is anticipated to support “DC fast charge” (and support high discharge power both in peak and continuous operation). We can use the standard CCS (North America/Europe) and GB/T (China) charging protocols and can easily adapt our charging system to any commercial operator network. An 80 kWh battery pack, standard on our Lifestyle Vehicle, will be able to reach an 80% charge from 20% in 28 minutes. 
+Electrical Systems Architecture and Vehicle Controls
+We developed our electrical systems architecture with a focus on innovation, efficiency and compatibility. Our robust electrical systems are designed to maximize performance efficiency, while meaningfully reducing overall system complexity and weight. We integrate components for high voltage power distribution into the functional platform, including the DC-DC converter and bi-directional onboard charger, and our power systems architecture is supported by two fully redundant low voltage buses, ensuring fail-safe operations across vehicle operations. 
+Our primary vehicle functions are managed by our powerful ECUs, which compute and process controls for the powertrain, battery, power management, body cabin, and safety systems, among other areas. Our ECUs have been designed to simplify our domain networks, reducing weight and costs due to fewer electrical wires, harnesses and hardware componentry. Our architecture consolidates our domain functions across 15 core ECUs, compared to electrical systems of modern-day luxury vehicles, which can easily incorporate over 150 ECUs. All of our ECUs support OTA updating and data collection via our proprietary hardware and software stack.
+ADAS, Software and Connected Vehicle Technologies
+Market-Leading ADAS Features
+Our vehicles are designed to offer advanced ADAS features. The Lifestyle Vehicle will feature level 2.5 autonomy at launch, integrating both ADAS and in-vehicle driver monitoring and alert features (“Driver Monitoring System”). The Lifestyle Vehicle’s ADAS systems at launch are expected to include: (i) active driving controls, such as automatic emergency braking, adaptive cruise control, automatic steering control, automatic lane change and predictive pedestrian protection; (ii) alerts and warnings, such as blind spot monitors, collision warning, lane departure warning, front and rear cross-traffic alerts, hands off wheel detection and traffic sign recognition; and (iii) parking assistance features, including automated self-park, supervised remote park and a virtual bumper to prevent common parking lot accidents. Meanwhile, our Driver Monitoring System is intended to enhance the overall effectiveness of our vehicles’ ADAS warnings. Our proprietary Driver Monitoring System also utilizes state-of-the-art eye gaze tracking and machine learning to track a driver’s focal point and attentiveness to deliver an alert only when most needed, e.g., when a driver is looking in the wrong direction, has ignored prior warnings or is falling asleep. 
+The Lifestyle Vehicle utilizes a class-competitive suite of ADAS sensors, consisting of 7 cameras, 5 radars, 6 ultra-short-range radar-based sensors and enhanced geolocation features, including:
+
+● | A full suite of automotive-grade 2MP cameras providing surround-view images to the perception system and using deep learning algorithms to perceive the world around the vehicle.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The latest generation millimeter wave radars providing 360 degrees of sensor data for speed and distance measurement of objects.
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Ultra-short-range radar sensors providing short range distance measurements for parking maneuvers with higher speed and accuracy compared to ultrasonic technology, enabling finer control in tight spaces. We expect to be one of the first mass production implementations for this technology.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Geolocation, in conjunction with an inertial measurement unit, enabling precise location accuracy (within approximately 1 meter) to support lightweight maps in conjunction with ADAS.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We will also utilize OTA updates to collect data and send continuous improvements to our ADAS software. As a result, our vehicle ADAS systems will be kept fresh over the entire lifetime of the vehicle.
+
+26
+
+
+
+A Vehicle Fleet Built for Advanced Autonomy
+Our ADAS strategy is intentionally forward-looking and cost-deliberate. For example, while LiDAR is not currently included, the Lifestyle Vehicle has been designed with the hardware, electrical architecture and space needed to later incorporate LiDAR for advanced levels of autonomy. We have also taken a similar approach from a software perspective. While we have developed all of our level 2.5 ADAS application software in-house, in keeping with our asset-light philosophy, we are not currently placing a focus on in-house development of level 4/5 autonomous driving software, which we intend to acquire in the future through licensing and strategic partnerships as autonomous software capabilities and the regulatory landscape around full autonomy continue to advance.
+For most OEMs, the integration of advanced autonomous solutions will be an extremely complex and cost-intensive process, requiring new interface with the brakes, steering, transmission, body controls and vehicle control features, which need to be coordinated across different vehicle engineering teams and sourced through new and specialized suppliers. In contrast, each of our vehicles have been specially designed to allow for the seamless integration of the higher capability sensors and compute platforms necessary for full autonomy to be easily incorporated. We have achieved this through a number of innovative engineering choices:
+Our ADAS architecture is modular in that all of the features are controllable via a central ADAS domain controller, which serves as an upgradeable AI control module to allow for continuous improvement and machine learning in our ADAS systems. This also enables us to incorporate improved sensor technology and advanced ADAS feature sets in the future with minimal changes to our firmware. 
+We specifically designed the platform’s electrical and network architecture to support the power and communication requirements necessary for advanced sensors and processing needed for advanced autonomous driving. Our unique board-net architecture is designed to provide secure shared communication amongst all of the vehicle ECUs, allowing our current ADAS systems (or a more advanced autonomy system) to control all of the vehicle features; meaning that our ADAS system will be able to control not only the powertrain, but also the lights, windows and infotainment system. These core ECUs, communications architecture and backend software infrastructure make the platform capable of supporting level 4 and 5 autonomous vehicle operations. 
+In addition, the inclusion of true steer-by-wire will ensure that our vehicles are uniquely compatible with third-party ADAS software, as the steering, braking and throttling of the vehicle are controllable without a mechanical interface to the vehicle cabin. 
+Connectivity and OTA
+Connectivity Architecture
+Our approach to vehicle connectivity is guided by an internet-of-things (IOT) philosophy. As part of each vehicles’ connectivity infrastructure, we have provided for several key features: GPS, LTE or better wireless signal communication, Wi-Fi connectivity and Bluetooth (including Bluetooth Low Energy, which enables secure phone-to-vehicle communications and digital key fob). Each of our vehicles will be accessible and operable via a driver’s mobile device, and our digital key sharing system allows for remote access transfers, scheduled access and more for user’s who share use of their vehicle with family or friends. 
+Over-the-Air Updating and Data Logging
+We see the inclusion of OTA updating as not just an added bonus, but a critical requirement for modern vehicles. Just as your mobile phone, computer and other smart devices receive regular updates to offer new features, performance improvements, or security updates, we believe your car should be updatable in much the same way. All our vehicles will be equipped with OTA functionality to operate with the most up-to-date software, ensuring that customers always enjoy the latest product and infotainment experience. In addition, unlike the current OTA systems employed by many legacy automakers, our OTA system is not restricted to only updating the infotainment, but also provides for secure, full suite updating of all of the vehicle’s core ECUs, allowing for performance enhancements to the powertrain and other functional vehicle systems. As a result, the performance of our vehicles will continuously improve over their lifetime.
+
+27
+
+
+
+Our vehicles will also have the capacity to collect and transmit data to our centralized cloud server to allow for remote diagnostics, predictive maintenance and vehicle analytics. The OTA functionality is expected to reduce vehicle maintenance and repair expense and offer an improved customer experience, by reducing the need for costly in person vehicle diagnostic tests, allowing for many software fixes and recall updates to be performed remotely and minimizing the down time for the customer by quickly providing service centers with the information necessary to order replacement parts. 
+All of our in-house developed ECUs support OTA updating and data collection via our proprietary hardware and software stack. The ownership of so much of our software allows us to rapidly develop and integrate new vehicle features and performance improvements, issue security updates and respond to issues on an individual vehicle or fleetwide basis. OTA data logging and updating also allows for swift advances in autonomous driving capabilities, as machine learning can be enabled on a mass scale with thousands of vehicles in our fleet collecting data, and new software and features can be efficiently deployed.
+Software Ecosystem
+A core value proposition of our purpose-built technology platform is the integration between our software and modular hardware architecture, designed to offer long-term return on capital for our customers. 
+When designing our user journeys, we utilize a mobility ecosystem logic, taking into account use cases beyond the driving experience of our vehicles, such as vehicle sharing capabilities, seamless digital ownership transfers, predictive maintenance, driver type-based vehicle performance settings and more. This design approach allows us to develop customized user journeys which will evolve over time as we introduce new vehicle configurations, new vehicle types and new features in the software. 
+We develop most of our software, including most of the user interfaces, in house and are currently in the process of expanding our headcount in advanced software development functions to support the continued buildout of our Canoo Digital Ecosystem, which we believe will serve as a critical differentiator between us and our competitors. Some Canoo Digital Ecosystem functionalities will be packaged with the vehicle, while others are expected to be offered as upgradeable options which may be purchased or accessed as a subscription service.
+Currently we focus our development efforts on three core pillars to establish the baseline for our Canoo Digital Ecosystem, which will continue to evolve in the coming years.
+
+● | Vehicle Level Functionalities: These include in-vehicle features customized via UI/UX interface, or voice and gesture command to adjust a vehicle’s operational features or performance levels.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Driver Services: These include vehicle and user data delivered to a driver’s secured mobile device to manage vehicle-related services. The mobile app gives the vehicle owner a secure channel into the Canoo Digital Ecosystem and access to customized digital services.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Vehicle Ecosystem: These include overarching functionalities to enable a digital ecosystem connecting the vehicle, the driver, and the vehicle owner or fleet operator to other services in the mobility space.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vehicle Design and Engineering
+Top Hat Design and Integration
+In addition to the development of our platform and powertrain technologies, we enjoy significant in-house capabilities in the design and engineering of innovative EV cabins or top hats and EV components and systems. We design and engineer vehicle cabins, interiors, heating, ventilation and air conditioning units, or HVAC, thermal management systems to distribute heating and cooling efficiently between the platform, batteries, powertrain and the top hat, cutting edge infotainment and connectivity systems, and low voltage electrical systems. 
+
+28
+
+
+
+We believe our in-house top hat design and engineering capabilities will allow us to quickly and efficiently design and produce new vehicles to serve new market opportunities, and our in-house engineering and manufacturing teams have the expertise required to optimally support top hat development and efficiently integrate these new vehicle designs with our core platform technology. We are continually seeking new opportunities to apply and leverage our capabilities to efficiently integrate new designs into our vehicles to serve new markets or adapt to changes in consumer preferences in existing markets.
+Excellence in Crash Structure Development
+We are targeting an overall five-star U.S. New Car Assessment Program (“NCAP”) crash rating for our Lifestyle Vehicle. In designing our platform and our Lifestyle Vehicle, we have conducted thousands of CAE crash simulations to define appropriate crumple zones and optimize the structural design of our vehicles quickly and at a reduced cost relative to traditional automotive development processes. 
+To date, we have also completed more than 70 physical structural and sub-system crash tests. The results of these tests have validated the accuracy and utility of our predictive CAE crash modelling and our overall more efficient, digitized approach to vehicle development.
+​
+​
+MANUFACTURING STRATEGY
+We plan to utilize a flexible manufacturing strategy, involving a combination of outsourcing our direct vehicle production, and via our own brownfield or greenfield manufacturing operations, which we expect to develop in particular to facilitate the longterm volume production of our platform. In addition, we are exploring the use of advanced manufacturing techniques including 3-D printing and flexible factory infrastructure configurations, including micro factories, to enable us to efficiently manufacture top hats serving multiple use cases and more effectively allocate capital to respond to market demand. Our objective is to maximize return on capital by matching our cost structure with our projected production ramp while meeting timing, cost and quality expectations. We are currently negotiating with a small number of select finalist contract manufacturing partners as well as states and state economic development organizations.
+
+29
+
+
+
+INTELLECTUAL PROPERTY
+Our ability to protect our material intellectual property is important to our business. We rely upon a combination of protections afforded to owners of patents, copyrights, trade secrets, and trademarks, along with employee and third-party non-disclosure agreements and other contractual restrictions to establish and protect our intellectual property rights. In particular, unpatented trade secrets in the fields of research, development and engineering are an important aspect of our business by ensuring that our technology remains confidential. We also pursue patent protection when we believe it has developed a patentable invention and the benefits of obtaining a patent outweigh the risks of making the invention public through patent filings.
+As of December 31, 2020, we had 27 pending or allowed U.S. patents and 25 pending international patent applications. Our patent applications are directed to, among other things, EV platforms, powertrain technologies, component systems, software engineering, connected vehicle engineering and enhanced vehicle manufacturability. As of December 31, 2020, our material U.S. patents, including those covering our platform technology, suspension systems, battery systems, drive-by-wire design, impact features, and manufacturing methods will, pending grant of each application, expire in approximately 2039 and 2040, based on the 20-year terms of U.S. patents (absent any available patent term adjustments or extensions). We pursue the registration of our domain names and material trademarks and service marks in the United States and in some locations abroad. In an effort to protect our brand, as of December 31, 2020, we had three pending U.S. trademark applications, 50 registered international trademarks, and 19 pending international trademark applications. 
+We regularly review our development efforts to assess the existence and patentability of new inventions, and we are prepared to file additional patent applications when it determines it would benefit our business to do so.
+EMPLOYEES AND HUMAN CAPITAL
+As an organization, we pride ourselves on attracting and developing a skilled workforce drawing from deep automotive and technology experience. As of December 31, 2020, we had 370 employees. A majority of our employees are engaged in research and development and related engineering and testing functions. 
+We maintain a robust compensation and benefits program to attract, retain, incentivize and reward the top talent who contribute to the success of our business and who share in our vision to create a cleaner planet and bring EVs to everyone. In addition to competitive base salary, our compensation and benefits program includes heavily subsidized healthcare and insurance benefits, health savings accounts, equity-based compensation awards, 401(k), flexible paid time off and paid family leave. We provide our employees and their families with access to a variety of flexible and convenient health programs that allow employees to customize their benefits to best meet the needs of their individual families. We also provide competitive stock-based awards and performance bonus targets to attract, retain and motivate employees, consultants and directors. Beyond our broad-based stock award programs, we use targeted equity-based grants for select employees, with longer term vesting conditions, to facilitate the future performance and retention of key people with critical roles, skills and experience. These programs are continually evaluated and updated by our Board of Directors (our “Board”) and management team, as appropriate, to reflect the maturation of our business and to remain highly competitive in attracting and retaining skilled talent.
+We have committed significant time and resources to implementing remote work and on-site safety and security programs, including ramped up efforts since the onset of the COVID-19 pandemic, to ensure that all employees are confident in the safety and security of their physical workspaces. We are committed to exploring additional health and safety measures, including alternate work arrangements, to encourage greater employee well-being as COVID-19 related restrictions loosen in the markets where Canoo operates. 
+
+30
+
+
+
+Our management team invests significant time and attention to the continued development of our workforce and to our employee career growth and retention efforts. We anticipate ramping up additional hiring efforts across our organization as we continue the development of our announced vehicle programs, particularly as we approach serial production, explore new vehicle configurations and use cases, further develop our software ecosystem, and expand our go-to-market activities with hires in sales and marketing, among other areas. In addition, we have recently expanded our Board and added personnel with strong experience in areas such as finance and accounting, and will continue to hire in such areas, to strengthen our governance and compliance operations as a new public company. As part of our growth and retention strategy, we intend to identify and recruit in particular from well-respected OEMs, tier one automotive suppliers, automotive engineering firms, software enterprises and high-growth technology companies, while also incentivizing talent development within our existing organization. We are committed to attracting and retaining a workforce which is ethnically and gender diverse, and we integrate diversity, equity and inclusion principles and practices into our corporate recruiting, onboarding and long-term retention strategies.
+We are invested in seeing that our corporate values permeate all aspects of our operations and decision-making, and that our policies and practices reflect our commitment to fostering high ethical standards across our entire organization. Any employee with concerns related to our ethics or integrity, or who wishes to report incidents of fraud or abuse, may lodge an anonymous compliant through an external web-based platform or hotline without fear of retaliation. 
+We actively seek to comply with all local, state and federal employment laws and we monitor current and emerging labor and human capital management risks and mitigate exposure to those risks. 
+GOVERNMENT REGULATIONS
+We operate in an industry that is subject to extensive environmental regulation, which has become more stringent over time. The laws and regulations to which we are subject govern, among others, vehicle emissions and the storage, handling, treatment, transportation and disposal of hazardous materials and the remediation of environmental contamination. Compliance with such laws and regulations at an international, regional, national, provincial and local level is an important aspect of our ability to continue our operations.
+Environmental standards applicable to us are established by the laws and regulations of the countries in which we operate, standards adopted by regulatory agencies and the permits and licenses issued to us. Each of these sources is subject to periodic modifications and what we anticipate will be increasingly stringent requirements. Violations of these laws, regulations or permits and licenses may result in substantial administrative, civil or even criminal fines, penalties and possibly orders to cease any violating operations or to conduct or pay for corrective works. In some instances, violations may also result in the suspension or revocation of permits or licenses.
+Emissions
+California has greenhouse gas emissions standards that closely follow the standards of the U.S. Environmental Protection Agency. The registration and sale of Zero Emission Vehicles (“ZEVs”) in California could earn us ZEV credits that we could in turn sell to traditional OEMs looking to offset emissions from their traditional internal combustion engine vehicles in order to meet California’s emissions regulations. Other U.S. states have adopted similar standards including Colorado, Connecticut, Maine, Maryland, Massachusetts, New Jersey, New York, Oregon, Rhode Island and Vermont. We intend to take advantage of these regimes by registering and selling ZEVs in these other U.S. states.
+ZEV credits in California are calculated under the ZEV Regulation and are paid in relation to ZEVs sold and registered in California including Battery Electric Vehicles (“BEVs”) and Fuel Cell Electric Vehicles (“FCEVs”). The ZEV program assigns ZEV credits to each vehicle manufacturer. Vehicle manufacturers are required to maintain ZEV credits equal to a set percentage of non-electric vehicles sold and registered in California. Each vehicle sold and registered in California earns a number of credits based on the drivetrain type and the all-electric range (“AER”) of the vehicle under the Urban Dynamometer Driving Schedule Test Cycle. Plug-in hybrid vehicles (“PHEVs”) receive between 0.4 and 1.3 credits per vehicle sold and registered in California. Battery electric and fuel cell vehicles receive between 1 and 4 credits per vehicle sold in California, based on range. The credit requirement was 9.5% in 2020, which required about 3% of sales to be ZEVs. The credit requirement will rise to 22% in 2025, which will require about 8% of sales to be ZEVs. If a vehicle manufacturer does not produce enough EVs to meet our quota, it can choose to buy credits from other manufacturers or pay a $5,000 fine for each credit it is short.
+
+31
+
+
+
+EPA Emissions and Certificate of Conformity
+The U.S. Clean Air Act requires that we obtain a Certificate of Conformity issued by the U.S. Environmental Protection Agency (“EPA”) or a California Executive Order issued by the California Air Resources Board (“CARB”) certifying that our vehicles comply with all applicable emissions requirements. A Certificate of Conformity is required for vehicles sold in states covered by the Clean Air Act’s standards or a CARB Executive Order is required for vehicles sold in states that have adopted California’s stricter standards for emissions controls related to new vehicles and engines sold in such states. States that have adopted the California standards as approved by EPA also recognize the CARB Executive Order for sales of vehicles. In addition to California, there are 13 other states that have either adopted or are in the process of adopting the stricter California standards, including New York, Massachusetts, Vermont, Maine, Pennsylvania, Connecticut, Rhode Island, Washington, Oregon, New Jersey, Maryland, Delaware and Colorado.
+Although our vehicles have zero emissions, we are required to seek an EPA Certificate of Conformity for vehicles sold in states covered by the Clean Air Act’s standards or a CARB Executive Order for vehicles sold in California or any of the other 13 states identified above that have adopted the stricter California standards.
+Vehicle Safety and Testing
+Our vehicles will be subject to, and will be required to comply with, the National Traffic and Motor Vehicle Safety Act, as amended, and numerous regulatory requirements established by the National Highway Traffic Safety Administration (“NHTSA”), an operating administration of the U.S. Department of Transportation, including applicable U.S. federal motor vehicle safety standards (“FMVSS”). We intend for our Lifestyle Vehicle to fully comply with all applicable FMVSS without the need for any exemptions, and expect our future EVs to either fully comply or comply with limited exemptions related to new technologies. Additionally, there are regulatory changes being considered for several FMVSS, and while we anticipate being in compliance with the proposed changes, there is no assurance until final regulation changes are enacted.
+As a U.S.-based manufacturer, we must self-certify that our vehicles meet all applicable FMVSS, as well as the NHTSA bumper standard, or otherwise are exempt, before the vehicles can be imported or sold in the United States. Numerous FMVSS will apply to our vehicles, such as crash-worthiness requirements, crash avoidance requirements and EV-specific requirements. We will also be required to comply with other federal laws and regulations administered by NHTSA, including, among other things, ensuring our vehicles do not contain defects related to motor vehicle safety, recall requirements, the corporate average fuel economy (“CAFE”) standards, Theft Prevention Act requirements, consumer information labeling requirements, reporting required notices, bulletins and other communications, Early Warning Information reporting, foreign recall reporting and owner’s manual requirements.
+The Automobile Information and Disclosure Act requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer’s suggested retail price, optional equipment and pricing. In addition, this law allows inclusion of city and highway fuel economy ratings, as determined by EPA, as well as crash test ratings as determined by NHTSA if such tests are conducted.
+If we expand our offerings outside of the United States, our vehicles will be subject to foreign safety, environmental and other regulations. Many of those regulations are different from those applicable in the United States and may require redesign and/or retesting. For example, the European Union (“E.U.”) has established new approval and oversight rules requiring that a national authority certify compliance with heightened safety rules, emissions limits and production requirements before vehicles can be sold in each E.U. member state, the initial of which rules were rolled out on September 1, 2020. There is also regulatory uncertainty regarding how these rules will impact sales in the United Kingdom given its recent withdrawal from the E.U. These changes could impact the rollout of new vehicle features in Europe.
+
+32
+
+
+
+In addition to the various territorial legal requirements, we are obligated to meet, our Lifestyle Vehicle is engineered to deliver overall 5-star performance in the two main voluntary vehicle safety performance assessment programs, U.S. NCAP and Euro NCAP. Five-star is the maximum attainable score. These independent organizations have introduced a number of additional safety related tests aimed at improving the safety of passenger vehicles, both for occupants and pedestrians involved in collisions with vehicles. Some of these tests are derived from the legal tests, such as side impact, but have higher performance requirements. Others are unique to the program. Areas covered by these tests in 2020 include:
+
+● | Mobile Progressive Deformable Barrier
+--+--------------------------------------
+
+
+● | Full Width Rigid Barrier
+--+-------------------------
+
+
+● | Mobile Side Impact Barrier
+--+---------------------------
+
+
+● | Side Pole
+--+----------
+
+
+● | Far Side Impact
+--+----------------
+
+
+● | Whiplash
+--+---------
+
+
+● | Vulnerable Road Users (Pedestrians and Cyclists)
+--+-------------------------------------------------
+
+
+● | Safety Assist
+--+--------------
+
+
+● | Rescue and Extrication
+--+-----------------------
+
+Automobile Manufacturer and Dealer Regulation
+State laws regulate the manufacture, distribution, sale and service of automobiles, and generally require motor vehicle manufacturers and dealers to be licensed in order to sell vehicles directly to consumers in the state. Certain states do not permit automobile manufacturers to be licensed as dealers or to act in the capacity of a dealer, or otherwise restrict a manufacturer’s ability to deliver or service vehicles. For vehicles offered to consumers via a subscription model, there is considerable uncertainty as to whether we will be required to register as a dealer in the State of California and in other states. The state laws differ for sales of vehicles directly to consumers as compared to sales through franchise-dealership arrangements. Should we pursue either of these options in combination with one another or also in combination with a subscription offering, we expect that the dealer trade associations could mount challenges to our business model by challenging the legality of our operations in court and employing administrative and legislative processes to attempt to prohibit or limit our ability to operate. In addition, these trade associations could actively lobby state licensing agencies and legislators to interpret existing laws or enact new laws in ways not favorable to our approaches to offering vehicles to consumers; however, we intend to actively fight any such efforts to limit our ability to operate and to proactively support legislation supporting our go to market strategy, if needed.
+Battery Safety and Testing Regulation
+Our battery pack conforms to mandatory regulations that govern transport of “dangerous goods,” defined to include lithium-ion batteries, which may present a risk in transportation. The governing regulations, which are issued by the Pipeline and Hazardous Materials Safety Administration, are based on the UN Recommendations on the Safe Transport of Dangerous Goods Model Regulations and related UN Manual Tests and Criteria. The regulations vary by mode of shipping transportation, such as by ocean vessel, rail, truck or air. Prior to launch, we plan to complete all applicable transportation tests for our battery packs, demonstrating our compliance with applicable regulations. We will use lithium-ion cells in the high voltage battery packs in our vehicles. The use, storage, and disposal of our battery packs is regulated under federal law.
+
+33
+
+
+
+Our battery packs are intended to meet the applicable compliance requirements of the UN Manual of Tests and Criteria demonstrating our ability to ship battery packs by any method.
+These tests include:
+Altitude simulation — simulating air transport;
+Thermal cycling — assessing cell and battery seal integrity;
+Vibration — simulating vibration during transport;
+Shock — simulating possible impacts during transport;
+External short circuit — simulating an external short circuit; and
+Overcharge — evaluating the ability of a rechargeable battery to withstand overcharging.
+COMPETITION
+We have experienced, and expect to continue to experience, intense competition from a number of companies, particularly as the transportation sector increasingly shifts towards low-emission, zero-emission or carbon neutral solutions. Competing vehicles include internal combustion vehicles from established automobile manufacturers; however, many established and new automobile manufacturers have entered or have announced plans to enter the alternative fuel and EV market. Many major automobile manufacturers have EVs available today and other current and prospective automobile manufacturers are also developing EVs. In addition, several manufacturers offer hybrid vehicles, including plug-in versions. In recent quarters, interest in EVs from public investors has made access to public capital more readily available for newer entrants into the EV market, which in turn has increased the number of viable competitors. We believe the primary competitive factors in the EV market include, but are not limited to:
+
+● | technological innovation;
+--+--------------------------
+
+
+● | product quality, reliability and safety;
+--+-----------------------------------------
+
+
+● | service options;
+--+-----------------
+
+
+● | product performance;
+--+---------------------
+
+
+● | design and styling;
+--+--------------------
+
+
+● | product price;
+--+---------------
+
+
+● | manufacturing efficiency; and
+--+------------------------------
+
+
+● | access to and efficient allocation of capital.
+--+-----------------------------------------------
+
+We believe that we compete favorably with our competitors on the basis of these factors; however, many of our current and potential competitors have greater financial, technical, manufacturing, marketing and other resources than we do. Our competitors may be able to deploy greater resources to the design, development, manufacturing, distribution, promotion, sales, marketing and support of their alternative fuel vehicle and EV programs. Additionally, our competitors may also have greater name recognition, longer operating histories, larger sales forces, more traditional sales and distribution strategies, broader customer and industry relationships and other tangible and intangible resources than we do. These competitors also compete with us in recruiting and retaining qualified research and development, sales, marketing and management personnel, as well as in acquiring technologies complementary to, or necessary for, our products. Additional mergers and acquisitions in the EV market may result in even more resources being concentrated in our competitors.
+
+34
+
+
+
+AVAILABLE INFORMATION
+Our website address is www.canoo.com. Information found on, or accessible through, our website is not a part of, and is not incorporated into, this Annual Report on Form 10-K. We file electronically with the SEC our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. We make available on our website at www.canoo.com, free of charge, copies of these reports and other information as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+​

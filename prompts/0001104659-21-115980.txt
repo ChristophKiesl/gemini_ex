@@ -1,0 +1,100 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+ 
+Rezolute, Inc. (“Rezolute”, the “Company”, “we” or “us”) is a clinical-stage biopharmaceutical company developing transformative therapies for metabolic diseases related to chronic glucose imbalance.
+ 
+Overview 
+ 
+In October 2020 we completed a private placement of equity securities that resulted in net proceeds to the Company of approximately $37.4 million.
+ 
+Also in October 2020, our Board of Directors (our “Board of Directors” or our “Board”) approved a one share for every fifty shares reverse stock split of our common stock (the “Reverse Stock Split”). The Reverse Stock Split was previously approved by shareholders at our annual meeting on October 23, 2019 and was effective at 5:00 PM EST on October 9, 2020. The first day of trading after the Reverse Stock Split was on October 13, 2020. In connection with the Reverse Stock Split, proportionate adjustments were made to increase the per share exercise prices and decrease the number of shares of common stock issuable upon exercise of stock options and warrants whereby approximately the same aggregate price is required to be paid for such securities upon exercise as had been payable immediately preceding the Reverse Stock Split. In addition, any fractional shares that would otherwise be issued as a result of the Reverse Stock Split were rounded up to the nearest whole share. All references in this Annual Report to the number of shares of common stock and the related per share amounts have been retroactively adjusted to give effect to the Reverse Stock Split.
+ 
+In September 2020, we made adjustments to the composition of our Board of Directors, which included appointing Philippe Fauchet as an independent director. Furthermore, in March 2021, our Board of Directors appointed Dr. Nerissa C. Kreher and Dr. Wladimir Hogenhuis as independent directors. Our board consists of a majority of independent directors.
+ 
+In November 2020, our application to the Nasdaq Capital Markets was approved and we began trading on this market under the “RZLT” ticker.
+ 
+In December 2020, we entered into an Equity Distribution Agreement (“EDA”) with Oppenheimer & Co. Inc., pursuant to which we may offer and sell, from time to time, shares of the our common stock, par value $0.001 per share, having an aggregate offering price of up to $50.0 million. In August 2021, we sold 138,388 shares of our common stock pursuant to the EDA at an average price per share of $10.78 for net proceeds of approximately $1.5 million.
+ 
+In April 2021, we entered into a Loan and Security Agreement (the “Loan Agreement”) with SLR Investment Corp. (“SLR”) and certain other lenders (the “Lenders”) that provided for total borrowings up to $30.0 million in three tranches. The initial tranche of funding for $15.0 million was received in April 2021. Under the Loan Agreement, we are required to maintain a restricted cash balance of at least $5.0 million beginning no later than December 31, 2021. The second tranche for $7.5 million is available upon our request by January 2022, and the third tranche for $7.5 million is available upon our request by September 2022. Access to the additional borrowings under the second and third tranches is subject to our ability by the requested funding date to raise cumulative equity or subordinated debt financing of $35.0 million and $70.0 million, respectively, and the achievement of certain clinical milestones related to RZ358 and RZ402. We are permitted to make interest-only payments on each term loan at least through May 1, 2023, and the maturity date is on April 1, 2026.
+ 
+In June 2021, we merged with and into our wholly owned subsidiary, Rezolute Nevada Merger Corporation, a Nevada corporation (“Merger Sub”), pursuant to an Agreement and Plan of Merger, dated as of June 18, 2021 (the “Reincorporation Merger Agreement”), between us and Merger Sub, with Merger Sub as the surviving corporation (the “Reincorporation Merger”). At the effective time of the Reincorporation Merger (the “Effective Time”), the Merger Sub was renamed “Rezolute, Inc.” and succeeded to the assets, continued our business and assumed our rights and obligations by operation of law. The Reincorporation Merger Agreement was approved by our shareholders at the 2021 annual meeting of our shareholders held on May 26, 2021.
+ 
+Summary of Clinical Assets
+ 
+Our lead clinical asset, RZ358, is an antibody therapy in Phase 2b development as a potential treatment for congenital hyperinsulinism (“HI”), an ultra-rare pediatric genetic disorder. In February 2020, we announced the initiation of the RZ358-606 Phase 2b study (“RIZE”) globally at multiple study centers. Prior to COVID-19, we had planned to complete the RIZE study by the middle of calendar year 2021. In March 2020, we paused the RIZE study as a result of the COVID-19 pandemic. In January 2021, as the COVID-19 pandemic began to abate in different regions, we resumed clinical activities including trial site initiations and patient enrollment. Subject to COVID-19 conditions, we are expecting to substantially complete enrollment in the RIZE study by the end of calendar year 2021 and have top-line data in the first quarter of calendar year 2022.
+ 
+1
+
+ 
+
+In addition, in the first half of calendar year 2020, we had positive interactions with the U.S. Food and Drug Administration (“FDA”). In June 2020, we announced that FDA granted us Rare Pediatric Disease (“RPD”) designation for RZ358, which qualifies us to receive a priority review voucher (“PRV”) upon marketing approval of the drug in HI. Such a voucher could be redeemed to receive a priority review of a subsequent marketing application for any drug candidate in any disease indication. Further, we submitted the RIZE protocol to FDA which allows us to expand the study to clinical sites in the United States.
+ 
+Our second clinical asset, RZ402, is a selective and potent plasma kallikrein inhibitor (“PKI”) being developed as a potential oral therapy for the chronic treatment of diabetic macular edema (“DME”). RZ402 is currently in Phase 1 development. In January 2021, we dosed the first subject in the Phase 1a study, and in May 2021, we announced positive topline results whereby single dose oral administration of RZ402 resulted in plasma concentrations that substantially exceeded target pharmacologically-active drug levels, demonstrating the potential for once daily dosing. RZ402 was generally safe and well-tolerated at all doses tested, without dose-limiting toxicities. In August 2021, we announced the initiation in the Phase 1b multiple-ascending dose study and planned to be completed by the first quarter of calendar year 2022. If favorable results are also obtained in the Phase 1b study, we expect to advance developmental activities toward a Phase 2a proof-of-concept study during the second half of calendar year 2022.
+ 
+RZ358
+ 
+HI is an ultra-rare pediatric genetic disorder characterized by excessive production of insulin by the pancreas. If untreated, the elevated insulin levels in these patients can induce extreme hypoglycemia (low blood sugar) events, increasing the risk of neurological and developmental complications, including persistent feeding problems, learning disabilities, recurrent seizures, brain damage or even death. There are no approved therapies for HI and the current standard of care treatments are suboptimal. In some cases, pancreatic surgery is a treatment option, but this approach is invasive and may require repeat surgeries.
+ 
+Our lead candidate, RZ358, is an intravenously administered human monoclonal antibody that binds to a unique site (allosteric) on the insulin receptor throughout the body, such as in the liver, fat, and muscle. The antibody modifies insulin's binding and signaling to maintain glucose levels in a normal range which counteracts the effects of elevated insulin in the body. Therefore, we believe that RZ358 is ideally suited as a potential therapy for conditions characterized by excessive insulin levels, and it is being developed to treat the hyperinsulinism and low blood sugar characteristic of diseases such as HI. As RZ358 acts downstream from the beta cells, it has the potential to be universally effective at treating HI caused by any of the underlying genetic defects.
+ 
+RZ358 received Pediatric Rare Disease Designation in the U.S. as well as Orphan Drug Designation in the U.S. and European Union. RZ358 is currently in Phase 2b development (the RIZE study, RZ358-606). The RIZE study is a multi-center, open-label, repeat-dose Phase 2b study of RZ358 in four sequential dosing cohorts of patients with HI who are at least two years old and have residual low blood sugar (<70 mg/dL) that is inadequately controlled on existing therapies. In addition to safety and pharmacokinetic evaluations, continuous glucose monitoring (“CGM”) and self-monitored blood glucose will be utilized to evaluate several glycemic efficacy endpoints. The primary endpoint is the time within a glucose target range of 70-180 mg/dL by CGM after week 8 of treatment compared to baseline.
+ 
+RZ402
+ 
+DME is a vascular complication of diabetes and a leading cause of blindness in the U.S. and elsewhere. Chronic exposure to high blood sugar levels can lead to inflammation, cell damage, and the breakdown of blood vessel walls. Specifically, in DME, blood vessels behind the back of the eye become porous and permeable leading to the unwanted infiltration of fluid into the macula. This fluid leakage creates distorted vision and left untreated, blindness.
+ 
+Currently available treatments for DME involve frequent burdensome anti-vascular growth factor (anti-VEGF) injections into the eye or invasive laser surgery. RZ402 is designed to be a once daily oral therapy for the treatment of DME. Unlike the anti-VEGF therapies, RZ402 targets the Kallikrein–Kinin System in order to address inflammation and vascular leakage. We believe that systemic exposure through oral delivery is critical to target the microvasculature behind the back of the eye. Further, as an oral therapy, RZ402 has the potential to substantially change the therapeutic paradigm for patients suffering with DME by providing a convenient, self-administered treatment option to encourage patients to initiate therapy sooner, adhere to prescribed treatment guidelines, and improve overall outcomes.
+ 
+2
+
+ 
+
+Competition 
+ 
+We face competition from pharmaceutical and biotechnology companies, academic institutions, governmental agencies, and private research organizations in recruiting and retaining highly qualified scientific personnel and consultants and in the development and acquisition of technologies.
+ 
+There are a handful of companies developing therapies for HI that are potential competitors to RZ358. Crinetics Pharmaceuticals Inc is one such company.
+ 
+There are a handful of companies developing oral therapies for DME that are potential competitors to the PKI therapy, KalVista Pharmaceuticals being one such company.
+ 
+Government Regulation
+ 
+Regulation by governmental authorities in the U.S. and other countries is a significant factor in the development, manufacture and marketing of pharmaceutical products. All of our potential products will require regulatory approval by governmental agencies prior to commercialization. In particular, pharmaceutical therapies are subject to rigorous preclinical testing and clinical trials and other pre-market approval requirements by the FDA and regulatory authorities in foreign countries. Various federal, state and foreign statutes and regulations also govern or influence the manufacturing, safety, labeling, storage, record keeping and marketing of such products.
+ 
+We are also subject to various federal, state, and local laws, regulations and recommendations relating to safe working conditions; laboratory and manufacturing practices; the experimental use of animals; and the use and disposal of hazardous or potentially hazardous substances, including radioactive compounds and infectious disease agents, used in connection with our research, development and manufacturing.
+ 
+Research and Development
+ 
+We incurred approximately $15.0 million and $14.5 million in research and development expenses for the fiscal years ended June 30, 2021 and 2020, respectively. For further discussion of activities related to our RZ358 and RZ402 product candidates, please refer to the discussion above. For further discussion of our research and development expenses, please refer to the discussion under the caption Results of Operations under Item 7 of this Annual Report.
+ 
+3
+
+ 
+
+Human Capital Management
+ 
+Employees
+ 
+As of June 30, 2021, we had 26 employees, of which 19 employees were engaged in research and development, manufacturing, clinical operations and quality activities and 7 employees in general administrative functions. Of the 26 employees, all were located in the United States. We have a number of employees who hold advanced degrees, such as a Ph.D. degree. None of our employees are covered by a collective bargaining agreement, and we have experienced no work stoppages nor are we aware of any employment circumstances that are likely to disrupt work at any of our facilities. As part of our measures to attract and retain personnel, we provide a number of benefits to our full-time employees, including health insurance, life insurance, retirement plans, paid holiday and vacation time. We believe that we maintain good relations with our employees.
+Diversity and Inclusion
+ 
+Diversity and inclusion are priorities for us. We believe that a rich culture of inclusion and diversity enables us to create, develop and fully leverage the strengths of our workforce.
+Human Resources, Hiring and Professional Development
+ 
+The development, attraction and retention of employees is critical to our success. We work diligently to attract the best talent from a diverse range of sources in order to meet the current and future demands of our business. We leverage both formal and informal programs to identify, foster and retain top talent.
+Business Ethics
+ 
+Our Code of Business Conduct and Ethics ensures that our conduct of business is consistent with the highest standards of business ethics. Our Code of Business Conduct and Ethics serves as a critical tool to help employees recognize and report unethical conduct, while preserving our culture of excellence. Our Board of Directors, management and staff are provided with training regarding our Code of Business Conduct and Ethics.
+Corporate Information
+ 
+We were incorporated in Delaware in 2010 and re-incorporated in Nevada in June 2021. We maintain an executive office located at 201 Redwood Shores Parkway, Suite 315, Redwood City, CA 94065 and our phone number is (650) 206-4507. Our website is located at www.rezolutebio.com. The information contained in, or that can be accessed through, our website is not part of, and is not incorporated into this document.
+ 
+4
+
+ 
+
+

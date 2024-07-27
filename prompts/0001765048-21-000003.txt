@@ -1,0 +1,45 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Description of Business
+
+Forward-looking statements
+
+Statements made in this Form 10-K that are not historical or current facts are "forward-looking statements" made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933 (the "Act") and Section 21E of the Securities Exchange Act of 1934. These statements often can be identified by the use of terms such as "may," "will," "expect," "believe," "anticipate," "estimate," "approximate" or "continue," or the negative thereof. We intend that such forward-looking statements be subject to the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking statements, which speak only as of the date made. Any forward-looking statements represent management's best judgment as to what may occur in the future. However, forward-looking statements are subject to risks, uncertainties and important factors beyond our control that could cause actual results and events to differ materially from historical results of operations and events and those presently anticipated or projected. We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after the date of such statement or to reflect the occurrence of anticipated or unanticipated events.
+
+Financial information contained in this report and in our unaudited financial statements is stated in United States dollars and are prepared in accordance with United States generally accepted accounting principles. 
+
+DESCRIPTION OF BUSINESS
+
+Charmt intends to develop and publish mobile applications on the iOS, Google Play, Amazon and Ethereum platforms. The Company also plans to maintain a portfolio of its products and track the user download statistics. Charmt intends to generate revenues through the sale of branded advertisements and via consumer transactions, including in-app purchases. Founded in 2018, Charmt is headquartered in Tallinn. The management of the Company plans to distribute the application all over the world using various platforms.
+Mobile App Market
+ 
+The proliferation of easy-to-use touch-based smartphones and tablets has created a market with unique characteristics and explosive growth for mobile apps. Portability enables using wherever and whenever the user has spare time, and many apps are specifically tailored to provide short use sessions for such occasions. Compared to PC application, the mobile apps market has low barriers to entry. Whereas many successful PC apps have budgets for production and marketing in the tens of millions and often take years to develop, mobile apps can be created in a matter of weeks. Currently, there are over 800,000 mobile apps in Apples App Store. 
+ 
+Within the global app economy, Charmt currently expects to participate in the sub-sectors of 1) app store transactions relating to mobile apps and 2) mobile in-app advertising. The market for app store transactions relating to mobile apps is expected to grow from $50 billion in 2016 to $105 billion in 2021, representing a CAGR of 16%. At the same time, the mobile in-app advertising market is expected to nearly triple in size from $72 billion in 2018 to $201 billion in 2021, representing a CAGR of 23%. 
+Products
+ 
+The Company is currently developing a new kind of messenger. Charmts app is intended to be a unique product with high production value and high revenue potential. It is going to be developed and published on both original and licensed IP. This title requires significant development investment and has, in the opinion of management, the potential to become well-known and a long-lasting, successful mobile app franchise. 
+ 
+
+
+4
+ 
+Voice-changing messenger
+ 
+Charmts first product is our investment in the vast market of applications for communication and amusement. It is intended to provide the fun of changing your voice while speaking with other people along with full functionality of similar messaging apps. As of this date, we have developed the system requirements specification that describes the entire potential and unique features of the messenger. 
+
+A user will be able to download our app and easily create an account linking his/her phone number. Security of the personal data use is provided by text message authorization. Charmt automatically synchronizes contacts from your cell phone memory and a user can see if any of them launched the app already. If not, he/she can invite other people to the app using the link sent by a regular text message. Our potential users will be able to call any of their contacts via audio or video connection and use the sound filter to alter their voice.
+
+The management of the company considers our product to be unique and combine entertainment and convenience for everyday use. Expected users can either utilize Charmt as a regular messenger that enables people to exchange messages and numerous types of files or use it as a means of having fun changing their voices to be completely unrecognizable when communicating.
+
+As of December 31, 2020, the voice-changing application has not been developed yet. The management of the Company considers using blockchain technology for developing the intended product due to its growing popularity with messaging applications. It provides encrypted P2P-connection(peer-to-peer) which enables exceptional level of security without any access to users personal data by any third-parties. Apart from blockchain technologies, we also consider using crypto-collectibles or regular types of cryptocurrency in order to allow people to make in-app purchases. Our intended in-app purchases are planned to consist of various options for changing the sound of users voices. 
+Marketing 
+ 
+We plan to acquire most of our users through unpaid channels. We are aiming to build a large community of users through cross promotion, editorial featuring, the viral and sharing features provided by social networks, and app store optimization strategies. We are committed to connecting with our users and we plan to leverage various forms of social media, including Facebook, Twitter, YouTube, Instagram and Discord to communicate with them. We also want to use traditional advertising activities, primarily mobile advertising spending on Facebook, Apple and Google. 
+Employees
+ 
+As of the date, we have no employees other than our sole director, Mr. Gediminas Knyzelis. The Company plans to rely extensively on third-party consultants and vendors for certain development and marketing activities. 
+Properties
+ 
+We are currently renting an office at Hobujaama 4, Tallinn 10151 Estonia. The said premises are our headquarters. 
+
