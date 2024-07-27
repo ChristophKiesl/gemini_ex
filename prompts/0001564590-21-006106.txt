@@ -1,0 +1,901 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS | 1 
+-----------------------------------------------------+----------------------------------------------------------------------
+INDUSTRY AND MARKET DATA | 1 
+CURRENCY | 2 
+PART I | 3 
+ITEM 1. | | BUSINESS | 3 
+ | Mercer | 3 
+ | Corporate Strategy | 7 
+ | The Pulp Industry | 8 
+ | Pulp Production | 14 
+ | Generation and Sales of Green Energy and Chemicals | 14 
+ | Cash Production Costs | 17 
+ | Production Costs | 17 
+ | Sales, Marketing and Distribution | 20 
+ | Transportation | 22 
+ | Capital Expenditures | 23 
+ | Innovation | 24 
+ | Environmental | 24 
+ | Climate Change | 25 
+ | Wood Products Industry | 27 
+ | Human Capital | 28 
+ | Description of Certain Indebtedness | 29 
+ | Internet Availability and Additional Information | 32 
+ITEM 1A. | | RISK FACTORS | 32
+ITEM 1B. | | UNRESOLVED STAFF COMMENTS | 46
+ITEM 2. | | PROPERTIES | 46
+ITEM 3. | | LEGAL PROCEEDINGS | 48
+ITEM 4. | | MINE SAFETY DISCLOSURES | 48
+PART II | 49 
+ITEM 5. | | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES | 49
+ITEM 6. | | SELECTED FINANCIAL DATA | 51
+NON-GAAP FINANCIAL MEASURES | 53 
+ITEM 7. | | MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS | 54
+ | Results of Operations | 54 
+ | Year Ended December 31, 2020 Compared to Year Ended December 31, 2019 | 57 
+ | Sensitivities | 61 
+ | Liquidity and Capital Resources | 62 
+ | Balance Sheet Data | 63 
+ | Sources and Uses of Funds | 63 
+ | Credit Facilities and Debt Covenants | 64 
+ | Off-Balance Sheet Activities | 65 
+ | Contractual Obligations and Commitments | 65 
+ | Foreign Currency | 66 
+ | Credit Ratings of Senior Notes | 66 
+ | Critical Accounting Policies | 66 
+ | New Accounting Standards | 70 
+ITEM 7A. | | QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK | 71
+ | Foreign Currency Exchange Risk | 71 
+ | Product Price Risk | 72 
+ | Fiber Price Risk | 72 
+ | Interest Rate Risk | 72 
+ | Credit Risk | 73 
+ | Risk Management and Derivatives | 73 
+
+ (i)
+
+
+ 
+ITEM 1. | BUSINESS
+--------+---------
+
+ In this document, please note the following:
+  
+• | references to “we”, “our”, “us”, the “Company” or “Mercer” mean Mercer International Inc. and its subsidiaries, unless the context clearly suggests otherwise, and references to “Mercer Inc.” mean Mercer International Inc. excluding its subsidiaries;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | references to “$” or “dollars” shall mean U.S. dollars, which is our reporting currency, unless otherwise stated; “€” refers to euros; and “C$” refers to Canadian dollars;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | references to “NBHK” mean northern bleached hardwood kraft;
+--+------------------------------------------------------------
+
+
+• | references to “NBSK” mean northern bleached softwood kraft;
+--+------------------------------------------------------------
+
+
+• | references to “ADMTs” mean air-dried metric tonnes;
+--+----------------------------------------------------
+
+
+• | references to “MW” mean megawatts and “MWh” mean megawatt hours;
+--+-----------------------------------------------------------------
+
+
+• | references to “Mfbm” mean thousand board feet;
+--+-----------------------------------------------
+
+
+• | references to “MMfbm” mean million board feet; and
+--+---------------------------------------------------
+
+
+• | our lumber metrics are converted from cubic meters to Mfbm using a conversion ratio of 1.6 cubic meters of lumber equaling one Mfbm, which is the ratio commonly used in the industry.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Due to rounding, numbers presented throughout this report may not add up precisely to totals we provide and percentages may not precisely reflect the absolute figures.
+ Mercer
+ General
+ We are a global forest products company and have two reportable operating segments:
+  
+• | Pulp – consists of the manufacture, sale and distribution of pulp, electricity and other by-products at our pulp mills.
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+• | Wood Products – consists of the manufacture, sale and distribution of lumber, electricity and other wood residuals at the Friesau mill.
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+ We have consolidated annual production capacity of approximately 2.2 million ADMTs of kraft pulp, 550 MMfbm of lumber and approximately 416.5 MW of electrical generation.
+ Pulp Segment
+ We are one of the world’s largest producers of “market” NBSK pulp, which is pulp that is sold on the open market. Our size provides us increased presence, better industry information in our markets and close customer relationships with many large pulp consumers. 
+ We operate two modern and highly efficient NBSK mills in Eastern Germany and one NBSK mill and a “swing” kraft mill in Western Canada, referred to as “MPR”, which produces both NBSK and NBHK. MPR also has a 50% joint venture interest in another NBSK mill in the interior of British Columbia. 
+ (3)
+
+
+We are the sole NBSK producer, and the only significant market pulp producer in Germany, which is the largest pulp import market in Europe. We supply the growing pulp demand in China both through our Canadian mills’ ready access to the Port of Vancouver and through our Stendal mill’s existing logistics arrangements. In addition, as a result of the significant investments made in cogeneration equipment, all of our mills generate and sell a significant amount of surplus “green” energy. We also produce and sell tall oil, a by-product of our production process, which is used as both a chemical additive and as a green energy source.
+ Of our consolidated annual production capacity of approximately 2.2 million ADMTs of kraft pulp, approximately 1.8 million ADMTs or 85% is NBSK and the balance is NBHK.
+ Key operating details for each of our pulp mills are as follows:
+  
+• | Rosenthal mill. Our Rosenthal mill is a modern, efficient ISO 9001, 14001 and 50001 certified NBSK pulp mill that has an annual production capacity of approximately 360,000 ADMTs and 57 MW of electrical generation. The Rosenthal mill exported 154,177 MWh of electricity in 2020, resulting in approximately $16.1 million in revenues. The Rosenthal mill is located in the town of Rosenthal am Rennsteig, Germany, approximately 300 kilometers south of Berlin.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Stendal mill. Our Stendal mill is a state-of-the-art, single line, ISO 9001, 14001 and 50001 certified NBSK pulp mill that has an annual production capacity of approximately 660,000 ADMTs and 148 MW of electrical generation. The Stendal mill exported 539,607 MWh of electricity in 2020, resulting in approximately $51.3 million in revenues. The Stendal mill is located near the town of Stendal, Germany, approximately 130 kilometers west of Berlin.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Celgar mill. Our Celgar mill is a modern, efficient ISO 9001 and 14001 certified NBSK pulp mill that has an annual production capacity of approximately 520,000 ADMTs and 100 MW of electrical generation. The Celgar mill exported 134,444 MWh of electricity in 2020, resulting in approximately $10.9 million in revenues. The Celgar mill is located near the city of Castlegar, British Columbia, Canada, approximately 600 kilometers east of Vancouver.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Peace River mill. Our Peace River mill is a modern ISO 9001 and 14001 certified mill that produces both NBSK and NBHK pulp and has an annual production capacity of approximately 475,000 ADMTs and 70 MW of electrical generation. The Peace River mill exported 66,306 MWh of electricity in 2020, resulting in approximately $5.2 million in revenues. The Peace River mill is located near the town of Peace River, Alberta, approximately 490 kilometers north of Edmonton. MPR also holds two 20-year renewable governmental forest management agreements and three deciduous timber allocations in Alberta with an aggregate allowable annual cut of approximately 2.4 million cubic meters of hardwood and softwood allocations totaling 400,000 cubic meters. Through our Peace River mill, we have a 50% proportionate share of the annual production capacity of the Cariboo mill, which is approximately 170,000 ADMTs and 28.5 MW of electrical generation. The Cariboo mill is located in Quesnel, British Columbia, approximately 660 kilometers north of Vancouver.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Our pulp mills are some of the newest and most modern pulp mills in Europe and North America. We believe the relative age, production capacity and electrical generation capacity of our mills provide us with certain manufacturing cost and other advantages over many of our competitors. We believe our competitors’ older mills do not have the equipment or capacity to produce or sell surplus power or chemicals in a meaningful amount. In addition, as a result of the relative age of our mills, they benefit from lower maintenance capital requirements and higher efficiency relative to many of our competitors’ mills.
+ The following table sets out our pulp production and pulp revenues for the periods indicated:
+ 
+ 
+ | Year Ended December 31, | 
+-----------------------------+-------------------------+----------
+ | 2020 | | 2019 | | | 2018(1) | 
+Pulp production ('000 ADMTs) | | 2,051.1 | | | 2,040.6 | | | 1,472.6 
+Pulp sales ('000 ADMTs) | | 2,029.4 | | | 2,098.8 | | | 1,440.9 
+Pulp revenues (in thousands) | $ | 1,130,302 | | $ | 1,370,742 | | $ | 1,190,588
+
+
+(1) | Includes results of MPR since December 10, 2018.
+----+-------------------------------------------------
+
+ (4)
+
+
+
+Our pulp mills generate and sell surplus electricity, providing us with a stable revenue source unrelated to pulp prices. Our German pulp mills also generate tall oil from black liquor, which is sold to third parties for use in numerous applications, including bio-fuels. Since our energy and chemical production are by-products of our pulp production process, there are minimal incremental costs and our surplus energy and chemical sales are highly profitable. All of our mills generate and sell surplus energy to regional utilities or the regional electrical market. Until December 31, 2020, all of our German mills benefitted from special tariffs under Germany’s Renewable Energy Sources Act, referred to as the “Renewable Energy Act”, which provides for premium pricing on green energy. In 2020, the German government proposed measures that would have, among other things, extended the time period that such tariffs would be available for pulp mills. However, such measures did not come into effect. As a result, commencing January 1, 2021, the prior special tariff in respect of our Rosenthal mill expired and it began selling its surplus power at market rates which fluctuate over time. As a result of, among other things, the COVID-19 pandemic reducing power demand generally in Germany, market rates are currently materially lower than the prior prescribed special tariff. The German government has publicly announced that it will seek to further incentivize green energy production at pulp mills through additional measures in 2021. Our Stendal and Friesau mills continue to benefit from the aforesaid special tariffs until 2024 and 2029, respectively. Our Peace River mill sells surplus energy to its regional electrical market. Each of our Celgar mill and the Cariboo mill is party to a fixed electricity purchase agreement with the regional public utility provider for the sale of surplus power. Our Celgar mill finalized a new electricity purchase agreement with the regional public utility that commenced in October 2020 for a ten-year term. The electricity purchase agreement for the Cariboo mill runs until December 2022 and is renewable by it for a further ten-year term. 
+ The following table sets out the amount of surplus energy we produced and sold and revenues from the sale of such surplus energy and chemicals in our pulp segment for the periods indicated:
+ 
+ 
+ | Year Ended December 31, | 
+-----------------------+-------------------------+--------
+ | 2020 | | 2019 | | 2018(1) | 
+ | (MWh) | | ($) | | (MWh) | | ($) | | (MWh) | | ($) | 
+ | | | (in thousands) | | | (in thousands) | | (in thousands)
+Surplus electricity(2) | | 894,534 | | 83,420 | | | 822,841 | | | 75,018 | | 615,182 | 63,189
+Chemicals | | | | 6,922 | | | | | | 11,363 | | | 14,427
+Total | | | | 90,342 | | | | | | 86,381 | | | 77,616
+
+
+(1) | Includes results of MPR since December 10, 2018.
+----+-------------------------------------------------
+
+
+(2) | Does not include our 50% joint venture interest in the Cariboo mill, which is accounted for using the equity method.
+----+---------------------------------------------------------------------------------------------------------------------
+
+ We serve pulp customers in Europe, Asia and North America. We primarily work directly with customers to capitalize on our geographic diversity, coordinate sales and enhance customer relationships. We believe our ability to deliver high-quality pulp on a timely basis and our customer service makes us a preferred supplier for many customers.
+ Wood Products Segment
+ We entered the wood products segment in mid-2017 when we acquired substantially all of the assets of the Friesau mill, one of Germany’s largest sawmills.
+ Our Friesau mill has an annual production capacity of approximately 550 MMfbm of lumber and 13 MW of electrical generation from a modern biomass fueled cogeneration power plant built in 2009. The Friesau mill is located approximately 16 kilometers west of our Rosenthal mill and has historically been one of the Rosenthal mill’s largest fiber suppliers.
+ We manufacture, sell and distribute lumber, electricity and other wood residuals at the Friesau mill which produces lumber for European, U.S. and other lumber export markets.
+ The European and U.S. lumber markets are very different. In the European market, lumber is generally customized in terms of dimensions and finishing. The U.S. market is driven primarily by demand from new housing starts and home renovation activities and dimensions and finishing are generally standardized.
+ (5)
+
+
+Additionally, lumber production and sales in Europe are commonly measured in cubic meters, whereas in the U.S. they are measured in thousand board feet or Mfbm.
+ The following table sets out our lumber production and lumber revenues for the periods indicated: 
+ 
+ 
+ | Year Ended December 31, | 
+-------------------------------+-------------------------+--------
+ | 2020 | | 2019 | | | 2018 | 
+Lumber production (MMfbm) | | 438.0 | | | 414.7 | | | 398.7 
+Lumber sales (MMfbm) | | 449.2 | | | 408.8 | | | 412.9 
+Lumber revenues (in thousands) | $ | 180,769 | | $ | 142,243 | | $ | 168,663
+
+ 
+The Friesau mill generates electricity for minimal incremental costs, all of which is sold, providing a stable revenue source unrelated to lumber prices. The Friesau mill’s modern biomass fueled cogeneration power plant has an annual production capacity of approximately 13 MW of electricity. The plant sells electricity pursuant to a long-term fixed price green power tariff that runs to 2029.
+ The following table sets out the amount of surplus energy we produced and sold and revenues from the sale of surplus energy by our Friesau mill for the periods indicated.
+  
+ | Year Ended December 31, | 
+--------------------+-------------------------+-------
+ | 2020 | | 2019 | | 2018 | 
+ | (MWh) | | ($) | | (MWh) | | ($) | | (MWh) | | ($) | 
+ | | | (in thousands) | | | (in thousands) | | (in thousands)
+Surplus electricity | | 88,985 | | 10,619 | | | 83,490 | | | 9,721 | | 86,325 | 10,831
+
+Corporate Structure, History and Development of Business
+ Mercer Inc. is a corporation organized under the laws of the State of Washington whose common stock is quoted and listed for trading on the NASDAQ Global Select Market (MERC).
+ The following simplified chart sets out our principal operating subsidiaries, their jurisdictions of organization, their principal activities and their annual pulp or lumber production and electrical generation capacity:
+ 
+Mercer International Inc. Washington, U.S.A. 100% Zellstoff-und Papierfabrik Rosenthal GmbH Pulp production and sales Germany 360,000 ADMTs 57 MW 100% Zellstoff Stendal GmbH Pulp production and sales Germany 660,000 ADMTs 148 MW 100% Mercer Celgar Limited Partnership Pulp production and sales British Columbia, Canada 520,000 ADMTs 100 MW 100% Mercer Timber Products GmbH Lumber production and sales Germany 550 MMfbm 13 MW 100% Mercer Holz GmbH Wood procurement and logistics Germany 100% Mercer Peace River Pulp Ltd.(1) Pulp production and sales British Columbia, Canada 645,000 ADMTs 98.5 MW 
+ 
+ 
+(1) | Includes 170,000 ADMTs and 28.5 MW based on MPR’s 50% joint venture interest in the Cariboo mill.
+----+--------------------------------------------------------------------------------------------------
+
+ (6)
+
+
+
+We entered into the pulp business in 1994 by acquiring our Rosenthal mill and in 1999 converted it to the production of kraft pulp.
+ In September 2004, we expanded our pulp operations by constructing the Stendal mill at a cost of approximately $1.1 billion.
+ We further expanded our pulp operations by acquiring the Celgar mill in 2005 and MPR in 2018. 
+ In April 2017, we entered into the wood products segment when we acquired the Friesau mill and in October 2018, acquired the Santanol Group, which operates Indian sandalwood plantations and an oil extractives plant in Australia.
+ Corporate Strategy
+ 
+Our corporate strategy is to grow in businesses where we have clear competencies while maintaining modern facilities, managing the integrity of our balance sheet and liquidity and a high standard of environmental, social and governance performance. Key elements of our strategy include:
+
+• | Operate World Class Assets. The maintenance of modern, reliable and energy efficient operations is key to our ability to produce stable returns through the economic cycle. The markets for our principal products are cyclical and subject to global economic influences. Further, our manufacturing operations are capital intensive and complex. Maintaining a high standard of maintenance and strategic capital expenditure programs differentiates us from older, higher cost, lower efficiency competitors. We believe that over time this will reduce our exposure to product price volatility, unexpected downtime and changes in environmental and regulatory conditions. We operate four modern pulp mills and one of the most modern sawmills in the world. In 2020, the majority of our capital expenditures focused on projects to increase production and operational efficiency and reduce costs. Additionally, we continuously strive to enhance our maintenance systems to improve and increase production by improving reliability. We also seek to reduce operating costs by better managing our fiber procurement, sales, marketing and logistics activities. We believe this continued focus on operational excellence enhances our profitability and cash flows. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Growth and Diversification Where We Have Core Competencies. We are focused on growth in areas where we have a clear leadership position or high degree of competence to ensure that we can add value for shareholders. We believe that a larger company will benefit shareholders in terms of improved equity trading, liquidity and reduced variability of earnings. Our core competencies lend themselves to growth in one or more of the following areas: 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Pulp. The core of our business is NBSK pulp. We are one of the largest producers of market NBSK in the world and have deep expertise and a market reputation as a reliable, efficient and high quality producer. We believe that the global demand for kraft pulp will continue to grow and that the supply of fiber to meet that demand is limited. In 2018, we expanded our pulp segment with the acquisition of MPR, an acquisition that fortified our position as a leading kraft pulp producer and added NBHK to our product line.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Wood Products. We have significant expertise in forestry and wood procurement services and have utilized that expertise and our logistics networks in support of our pulp operations. In 2017, we began leveraging this foundation into the solid wood products business with the acquisition of one of the world’s largest and most flexible sawmills at Friesau, Germany. The Friesau mill created synergies with our wood procurement and pulp businesses. We believe that further strategic expansion within this segment can add more value for shareholders in the future. In the first half of 2021, we expect to complete a three-year upgrade to the Friesau mill that will make it one of the most technologically advanced and largest in the world.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+(7)
+
+
+
+ 
+o | Wood Extractives. We believe that we are very well positioned to fully extract all of the value from wood including those elements that were traditionally wasted or burned. We have applied considerable resources to manufacturing products such as tall oil, which is upgraded by our customers and used in adhesives and bio-fuels that are displacing fossil fuel based alternatives. We are also expanding our production of turpentine for use in aromatics and fragrances. We also acquired sandalwood plantations and an essential sandalwood oil extraction and sales business to further develop such operations and move closer to the end customer. We are also focused on researching and commercializing other complex and novel products based on wood and have established various partnerships and working relationships to advance these products.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Green Energy. Our modern, highly efficient mills allow us to produce green, cogenerated electricity. Our mills are all self-sufficient in power and net exporters of electricity and our power is sold to regional utilities or the regional market. We are very experienced at building and operating cogeneration facilities and we have increased our electricity production by 42% since 2011.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Managing the Integrity of our Balance Sheet and Liquidity. We focus on maintaining a balance sheet that allows us to advance our objectives through the full economic cycle, while at the same time, giving us some flexibility to take advantage of strategic growth opportunities as they arise. We maintain a foundation of long term, unsecured, senior notes with expiry dates in 2026 and beyond. In addition to cash on hand, we have a series of revolving credit facilities intended to provide liquidity and flexibility in times of opportunity or economic slowdown. We commenced a dividend in 2015 and remain committed to returning capital to our shareholders through the economic cycle.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Sustainable Operations. We seek to operate to exceed or meet best in class standards in environmental performance, social conditions and governance (often referred to as "ESG" standards). We believe that sustainably-focused businesses can flourish if they align themselves with societal objectives, and that the diminishing tolerance of stakeholders for under-performing companies in regards to sustainability will lead to their decline. Further, we believe that our products, which are renewable wood-based fiber, carbon sequestering solid wood products, green energy and naturally sourced wood extractives, are becoming more important for a world seeking to limit its reliance on fossil fuel-based products. We will continue to grow these products, enhance our environmental performance and stakeholder engagement and maintain strong governance and ethical business practices.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The Pulp Industry
+ General
+ Pulp is used in the production of paper, tissues and paper-related products. Pulp is generally classified according to fiber type, the process used in its production and the degree to which it is bleached. Kraft pulp, a type of chemical pulp, is produced through a sulphate chemical process in which lignin, the component of wood which binds individual fibers, is dissolved in a chemical reaction. Chemically prepared pulp allows the wood’s fiber to retain its length and flexibility, resulting in stronger paper products. Kraft pulp can be bleached to increase its brightness. Softwood kraft pulp is noted for its strength, brightness and absorption properties and is used to produce a variety of products, including lightweight publication grades of paper, tissues and other paper-related products.
+ There are two main types of bleached kraft pulp, being softwood kraft made from coniferous trees and hardwood kraft made from deciduous trees. Softwood species generally have long, flexible fibers which add strength to paper while fibers from species of hardwood contain shorter fibers which lend bulk and opacity.
+ We primarily produce and sell NBSK pulp, which is a bleached kraft pulp manufactured using northern softwood and is considered a premium grade because of its strength. It generally obtains the highest price relative to other kraft pulps. Our Peace River mill produces both NBSK and NBHK pulp. 
+ Most paper users of market kraft pulp use a mix of softwood and hardwood grades to optimize production and product qualities. In 2020, market kraft pulp consumption was approximately 57% hardwood bleached kraft and 
+ (8)
+
+
+39% softwood bleached kraft, with the remainder comprised of unbleached pulp. Over the last several years, production of hardwood pulp, based on fast growing plantation fiber primarily from Asia and South America, has increased much more rapidly than that of softwood grades, because of longer growth cycles. Hardwood kraft generally has a cost advantage over softwood kraft as a result of lower fiber costs, higher wood yields and, for newer hardwood mills, economies of scale. As a result of this growth in supply and lower costs, kraft pulp customers have substituted some of the pulp content in their products to hardwood pulp.
+ However, the requirement for strength and formation characteristics in finished goods counters customers’ ability to substitute cheaper hardwood pulp for NBSK. Paper and tissue makers focus on larger paper machines with higher speeds and lower basis weights for certain papers which require the strength characteristics of softwood pulp. Additionally, where paper products are lightweight or specialized, like direct mail, magazine paper or premium tissue, or where strength or absorbency are important, softwood kraft forms a significant proportion of the fiber used. As a result, we believe that the ability of kraft pulp users to further substitute hardwood for softwood pulp is limited by such requirements.
+ Kraft pulp can be made in different grades, with varying technical specifications, for different end uses. Softwood kraft pulp is an important ingredient for tissue manufacturing and tissue demand tends to increase with living standards in developing countries. Softwood kraft pulp is also valued for its reinforcing role in mechanical printing papers and is sought after by producers of paper for the publishing industry, primarily for magazines and advertising materials. 
+ Markets
+ We believe that over 145 million ADMTs of chemical pulp are converted annually into tissues, printing and writing papers, carton boards and other specialty grades of paper and paperboard around the world. We also believe that approximately 40% of this pulp is sold on the open market as market pulp, while the remainder is produced for internal purposes by integrated paper and paperboard manufacturers.
+ The pulp business is highly cyclical in nature and markets are characterized by periods of supply and demand imbalance, which in turn affect prices. Pulp markets are highly competitive and are sensitive to cyclical changes in the global economy, industry capacity and foreign exchange rates, all of which can have a significant influence on selling prices and our operating results. The length and magnitude of industry cycles have varied over time but generally reflect changes in macro-economic conditions and levels of industry capacity. Pulp is a commodity that is generally available from other producers. Because commodity products have few distinguishing qualities from producer to producer, competition is generally based upon price, which is generally determined by supply relative to demand.
+ Between 2011 and 2020, worldwide demand for chemical market pulp grew at an average rate of approximately 2% annually, with worldwide demand for bleached softwood kraft market pulp having grown at an average of approximately 1% per annum.
+ (9)
+
+
+The following chart illustrates the global demand for chemical market pulp for the periods indicated:
+ Estimated Global Chemical Market Pulp Demand
+
+NBSK pulp demand is significantly impacted by global macro-economic trends. A significant increase in demand from emerging markets, and in particular China has generally more than offset declining and stagnating demand in the mature markets of Europe, North America and Japan. In developing countries, increasing income levels, rapid urbanization of populations and rising living standards are creating strong demand for fiber of all grades. In China alone, tissue production capacity has increased by approximately 6.5 million ADMTs over the last five years. However, in the developed economies of North America and Western Europe, demand for NBSK in printing and writing grades has fallen due to the digitalization of print media. 
+ In 2020, COVID-19 has impacted and accelerated a change in end-use demand for pulp. Since the start of the pandemic was declared, NBSK demand for tissue and hygiene products has continued to increase globally. Early in the pandemic, this demand was supported by inventory build and currently, demand has remained sustainably higher than pre-COVID-19 levels. In addition, as global reliance on online delivery of products has increased, demand for packaging and specialties products remained resilient. However, graphic and printing and writing paper demand declined materially and while we believe a portion of this demand will not return, we expect the remainder to recover as global economic conditions improve.
+ Over the last ten years, demand for chemical softwood market pulp has grown in the emerging markets of Asia, particularly China and Eastern Europe. In China, imports of chemical softwood market pulp grew by approximately 8% per annum between 2011 and 2020. We believe the emerging markets now account for approximately 58% of total global demand for bleached softwood kraft market pulp and China itself now accounts for approximately 34% of global bleached softwood kraft market pulp demand compared to approximately 26% in 2011. Western Europe currently accounts for approximately 21% of global bleached softwood kraft market pulp demand compared to approximately 29% in 2011.
+ (10)
+
+
+The following chart sets forth industry-wide bleached softwood kraft deliveries to China for the periods indicated:
+ 12 Month Rolling Bleached Softwood Kraft Pulp Deliveries to China
+
+The following chart compares worldwide NBSK pulp demand by end use in each of 2003 and 2020:  
+ NBSK Pulp Demand by End Use
+
+In 2020, there was no material net change in chemical pulp capacity. Currently, we are aware of 1.9 million ADMTs of announced capacity increases primarily of hardwood kraft pulp in 2021. 
+NBSK Pulp Pricing
+ Kraft pulp is a globally traded commodity and prices are highly cyclical. Kraft pulp prices are generally quoted in dollars. Pricing is primarily influenced by the balance between supply and demand, as affected by global macro-economic conditions, changes in consumption and capacity, the level of customer and producer inventories and fluctuations in exchange rates. Generally, we and other producers consider global NBSK pulp supply and demand to be evenly balanced when world inventory levels are at about 32 days’ supply.
+ (11)
+
+
+As the majority of market NBSK pulp is produced and sold by Canadian and Northern European producers, while the price of NBSK pulp is generally quoted in dollars, pricing is often affected by fluctuations in the currency exchange rates for the dollar versus the euro and the Canadian dollar. As NBSK pulp producers generally incur costs in their local currency, while pulp is quoted in dollars, a dollar strengthening generally benefits producers’ businesses and operating margins. Conversely, a weakening of the dollar versus the local currency of producers generally adversely affects producers’ businesses and operating margins.
+ As a corollary to changes in exchange rates between the dollar and the euro and Canadian dollar, a stronger dollar generally increases costs to customers of NBSK pulp producers and results in downward pressure on prices. Conversely, a weakening dollar generally supports higher pulp pricing. However, there is invariably a time lag between changes in currency exchange rates and pulp prices. This lag can vary and is not predictable with any certainty.
+ As Northern Europe has historically been the world’s largest market and NBSK pulp is the premium grade, the European market NBSK price is generally used as a benchmark price by the industry. The average European list prices for NBSK pulp since 2011 have fluctuated between a low of approximately $760 per ADMT in 2012 and a high of $1,230 per ADMT in 2018.
+ The following chart sets out the changes in list prices for NBSK pulp in Europe, as stated in dollars, Canadian dollars and euros for the periods indicated:
+ NBSK Pulp Price History (European Delivery)
+
+
+The following table sets out list prices for NBSK pulp in Europe and North America and net prices for NBSK pulp in China at the dates indicated: 
+
+ | December 31, | 
+--------------+--------------+------
+ | 2020 | | 2019 | 
+ | ($/ADMT) | 
+Europe | | 910 | | 820 
+North America | | 1,155 | | 1,115
+China | | 695 | | 555 
+
+ 
+A producer’s net sales realizations are list prices, net of customer discounts, rebates and other selling concessions. The nature of the pricing structure in Asia is different in that, while list prices tend to be lower than Europe, 
+ (12)
+
+
+customer discounts and rebates are much lower, resulting in net sales realizations that are generally similar to other markets.
+ The following chart sets forth changes in FOEX PIX Pulp Index prices for NBSK pulp in Europe and global bleached softwood kraft inventory levels between 2006 and 2020:
+ Pulp Price and Global Inventory History
+
+
+Seasonality
+ We are exposed to fluctuations in quarterly sales volumes and expenses due to seasonal factors. These factors are common in the kraft pulp industry. We generally have weaker pulp demand in Europe during the summer holiday months and in China in the period relating to the lunar new year. We typically have a seasonal build-up in raw material inventories in the early winter months as our mills build up their fiber supply for the winter when there is reduced availability.
+Competition
+ Pulp markets are large and highly competitive. Producers ranging from small independent manufacturers to large integrated companies produce pulp worldwide. Our pulp and customer services compete with similar products manufactured and distributed by others. While many factors influence our competitive position, particularly in weak economic times, a key factor is price. Other factors include service, quality and convenience of location. Some of our competitors are larger than we are in certain markets and have substantially greater financial resources. These resources may afford those competitors more purchasing power, increased financial flexibility, more capital resources for expansion and improvement and enable them to compete more effectively. Our key NBSK pulp competitors are principally located in Northern Europe and Canada and include Metsä Fibre, Södra Cell, Ilim, Paper Excellence, Canfor Pulp, and SCA.
+ (13)
+
+
+Pulp Production
+ Our pulp production capacity and actual production by mill for the periods indicated is set out below:
+  
+ | Annual Production | | Year Ended December 31, | | 
+----------------------+-------------------+-----------+-------------------------+---------+----------
+ | Capacity(1) | | 2020 | | | 2019
+ | | | | (ADMTs) | | 
+Rosenthal | | 360,000 | | | 348,384 | | 352,575 
+Stendal | | 660,000 | | | 659,827 | | 656,714 
+Celgar | | 520,000 | | | 444,036 | | 433,432 
+Peace River | | 475,000 | | | 449,213 | | 444,102 
+Cariboo(2) | | 170,000 | | | 149,624 | | 153,759 
+Total pulp production | | 2,185,000 | | | 2,051,084 | | 2,040,582
+
+
+(1) | Capacity is the rated capacity of the plants for the year ended December 31, 2020.
+----+-----------------------------------------------------------------------------------
+
+
+(2) | MPR’s 50% joint venture interest in the Cariboo mill.
+----+------------------------------------------------------
+
+Generation and Sales of Green Energy and Chemicals
+ General
+ Our pulp mills are large scale bio-refineries that, in addition to pulp, also produce surplus “carbon neutral” or green energy. As part of the pulp production process, our mills generate green energy using carbon neutral bio-fuels such as black liquor and wood waste. Through the incineration of bio-fuels in the recovery and power boilers, our mills produce sufficient steam to cover all of our steam requirements and allow us to produce surplus electricity which we sell to third-party utilities or into the regional electricity market. As a result, we have benefited from green energy legislation, incentives and commercialization that have developed over the last decades in Europe and Canada. In addition, in recent years we have applied considerable resources to increasing our capacity to produce and sell chemicals, primarily tall oil for use in numerous applications including bio-fuels.
+ Our Friesau mill also generates and sells green energy produced from its biomass cogeneration power plant.
+ Our surplus energy and chemical sales provide us with a stable revenue source unrelated to pulp or lumber prices. Since our energy and chemical production are by-products of our production processes, there are minimal incremental costs and our surplus energy and chemical sales are highly profitable. We believe that this revenue source gives our mills a competitive advantage over other older mills which do not have the equipment or capacity to produce and/or sell surplus power and/or chemicals in a meaningful amount.
+ (14)
+
+
+The following table sets out our electricity generation and surplus electricity sales for the five years ended December 31, 2020:
+ Electricity Generation and Exports
+
+
+ 
+(1) | Does not include electricity generation and exports of our 50% joint venture interest in the Cariboo mill, which is accounted for using the equity method.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Includes results of MPR from December 10, 2018.
+----+------------------------------------------------
+
+ The following chart sets forth our consolidated revenues from electricity and chemical sales for the five years ended December 31, 2020: 
+ Energy and Chemical Revenue
+
+
+ 
+(1) | Does not include energy revenues of our 50% joint venture interest in the Cariboo mill, which is accounted for using the equity method.
+----+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Includes results of MPR from December 10, 2018.
+----+------------------------------------------------
+
+ (15)
+
+
+
+Germany
+ Until December 31, 2020, all of our German mills participated in a program established pursuant to the Renewable Energy Act, which provides for premium pricing on green energy. In 2020, the German government proposed measures that would have, among other things, extended the time period that such tariffs would be available for pulp mills. However, such measures did not come into effect. As a result, commencing January 1, 2021, the prior special tariff in respect of our Rosenthal mill expired and it began selling its surplus power at market rates which fluctuate over time. As a result of, among other things, the COVID-19 pandemic reducing power demand generally in Germany, market rates are currently materially lower than the prior prescribed special tariff. The German government has publicly announced that it will seek to further incentivize green energy production at pulp mills through additional measures in 2021. The special tariff for our Stendal mill is in effect until December 31, 2024 and for our Friesau mill until 2029.
+ In 2020, energy sales for our German pulp mills and the Friesau mill were approximately $78.0 million or 782,769 MWh.
+ In 2020, our Rosenthal and Stendal mills generated approximately $6.9 million from the sale of tall oil, a by-product of our production process, and other chemicals.
+ Canada
+ In September 2020, our Celgar mill renewed its electricity sales agreement with the provincial energy utility for a ten-year term. Pursuant to the new agreement, which expires in October 2030, the mill agreed to supply a maximum of approximately 127,000 MWh of surplus electrical energy annually to the utility. Compared to the prior agreement, the new agreement provides for the sale of approximately 80% of the mill’s surplus power at about 80% of the previous price but provides us with greater flexibility and optionality to pursue and effect “market” sales and other strategic initiatives with respect to the mill’s surplus power. 
+ In 2020, our Celgar mill sold approximately 134,444 MWh of renewable electricity for proceeds of approximately $10.9 million.
+ The Peace River mill has a production capacity of approximately 70 MW of electrical generation and its surplus electricity is sold into the Alberta market. 
+ In 2020, our Peace River mill sold approximately 66,306 MWh of renewable electricity for proceeds of approximately $5.2 million.
+ The Cariboo mill sells electricity to a public utility provider at a fixed rate pursuant to a long-term electricity purchase agreement that runs until December 2022 and may be extended for an additional ten-year term at the option of the joint venture.
+ (16)
+
+
+Cash Production Costs
+ The following table sets forth our consolidated cash production costs and cash production costs per ADMT for our pulp segment, and a reconciliation of such amounts to cost of sales, excluding depreciation and amortization, as presented in our consolidated financial statements, for the periods indicated:
+
+ | Year Ended December 31, | | 
+-----------------------------------------------------------------------------------------------------+-------------------------+-----------+--------------
+ | 2020 | | | 2019 | | 
+ | (in thousands) | | (per ADMT)(1) | (in thousands) | | (per ADMT)(1)
+Fiber | $ | 422,376 | | | $ | 222 | $ | 491,834 | | $ | 261
+Labor | | 109,534 | | | | 58 | | 117,245 | | | 62 
+Chemicals | | 101,263 | | | | 53 | | 109,226 | | | 58 
+Energy | | 36,469 | | | | 19 | | 40,646 | | | 22 
+Other | | 137,122 | | | | 72 | | 163,059 | | | 86 
+Pulp segment cash production costs(2) | | 806,764 | | | $ | 424 | | 922,010 | | $ | 489
+Purchased pulp(3) | | 76,875 | | | | | | 97,384 | | | 
+Pulp segment other direct costs(4) | | 138,314 | | | | | | 180,426 | | | 
+Pulp segment cost of sales, excluding depreciation and amortization | | 1,021,953 | | | | | | 1,199,820 | | | 
+Wood products segment and corporate and other cost of sales, excluding depreciation and amortization | | 153,794 | | | | | | 155,750 | | | 
+Intercompany eliminations | | (12,020 | ) | | | | | (15,190 | ) | | 
+Cost of sales, excluding depreciation and amortization | $ | 1,163,727 | | | | | $ | 1,340,380 | | | 
+
+
+(1) | Cash production costs per ADMT are cash production costs divided by pulp production for the year.
+----+--------------------------------------------------------------------------------------------------
+
+
+(2) | Cash production costs exclude depreciation and amortization.
+----+-------------------------------------------------------------
+
+
+(3) | Pulp purchased from the 50% owned Cariboo mill, which is accounted for using the equity method.
+----+------------------------------------------------------------------------------------------------
+
+
+(4) | Other direct costs primarily consist of freight and the net change in finished goods inventory.
+----+------------------------------------------------------------------------------------------------
+
+Production Costs
+ Our major costs of pulp production are fiber, labor, chemicals and energy. 
+ Fiber, comprised of wood chips and pulp logs, is our most significant operating expense for our pulp segment, representing about 52% of our pulp cash production costs in 2020. Further, fiber, in the form of sawlogs, represents about 69% of lumber cash production costs in 2020.
+ Given the significance of fiber to our total operating expenses and our limited ability to control its cost compared with our other operating costs, volatility in fiber costs can materially affect our margins and results of operations.
+ Fiber
+ General
+ Our mills are situated in regions which generally provide a relatively stable supply of fiber. The fiber consumed by our pulp mills consists of wood chips produced by sawmills as a by-product of the sawmilling process and pulp logs. Wood chips are small pieces of wood used to make pulp and are either wood residuals from the sawmilling process or pulp logs chipped especially for this purpose. Pulp logs consist of lower quality logs not used in the production of lumber. The Friesau mill consumes sawlogs and waste wood, which are cyclical in both price and supply.
+ Generally, the cost of wood chips, pulp logs and sawlogs is primarily affected by the supply and demand for lumber. Additionally, regional factors including harvesting levels, weather conditions and insect infestations can also have a material effect on the supply, demand and price for fiber.
+ While fiber costs and supply are subject to cyclical changes, we expect that we will be able to continue to obtain an adequate supply of fiber on reasonably satisfactory terms for our mills due to their locations and our long-term relationships with suppliers. We have not historically experienced any significant fiber supply interruptions for our operations.
+ (17)
+
+
+During the past few years, certain customers have endeavored to purchase pulp that is produced using fiber that meets certain recognized wood certification requirements from forest certification agencies like the Forest Stewardship Council (FSC), the Programme for the Endorsement of Forest Certification (PEFC), the Sustainable Forestry Initiative (SFI) and the Canadian Standards Association (CSA). If the fiber we purchase does not meet certain wood certifications required by customers, it may make it more difficult to, or prevent us from, selling our pulp to such customers. The chain of custody wood certification process is a voluntary process which allows a company to demonstrate that they use forest resources in accordance with strict principles and standards in the areas of sustainable forest management practices and environmental management. In an effort to procure wood only from sustainably managed sources, we employ an FSC Chain of Custody protocol for controlled wood and PEFC certification, which requires tracking of fiber origins and preparing risk based assessments regarding the region and operator. In the areas where we operate, we are actively engaged in the further development of certification processes. However, there is competition among private certification systems along with efforts by supporters to further these systems by having customers of forest products require products to be certified to their preferred system. Such wood certification standards continue to evolve and are not consistent from jurisdiction to jurisdiction or how they are interpreted and applied. We currently do not expect certification requirements to have a material adverse impact on our fiber procurement and sales. However, if sufficient marketplace demand requires wood raw materials to be sourced from standards that are inconsistent with those in our fiber supply regions, it could increase our operating costs and available harvest levels.
+ Germany
+ We believe we are the largest consumer of wood chips and pulp logs in Germany and often provide the best long-term economic outlet for the sale of wood chips in Eastern Germany. We coordinate the wood procurement activities for our German mills to reduce overall personnel and administrative costs, provide greater purchasing power and coordinate buying and trading activities. This coordination and integration of fiber flows also allows us to optimize transportation costs, and the species and fiber mix for our mills. We are also party to a joint wood purchasing arrangement with one of the largest wood consumers in Europe.
+ In 2020, our German pulp mills consumed an aggregate of approximately 5.1 million cubic meters of fiber. Approximately 59% was in the form of pulp logs and approximately 41% was in the form of sawmill wood chips.
+ In 2020, our per unit pulp fiber costs in Germany decreased compared to 2019, primarily as a result of the availability of beetle damaged wood. 
+ Our Rosenthal mill sources wood chips from approximately 20 sawmills located primarily in the German states of Bavaria, Baden-Württemberg and Thuringia and primarily within a 300 kilometer radius of the Rosenthal mill. Within this radius, the Rosenthal mill is the largest consumer of wood chips. Given its location and size, the Rosenthal mill is often the best economic outlet for the sale of wood chips in the area. In 2020, approximately 94% of the fiber consumed by the Rosenthal mill was spruce and the remainder was pine. Wood chips for the Rosenthal mill are normally sourced from sawmills under one-year contracts with quarterly adjustments for market pricing. Substantially all of our chip supply is sourced from suppliers with which we have long-standing relationships. Pulp logs are sourced from the state forest agencies in Thuringia, Saxony and Bavaria and from private and municipal forest owners. In addition, the Rosenthal mill buys relevant volumes from dealers and via imports from the Czech Republic.
+ The core wood supply region for the Stendal mill includes most of the Northeastern and Western part of Germany, primarily within an approximate 400 kilometer radius of the mill. We also purchase wood chips from Southwestern and Southern Germany as well as the Baltic Sea region. The fiber consumed by the Stendal mill consisted of approximately 62% spruce, 36% pine and 2% other species in 2020. The Stendal mill has sufficient chipping capacity to fully operate solely using pulp logs, if required. We source pulp logs from private and municipal forest owners and from state forest agencies. Our Stendal mill has historically also imported fiber from Poland and the Baltic Sea region.
+ Our Friesau mill is dependent on the consistent supply of sawlog fiber. Wood fiber is the single largest input cost and accounts for about 69% of its cash costs of producing lumber in 2020. Our Friesau mill is located in an area where there is a significant amount of high-quality fiber within economic reach. The wood fiber requirements of the Friesau mill are met primarily through open market purchases and contract purchases from state forestry agencies and private and municipal forest owners.
+ (18)
+
+
+In Germany, over the last several years, the price and supply of wood chips has been affected from time to time by increasing demand from alternative or renewable energy producers and government initiatives for carbon neutral energy. Declining energy prices, weaker economies and warm winters tempered the demand for wood chips resulting from initiatives by European governments to promote the use of wood as a carbon neutral energy. There can be no assurance that such non-traditional demand for fiber will not be stronger in the long-term.
+ Offsetting some of the increases in demand for wood fiber have been initiatives to increase harvest levels in Germany, particularly from small private forest owners which have been harvested at rates much lower than their rate of growth. We believe that Germany has the highest availability of softwood forests in Europe suitable for harvesting and manufacturing. 
+ Canada
+ In 2020, the Celgar mill consumed approximately 2.4 million cubic meters of fiber. Approximately 70% of such fiber was in the form of sawmill wood chips and the remaining 30% came from pulp logs processed through its woodroom or chipped by a third-party. Celgar’s woodroom is able to process about 40% of the mill’s fiber needs. The source of fiber at the mill is characterized by a mixture of species (pine, douglas fir, hemlock, cedar and spruce) and the mill sources fiber from a number of Canadian and U.S. suppliers.
+ In 2020, our Celgar mill’s per unit fiber costs decreased compared to 2019, due to strong sawmill activity in the mill’s fiber procurement area but remained at historically high levels due to strong demand for fiber in the mills’ fiber procurement areas. 
+ The availability of fiber for the Celgar mill is in large part influenced by the strength of the lumber market. Lumber markets are primarily driven by U.S. housing starts, home renovation activities and, to a lesser degree, demand from China. 
+ In 2020, the Celgar mill had access to over 25 different chip suppliers from Canada and the United States. Chips are purchased in Canada and the United States in accordance with chip purchase agreements. Generally, pricing is reviewed and adjusted periodically to reflect market conditions. The contracts are generally for one year with quarterly adjustments or on three-month terms.
+ To secure the volume of pulp logs required by its woodroom and field chippers, the Celgar mill has entered into pulp log supply agreements, which can range from three-month to one-year terms, with a number of different suppliers, many of whom are also contract chip suppliers to the mill. All of the pulp log agreements can be terminated by either party for any reason, upon seven days’ written notice. The Celgar mill also bids on British Columbia timber sales from time to time. 
+ In 2020, our Peace River mill consumed approximately 2.4 million cubic meters of softwood and hardwood fiber. Approximately 55% of such fiber was in the form of hardwood chips from portable chippers and the remaining 45% came from sawmills in the form of residual softwood chips. The source of fiber at the mill is characterized by a mixture of softwood (spruce and pine) and hardwood species (aspen and balsam poplar) and the mill sources fiber from a number of Canadian suppliers.
+ MPR holds two 20-year renewable governmental forest management agreements and three deciduous timber allocations in Alberta with an aggregate allowable annual cut of approximately 2.4 million cubic meters of hardwood, of which it currently harvests approximately 44%, and 400,000 cubic meters of softwood, which it sells or trades to sawmills surrounding the Peace River mill in exchange for wood chips. The forest management agreements were last renewed for a 20-year term expiring in 2029. While our Peace River mill can satisfy all of its hardwood fiber requirements from its forest management agreements and timber allocations, in order to optimize its fiber flow, it satisfies a small portion of its needs from third-party owned timberlands. Softwood fiber supply is from residual sawmill chips from local surrounding sawmills. 
+ In 2020, the Peace River mill had access to several different softwood chip suppliers. Chips are purchased in accordance with chip purchase agreements. Generally, pricing is reviewed and adjusted periodically to reflect market prices. All contracts are generally for three to five years with monthly adjustments indexed on the average pulp price for the previous three months.
+ (19)
+
+
+Labor
+ Our labor costs are generally steady, with small overall increases due to inflation in wages and health care costs. We have generally been able to largely offset such increases by increasing our efficiencies and production and streamlining operations.
+Energy
+ Our energy is primarily generated from renewable carbon neutral sources, such as black liquor and wood waste. Our mills produce all of our energy requirements and generate excess energy which we sell to third-party utilities and to regional markets. We utilize fossil fuels, such as natural gas, primarily in our lime kilns and we use a limited amount for start-up and shut-down operations. Additionally, from time to time, mill process disruptions occur and we consume small quantities of purchased electricity and fossil fuels to maintain operations. As a result, all of our mills are subject to fluctuations in the prices for fossil fuels.
+Chemicals
+ Our pulp mills use certain chemicals which are generally available from several suppliers and sourcing is primarily based upon pricing and location. Our chemical costs have generally been stable in recent years.
+ In connection with our focus on the growing bio-energy market, we sell tall oil, a by-product of our pulp production process which is used as both a chemical additive and as a green energy source. In 2020, we generated approximately $6.9 million from the sale of tall oil and other chemicals from our pulp segment.
+ Sales, Marketing and Distribution
+ Our pulp revenues by geographic area are set out in the following table for the periods indicated:
+ 
+ 
+ | Year Ended December 31, | 
+----------------+-------------------------+----------
+ | 2020 | | 2019 | | 
+ | (in thousands) | 
+Germany | $ | 268,978 | | $ | 356,803 
+Italy | | 33,166 | | | 40,782 
+Other Europe(1) | | 158,119 | | | 207,870 
+United States | | 149,759 | | | 168,197 
+China | | 364,527 | | | 430,508 
+Other Asia | | 141,695 | | | 150,012 
+Other countries | | 14,058 | | | 16,570 
+Total(2) | $ | 1,130,302 | | $ | 1,370,742
+
+
+(1) | Excluding Germany and Italy.
+----+-----------------------------
+
+
+(2) | Excluding intercompany sales.
+----+------------------------------
+
+ (20)
+
+
+
+The following charts illustrate the geographic distribution of our pulp revenues as a percentage of our total pulp revenues for the periods indicated: 
+ 
+ 
+* | Excluding Germany and Italy.
+--+-----------------------------
+
+ The distribution of our pulp sales volumes by end use are set out in the following table for the periods indicated:
+ 
+ 
+ | Year Ended December 31, | 
+-------------------+-------------------------+------
+ | 2020 | | 2019 | 
+ | (in thousands of ADMTs) | 
+Tissue | | 807 | | 766 
+Specialty | | 338 | | 279 
+Printing & Writing | | 779 | | 1,008
+Other | | 105 | | 46 
+Total | | 2,029 | | 2,099
+
+ 
+Our lumber revenues by geographic area are set out in the following table for the periods indicated:
+ 
+ 
+ | Year Ended December 31, | 
+----------------+-------------------------+--------
+ | 2020 | | 2019 | | 
+ | (in thousands) | 
+United States | $ | 93,802 | | $ | 54,098 
+Germany | | 34,065 | | | 36,040 
+Other Europe(1) | | 25,313 | | | 25,525 
+Other countries | | 27,589 | | | 26,580 
+Total(2) | $ | 180,769 | | $ | 142,243
+
+
+(1) | Excluding Germany.
+----+-------------------
+
+
+(2) | Excluding intercompany sales.
+----+------------------------------
+
+ 
+(21)
+
+
+
+The following charts illustrate the geographic distribution of our lumber revenues as a percentage of our total lumber revenues for the periods indicated: 
+ 
+ 
+* | Excluding Germany.
+--+-------------------
+
+ 
+Our global sales and marketing group is responsible for conducting all sales and marketing of the pulp produced at our mills and currently has approximately 25 employees. This group largely handles all European and North American sales directly. Sales to Asia are made directly or through commission agents overseen by our sales group. The global sales and marketing group handles sales to over 240 customers. We coordinate and integrate the sales and marketing activities of our German mills to realize on a number of synergies between them. These include reduced overall administrative and personnel costs and coordinated selling, marketing and transportation activities. We also coordinate pulp sales across our mills on a global basis, thereby providing our larger customers with seamless service across all major geographies. In marketing our pulp, we seek to establish long-term relationships by providing a competitively priced, high-quality, consistent product and excellent service. In accordance with customary practice, we maintain long-standing relationships with our customers, pursuant to which we periodically reach agreements on specific volumes and prices.
+ Our lumber sales are handled by our sales teams in Germany and Vancouver. We also sell lumber through commissioned agents in certain markets.
+ Our pulp and lumber sales are on customary industry terms. At December 31, 2020, we had no material payment delinquencies. In 2020 and 2019, no customer accounted for 10% or more of our revenues. We do not believe our pulp sales are dependent upon the activities of any single customer and the loss of any single customer would not have a material adverse effect on us.
+ Transportation
+ We transport our pulp and lumber generally by truck, rail and ocean carriers through third-party carriers. We have a small fleet of trucks in Germany that deliver some of our German mills’ pulp.
+ Our German pulp mills are currently the only market kraft pulp producers in Germany, which is the largest import market for kraft pulp in Europe. We therefore have a competitive transportation cost advantage compared to Canadian and Northern European pulp producers when shipping to customers in Europe. Due to the location of our German mills, we are able to deliver pulp to many of our customers primarily by truck and rail. 
+ Our Canadian mills’ pulp is transported to customers by truck, rail and ocean carrier to ensure timely delivery. The majority of our Canadian mills’ pulp for overseas markets is initially delivered primarily by rail to the Port of Vancouver for shipment overseas by ocean carrier. Based in Western Canada, our Canadian mills are well positioned to service Asian customers. The majority of our Canadian mills’ pulp for domestic markets is shipped by rail directly to the customer or to third-party warehouses in the United States. We also operate a logistics and reload center near Trail, British Columbia to provide us with additional warehouse space and greater transportation flexibility in terms of access to rail and trucking options.
+ The Friesau mill’s lumber is transported to customers by truck, rail and ocean carriers through third-party carriers.
+ (22)
+
+
+In each of 2020 and 2019, outbound transportation costs comprised approximately 13% and 11%, respectively, of our total consolidated costs and expenses. 
+ Capital Expenditures
+ We have continued to make capital investments designed to increase pulp, green energy and chemical production, reduce costs and improve efficiency and environmental performance at our pulp mills. The improvements made over the years have increased the competitive position of our pulp segment. Since its acquisition, we have also made capital investments to optimize sawmill production at the Friesau mill.
+ Total capital expenditures at our mills (excluding any related governmental grants) are set out in the following table for the periods indicated:
+ 
+ 
+ | Year Ended December 31, | 
+------------+-------------------------+-------
+ | 2020 | | 2019 | | 
+ | (in thousands) | 
+Rosenthal | $ | 9,786 | | $ | 13,334 
+Stendal | | 21,881 | | | 20,622 
+Celgar | | 11,816 | | | 48,587 
+Peace River | | 10,268 | | | 20,523 
+Friesau | | 23,788 | | | 28,425 
+Total | $ | 77,539 | | $ | 131,491
+
+ Capital investments at the Rosenthal mill in 2020 and 2019 primarily related to wastewater improvement and maintenance projects. 
+ Capital investments at the Stendal mill in 2020 primarily related to capacity expansion, land for fiber storage and maintenance projects. In 2019, they primarily related to wastewater improvement projects including the extension of the effluent treatment plant and other projects. 
+ In June 2018, we commenced a Phase II expansion and optimization project at the Friesau mill, which is designed to, among other things, increase annual lumber production to approximately 750 MMfbm of lumber and improve production grade capabilities and efficiencies. We currently expect to substantially complete the project in the first half of 2021.
+ Capital investments at the Celgar mill in 2020 primarily related to fiber consumption improvement projects and maintenance projects. In 2019, they primarily related to improvements to the mill’s bale line, a turpentine extraction project and other production improvement projects. 
+ Capital investments at the Peace River mill in 2020 and 2019 primarily related to large maintenance projects. 
+ Certain of our capital investment programs in Germany were partially financed through government grants made available by German federal and state governments. Under legislation adopted by the federal and certain state governments of Germany, government grants were provided to qualifying businesses operating in Eastern Germany to finance capital investments. The grants were made to encourage investment and job creation. 
+ Qualifying capital investments at industrial facilities in Germany that reduce pollutants in the effluent discharge offset wastewater fees that would otherwise be required to be paid. For more information about our environmental capital expenditures, see “– Environmental”.
+ In 2021, excluding amounts being financed through government grants and expected insurance proceeds, we currently expect our total capital expenditures to be approximately $150.0 million.
+ In our pulp segment, excluding our Peace River mill, we currently expect our capital expenditures in 2021 to be principally comprised of capacity expansion projects for the Stendal mill, wastewater improvement and maintenance projects. At the Peace River mill we will be undertaking significant maintenance to the boiler that will be funded by insurance proceeds. 
+ (23)
+
+
+In our wood products segment, we currently expect capital expenditures in 2021 at our Friesau mill to be approximately $30.0 million for further upgrades to our sorter line and other capital improvement and maintenance projects.
+ Innovation
+ We utilize our expertise with wood, its processing and by-products to expand our product mix. As a result, we seek to develop new products based on our expertise working with derivatives of the kraft pulping process and wood processing. Currently these processes are focused on:
+
+• | the further refinement of materials contained in black liquor, the extractive chemical and lignin containing compounds that are a result of the kraft pulping process;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the further refinement of cellulose materials that are currently the basis of pulp; and
+--+----------------------------------------------------------------------------------------
+
+
+• | higher use products that may be derived from wood and plant processing and harvesting including oils from sandalwood trees and plants.
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+ We are working on some of these initiatives on our own and with others in conjunction with industry associations or joint venture partners. We are also researching potential higher use products that may be derived from processing different species of trees and plants. 
+ Environmental
+ Our operations are subject to a wide range of environmental laws and regulations, dealing primarily with:
+  
+• | air, water and land;
+--+---------------------
+
+
+• | solid and hazardous waste management;
+--+--------------------------------------
+
+
+• | waste disposal;
+--+----------------
+
+
+• | remediation and contaminated sites; and
+--+----------------------------------------
+
+
+• | chemical usage.
+--+----------------
+
+ Compliance with these laws and regulations generally involves capital expenditures as well as additional operating costs. We cannot easily quantify the future amounts of capital expenditures we might have to make to comply with these laws and regulations or the effects on our operating costs because in some instances compliance standards have not been developed, have not become final or definitive or may be amended in the future. In addition, it is difficult to isolate the environmental component of most manufacturing capital projects.
+ We devote significant management and financial resources to comply with all applicable environmental laws and regulations. In particular, the operation of our plants is subject to permits, authorizations and approvals and we have to comply with prescribed emission limits. Compliance with these requirements is monitored by local authorities and non-compliance may result in administrative orders, fines or closures of the non-compliant mill. Our total capital expenditures on environmental projects at our mills were approximately $2.3 million in 2020 and approximately $16.7 million in 2019. In 2021, capital expenditures for environmental projects, principally comprised of projects to improve wastewater quality, are expected to be approximately $13.2 million.
+ Environmental responsibility is a priority for our operations. To ensure compliance with environmental laws and regulations, we regularly monitor emissions at our mills and periodically perform environmental audits of operational sites and procedures both with our internal personnel and outside consultants. These audits identify opportunities for improvement and allow us to take proactive measures at the mills as considered appropriate.
+ We believe we have obtained all required environmental permits, authorizations and approvals for our operations. We believe our operations are currently in material compliance with the requirements of all applicable environmental laws and regulations and our respective operating permits.
+ Under German state environmental rules relating to effluent discharges, industrial users are required to pay wastewater fees based upon the amount of pollutants they discharge in their effluent. These rules also provide that an industrial user which undertakes environmental capital expenditures and lowers certain effluent pollutants to prescribed levels may offset the amount of these expenditures against the wastewater fees that they would otherwise be required to pay. We expect capital investment programs and other environmental initiatives at our German mills 
+ (24)
+
+
+will continue to offset the wastewater fees that are payable and we believe they will ensure that our operations continue in substantial compliance with prescribed standards.
+ In Canada, in addition to existing provincial air quality regulations, an air quality management system, referred to as “AQMS”, outlines a comprehensive national approach for improving air quality in Canada. Under the AQMS, all levels of government are to work collaboratively to respond to different air quality challenges across the country. The AQMS includes four elements:
+  
+• | Canadian Ambient Air Quality Standards (CAAQS), meant to drive local air quality improvements. They provide the basis for provincial territorial governments to determine the level of action needed.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A framework for regional and local air quality management through air zones and regional airsheds.
+--+---------------------------------------------------------------------------------------------------
+
+
+• | Base-level Industrial Emissions Requirements (BLIERs) for certain major industries.
+--+------------------------------------------------------------------------------------
+
+
+• | An intergovernmental working group to improve collaboration and reduce emissions from mobile sources (i.e. sources such as in-use cars and trucks).
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+ In 2016, Environment Canada released the Pan-Canadian Framework on Clean Growth and Climate Change. The framework put in place a national, sector-based greenhouse gas reduction program applicable to a number of industries. In addition, the various provincial governments, including British Columbia and Alberta, have introduced legislation with the intention of reducing greenhouse gas emissions. 
+ British Columbia has, for example, introduced a carbon tax and low-carbon fuel standards. British Columbia has also implemented performance standards, such as greenhouse gas emissions benchmarks for select industrial facilities and sectors, and new greenhouse gas emissions reporting regulations for certain industrial operations. British Columbia has also established greenhouse gas emission offset projects.
+ In 2019, the federal government began phasing in a federal carbon tax pricing system in provinces and territories without a provincial carbon tax program. As of January 1, 2020, the federal carbon tax pricing system applies to Saskatchewan, Manitoba, Ontario, New Brunswick and Alberta, as well as the territories of Nunavut and the Yukon.
+ We believe that these water and air emission measures in Germany and Canada have not had, and in 2021 will not have, a significant effect on our operations. Although these measures could have a material adverse effect on our operations in the future, we expect that we will not be disproportionately affected by these measures as compared with owners of comparable operations. We also expect that these measures will not significantly disrupt our planned operations.
+ Future regulations or permits may place lower limits on allowable types of emissions, including air, water, waste and hazardous materials, and may increase the financial consequences of maintaining compliance with environmental laws and regulations or conducting remediation. Our ongoing monitoring and policies have enabled us to develop and implement effective measures to maintain emissions in substantial compliance with environmental laws and regulations to date in a cost-effective manner. However, there can be no assurance that this will be the case in the future.
+ Climate Change
+ Changing weather patterns and climatic conditions due to natural and man-made causes have added to the unpredictability and frequency of natural disasters, such as hurricanes, hail storms, wildfires and wind, snow and ice storms. Such changes and resulting conditions can adversely affect our operations, including variations in the cost and availability of raw materials, such as fiber, unplanned downtime, operating rates and transportation and logistics. There are differing scientific studies relating to the severity, extent and speed at which climate change is occurring and as a result, we are unable to identify and predict all of the consequences of climate change and the timing of the same on our business and operations.
+ The effects and perceived effects of climate change and social and governmental responses have created both opportunities and negative consequences for our business.
+ The focus on climate change has generated a substantial increase in demand and in legislative requirements for carbon neutral or green energy. Pulp mills consume wood residuals, being wood chips and pulp logs, as the base raw 
+ (25)
+
+
+material for their production process. Wood chips are residuals left over from lumber production and pulp logs are generally lower quality logs left over from logging that are unsuitable for the production of lumber. Sawmills consume sawlogs and residuals, like wood chips, are generally sold to other industrial consumers like pulp and pellet producers.
+ As part of their production process, our pulp mills take wood residuals and process them through a digester where cellulose is separated from the wood to be used in pulp production and the remaining residuals, called black liquor, are used for green energy production. As a result of their use of wood residuals and because our mills generate combined heat and power in a process known as cogeneration, they are efficient producers of energy. Our Friesau mill utilizes residual bark and shavings from consumed logs to produce energy. This energy is carbon neutral and produced from a renewable source. Our relatively modern mills generate a substantial amount of energy that is surplus to their operational requirements.
+ These factors, along with governmental initiatives in respect of renewable or green energy legislation, have provided business opportunities for us to enhance our generation and sales of green energy to regional utilities.
+ We are constantly exploring other initiatives to enhance our generation and sales of surplus green energy and chemical by-products. Other potential opportunities that may result from climate change include:
+  
+• | the expansion of softwood forests and increased growth rates for such forests;
+--+-------------------------------------------------------------------------------
+
+
+• | more intensive forestry practices and timber salvaging versus harvesting standing timber;
+--+------------------------------------------------------------------------------------------
+
+
+• | greater demand for sustainable energy and cellulosic biomass fuels; and
+--+------------------------------------------------------------------------
+
+
+• | additional governmental incentives and/or legislative requirements to enhance biomass energy production.
+--+---------------------------------------------------------------------------------------------------------
+
+ We cannot currently predict which, if any, of these potential opportunities will be realized by us or their economic effect on our business.
+ While not all of the specific consequences to our business from climate change are predictable, one of the most significant adverse consequences is that the focus on renewable energy has created greater demand and competition for wood residuals or fiber from renewable energy producers like the pellet industry in Germany.
+ In Germany, the price and supply of wood residuals have been periodically affected by an increasing demand from alternative or renewable energy producers and governmental initiatives for carbon neutral energy. Declining energy prices, weaker economies and warm winters temper the demand for wood chips resulting from initiatives by European governments to promote the use of wood as a carbon neutral energy. There can be no assurance that such non-traditional demand for fiber will not be stronger in the long-term. Additionally, the growing interest and focus in British Columbia for renewable green energy has created additional competition for such fiber. Such additional demand for wood residuals may increase the competition and prices for wood residuals over time.
+ In response to climate change risks, there have been governmental initiatives and legislation on the international, national, state and local levels. Such governmental action or legislation can have an important effect on the demand and prices for fiber. As governments pursue green energy initiatives, they risk creating incentives and demand for wood residuals from renewable energy producers that “cannibalizes” or adversely affects traditional users, such as lumber and pulp and paper producers. We are continually engaged in dialogue with governments to educate and try to ensure potential initiatives recognize the traditional and continuing role of our mills in the overall usage of forestry resources and the economies of local communities.
+ Other potential negative consequences from climate change that can affect our business include:
+  
+• | a greater susceptibility of northern forests to disease, fire and insect infestation;
+--+--------------------------------------------------------------------------------------
+
+
+• | the disruption of transportation systems and power supply lines due to more severe storms;
+--+-------------------------------------------------------------------------------------------
+
+
+• | the loss of fresh water transportation for logs and pulp due to lower water levels;
+--+------------------------------------------------------------------------------------
+
+
+• | decreases in the quantity and quality of processed water for our mill operations;
+--+----------------------------------------------------------------------------------
+
+ (26)
+
+
+
+ 
+• | the loss of northern forests in areas in sufficient proximity to our mills to competitively acquire fiber; and
+--+---------------------------------------------------------------------------------------------------------------
+
+
+• | lower harvest levels decreasing the supply of harvestable timber and, as a consequence, wood residuals.
+--+--------------------------------------------------------------------------------------------------------
+
+ Well-publicized events have been attributed at least in part to climate change, including a beetle infestation in Western Canada that has damaged significant amounts of forest lands and harvestable timber. In the last couple of years, Germany is experiencing a similar beetle infestation that has affected a large portion of its forests. Changes in climate conditions have also been attributed at least in part to increasingly frequent and severe wildfires in the interior of Western Canada and portions of the western United States and Europe. We cannot currently predict whether such climate-affected conditions will continue, or the frequency or severity of the same in the future.
+ Wood Products Industry
+ General
+ With approximately 3.7 billion cubic meters, Germany has the largest timber reserves in Europe. The principal trees are spruce, pine, beech and oak. Approximately 70 to 80 million cubic meters are harvested annually. Many of the German forest areas have been certified according to PEFC or FSC standards. Modern solid wood products include sawn and planed lumber which are used in different areas.
+ Demand for softwood lumber is cyclical and influenced by transportation costs, exchange rates, government tariffs and competitiveness of substitute products, as well as factors that affect consumer confidence and drive demand for residential construction, such as interest rates, disposable income, unemployment rates, perceived job security and other indicators of general economic conditions. Demand can vary from region to region within a country and seasonal factors that determine optimal building conditions can also affect demand.
+ Lumber Products and Markets
+ Our Friesau mill, which was built in 1992 and has two high-volume Linck sawlines, has the ability to produce both rough and planed products. The sawmill principally manufactures finished sawn lumber milled from spruce and pine, including European metric and specialty lumber, U.S. dimensional lumber and J-grade lumber, in various sizes and grades.
+ The process for manufacturing lumber results in a significant percentage of each sawlog ending up as by-products or residuals such as wood chips, trim blocks, sawdust shavings and bark. By-products are typically used as fuel for our cogeneration power plant or sold to a wide variety of customers. In addition, we utilize a significant portion of the chips from the Friesau mill at our Rosenthal pulp mill.
+ The main markets for our lumber products are in the United States, Europe and the Far East.
+ Our Friesau mill fosters a diverse customer base in each of its key markets. Customers include national and regional distributors, large construction firms, secondary manufacturers, retail yards and home centers.
+ Competition
+ The markets for our lumber products are highly competitive on a global basis and producers compete generally on price, quality and service. Factors influencing our competitive position include, among others, the availability, quality and cost of raw materials, including fiber, energy and labor and the efficiency and productivity of the Friesau mill in relation to its competitors. The Friesau mill competes in international markets subject to currency fluctuations and global business conditions.
+ Our Friesau mill competes against many producers, a number of whom own and operate more mills than we do and numerous competitors have greater financial resources or lower production costs than us.
+ (27)
+
+
+Human Capital
+ We employ a collaborative group of skilled, dedicated, resourceful and innovative individuals that support our core purpose and reflect our values every day. Investment in our people drives our excellence and accordingly, we are committed to attracting, retaining and developing quality personnel. By nature of the industries in which we operate, many of our employees are professionals who require specialized knowledge and skills and include various categories of engineers and many licensed trade persons and equipment operators. Our senior managers and directors have extensive experience in the forest products industry, and we have experienced managers at all of our mills. Our management has a proven track record of implementing new initiatives and capital projects in order to reduce costs throughout our operations as well as identifying and harnessing new revenue opportunities. 
+ As of December 31, 2020, we employ approximately 2,375 people, of which approximately 1,505 employees work in our German operations and approximately 830 employees work in our Canadian operations. Our pulp segment employs approximately 1,875 people and our wood products segment employs approximately 430 people. The majority of our employees in both segments are bound by collective agreements. We consider the relationships with our employees, and the unions which represent them, to be good. Strong labor management relations are fundamental to our operations. Accordingly, we recognize and work cooperatively with the unions to ensure we build and maintain superior working conditions, a supportive work environment, training and growth opportunities and fair compensation packages. 
+ Health and Safety
+ Safety is a core value of our company. The industries in which we operate have their own particular set of risks including hazards from our complex industrial manufacturing facilities such as manufacturing processes, heavy and complex equipment, operating boilers, energy production, and the use and recovery of chemicals. Accordingly, there is no initiative that attracts a higher degree of focus for our management team than our “Road to Zero” program, which is a company-wide initiative to create safe and productive work environments with a goal of zero workplace incidents. 
+ We have developed tools to analyze potential and incurred incidents and we have resources to develop prevention initiatives. In particular, we focus on modelling responses to eliminate the risk, where possible, by using the "hierarchy of controls" adopted by many of the world's leading health and safety organizations. Our priority is the elimination of hazards, followed by safe administrative practices and the appropriate personal protective equipment. We identify, monitor, educate, and take a data-driven approach to drive workplace safety improvements. Many of our programs revolve around education, hazard identification, and risk mitigation strategies. These proactive initiatives bring safety to the forefront of our work practices. Our teams of safety professionals are dedicated to finding and utilizing the right tools to prevent all workplace injuries. Our Chief Executive Officer is the Chair of our Senior Safety Leadership Committee, referred to as the "SSLC", which designs and implements broad policies, strategies, expenditures, and training for our employees. The SSLC has engaged a globally recognized safety consultant specializing in the design and implementation of health and safety management systems. Such advisors have been supporting the initiatives established by the SSLC and providing leadership training, policy implementation, and practical tools to support our employees. 
+ We closely monitor the health and safety issues related to the COVID-19 pandemic. In 2020, we encouraged and supported remote-access initiatives so that key staff can work from home or from non-office locations; restricted business travel, based on guidance from the World Health Organization; provided alternative arrangements for site and staff meetings; provided safe working environments that include disinfection of work stations, increased cleaning by janitorial staff, separated shifts, limited staff gatherings in lunchrooms; and instituted social distancing and self-assessment opportunities, which were overseen by trained staff. Employees experiencing cold- or flu-like symptoms were prohibited from coming into the operations and were advised to seek medical attention in line with provincial and regional COVID-19 guidelines. From an operational standpoint, we aligned the work processes at our operating locations within the guidelines of relevant authorities and remained fully operational. A dedicated leadership team met daily to respond to evolving developments and to adjust our operations accordingly while ensuring the safety and health of our employees, contractors, customers, and partners. 
+ (28)
+
+
+Employee Engagement and Development
+ We aim to support our employees with a well-paying job, rich career opportunities, and a balanced and secure future accompanied by time away from work. All of our employees are provided competitive benefits packages that provide pension, medical, dental, and vision care benefits. Employees are also able to access specialized assistance such as physiotherapy, lifestyle, retirement planning, and family counselling services. We provide a deep mix of training to help our people grow and be more effective in their current and future roles. Our partnership with a global management institute in Switzerland provides company-focused management and strategic development training for our future leaders. 
+Diversity, Equity and Inclusion 
+ We believe that a culture of diversity and inclusion is critical in making the best decisions for our people and achieving sustainable business success. While gender is only one aspect under diversity, a number of our top management positions were and continue to be held by women. We continue to effect changes to our recruiting and training processes to make our workplaces even more reflective of the diversity that exists in our communities.
+ We have partnered with a global management consulting company that works to create "Change that Matters". Their long-standing commitment to advancing gender parity, diversity, and inclusion in business aligns with our values and goals. We are working together to create a custom strategy to assist us in becoming the employer of choice, both locally and globally, for future employees.
+ We do not employ nor do we contract with any parties that employ people who are subjected to unsafe conditions. The vast majority of our employees are part of a union or are represented by a works council with whom we have worked to design conditions that are safe from harassment, and discrimination. In addition, as a supportive workplace, we do our best to accommodate the distinct circumstances of our employees that may require modified workplaces. We have also adopted a written Code of Business Conduct and Ethics to support a corporate culture which, among other things, promotes a work environment that prohibits intimidation and harassment and encourages and promotes diversity and inclusion.
+ Description of Certain Indebtedness
+ The following summarizes certain material provisions of our senior notes and revolving working capital facilities. The summaries are not complete and are qualified by reference to the applicable documents and the applicable amendments to such documents on file with the U.S. Securities and Exchange Commission, referred to as the “SEC”, and incorporated by reference herein.
+Senior Notes
+ In January 2021, we issued $875.0 million aggregate principal amount of 5.125% senior notes due February 1, 2029, referred to as the “2029 Senior Notes” to refinance all $250.0 million in aggregate principal amount of our 6.500% Senior Notes due 2024, referred to as the “2024 Senior Notes”, pursuant to a tender offer and a subsequent redemption and to redeem all $550.0 million in aggregate principal amount of our 7.375% senior notes due 2025, referred to as the “2025 Senior Notes”. After giving effect to the foregoing transactions, we now have outstanding the following issues of senior notes, collectively referred to as the “Senior Notes”:
+
+• | $300.0 million in aggregate principal amount of 5.500% senior notes due 2026, referred to as the “2026 Senior Notes”; and
+--+--------------------------------------------------------------------------------------------------------------------------
+
+
+• | $875.0 million in aggregate principal amount of 2029 Senior Notes.
+--+-------------------------------------------------------------------
+
+ (29)
+
+
+
+The 2026 Senior Notes mature on January 15, 2026 and interest on the 2026 Senior Notes is payable semi-annually in arrears on each January 15 and July 15. Commencing July 15, 2018, interest is payable to holders of record of the 2026 Senior Notes on the immediately preceding January 1 and July 1 and is computed on the basis of a 360-day year consisting of twelve 30-day months. Commencing January 15, 2021, the 2026 Senior Notes will become redeemable at our option at a price equal to 102.750% of the principal amount redeemed and declining ratably on January 15 of each year thereafter to 100.000% on or after January 15, 2023.
+ The 2029 Senior Notes mature on February 1, 2029 and interest on the 2029 Senior Notes is payable semi-annually in arrears on each February 1 and August 1. Commencing August 1, 2021, interest is payable to holders of record of the 2029 Senior Notes on the immediately preceding January 15 and July 15 and is computed on the basis of a 360-day year consisting of twelve 30-day months. Commencing February 1, 2024, the 2029 Senior Notes will become redeemable at our option at a price equal to 102.563% of the principal amount redeemed and declining ratably on February 1 of each year thereafter to 100.000% on or after February 1, 2026.
+ The indentures governing the Senior Notes contain covenants limiting, among other things, our ability and the ability of our restricted subsidiaries to: incur additional indebtedness or issue preferred stock; pay dividends or make other distributions to our shareholders; purchase or redeem capital stock or subordinated indebtedness; make investments; create liens; incur restrictions on the ability of our restricted subsidiaries to pay dividends or make other payments to us; sell assets; consolidate or merge with or into other companies or transfer all or substantially all of our assets; and engage in transactions with affiliates. As of December 31, 2020, all of our subsidiaries were restricted subsidiaries.
+ The Senior Notes are unsecured and are not guaranteed by any of our operating subsidiaries, all of which are located outside the United States. Our obligations under the Senior Notes rank: effectively junior in right of payment to all of our existing and future secured indebtedness, to the extent of the assets securing such indebtedness, and all indebtedness and liabilities of our subsidiaries; equal in right of payment with all of our existing and future unsecured senior indebtedness; and senior in right of payment to any of our future subordinated indebtedness.
+ Pan-German Revolving Credit Facility
+ In December 2018, certain of our German subsidiaries entered into a €200.0 million joint revolving credit facility, referred to as the “German Facility”, with a group of bank lenders. The principal terms of the facility include:
+
+• | The total availability under the German Facility is €200.0 million.
+--+--------------------------------------------------------------------
+
+
+• | The German Facility matures in December 2023.
+--+----------------------------------------------
+
+
+• | The German Facility is unsecured and is jointly and severally guaranteed by each of our German subsidiaries.
+--+-------------------------------------------------------------------------------------------------------------
+
+
+• | Interest under the German Facility is payable on loans of Euribor plus 1.05% to 2.00% depending on the leverage ratio as defined in the underlying credit agreement.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A commitment fee equal to 35% of the applicable margin on the unused and uncancelled amount of the German Facility is payable quarterly in arrears.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The German Facility contains financial maintenance covenants which are tested on a quarterly basis, commencing March 31, 2019, which require: (i) our German subsidiaries that are party thereto to maintain a leverage ratio of “net debt” (excluding shareholder loans) to EBITDA of not greater than 3.50:1.00; and (ii) defined capital of not less than €400.0 million.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The German Facility contains other customary restrictive covenants which, among other things, govern the ability of our German subsidiaries to incur liens, sell assets, incur indebtedness, make acquisitions with proceeds from the German Facility, enter into joint ventures or repurchase or redeem shares. The German Facility also contains customary events of default.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The German Facility is available to all of the borrowers, subject to maximum borrowing sub-limits for certain of the borrowers.
+ (30)
+
+
+As of December 31, 2020, approximately €12.5 million ($15.3 million) of the German Facility was supporting bank guarantees leaving approximately €187.5 million ($230.1 million) available.
+ Celgar Working Capital Facility
+ In June 2020, our Celgar mill amended its revolving credit facility agreement with a Canadian bank to increase the principal amount to C$60.0 million, referred to as the “Celgar Working Capital Facility”. The principal terms of the facility include:
+
+• | The facility matures in July 2023.
+--+-----------------------------------
+
+
+• | The facility is available by way of: (i) Canadian and U.S. denominated advances, which bear interest at a designated prime rate less 0.125% to plus 0.125% per annum; (ii) banker's acceptance equivalent loans, which bear interest at the applicable Canadian dollar banker's acceptance plus 1.25% to 1.625% per annum; and (iii) dollar LIBOR advances, which bear interest at LIBOR plus 1.25% to 1.625% per annum.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The facility includes a C$3.0 million sub-limit for letters of credit. Celgar is required to pay 1.00% to 1.375% per annum on issued letters of credit and 0.25% per annum on unused availability under the facility.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The availability of the facility is subject to a borrowing base limit that is based on the Celgar mill’s eligible receivable and inventory levels from time to time.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The Celgar Working Capital Facility is secured by, among other things, a first priority charge on the inventories and receivables of Celgar.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The facility includes a springing financial covenant, which is measured when excess availability under the facility is less than C$5.0 million and which requires Celgar to comply with a 1.10:1.00 fixed charge coverage ratio.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The facility also contains restrictive covenants which, among other things, restrict the ability of Celgar to declare and pay dividends, incur indebtedness, incur liens and make payments on subordinated debt. The facility contains customary events of default.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ As of December 31, 2020, approximately C$42.0 million ($33.0 million) of this facility was drawn and accruing interest at a rate of 1.84%, approximately C$0.5 million ($0.4 million) was supporting letters of credit and approximately C$15.6 million ($12.3 million) was available under the Celgar Working Capital Facility.
+ MPR Revolving Credit Facility
+ In February 2019, our Peace River mill entered into a C$60.0 million revolving credit facility with a Canadian bank, referred to as the “MPR Working Capital Facility”. The principal terms of the facility include:
+
+• | The facility matures in February 2024.
+--+---------------------------------------
+
+
+• | The facility is available by way of: (i) Canadian denominated advances, which bear interest at a designated prime rate per annum; (ii) banker’s acceptance equivalent loans, which bear interest at the applicable Canadian dollar banker’s acceptance plus 1.25% to 1.50% per annum; (iii) dollar denominated base rate advances at the greater of the federal funds rate plus 0.50%, a designated LIBOR rate plus 1.00% and the bank’s applicable reference rate for U.S. dollar loans; and (iv) dollar LIBOR advances, which bear interest at LIBOR plus 1.25% to 1.50% per annum.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The facility includes a C$5.0 million sub-limit for letters of credit of MPR. MPR is required to pay 1.25% to 1.50% per annum, plus a 0.125% annual fee where there is more than one lender under the facility, on issued letters of credit.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The availability of the facility is subject to a borrowing base limit that is based on the Peace River mill’s eligible receivable and inventory levels from time to time.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The MPR Working Capital Facility is secured by, among other things, a first priority charge on the inventories and receivables of the Peace River mill.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The facility includes a springing financial covenant, which is measured when excess availability under the facility is less than the greater of 10% of borrowing base thereunder or C$4.5 million and which requires MPR to comply with a 1.00:1.00 fixed charge coverage ratio.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ (31)
+
+
+ 
+• | The facility also contains restrictive covenants which, among other things, restrict the ability of MPR to declare and pay dividends, incur indebtedness, incur liens, make investments, including in its existing joint ventures, and make payments on subordinated debt. The facility contains customary events of default.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ As of December 31, 2020, approximately C$28.0 million ($22.0 million) of this facility was drawn and accruing interest at a rate of 1.72%, approximately C$0.9 million ($0.7 million) was supporting letters of credit and approximately C$31.1 million ($24.4 million) was available under the MPR Working Capital Facility.
+ 
+Internet Availability and Additional Information
+ We make available free of charge, on or through our website at www.mercerint.com, annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and all amendments to these reports, as soon as reasonably practicable after we file these materials with, or furnish these materials to, the SEC. The SEC maintains an internet site at www.sec.gov that also contains our current and periodic reports, including our proxy and information statements.
+ All websites referred to herein are inactive textual references only, meaning that the information contained on such websites is not incorporated by reference herein and you should not consider information contained on such websites as part of this document unless expressly specified.
+  

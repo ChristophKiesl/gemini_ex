@@ -1,0 +1,234 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1: | BUSINESS
+--------+---------
+
+ The following discussion of Digimarc’s business contains forward-looking statements relating to future events or the future financial performance of Digimarc. Our actual results could differ materially from those anticipated in these forward-looking statements. Please see the discussion regarding forward-looking statements included in this Annual Report on Form 10-K in Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, under the caption “Forward-Looking Statements.”
+ The following discussion of our business should be read in conjunction with our consolidated financial statements and the related notes and other financial information appearing elsewhere in this Annual Report on Form 10-K.
+ Overview
+ Digimarc Corporation is the inventor of a platform that enables a more efficient, reliable and economical means of automatic identification. The Digimarc Platform can apply a unique identifier to virtually all media objects—including product packaging, commercial print, audio and video—that can be automatically identified by an enabled ecosystem of industrial scanners, smartphones and other interfaces. These capabilities allow Digimarc and its partners to supply a wide range of solutions for retail and supply chain operations, consumer engagement, media management and security. 
+ The Digimarc Platform features three core capabilities for the identification, discovery and quality management of media. Digimarc Barcode integrates the identification function, which is a novel data carrier encoded into media in ways that are generally imperceptible to people, permitting the carrier to be repeated many times over the surface of the enhanced media. Digimarc Discover represents the discovery function, which is software for computing devices and network interfaces that recognize and decode indicia of the identity of media. These include, but are not limited to, Digimarc Barcodes, Quick Response Codes, Universal Product Codes, certain other Global Standards One (“GS1”) approved one-dimensional codes and relevant contextual data.  Digimarc Verify incorporates the quality management function, a suite of software tools used to inspect and verify that the identification and discovery of media are both accurate and effective. Together, these core capabilities enable organizations, application developers, and other solution providers to build new and improve existing automatic identification solutions.
+ The Digimarc Platform enables customers to create digital identities for media objects and provides many benefits for connected media, including:
+  
+• | Security: An imperceptible and indestructible data carrier encoded in the object provides a unique identification, whether in a digital image, video or audio file, or in graphics printed, embossed or etched on paper, cardboard, plastic, metal or other. Among other things, this identification supports strong authentication.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Brand Protection: A unique identifier (“ID”) enables fraud deterrence across many use cases, from preventing “barcode swapping” and counterfeiting of currency, media and goods to detection of use or distribution of physical products and digital images and e-publications.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Traceability: The ID can carry serial numbers for easier tracking of individual items or entire lots. This has many uses, from ensuring product legitimacy to preventing product pirating to quickly identifying products for recall based on source provenance and sales destination.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 1
+
+
+ 
+• | Sustainability: The ID can contain information specific to packaging content as an aid to broader and more efficient recycling. For example, a microscopic pattern embossed in plastic packaging can identify the materials used and their composition to aid sorting and recapture. Similarly, enhanced labels for fresh foods can be used to dynamically adjust pricing and thus reduce food waste proactively.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Engagement: Consumers can directly interact with enhanced objects by merely scanning the item with their enabled smartphones. Brands can share additional product information online including recipes, instructions for use and recycling, information about ingredients and sources, how-to videos, coupons and more.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Efficiency: Connected items, reliably scanned by machines and mobile devices, can enhance supply chain efficiencies, from parts matching in manufacturing to faster and more accurate inventory scanning and faster and easier front-of-store checkout experiences.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Our inventions provide a powerful document security element, giving rise to a long-term relationship with a consortium of central banks (the “Central Banks”) and many leading companies in the information technology industry. We and our business partners have successfully propagated the use of our technology in music, movies, television broadcasts, digital images, e-publications and printed materials. Digimarc Barcode is used in these applications to improve media rights and asset management, reduce piracy and counterfeiting losses, improve marketing programs, permit more efficient and effective distribution of valuable media content and enhance consumer entertainment and commercial experiences.
+ Digimarc Barcode can be used to enhance all forms of media and is generally imperceptible to human senses, but quickly detected by computers, networks or other digital devices like smartphones and tablets. Unlike traditional barcodes and tags, our solution does not require content owners to give up valuable visual space on their media content, nor does it affect their media content’s overall layout or aesthetics. Digimarc Barcode is generally imperceptible in regular use and does all that visible barcodes do, but performs better. Our Digimarc Discover software delivers a range of rich media experiences to its readers on their smartphones or tablets across multiple media formats, including print, audio and video. Unique to Digimarc Discover is its seamless multi-modal use of various content identification technologies as needed, including Digimarc Barcode, when present.
+ Banknote counterfeit deterrence was the first commercially successful large-scale use of our technologies. Innovations based on our existing technology and experience have been leveraged to create new products to deter counterfeiting and tampering of driver licenses and other government-issued secure credentials. In parallel, our business partners, under patent or technology licenses from us, are delivering solutions to track and monitor the distribution of music, images, television and movies to consumers.
+ In April 2019, Digimarc pledged a commitment to improve the reliability and efficiency of sorting plastic waste, most notably signing the Ellen MacArthur Foundation’s New Plastics Economy Global Commitment, which is focused on building a circular economy for plastics. Digimarc participated in the Ellen MacArthur Foundation’s Pioneer Project HolyGrail, where Digimarc Barcode was shown in testing to overcome many current limitations in plastic sorting technology. Digimarc Barcode proved effective in technical trials in more accurately identifying recyclable plastics that could prevent their unnecessary disposal into landfills or incinerators. 
+ In September 2019, Digimarc announced expanded capabilities of the Digimarc Platform with several leading brands employing Digimarc Barcode for packaging and Digimarc Discover software in high-speed inspection systems to catch mislabeling problems before products ship to consumers. Digimarc Barcode provides data redundancy on product packaging without marring the appearance of the design. Consumer brands that use Digimarc Barcode for packaging, combined with high-speed inspection system scanning equipment from Cognex or Datalogic, can improve matching of front and back labels, cartons and lids, and other multi-component packages.
+ In November 2019, Digimarc delivered scan technology to Walmart’s Toy Catalog, making it easier than ever for customers to buy gifts or create wish lists for family and friends using the Walmart app. The Scan & Shop powered by Digimarc was prominently promoted in 35 million printed catalogs that were direct mailed as well as available in Walmart’s nearly 4,800 U.S. stores. In November 2020, we delivered our scan technology again, but with new capabilities, to Walmart’s Toy Catalog for the holiday season.
+ In January 2020, Digimarc announced that NewPoint Media, one of the nation’s largest real estate classifieds publishers, is using the Digimarc Platform to add digital connectivity to its publication Homes & Land. By integrating an imperceptible Digimarc code into the property photos of over 27 million magazines in 151 markets, NewPoint Media is creating a new print-to-digital experience for both home shoppers and real estate agents and brokers.
+ 2
+
+
+In September 2020, Digimarc announced that the Digimarc Platform is a principal technology of the cross-value-chain initiative HolyGrail 2.0 to improve sortation and higher-quality recycling rates for packaging in the European Union. The industry-led initiative is facilitated by the Association des Industries de Marque (“AIM”), the European Brands Association, with its more than 2,500 member organizations. Digimarc’s technology was ultimately put forth at the conclusion of the highly publicized HolyGrail 1.0 initiative under the Ellen MacArthur Foundation’s New Plastics Economy, which included 29 corporations and was led by Procter & Gamble. Now, under HolyGrail 2.0, the leadership team includes world-leading brands Procter & Gamble, Nestle, PepsiCo and Danone. Over 100 cross-industry companies and organizations have signed to be active participants in the next stages of pilots and industrial-scale demonstrations towards commercialization.
+ In February 2021, rfxcel, the global leader in digital supply chain traceability solutions, and Digimarc announced a partnership to provide a robust digital supply chain solution for track-and-trace, brand protection, personalized consumer engagement, and sustainability. The partnership will leverage the Digimarc Platform, featuring Digimarc Barcode, in support of rfxcel’s signature Traceability System (rTS) and Mobile Traceability app.
+ Our Commitment
+ Digimarc is committed to becoming a leader in the Environmental, Social and Governance (ESG) space. We are emphasizing sustainability and social responsibility in our product offerings, internal practices and relationships with the communities where we operate. 
+ The Digimarc Platform features products that contribute to a more sustainable global economy. For example, Digimarc Barcode on fresh food labels can help retail grocers reduce food waste. Digimarc has also joined the HolyGrail 2.0 project, which is focused on how the use of Digimarc Barcode on packaging can improve plastic sorting and help keep post-consumer recycled plastics out of landfills and incinerators.
+ In 2019, Digimarc launched its “Reduce, Reuse, Recycle Program” to promote sustainability throughout the organization. This employee-led initiative examines our “corporate footprint” and implements a range of initiatives from reducing electricity usage, composting company food waste, reducing the use of single use plastics and encouraging public transit use. Our Oregon facility also uses 100% renewable wind energy. Beyond our environmental initiatives, Digimarc supports employee community engagement by providing volunteer time off. Our teams have volunteered with and contributed to a wide range of local organizations. Finally, Digimarc proudly partners with the Multiple Engineering Cooperative Program to provide real-world work experience to students at Oregon’s engineering universities. We also volunteer with ChickTech, a Portland, Oregon non-profit organization helping young girls discover an interest in science, technology, engineering and math.
+ More information on our commitment to sustainability and social responsibility can be found at http://www.digimarc.com/about/company/our-commitment. The content on any website referred to in this annual report is not incorporated by reference in this annual report unless expressly noted.
+ Customers and Business Partners
+ We generate revenue through commercial and government applications of our technology. We service three primary markets: Government, Retail and Media. Government includes the Central Banks and other government customers. Retail includes retailers, brands, their suppliers and related solution providers. Media includes media, entertainment, education, and other customers. 
+ We derive our revenue primarily from software development services, subscriptions for products and related services, and licensing of our patents. During 2020, we generated the majority of our revenue from software development services under a long-term contract with the Central Banks and from subscriptions for our products and related services.
+ In 2020, revenue from government contracts accounted for 62% of our total revenue. The Central Banks accounted for substantially all revenue generated under our government contracts. Our contract with the Central Banks runs through December 2024, with a 5-year extension option.
+ Products and Services
+ We provide automatic identification solutions to commercial and government customers and license our technology and patented inventions to solution providers. Our largest government customer is the Central Banks, with whom we have been developing, deploying, supporting and enhancing a system to deter digital counterfeiting of currency using personal computers and digital reprographics for the last 20 years. We sell our products and 
+ 3
+
+
+related services to commercial customers for use in a wide range of applications providing for improved automatic identification of media. Examples of applications in the retail and consumer goods industry include:
+ Brand protection - Digimarc delivers sophisticated protection for physical products, packaging and digital images, providing a crucial – and comprehensive – layer that supports anti-counterfeiting strategies to ensure product integrity and preserve brand reputation.
+ Recycling - As governments and industry groups move toward circular economies for recycling and reusing plastics in consumer packaging, there is a critical need for accurate and reliable automatic identification methods for classifying and sorting various packaging materials during the recycling process. Digimarc can be used in processing environments, on items with and without printed labels, to facilitate more efficient sorting of plastic waste. 
+ Retail operations - Digimarc helps retailers prioritize sustainability and efficiency throughout their operations, while supporting all store sizes and formats: convenience stores, apparel retailers, lawn and garden centers, large warehouse-format retailers and grocery retailers.
+ Traceability - Product traceability across the global supply chain is increasingly essential for consumer brands and food manufacturers to promote consumer safety, mitigate risk and gain real-time insight into product locations in warehouses and distribution centers. Digimarc for packaging supports these business needs with batch-lot and item-level traceability by applying serialized or custom identifiers and additional data, to product packaging.
+ In the publishing industry, we provide solutions that reduce piracy of e-publications, images and other materials. We also license our technology and inventions to providers of identification solutions to the media and entertainment industries. Many movie studios, record labels, broadcasters, creative professionals and other customers rely on our technology as a cost-effective means to:
+  
+• | deter piracy and illegal use of movies, music and other media;
+--+---------------------------------------------------------------
+
+
+• | protect entertainment content from copyright infringement;
+--+-----------------------------------------------------------
+
+
+• | track and monitor entertainment content for rights usage and licensing compliance;
+--+-----------------------------------------------------------------------------------
+
+
+• | monitor advertisements to verify ad placement and measure return on investment;
+--+--------------------------------------------------------------------------------
+
+
+• | enhance information access, search and provide marketing capabilities related to media content; and
+--+----------------------------------------------------------------------------------------------------
+
+
+• | enable authorized use of content by consumers.
+--+-----------------------------------------------
+
+Technology and Intellectual Property
+ We seek patent protection for our inventions to differentiate our products and technologies, mitigate infringement risks, and develop opportunities for licensing. Our broad patent portfolio covers a wide range of methods, applications, system architectures and processes.
+ Our intellectual property contains many innovations in digital watermarking, content and object recognition, digital rights management and related fields. To protect our inventions, we have implemented an extensive intellectual property protection program that relies on a combination of patent, copyright, trademark and trade secret laws, and nondisclosure agreements and other contracts. As a result, we believe we have one of the world’s most extensive patent portfolios in digital watermarking and related fields, with over 1,000 U.S. and foreign patents granted and applications pending as of December 31, 2020. The patents in our portfolio each have a life of approximately 20 years from the patent’s effective filing date.
+ Our current patent licensees include, among others, AlpVision SA, Intellectual Ventures, Kantar SAS, NexGuard Labs B.V., Nielsen, OverDrive, Inc., Signum Technologies, Teletrax B.V., U-NICA Systems AG and Verance Corporation.
+ The market for patent licensing has become more challenging in recent years. As a result, we have shifted our focus from direct monetization through enforcement and licensing to facilitating progress toward the realization of our vision to enrich everyday living via pervasive, intuitive computing by:
+  
+• | encouraging large scale adoption of our technologies by industry leaders;
+--+--------------------------------------------------------------------------
+
+
+• | increasing the scale and rate of growth of our products and services business; and
+--+-----------------------------------------------------------------------------------
+
+
+• | laying a foundation for continuous innovation.
+--+-----------------------------------------------
+
+ 4
+
+
+
+For a discussion of activities and costs related to our research and development in the last two years, see “Research, development and engineering” under Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+ Markets
+ Our patented inventions are used in various media identification and management products and solutions supporting a variety of media objects, from movies and music to banknotes, secure credentials and consumer packaged goods. Each media object enabled by our inventions creates the potential for several applications, such as:
+
+• | retail point of sale transaction processing;
+--+---------------------------------------------
+
+
+• | track and trace of products within the supply chain;
+--+-----------------------------------------------------
+
+
+• | quality control in manufacturing processes;
+--+--------------------------------------------
+
+
+• | inventory management and planogram compliance;
+--+-----------------------------------------------
+
+
+• | sorting of consumer packaged goods in recycling streams;
+--+---------------------------------------------------------
+
+
+• | counterfeiting and piracy deterrence;
+--+--------------------------------------
+
+
+• | online e-publication piracy protection;
+--+----------------------------------------
+
+
+• | content identification and media management;
+--+---------------------------------------------
+
+
+• | authentication and monitoring;
+--+-------------------------------
+
+
+• | linking to networks and providing access to information; and
+--+-------------------------------------------------------------
+
+
+• | enhanced services in support of mobile commerce.
+--+-------------------------------------------------
+
+ We believe the market for most of these applications is in the early stages of development and that existing solutions represent only a small portion of the potential market for our products, services and technology.
+ Competition
+ No single competitor or small number of competitors dominate our market. Our competitors vary depending on the application of our products and services. We generally compete with non-digital watermarking technologies for the security or marketing budgets of the producers and distributors of media objects, documents, products and advertising. These alternatives include, among other things, encryption-based security systems and technologies and solutions based on fingerprinting, pattern recognition, and traditional barcodes. Our competitive position in digital watermarking applications is strong because of our large, high-quality, sophisticated patent portfolio and our substantial and growing amount of intellectual property in related media security and management innovations that span basic technologies, applications, system designs and business processes. Our intellectual property portfolio allows us to use proprietary technologies that are well-regarded by our customers and partners, and not available to our competitors without a license. We compete based on the variety of features we offer and a traditional cost/benefit analysis against alternative technologies and solutions. We anticipate that our competitive position within some markets may be affected by factors such as reluctance to adopt new technologies and by changes in government regulations.
+Backlog
+ Based on projected commitments we have for the periods under contract with our respective customers, we anticipate our current contracts as of December 31, 2020 will generate a minimum of $31 million in revenue, compared to $31 million as of December 31, 2019. We expect approximately $17 million of the $31 million to be recognized as revenue during 2021.
+ Some factors that lead to increased backlog include:
+  
+• | contracts with new customers;
+--+------------------------------
+
+
+• | renewals with current customers;
+--+---------------------------------
+
+
+• | add-on orders with customers; and
+--+----------------------------------
+
+
+• | contracts with longer contractual periods replacing contracts with shorter contractual periods.
+--+------------------------------------------------------------------------------------------------
+
+ 5
+
+
+
+Some factors that lead to decreased backlog include:
+  
+• | recognition of revenue associated with existing backlog;
+--+---------------------------------------------------------
+
+
+• | contracts with shorter contractual periods replacing contracts with longer contractual periods;
+--+------------------------------------------------------------------------------------------------
+
+
+• | modifications to existing contracts;
+--+-------------------------------------
+
+
+• | contract minimum payments ending; and
+--+--------------------------------------
+
+
+• | expiration of contracts with existing customers.
+--+-------------------------------------------------
+
+ The mix of these factors, among others, dictates whether our backlog increases or decreases for any given period. Our backlog may not result in actual revenue in any particular period, because the orders, awards and contracts included in our backlog may be subject to modification, cancellation or suspension. We may not realize revenue on certain contracts, orders or awards included in our backlog, or the timing of any realization may change.
+ Human Capital Resources and Management
+ Employees and Labor Relations
+ At December 31, 2020, we had 203 full-time employees, including 78 in sales, marketing, operations and customer support; 86 in research, development and engineering; and 39 in finance, administration, information technology, intellectual property and legal.
+ Our employees are not covered by any collective bargaining agreement, and we have never experienced a work stoppage. We believe that our relations with our employees are good. Voluntary employee turnover was 3.9% and 5.3% for the years ended December 31, 2020 and 2019, respectively.
+ Values
+ Culture is critically important to Digimarc's success. We incorporate our core values in daily interactions among colleagues, customers and vendors. Our core values include innovation, caring, loyalty, integrity, commitment, and knowledge. We invest in our highly-skilled workforce by seeking to create a diverse, inclusive and safe work environment where our employees can learn, innovate, and perform at their best.
+ To aid and support our employees during the coronavirus 2019 (“COVID-19”) pandemic, we implemented a work from home initiative for the majority of our staff. Essential on-site staff benefited from enhanced safety procedures and limited employees on-site. We provided assistance to help employees who work from home to improve their workspaces, and we increased flexibility in our paid leave programs to support employees caring for children and others.
+Diversity and Inclusion
+ We strive to create an environment where innovative ideas can flourish by demonstrating respect for each other and valuing the diverse opinions, background and viewpoints of our employees. As a company committed to innovation and representing diversity in a myriad of ways, including race, ethnicity, age, background, perspectives, tenure, work style, and sexual orientation, we believe that diversity is a competitive asset. We believe that diversity in our teams leads to new ideas, helps us solve problems and allows us to better connect with our global customer base.
+ We have taken specific actions to foster inclusion and diversity into our culture. Learning resources have been implemented to support greater awareness and understanding of the behaviors expected from our employees.
+ Compensation and Benefits
+ Our compensation guiding principles are to structure compensation that is simple, aligned and balanced. We believe that these principles are strongly aligned with the strategic priorities of our business and our objective to deliver value for our shareholders. We are committed to fair pay and strive to be externally competitive while ensuring internal equity across our organization. We conduct pay equity assessments and compensation reviews, and when necessary, we take action to address areas of concern. Our total compensation package includes market-competitive pay, stock grants, healthcare and retirement benefits, paid time off and family leave and flexible work schedules.
+ We also implemented enhanced efforts to support our communities during COVID-19, including focused outreach and support through our community outreach matching program, which matches donations made by our employees to their charities of choice. Year-over-year, the program usage doubled as employees continue to support their communities.
+ 6
+
+
+Growth and Development
+ We invest resources to develop the talent needed to remain at the forefront of innovation. We have a performance management system to support continuous learning and development. Through our regular employee engagement surveys, employees can voice their perceptions of the Company and their work experience, including learning and development opportunities. We have strong participation in our surveys and engage our managers to respond to areas that employees have identified as needing improvement or low scores.
+ We support training and development programs for our employees through tuition reimbursement, online training programs such as LinkedIn Learning, conferences, seminars, on-the-job training, and skill certifications. We also encourage and foster onsite training programs and mentoring. 
+ Health, Safety and Wellness
+ We are committed to a safe and drug-free workplace. We continually invest in programs designed to improve physical, mental, and social well-being. We provide access to a variety of innovative, flexible, and convenient health and wellness programs, which were increasingly critical this year for our essential workers who have worked on site since the start of the COVID-19 pandemic. Throughout our response to the COVID-19 pandemic, our priority has remained protecting the health and safety of our employees while preserving business continuity.
+ Available Information
+ We make available free of charge through our website at http://www.digimarc.com/about/investors our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to these and other reports filed or furnished by us pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after we file these materials with the Securities and Exchange Commission (the “SEC”).

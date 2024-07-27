@@ -1,0 +1,193 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business. 
+Overview 
+ Ceridian is a global human capital management (“HCM”) software company. Dayforce, our flagship cloud HCM platform, provides human resources (“HR”), payroll, benefits, workforce management, and talent management functionality. In addition to Dayforce, we sell Powerpay, a cloud HR and payroll solution for the Canadian small business market, through both direct sales and established partner channels. We also continue to support customers using our Bureau solutions, which we generally stopped actively selling to new customers in 2012, following the acquisition of Dayforce. We invest in maintenance and necessary updates to support our Bureau customers and continue to migrate them to Dayforce. 
+ Our five strategic growth levers drive our long-term perspectives, near-term decision making and stockholder alignment:
+  
+• | Acquiring new customers in the markets where we have seen success to date;
+--+---------------------------------------------------------------------------
+
+
+• | Extending the Dayforce platform, thereby allowing us to deliver more value to our current and prospective customers;
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | Expanding within the Enterprise segment;
+--+-----------------------------------------
+
+
+• | Accelerating our global expansion both by serving local customers in new geographies, and by extending our scope to service global multinational customers; and finally,
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Driving incremental value for our customers by innovating in adjacent markets around our core HCM suite, such as the Dayforce Wallet.
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+Products and Services
+ Dayforce
+ Dayforce, our principal cloud HCM platform, is a single application that provides continuous real-time calculations across all modules to enable, for example, payroll administrators access to data through the entire pay period, and managers access to real-time data to optimize work schedules. Dayforce offers a comprehensive range of functionality, including global HR, payroll, benefits, workforce management, and talent management on web and native iOS and Android platforms. Our Dayforce mobile app enables employees not only to request and to trade schedules, but also to see the real-time impact of schedule changes on their pay. Our Dayforce platform is used by organizations, regardless of industry or size, to optimize management of the entire employee lifecycle, including attracting, engaging, paying, deploying, and developing their people. Key functionality of our Dayforce platform includes HR, payroll and tax, Dayforce Wallet, benefits, workforce management, and talent management. In 2020, we received several accolades for our Dayforce solution, including Leader in the 2020 Gartner Magic Quadrant for Cloud HCM Suites, Gartner Peer Insights Customers’ Choice, Top HR Products of the Year, and Payroll Software Supplier of the Year.
+Human Resources
+ Dayforce Human Resources functionality provides customers with a single, complete record for all employees. Our HR functionality is centered on a comprehensive, flexible workflow engine that streamlines and automates administrative tasks.
+Payroll and Tax
+ Our payroll capabilities provide customers with the tools needed to accurately and compliantly manage their payroll processes. Through our Dayforce platform, users in the United States, Canada, the United Kingdom, Ireland, Australia, New Zealand, and Mauritius are able to make updates to time and pay in real-time. In countries where we do not currently offer localized payroll, Dayforce ConnectedPay provides payroll aggregation features that allow an organization to have a centralized view of their global payroll. ConnectedPay automates the data exchange with in-country payroll providers and provides a consistent self-service experience for employees to view earnings statements and associated payroll documentation. Dayforce calculates, withholds, and files payroll related taxes in the United States, Canada, the United Kingdom, and Australia as part of our localized payroll offering.
+ 3    | 
+    2020 Form 10-K
+ 
+
+
+Dayforce Wallet
+ In 2020, we launched the Dayforce Wallet in the United States, which gives our customers’ employees greater control over their financial well-being by providing them with instant access to their earnings. This on-demand pay feature allows employees more choice over when they get paid by making any day payday. Dayforce Wallet enables workers to access their already-earned wages anytime during the pay period, net of taxes, withholdings and other payroll deductions. Leveraging Dayforce’s continuous pay calculations, Dayforce Wallet processes a same-day payroll each time a worker requests their pay. The solution is compliant with federal, state, and local remittances in the United States and requires no changes to payroll processing including the funding, timing, and close-out of pay. The on-demand wages are loaded onto a personal paycard, which customers’ employees can use anywhere credit or debit cards are accepted, generating interchange fee revenue. The Dayforce Wallet mobile app makes it easy for customers’ employees to check their pay deposits, account balance and transaction history. 
+Benefits
+ Dayforce Benefits assists users from benefits enrollment to ongoing benefits administration, including eligibility, open enrollment and Affordable Care Act (“ACA”) management. Support and comparative tools can provide information to users about each of the available benefit plans and impact of their plan options to help employees choose the best option for their specific needs.  
+Workforce Management
+ Dayforce Workforce Management provides functionality to help organizations manage their workforces, improve operational efficiency, and enhance compliance by configuring the system to meet complex labor and employment rules and policies. Through Dayforce, users are offered absence management, time and attendance, schedule, and labor planning.  
+Talent Management
+ Dayforce Talent Management enables organizations to attract, to engage, to develop, and to motivate their workforce. Users can leverage tools for recruiting, onboarding, engagement, performance, succession planning, compensation management, and employee learning.  
+Powerpay 
+ We offer Powerpay for Canadian organizations with fewer than 100 employees. Powerpay is a cloud platform that provides scalable and straightforward payroll and HR solutions. Specifically designed for small businesses, Powerpay enables clients to pay their employees accurately and on-time.
+Bureau 
+ Our Bureau solutions offer payroll and payroll-related services using legacy technology and acquired technology from our acquisition of Excelity Global Solutions Pte. Ltd. (“Excelity”) on May 29, 2020. We invest in maintenance and necessary updates to support our Bureau customers. We generally stopped selling our legacy North America Bureau solutions to new customers in the United States in 2012, and in Canada in 2015, and continue to convert legacy North America Bureau customers to our Dayforce platform. In addition to customers who use our payroll services, certain customers use our legacy Bureau tax filing services on a stand-alone basis; and we have started to sell stand-alone legacy Bureau tax services again in 2019.
+ Revenue by Product and Service 
+ For a quantitative discussion of our revenue by solution, please refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-K.  
+ 4    | 
+    2020 Form 10-K
+ 
+
+
+
+Customers
+ Dayforce is designed to serve organizations with 100 to over 100,000 employees. The Dayforce customer base has increased from 482 as of December 31, 2012 to 4,906 customers on the platform as of December 31, 2020. For 2020, our 4,906 Dayforce customers represented approximately 4.2 million active global users. We define a customer as a single organization, such as a company, a non-profit association, an educational institution, or government entity. We also have approximately 38,000 Powerpay customer accounts. No single customer accounted for more than 1% of our revenues during the year ended December 31, 2020.
+Sales and Marketing 
+ We sell our Cloud solutions through a direct sales force and a variety of third party channels, organized by customer size and geography. We market Dayforce to organizations with more than 100 employees. We market Powerpay to organizations with fewer than 100 employees in Canada. The majority of our revenue growth comes from new Cloud customers, but we also have a small, dedicated account management team focused on serving the needs of our Bureau customers and helping them to migrate to our Dayforce platform. 
+Services and Support
+ We offer a broad portfolio of services aimed to ensure customer success. We believe it’s important to work closely with our customers to understand their needs and deliver technology solutions and support that address them. 
+Implementation and Professional Services
+ Our internal implementation team leverages proprietary onboarding technology for new customer activation and professional services work. Our internal team is supplemented by third party services partners and system integration partners (“SI”). Our implementation services include solution configuration and activation for new customers. Professional services include add-on implementation services for existing customer, ongoing product configuration changes when the customer does not have the resources to do it themselves, product usage consulting and a variety of additional services, such as report writing, usage audits, and process improvement.  
+Customer Support 
+ Our global customer support organization provides 24/7 application support from offices across North America and in the United Kingdom, Mauritius, and Australia. Our support function is organized into small teams of approximately 20 representatives with deep domain expertise across our platform. These small teams are aligned to groups of customers based on geography, product type, and client vertical to provide a combination of deep product and industry knowledge, consistent relationships, and high availability.  
+ Technology, Hosting, and Research and Development (“R&D”)
+Technology and innovation are at the core of Ceridian. Our innovation and development process is customer-driven. We work directly with customers to understand their needs and to deliver solutions that address their challenges, taking into consideration the entire user experience, without being constrained by individual modules or applications. 
+ Our R&D team is responsible for the design, development, and testing of our applications. We believe that our modern cloud technology stack, agile design and development methodology, and efficient software deployment process enable us to innovate quickly in response to industry trends. We host Dayforce and Powerpay applications and serve all of our customers from data centers operated by third party providers, primarily NaviSite, VMWare Cloud on AWS, and Microsoft Azure. While we control and have access to our servers and all of the components of our network that are located in our external data centers, we do not control the operation of these facilities. Additionally, we host our internal systems through a data center that we operate and lease in Atlanta, Georgia. 
+ 5    | 
+    2020 Form 10-K
+ 
+
+
+Intellectual Property 
+ Our success depends, in part, on our ability to protect our proprietary technology and intellectual property. We rely on a combination of copyrights, trade secrets, and trademarks, as well as confidentiality and nondisclosure agreements and other contractual protections, to establish and to safeguard our intellectual property rights. 
+Competition 
+ The market for HCM technology solutions is rapidly changing, with legacy service bureau and on-premise software providers facing increased competition from emerging cloud players. We currently compete with firms that provide both integrated and point solutions for HCM, as well as with local providers in each jurisdiction that we operate. Globally, we compete with legacy payroll service providers, such as Automatic Data Processing (“ADP”), as well as cloud-enabled client-server HCM providers, such as Ultimate Kronos Group (“UKG”). We also face competition from modern HCM providers, such as Workday, Inc. (“Workday”), whose solutions have been specifically built as single application platforms in the cloud. In addition, we face competition from large, long-established enterprise application software vendors, such as Oracle Corporation (“Oracle”) and SAP SE (“SAP”). 
+ We believe the principal competitive factors in our market include the following: 
+  
+(i) | Breadth and depth of product functionality;
+----+--------------------------------------------
+
+
+(ii) | Scalability and reliability of applications;
+-----+---------------------------------------------
+
+
+(iii) | Robust workforce management products;
+------+--------------------------------------
+
+
+(iv) | Workforce;
+-----+-----------
+
+
+(v) | Comprehensive tax service products;
+----+------------------------------------
+
+
+(vi) | Modern and intuitive technology and user experience;
+-----+-----------------------------------------------------
+
+
+(vii) | Multi-country and jurisdiction domain expertise in payroll and HCM;
+------+--------------------------------------------------------------------
+
+
+(viii) | Quality of implementation and customer service;
+-------+------------------------------------------------
+
+
+(ix) | Integration with a wide variety of third party applications and systems;
+-----+-------------------------------------------------------------------------
+
+
+(x) | Brand awareness and reputation; and
+----+------------------------------------
+
+
+(xi) | Total cost of ownership, ROI, and pricing.
+-----+-------------------------------------------
+
+Our People
+ Workforce
+ As of December 31, 2020, we had 5,974 active employees, including 4,197 in North America and 1,777 outside of North America. We also engage temporary employees and consultants when needed to enhance our workforce. None of our employees are represented by a labor union, and we have never experienced any work stoppages. We consider the relationships we have with our employees to be strong. As a human capital management provider, we place significant strategic emphasis on our people and our engagement levels. Our fundamental belief is that, when employees are engaged, they produce great products and provide world-class service that delights our customers. We believe that our workforce is a competitive advantage and we will continue to focus on employee engagement as a core driver of our business success. 
+ We offer many ancillary benefits to our employees which enhance the workplace experience and drive our “Makes Work Life Better” brand.  Some of the distinct benefits provided to employees include unlimited time away from work, LifeWorks employee assistance programs, and the Dayforce Wallet for our U.S. employees as of December 31, 2020.
+ Response to COVID-19
+ From the outset of the coronavirus disease 2019 (“COVID-19”) crisis, we acted to protect the health and wellbeing of our employees. We pivoted to a virtual working environment for nearly all our employees across all of our offices during the first quarter of 2020. We established preventative health measures to protect our employees, including offering remote work options, implementing social distancing measures where possible, restricting non-essential business travel, and enhancing 
+ 6    | 
+    2020 Form 10-K
+ 
+
+
+preventative cleaning services at all office locations. With all the changes resulting from COVID-19, we prioritized our employees and focused on maintaining our employment levels globally while continuing to hire in key areas. Our crisis management team which consists of leadership and business continuity planning resources throughout the organization continues to monitor the COVID-19 crisis and provide information intended to ensure the continued health and safety of our employees.
+Culture
+ We remain focused on diversity, equity, and inclusion in our organization. We are fully committed to inclusivity and belonging. We believe that all employees – regardless of race, ethnicity, age, gender, sexual orientation, identity or expression, religion, or ability status – should be enabled to achieve their full potential. And we believe all voices have value and should be heard. We encourage participation in our Diversity and Inclusion Program, YOUnity, which is led by employees who aim to promote diversity, inclusion, and equality of women and minority groups in the workplace and throughout the entire lifecycle of our employees. In addition, we maintain our global EDGE certification, the global and business certification standard for evaluating corporate commitment to gender equality. As of December 31, 2020, over 40% of our C-Suite executives were women and approximately 50% of our entire workforce were women.
+ Ceridian combines the agility and innovation of a start-up with a history of deep domain and operational expertise. As a founder-led organization, we focus on agility, innovation, strong technical leadership, and thoughtful, scalable processes. This culture of excellence fosters creativity and ownership at the grassroots level, with many of our most transformational solutions originating with frontline employee ideas. These are key factors in our emphasis of the selection, development, and retention of top talent in all roles. 
+ In 2020, we received multiple recognitions for our company culture and workplace experiences, including Greater Toronto Area’s Top Employers, 2020 Working Mother Best Companies, 2020 Working Mother Best Companies for Dads, 2020 Best Workplaces™ for Women, 2020 Best Workplaces™ for Mental Wellness.
+ Ceridian Cares
+ At Ceridian we have always given back to our communities. In 2013, we made a commitment to do that in a very direct and meaningful way, through establishing our own charity, Ceridian Cares. Ceridian Cares provides grants from employee-raised funds directly to families and individuals in need in our communities. 100% of employee donations go towards grants, and we cover the program’s operational and administrative costs. In addition to donating to Ceridian Cares, employee volunteers also operate the various local chapters, reviewing grant applications, distributing grants, and engaging staff in fundraising and awareness activities. As of December 31, 2020, there were 18 Ceridian Cares chapters, staffed by over 226 employee volunteers across the company. We are proud that Ceridian Cares has granted more than $3 million in the form of basic necessities to nearly 2,000 individuals and families since 2013.
+Backlog
+ Backlog is equivalent to our remaining performance obligations, which represents contracted revenue for recurring services and fixed price professional services, primarily implementation services, that has not yet been recognized, including deferred revenue and unbilled amounts that will be recognized as revenue in future periods. As of December 31, 2020, approximately $917.1 million of revenue is expected to be recognized over the next three years from remaining performance obligations.
+Seasonality
+ We have in the past and expect in the future to experience seasonal fluctuations in our revenues and new customer contracts with the fourth quarter historically being our strongest quarter for new customer contracts, renewals, and customer go-lives. Although the growth of our Cloud solutions and the ratable nature of our fees makes this seasonality less apparent in our overall results of operations, we expect our revenue to fluctuate quarterly and to be higher in the fourth and first quarters of each year. Fourth quarter revenue is driven by year-end processing fees and Dayforce customer go-lives; and first quarter revenue is driven by revenue earned for printing of year-end tax packages. 
+ 7    | 
+    2020 Form 10-K
+ 
+
+
+Available Information 
+Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements, Section 16 reports, and amendments to reports and any registration statements filed or furnished pursuant to Sections 13(a), 14 and 15(d) of the Exchange Act are available, free of charge at http://investors.ceridian.com as soon as reasonably practicable after we file such material with, or furnish it to, the Securities and Exchange Commission (“SEC”), and are also available on the SEC’s website at http://www.sec.gov. 
+ Our third amended and restated certificate of incorporation and bylaws, charters of our Audit, Compensation, and Corporate Governance and Nominating Committees of our Board of Directors (our “Board”), our Corporate Governance Guidelines, and our Code of Conduct, as well as any waivers from and amendments to our Code of Conduct are available on our website at https://investors.ceridian.com/corporate-governance/governance-documents. Our website and the information contained on, or that can be accessed through, the website is not deemed to be incorporated by reference into, and should not be considered part of, this Form 10-K.
+ Executive Officers
+ Our executive officers as of February 26, 2021 are as follows: 
+ 
+ 
+Name | Age | Position 
+-------------------------+-----+------------------------------------------------------------------
+David D. Ossip | 54 | Chair and Chief Executive Officer 
+Leagh E. Turner | 49 | President and Chief Operating Officer 
+Christopher R. Armstrong | 52 | Executive Vice President and Chief Customer Officer 
+Joseph B. Korngiebel | 50 | Executive Vice President, Chief Product and Technology Officer 
+Noémie C. Heuland | 43 | Executive Vice President and Chief Financial Officer 
+Jeffrey S. Jacobs | 45 | Head of Accounting and Financial Reporting 
+Scott A. Kitching | 51 | Executive Vice President, General Counsel and Assistant Secretary
+
+David D. Ossip 
+ Mr. Ossip is our Chair and Chief Executive Officer, positions he has held since August 2015 and July 2013, respectively. Mr. Ossip joined the Company following the Company’s acquisition of Dayforce Corporation in 2012, where he held the position of chief executive officer. Mr. Ossip is currently a director for Ossip Consulting Inc. and OSDAC Corp. 
+Leagh E. Turner
+ Ms. Turner has served as our President since August 2018 and Chief Operating Officer since February 2020. Prior to joining the Company, Ms. Turner held the position of global chief operating officer, strategic customer program of SAP from October 2016 to August 2018. In addition, Ms. Turner held the positions of acting chief operating officer of SAP Europe, Middle East, and Africa region from March 2017 to August 2017, acting president of SAP Canada Inc. from August 2015 to January 2016, chief operating officer of SAP Canada Inc. from February 2014 to October 2016, and vice president, sales central region of SAP Canada Inc. from July 2010 to February 2014.
+Christopher R. Armstrong 
+ Mr. Armstrong is our Executive Vice President, Chief Customer Officer, a position he has held since February 2020. Mr. Armstrong previously served as our Executive Vice President, Chief Operating Officer from May 2019 until February 2020.  In addition, Mr. Armstrong has held the positions of Executive Vice President of Operations from March 2018 until May 2019; Executive Vice President of Customer Support from April 2016 to March 2018, Senior Vice President of U.S. Service from October 2014 to April 2016, and Senior Vice President of U.S. Account Management from January 2013 to October 2014. Prior to January 2013, Mr. Armstrong held a number of commercial and operational leadership roles during his tenure with Ceridian which began in 2004.
+ 8    | 
+    2020 Form 10-K
+ 
+
+
+Joseph B.  Korngiebel
+Mr. Korngiebel is our Executive Vice President, Chief Product & Technology Officer, a position he has held since August 2020.  Prior to joining the Company, Mr. Korngiebel held various positions at Workday, Inc. since March 2006, including Chief Technology Officer from May 2017 until July 2020 and Senior Vice President, Technology & Innovation from January 2014 until May 2017.
+Noémie C. Heuland
+ Ms. Heuland is our Executive Vice President and Chief Financial Officer, positions she has held since October 2020. Prior to joining us, Ms. Heuland held the position of Senior Vice President, Chief Financial Officer of SAP Latin America & Caribbean region since April 2018. In addition, Ms. Heuland held the positions of Vice President, Chief Financial Officer of SAP Latin America and Caribbean North and South from April 2015 to March 2018. Further, Ms. Heuland is a certified public accountant (inactive).
+Jeffrey S. Jacobs 
+ Mr. Jacobs is our Head of Accounting and Financial Reporting and serves as the principal accounting officer, positions he has held since May 2020. Mr. Jacobs has served as our Vice President, Finance since December 2016, and as Director, Finance from April 2015 when he joined the Company until December 2016. Prior to joining Ceridian, Mr. Jacobs held accounting and finance positions at General Mills, Inc., and started his career with KPMG LLP.  Mr. Jacobs is a certified public accountant (inactive).
+Scott A. Kitching 
+ Mr. Kitching is our Executive Vice President, a position he has held since February 2016, and General Counsel and Assistant Secretary, positions he has held since December 2013. Prior to that time, Mr. Kitching held the position of executive vice president and general counsel at our affiliate subsidiary Ceridian Canada from May 2003 to December 2013. 
+ 9    | 
+    2020 Form 10-K
+ 
+
+

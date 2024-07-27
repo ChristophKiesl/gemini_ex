@@ -1,0 +1,223 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+Business
+ 
+Overview
+ 
+We are a veterinary health company creating products for companion animals by focusing on the unmet needs of clinical veterinarians. We expect that our product portfolio will include innovative diagnostics and medical devices that emphasize patient health and practice health. With a team that includes clinical veterinary professionals, our goal is to provide veterinarians the opportunity to increase productivity and grow revenue while better serving the animals in their care.
+Market Opportunity
+ 
+U.S. consumers are expected to spend an estimated $99 billion on their pets in 2020 according to the American Pet Products Association, or APPA, an increase of approximately 4% from 2019 ($95.7 billion). According to a 2019 pet owner survey conducted by the APPA, 67% of U.S. households have at least one pet, equal to nearly 85 million homes. This survey also indicated that 93% of dog-owning households visit the vet every year and it is estimated that there were 170 million clinical visits in the U.S in 2018. In 2019, the APPA also reported that U.S. pet owner spending on vet care and related products generated $29.3 billion in revenue. For 2020, this figure is projected to increase by approximately 3% to $30.2 billion. 
+ 
+Veterinary diagnostics is a growing market. A 2019 dvm360 Magazine survey states that 61% of respondents indicated that they were providing more diagnostic services than the prior year. Similarly, a 2016 Credit Suisse survey of veterinarians found that 73% of respondents expected their diagnostic testing to increase over the next 12 months. According to a 2019 MarketsandMarkets article, the companion animal diagnostics market is projected to reach $2.8 billion by 2024 from $1.7 billion in 2019, at a Compounded Annual Growth Rate, or CAGR, of 9.8%. The growth in this market is driven by the rising companion animal population, increasing utilization of pet insurance, and the growth in the number of veterinary practitioners in developed countries. The growing demand for rapid tests and portable instruments for point-of-care services is expected to offer potential growth opportunities for market players in the coming years. Furthermore, in 2020, IHS Markit reported that the global veterinary immunodiagnostic market was expected to grow at a CAGR of 9.6% and reach $2.1 billion by 2022.
+ 
+We believe that several factors have contributed and will continue to contribute to an increase in spending on pet healthcare. Companion animals generally are living longer, with the average lifespan for dogs increasing to 15.4 years, according to the University of Washington’s Dog Aging Project. In 2015, the American Animal Hospital Association estimated that the average dog will need approximately $3,600 in veterinary care over its lifespan. We believe humanization of pets, longer pet lifespan, and the physical and emotional benefits of support animals will bolster growth of the veterinary health care market.
+ 
+COVID-19 restrictions appear to have positively affected the relationship people have with their pets. The APPA reports greater than 70% of pet owners surveyed in its COVID-19 Pulse Survey indicated they were spending more time with pets, which alleviated the stress of social distancing and isolation. New pet adoptions and fostering appear to have risen at least early in the pandemic with USA Today reporting many shelters experiencing a significant reduction in their shelter populations. While it is unknown if a permanent increase in pet placement has occurred, demand for veterinary services is rebounding as restrictions ease and veterinary services are deemed essential. VetSuccess tracks weekly financial performance for veterinary practices across the United States. As of September 30, 2020, it reports financial performance for 3,040 clinics. While year over year revenue and invoices for these practices were down by 2.3% and 5.4% respectively for the period beginning February 1 and ending April 30, there has been steady improvement each month with VetSuccess reporting year over year increase in revenue by 18.5% and invoices by 8.2% for the month of September. The market for companion animal veterinary services long has been considered recession proof by some as pet care expenditures grew during the 2001 and 2008-2009 recessions.
+ 
+
+1
+-
+
+Development of Companion Animal Diagnostics
+ 
+The development of companion animal diagnostics continues to evolve with the addition of new technologies to diagnostic portfolios. We believe that these new technologies may allow for the following:
+
+· | Enhanced capability to detect the frequency of occurrence and severity of diseases and conditions that impact companion animals;
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Increased accuracy and faster means to obtain test results;
+--+------------------------------------------------------------
+
+
+· | Wider availability of new diagnostic tools; and
+--+------------------------------------------------
+
+
+· | Enhanced economic benefits for veterinarians.
+--+----------------------------------------------
+
+ 
+Compared to human diagnostic development, the development of companion animal diagnostics is generally faster and less expensive since it typically requires smaller clinical studies with fewer subjects. We believe that the lower cost of developing companion animal diagnostics enables us to pursue multiple diagnostic candidates simultaneously and to spread the risk of failure across a number of candidates, rather than concentrating all of our resources on one diagnostic candidate that ultimately may fail to achieve regulatory approval or market acceptance.
+ 
+Unmet Medical Needs
+ 
+We believe that there is a significant unmet medical need for faster, more efficient and accurate disease/condition detection solutions for veterinarians. We have identified diagnostic assay candidates that we believe have the potential to satisfy unmet needs or improve upon existing diagnostic processes frequently used by companion animal veterinarians.
+Product Pipeline
+ 
+TRUFORMA® Platform
+
+
+Our strategic focus is on the final development and commercialization of our TRUFORMA® diagnostic biosensor platform and the first five assays for the detection of thyroid disorders in dogs and cats and adrenal disorders in dogs. The TRUFORMA® platform uses Bulk Acoustic Wave (BAW) technology to provide a non-optical and fluorescence free detection system for use at the point-of-care. We believe that BAW technology will enable precise and repeatable test results at the point-of-care during a typical veterinary appointment. The TRUFORMA® platform is being developed together with Qorvo Biotechnologies, LLC., or Qorvo Biotech.
+ 
+Dogs commonly suffer from thyroid and adrenal disorders, while cats commonly suffer from thyroid disease. Diagnostics are a vital part of identifying these disorders in sick patients exhibiting signs of illness as well as screening apparently healthy patients at risk for disease to detect disease before significant illness occurs. Multiple assays must be performed to reach a definitive diagnosis. The ability to run all the necessary tests at the point-of- care does not currently exist and tests must often be sent to a reference lab.
+ 
+We have five initial assays under development, comprising two panels – one each to detect thyroid and adrenal disease. We have completed verification for canine and feline TSH, canine and feline tT4, canine fT4 and canine cortisol assays, and validation efforts are underway for all of these assays. Results of the verifications have been encouraging.
+ 
+The combined dynamic range of the canine and feline TRUFORMA® TSH assay is 0.008-10.0 ng/mL compared to the Siemens IMMULITE® Canine TSH assay dynamic range of 0.03-12 ng/mL. This assay will enable quantification of samples with low levels of TSH, which is necessary to discriminate normal and hyperthyroid feline samples. Verification data comparing the canine TRUFORMA® TSH assay to the Siemens IMMULITE Canine TSH assay showed high correlation (R=0.99). A feline-optimized TSH assay is not commercially available.
+ 
+
+2
+-
+
+ 
+The combined dynamic range of the canine and feline TRUFORMA® tT4 assay is 0.45-30.0 µg/dL compared to the Siemens IMMULITE tT4 assay dynamic range of 0.5-15 µg/dL. Verification data comparing the canine and feline TRUFORMA tT4 assay to the Siemens IMMULITE Canine tT4 reference lab assay showed high correlation (R=0.94).
+ 
+The dynamic range of the canine TRUFORMA® fT4 assay is 7.4-77.2 pmol/L compared to the Siemens IMMULITE Veterinary Free T4 assay dynamic range of 3.9-77.2 pmol/L. Verification data comparing the canine TRUFORMA® fT4 assay to the Siemens IMMULITE Veterinary Free T4 reference lab assay showed high correlation (R=0.92). We believe that this will be the first fT4 assay available at the point-of-care.
+ 
+The dynamic range of the canine TRUFORMA® cortisol assay is 0.35-24.0 µg/dL compared to the Siemens IMMULITE Cortisol assay dynamic range of 1-50 µg/dL. Verification data comparing the canine TRUFORMA® cortisol assay to the Siemens IMMULITE Cortisol reference lab assay showed high correlation (R=0.97).
+ 
+The feasibility and design phases of the TRUFORMA® ACTH assay have been completed, with verification expected to begin in the near future.
+ 
+The availability of canine eACTH at point of care has the potential to change the way veterinarians manage the two most common canine adrenal diseases, Cushing’s and Addison’s, by providing accurate results more quickly.
+ 
+In September 2020 we agreed with Qorvo to develop three new assays, Cobalamin, cPL (canine Pancreatic Lipase), and Folate, to target diagnosis of canine gastrointestinal issues.
+ 
+Pathogen Detection Program
+ 
+Following the commercial launch of TRUFORMA®, we expect to continue the development of another point-of-care diagnostic platform, which is based on miniaturized laser-based Raman spectroscopy technology and is designed to detect pathogens in companion animals. We believe this platform may enable the identification of biological and biochemical signatures in complex biological samples and has the potential to achieve reference lab sensitivity/specificity to screen for a wide range of pathogens in companion animal feces, urine, respiratory, and dermatological samples in minutes without the need for extensive sample prep or the use of reagents. The diagnostic platform requires a small fecal sample preparation. Additionally, the platform has automated analysis and does not require specialized staff training. We believe that this diagnostic platform does not require pre-market regulatory approval for use with companion animals in the United States. This platform is being developed together with Seraph Biosciences, Inc., or Seraph.
+ 
+Veterinarians must use labor intensive, unreliable manual processes to identify fecal parasitic infections at the point-of-care. Consequently, veterinarians frequently send samples out to reference labs to test for and identify parasitic infections, which is relatively expensive and may take several days, delaying diagnosis and treatment. We expect that our diagnostic platform may deliver multiple benefits over existing technology, including speed of results with minimal sample preparation time to achieve real-time analysis of a sample in a disposable cuvette. We believe testing with our platform may result in a reliable identification of fecal and urine infections within minutes. In addition to faster results and treatment, an added benefit to pet owners may be the small sample size requirements, which are expected to reduce the burden of collection by the owner prior to the visit and stress associated with direct collection during the patient visit.
+ 
+“Liquid Biopsy” Platform
+ 
+We have performed initial development work on a circulating tumor cell (CTC) “liquid biopsy” platform for use in a reference lab setting as a canine cancer diagnostic. This platform is intended for use to detect canine cancers faster, more affordably and less invasively compared to existing methods, which can be expensive and cost prohibitive for pet owners. We have worked on the development of an assay for use with this platform that targets hard-to-diagnose canine cancers, such as hemangiosarcoma and osteosarcoma. This platform is being developed together with Celsee, Inc., a Bio-Rad Laboratories company, or Celsee.
+
+3
+-
+
+ 
+In early 2020, we successfully completed the development and manufacturing milestones for our liquid biopsy platform.
+ 
+Consistent with our focus on the development of point-of-care diagnostic platforms, we intend to seek one or more partners for the further development and commercialization of the liquid biopsy platform.
+ 
+Therapeutics
+ 
+We had commenced previous work on developing certain drug products for use in canines and felines. Given our current focus on diagnostic devices, we presently do not intend to continue any development work in relation to these drug products. However, we have maintained our rights in relation to these products and may re-evaluate our position in the future.
+License Agreements
+ 
+In November 2018, we entered into a development and supply agreement with Qorvo focused on bringing Qorvo’s piezo-electric BAW sensor to the veterinary health sector. Under the terms of this agreement, we have exclusive, global rights to develop and market Qorvo's investigational point-of-care diagnostic platform for veterinary use during the term. Under the agreement, Qorvo and we will collaborate on the development of veterinary diagnostic assays. The joint development work initially targeted five assay cartridge candidates to detect thyroid and adrenal disorders in dogs and cats, and in 2020 we agreed with Qorvo to expand the assays to include a canine gastrointestinal panel with three assays. Qorvo is responsible for the development of the assay cartridges and the instrument. We have agreed to pay for the associated non-recurring engineering costs of up to $500,000 per initial assay cartridge and the instrument and are responsible for the validation of the assay cartridges and the instrument. Qorvo will supply us, on an exclusive basis, with the instruments and the related assay cartridges to be developed under the agreement pursuant to a rolling forecast, subject to specified minimum purchase requirements, at prices specified in the agreement. We will be responsible for the marketing and sale of the disposable assay cartridges and instruments. The agreement, which is exclusive worldwide in the practice of veterinary medicine for the health and wellbeing of any non-human animal, has an initial term of ten years (subject to early termination and extension in certain circumstances).
+ 
+We paid Qorvo $1.0 million and issued to Qorvo unregistered common shares having a value of $4.4 million, consisting of an aggregate of 2,565,789 common shares with an ascribed price of $1.52 per share. We paid an additional $5 million of milestone payments in the first quarter of 2019. In the second and third quarters of 2020, we paid our final two milestone payments to Qorvo of $3 million and $2 million, respectively. In connection with the agreement, we entered into a registration rights agreement providing Qorvo with certain registration rights with respect to the common shares to be issued by us under the agreement.
+ 
+In May 2018, we entered into a development, commercialization and exclusive distribution agreement with Seraph, a human biomedical device company. Under the terms of this agreement we have exclusive global veterinary industry rights, except for (i) food safety or animal product or byproduct applications and (ii) animal import/export control applications, to develop and market a novel pathogen detection system in the form of a point-of-care diagnostic instrument. The agreement covers development and validation of our fecal/urine pathogen detection assays. We are responsible for development and validation, and their associated costs. Seraph will supply us, on an exclusive basis, with the hardware platform, associated software and the consumables to be developed under the agreement, pursuant to a rolling forecast, at prices specified in the agreement. We will be responsible for the marketing and sale of the hardware platform, associated software and the consumables. The agreement has a term of seven years (subject to adjustment in certain circumstances) and automatically renews for additional one-year terms thereafter unless one of the parties elects to terminate the agreement.
+ 
+We paid Seraph up-front fees of $500,000 and issued to Seraph unregistered common shares having a value of $1,238,513, consisting of an aggregate of 641,717 common shares at an ascribed price of $1.9479 per share. Seraph is entitled to additional payments for development costs. Seraph will be entitled to receive up to an additional $7,000,000, payable 50 percent in cash and 50 percent in additional unregistered common shares, upon the achievement of a series of staged, specified milestones, including completion of laboratory studies and field studies, production and commercial shipment of products. Seraph is entitled to certain registration rights with respect to the common shares to be issued by us under the agreement. In addition, we have agreed to pay Seraph license fees based on a percentage of gross profit from commercial sales of the product.
+ 
+
+4
+-
+
+ 
+In January 2017, we entered into a collaborative research agreement with Celsee, a developer of diagnostics for the detection and quantification of cells and other markers. Subsequent to this agreement, in December 2017, we entered into a license and supply agreement with Celsee for exclusive global rights to develop and market Celsee’s liquid biopsy platform. The agreement with Celsee covers the development and commercialization of liquid biopsy assays and related consumables for the detection of cancer in companion animals.
+ 
+We paid Celsee up-front fees of $500,000 and issued to Celsee unregistered common shares having a value of $230,131, consisting of an aggregate of 112,314 common shares at an ascribed price of $2.2259 per share. We issued Celsee an additional 657,894 unregistered common shares having a value of $1 million at an ascribed price of $1.52. upon the achievement of specified milestones, namely, completion of product development and upon completion of manufacturing milestones. All milestone payments to Celsee were satisfied as of December 31, 2019.
+ 
+In January 2020, we amended and restated the Celsee agreement to acknowledge the completion of the initial development work and to provide for definitive supply and pricing terms for the liquid biopsy instrument and related consumables.
+ 
+Under the terms of the restated agreement, we continue to have veterinary oncology care exclusive global rights to develop and market Celsee’s liquid biopsy platform for use by veterinarians as a cancer diagnostic.
+ 
+Celsee will supply us on an exclusive basis with the assays and the consumables for the products to be developed under the agreement pursuant to a rolling forecast to be provided by us at prices specified in the agreement. We will be responsible for the marketing and sale of the assays and the related consumables. The agreement, which is exclusive in the field of veterinary cancer diagnostic applications, has a term of five years (subject to termination in certain circumstances) and automatically renews for additional two-year terms thereafter (subject to either party determining not to renew).
+ 
+Research and Development
+ 
+We engage in development work on our diagnostic platforms in conjunction with our strategic partners. We also have engaged in research and development activities relating to our drug product candidates. We use various contract research organizations, or CROs, to assist in performing our research and development activities. In connection with these activities, we have incurred and will continue to incur significant research and development expenses. Our research and development expenses were $8,043,891 for the year ended December 31, 2020 and $10,345,291for the year ended December 31, 2019.
+Sales and Marketing
+ 
+We believe our strategy of partnering with a distributor and marketing directly to veterinarians is consistent with the current practice of veterinarians, who perform some of their own diagnostic tests and send other diagnostic samples to reference labs for analysis. This will enable us to expand our commercial reach to a majority of all veterinarians in our chosen markets. We believe that we can compete effectively by utilizing a combination of distributors and our own direct sales force. 
+ 
+Additionally, we are continuing to conduct comprehensive market research across the United States with private, corporate and institutional clinics, along with key opinion leaders and academia, to obtain feedback on our product development efforts and to build relationships with key market influencers.
+ 
+We are in the process of building our sales organization to include distributors, distributor support representatives, direct sales representatives, and professional service veterinarians. We have a distribution agreement with Miller Veterinary Supply for the distribution of TRUFORMA®. Under the terms of the distribution agreement, Miller will be representing us in states ranging from Texas to Maine, concentrated in the eastern and mid-eastern portion of the United States. They will be supported by several Zomedica sales employees in the field assigned to work with the Miller sales representatives to enhance the level of customer service provided relating to TRUFORMA®. Zomedica currently is recruiting these support representatives as part of its commercialization preparation.
+ 
+
+5
+-
+
+Manufacturing
+ 
+We have no internal manufacturing capabilities for our proposed and future products.
+ 
+Under our license and supply agreements, Qorvo, Seraph and Celsee are responsible for the manufacture and supply of the equipment and consumables to us. These strategic partners have primary responsibility for assuring that all products will be manufactured in accordance with applicable laws and meet all agreed upon specifications.
+Intellectual Property
+ 
+For existing relationships, we intend to rely primarily upon a combination of in-licensed exclusive rights, proprietary know-how, and confidentiality agreements to protect our diagnostic assays, product formulations, processes, methods and other technologies and to preserve any trade secrets, and to operate without infringing on the proprietary rights of other parties, both in the United States and in other countries. We currently do not own any issued patents, although we have filed patent applications (described below) and intend to apply for patent protection where feasible
+ 
+Our diagnostic technologies are dependent on intellectual property developed by our strategic partners and licensed to us. We do not own the intellectual property rights that underlie these technology licenses. Our rights to use the technology we license are subject to the negotiation of, continuation of, and compliance with the terms of our licenses. In certain instances, we have continuing sale rights after the termination of the applicable license agreement.
+ 
+We have filed five U.S. patent applications, and three PCT applications for U.S. and international protection of our diagnostic tests.
+ 
+We depend upon the skills, knowledge and experience of our management personnel, as well as that of our other employees, advisors, consultants and contractors, none of which are patentable. To help protect our know-how, and any inventions for which patents may be difficult to obtain or enforce, we require all of our employees, consultants, advisors and other contractors to enter into customary confidentiality and assignment of inventions agreements that prohibit the disclosure of confidential information and, where applicable, require disclosure and assignment to us of their ideas, developments, discoveries and inventions important to our business.
+ 
+Competition
+ 
+Our potential competitors include large veterinary diagnostics companies, small businesses focused on animal health, reference laboratory services provided by academic institutions, and in-clinic product providers. These competitors include Idexx Laboratories, Inc., Antech Diagnostics, a unit of VCA Inc., Abaxis, Inc., a wholly-owned subsidiary of Zoetis Inc., Heska Corporation and Zoetis Inc.
+ 
+Many of our competitors and potential competitors have substantially more financial, technical, and human resources than we do. Many also have far more experience in the development, manufacture, regulation and worldwide commercialization of animal diagnostics and medical devices. We also expect to compete with academic institutions, governmental agencies and private organizations that are conducting research in the fields of animal diagnostics and animal medical devices. If such competing products are successfully commercialized before our products, or if our intellectual property protection fails to provide us with exclusive marketing rights for some of our products, we may be unable to compete effectively in the markets in which we participate.
+ 
+Government Regulation
+ 
+Diagnostic Product Candidates
+ 
+Our future diagnostic product candidates may be subject to regulatory review by the USDA-CVB and/or post-marketing oversight by the USDA-CVB or FDA-CVM. Generally speaking, full diagnostic kits aimed at the detection of an infectious disease in animals, including the materials required for testing along with instructions for use and interpretation of results, used at the point-of-care, including in-office diagnostic tests, may be subject to pre-market regulatory review and approval by the USDA-CVB. The USDA-CVB’s review process for diagnostics is subject to some variability based on the type of diagnostic kit being reviewed, however, the USDA-CVB will generally review the results of specific tests that are required to be conducted in accordance with the USDA-CVB’s testing criteria. These include diagnostic sensitivity/specificity studies, conducted using a large number of samples of U.S. origin, reproducibility/repeatability/suitability studies used to evaluate test kits under field conditions in participating laboratories, ruggedness studies in which manufacturers measure the ruggedness or robustness of the diagnostic test kits based on the capacity of the assay to remain unaffected by small variations in or deviations from the instructions for use (for example, not allowing the samples to reach the designated temperature), and stability studies. Diagnostic products and testing kits that do not claim to detect or diagnose an infectious disease and that are not designed for use at the point-of-care are generally subject only to post-marketing oversight by the FDA-CVM or the USDA-CVB. While the sale of these products does not require premarket approval by the FDA-CVM and does not subject us to the FDA-CVM’s Current Good Manufacturing Practice (“cGMP”) requirements, these products must not be adulterated, mislabeled or misbranded under the Federal Food, Drug and Cosmetic Act, or the FDC Act, and are subject to post-marketing review. 
+
+6
+-
+
+Employees
+ 
+As of December 31, 2020, we had 19 employees. Of our employees, four are engaged in research and development activities, seven are engaged in business development, sales and marketing activities, and eight are engaged in corporate and administrative activities. None of our employees are represented by labor unions or covered by collective bargaining agreements.
+Properties
+ 
+Our corporate headquarters and research and development laboratory are located in Ann Arbor, Michigan where we lease and occupy approximately 16,226 feet pursuant to a lease that expires January 31, 2025. In February 2020 we entered into an amended lease agreement whereby our original lease for approximately 26,540 square feet of space was bought out and a new lease was issued for 16,226 square feet of office space. In February 2021 we began negotiations for a new lease.
+Legal Proceedings
+ 
+On November 1, 2019, Heska Corporation (“Heska”) filed a complaint for damages and injunctive relief (the “Complaint”) in the United States District Court for the Middle District of North Carolina, Case 1:19-cv-01108-LCB-JLW, against Qorvo US, Inc. (“Qorvo US”), Qorvo Biotechnologies, LLC (“Qorvo Biotech” and, together with Qorvo US, “Qorvo”) and us (collectively with Qorvo, the “Defendants”) which was amended on November 22, 2019. The amended Complaint alleges, among other things, that the Defendants improperly obtained Heska’s trade secrets and confidential information and/or conspired to use improper means to misappropriate Heska’s trade secrets related to an instrument and related consumable products for performing immunoassay analysis of biomarkers and other substances. The amended Complaint seeks compensatory and exemplary damages, as well as preliminary and permanent injunctive relief to prevent the Defendants from commercializing our TRUFORMATM diagnostic instrument. On January 21, 2020, the Defendants filed a motion seeking dismissal of the Complaint. On February 11, 2020, Heska filed its response to the Defendants’ motion to dismiss to which the Defendants responded on February 25, 2020. Heska subsequently moved to strike a portion of the Defendants’ response. On September 30, 2020, the court denied the Defendants’ motion to dismiss and granted Heska’s motion to strike. On October 14, 2020 the Defendants filed their answer to the amended Complaint. We believe that the allegations in the amended Complaint have no merit and will not have a material adverse effect on our business, results of operations or financial condition.
+ 
+Under the terms of the Development and Supply Agreement, dated November 26, 2018, by and between Qorvo Biotech and the Company (as amended, the “Qorvo Agreement”), Qorvo Biotech agreed to indemnify us and certain related parties against claims alleging infringement or misappropriation of third-party intellectual property rights, subject to certain limitations and exceptions. Qorvo Biotech has notified us that Qorvo Biotech has assumed the defense of the amended Complaint and will indemnify us for losses arising from the amended Complaint in accordance with the terms of the Qorvo Agreement. Qorvo Biotech has further advised us that it intends to mount a vigorous defense to the claims in the amended Complaint, and that it believes the allegations contained in the amended Complaint are without merit.
+ 
+
+7
+-
+
+Corporate Information
+ 
+Zomedica Corp. was originally incorporated as Wise Oakwood Ventures Inc. on January 7, 2013 under the Business Corporations Act (Alberta). On October 28, 2013, we completed our initial public offering in Canada and became classified as a Capital Pool Company, as defined under the rules of the TSX Venture Exchange, or TSX-V. On April 21, 2016, we changed our name to Zomedica Pharmaceuticals Corp. and consolidated our common shares on a one-for-two and one-half (2½) basis. ZoMedica Pharmaceuticals Inc., or ZoMedica Inc., was incorporated on May 14, 2015 under the Canada Business Corporations Act. On April 21, 2016, we completed a qualifying transaction, or the Qualifying Transaction, under TSX-V Policy 2.4 - Capital Pool Companies, consisting of a three-cornered amalgamation among our company, ZoMedica Inc. and our wholly-owned subsidiary. Under the Qualifying Transaction, ZoMedica Inc. and our subsidiary were amalgamated to form Zomedica Pharmaceuticals Ltd., or Zomedica Ltd. As consideration for the amalgamation, shareholders of ZoMedica Inc. became the owners of 97.6% (non-diluted) of our common shares, and Zomedica Ltd. became our wholly-owned subsidiary. Subsequent to the Qualifying Transaction, Zomedica Ltd. was vertically amalgamated into our company. We entered into the Qualifying Transaction in order to accomplish the following: 
+
+· | Enable our shareholders to own shares in a company that was publicly traded on the TSX-V;
+--+------------------------------------------------------------------------------------------
+
+
+· | Expand our shareholder base to include the public shareholders of Wise Oakwood; and
+--+------------------------------------------------------------------------------------
+
+
+· | Obtain access to the cash resources raised by Wise Oakwood in its initial public offering.
+--+-------------------------------------------------------------------------------------------
+
+ 
+On November 10, 2017, our shares were approved for listing on the NYSE American under the symbol “ZOM”. On November 20, 2017 the U.S. Securities and Exchange Commission declared our registration statement on Form S-1 effective. Our common shares commenced trading on the NYSE American on November 21, 2017.
+ 
+On February 10, 2020, we effected the voluntary withdrawal of our common shares from listing on the TSX-V.
+ 
+On October 2, 2020, we changed our name to Zomedica Corp.
+ 
+On January 19, 2021, we changed the name of our U.S. subsidiary to Zomedica Inc.
+ 
+Our principal executive offices are located at 100 Phoenix Drive, Suite 125, Ann Arbor, MI 48108, and our telephone number is (734) 369-2555. Our website address is www.zomedica.com. The information contained in, or accessible through, our website is not part of the registration statement of which this prospectus forms a part.
+ 
+
+
+
+
+
+
+
+8
+-
+
