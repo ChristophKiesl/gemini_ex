@@ -1,9 +1,0 @@
-Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
-
-  Item 1. Business.
-  
- GRCR Partners Inc. (the “Company”, “Our” or “We”) was formed on January 16, 2015 under the laws of the State of Delaware. We are a provider of corporate governance, risk management, compliance and regulatory reporting (“GRCR”) solutions for businesses (“GRCR Solutions”). Our offices are located at 1771 Post Rd East #178, Westport CT 06880. Our telephone number is 212-602-1437 and our website is www.grcrpartners.com
-  
- Currently, we provide GRCR Solutions through professional consulting services on a project-based fee arrangement. We deliver our services following our proprietary compliance architecture methodology. The skilled application of the fundamental principles governing compliance and risk management is what we call compliance architecture. We are building-out our Compliance Architecture Platform (“CAP”) to be an automated GRCR management tool that streamlines the process of GRCR for businesses. We believe that by combining expert consulting and GRCR software tools, we will help clients cost effectively build and maintain GRCR programs that reduce day-to-day and long term risks in their work environment.
-  
-  
