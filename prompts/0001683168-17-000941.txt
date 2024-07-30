@@ -1,0 +1,326 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Introduction
+ 
+Mobiquity Technologies, Inc., a New York corporation (the “Company”), is the parent company of two operating subsidiaries; Mobiquity Networks, Inc.(“Mobiquity Networks”) and Ace Marketing & Promotions, Inc. (“Ace Marketing”). The Company’s wholly-owned subsidiary, Mobiquity Networks has evolved and grown from a mobile advertising technology company focused on Driving Awareness and Foot-traffic throughout its indoor mall-based beacon network, into a next generation mobile location data and marketing company. Mobiquity Networks provides precise unique, at-scale location-based data and insights on consumer’s real world behavior and trends for use in marketing and research. With our combined data sets of shopping malls, premium outlets and cinemas beacon data, and first party location data via our advanced Software Development Kit (“SDK”) utilizing multiple geo-location technologies, Mobiquity Networks provides one of the most accurate and scaled solution for mobile data collection and analysis. Mobiquity Networks is seeking to create several new revenue streams from the mobile data collection and analysis, including, but not limited to; Push Notification Campaigns, Mobile Audiences & Segments, real-time Data Provision, Attribution Reporting and Custom Research. The Company is also attempting to reduce expenses by renegotiating certain Mall Developer Agreements.
+ 
+Ace Marketing is our legacy marketing and promotions business which provides integrated marketing services to our commercial customers. While Ace Marketing currently represents substantially all of our revenue, we anticipate that activity from Ace Marketing will represent a diminishing portion of corporate revenue as our attention is now principally focused on developing and executing on opportunities in our Mobiquity Networks business. We believe that our Mobiquity Networks business represents our greatest growth opportunity going forward.
+ 
+
+
+Mobiquity Networks
+ 
+Mobiquity Revenue Streams
+ 
+Mobiquity Networks is seeking to create several new revenue streams from the mobile data collection and analysis, including, but not limited to; Push Notification Campaigns, Mobile Audiences and Segments, real-time Data Provision, Attribution Reporting and Custom Research as described below.
+ 
+
+
+
+1
+-
+
+Push Notification Campaigns
+ 
+
+
+
+
+
+Push notification campaigns are ideal for drive in-store traffic by reaching consumers before they decide where to shop and what to buy in malls and shopping center common areas.
+ 
+Data collected with push notifications can:
+ 
+
+· | Increase your client’s revenue potential by driving in-store traffic;
+--+----------------------------------------------------------------------
+
+
+· | Enable real time, location based in-app engagement; and
+--+--------------------------------------------------------
+
+
+· | Enhance interaction by providing localized, relevant content.
+--+--------------------------------------------------------------
+
+Mobile Audiences
+ 
+
+
+
+
+
+Mobiquity’s Mobile Audiences enables advertisers to create specific audience segments based on user’s real world behaviors. With tracking of over 500 plus brands to understand consumer behavior and affinity, the platform provides unparalleled accuracy and precision due to the volume of user data points and our understanding of dwell time at locations.
+Mobiquity Mobile Audiences:
+ 
+
+· | Retrieve over 600 existing geo-behavioral segments based on visitation to specific locations, chain and merchants;
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+· | Include event attendance, home/work locations and motion into your audiences;
+--+------------------------------------------------------------------------------
+
+
+· | Create custom or use standard audiences like: frequent store visitors, in-market auto buyers, consumers with homes in specific zips/DMAs; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Are provided directly to client systems or via standard services.
+--+------------------------------------------------------------------
+
+
+2
+-
+
+Location Data Feeds
+ 
+
+
+
+
+
+Looking to substantially increase the number of unique devices on your own location data platform? Mobiquity’s Location Data Feed will provide clients with millions of first party unique devices and associated meta data to use with clients own places database.
+ 
+With location data feeds, clients have access to:
+ 
+
+· | Location data from millions of devices;
+--+----------------------------------------
+
+
+· | Updates on client’s schedule which can be real-time, daily, monthly; and
+--+-------------------------------------------------------------------------
+
+
+· | Includes data on operating system, timestamp, latitude, longitude and more relevant data.
+--+------------------------------------------------------------------------------------------
+
+Campaign Attribution
+ 
+
+
+
+
+
+Mobiquity clients can now determine impact of its advertising campaigns on its in-store visits and store traffic patterns by leveraging our platform to collect and analyze location data for a clear view of how effectively client campaigns are in driving consumers to its stores.
+ 
+With Mobiquity Mobile Audiences, clients can have real time information on:
+ 
+
+· | Footfall attribution;
+--+----------------------
+
+
+· | Insights of daily conversion;
+--+------------------------------
+
+
+· | Insights on visit time and dwell time; and
+--+-------------------------------------------
+
+
+· | Geographical and Audience analysis.
+--+------------------------------------
+
+
+3
+-
+
+Footfall, Audience & Path Reporting
+ 
+
+
+
+
+
+Customized reports provide our clients with a deeper understanding of consumer behaviors, store location performance, new store site selection and marketing strategy.
+ 
+Reports include:
+ 
+
+· | Visit analysis by time & trends by time of day, week and month;
+--+----------------------------------------------------------------
+
+
+· | Distance from home/work of store locations;
+--+--------------------------------------------
+
+
+· | Performance, trends, and comparisons of store locations;
+--+---------------------------------------------------------
+
+
+· | Dwell time and frequency comparisons by store locations;
+--+---------------------------------------------------------
+
+
+· | Competitive analysis;
+--+----------------------
+
+
+· | Locations visited before and after the desired points of interest(“POI”); and
+--+------------------------------------------------------------------------------
+
+
+· | Correlation between POIs visited and distance from key locations
+--+-----------------------------------------------------------------
+
+ 
+
+
+What Mobiquity Networks is about
+ 
+
+Mobiquity Networks is a location data marketing and insights company. We provide accurate and precise location on millions of mobile devices to help marketers and researchers better find and understand their audiences. All of our data is first party supplied by our SDK installed within dozens of class "A" app partner's apps. First party data is considered the most valuable and accurate that can be collected from an SDK. All data provided by Mobiquity Networks is deterministic with a high degree of accuracy and precision.
+ 
+Mobiquity Networks’ data is unique for the following reasons:
+ 
+·     Massive Scale: 15 million plus unique devices;
+ ·     Unique (exclusive) data from our owned & operated network of beacons in class “A” malls, shopping outlets and cinemas. In the united states, indoor locations represent approximately 30% of major retail locations;
+ ·     Data Density: 100 plus data points collected per user/day;
+ ·     Spatial Precision: 85% accurate within less than 30 feet;
+ ·     Verified Visits: frequency and dwell time in store utilized to determine real consumer visits;
+ ·     Diverse Data:found in dozens of mobile apps that utilize precise location; and
+ ·     Privacy Compliant: all user privacy is one hundred percent compliant and transparent.
+ 
+Mobiquity Networks determines a location visit by utilizing all the location sensors built into a mobile device: GPS, Bluetooth, Wi-Fi and motion sensors. To be considered a verified visit a device must have triggered an enter location event (GPS, Wi-Fi, Bluetooth), had a set amount of accuracy to the location event and dwelled at the location for a set amount of time. A typical definition of a verified visit would be a device that was seen at a location in the last 30 days, dwelled at the location for a minimum of 10 minutes and had a high degree of accuracy.
+ 
+
+
+
+4
+-
+
+Strategy
+ 
+Mobiquity Networks derives its revenue utilizing the revenue streams mentioned above. All of the products used to derive revenue for the Company are reliant on the collection of data. To achieve management’s revenue goals moving forward, we have developed a strategy to increase the two main driving forces behind our data collection. One strategy is to increase the total number of users we see on a monthly basis (“MAU”), and the second strategy is to increase the total number of locations (Places) available to see our MAU’s visit over the same time period. We are currently seeing approximately 13,000,000 unique mobile devices by the MAU on a monthly basis and roughly 20,000,000 unique devices for the first 100 days of 2017. The ability to see and collect the data required from these unique devices comes from the installation of our proprietary Software Development Kit (SDK) into third party mobile applications (Apps). To continue to grow the total number of unique devices we can see on a monthly basis, we need to have our SDK installed in more third party Apps. We believe our unique offering to potential App partners gives us a competitive advantage over others in the industry. The task of partnering with third party Apps for installation of our SDK is handled internally by our business development team.
+ 
+As of March 31, 2017, we had approximately 200,000 Places in our proprietary Places database, and that number should increase to over 4,000,000 Places by the end of the second quarter 2017, thus exponentially increasing the amount of data we collect. We have been able to steadily increase the number of locations available in our Places database through the use of both open source and proprietary technologies. The task of growing our Places database is handled by our internal technology team. The Company currently utilizes both internal and outsourced resources to market and sell its product offerings. Management intends to hire additional sales personnel in the last three quarters of 2017 as working capital permits.
+ 
+Agreements
+ 
+Due to the evolution of the Mobiquity Network’s business model, our agreements with the Mall developers are no longer considered essential to our business operations as our Places data base has grown to approximately 4 million locations making malls a subset within our retail category. This is the major reason why we have allowed many of our mall developer contracts to be terminated by the other parties. We continue to have active agreements with Preit and Rousse malls on a revenue sharing basis covering an aggregate of 55 malls and an agreement with Simon Property malls covering about 195 malls, which agreement will expire no later than December 31, 2017. Since April 2016, this agreement is being financed through lines of credit totaling $2.7 million which lines of credit have been assigned to us by two stockholders in exchange for our common stock. See “Item 13.” This agreement is anticipated to be in default if the lines of credit are not reissued by us by the beginning of June 2017, unless a new agreement is entered into prior to that time. For a description of our prior mall agreements, reference is made to “Item 1” of our Form 10-k for the fiscal year ended December 31, 2015.
+ 
+We have entered into agreements with many third party app partners such as LiveRamp. LiveRamp is an Acxiom company, located in the technology hub of San Francisco, delivering privacy-safe solutions to market and honoring the best practices of leading associations, including the Digital Advertising Alliance’s (DAA) ICON and App Choices programs, the Interactive Advertising Bureau, the Data & Marketing Association, and the Advertising Research Foundation. Through our agreement with LiveRamp, we have the ability to make our Mobile Audiences Product available to nearly all buyers interested in such data.
+ 
+
+
+
+5
+-
+
+Our Proprietary Technology Platform
+ 
+Mobiquity Networks has developed a highly accurate and scalable proprietary cloud based mobile location platform to allow millions of connected mobile devices to easily and securely log billions of events per day and receive timely user notifications in real-time.
+ 
+The Mobiquity Networks’ platform analyzes a combination of raw GPS, Wi-Fi and iBeacon radio signals when collecting mobile data to identify user patterns in densely populated urban areas, and even inside stores or desired points of interest. This data is additionally analyzed and enriched with how often users visit specific locations, and how much time they spend at each location. The resulting combined contextual data ensures clients receive highly accurate insights into consumers’ offline behavior and purchase intent.
+ 
+
+
+
+The Mobiquity Networks platform is hosted and managed on Amazon Web Service (AWS) and takes full advantage of open standards for processing, storage, security and big data technology. Specifically, the Mobiquity Networks platform uses the following AWS services: EC2, Lambda, Kafka, Kinesis, S3, Storm, Spark, Machine Learning, RDS, Redshift, Elastic Map Reduction, CloudWatch, and Elastic Search Service with built-in Kibana integration.
+ 
+Mobiquity Networks’ unique approach to validating mobile device location visits produces extremely precise and accurate location data with its publisher application SDK.
+ 
+
+
+
+6
+-
+
+ 
+
+The Mobiquity Networks’ SDK for iOS and Android is a proprietary intelligent replacement for iOS CLLocationManager and the Android Location Manager technology. It provides all the existing location manager functionality plus adds the following benefits:
+ 
+
+· | advanced location technology capabilities (such as always-on location services, enhanced accuracy, lower battery drain, and others),
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | automatic venue recognition,
+--+-----------------------------
+
+
+· | access to storefront and venue map database, and
+--+-------------------------------------------------
+
+
+· | a detailed location analytics
+--+------------------------------
+
+ 
+Mobiquity Networks’ SDK enables partner publishers to add enhanced location capabilities, and therefore personalized experiences, to their mobile applications without the need for location expertise.
+ 
+Mobiquity Networks has assembled a comprehensive location database to convert geographical coordinates to a physical address in the real world. Mobiquity Networks built its own database because existing location databases did not have good enough data to resolve accurate places for user visits. This database includes the street level venue storefronts and entrance for businesses in the U.S., addresses, building polygons, venue polygons, and other related points of interest information. Currently this database has over 4 million locations and continues to be populated thereby improving the platforms’ algorithm for user visit accuracy.
+ 
+Utilizing massively parallel cluster computing and machine learning algorithms and technology, Mobiquity Networks processes user dwell-time and frequency of visit data within iBeacons, Wi-Fi and GPS signals to segment highly targetable audiences for mobile marketing. This data processing provides valuable, actionable geo-behavioral data for advertisers and application publishers and made available through an automated platform.
+ 
+
+
+Figure 2 – Data Collection, Processing and Development
+ 
+The Mobiquity Networks platform automatically synchronizes audience data to various Data Management Providers (DMP), Demand Side Providers (DSP), trading desks and other partners using its marketplace connection application programmer interfaces (API).
+
+7
+-
+
+ 
+
+Publishing partners are given access to a comprehensive dashboard to view mobile device traffic and audience segment information of their application user base. This information can be both viewed and access via API to incorporate into internal client systems.
+ 
+
+
+Intellectual Property
+ 
+In March 2013, we formed Mobiquity Networks and Mobiquity Wireless in Spain. Mobiquity Wireless then acquired the assets of our then licensor, FuturLink. These assets include, without limitation, the FuturLink technology which consists of patent applications, source codes and trademark(s). The patent applications acquired related to the hardware and associated process for identifying and acquiring connections to mobile devices and the process for delivering select content to users on an opt-in basis. Additionally, significant “know how” was acquired with respect to managing remote hardware across a large physical network. As the technology owner, we will leverage the hardware and software included in our purchase to expand our mall-based footprint in the United States. We believe our acquisition of FuturLink’s technology and corresponding patent applications provided us with the flexibility and autonomy to improve, upgrade and integrate new ideas and cutting edge technologies into our then existing platform. This has allowed us to evolve as new technologies emerge. To date, we have published for four patents and two have been approved. We believe that our intellectual property is a valuable asset to us as we move forward with our technology platform.
+
+8
+-
+
+Governmental Regulations
+ 
+Federal, state and international laws and regulations govern the collection, use, retention, sharing and security of data that we collect. We strive to comply with all applicable laws, regulations, self-regulatory requirements and legal obligations relating to privacy, data protection and consumer protection, including those relating to the use of data for marketing purposes. As we develop and provide solutions that address new market segments, we may become subject to additional laws and regulations, which could create unexpected liabilities for us, cause us to incur additional costs or restrict our operations. From time to time, we may be notified of or otherwise become aware of additional laws and regulations that governmental organizations or others may claim should be applicable to our business. Our failure to anticipate the application of these laws and regulations accurately, or other failure to comply, could create liability for us, result in adverse publicity or cause us to alter our business practices, which could cause our net revenues to decrease, our costs to increase or our business otherwise to be harmed. See “Risk Factors.”
+ 
+We are subject to general business regulations and laws as well as regulations and laws specifically governing the Internet, e-commerce and m-commerce in a number of jurisdictions around the world. Existing and future regulations and laws could impede the growth of the Internet, e-commerce, m-commerce or other online services. These regulations and laws may involve taxation, tariffs, privacy and data security, anti-spam, data protection, content, copyrights, distribution, electronic contracts, electronic communications and consumer protection. It is not clear how existing laws and regulations governing issues such as property ownership, sales and other taxes, libel and personal privacy apply to the Internet as the vast majority of these laws and regulations were adopted prior to the advent of the Internet and do not contemplate or address the unique issues raised by the Internet, e-commerce or m-commerce. It is possible that general business regulations and laws, or those specifically governing the Internet, e-commerce or m-commerce may be interpreted and applied in a manner that is inconsistent from one jurisdiction to another and may conflict with other rules or our practices. See “Risk Factors. “
+ 
+Integrated Marketing Company
+ 
+Our subsidiary, Ace Marketing & Promotions, Inc. (or Ace Marketing), has historically represented substantially all of our operating revenues. Ace Marketing is an integrated marketing company focused on working with clients to grow their business. Ace Marketing’s core business is to provide a wide range of quality promotional products to a wide range of corporate, non-profit and educational clients. In addition, Ace Marketing offers brand analysis and development, website analysis and development, database analysis and building, and integrated marketing campaigns using: direct mail, email marketing, mobile marketing, promotional products and other mediums that help our clients connect with their customers and acquire new business.
+ 
+Although the majority of Ace Marketing’s revenue is derived from the sale of promotional products, it is through the use of our four-step process supported by marketing technology platforms that allows us to attract and retain clients. The sale of promotional products alone can be considered a commodity business, so by offering our value-added services, we believe we have created a competitive advantage. We believe a client will be less likely to leave if we created their logo, built their website and/or appended their customer database.
+ 
+
+
+
+9
+-
+
+ 
+
+Ace Marketing derives revenues from each of the following resources:
+ 
+
+☐ | Brand analysis and development. 
+--+----------------------------------
+☐ | Website analysis and development.
+☐ | Database analysis and building. 
+☐ | Integrated marketing solutions. 
+
+ 
+Substantially all of our resources and marketing efforts are dedicated toward deriving revenues from the operations of Mobiquity Networks.
+ 
+Competition
+ 
+We compete in the location-based mobile data, marketing and research business and in all other facets of our business against small, medium and large companies throughout the United States. Some examples include companies such as Placed, PlaceIQ, Factual, xAd and Foursquare. Although we can give no assurance that our business will be able to compete against other companies with greater experience and resources, we believe we have a competitive advantage with our proprietary Places Database, software and technology platform. As previously mentioned, we have the exclusive rights to provide Bluetooth marketing services in the common area for various shopping malls. This gives us the ability to compete with these other companies to provide indoor data based upon the exclusive rights in such malls.
+ 
+With respect to our integrated marketing subsidiary, while our competition in this business vertical is extensive, we believe that this industry is extremely fragmented and that there are no companies that dominate the market in which we operate. We compete within the industry on the basis of service, competitive prices, personal relationships and competitive commissions to our sales representatives to sell promotional products for us rather than our competitors. Competitors’ advantages over us may include better financing, greater experience, lower margins and better personal relationships than us.
+ 
+Employees
+ 
+We have approximately 16 full time employees, including executive management, technical personnel, salespeople, and support staff employees. We also utilize several additional firms/persons who provide services to us on a non-exclusive basis as independent consultants.
+
+10
+--
+

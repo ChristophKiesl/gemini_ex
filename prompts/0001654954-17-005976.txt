@@ -1,0 +1,651 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+ Company Overview
+  
+  We are a clinical-stage biopharmaceutical company focused on developing new generation medicines for depression and other central nervous system (CNS) disorders.
+  
+  AV-101 is our oral CNS product candidate in Phase 2 clinical development in the United States, initially as a new generation adjunctive treatment for Major Depressive Disorder (MDD) in patients with an inadequate response to standard antidepressants approved by the U.S. Food and Drug Administration (FDA).  AV-101’s mechanism of action (MOA) involves both NMDA (N-methyl-D-aspartate) and AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptors in the brain responsible for fast excitatory synaptic activity throughout the CNS.  AV-101’s MOA is fundamentally differentiated from all FDA-approved antidepressants, as well as all atypical antipsychotics often used adjunctively to augment them. We believe AV-101 also has potential as a new treatment alternative for several additional indications involving the CNS, including epilepsy, Huntington’s disease, L-DOPA-induced dyskinesia associated with Parkinson’s disease, and neuropathic pain. 
+  
+  Clinical studies conducted at the U.S. National Institute of Mental Health (NIMH), part of the U.S. National Institutes of Health (NIH), by Dr. Carlos Zarate, Jr., Chief of the NIMH’s Experimental Therapeutics & Pathophysiology Branch and its Section on Neurobiology and Treatment of Mood and Anxiety Disorders, have focused on the antidepressant effects of low dose ketamine hydrochloride injection (ketamine), an NMDA receptor antagonist, in MDD patients with inadequate responses to multiple standard antidepressants. These NIMH studies, as well as clinical research at Yale University and other academic institutions, have demonstrated robust antidepressant effects in these MDD patients within twenty-four hours of a single sub-anesthetic dose of ketamine administered by intravenous (IV) injection.
+  
+  We believe orally-administered AV-101 may have potential to deliver ketamine-like antidepressant effects without ketamine’s psychological and other negative side effects. As published in the October 2015 issue of the peer-reviewed, Journal of Pharmacology and Experimental Therapeutics, in an article titled, The prodrug 4-chlorokynurenine causes ketamine-like antidepressant effects, but not side effects, by NMDA/glycineB-site inhibition, using well-established preclinical models of depression, AV-101 was shown to induce fast-acting, dose-dependent, persistent and statistically significant antidepressant-like responses following a single treatment. These responses were equivalent to those seen with a single sub-anesthetic control dose of ketamine. In addition, these studies confirmed that the fast-acting antidepressant effects of AV-101 were mediated through both inhibiting the GlyB site of the NMDA receptor and activating the AMPA receptor pathway in the brain.
+  
+  Pursuant to our Cooperative Research and Development Agreement (CRADA) with the NIMH, the NIMH is funding, and Dr. Zarate, as Principal Investigator, and his team are conducting, a small Phase 2 clinical study of AV-101 monotherapy in subjects with treatment-resistant MDD (the NIMH AV-101 MDD Phase 2 Monotherapy Study). We are preparing to launch our 180-patient Phase 2 multi-center, multi-dose, double blind, placebo-controlled efficacy and safety study of AV-101 as a new generation adjunctive treatment of MDD in adult patients with an inadequate response to standard, FDA-approved antidepressants (the AV-101 MDD Phase 2 Adjunctive Treatment Study).  Dr. Maurizio Fava, Professor of Psychiatry at Harvard Medical School and Director, Division of Clinical Research, Massachusetts General Hospital (MGH) Research Institute, will be the Principal Investigator of our AV-101 MDD Phase 2 Adjunctive Treatment Study.  Dr. Fava was the co-Principal Investigator with Dr. A. John Rush of the STAR*D study, the largest clinical trial conducted in depression to date, whose findings were published in journals such as the New England Journal of Medicine (NEJM) and the Journal of the American Medical Association (JAMA). We currently anticipate completing our AV-101 MDD Phase 2 Adjunctive Treatment Study by the end of 2018 with top line results available in the first quarter of 2019.
+  
+  VistaStem Therapeutics (VistaStem) is our wholly owned subsidiary focused on applying human pluripotent stem cell (hPSC) technology, internally and with collaborators, to discover, rescue, develop and commercialize (i) proprietary new chemical entities (NCEs) for CNS and other diseases and (ii) regenerative medicine (RM) involving hPSC-derived blood, cartilage, heart and liver cells. Our internal drug rescue programs are designed to utilize CardioSafe 3D, our customized cardiac bioassay system, to develop small molecule NCEs for our pipeline.  In December 2016, we exclusively sublicensed to BlueRock Therapeutics LP, a next generation RM company established by Bayer AG and Versant Ventures, rights to certain proprietary technologies relating to the production of cardiac stem cells for the treatment of heart disease (the BlueRock Agreement). In a manner similar to our exclusive sublicense agreement with BlueRock Therapeutics, VistaStem may pursue additional RM collaborations or licensing transactions involving blood, cartilage, and/or liver cells derived from hPSCs for (A) cell-based therapy, (B) cell repair therapy, and/or (C) tissue engineering. 
+  
+
+   
+-2-
+
+
+
+ 
+ 
+  AV-101 and Major Depressive Disorder
+  
+  Background
+  
+  The World Health Organization (WHO) estimates that 300 million people worldwide are affected by depression. According to the NIH, major depression is one of the most common mental disorders in the U.S. The NIMH reports that, in 2014, approximately 16 million adults in the U.S. had at least one major depressive episode in the past year. According to the U.S. Centers for Disease Control and Prevention (CDC) one in 10 Americans over the age of 12 takes a standard, FDA-approved antidepressant.
+  
+  Most standard antidepressants target neurotransmitter reuptake inhibition – either serotonin (antidepressants known as SSRIs) or serotonin/norepinephrine (antidepressants known as SNRIs). Even when effective, these standard depression medications take many weeks to achieve adequate antidepressant effects. Nearly two out of every three drug-treated depression patients do not obtain adequate therapeutic benefit from initial treatment with a standard antidepressant. Even after treatment with many different standard antidepressants, nearly one out of every three drug-treated depression patients still do not achieve adequate therapeutic benefits from their antidepressant medication.  Such patients with an inadequate response to standard antidepressants often seek to augment their treatment regimen by adding an atypical antipsychotic (drugs such as aripiprazole), despite only modest potential therapeutic benefit and the risk of additional side effects.
+  
+  All standard antidepressants have risks of side effects, including, among others, anxiety, metabolic syndrome, sleep disturbance and sexual dysfunction. Adjunctive use of atypical antipsychotics to augment inadequately performing standard antidepressants may increase the risk of side effects, including, tardive dyskinesia, weight gain, diabetes and heart disease, while offering only a modest potential increase in therapeutic benefit.
+  
+  AV-101
+  
+  AV-101 is our oral CNS drug candidate in Phase 2 development in the United States, initially focused as a new generation antidepressant for the adjunctive treatment of MDD patients with an inadequate response to standard, FDA-approved antidepressants. As published in the October 2015 issue of the peer-reviewed, Journal of Pharmacology and Experimental Therapeutics, in an article titled, The prodrug 4-chlorokynurenine causes ketamine-like antidepressant effects, but not side effects, by NMDA/glycineB-site inhibition, using well-established preclinical models of depression, AV-101 was shown to induce fast-acting, dose-dependent, persistent and statistically significant ketamine-like antidepressant effects following a single treatment, responses equivalent to those seen with a single sub-anesthetic control dose of ketamine, without the negative side effects seen with ketamine. In addition, these studies confirmed that the antidepressant effects of AV-101 were mediated through both inhibition of the GlyB site of NMDA receptors and activation of the AMPA receptor pathway in the brain, a key final common pathway feature of certain new generation antidepressants such as ketamine and AV-101, each with a MOA that is fundamentally different from all standard antidepressants and atypical antipsychotics used adjunctively to augment them.
+  
+  We have completed two NIH-funded, randomized, double blind, placebo-controlled AV-101 Phase 1 safety studies. Currently, pursuant to our CRADA with Dr. Carlos Zarate, Jr., the NIMH is funding, and Dr. Zarate, as Principal Investigator, and his team are conducting, the 20 patient NIMH AV-101 MDD Phase 2 Monotherapy Study. We currently anticipate that the NIMH will complete the NIMH AV-101 MDD Phase 2 Monotherapy Study in 2017, with top line results during the first half of 2018.
+  
+  We are currently preparing to launch our 180-patient AV-101 MDD Phase 2 Adjunctive Treatment Study as an adjunctive treatment of MDD in patients with an inadequate response to standard, FDA-approved antidepressants. We currently anticipate the launch of the AV-101 MDD Phase 2 Adjunctive Treatment Study, with Dr. Maurizio Fava of Harvard Medical School serving as Principal Investigator, in the first quarter of 2018. Subject to securing adequate financing, we currently anticipate completing our AV-101 MDD Phase 2 Adjunctive Treatment Study by the end of 2018 with top line results available in the first quarter of 2019. 
+  
+  We believe preclinical studies and Phase 1 safety studies support our hypothesis that AV-101 may also have potential to treat multiple CNS disorders and diseases beyond MDD, including epilepsy, neuropathic pain, Huntington’s disease, L-DOPA-induced dyskinesia associated with Parkinson’s disease, and several other CNS indications where modulation of the NMDA receptor, activation of AMPA pathways and/or key active metabolites of AV-101 may achieve therapeutic benefit. We are beginning to plan additional Phase 2 clinical studies of AV-101 to further evaluate its therapeutic potential beyond MDD.
+  
+  CardioSafe 3D™; NCE Drug Rescue and Regenerative Medicine
+  
+  VistaStem Therapeutics is our wholly owned subsidiary focused on applying hPSC technology to discover, rescue, develop and commercialize proprietary small molecule NCEs for CNS and other diseases, as well as potential cellular therapies involving stem cell-derived blood, cartilage, heart and liver cells. CardioSafe 3D™ is our customized in vitro cardiac bioassay system capable of predicting potential human heart toxicity of small molecule NCEs in vitro, long before they are ever tested in animal and human studies. Potential commercial applications of our stem cell technology platform involve (i) using CardioSafe 3D internally for NCE drug discovery and drug rescue to expand our proprietary drug candidate pipeline. Drug rescue involves leveraging substantial prior research and development investments by pharmaceutical companies and others related to public domain NCE programs terminated before FDA approval due to heart toxicity risks and (ii) RM and cellular therapies. In December 2016, we exclusively sublicensed to BlueRock Therapeutics LP, a next generation regenerative medicine company established by Bayer AG and Versant Ventures, rights to certain proprietary technologies relating to the production of cardiac stem cells for the treatment of heart disease. We may also pursue additional potential RM applications using blood, cartilage, and/or liver cells derived from hPSCs for (A) cell-based therapy (injection of stem cell-derived mature organ-specific cells obtained through directed differentiation), (B) cell repair therapy (induction of regeneration by biologically active molecules administered alone or produced by infused genetically engineered cells), or (C) tissue engineering (transplantation of in vitro grown complex tissues) using hPSC-derived blood, bone, cartilage, and/or liver cells.  In a manner similar to the BlueRock Agreement, we may pursue these additional RM and cellular therapy applications in collaboration with third-parties.
+  
+ 
+   
+-3-
+
+
+
+ 
+ 
+  Subsidiaries
+  
+  VistaGen Therapeutics, Inc., a California corporation dba VistaStem Therapeutics (VistaStem), is our wholly-owned subsidiary. Our Consolidated Financial Statements in this Report also include the accounts of VistaStem’s two wholly-owned inactive subsidiaries, Artemis Neuroscience, Inc., a Maryland corporation, and VistaStem Canada, Inc., a corporation organized under the laws of Ontario, Canada.
+ Our Strategy
+  
+ Our core strategy is to develop and commercialize innovative small molecule drugs that address significant unmet medical needs related to CNS diseases and disorders. We have assembled a management team and a team of scientific, clinical, and regulatory advisors, including recognized experts in the fields of depression and other CNS disorders, with significant industry and regulatory experience to lead and execute the development and commercialization of our CNS product candidate opportunities. Key elements of our strategy are to:
+  
+   ●
+   Develop and commercialize our lead CNS product candidate, AV-101, initially as a new generation adjunctive treatment for MDD patients with an inadequate response to standard, FDA-approved antidepressants. We are currently pursuing adjunctive treatment of MDD as our lead indication for AV-101. We are preparing to launch our approximately 180-patient AV-101 MDD Phase 2 Adjunctive Treatment Study of AV-101 for the adjunctive treatment of MDD in patients with an inadequate response to standard antidepressants. We intend to develop AV-101 internally, through a pivotal Phase 3 clinical program focused on adjunctive treatment of MDD, accompanied by submission of our New Drug Application (NDA) for AV-101 to the FDA. If our NDA is approved by the FDA, we plan to commercialize AV-101 for this indication in the U.S. either by (A) collaborating with a large pharmaceutical company with a strong commercial presence in global depression and other CNS markets and/or (B) contracting for specialty sales force support focused primarily on psychiatrists and long-term care physicians who prescribe standard antidepressants and atypical antipsychotics for treatment of their MDD patients.
+
+ 
+   ●
+  Leverage the commercial potential of AV-101 by expanding Phase 2 development to include additional CNS-related disorders and diseases. We intend to pursue broad clinical development and commercialization of AV-101 across a range of CNS-related indications that are underserved by currently available medicines and represent significant unmet medical needs. Based on AV-101 preclinical studies, our successful NIH-funded AV-101 Phase 1a and 1b clinical safety studies, and regulatory submissions related to the AV-101 MDD Phase 2 Adjunctive Treatment Study, we expect to have opportunities to expand Phase 2 development of AV-101 beyond MDD to include other CNS indications, such as neuropathic pain, epilepsy, Huntington’s disease and L-DOPA-induced dyskinesia associated with Parkinson’s disease, where modulation of the NMDA receptors, the AMPA receptor pathway and/or key active metabolites of AV-101 may achieve therapeutic benefit.
+
+ 
+   ●
+  Capitalize on our drug rescue and RM opportunities using our stem cell technology platform. We are focused on using our cardiac stem cell technology to screen and develop proprietary NCEs through drug rescue programs intended to produce proprietary NCEs for our internal drug development pipeline, without incurring many of the substantial costs and risks typically inherent in new drug discovery and non-clinical drug development. In order to capitalize on our existing stem cell technology, we may establish additional strategic collaborations similar to the BlueRock Agreement, as well as investigating potential spin-off opportunities. As most of our resources are currently focused on the non-clinical and clinical development activities we believe are necessary to advance AV-101 through Phase 2 and into pivotal Phase 3 development, a strategic collaboration or spin-off involving our stem cell technology could allow us to capitalize on our existing stem cell technology and shift our focus exclusively to developing our CNS pipeline.
+
+ 
+   ●
+  Pursue in-licensing and acquisition of additional CNS product candidates. While our resources are currently focused primarily on development of AV-101 for MDD and additional CNS indications, we anticipate pursuing acquisition of additional CNS-related product candidates in the future. We believe that a diversified CNS product candidate portfolio will mitigate risks inherent in drug development and increase the likelihood of our success.
+
+ 
+   ●
+  Grow our internal development pipeline through drug rescue using our cardiac stem cell technology platform. We have developed our cardiac bioassay system, CardioSafe 3D, for drug rescue applications intended to produce proprietary small molecule NCEs for our internal drug development pipeline, without incurring many of the substantial costs and risks typically inherent in new drug discovery and non-clinical drug development.
+
+ 
+  AV-101 (L-4-cholorkyurenine or 4-Cl-KYN)
+  
+  Overview and Mechanism of Action
+  
+ AV-101 is an orally available, clinical-stage prodrug candidate that readily gains access to the CNS after systemic administration and is rapidly converted in vivo into its active metabolite, 7-chlorokynurenic acid (7-Cl-KYNA), a well-characterized, potent and highly selective antagonist of the NMDA receptor at its GlyB co-agonist site.  
+  
+ Current evidence suggests that AV-101’s antagonism of NMDA receptor signaling may provide faster-acting antidepressant effects in the treatment of MDD than standard antidepressants. In addition, as confirmed in our AV-101 Phase 1 clinical studies, targeting the GlyB site of the NMDA receptor does not have the negative side effects typically associated with standard antidepressants and channel-blocking NMDA receptor antagonists, such as ketamine.
+  
+ 
+   
+-4-
+
+
+
+ 
+ 
+  Major Depressive Disorder
+  
+ Depression is a serious medical illness and a global public health concern. The WHO estimates that depression is the leading cause of disability worldwide, and is a major contributor to the global burden of disease, affecting 300 million people globally. According to the CDC, approximately one in every 10 Americans aged 12 and over takes antidepressant medication.
+  
+ While most people will experience depressed mood at some point during their lifetime, MDD is different. MDD is the chronic, pervasive feeling of utter unhappiness and suffering, which impairs daily functioning. Symptoms of MDD include diminished pleasure in activities, changes in appetite that result in weight changes, insomnia or oversleeping, psychomotor agitation, loss of energy or increased fatigue, feelings of worthlessness or inappropriate guilt, difficulty thinking, concentrating or making decisions, and thoughts of death or suicide and attempts at suicide. Suicide is estimated to be the cause of death in up to 15% individuals with MDD.
+  
+  Standard Antidepressants
+  
+ For many people, depression cannot be controlled for any length of time without treatment.  Standard antidepressant medications available in the multi-billion dollar global depression market, including commonly-prescribed SSRIs and SNRIs, have limited effectiveness, and, because of their mechanism of action, must be taken for several weeks or months before patients experience any significant therapeutic benefit.  About two out of every three depression sufferers, including over an estimated 6.0 million drug-treated MDD patients in the U.S., do not receive adequate therapeutic benefits from their initial treatment with a standard antidepressant, and the likelihood of achieving remission of depressive symptoms declines with each successive treatment attempt. Even after multiple treatment attempts, approximately one out of every three depression sufferers still fails to find an adequately effective standard antidepressant. In addition, this trial and error process and the systemic effects of the various antidepressants involved may increase the risk of patient tolerability issues and serious side effects, including suicidal thoughts and behaviors in certain groups.
+ Ketamine and NIH Clinical Studies in Major Depressive Disorder
+  
+ Ketamine hydrochloride (ketamine) is an FDA-approved, rapid-acting general anesthetic currently administered only by intravenous (IV) or intramuscular (IM) injection. The use of ketamine (an NMDA receptor antagonist which acts as an NMDA channel blocker) to treat MDD has been studied in several clinical trials conducted by depression experts at Yale University and other academic institutions and at the NIMH, including Dr. Carlos Zarate, Jr., the NIMH’s Chief of Experimental Therapeutics & Pathophysiology Branch and of the Section on Neurobiology and Treatment of Mood and Anxiety Disorders.  In randomized, placebo-controlled, double blind clinical trials reported by Dr. Zarate and others at the NIMH, a single low dose of ketamine (0.5 mg/kg over 40 minutes) produced robust and rapid antidepressant effects in MDD patients who had not responded to standard antidepressants.  These results were in contrast to the very slow onset of SSRIs and SNRIs that usually require many weeks or months of chronic usage to achieve similar antidepressant effects.  The potential for widespread therapeutic use of current FDA-approved ketamine, a Schedule III drug, for MDD is limited by its potential for abuse, dissociative and psychosis-like side effects and by practical challenges associated with the necessity of I.V. administration in a medical center. Notwithstanding these limitations, however, the discovery of ketamine’s fast-acting antidepressant effects revolutionized thinking about the current MDD treatment paradigm and catalyzed development of a new generation of antidepressants with faster-acting mechanisms of action similar to ketamine’s.  Our orally available AV-101 is among the next generation of antidepressants with potential to deliver faster-onset antidepressant effects than standard antidepressants, without the side effects typically associated with standard antidepressants or ketamine.
+ AV-101 and Major Depressive Disorder
+  
+ AV-101 is an orally available prodrug candidate that produces, in the brain, 7-Cl-KYNA, one of the most potent and selective antagonists of the GlyB site of the NMDA receptor, resulting in the down-regulation of NMDA receptor signaling. Growing evidence suggests that glutamatergic activation involving AMPA receptors is central to the neurobiology and treatment of MDD and other mood disorders.
+  
+ AV-101’s mechanism of action is fundamentally differentiated from all standard, FDA-approved antidepressants and all atypical antipsychotics often used adjunctively to augment inadequate response to standard antidepressants, placing AV-101 among a new generation of antidepressants with potential to treat millions of MDD sufferers worldwide who are poorly served by SSRIs, SNRIs and other current depression therapies. AV-101 is functionally similar to ketamine in that both induce final common pathway antidepressant activity via glutamatergic activation involving AMPA receptors. However, AV-101 inhibits NMDA receptor channel activity, whereas ketamine blocks the ion channel of the NMDA receptor. AV-101, as a prodrug, produces in the brain an antagonist that inhibits the NMDA receptor by selectively binding to its functionally required GlyB site. Experimental evidence confirms that inhibiting the NMDA receptor by targeting the GlyB site can produce potent antidepressive effects and bypass adverse effects that result when ketamine blocks the NMDA receptor ion channel. Experimental evidence also supports the conclusion that this NMDA receptor inhibition by AV-101 may then result in a glutamatergic activation that depends on the AMPA receptor pathway, resulting in an increase in neuronal connections that has been associated with the faster-acting antidepressant effects than those achieved by standard antidepressants, similar to those seen with ketamine.
+  
+ In peer-reviewed published preclinical studies, AV-101 caused ketamine-like antidepressant effects, including rapid onset and long duration of effect following a single treatment, without causing ketamine’s negative side effects. In two NIH-funded randomized, double blind, placebo-controlled Phase 1 safety studies, AV-101 was safe, well-tolerated and not associated with any severe adverse events. There were no signs of sedation, hallucinations or psychological side effects often associated with ketamine and other channel-blocking NMDA receptor antagonists.
+  
+ 
+   
+-5-
+
+
+
+ 
+ 
+ Building on over $8.8 million of prior grant award funding from the NIH for preclinical and Phase 1 clinical development of AV-101, under our CRADA, we are collaborating with Dr. Carlos Zarate, Jr. and his team at the NIMH on the small NIMH AV-101 MDD Phase 2 Monotherapy Study. Pursuant to the CRADA, this ongoing study is being conducted at the NIMH by Dr. Zarate as Principal Investigator, and is being fully-funded by the NIMH.  The primary objective of the NIMH AV-101 MDD Phase 2 Monotherapy Study will be to evaluate the ability of AV-101 to improve overall depressive symptomatology in subjects with MDD, specifically whether subjects with MDD have a greater and more rapid decrease in depressive symptoms when treated with AV-101 than with placebo. We currently anticipate that the NIMH will complete the NIMH AV-101 MDD Phase 2 Monotherapy Study in 2017, with top line results available during the first half of 2018.
+  
+ We are currently preparing to launch our AV-101 MDD Phase 2 Adjunctive Treatment Study in patients with an inadequate response to standard, FDA-approved antidepressants. We currently anticipate completing this proposed 180-patient multi-center, multi-dose, double blind, placebo-controlled Phase 2 efficacy and safety study by the end of 2018 with top line results available in the first quarter of 2019. The Principal Investigator of the AV-101 MDD Phase 2 Adjunctive Treatment Study will be Dr. Maurizio Fava of Harvard Medical School. Dr. Fava was the co-Principal Investigator with Dr. A. John Rush of the largest clinical trial ever conducted in depression, STAR*D, whose findings were published in journals such the New England Journal of Medicine and the Journal of the American Medical Association.
+  
+  AV-101 and Neuropathic Pain
+  
+ Neuropathic pain is a complex, chronic pain state that results from problems with signals from nerves. There are various causes of neuropathic pain, including tissue injury, nerve damage or disease, diabetes, infection, toxins, certain types of drugs, such as antivirals and chemotherapeutic agents, certain cancers, and even chronic alcohol intake. With neuropathic pain, damaged, dysfunctional or injured nerve fibers send incorrect signals to other pain centers and impact nerve function both at the site of injury and areas around the injury. Many neuropathic pain treatments on the market today, including gabapentin, have side effects such as anxiety, depression, mild cognitive impairment and/or sedation.
+  
+ The effects of AV-101 were assessed in published peer-reviewed studies involving four well-established non-clinical models of pain, both hyperalgesia and allodynia, to examine its analgesic and behavioral profile. The publication, titled: “Characterization of the effects of L-4-chlorokynurenine on nociception in rodents,” by lead author, Tony L. Yaksh, Ph.D., Professor in Anesthesiology at the University of California, San Diego, was published in The Journal of Pain in April 2017 (DOI: 10.1016/j.jpain.2017.03.014). In these studies, systemic delivery of AV-101 yielded brain concentrations of AV-101's active metabolite, 7-Cl-KYNA. The high CNS levels of 7-Cl-KYNA were calculated to exceed its IC50 at the NMDA receptor GlyB site and resulted in robust, dose-dependent anti-nociceptive effects, similar to gabapentin, but with no discernable negative side effects. Gabapentin, a commonly used drug for neuropathic pain, causes sedation and mild cognitive impairment. Therefore, a drug that is equally effective on pain, but is better tolerated than gabapentin, could be quite important for the millions of patients battling chronic neuropathic pain. Taken together with our successful AV-101 Phase 1a and 1b clinical safety studies, we believe the published results of these non-clinical studies support further clinical development of AV-101 in a Phase 2 clinical study to assess its potential as a new generation treatment alternative to gabapentin to reduce debilitating neuropathic pain effectively, without causing gabapentin-like side effects.
+  
+  AV-101 and Epilepsy
+  
+ AV-101 has been shown to protect against seizures and neuronal damage in animal models of epilepsy, providing preclinical support for its potential as a novel treatment alternative for epilepsy. Epilepsy is one of the most prevalent neurological disorders, affecting almost 1% of the worldwide population. According to the Epilepsy Foundation, as many as three million Americans have epilepsy, and one-third of those suffering from epilepsy are not effectively treated with currently available medications. In addition, standard anticonvulsants can cause significant side effects, which frequently interfere with compliance.
+  
+ Glutamate is a neurotransmitter that is critically involved in the pathophysiology of epilepsy. Through its stimulation of the NMDA receptor subtype, glutamate has been implicated in the neuropathology and clinical symptoms of the disease. In support of this, NMDA receptor antagonists are potent anticonvulsants. However, classic NMDA receptor antagonists are limited by adverse effects, such as neurotoxicity, declining mental status, and the onset of psychotic symptoms following administration of the drug. The endogenous amino acid glycine modulates glutamatergic neurotransmission by stimulating the GlyB co-agonist site of the NMDA receptor. GlyB site antagonists inhibit NMDA receptor function and are therefore anticonvulsant and neuroprotective. Importantly, GlyB site antagonists have fewer and less severe side effects than classic channel-blocking NMDA receptor antagonists and other antiepileptic agents, making them a safer potential alternative to, and one expected to be associated with greater patient compliance than, available anticonvulsant medications.
+  
+ 
+   
+-6-
+
+
+
+ 
+ 
+ AV-101 has two additional therapeutically important properties as a drug candidate for treatment of epilepsy:
+  
+ 
+1. | AV-101 is preferentially converted to 7-Cl-KYNA in brain areas related to neuronal injury. This is because astrocytes, which are responsible for the enzymatic transamination of 4-Cl-KYN prodrug to active 7-Cl-KYNA, are focally activated at sites of neuronal injury. Due to AV-101’s highly focused site of conversion, local concentrations of newly formed 7-Cl-KYNA are greatest at the site of therapeutic need. In addition to delivering the drug where it is needed, this reduces the chance of systemic and dangerous side effects with long-term use of the drug; and
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | An active metabolite of AV-101, 4-Cl-3-hydroxyanthranilic acid, inhibits the synthesis of quinolinic acid, an endogenous NMDAR agonist that causes convulsions and excitotoxic neuronal damage.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 
+ AV-101’s ability to activate astrocytes for focal delivery of an anti-epileptic principle, and its dual action as a NMDAR GlyB antagonist and quinolinic acid synthesis inhibitor, make AV-101 a potential Phase 2 development candidate for treatment of epilepsy.
+  
+  AV-101 and Parkinson’s Disease and L-DOPA-Induced Dyskinesia
+  
+  Parkinson's disease (PD) is a chronic and progressive movement disorder, meaning that symptoms continue and worsen over time. According to the Parkinson's Disease Foundation, as many as one million Americans live with PD and more than 10 million people worldwide are living with PD. The cause of PD is unknown, and there is presently no cure.
+  
+ PD involves the malfunction and death of certain nerve cells in the brain that produce dopamine, a key chemical that sends messages to the part of the brain that controls movement and coordination. As PD progresses, the amount of dopamine produced in the brain decreases, leaving a person unable to control movement normally.
+  
+  Levadopa (L-DOPA) therapy increases brain levels of dopamine and is the gold standard for treating symptoms of PD in nearly all phases of the disease. Currently, it is considered the most effective drug for controlling the symptoms of PD. However, L-DOPA-induced dyskinesia (LID) is a common, and generally disabling, complication of long-term L-DOPA treatment in PD patients. Studies published in the New England Journal of Medicine and Movement Disorders have shown that LID develops in approximately 45% of L-DOPA-treated PD patients after five years and 80% after 10 years of L-DOPA treatment. This dyskinesia, or uncontrollable muscle movement, induced by L-DOPA therapy, is not part of PD, but instead a complication of L-DOPA therapy.  LID interferes not only with L-DOPA treatment of PD, but also negatively impacts the quality of life of PD patients and is a major contributor to disability later in the ordinary course of the disease. While amantadine, a low-affinity NMDA receptor antagonist, has been shown to offer some relief for certain PD patients suffering from LID, more effective and better tolerated pharmacologic management of LID remains a significant unmet medical need.
+  
+  In a monkey model of PD, AV-101 (250 mg/kg and 450 mg/kg) reduced by 30% the mean dyskinesia score associated with L-DOPA treatment of PD. Maximum dyskinesia scores were also reduced by 17%. Importantly, AV-101 did not reduce the anti-parkinsonian therapeutic benefit of L-DOPA. Moreover, the duration of L-DOPA response and delay to L-DOPA effect were not affected by treatment with AV-101.  We believe these monkey data warrant the Phase 2 clinical testing of AV-101 in L-DOPA-treated PD patients suffering from LID.
+  
+  AV-101 and Huntington’s Disease
+  
+ Working together with metabotropic glutamate receptors, the NMDA receptor ensures the establishment of long-term potentiation (LTP), a process believed to be responsible for the acquisition of information. These functions are mediated by calcium entry through the NMDA receptor-associated channel, which in turn influences a wide variety of cellular components, like cytoskeletal proteins or second-messenger synthases. However, over activation at the NMDA receptor triggers an excessive entry of calcium ions, initiating a series of cytoplasmic and nuclear processes that promote neuronal cell death through necrosis as well as apoptosis, and these mechanisms have been implicated in several neurodegenerative diseases.
+  
+ Huntington's disease (HD) is an inherited disorder that causes degeneration of brain cells, called neurons, in motor control regions of the brain, as well as other areas. Symptoms of the disease, which gets progressively worse, include uncontrolled movements (called chorea), abnormal body postures, and changes in behavior, emotion, judgment, and cognition. HD is caused by an expansion in the number of glutamine repeats beyond 35 at the amino terminal end of a protein termed “huntingtin.” Such a mutation in huntingtin leads to a sequence of progressive cellular changes in the brain that result in neuronal loss and other characteristic neuropathological features of HD. These are most prominent in the neostriatum and in the cerebral cortex, but also observed in other brain areas.
+  
+ The tissue levels of two neurotoxic metabolites of the kynurenine pathway of tryptophan degradation, quinolinic acid (QUIN) and 3-hydroxykynurenine (3-HK) are increased in the striatum and neocortex, but not in the cerebellum, in early stage HD. QUIN and 3-HK and especially the joint action of these two metabolites, have long been associated with the neurodegenerative and other features of the pathophysiology of HD. The neuronal death caused by QUIN and 3-HK is due to both free radical formation and NMDA receptor overstimulation (excitotoxicity).
+  
+ Based on the hypothesis that 3-HK and QUIN are involved in the progression of HD, early intervention aimed at affecting the kynurenine pathway in the brain may present a promising treatment strategy. We believe the ability of AV-101 to reduce the brain levels of neurotoxic QUIN and to potentially produce significant local concentrations of 7-Cl-KYNA on chronic administration, presents an exciting opportunity for Phase 2 clinical investigation of AV-101 as a potential chronic treatment alternative for certain symptoms of HD.
+  
+ 
+   
+-7-
+
+
+
+ 
+ 
+  AV-101 Phase 1 Clinical Safety Studies
+  
+ The safety data from two NIH-funded AV-101 Phase 1 clinical safety studies indicate that AV-101 was safe and well tolerated in healthy subjects at all doses tested. There were no Adverse Effects (AEs) reported by subjects that received AV-101 that were graded as probably related to study drug. The type and distribution of AEs reported by subjects in the studies were considered to be typical for studies in healthy volunteers. All AEs were completely resolved. Further, no Serious Adverse Events (SAEs) were reported.
+  
+ The Pharmacokinetics (PK) of AV-101 were fully characterized across the range of doses in these Phase 1a and 1b studies. Plasma concentration-time profiles obtained for 4-Cl-KYN (AV-101) and 7-Cl-KYNA after administration of a single escalating dose (Phase 1a) and multiple, once daily oral doses of 360, 1,080, or 1,440 mg for 14 days (Phase 1b) were consistent with rapid absorption of the oral dose and first-order elimination of both analytes, with evidence of multi-compartment kinetics, particularly for the AV-101’s active metabolite, 7-Cl-KYNA.
+  
+ Although the Phase 1 safety and PK studies were not designed to measure or evaluate the potential antidepressant effects of AV-101, approximately 9% (5/54) of the subjects receiving AV-101 and 0% of the 30 subjects receiving placebo reported “feelings of well-being” (coded as euphoric mood), similar to the fast-acting antidepressant effects reported in the literature with ketamine.
+  
+  Phase 1a Study
+  
+ A phase 1a, randomized, double blind, placebo-controlled study to evaluate the safety and PK of single doses of AV-101 in healthy volunteers was conducted. Seven cohorts (30, 120, 360, 720, 1,080, 1,440, and 1,800 mg) with six subjects per cohort (1:1, AV-101: placebo) were to be enrolled in the study. Nine subjects experienced 10 AEs, with four of the AEs occurring in subjects in the placebo group and two of the AEs occurring for one subject receiving 30 mg AV-101. For the AEs occurring in the AV-101–treated subjects, there were no meaningful differences in the number of AEs observed at the 30-mg dose (two AEs) when compared with that at the 120-mg dose (one AE), 360-mg dose (one AE), 720-mg dose (zero AEs), 1,080-mg dose (zero AEs), or 1,440-mg dose (two AEs). Eight of 10 AEs (80%) were considered mild, and two (20%, headache and gastroenteritis) were considered moderate. Four subjects on AV-101, one each in Cohorts 1 through 4 and two subjects on placebo in Cohort 5 reported AEs of headaches. Five headaches were mild with no concomitant treatment, and one was moderate with concomitant drug therapy administered. Most completely resolved the same day as onset and were considered not serious. One headache started the day after dosing and resolved approximately one week later on the same day as the concomitant drug therapy was administered. One case of contact dermatitis bilateral lower extremities was reported in Cohort 2 on placebo that was ongoing. One of the subjects with the headache also reported an AE of gastroenteritis that was unrelated to AV-101. This AE was considered moderate but did not require any drug therapy and was completely resolved within two days of onset. This AE was also considered not serious.
+  
+ The PK of AV-101 was fully characterized across the range of doses in this Phase 1a study following a single oral administration. Plasma concentration-time profiles obtained for 4-Cl-KYN (AV-101) and 7-Cl-KYNA were consistent with rapid absorption of the oral dose and first-order elimination of both analytes, with evidence of multi-compartment kinetics, particularly for the metabolite 7-Cl-KYNA.
+  
+ Even though this Phase 1a safety study was not designed to quantitatively assess effects on mood, during the interviews, two out of three subjects who received the highest dose (1440 mg) of AV-101 voluntarily acknowledged positive effects on their mood. Similar comments were not made by any of the 18 placebo group subjects.  
+  
+  Phase 1b Study
+  
+ A Phase 1b clinical study was conducted as a single-site, dose-escalating study to evaluate the safety, tolerability, and PK of multiple doses of AV-101 administered daily in healthy volunteers. The antihyperalgesic effect of AV-101 on capsaicin-induced hyperalgesia was also assessed. Subjects were sequentially enrolled into one of three cohorts (360 mg, 1,080 mg, and 1,440 mg) and were randomized to AV-101 or placebo at a 12:4 (AV-101 to placebo) ratio. Subjects were dosed for 14 consecutive days. Each subject was given a paper diary and instructed to record daily dose administration, concomitant medications, and AEs during the 14-day treatment period.
+  
+ For this study, the minimum toxic dose was to be (i) the dose at which a drug-related SAE occurred in an AV-101–treated subject, or (ii) the dose at which a severe AE that warranted stopping the study, as determined by the investigator and medical monitor, occurred in an AV-101–treated subject within a cohort. The minimum toxic dose was not reached in this study.
+  
+ A total of 40 AEs were reported by 24 of 37 (64.9%) subjects receiving AV-101, and 17 AEs were reported by 10 of 13 (76.9%) subject receiving placebo.  The frequency of AEs was similar among the treatment groups.  Thirty-four subjects experienced a total of 57 AEs, with 16 (28.1% of the total AEs) in the 360-mg group, 14 (24.6% of the total AEs) in the 1,040-mg group, 10 (17.5% of the total AEs) in the 1,440-mg group, and 17 (29.8% of the total AEs) in the placebo group.  All of the AEs were completely resolved, and no SAEs were reported.
+  
+ 
+   
+-8-
+
+
+
+ 
+ 
+ The majority of the reported AEs were nervous system disorders (23 subjects, 46% of subjects) and gastrointestinal disorders (seven subjects, 14.0%). The remaining AEs were classified as eye disorders (three subjects, 6.0%); psychiatric disorders (three subjects, 6.0%); respiratory, thoracic, and mediastinal disorders (three subjects, 6.0%); skin and subcutaneous tissue disorders (three subjects, 6.0%); general disorders and administration site conditions (two subjects, 4.0%); cardiac disorders one subject, 2.0%); infections and infestations (one subject, 2.0%); musculoskeletal and connective tissue disorders (one subject, 2.0%); and renal disorders (one subject, 2.0%).
+  
+ The distribution of AEs by System Organ Class was similar among the cohorts with the exception of headaches and gastrointestinal disorders. Eight of the 18 (44.4%) reported headaches were in the placebo group, 6 (33.3%) were in the 1,080-mg group, three (16.7%) were in the 1,440-mg group, and one (5.6%) was in the 360-mg group. Three (42.9%) of the seven reported gastrointestinal disorders were in the 360-mg group, two (28.6%) were in the placebo group, one (14.3%) was in the 1,080-mg group, and one (14.3%) was in the 1,440-mg group.
+  
+ The determination of the relationship of the AE to the study drug was made when the data were unblinded. Ten of the 15 AEs (66.7%) that occurred in the 360-mg AV-101 group, 10 of the 14 AEs (71.4%) that occurred in the 1,040-mg AV-101 group, seven of the 10 AEs (70.0%) that occurred in the 1,440-mg AV-101 group, and 13 of the 17 AEs (76.5%) that occurred in the placebo group were determined to be possibly related to study drug. One (5.9%) AE in the placebo group was probably related to study drug (rash around neck). Of the 57 reported AEs, 49 (85.9%) were of mild intensity and eight (14.0%) were of moderate intensity. There were two moderate intensity AEs in the 360-mg AV-101 group; one was unrelated pain in the right foot, and one was a possibly related headache. All other moderate AEs occurred in the placebo group and included nausea or vomiting (two AEs), headache (two AEs), and rash around the neck (one AE). No SAEs were reported.
+  
+ Even though this Phase 1b safety study was not designed to quantitatively assess effects on mood, during the interviews certain subjects who received 360, 1080, and 1440 mg of AV-101, voluntarily acknowledged positive effects on mood. Similar comments were not made by any of the placebo-group subjects.
+  
+ The PK of AV-101 was fully characterized across the range of doses in this Phase 1b study. Plasma concentration-time profiles obtained for 4-Cl-KYN (AV-101) and 7-Cl-KYNA following 14 daily oral administrations of 360, 1,080, or 1,440 mg were consistent with rapid absorption of the oral dose and first-order elimination of both analytes, with evidence of multi-compartment kinetics, particularly for the metabolite 7-Cl-KYNA.
+  
+  VistaStem Therapeutics
+  
+  VistaStem Therapeutics (VistaStem) is our wholly owned subsidiary focused on applying human pluripotent stem cell (hPSC) technology, internally and with collaborators, to discover, rescue, develop and commercialize (i) proprietary new chemical entities (NCEs) for CNS and other diseases and (ii) regenerative medicine (RM) involving hPSC-derived blood, cartilage, heart and liver cells. We used our hPSC-derived cardiomyocytes (human heart cells) to develop CardioSafe 3D™, our customized in vitro bioassay system for predicting heart toxicity of drug rescue NCEs.  We believe CardioSafe 3D is more comprehensive and clinically predictive than the hERG assay, which currently is the only in vitro cardiac safety assay required by FDA guidelines, and provides us with new generation human cell-based technology to identify and evaluate drug rescue candidates and develop drug rescue NCEs.
+  
+  Scientific Background
+  
+ Stem cells are the building blocks of all cells of the human body.  They have the potential to develop into many different mature cell types.  Stem cells are defined by a minimum of two key characteristics: (i) their capacity to self-renew, or divide in a way that results in more stem cells; and (ii) their capacity to differentiate, or turn into mature, specialized cells that make up tissues and organs.  There are many different types of stem cells that come from different places in the body or are formed at different times throughout our lives, including pluripotent stem cells and adult or tissue-specific stem cells, which are limited to differentiating into the specific cell types of the tissues in which they reside. We focus exclusively on human pluripotent stem cells.
+  
+ Human pluripotent stem cells can be differentiated into all of the more than 200 types of cells in the human body, can be expanded readily, and have diverse medical research, drug discovery, drug rescue, drug development and therapeutic applications. We believe hPSCs can be used to develop numerous cell types, tissues and customized assays that can mimic complex human biology, including heart and liver biology for drug rescue.
+  
+ Human pluripotent stem cells are either embryonic stem cells (hESCs) or induced pluripotent stem cells (iPSCs).  Both hESCs and iPSCs have the capacity to be maintained and expanded in an undifferentiated state indefinitely. We believe these features make them highly useful research and development tools and as a source of normal, functionally mature cell populations. We use multiple types of these mature cells as the foundation to design and develop novel, customized bioassay systems to test the safety and efficacy of NCEs in vitro. These cells also have potential for diverse regenerative medicine applications.
+  
+ 
+   
+-9-
+
+
+
+ 
+ 
+  Human Embryonic Stem Cells
+  
+ According to the NIH, hESCs are derived from excess embryos that develop from eggs that have been fertilized in an in vitro fertilization (IVF) clinic and then donated for research purposes with the informed consent of the parental donors after a successful IVF procedure. Human embryonic stem cells are not derived from eggs fertilized in a woman’s body. Human ESCs are isolated when the embryo is approximately 100 cells, well before organs, tissues or nerves have developed.
+  
+ Human ESCs have the potential to both self-renew and differentiate. They undergo increasingly tissue-restrictive developmental decisions during their differentiation. These “fate decisions” commit the hESCs to becoming only a certain type of mature, functional cells and ultimately tissues. At one of the first fate decision points, hESCs differentiate into epiblasts. Although epiblasts cannot self-renew, they can differentiate into the major tissues of the body. This epiblast stage can be used, for example, as the starting population of cells that develop into millions of blood, heart, muscle, liver and insulin-producing pancreatic beta-islet cells, as well as neurons. In the next step, the presence or absence of certain growth factors, together with the differentiation signals resulting from the physical attributes of the cell culture techniques, induce the epiblasts to differentiate into neuroectoderm or mesendoderm cells. Neuroectoderm cells are committed to developing into cells of the skin and nervous systems. Mesendoderm cells are precursor cells that differentiate into mesoderm and endoderm. Mesoderm cells develop into muscle, bone and blood, among other cell types. Endoderm cells develop into the internal organs such as the heart, liver, pancreas and intestines, among other cell types.
+  
+  Induced Pluripotent Stem Cells
+  
+ It is also possible to obtain hPSC lines from individuals without the use of embryos. Induced PSCs are adult cells, typically human skin or fat cells that have been genetically reprogrammed to behave like hESCs by being forced to express genes necessary for maintaining the pluripotential properties of hESCs. Although researchers are exploring non-viral methods, most early iPSCs were produced by using various viruses to express three or four genes required for the immature pluripotential property similar to hESCs. It is not yet precisely known, however, how each gene actually functions to induce cellular pluripotency, nor whether each of the three or four genes is essential for this reprogramming. Although hESCs and iPSCs are believed to be similar in many respects, including their pluripotential ability to form all cells in the body and to self-renew, scientists do not yet know whether they differ in clinically significant ways or have the same ability to self-renew.
+  
+ We believe the biology and differentiation capabilities of hESCs and iPSCs are likely to be comparable for most if not all purposes. There are, however, specific situations in which we may prefer to use one or the other type of hPSC.  For example, we may prefer to use iPSCs for potential drug discovery applications based on the relative ease of generating iPSCs from:
+  
+   ●
+  individuals with specific inheritable diseases and conditions that predispose the individual to respond differently to drugs; or 
+   ●
+  individuals with specific variations in genes that directly affect drug levels in the body or alter the manner or efficiency of their metabolism, breakdown and/or elimination of drugs.
+
+ 
+ Because they can significantly affect the therapeutic and/or toxic effects of drugs, these genetic variations have an impact on drug discovery and development. We believe iPSC technologies may allow the rapid and efficient generation of hPSCs from individuals with specific genetic variations. These hPSCs might then be used to produce cells to model specific diseases and genetic conditions for drug discovery and drug rescue purposes.
+  
+  CardioSafe 3D
+  
+ The limitations of current preclinical drug testing systems used by pharmaceutical companies and others contribute to the high failure rate of NCEs.  Incorporating novel in vitro assays using hPSC-derived cardiomyocytes (hPSC-CMs) early in preclinical development offers the potential to improve clinical predictability, decrease development costs, and avoid adverse patient effects, late-stage clinical termination, and product recall from the market.
+  
+ We produce fully functional, non-transformed hPSC-CMs at a high level of purity and with normal ratios of all important cardiac cell types.  Importantly, our hPSC-CM differentiation protocols do not involve either genetic modification or antibiotic selection. This is important because genetic modification and antibiotic selection can distort the ratio of cardiac cell types and have a direct impact on the ultimate results and clinical predictivity of assays that incorporate hPSC-CMs produced in such a manner. In addition to normal expression all of the key ion channels of the human heart (calcium, potassium and sodium) and various cardiomyocytic markers of the human heart, our CardioSafe 3D cardiac toxicity assays screening for both direct cardiomyocyte cytotoxicity and arrhythmogenesis (or development of irregular beating patterns). We believe CardioSafe 3D is sensitive, stable, reproducible and capable of generating data enabling a more accurate prediction of the in vivo cardiac effects of NCEs than is possible with existing preclinical testing systems, particularly the hERG assay.
+  
+ 
+   
+-10-
+
+
+
+ 
+ 
+  Limited Clinical Predictivity of the FDA-Required hERG Assay vs. Broad Clinical Predictivity of CardioSafe 3D
+  
+ The hERG assay, which uses either transformed hamster ovary cells or human kidney cells, is currently the only in vitro cardiac safety assay required by FDA Guidelines (ICH57B). We believe the clinical predictivity of the hERG assay is limited because it assesses only a single cardiac ion channel - the hERG potassium ion channel. It does not assess any other clinically relevant cardiac ion channels, including calcium, non-hERG potassium and sodium ion channels. Also, importantly, the hERG assay does not assess the normal interaction between these ion channels and their regulators. In addition, the hERG assay does not assess clinically relevant cardiac biological effects associated with cardiomyocyte viability, including apoptosis and other forms of cytotoxicity, as well as energy, mitochondria and oxidative stress. As a result of its limitations, results of the hERG assay can lead to false negative and false positive predictions regarding the cardiac safety of new drug candidates.
+  
+ We have developed and validated two clinically relevant functional components of our CardioSafe 3D screening system to assess multiple categories of cardiac toxicities, including both direct cardiomyocyte cytotoxicity and arrhythmogenesis (or development of irregular beating patterns). The first functional component of CardioSafe 3D consists of a suite of five fluorescence or luminescence based high-throughput hPSC-CM assays. These five CardioSafe 3D assays measure the following important drug-induced cardiac biological effects:
+  
+ 
+1. cell viability; 
+------------------------------------------
+2. apoptosis; 
+3. mitochondrial membrane depolarization; 
+4. oxidative stress; and 
+5. energy metabolism disruption. 
+
+
+ 
+ These five CardioSafe 3D biological assays were correlated to reported clinical results using reference compounds known to be cardiotoxic in humans versus compounds known to be safe in humans. These reference compounds were representative of eight different drug classes, including:
+  
+ 
+1. ion channel blockers: amiodarone, nifedipine; 
+------------------------------------------------------
+2. hERG trafficking blockers: pentamidine, amoxapine; 
+3. α-1 adrenoreceptors: doxazosin; 
+4. protein and DNA synthesis inhibitors: emetine; 
+5. DNA intercalating agents: doxorubicin; 
+6. antibiotics: ampicillin, cefazolin; 
+7. NSAID: aspirin; and 
+8. kinase inhibitors: staurosporine. 
+
+
+ 
+ This suite of five CardioSafe 3D cytotoxicity assays provided measurement of cardiac drug effects with high sensitivity that are consistent with the expected cardiac responses to each of these compounds. Based on our results, we believe CardioSafe 3D provides valuable and more comprehensive bioanalytical tools for both assessing the effects of pharmaceutical compounds on cardiac cytotoxicity than the hERG assay and can elucidate for us and our strategic partners specific mechanisms of cardiac toxicity, thereby laying what we believe is a novel and advantageous foundation for our CardioSafe 3D drug rescue NCE programs.
+  
+ The other component of our CardioSafe 3D assay system is a sensitive and reliable medium throughput multi-electrode array (MEA) assay developed to predict drug-induced alterations of electrophysiological function of the human heart, representing an integrated assessment of not only hERG potassium ion channel activity analogous to the FDA-mandated hERG assay but, in addition, non-hERG potassium channels, and calcium channels and sodium channels, which are well beyond the scope of the hERG assay.  Functional electrophysiological assessment is a key component of CardioSafe 3D, and has been validated with reported clinical results involving drugs with known toxic or non-toxic cardiac effects in humans.
+  
+ We have validated that CardioSafe 3D is capable of assessing important electrophysiological activity of drug rescue NCEs, including spike amplitude, beat period and field potential duration.  Our CardioSafe 3D MEA assay, which we refer to as ECG in a test tube™, was reproducible and consistent with the known human cardiac effects of all compounds studied, based on the mechanisms of action and dosage of the compounds. For instance, by using CardioSafe 3D, we were able to distinguish between the arrhythmogenic cardiac effects of terfenadine (Seldane™), withdrawn by the FDA due to cardiotoxicity, and the cardiac effects of the closely structurally-related compound, fexofenadine (Allegra™), a safe variant of terfenadine, which remains on the market. We believe our correlation data demonstrate that CardioSafe 3D provides valuable and more comprehensive bioanalytical tools for in vitro cardiac safety screening than the hERG assay.  We believe CardioSafe 3D will contribute to our efficient and rapid identification of novel, potentially safer proprietary NCEs in our drug rescue programs.   
+  
+  Using CardioSafe 3D to Develop Drug Rescue NCEs
+  
+ Our drug rescue activities are focused on producing for our internal pipeline proprietary, safer variants of still-promising NCEs previously discovered, optimized and tested for efficacy by pharmaceutical companies and others but terminated before FDA approval due to unexpected heart toxicity or liver toxicity. Our current drug rescue strategy involves using CardioSafe 3D to assess the toxicity that caused certain NCEs available in the public to be terminated, and use that biological insight to produce and develop a new, potentially safer, and proprietary NCEs for our pipeline. We believe the pre-existing public domain knowledge base supporting the therapeutic and commercial potential of NCEs we target for our drug rescue programs will provide us with a valuable head start as we launch each of our drug rescue programs. Leveraging the substantial prior investments by global pharmaceutical companies and others in discovery, optimization and efficacy validation of the NCEs we identify in the public domain is an essential component of our drug rescue strategy.
+  
+ 
+   
+-11-
+
+
+
+ 
+ 
+ By using CardioSafe 3D to enhance our understanding of the cardiac liability profile of  NCEs, biological insight not previously available when the NCEs were originally discovered, optimized for efficacy and developed, we believe we can demonstrate preclinical proof-of-concept (POC) as to the efficacy and safety of new, safer drug rescue NCEs in standard in vitro and in vivo models, as well as in CardioSafe 3D, earlier in development and with substantially less investment in discovery and preclinical development than was required of pharmaceutical companies and others prior to their decision to terminate the original NCE. 
+  
+ Our goal in each drug rescue program will be to produce a proprietary drug rescue NCE and establish its preclinical POC, using standard preclinical in vitro and in vivo efficacy and safety models, as well as CardioSafe 3D. In this context, POC means that the lead drug rescue NCE, as compared to the original, previously-terminated NCE, demonstrates both (i) equal or superior efficacy in the same, or a similar, in vitro and in vivo preclinical efficacy models used by the initial developer of the previously-terminated NCE before it was terminated for safety reasons, and (ii) significant reduction of concentration dependent cardiotoxicity in CardioSafe 3D.
+  
+  Regenerative Medicine (RM)
+  
+ Although we believe the best and most valuable near term commercial application of our stem cell technology platform is for small molecule drug rescue, we also believe stem cell technology-based RM has the potential to transform healthcare in the U.S. over the next decade by providing new approaches for treating the fundamental mechanisms of disease. We currently intend to establish strategic collaborations to leverage our stem cell technology platform, our expertise in human biology, differentiation of human pluripotent stem cells to develop functional adult human cells and tissues involved in human disease, including blood, bone, cartilage, heart and liver cells, and our expertise in designing and developing novel, customized biological assay systems with the cells we produce, for RM purposes. In December 2016, we exclusively sublicensed to BlueRock Therapeutics LP, a next generation RM company established by Bayer AG and Versant Ventures, rights to certain proprietary technologies relating to the production of cardiac stem cells for the treatment of heart disease.  In a manner similar to our exclusive sublicense agreement with BlueRock Therapeutics, VistaStem may pursue additional RM collaborations or licensing transactions involving blood, cartilage, and/or liver cells derived from hPSCs for (A) cell-based therapy, (B) cell repair therapy, and/or (C) tissue engineering. 
+ Strategic Transactions and Relationships
+  
+ Strategic collaborations are an important cornerstone of our corporate development strategy. We believe that our highly selective outsourcing of certain research and development activities gives us flexible access to chemistry broad range of research and development capabilities, manufacturing, clinical development and regulatory expertise at a lower overall cost than developing and maintaining such expertise internally on a full-time basis. In particular, we contract with third parties for certain manufacturing, non-clinical development, clinical development and regulatory affairs support. The following are among our current third-party collaborators: 
+ Cato Research Ltd.
+  
+ Cato Research Ltd. is a CRO with international resources dedicated to helping biotechnology and pharmaceutical companies navigate the regulatory approval process in order to bring new biologics, drugs and medical devices to markets throughout the world. Cato Research is one of our CROs for development of AV-101, currently focused on all chemistry, manufacturing and controls (CMC) aspects of our Phase 2 development program in MDD.  Cato Research’s senior management team, including co-founders Allen Cato, M.D., Ph.D. and Lynda Sutton, have over 30 years of experience interacting with the FDA and international regulatory agencies and a successful track record of product approvals.
+ Cardiac Safety Research Consortium
+  
+ We have joined the Cardiac Safety Research Consortium (CSRC) as an Associate Member.  The CSRC, which is sponsored in part by the FDA, was launched in 2006 through an FDA Critical Path Initiative Memorandum of Understanding with Duke University to support research into the evaluation of cardiac safety of medical products. CSRC supports research by engaging stakeholders from industry, academia, and government to share data and expertise regarding several areas of cardiac safety evaluation, including novel stem cell-based approaches, from preclinical through post-market periods.
+ Cardiac Safety Technical Committee of the Health and Environmental Sciences Institute – FDA’s CIPA Initiative
+  
+ We have also joined the Cardiac Safety Technical Committee, Cardiac Stem Cell Working Group, and Proarrhythmia Working Group of the Health and Environmental Sciences Institute (HESI) to help advance, among other goals, the FDA’s Comprehensive In Vitro Proarrhythmia Assay (CIPA) initiative, which is focused on developing innovative preclinical systems for cardiac safety assessment during drug development.  HESI is a global branch of the International Life Sciences Institute (ILSI), whose members include most of the world’s largest pharmaceutical and biotechnology companies.
+  
+ The goal of the FDA’s CIPA initiative is to develop a new paradigm for cardiac safety evaluation of new drugs that provides a more comprehensive assessment of proarrhythmic potential by (i) evaluating effects of multiple cardiac ionic currents beyond hERG and ICH S7B Guidelines (inward and outward currents), (ii) providing more complete, accurate assessment of proarrhythmic effects on human cardiac electrophysiology, and (iii) focusing on Torsades de Pointes proarrhythmia rather than surrogate QT prolongation alone.
+  
+ 
+   
+-12-
+
+
+
+ 
+ 
+  Centre for Commercialization of Regenerative Medicine
+  
+ The Toronto-based Centre for Commercialization of Regenerative Medicine (CCRM) is a not-for-profit, public-private consortium funded by the Government of Canada, six Ontario-based institutional partners and more than 20 companies representing the key sectors of the regenerative medicine industry.  CCRM supports the development of foundational technologies that accelerate the commercialization of stem cell- and biomaterials-based products and therapies.
+  
+ We are a member of the CCRM’s Industry Consortium. Other members of CCRM’s Industry Consortium include Pfizer and GE Healthcare. The industry leaders that comprise the CCRM consortium benefit from proprietary access to certain licensing opportunities, academic rates on fee-for-service contracts at CCRM and opportunities to participate in large collaborative projects, among other advantages. Our CCRM membership reflects our strong association with CCRM and its core programs and objectives, both directly and through our strategic relationships with Dr. Gordon Keller and UHN. We believe our long-term sponsored research agreement with Dr. Keller, UHN and UHN’s McEwen Centre offers unique opportunities for expanding the commercial applications of our stem cell technology platform by building multi-party collaborations with CCRM and members of its Industry Consortium.  We believe these collaborations have the potential to transform medicine and accelerate significant advances in human health and wellness that stem cell technologies and regenerative medicine promise.
+  
+  Massachusetts General Hospital Clinical Trials Network and Institute
+  
+ Massachusetts General Hospital Clinical Trials Network and Institute (CTNI) is an academic CRO, part of the Department of Psychiatry of the Massachusetts General Hospital (MGH), a leader in academic scientific and clinical research in psychiatry. By exploring the brain science, genetics, and neurobiology of psychiatric disorders, the MGH CTNI has been instrumental in the development of novel treatments and surrogate markers of illness and therapeutic response. Its scientific and clinical research has been instrumental in defining the standards for the state-of-the-art practice of psychiatry. We are working with MGH CTNI, including its principals, Dr. Maurizio Fava and Dr. Thomas Laughren, in connection with the planning and execution of our AV-101 MDD Adjunctive Treatment Study. Dr. Fava is acknowledged as a world-renowned expert in depressive disorders and psychopharmacology. He is Director of the Division of Clinical Research of the MGH Research Institute, Executive Vice Chair, Department of Psychiatry, at MGH, and Executive Director of MGH CTNI. He will serve as Principal Investigator of the AV-101 MDD Phase 2 Adjunctive Treatment Study.  Dr. Laughren is the former FDA Division Director, Division of Psychiatry Products, Center for Drug Evaluation and Research (CDER).
+ United States National Institutes of Health
+  
+ Since our inception in 1998, the NIH has awarded us $11.3 million in non-dilutive research and development grants, including $2.3 million to support research and development of our stem cell technology and $8.8 million for non-clinical and Phase 1a and 1b clinical development of AV-101.
+ United States National Institute of Mental Health
+  
+ The NIMH, part of the NIH, is the largest scientific organization in the world dedicated to mental health research. NIMH is one of 27 Institutes and Centers of the NIH, the world’s leading biomedical research organization. The mission of NIMH is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery and cure. Our CRADA with the NIH provides for NIMH sponsorship of the ongoing NIMH AV-101 MDD Phase 2 Monotherapy Study, a study being fully funded by the NIH and is being conducted at the NIMH by Dr. Carlos Zarate, the NIMH’s Chief of Experimental Therapeutics & Pathophysiology Branch and Section on Neurobiology and Treatment of Mood and Anxiety Disorders.
+ Intellectual Property
+  
+ We rely upon patents as a major component of our intellectual property portfolio, as is typical for development-stage, biopharmaceutical companies. In addition, from time to time, we enter into patent license agreements to acquire rights to intellectual property. We also rely, in part, on trade secrets for protection of some of our discoveries. We attempt to protect our trade secrets by entering into confidentiality agreements with employees, consultants, collaborators and third parties. We also own several registered and common-law trademarks.
+  
+ To help protect our intellectual property rights, our employees and consultants also sign agreements in which they assign to us, for example, their interests in patents, trade secrets and copyrights arising from their work for us.
+  
+ From time to time, we sponsor research with key scientists in academic institutions to advance or supplement our internal research and development activities and objectives. These sponsored research agreements generally provide us with an opportunity to negotiate a new license, or acquire a substantially prescribed license, to acquire intellectual property rights in the results of the sponsored research.
+  
+ 
+   
+-13-
+
+
+
+ 
+ 
+  AV-101
+  
+ As discussed elsewhere in this Annual Report, AV-101 (4-Cl-KYN) is our oral CNS product candidate presently being investigated in the NIMH AV-101 MDD Phase 2 Monotherapy Study. Further, we are preparing to launch our AV-101 MDD Phase 2 Adjunctive Treatment Study to assess the safety and efficacy of AV-101 as a new generation adjunctive treatment of MDD in adult patients with an inadequate response to standard, FDA-approved antidepressants. We have developed a portfolio of intellectual property assets around AV-101, which involves both patent applications and trade secrets. In addition, we will seek regulatory exclusivity to supplement our intellectual property rights.
+  
+ AV-101 itself is no longer patented. We obtained a patent license from the University of Maryland to certain pharmaceutical formulations and associated methods of using AV-101 when we acquired the original licensee, Artemis Neuroscience, Inc. However, patent rights included in that license that were relevant to AV-101 have expired. Although the license agreement contains royalty obligations that nominally remain in force until 10 years after the first commercial sale of the first product even after relevant patent rights have expired, the U.S. Supreme Court’s decision in Kimble v. Marvel Entertainment, LLC (2015) determined that patent license royalties that extend beyond a patent’s expiration are not enforceable.
+  
+ Even though the compound 4-Cl-KYN per se, and certain of its formulations are in the public domain and thus are no longer protectable, we have filed several of our own patent applications on certain other formulations and novel therapeutic methods of use of AV-101 as part of our strategy to seek and secure broad commercial exclusivity for AV-101.
+  
+ Presently, we are prosecuting one family of patent applications in the USPTO, European Patent Office (EPO) and selected major markets related to specific dosage formulations of AV-101, as well as to methods of treating depression, hyperalgesia pain and several other neurological conditions. For reference, these are based on PCT patent application WO2014/116739. Our claims to the treatment of depression have been granted by the EPO. We are prosecuting formulation claims in one application, and we filed a continuation application in this family in the U.S., focused on the treatment of depression. There is no guarantee, however, that the USPTO will allow or grant any of the pending claims.
+  
+ We are also prosecuting another patent family related to novel methods of synthesizing AV-101, based on extensive research involving a range of synthetic routes that was conducted on our behalf by a contract research organization. For reference, this is based on PCT patent application WO2014/152835, which is presently being pursued at the national phase in the U.S. and selected other countries. This patent application also includes pharmaceutical composition claims to certain precursors and variants of AV-101, which may be useful and patentable as synthesis intermediates. 
+  
+ Another patent application related to additional and expanded clinical uses of AV-101 to treat depression and other medical conditions is pending as PCT patent application WO 2016/191351.We plan to seek patent protection at the national phase in appropriate global markets in due course.
+  
+ Additionally, we are presently developing potentially improved synthesis routes through another contract research organization. If we determine that these routes may be patentable, then we intend to file patent applications relating to this developmental activity in the second half of 2017.
+  
+ As noted, we are currently involved with the NIMH AV-101 MDD Phase 2 Monotherapy Study being conducted by the NIMH. As part of our analysis of the study results, we will be evaluating the possibility of seeking additional patent protection based on the clinical data and on clinical observations.
+  
+ As another major component of our plans to obtain market exclusivity for approved therapeutic indications for AV-101, we intend to utilize New Drug Product Exclusivity provided by the FDA under section 505(c)(3)(E) and 505(j)(5)(F) of the Federal Food, Drug, and Cosmetic Act (FDCA). The FDA’s New Drug Product Exclusivity is available for NCEs such as AV-101, which are innovative and have not been previously approved by the FDA, either alone or in combination with other drugs. The FDA’s New Drug Product Exclusivity protection provides the holder of an FDA-approved NDA with up to five years of protection from competition in the U.S. marketplace for the innovation represented by its approved new drug product. This protection precludes FDA approval of certain generic drug applications under section 505(b)(2) of the FDCA, as well as certain abbreviated new drug applications (ANDAs), during the up to five-year exclusivity period, except that such applications may be submitted after four years if they contain a certification of patent invalidity or non-infringement. As and if applicable, we will pursue similar types of regulatory exclusivity in other regions, such as Europe, and in certain other countries.
+  
+ There is no guarantee that we will be successful in obtaining patents related to AV-101 in the U.S. or other countries, or that if we are successful in obtaining such patents that we would also be successful in protecting those patents against challengers or in enforcing them to stop infringement. We are pursuing patent rights in a limited number of countries that we believe are the few major markets where having patent rights will substantially facilitate commercialization of AV-101. There are many other countries in which we are not pursuing such patent rights. There is no guarantee that we will successfully obtain patents in the countries in which we are pursuing patent rights.
+  
+ 
+   
+-14-
+
+
+
+ 
+ 
+  Stem Cell Technology
+  
+ We have obtained and are pursuing intellectual property rights to several stem cell technologies through a combination of our own patent properties, exclusive and non-exclusive patent and technology licenses, and participation in sponsored research relationships. Generally, our stem cell intellectual property portfolio relates to drug rescue, toxicity testing and drug discovery. It also relates to novel production systems and the use of various cell types that have been differentiated from pluripotent stem cells for those and other purposes. Additionally, our intellectual property includes enriched populations of certain cell types, such as cardiomyocytes and hepatocytes, and some related aspects of cell-based therapy. We also maintain certain trade secrets regarding stem cell technology, several of which are discussed below.
+  
+ Overall, our stem cell patent portfolio includes nine patent families, which collectively include several issued U.S. patents as well as several foreign counterpart patents in countries of commercial interest to VistaGen. The portfolio also includes several patent applications pending in the U.S. and in various foreign countries.
+  
+ The patent properties in these families are based on discoveries from our internal research and development activities, research that it has sponsored at various academic institutions, as well as from patent license agreements signed with the University Health Network (Toronto) and the Mount Sinai School of Medicine.
+  
+ These license agreements generally require us to pay annual license fees, patent prosecution and maintenance fees, and royalty payments that vary based on product sales and services that are covered by the licensed patent rights, as well fees for sublicensing. As noted above in the context of AV-101 intellectual property, there is no guarantee that we will successfully obtain patents in the countries in which we are pursuing patent rights or that we would be successful in enforcing granted patent rights against infringers.
+  
+ In December 2016, we exclusively sublicensed to BlueRock Therapeutics, a stem cell research company recently established by Bayer AG and Versant Ventures, rights to certain proprietary technologies relating to the production of cardiac stem cells for the treatment of heart disease.
+  
+  Trademarks
+  
+ We have a federal trademark registration for the trademark “VISTAGEN”. Corresponding trademarks have been registered in the European Union and in Switzerland. We also use certain other trademarks in connection with our customized in vitro bioassay systems, such as CardioSafe 3D™ and LiverSafe 3D™ .
+ U.S. Government Rights
+  
+ We have received federal funding from both the NIH and the NIMH to support research and development of inventions disclosed in our patent applications relating to AV-101 and certain of our stem cell technology.  Under the Bayh-Dole Act of 1980, if we do not take adequate steps to commercialize certain intellectual property rights, or certain other exigent circumstances relating to public health and safety prescribed under federal law become applicable, the U.S. government may acquire certain rights with respect to inventions made during programs funded by NIH or other federal grants.
+ Competition
+  
+ The biopharmaceutical industry is highly competitive. There are many public and private biopharmaceutical companies, universities, governmental agencies, including the NIH and NIMH, and other research organizations actively engaged in the research and development of products that may be similar to our product candidates or address similar markets. It is probable that the number of companies seeking to develop products and therapies similar to our products will increase.
+  
+ Currently, there are no FDA-approved therapies for MDD with the mechanism of action of AV-101. However, products approved for other indications, for example, the anesthetic ketamine, are being or may be used off-label for treatment of MDD, as well as other CNS indications for which AV-101 may have therapeutic potential. Additionally, other treatment options, such psychotherapy and electroconvulsive therapy, are sometimes used instead of and before standard antidepressant medications to treat patients with MDD.
+  
+  In the field of new generation, orally available, adjunctive treatments of adult MDD patients with an inadequate response to standard antidepressants, we believe our principal competitor is Alkermes’ orally available drug candidate in Phase 3 development, ALKS-5461, an opioid modulator.
+  
+ Many of our potential competitors, alone or with their strategic partners, have substantially greater financial, technical and human resources than we do and significantly greater experience in the discovery and development of product candidates, obtaining FDA and other regulatory approvals of treatments and the commercialization of those treatments.  We believe that a range of pharmaceutical and biotechnology companies have programs to develop small molecule drug candidates for the treatment of depression, including MDD, epilepsy, neuropathic pain, Parkinson’s disease and other neurological conditions and diseases, including, but not limited to, Abbott Laboratories, Acadia, Alkermes, Allergan, AstraZeneca, Eli Lilly, GlaxoSmithKline, Johnson & Johnson, Lundbeck, Merck, Novartis, Minerva, Otsuka, Pfizer, Roche, Sage, Sanofi, Shire, Sumitomo Dainippon, and Takeda.  Mergers and acquisitions in the biotechnology and pharmaceutical industries may result in even more resources being concentrated among a smaller number of our competitors. Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize products that are safer, more effective, have fewer or less severe side effects, are more convenient or are less expensive than any products that we may develop. Our competitors also may obtain FDA or other regulatory approval for their products more rapidly than we may obtain approval for ours, which could result in our competitors establishing a strong market position before we are able to enter the market. We expect that AV-101 will have to compete with a variety of therapeutic products and procedures.  
+  
+ 
+   
+-15-
+
+
+
+ 
+ 
+ We believe that VistaStem’s human pluripotent stem cell (hPSC) technology platform, the hPSC-derived human cells we produce, and the customized human cell-based assay systems we have formulated and developed are capable of being competitive in the diverse and growing global stem cell and regenerative medicine markets, including markets involving the sale of hPSC-derived cells to third-parties for their in vitro drug discovery and safety testing, contract predictive toxicology drug screening services for third parties, internal drug discovery, drug development and drug rescue of new NCEs, and regenerative medicine, including in vivo cell therapy research and development. A representative list of such biopharmaceutical companies pursuing one or more of these potential applications of adult and/or hPSC technology includes the following: Acea Biosciences, Astellas, Athersys, BioCardia, BioTime, Caladrius Biosciences, Cellectis Bioresearch, Cellerant Therapeutics, Cytori Therapeutics, Fujifilm Holdings, HemoGenix, International Stem Cell, Neuralstem, Organovo Holdings, PluriStem Therapeutics, and Stemina BioMarker Discovery. Pharmaceutical companies and other established corporations such as Bristol-Myers Squibb, Charles River, GE Healthcare Life Sciences, GlaxoSmithKline, Novartis, Pfizer, Roche Holdings, Thermo Fisher Scientific and others have been and are expected to continue pursuing internally various stem cell-related research and development programs. Many of the foregoing companies have greater resources and capital availability and as a result, may be more successful in their research and development programs than us.  We anticipate that acceptance and use of hPSC technology for drug development and regenerative medicine will continue to occur and increase at pharmaceutical and biotechnology companies in the future.
+  
+  Government Regulation
+  
+ Our business activities, including the manufacturing, research, development and marketing of our product candidates, are subject to extensive regulation by numerous governmental authorities in the United States and other countries. Before marketing in the United States, any new drug developed by us or our collaborators must undergo rigorous preclinical testing, clinical trials and an extensive regulatory clearance process implemented by the United States Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act, as amended. The FDA regulates, among other things, the development, testing, manufacture, safety, efficacy, record keeping, labeling, storage, approval, advertising, promotion, import, export, sale and distribution of biopharmaceutical products. The regulatory review and approval process, which includes preclinical testing and clinical trials of each product candidate, is lengthy, expensive and uncertain. Moreover, government coverage and reimbursement policies will both directly and indirectly impact our ability to successfully commercialize any future approved products, and such coverage and reimbursement policies will be impacted by enacted and any applicable future healthcare reform and drug pricing measures. In addition, we are subject to state and federal laws, including, among others, anti-kickback laws, false claims laws, data privacy and security laws, and transparency laws that restrict certain business practices in the pharmaceutical industry.
+  
+ In the United States, drug product candidates intended for human use undergo laboratory and animal testing until adequate proof of safety is established. Clinical trials for new product candidates are then typically conducted in humans in three sequential phases that may overlap. Phase 1 trials involve the initial introduction of the product candidate into healthy human volunteers. The emphasis of Phase 1 trials is on testing for safety or adverse effects, dosage, tolerance, metabolism, distribution, excretion and clinical pharmacology. Phase 2 involves studies in a limited patient population to determine the initial efficacy of the compound for specific targeted indications, to determine dosage tolerance and optimal dosage, and to identify possible adverse side effects and safety risks. Once a compound shows evidence of effectiveness and is found to have an acceptable safety profile in Phase 2 evaluations, Phase 3 trials are undertaken to more fully evaluate clinical outcomes. Before commencing clinical investigations in humans, we or our collaborators must submit an Investigational New Drug Application (IND) to the FDA.
+  
+ Regulatory authorities, Institutional Review Boards and Data Monitoring Committees may require additional data before allowing clinical studies to commence, continue or proceed from one phase to another, and could demand that studies be discontinued or suspended at any time if there are significant safety issues. We have in the past and may in the future rely on assistance from our third-party collaborators and contract service providers to file our INDs and generally support our development and regulatory activities approval process for our potential products. Clinical testing must also meet requirements for clinical trial registration, institutional review board oversight, informed consent, health information privacy, and good clinical practices, or GCPs. Additionally, the manufacture of our drug product, must be done in accordance with current good manufacturing practices (GMPs).
+  
+ To establish a new product candidate’s safety and efficacy, the FDA requires companies seeking approval to market a drug product to submit extensive preclinical and clinical data, along with other information, for each indication for which the product will be labeled. The data and information are submitted to the FDA in the form of a New Drug Application (NDA), which must be accompanied by payment of a significant user fee unless a waiver or exemption applies. Generating the required data and information for an NDA takes many years and requires the expenditure of substantial resources. Information generated in this process is susceptible to varying interpretations that could delay, limit or prevent regulatory approval at any stage of the process. The failure to demonstrate adequately the quality, safety and efficacy of a product candidate under development would delay or prevent regulatory approval of the product candidate. Under applicable laws and FDA regulations, each NDA submitted for FDA approval is given an internal administrative review within 60 days following submission of the NDA. If deemed sufficiently complete to permit a substantive review, the FDA will “file” the NDA. The FDA can refuse to file any NDA that it deems incomplete or not properly reviewable. The FDA has established internal goals of eight months from submission for priority review of NDAs that cover product candidates that offer major advances in treatment or provide a treatment where no adequate therapy exists, and 12 months from submission for the standard review of NDAs. However, the FDA is not legally required to complete its review within these periods, these performance goals may change over time and the review is often extended by FDA requests for additional information or clarification. Moreover, the outcome of the review, even if generally favorable, may not be an actual approval but a “complete response letter” that describes additional work that must be done before the NDA can be approved. Before approving an NDA, the FDA can choose to inspect the facilities at which the product is manufactured and will not approve the product unless the manufacturing facility complies with GMPs. The FDA may also audit sites at which clinical trials have been conducted to determine compliance with GCPs and data integrity. The FDA’s review of an NDA may also involve review and recommendations by an independent FDA advisory committee, particularly for novel indications. The FDA is not bound by the recommendation of an advisory committee.
+  
+ 
+   
+-16-
+
+
+
+ 
+ 
+ In addition, delays or rejections may be encountered based upon changes in regulatory policy, regulations or statutes governing product approval during the period of product development and regulatory agency review.
+  
+ Before receiving FDA approval to market a potential product, we or our collaborators must demonstrate through adequate and well-controlled clinical studies that the potential product is safe and effective in the patient population that will be treated. In addition, under the Pediatric Research Equity Act, or PREA, an NDA or supplement to an NDA must contain data to assess the safety and effectiveness of the drug for the claimed indications in all relevant pediatric subpopulations and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective, unless a waiver applies. If regulatory approval of a potential product is granted, this approval will be limited to those disease states and conditions for which the product is approved. Marketing or promoting a drug for an unapproved indication is generally prohibited. Furthermore, FDA approval may entail ongoing requirements for risk management, including post-marketing, or Phase 4, studies. Even if approval is obtained, a marketed product, its manufacturer and its manufacturing facilities are subject to payment of significant annual fees and continuing review and periodic inspections by the FDA. Discovery of previously unknown problems with a product, manufacturer or facility may result in restrictions on the product or manufacturer, including labeling changes, warning letters, costly recalls or withdrawal of the product from the market.
+  
+ Any drug is likely to produce some toxicities or undesirable side effects in animals and in humans when administered at sufficiently high doses and/or for sufficiently long periods of time. Unacceptable toxicities or side effects may occur at any dose level at any time in the course of studies in animals designed to identify unacceptable effects of a product candidate, known as toxicological studies, or during clinical trials of our potential products. The appearance of any unacceptable toxicity or side effect could cause us or regulatory authorities to interrupt, limit, delay or abort the development of any of our product candidates. Further, such unacceptable toxicity or side effects could ultimately prevent a potential product’s approval by the FDA or foreign regulatory authorities for any or all targeted indications or limit any labeling claims and market acceptance, even if the product is approved.
+  
+ In addition, as a condition of approval, the FDA may require an applicant to develop a Risk Evaluation and Mitigation Strategy, or REMS. A REMS uses risk minimization strategies beyond the professional labeling to ensure that the benefits of the product outweigh the potential risks. To determine whether a REMS is needed, the FDA will consider the size of the population likely to use the product, seriousness of the disease, expected benefit of the product, expected duration of treatment, seriousness of known or potential adverse events, and whether the product is a new molecular entity. REMS can include medication guides, physician communication plans for healthcare professionals, and elements to assure safe use (ETASU). ETASU may include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring, and the use of patient registries. The FDA may require a REMS before approval or post-approval if it becomes aware of a serious risk associated with use of the product. The requirement for a REMS can materially affect the potential market and profitability of a product.
+  
+ Any trade name that we intend to use for a potential product must be approved by the FDA irrespective of whether we have secured a formal trademark registration from the U.S. Patent and Trademark Office. The FDA conducts a rigorous review of proposed product names, and may reject a product name if it believes that the name inappropriately implies medical claims or if it poses the potential for confusion with other product names. The FDA will not approve a trade name until the NDA for a product is approved. If the FDA determines that the trade names of other products that are approved prior to the approval of our potential products may present a risk of confusion with our proposed trade name, the FDA may elect to not approve our proposed trade name. If our trade name is rejected, we will lose the benefit of any brand equity that may already have been developed for this trade name, as well as the benefit of our existing trademark applications for this trade name.
+  
+ We and our collaborators and contract manufacturers also are required to comply with the applicable FDA GMP regulations. GMP regulations include requirements relating to quality control and quality assurance as well as the corresponding maintenance of records and documentation. Manufacturing facilities are subject to inspection by the FDA. These facilities must be approved before we can use them in commercial manufacturing of our potential products and must maintain ongoing compliance for commercial product manufacture. The FDA may conclude that we or our collaborators or contract manufacturers are not in compliance with applicable GMP requirements and other FDA regulatory requirements, which may result in delay or failure to approve applications, warning letters, product recalls and/or imposition of fines or penalties.
+  
+ If a product is approved, we must also comply with post-marketing requirements, including, but not limited to, compliance with advertising and promotion laws enforced by various government agencies, including the FDA’s Office of Prescription Drug Promotion, through such laws as the Prescription Drug Marketing Act, federal and state anti-fraud and abuse laws, including anti-kickback and false claims laws, healthcare information privacy and security laws, post-marketing safety surveillance, and disclosure of payments or other transfers of value to healthcare professionals and entities. In addition, we are subject to other federal and state regulation including, for example, the implementation of corporate compliance programs.
+  
+ If we elect to distribute our products commercially, we must comply with state laws that require the registration of manufacturers and wholesale distributors of pharmaceutical products in a state, including, in certain states, manufacturers and distributors who ship products into the state even if such manufacturers or distributors have no place of business within the state. Some states also impose requirements on manufacturers and distributors to establish the pedigree of product in the chain of distribution, including some states that require manufacturers and others to adopt new technology capable of tracking and tracing product as it moves through the distribution chain.
+  
+ 
+   
+-17-
+
+
+
+ 
+ 
+ Outside of the United States, our ability to market a product is contingent upon receiving a marketing authorization from the appropriate regulatory authorities. The requirements governing the conduct of clinical trials, marketing authorization, pricing and reimbursement vary widely from country to country. At present, foreign marketing authorizations are applied for at a national level, although within the European Community (EC), centralized registration procedures are available to companies wishing to market a product in more than one EC member state. If the regulatory authority is satisfied that adequate evidence of safety, quality and efficacy has been presented, marketing authorization will be granted. This foreign regulatory development and approval process involves all of the risks associated with achieving FDA marketing approval in the U.S. as discussed above. In addition, foreign regulations may include applicable post-marketing requirements, including safety surveillance, anti-fraud and abuse laws, and implementation of corporate compliance programs and reporting of payments or other transfers of value to healthcare professionals and entities.
+  
+  Reimbursement
+  
+ Potential sales of AV-101 or any other future product candidate, if approved, will depend, at least in part, on the extent to which such products will be covered by third-party payors, such as government health care programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly limiting coverage and/or reducing reimbursements for medical products and services. A third-party payor’s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Further, one payor’s determination to provide coverage for a drug product does not assure that other payors will also provide coverage for the drug product. In addition, the U.S. government, state legislatures and foreign governments have continued implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our future revenues and results of operations. Decreases in third-party reimbursement or a decision by a third-party payor to not cover AV-101, if approved, or any future approved products could reduce physician usage of our products, and have a material adverse effect on our sales, results of operations and financial condition.
+  
+ In the United States, the Medicare Part D program provides a voluntary outpatient drug benefit to Medicare beneficiaries for certain products. We do not know whether AV-101, if approved, or any other future product candidate will be eligible for coverage under Medicare Part D, but individual Medicare Part D plans offer coverage subject to various factors such as those described above. In addition, while Medicare Part D plans have historically included “all or substantially all” drugs in the following designated classes of “clinical concern” on their formularies: anticonvulsants, antidepressants, antineoplastics, antipsychotics, antiretrovirals, and immunosuppressants, the Centers for Medicare and Medicaid Services (CMS) has in the past proposed, but not adopted, changes to this policy. If this policy is changed in the future and if CMS no longer considers the antidepressant class to be of “clinical concern”, Medicare Part D plans would have significantly more discretion to reduce the number of products covered in that class. Furthermore, private payors often follow Medicare coverage policies and payment limitations in setting their own coverage policies.
+  
+  Healthcare Laws and Regulations
+  
+ Sales of AV-101, if approved, or any other future product candidate will be subject to healthcare regulation and enforcement by the federal government and the states and foreign governments in which we might conduct our business. The healthcare laws and regulations that may affect our ability to operate include the following:
+  
+   ●
+ The federal Anti-Kickback Statute makes it illegal for any person or entity to knowingly and willfully, directly or indirectly, solicit, receive, offer, or pay any remuneration that is in exchange for or to induce the referral of business, including the purchase, order, lease of any good, facility, item or service for which payment may be made under a federal healthcare program, such as Medicare or Medicaid. The term “remuneration” has been broadly interpreted to include anything of value.
+
+
+   ●
+ Federal false claims and false statement laws, including the federal civil False Claims Act, prohibits, among other things, any person or entity from knowingly presenting, or causing to be presented, for payment to, or approval by, federal programs, including Medicare and Medicaid, claims for items or services, including drugs, that are false or fraudulent.
+
+
+   ●
+ The U.S. federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) created additional federal criminal statutes that prohibit among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors or making any false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services.
+
+
+   ●
+ HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH) and their implementing regulations, impose obligations on certain types of individuals and entities regarding the electronic exchange of information in common healthcare transactions, as well as standards relating to the privacy and security of individually identifiable health information.
+
+
+   ●
+ The federal Physician Payments Sunshine Act requires certain manufacturers of drugs, devices, biologics and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program, with specific exceptions, to report annually to CMS information related to payments or other transfers of value made to physicians and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members.
+
+  
+  
+   
+-18-
+
+
+
+ 
+ 
+
+ Also, many states have similar laws and regulations, such as anti-kickback and false claims laws that may be broader in scope and may apply regardless of payor, in addition to items and services reimbursed under Medicaid and other state programs. Additionally, we may be subject to state laws that require pharmaceutical companies to comply with the federal government’s and/or pharmaceutical industry’s voluntary compliance guidelines, state laws that require drug manufacturers to report information related to payments and other transfers of value to physicians and other healthcare providers or marketing expenditures, as well as state and foreign laws governing the privacy and security of health information, many of which differ from each other in significant ways and often are not preempted by HIPAA.
+  
+ Additionally, to the extent that our product is sold in a foreign country, we may be subject to similar foreign laws.
+  
+  Healthcare Reform
+  
+ The United States and some foreign jurisdictions are considering or have enacted a number of legislative and regulatory proposals to change the healthcare system in ways that could affect our ability to sell our products profitably. By way of example, in March 2010, the Patient Protection and Affordable Care Act (ACA) was signed into law, which intended to broaden access to health insurance, reduce or constrain the growth of healthcare spending, enhance remedies against fraud and abuse, add transparency requirements for the healthcare and health insurance industries, impose taxes and fees on the health industry and impose additional health policy reforms. There have been judicial and Congressional challenges to certain aspects of the ACA, and we expect there will be additional challenges and amendments to the ACA in the future. In early 2017, the U.S. House of Representatives and Senate passed legislation which, if signed into law by President Trump, would repeal certain aspects of the ACA. Congress also could consider subsequent legislation to replace elements of the ACA that are repealed. At this time, the full effect that the ACA will have on our business in the future remains unclear.
+  
+ Among the provisions of the ACA that may be of importance to AV-101, if approved, and any of our future product candidates are:
+  
+   ●
+ an annual, nondeductible fee on any entity that manufactures or imports specified branded prescription drugs and biologic agents, apportioned among these entities based on their market share in certain government healthcare programs;
+
+
+   ●
+ an increase in the statutory minimum rebates a manufacturer must pay under the Medicaid Drug Rebate Program to 23.1% and 13.0% of the average manufacturer price for branded and generic drugs, respectively;
+
+
+   ●
+ extension of a manufacturer’s Medicaid rebate liability to covered drugs dispensed to individuals who are enrolled in Medicaid managed care organizations;
+
+
+   ●
+ expansion of eligibility criteria for Medicaid programs by, among other things, allowing states to offer Medicaid coverage to certain individuals with income at or below 133% of the federal poverty level, thereby potentially increasing a manufacturer’s Medicaid rebate liability;
+
+
+   ●
+ a Medicare Part D coverage gap discount program, in which manufacturers must agree to offer 50% point-of-sale discounts to negotiated prices of applicable brand drugs to eligible beneficiaries during their coverage gap period, as a condition for a manufacturer’s outpatient drugs to be covered under Medicare Part D;
+
+
+   ●
+ expansion of the entities eligible for discounts under the Public Health Service pharmaceutical pricing program;
+
+
+   ●
+ a requirement to annually report drug samples that manufacturers and distributors provide to physicians; and
+
+
+   ●
+ a Patient-Centered Outcomes Research Institute to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research.
+
+ 
+ Other legislative changes have been proposed and adopted in the United States since the ACA. Through the process created by the Budget Control Act of 2011, there are automatic reductions of Medicare payments to providers up to 2% per fiscal year, which went into effect in April 2013 and, following passage of the Bipartisan Budget Act of 2015, will remain in effect through 2025 unless additional Congressional action is taken. In January 2013, President Obama signed into law the American Taxpayer Relief Act of 2012, which, among other things, further reduced Medicare payments to certain providers. Moreover, recently there has been heightened governmental scrutiny over the manner in which manufacturers set prices for their commercial products. We expect that healthcare reform measures that may be adopted in the future may result in more rigorous coverage criteria and potentially lower reimbursement levels. We cannot predict what healthcare reform initiatives may be adopted in the future.
+  
+  Stem Cell Technology - United States
+  
+ With respect to our stem cell research and development in the U.S., the U.S. government has established requirements and procedures relating to the isolation and derivation of certain stem cell lines and the availability of federal funds for research and development programs involving those lines. All of the stem cell lines that we are using were either isolated under procedures that meet U.S. government requirements and are approved for funding from the U.S. government, or were isolated under procedures that meet U.S. government requirements.
+  
+ All procedures we use to obtain clinical samples, and the procedures we use to isolate hESCs, are consistent with the informed consent and ethical guidelines promulgated by the U.S. National Academy of Science, the International Society of Stem Cell Research (ISSCR), or the NIH. These procedures and documentation have been reviewed by an external Stem Cell Research Oversight Committee, and all cell lines we use have been approved under one or more of these guidelines.
+  
+ 
+   
+-19-
+
+
+
+ 
+ 
+ The U.S. government and its agencies on July 7, 2009 published guidelines for the ethical derivation of hESCs required for receiving federal funding for hESC research. Should we seek further NIH funding for our stem cell research and development, our request would involve the use of hESC lines that meet the NIH guidelines for NIH funding. In the U.S., the President’s Council on Bioethics monitors stem cell research, and may make recommendations from time to time that could place restrictions on the scope of research using human embryonic or fetal tissue. Although numerous states in the U.S. are considering, or have in place, legislation relating to stem cell research, including California whose voters approved Proposition 71 to provide up to $3 billion of state funding for stem cell research in California, it is not yet clear what affect, if any, state actions may have on our ability to commercialize stem cell technologies.
+  
+  Stem Cell Technology - Canada
+  
+ In Canada, stem cell research and development is governed by two policy documents and by one legislative statute: the Guidelines for Human Pluripotent Stem Cell Research (the Guidelines) issued by the Canadian Institutes of Health Research; the Tri-Council Statement: Ethical Conduct for Research Involving Humans (TCPS); and the Assisted Human Reproduction Act (Act). The Guidelines and the TCPS govern stem cell research conducted by, or under the auspices of, institutions funded by the federal government. Should we seek funding from Canadian government agencies or should we conduct research under the auspices of an institution so funded, we may have to ensure the compliance of such research with the ethical rules prescribed by the Guidelines and the TCPS.
+  
+ The Act subjects all research conducted in Canada involving the human embryo, including hESC derivation (but not the stem cells once derived), to a licensing process overseen by a federal licensing agency.  However, as of the date of this Annual Report, the provisions of the Act regarding the licensing of hESC derivation were not in force.
+  
+ We are not currently conducting stem cell research in Canada.  We have, however, sponsored pluripotent stem cell research in Canada by Dr. Gordon Keller at UHN’s McEwen Centre. Should the provisions of the Act come into force, we may have to apply for a license for all hESC research we may sponsor or conduct in Canada and ensure compliance of such research with the provisions of the Act.
+  
+  Subsidiaries and Inter-Corporate Relationships
+  
+  VistaGen Therapeutics. Inc., a California corporation, dba VistaStem (VistaStem) , is our wholly-owned subsidiary and has two wholly-owned subsidiaries: VistaStem Canada Inc., a corporation incorporated pursuant to the laws of the Province of Ontario, and Artemis Neuroscience, Inc., a corporation incorporated pursuant to the laws of the State of Maryland. The operations of VistaStem, and each of its wholly owned subsidiaries are managed by our senior management team based in South San Francisco, California.
+  
+  Employees
+  
+  As of June 27, 2017, we employed nine full-time employees, four of whom have doctorate degrees. Five full-time employees work in research and development and laboratory support services and four full-time employees work in general and administrative roles. Staffing for all other functional areas is achieved through strategic relationships with service providers and consultants, each of whom provides services on a real-time, as-needed basis, including human resources and payroll, information technology, facilities, legal, investor relations and website maintenance, regulatory affairs, and FDA program management.
+  
+  We have never had a work stoppage, and none of our employees is represented by a labor organization or under any collective bargaining agreement. We consider our employee relations to be good.
+  
+  Facilities
+  
+  We lease our office and laboratory space, which consists of approximately 10,900 square feet located in South San Francisco, California, under a lease expiring on July 31, 2022.  
+  
+  Legal Proceedings
+  
+  None.
+  
+  Environmental Regulation
+  
+  Our business does not require us to comply with any extraordinary environmental regulations.
+  
+  
+-20-
+
+
+
+
+ 

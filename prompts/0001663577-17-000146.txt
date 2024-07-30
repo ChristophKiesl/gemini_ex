@@ -1,0 +1,84 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Company Overview
+ Imagine a world where one company makes a difference, saving lives, through the earliest detection of deadly diseases and improving traffic safety.
+ Our vision is to save lives, create efficiency and reduce costs through innovative, mobile screening technologies. Our mission is to commercialize lifesaving, mobile breath sensor technologies that enable professionals to more efficiently screen for the earliest signs of disease or the presence of drugs, enabling improved health outcomes, traffic safety and significant cost reduction.
+ 
+We are developing detection devices based on patented technology invented by the National Aeronautics and Space Administration (“NASA”) that was licensed to Nanobeak, and further sublicensed to us.
+ 
+On January 9, 2015 we redomiciled our company from Nevada to Delaware and changed our name to Nano Mobile Healthcare, Inc.
+ 
+The Nano Mobile Sensor
+ 
+We are developing a platform technology to analyze the Volatile Organic Compound signatures in a person’s breath using a handheld device that provides immediate results. We have identified two initial target markets for the low-cost point of care screening device. The first is early detection of lung cancer and the second is the presence of marijuana on a driver’s breath. Secondary device testing indications may include various forms of cancer, chronic diseases such as heart failure as well as or contagious diseases such as strep throat. The principles of operation are driven by technology developed by NASA. The sensor can connect via Bluetooth to any capable smart device running an iOS or Android operating system. The current device has a small footprint and can easily be operated by anyone with minimal instruction.
+ 
+State-of-the art engineering design techniques, advanced nanotechnology, and bio-informatics have been combined to create the following three main pieces of the device that is now being used to collect sample data from test patients for certain key biomarkers in a clinical setting:
+ 
+
+1. | Breath Capture Device – This component of the device attaches to the sensor module, captures breath from patient’s mouth, pre-filters the breath, and sends it to the sensor module at a controlled flow rate.
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Sensor Module – This component of the device contains an array filled with dozens of micro-fabricated nanomaterial-based chemical sensors, device hardware, and a battery pack.
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | App/Software for the Smart Devices – This essential component of the device communicates with smart devices using a proprietary iOS/Android app, is used to interpret and present the results collected by the Sensor Module, and can easily be updated as the medical team collects more sample calibration data. It can also be calibrated to detect other diseases when sample data for those are collected. Each time a test is run on the breath capture device, data received by the app will be seamlessly pre-processed and post-processed through the algorithm and in nearly real-time a conclusive summary result will be provided on the device and/or sent/shared with Physicians via phone or Internet connections.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4
+-
+
+
+The sensor and related devices will ultimately be used to demonstrate an integrated approach that can be used to collect data from human breath and evaluate it for early disease screening purposes, effectively linking experts in the field, data scientists, and decision makers with results generated in real-time.
+ 
+Strategic Partnerships
+ 
+We have entered into a strategic partnership with Theranostics Laboratory, a translational research company, with offices in the USA and New Zealand. Theranostics Laboratory was founded at the Cleveland Clinic in 2010 and works on subcontracted research, in collaboration with the Auckland Bioengineering Institute (ABI), in New Zealand, and with NASA (via NASA Grant NCC 9-58).
+ 
+The Auckland Bioengineering Institute is recognized as a world-leader in the field of personalized modeling and is part of the international Virtual Physiologic Human (VPH) project. The Institute has successfully commercialized numerous mHealth technologies, including wireless telemetry systems, wearable sensors and a needle-free injectable system into the US market.
+ 
+The partnership between the Theranostics Laboratory and the Auckland Bioengineering Institute (ABI) is a strategic alliance for us through which the lab will act as principal investigators for us in the areas of mobile strep detection, mobile virus detection and other related areas including breath sample conditioning methodologies. The partnership gives us access to world-class expertise and skill in the field of personalized modeling..
+ 
+We are working in conjunction with Nanobeak, LLC, a strategic partner, as well as NASA, to develop a mobile app to be used in connection with our sensor that will enable law enforcement to screen for marijuana use and deliver in-the-moment results to the officer’s smartphone, tablet or laptop in the field. Given the increase of marijuana legalization and decriminalization efforts by a growing number of states, we have made the development of a law enforcement sensor the short-term priority. There is a growing need on the part of law enforcement across the country for a portable sensor to detect marijuana abuse and impaired driving. We also plan to incorporate alcohol detection along with the marijuana sensing capability in one device so that law enforcement can have the capability to detect both alcohol (DUI breathalyzer) and marijuana abuse in a single device. The law enforcement device offers a quicker path to market based on reduced testing and regulatory requirements as compared to a medical diagnostic device.
+ 
+Regulatory Approval
+ 
+Our products as well as our research and development activities are regulated by numerous governmental authorities, principally the U.S Food and Drug Administration (FDA), as well as state and foreign regulatory agencies.
+ 
+In the US, we believe that the medical diagnostic devices will be classified by the FDA as Class II medical devices and require clearance through a Form 510K. There can be no assurance that the FDA will provide marketing clearance for the device.
+ 
+Manufacturing, Distribution, Sales
+ 
+We intend to outsource manufacturing, distribution and sales but we have not entered into any definitive agreements for these functions.
+ 
+
+5
+-
+
+Competition
+ 
+We intend to compete with other detection devices by offering products that have enhanced value, ease of use, simple functionality, compatibility with various platforms, reliability, attractive price and are high in quality. The Company also believes its intellectual property provides an advantage over current competitors.
+Disease Screening
+ 
+There are a variety of methods to screen for the presence of disease. We are focused on non-invasive, point of care diagnostics.
+ 
+Following years of research, a number of companies are now in prototype phase with devices that can test the chemical compounds in a person’s breath and identify the early stages of disease. Entry to this market is expected to continue and sharply rise as more prototypes emerge and begin to gain market entry with commercialized products. While companies in development tend to be small and privately owned, there has been entry by larger publicly owned companies that have greater financial reserves, distribution channels and more experience in commercialization. Acquisitions and collaborations by and companies seeking a competitive advantage also affect the competitive environment. This is a global market, evidenced by the emergence of companies bringing competitive solutions from different parts of the world.
+ 
+New competitors may emerge and may develop products and capabilities which compete directly with our products. No assurance can be given that we will be successful in competing in the industries identified or in other industries that would benefit from our technology.
+ 
+Customers for our medical diagnostic products is expected to include health care providers such as medical doctors, nurse practitioners and physician assistants.
+ 
+Narcotics Screening
+ 
+There are currently a variety of breathalyzer smartphone apps which essentially focus on alcohol detection. We are developing devices to distinguish between alcohol and narcotics and screen for a variety of narcotics both legal and illicit.
+ 
+Making up the narcotic detection space are both domestic and international organizations that range from small, privately held companies to larger companies that include an array of diagnostic narcotics solutions. Although this market is more developed than disease detection, the space is dominated by a few key players making the possibility for new entrants feasible. Because toxicology screens are the most common type of narcotics testing products on the market, we believe that advanced technology that both detects and monitors discrete drug levels in an individual’s system through exhalation will cause this market to expand. The consumer market for mobile applications which provide detection and ongoing monitoring capabilities is anticipated to be significant.
+ 
+Customers for our product will include the different areas of law enforcement as well as the different areas of professional and amateur sports. Corporations are also a target area for the narcotics screening technology.
+ 
+Employees
+ 
+We outsource all of our non-executive functions to Nanobeak, LLC. As of the date of this filing Nanobeak has 18 employees and consultants, both full and part time, most of which are shared with NASA and other contractors. The employees are not presently covered by any collective bargaining agreement.

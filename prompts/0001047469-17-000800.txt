@@ -1,0 +1,355 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+      Item 1.    Business 
+  Overview 
+         Software developers are reinventing nearly every aspect of business today. Yet as developers, we repeatedly encountered an area where we could not innovatecommunications. Because communication is a fundamental human activity and vital to building great businesses, we wanted to incorporate communications into our software applications, but the barriers to innovation were too high. Twilio was started to solve this problem. 
+         We believe the future of communications will be written in software, by the developers of the worldour customers. By empowering them, our mission is to fuel the future of communications. 
+         Cloud platforms are a new category of software that enable developers to build and manage applications without the complexity of creating and maintaining the underlying infrastructure. These platforms have arisen to enable a fast pace of innovation across a range of categories, such as computing and storage. We are the leader in the Cloud Communications Platform category. We enable developers to build, scale and operate real-time communications within software applications. 
+         Our developer-first platform approach consists of three things: our Programmable Communications Cloud, Super Network and Business Model for Innovators. Our Programmable Communications Cloud software enables developers to embed voice, messaging, video and authentication capabilities into their applications via our simple-to-use Application Programming Interfaces, or APIs. We do not aim to provide complete business solutions, rather our Programmable Communications Cloud offers flexible building blocks that enable our customers to build what they need. The Super Network is our software layer that allows our customers' software to communicate with connected devices globally. It interconnects with communications networks around the world and continually analyzes data to optimize the quality and cost of communications that flow through our platform. Our Business Model for Innovators empowers developers by reducing friction and upfront costs, encouraging experimentation and enabling developers to grow as customers as their ideas succeed. 
+         We had 36,606 Active Customer Accounts as of December 31, 2016, representing organizations big and small, old and young, across nearly every industry, with one thing in common: they are competing by using the power of software to build differentiation through communications. With our platform, our customers are disrupting existing industries and creating new ones. For example, our customers have reinvented hired transportation by connecting riders and drivers, with communications as a critical part of each transaction. Our customers' software applications use our platform to notify a diner when a table is ready, a traveler when a flight is delayed or a shopper when a package has shipped. The range of applications that developers build with the Twilio platform has proven to be nearly limitless. 
+         Our goal is for Twilio to be in the toolkit of every software developer in the world. Because big ideas often start small, we encourage developers to experiment and iterate on our platform. We love when developers explore what they can do with Twilio, because one day they may have a business problem that they will use our products to solve. 
+         As our customers succeed, we share in their success through our usage-based revenue model. Our revenue grows as customers increase their usage of a product, extend their usage of a product to new applications or adopt a new product. We believe the most useful indicator of this increased activity from our existing customer accounts is our Dollar-Based Net Expansion Rate, which was 161% and 155% for the years ended December 31, 2016 and 2015, respectively. See the section titled "Management's Discussion and Analysis of Financial Condition and Results of OperationsKey Business MetricsDollar-Based Net Expansion Rate." 
+ 5
+
+     Our Platform Approach 
+         Twilio's mission is to fuel the future of communications. We enable developers to build, scale and operate real-time communications within software applications. 
+         We believe every application can be enhanced through the power of communication. Over time, we believe that all of our communications that do not occur in person will be integrated into software applications. Our platform approach enables developers to build this future. 
+ 
+        Our Programmable Communications Cloud, Super Network and Business Model for Innovators work together to create value for our customers and a competitive advantage for our company. 
+ 
+  Our Programmable Communications Cloud 
+         Our Programmable Communications Cloud provides a range of products that enables developers to embed voice, messaging, video and authentication capabilities into their applications. Our easy-to-use developer APIs provide a programmatic channel to access our software. Developers can utilize our 
+ 6
+
+   intuitive programming language, TwiML, to specify application functions such as <Dial>, <Record> and <Play>, leveraging our software to manage the complexity of executing the specified functions. 
+         Our Programmable Communications Cloud consists of software products that can be used individually or in combination to build rich contextual communications within applications. We do not aim to provide complete business solutions, rather our Programmable Communications Cloud offers flexible building blocks that enable our customers to build what they need. Our Programmable Communications Cloud includes: 
+ 
+
+ Programmable Voice.  Our
+Programmable Voice software products allow developers to build solutions to make and receive phone calls globally, and incorporate advanced voice functionality such as text-to-speech, conferencing,
+recording and transcription. Programmable Voice, through our advanced call control software, allows developers to build customized applications that address use cases such as contact centers, call
+tracking and analytics solutions and anonymized communications. 
+ Programmable Messaging.  Our
+Programmable Messaging software products allow developers to build solutions to send and receive text messages globally, and incorporate advanced messaging functionality such as emoji, picture
+messaging and localized languages. Our customers use Programmable Messaging, through software controls, to power use cases, such as appointment reminders, delivery notifications, order confirmations
+and customer care. 
+ Programmable Video.  Our recently
+introduced Programmable Video software products enable developers to build next-generation mobile and web applications with embedded video, including for use cases such as customer care, collaboration
+and physician consultations. 
+ Use Case APIs.  While developers
+can build a broad range of applications on our platform, certain use cases are more common. Our Use Case APIs build upon the above products to offer more fully implemented functionality for a specific
+purpose, such as two-factor authentication, thereby saving developers significant time in building their applications. 
+
+         Using our software, developers, including our Solution Partner customers, are able to incorporate communications into applications that span a range of industries and functionalities. 
+ 
+
+
+Common Use Cases 
+
+ Anonymous
+Communications.  Enabling users to have a trusted means of communications where they prefer not to share private information like their telephone
+number. Examples include conversations between drivers and riders or texting after meeting through a dating website. 
+ Alerts and
+Notifications.  Alerting a user that an event has occurred, such as when a table is ready, a flight is delayed or a package is shipped. 
+ Contextual Support.  Improving
+customer care with voice, messaging and video capabilities that integrate with other systems to add context, such as a caller's support ticket history or present location. 
+ Call Tracking.  Using phone
+numbers to provide detailed analytics on phone calls to measure the effectiveness of marketing campaigns or lead generation activities in a manner similar to how web analytics track and measure online
+activity. 
+ Mobile Marketing.  Integrating
+messaging with marketing automation technology, allowing organizations to deliver targeted and timely contextualized communications to consumers. 
+ User Security.  Verifying user
+identity through two-factor authentication prior to log-in or validating transactions within an application's workflow. This adds an additional layer of security to any application. 
+
+ 7
+
+   
+
+ Twilio For Good.  Partnering with
+nonprofit organizations through Twilio.org, to use the power of communications to help solve social challenges, such as an SMS hotline to fight human trafficking, an emergency volunteer dispatch
+system and appointment reminders for medical visits in developing nations. 
+
+
+
+
+Uncommon Use Cases 
+
+         Our developers continually impress us with what they are able to build using our platform. In addition to our common use cases, we have a number of uncommon use cases that demonstrate the versatility of our platform and the creativity of our developer community. 
+ 
+
+ Magic Routines.  Doug McKenzie is
+making magic new again by using his audience's own phones to perform classic street illusions. Audience members select a card, put it in their pocket without looking at it, and then text Doug's Twilio
+app which tells them their card correctly, every single time. 
+ Robocall Firewall.  Aaron Foss
+turned a weekend project with Twilio's products into a service that won the FTC's first Robocall Challenge and then blocked over 15.1 million robocalls in 2014. He anonymized and printed out
+each call blocked in 2014, and brought the reams of paper with him to the FCC to show the extent of robocalling. 
+ Music Fan
+Engagement.  Grammy-winning musicians have utilized Twilio's platform to interact with fans by sharing lyrics, new releases and insights via voice
+recordings, text messages and videos. 
+ Parkinson's Voice Initiative.  A
+team of mathematicians and clinicians have devised a system using Twilio that allows a person to call a number that records his or her voice to assist in identifying individuals that may have
+Parkinson's disease, potentially enabling early detection for those affected. 
+
+
+
+
+Our Super Network 
+
+         Our Programmable Communications Cloud is built on top of our global software layer, which we call our Super Network. Our Super Network interfaces intelligently with communications networks globally. We do not own any physical network infrastructure. We use software to build a high performance network that optimizes performance for our customers. Our Super Network breaks down the geopolitical boundaries and scale limitations of the physical network infrastructure. 
+         Our platform has global reach, consisting of 26 cloud data centers in eight regions. We interconnect those cloud data centers with network service providers around the world, giving us redundant means to reach users globally. These distributed data centers also allow our software to run in close proximity to end users and network service providers to minimize latency. Our Super Network interconnects with network service providers around the world, including carriers, mobile network operators and real-time data information service providers. When our customers use our products, the communications are transmitted through one or more of the network service providers that are connected to our Super Network. Our proprietary technology selects which network service providers to use and routes the communications in order to optimize the quality and cost of the communications across our product offerings. In addition, a very small number of customers have chosen to use certain Programmable Voice products to build one or more applications that augment their existing communications infrastructure and operate through their own network service providers. We are continually adding new network service provider relationships as we scale, and we are not dependent upon any single network service provider to conduct our business. We are continually adding new network service provider relationships as we scale. 
+ 8
+
+           Our Super Network analyzes massive volumes of data from end users, their applications and the communications networks to optimize our customers' communications for quality and cost. With every new message and call, our Super Network becomes more robust, intelligent and efficient, enabling us to provide better performance at lower prices to our customers. Our Super Network's sophistication becomes increasingly difficult for others to replicate over time. 
+         Our Super Network analyzes massive volumes of data from end users, their applications and the communications networks to optimize our customers' communications for quality and cost. With every new message and call, our Super Network becomes more robust, intelligent and efficient, enabling us to provide better performance at lower prices to our customers. Our Super Network's sophistication becomes increasingly difficult for others to replicate over time. 
+ 
+
+
+Our Business Model for Innovators 
+
+         Our goal is to include Twilio in the toolkit of every developer in the world. Because big ideas often start small, developers need the freedom and tools to experiment and iterate on their ideas. 
+         In order to empower developers to experiment, our developer-first business model is low friction, eliminating the upfront costs, time and complexity that typically hinder innovation. Developers can begin building with a free trial. They have access to self-service documentation and free customer support to guide them through the process. Once developers determine that our software meets their needs, they can flexibly increase consumption and pay based on usage. In short, we acquire developers like consumers and enable them to spend like enterprises. 
+   Our Growth Strategy 
+         We are the leader in the Cloud Communications Platform category based on revenue, market share and reputation, and intend to continue to set the pace for innovation. We will continue to invest aggressively in our platform approach, which prioritizes increasing our reach and scale. We intend to pursue the following growth strategies: 
+
+
+ Continue Significant Investment in our Technology
+Platform.  We will continue to invest in building new software capabilities and extending our platform to bring the power of contextual
+communications to a broader range of applications, geographies and customers. We have a substantial research and development team, comprising 53% of our headcount as of December 31, 2016.
+Additionally, we were recently awarded an ISO 27001 certification, a widely recognized and internationally accepted set of information security standards that identifies requirements for a
+comprehensive Information Security Management System, and defines how organizations should manage and handle information in a secure manner, including appropriate security controls. 
+ Grow Our Developer Community and Accelerate
+Adoption.  We will continue to enhance our relationships with developers globally and seek to increase the number of developers on our platform.
+As of December 31, 2016, we had 36,606 Active Customer Accounts and well over one million registered developer accounts registered on our platform. In addition to adding new developers, we
+believe there is significant opportunity for revenue growth from developers who have already registered accounts with us but who have not yet built their software applications with us, or whose
+applications are in their infancy and will grow with Twilio into an Active Customer Account. 
+ Increase Our International
+Presence.  Our platform operates in over 180 countries today, making it as simple to communicate from São Paulo as it is from San
+Francisco. Customers outside the United States are increasingly adopting our platform, and for the year ended December 31, 2016, revenue from international customer accounts accounted for 16%
+of our 
+
+ 9
+
+   
+
+total
+revenue. We are investing to meet the requirements of a broader range of global developers and enterprises. We plan to grow internationally by expanding our operations outside of the United
+States and collaborating with international strategic partners. 
+
+
+ Expand Focus on Enterprises.  We
+plan to drive greater awareness and adoption of Twilio from enterprises across industries. We intend to increase our investment in sales and marketing to meet evolving enterprise needs globally, in
+addition to extending our enterprise-focused use cases and platform capabilities, including our recently-launched Twilio Enterprise Plan. Additionally, we believe there is significant opportunity to
+expand our relationships with existing enterprise customers. 
+ Further Enable Solution Partner
+Customers.  We have relationships with a number of Solution Partner customers that embed our products in the solutions that they sell to other
+businesses. We intend to expand our relationships with existing Solution Partner customers and to add new Solution Partner customers. We plan to invest in a range of initiatives to encourage increased
+collaboration with, and generation of revenue from, Solution Partner customers. 
+ Expand ISV Development Platform and SI
+Partnerships.  We have started developing relationships with independent software vendor (ISV) development platforms and system integrators, or
+SIs. ISV development platforms integrate Twilio to extend the functionality of their platforms, which expands our reach to a broader range of customers. SIs provide consulting and development services
+for organizations that have limited software development expertise to build our platform into their software applications. We generate revenue through our relationships with ISV development platforms
+and SIs when our products are used within the software or applications into which they are integrated by ISV development platforms and SIs. We do not share usage-based revenue with ISV development
+platforms or SIs, nor do we pay them to include our products in their offerings. We intend to continue to invest in and develop the ecosystem for our solutions in partnership with ISV development
+platforms and SIs to accelerate awareness and adoption of our platform. 
+ Selectively Pursue Acquisitions and Strategic
+Investments.  We may selectively pursue acquisitions and strategic investments in businesses and technologies that strengthen our platform. In
+February 2015, we acquired Authy, a leading provider of authentication-as-a-service for large-scale applications. With the integration of Authy, we now provide a cloud-based API to seamlessly embed
+two-factor authentication and phone verification into any application. In November 2016, we acquired the proprietary WebRTC media processing technologies built by the team behind the Kurento Open
+Source Project. The Kurento Media Server capabilities, including large group communications, transcoding, recording and advanced media processing, has been integrated into Twilio Programmable Video. 
+
+ Our Values and Leadership Principles 
+         Our core values, called our "Nine Values," are at the center of everything that we do. As a company built by developers for developers, these values guide us to work in a way that exemplifies many attributes of the developer ethos. These are not mere words on the wall. We introduce these values to new hires upon joining our company, and we continually weave these values into everything we do. Our values provide a guide for the way our teams work, communicate, set goals and make decisions. 
+ 10
+
+   
+        We believe leadership is a behavior, not a position. In addition to our values, we have articulated the leadership traits we all strive to achieve. Our leadership principles apply to every Twilion, not just managers or executives, and provide a personal growth path for employees in their journeys to become better leaders. 
+ 
+        The combination of our Nine Values and our leadership principles has created a blueprint for how Twilions worldwide interact with customers and with each other, and for how they respond to new challenges and opportunities. 
+ 11
+
+          
+  Twilio.org 
+         We believe we can create greater social good through better communications. Through Twilio.org, which is a part of our company and not a separate legal entity, we donate and discount our products to nonprofits, who use our products to engage their audience, expand their reach and focus on making a meaningful change in the world. Twilio.org's mission is to send a billion messages for good. To that end, we have reserved 780,397 shares of our Class A common stock to fund and support operations of Twilio.org, which represented 1% of our outstanding capital stock on the date it was approved by our board of directors. In our follow-on public offering, we sold 100,000 shares of Class A common stock to fund and support the operations of Twilio.org, and the number of remaining reserved shares was reduced accordingly to 680,397. 
+ Our Products 
+         Our Programmable Communications Cloud consists of software for voice, messaging, video and authentication that empowers developers to build applications that can communicate with connected devices globally. We do not aim to provide complete business solutions, rather our Programmable Communications Cloud offers flexible building blocks that enable our customers to build what they need. 
+
+
+
+Programmable Voice 
+
+         Our Programmable Voice software products allow developers to build solutions to make and receive phone calls globally, and incorporate advanced voice functionality such as text-to-speech, conferencing, recording and transcription. Programmable Voice, through our advanced call control software, allows developers to build customized applications that address use cases such as contact centers, call tracking and analytics solutions and anonymized communications. Our voice software works over both the traditional public switch telephone network, as Twilio Voice, and over Internet Protocol, as Twilio Client. Programmable Voice includes: 
+ 
+
+ Twilio Voice.  Initiate, receive
+and manage phone calls globally. 
+ Twilio Client Web.  Initiate,
+receive and control calls between web browsers and landlines or mobile phones. 
+ Twilio Client Mobile.  Embed IP
+voice calling into native Apple iOS and Google Android apps. 
+ Call Recording.  Securely record,
+store, transcribe and retrieve voice calls in the cloud. 
+ Global Conference.  Integrate
+audio conferencing that intelligently routes calls through cloud data centers in the closest of six geographic regions to reduce latency. Scales from Basic, for a limited number of participants, to
+Epic, for an unlimited number of participants. 
+ Instant Phone Number
+Provisioning.  Acquire local, national, mobile and toll-free phone numbers on demand in over 50 countries and connect them into the customers'
+applications. 
+ Elastic SIP Trunking.  Connect
+legacy applications over IP infrastructure to our Super Network with globally-available phone numbers and pay-as-you-go pricing. 
+ Interconnect.  Connect privately
+to Twilio to enable enterprise grade security and quality of service for Twilio Voice and Elastic SIP Trunking. 
+
+         We charge on a per-minute or per-phone-number basis for most of our Programmable Voice products. 
+ 12
+
+   
+
+
+Programmable Messaging 
+
+         Our Programmable Messaging software products allow developers to build solutions to send and receive text messages globally, and incorporate advanced messaging functionality such as emoji, picture messaging and localized languages. Our customers use Programmable Messaging, through software controls, to power use cases, such as appointment reminders, delivery notifications, order confirmations and customer care. We offer messaging over long-code numbers, short-code numbers, messaging apps such as Facebook Messenger and over IP through our Android, iOS and JavaScript software development kits. Programmable Messaging includes: 
+ 
+
+ Twilio SMS.  Programmatically
+send, receive and track SMS messages around the world, supporting localized languages in nearly every market. 
+ Twilio MMS.  Exchange picture
+messages and more over U.S. and Canadian phone numbers from customer applications with built-in image transcoding and media storage. 
+ Copilot.  Intelligent software
+layer that handles tasks, such as dynamically sending messages from a phone number that best matches the geographic location of the recipient based on a global pool of numbers. 
+ Programmable Chat.  Deploy
+contextual, in-app messaging at global scale. 
+ Short Codes.  A five to seven
+digit phone number in the United States, Canada and the United Kingdom used to send and receive a high-volume of messages per second. 
+ Messaging App
+Integration.  Programmatically send, receive and track messages to messaging apps such as Facebook Messenger and Viber globally. 
+ Toll-Free SMS.  Send and receive
+text messages with the same toll-free number used for voice calls in the United States and Canada. 
+ Instant Phone Number
+Provisioning.  Acquire local, national, mobile and toll-free phone numbers on demand in over 50 countries and connect them into the customers'
+applications. 
+
+         We charge on a per-message or per-phone-number basis for most of our Programmable Messaging products. 
+ 
+
+
+Programmable Video 
+
+         Our recently introduced Programmable Video software products enable developers to build next-generation mobile and web applications with embedded video, including for use cases such as customer care, collaboration and physician consultations. Programmable Video includes: 
+ 
+
+ Twilio Video.  Create rich,
+multi-party video experiences in applications powered by a global cloud infrastructure for peer-to-peer calls. 
+ Network Traversal.  Provide
+low-latency, cost-effective and reliable Session Traversal Utilities for NAT (STUN) and Traversal Using Relay for NAT (TURN) capabilities distributed across five continents. This functionality
+allows developers to initiate peer-to-peer video session across any internet-connected device globally. 
+
+         In November 2016, we acquired the proprietary WebRTC media processing technologies built by the team behind the Kurento Open Source Project. The Kurento Media Server capabilities, including large group communications, transcoding, recording and advanced media processing, has been integrated into Twilio Programmable Video. 
+         We charge on a per-connected-endpoint, per-active-endpoint and per-gigabit basis for our Programmable Video products. 
+ 13
+
+   
+
+
+Use Case APIs 
+
+         While developers can build a broad range of applications on our platform, certain use cases are more common. Our Use Case APIs build upon the above products to offer more fully implemented functionality for a specific purpose, such as two-factor authentication, thereby saving developers significant time in building their applications. The following are common uses cases for our Use Case APIs: 
+ 
+
+
+Programmable Authentication 
+
+         Identity and communications are closely linked, and this is a critical business need for our customers. Using our two-factor authentication APIs, developers can add an extra layer of security to their applications with second-factor passwords sent to a user's phone via SMS, voice or push notifications. Our Programmable Authentication products include: 
+ 
+
+ Authy SoftToken.  Users
+authenticate with a dynamic seven-digit code available from the Authy app on their registered mobile phone, desktop or Apple Watch. 
+ Authy OneTouch.  Users receive
+push notifications to approve or deny an authentication request with a simple "yes" or "no" response on their registered smartphone. 
+ Authy OneCode.  Users authenticate
+with a unique code delivered to their registered phone number via SMS or voice automated phone call. 
+
+
+
+
+TaskRouter 
+
+         A software product that enables intelligent multi-task routing in contact centers to optimize workflows, such as routing a call to an available agent. A task can be a phone call, SMS, lead, support ticket or even machine learning from a connected device. 
+         We charge on a per-use basis for most of our Use Case APIs. 
+ 
+
+
+Add-on Marketplace 
+
+         Launched in May 2016, our Add-on Marketplace allows third parties to integrate their capabilities directly into our Cloud Communications Platform. This capability allows us to further leverage our community to provide new and differentiated functionality for our customers, while also opening up a new market for our partners. 
+         We share in the revenue generated by our partners for their solutions sold through our Add-on Marketplace. 
+   Our Employees 
+         As of December 31, 2016, we had a total 730 employees, including 125 employees located outside the United States. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We have not experienced any work stoppages, and we consider our relations with our employees to be good. 
+ Research and Development 
+         Our research and development efforts are focused on ensuring that our platform is resilient and available to our customers at any time, and on enhancing our existing products and developing new products. 
+         Our research and development organization is built around small development teams. Our small development teams foster greater agility, which enables us to develop new, innovative products and 
+ 14
+
+   make rapid changes to our infrastructure that increase resiliency and operational efficiency. Our development teams designed, built and continue to expand our Programmable Communications Cloud, which enables developers to embed voice, messaging, video and authentication capabilities into their applications. Our development teams have also designed, built and continue to expand the software infrastructure that we have deployed to create our Super Network. 
+         As of December 31, 2016, we had 390 employees in our research and development organization. We intend to continue to invest in our research and development capabilities to extend our platform and bring the power of contextual communications to a broader range of applications, geographies and customers. Our research and development expenses for the years ended December 31, 2016, 2015 and 2014 were $77.9 million, $42.6 million and $21.8 million, respectively. 
+   Sales and Marketing 
+         Our sales and marketing teams work together closely to drive awareness and adoption of our platform, accelerate customer acquisition and generate revenue from customers. 
+         Our go-to-market model is primarily focused on reaching and serving the needs of developers. We are a pioneer of developer evangelism and education and have cultivated a large global developer community. We reach developers through community events and conferences, including our SIGNAL developer conference, to demonstrate how every developer can create differentiated applications incorporating communications using our products. 
+         Once developers are introduced to our platform, we provide them with a low-friction trial experience. By accessing our easy-to-configure APIs, extensive self-service documentation and customer support team, developers can build our products into their applications and then test such applications during an initial free trial period that we provide. Once they have decided to use our products beyond the initial free trial period, customers provide their credit card information and only pay for the actual usage of our products. Our self-serve pricing matrix is publicly available and it allows for customers to receive automatic tiered discounts as their usage of our products increases. As customers' use of our products grows larger, some enter into negotiated contracts with terms that dictate pricing, and typically include some level of minimum revenue commitments. Historically, we have acquired the substantial majority of our customers through this self-service model. As customers expand their usage of our platform, our relationships with them often evolve to include business leaders within their organizations. Once our customers reach a certain spending level with us, we support them with account managers or customer success advocates to ensure their satisfaction and expand their usage of our products. 
+         When potential customers do not have the available developer resources to build their own applications, we refer them to our Solution Partners, who embed our products in their solutions that they sell to other businesses, such as contact centers and sales force and marketing automation. 
+         We also supplement our self-service model with a sales effort aimed at engaging larger potential customers, strategic leads and existing customers through an enterprise sales approach. We have supplemented this sales effort with a new product launch, our Twilio Enterprise Plan, which provides new capabilities for advanced security, access management and granular administration. Our sales organization targets technical leaders and business leaders who are seeking to leverage software to drive competitive differentiation. As we educate these leaders on the benefits of developing applications incorporating our products to differentiate their business, they often consult with their developers regarding implementation. We believe that developers are often advocates for our products as a result of our developer-focused approach. Our sales organization includes sales development, inside sales, field sales and sales engineering personnel. 
+         As of December 31, 2016, we had 240 employees in our sales and marketing organization. 
+ 15
+
+     Customer Support 
+         We have designed our products and platform to be self-service and require minimal customer support. To enable seamless self-service, we provide all of our users with helper libraries, comprehensive documentation, how-to's and tutorials. We supplement and enhance these tools with the participation of our engaged developer community. In addition, we provide support options to address the individualized needs of our customers. All developers get free email based support with API status notifications. Our developers also engage with the broader Twilio community to resolve certain issues. 
+         We also offer three additional paid tiers of email and phone support with increasing levels of availability and guaranteed response times. Our highest tier personalized plan is intended for our largest customers and includes guaranteed response times that vary based on the priority of the request, a dedicated support engineer, a duty manager and quarterly status review. Our support model is global, with 24x7 coverage and support offices located in the United States, the United Kingdom, Estonia and Singapore. We currently derive an insignificant amount of revenue from fees charged for customer support. 
+   Competition 
+         The market for Cloud Communications Platform is rapidly evolving and increasingly competitive. We believe that the principal competitive factors in our market are:
+ 
+
+ completeness of offering; 
+ credibility with developers; 
+ global reach; 
+ ease of integration and programmability; 
+ product features; 
+ platform scalability, reliability, security and performance; 
+ brand awareness and reputation; 
+ the strength of sales and marketing efforts; 
+ customer support; and 
+ the cost of deploying and using our products. 
+
+         We believe that we compete favorably on the basis of the factors listed above. We believe that none of our competitors currently compete directly with us across all of our product offerings. 
+         Our competitors fall into four primary categories:
+ 
+
+ legacy on-premise vendors, such as Avaya and Cisco; 
+ regional network service providers that offer limited developer functionality on top of their own physical infrastructure; 
+ smaller software companies that compete with portions of our product line; and 
+ SaaS companies that offer prepackaged applications for a narrow set of use cases. 
+
+         Some of our competitors have greater financial, technical and other resources, greater name recognition, larger sales and marketing budgets and larger intellectual property portfolios. As a result, certain of our competitors may be able to respond more quickly and effectively than we can to new or changing opportunities, technologies, standards or customer requirements. In addition, some competitors may offer products or services that address one or a limited number of functions at lower 
+ 16
+
+   prices, with greater depth than our products or geographies where we do not operate. With the introduction of new products and services and new market entrants, we expect competition to intensify in the future. Moreover, as we expand the scope of our platform, we may face additional competition. 
+   Intellectual Property 
+         We rely on a combination of patent, copyright, trademark and trade secret laws in the United States and other jurisdictions, as well as license agreements and other contractual protections, to protect our proprietary technology. We also rely on a number of registered and unregistered trademarks to protect our brand. 
+         As of December 31, 2016, in the United States, we had been issued 58 patents, which expire between 2029 and 2036, and had 43 patent applications pending for examination and four pending provisional applications. As of such date, we also had six issued patents and eight patent applications pending for examination in foreign jurisdictions, all of which are related to U.S. patents and patent applications. In addition, as of December 31, 2016, we had 13 trademarks registered in the United States and 35 trademarks registered in foreign jurisdictions. 
+         In addition, we seek to protect our intellectual property rights by implementing a policy that requires our employees and independent contractors involved in development of intellectual property on our behalf to enter into agreements acknowledging that all works or other intellectual property generated or conceived by them on our behalf are our property, and assigning to us any rights, including intellectual property rights, that they may claim or otherwise have in those works or property, to the extent allowable under applicable law. 
+         Despite our efforts to protect our technology and proprietary rights through intellectual property rights, licenses and other contractual protections, unauthorized parties may still copy or otherwise obtain and use our software and other technology. In addition, we intend to continue to expand our international operations, and effective intellectual property, copyright, trademark and trade secret protection may not be available or may be limited in foreign countries. Any significant impairment of our intellectual property rights could harm our business or our ability to compete. Further, companies in the communications and technology industries may own large numbers of patents, copyrights and trademarks and may frequently threaten litigation, or file suit against us based on allegations of infringement or other violations of intellectual property rights. We are currently subject to, and expect to face in the future, allegations that we have infringed the intellectual property rights of third parties, including our competitors and non-practicing entities. 
+   Regulatory 
+         We are subject to a number of U.S. federal and state and foreign laws and regulations that involve matters central to our business. These laws and regulations may involve privacy, data protection, intellectual property, competition, consumer protection, export taxation or other subjects. Many of the laws and regulations to which we are subject are still evolving and being tested in courts and could be interpreted in ways that could harm our business. In addition, the application and interpretation of these laws and regulations often are uncertain, particularly in the new and rapidly evolving industry in which we operate. Because global laws and regulations have continued to develop and evolve rapidly, it is possible that we may not be, or may not have been, compliant with each such applicable law or regulation. 
+         The Telephone Consumer Protection Act of 1991, or TCPA, restricts telemarketing and the use of automatic text messages without proper consent. The scope and interpretation of the laws that are or may be applicable to the delivery of text messages are continuously evolving and developing. If we do not comply with these laws or regulations or if we become liable under these laws or regulations due to 
+ 17
+
+   the failure of our customers to comply with these laws by obtaining proper consent, we could face direct liability. 
+   Corporate Information 
+         Twilio Inc. was incorporated in Delaware in March 2008. Our principal executive offices are located at 375 Beale Street, Third Floor, San Francisco, California 94105, and our telephone number is (415) 390-2337. Our website address is www.twilio.com. Information contained on, or that can be accessed through, our website does not constitute part of this Annual Report on Form 10-K. 
+ Information about Geographic Revenue 
+         Information about geographic revenue is set forth in Note 9 of our Notes to our Consolidated Financial Statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K. 
+ Additional Information 
+         The following filings are available through our investor relations website after we file them with the Securities and Exchange Commission ("SEC"): Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and our Proxy Statement for our annual meeting of stockholders. These filings are also available for download free of charge on our investor relations website. Our investor relations website is located at http://investors.twilio.com/. You may obtain copies of this information by mail from the Public Reference Section of the SEC, 100 F Street, N.E., Room 1580, Washington, D.C. 20549. The SEC also maintains an Internet website that contains reports, proxy statements and other information about issuers, like us, that file electronically with the SEC. The address of that website is www.sec.gov. 
+         We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs as part of our investor relations website. Further corporate governance information, including our corporate governance guidelines and code of business conduct and ethics, is also available on our investor relations website under the heading "Corporate Governance." The contents of our websites are not intended to be incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. 
+ 18
+
+
+

@@ -1,0 +1,236 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business
+--------+---------
+
+Corporate Background
+ 
+ Ionix Technology, Inc. (the “Company”), formerly known as Cambridge Projects Inc., is a Nevada corporation that was formed on March 11, 2011, and maintains its principal executive office at 3773 Howard Hughes Pkwy, Suite 500S, Las Vegas, Nevada, 89169. The Company was originally formed to pursue a business combination through the acquisition of, or merger with, an operating business. The Company filed a registration statement on Form 10 with the U.S. Securities and Exchange Commission (the “SEC”) on August 23, 2011, and focused its efforts to identify a possible business combination.
+ 
+On November 20, 2015, the Company’s former majority shareholder and chief executive offer, Locksley Samuels (“Seller”), completed a private common stock purchase agreement (the “SPA”) to sell his entire 21,600,000 shares of the Company’s common stock to Shining Glory Investments Limited (“Purchaser”). In connection with the SPA, the Board appointed Ms. Doris Zhou as the Company’s Chief Executive Officer, Chief Financial Officer, Secretary, Treasurer, and director on November 20, 2015, and Seller concurrently resigned from all positions with the Company. As a result of the SPA, a change in control occurred as (i) Purchaser acquired approximately 65.45% of the Company’s common stock, and (ii) the Company’s sole officer and director after the SPA is Ms. Zhou.
+ 
+On November 30, 2015, the Company’s board of directors (the “Board”) and the majority of its shareholders approved that (i) the Company change its name from “Cambridge Projects Inc.” to “Ionix Technology, Inc.”, (ii) the Company voluntarily changed its ticker symbol in connection with the name change, and (iii) the Company execute a 3:1 forward stock split, which will increase the Company’s issued and outstanding shares of common stock from 33,001,000 to 99,003,000 (the “Corporate Actions). The Company filed an application with the Financial Industry Regulatory Authority (“FINRA”) to effectuate the Corporate Actions and filed a Form 8-K on December 10, 2015, in regards to the Corporate Actions. On February 3, 2016, FINRA approved the Corporate Actions, which took effect on the market on February 4, 2016. As a result, (i) the Company’s name is now “Ionix Technology, Inc.”, (ii) its new trading symbol is “IINX”, (iii) the 3:1 forward stock split is effective, payable upon surrender, and (iv) the Company’s new CUSIP number is 46222Q107.
+ 
+On February 17, 2016, the Board ratified, approved, and authorized the Company’s acquisition of a wholly-owned subsidiary, Well Best International Investment Limited, a limited liability company formed under the laws of Hong Kong Special Administrative Region (“Well Best”)on September 14, 2015. Well Best was acquired by Qingchun Yang, its current director, on November 10, 2015.  One hundred percent interest in Well Best was transferred to Ionix Technology on February 15, 2016.Well Best’s purpose is to (i) act as an investment holding company and hold the assets of Taizhou Ionix Technology Company Limited (as explained below), and (ii) pursue new business ventures conducted in the Asia Pacific region excluding China.  Well Best has had no activities since inception.
+ 
+On August 19, 2016, the Board ratified, approved, and authorized the Company, as the sole member of Well Best, on the formation of XinyuIonix Technology Company Limited (“XinyuIonix”), a company formed under the laws of China on May 19, 2016. As a result XinyuIonix is a wholly-owned subsidiary of Well Best and an indirect wholly-owned subsidiary of the Company. Between May 19, 2016 and the date the Board ratified the incorporation, XinyuIonix conducted no business. XinyuIonix will focus on developing and designing lithium batteries as well as to act as an investment company that may acquire other businesses located in China.
+ 
+On August 19, 2016, XinyuIonix, the Company’s indirect, wholly-owned subsidiary, entered into a manufacturing agreement with Jiangxi Huanming Technology Limited Company (“Jiangxi”) whereby Jiangxi would manufacture and produce lithium batteries for Xinyu on an as-needed basis, pursuant to XinyuIonix’s instructions and specifications, for 0.9 Renminbi (approximately $0.14 USD) per unit (the “Jiangxi Agreement”). The Jiangxi Agreement was filed as exhibit 10.2 to the Company’s current report on Form 8-K filed with the Commission on August 24, 2016.
+ 
+ 5
+ 
+
+On November 7, 2016, the Company’s Board of Directors approved and ratified the incorporation of Lisite Science Technology (Shenzhen) Co., Ltd (“Lisite Science”), a limited liability company formed under the laws of China on June 20, 2016. Well Best is the sole shareholder of Lisite Science. As a result, Lisite Science is an indirect, wholly-owned subsidiary of the Company. Lisite Science acts as a manufacturing base for the Company and shall focus on developing and producing high-end intelligent electronic equipment, specifically a power bank which is a 5 volt 2 amp, 20000mAh lithium ion battery powered portable device offering charging time of 12-18 hours that is intended to be utilized as a power source for electronic devices such as the iphone, ipad, mp3/mp4 players, PSP gaming systems, and cameras. Lisite Science commenced operations in September of 2016.
+ 
+On November 7, 2016, the Company’s Board of Directors approved and ratified the incorporation of Shenzhen Baileqi Electronic Technology Co., Ltd. (“Baileqi Electronic”), a limited liability company formed under the laws of China on August 8, 2016. Well Best is the sole shareholder of Baileqi Electronic. As a result, Baileqi Electronic is an indirect, wholly-owned subsidiary of the Company. Baileqi Electronic acts as a manufacturing base for the Company and shall focus on development and production of the LCD and module for civil electronic products. The module of new energy power system refers to an LCD screen that is manufactured for small devices such as video capable baby monitors, electronic devices such as tablets and cell phones, and for use in televisions or computer monitors. Baileqi Electronics commenced operations in September of 2016.On September 1, 2016, Baileqi Electronics entered into a manufacturing agreement with Shenzhen Baileqi Science and Technology Co., Ltd. (“Shenzhen Baileqi S&T”) to manufacture products for Baileqi Electronics.
+ 
+On December 29, 2016, the Company’s Board of Directors approved and ratified the acquisition of 99.9% of the issued and outstanding stock of Welly Surplus International Limited, a limited company formed under the laws of Hong Kong on January 18, 2016, in exchange for 99,999 HK dollars (the “Acquisition”). As a result of the Acquisition, the Company became the majority shareholder of Welly Surplus, owning 99.99% of the issued and outstanding stock of Welly Surplus, and Welly Surplus is now a majority owned subsidiary of the Company. As the closing of the Acquisition, Ms. Zhou was appointed as a member of the board of directors of Welly Surplus. Welly Surplus will act as the accounting and financial base for the Company and shall focus on assisting the Company with all of the Company’s financial affairs. Welly surplus had no activities since inception.
+ 
+On April 7, 2017, Ben William Wong (“Wong”) and Yubao Liu, an individual (“Liu”) entered into a Stock Purchase Agreement (the “Agreement”) whereby Wong agreed to sell and Liu agreed to purchase 5,000,000 shares of the Company’s restricted preferred stock, representing 100% of the total issued and outstanding preferred stock (“Company Preferred Stock”). In consideration for the Company Preferred Stock, Liu agreed to pay to Wong a total of 5,000,000 RMB on or before April 30, 2017. The Agreement closed on April 20, 2017 (the “Closing”). Additionally, on April 5, 2017, Liu and Shining Glory Investments Limited, a British Virgin Islands company (“Shining Glory”), of which Wong is the sole officer and director, entered into a purchase agreement whereby Liu acquired 1 ordinary common stock share (the “Shining Glory Share”) representing approximately 100% of Shining Glory’s outstanding shares of common stock.  In consideration for the Shining Glory Share, Liu paid to Wong a total of $1 USD and Wong resigned as a Director of Shining Glory. Concurrently, Liu was appointed as the sole director of Shining Glory. The agreement between Shining Glory and Liu closed on April 20, 2017.
+
+
+On April 30, 2017, Well Best International Investment Limited (“Well Best”), a wholly-owned subsidiary of the Company, transferred all of its rights, title and interest to all 100% of the issued and outstanding common stock of XinyuIonix Technology Company Limited (“XinyuIonix”) to Zhengfu Nan for  RMB 100($14.49 USD) pursuant to a Share Transfer Agreement dated April 30, 2017 (the “Agreement”). Pursuant to the Agreement the consideration shall be paid to Well Best within 15 working days after execution of the Agreement. Following the execution of the Agreement, Mr. Nan owns 100% of XinyuIonix and assumes all liabilities of XinyuIonix. As a result XinyuIonix is no longer a wholly-owned subsidiary of Well Best or an indirect wholly-owned subsidiary of the Company.
+ 
+Prior Operations and Agreements
+ 
+Taizhou Ionix
+  On February 17, 2016, the Board ratified, approved, and authorized the Company, as the sole member of Well Best, on the formation of Taizhou Ionix Technology Company Limited (“Taizhou Ionix”), a company formed under the laws of China on December 17, 2015, and a wholly-owned subsidiary of Well Best. Taizhou Ionix conducted no business between its date of incorporation and date approved by the Board. As a result, Taizhou Ionix is an indirect wholly-owned subsidiary of the Company. Taizhou Ionix was formed to (i) develop, design, and manufacture lithium-ion batteries for electric vehicles, and (ii) act as an investment holding company that may acquire other businesses located in China.
+ 
+ 6
+ 
+
+On August 19, 2016, Well Best, a wholly-owned subsidiary of the Company entered into a share transfer agreement (the “Share Transfer Agreement”) whereby Well Best sold 100% of its equity interest in Taizhou Ionix, to Mr. GuoEn Li, the sole director and officer of Taizhou for approximately RMB 30,000  ($5,000USD)(the “Sale”). Well Best was the sole shareholder of Taizhou. The Board approved and authorized the Sale, and instructed Well Best to enter into and execute the Share Transfer Agreement due to the fact that the Company believed that Taizhou’s manufacturing contract with Taizhou Jiunuojie Electronic Technology Limited to produce lithium batteries was not beneficial to the Company. As a result of the Sale, (i) Taizhou is no longer an indirect, wholly-owned subsidiary of the Company, and (ii) Mr. Li is no longer affiliated with the Company. The Share Transfer Agreement was filed as exhibit 10.2 to the Company’s current report on Form 8-K filed with the Commission on August 24, 2016. Well Best recorded a loss of $18,890 on disposal of Taizhou Ionix which was included in the loss from disposal of discontinued operations on statements of comprehensive income (loss).
+ 
+Business Summary
+ 
+Since January 2016, the Company has shifted its focus to becoming an aggregator of energy cooperatives to achieve optimum price and efficiency in creating and producing technology and products that emphasize long life, high output, high energy density, and high reliability. By and through its wholly owned subsidiary, Well Best and the indirect subsidiaries, Baileqi Electronics, Lisite Science, and Welly Surplus, the Company has commenced its operation of high-end intelligent electronic equipment, such as portable power banks and LCD monitors in China.
+ 
+ The Company believes that owning and operating its own manufacturing plant would be too costly. Also by outsourcing manufacturing, the Company can devote its resources to research and development, design, and marketing of electronic control technologies, automotive battery technologies, and material and component technologies, including lithium-ion battery products for use in electric cars.
+ 
+The Company, Well Best, Welly Surplus, Baileqi Electronics, and Lisite Science are actively seeking additional new prospects for technology enhancements, design, manufacturing and production of the Company’s operation of high-end intelligent electronic equipment, such as portable power banks and LCD products and future product development.
+ 
+Products
+ 
+ Civil Electronics-
+ 
+With the high-speed development in the new energy industry, the high-tech and relevant key accessories are today still playing an essential role in the energy industry chain. LCD displays are widely used in the end products of the new energy industry.
+ 
+Since late 2016, the Company has expanded its focus to development and production of the LCD and module for civil electronic products and portable power packs. By and through its wholly owned subsidiary, Well Best and the indirect wholly owned subsidiary, Baileqi Electronics, the Company has commenced its operations in China. Baileqi is working on an upgrade to traditional LCD screens with display modules that use the crystal method (“TCM”) and control muddle system integration for professional manufacturing. Today, TCM is widely used in many areas, including electronic operation data displays for renewable energy vehicles, BMS information feedback, HD projectors, communication equipment, and particularly in intelligent robots.
+ 
+The LCD screens are manufactured for small devices such as video capable baby monitors, electronic devices such as tablets and cell phones, and for use in televisions or computer monitors.
+
+
+The Company is also manufacturing “new energy power systems” or  power banks a through the Company’s indirect wholly-owned subsidiaries. The power banks range in size and capacity and are  lithium ion battery powered,  portable devices offering charging time of 12-18 hours that is intended to be utilized as a power source for electronic devices such as the iphone, ipad, mp3/mp4 players, PSP gaming systems, and cameras.  The module of new energy power system refers to an LCD screen that is manufactured for small devices such as video capable baby monitors, electronic devices such as tablets and cell phones, and for use in televisions or computer monitors.
+ 
+ 7
+ 
+
+
+BAILEQI PRODUCTS 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Module No： Y50029N00T Size: 5.0” Resolution: 800(H)*3(RGB)*480(V) TFT LCD LCD Active Area: 108.00*64.80mm Quline Dimensions: 120.70(H) x 75.80(V) x 4.25(T) Interface Type: 24 BIT RGB Interface Display Colors: 16.7M Brightness: 300 cd/mm Viewing Direction: 12 O’CLOCK 
+Module No:Y43001N04N Size:4.3” Resolution:480RGB×272 LCD Active Area:95.04(H)×53.86(V) Qutline Dimensions: 105.4(H)× 67.10(V)×2.95(D) Interface Type: RGB 24 BIT Display Colors:16.7M Brightness:480cd/mm(7S) Viewing Direction:12 O’CLOCK 
+
+ 
+ 8
+ 
+
+
+Module No:Y10108M00N Size:10.1” Resolution:1280RGB×800 LCD Active Area:216.96(H)×135.60(V) Qutline Dimensions: 229.46(H)× 149.10(V)×3.00(D) Interface Type: LVDS Display Colors:16.7M Brightness:300cd/mm(3S-13P) Viewing Direction:6 O’CLOCK 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LISITE SCIENCE PRODUCTS 
+K20000 Capacity: 20000mah capacity Size: 167.2*85*23.5mm Type: 18650 2500mah*8 Input: MICRO 5/2A Output: USB 5/2A Color: White Materials: ABS+PC 
+QC01 Capacity：10000mah Size：102x61x21.5mm Type：LG18650 3350mah*3 Input：MICRO 9/1.8A 5/2A Output：USB 9V/1.8A 5/2A Color: Orange and Black Materials: Aluminum Alloy +PC Weight：350g 
+
+ 
+ 9
+ 
+
+
+T3 Capacity：10000mah Size：100x62x21.5mm Type：805573 Input：MICRO 5/2A Output：USB 5/2A Color: White Materials: ABS + PC Weight: 195g 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+T100CY Capacity：10000mah Size：139 * 59.8 * 23.4mm Type：18650 2000mah*5 Input：MICRO 5/2A Output：USB 5/2A Color: White Materials：ABS+PC Weight：274.8g 
+
+Lithium Ion Battery-
+ 
+ 
+The Company’s products include 18650-2000mAh lithium ion batteries for use in lithium cell electronic bicycles, balance cars, scooters, electric vehicles, special vehicles at low speed, energy storage, and other products. The 18650 -200mAh battery cell is a commodity format cell based on standardized specifications for product dimensions, however, the Company is able to and provides custom solutions based on the needs of customers regarding capacity and performance. During the year ended June 30, 2017, the Company decided to focus its energies on the civil electronics portion of its business.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+The product specifications for our 18650-2000mAH battery, pictured to the right, are set forth in the table below:
+ 
+
+
+Items | Rated Performance | Remarks 
+--------------------------+-------------------+-------------------------------------------------
+Rated Capacity | 2000mAh | 1 C5Astandard charging 1 C5Astandard discharging
+Minimum Capacity | 2000mAh 
+Nominal Voltage | 3.7V | working voltage 
+Discharge cut-off voltage | 2.75V | 
+
+ 
+ 10
+ 
+
+
+Charge voltage | 4.2V | 
+------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+---------------------------------------------
+AC Impedance | ≤26mΩ | 
+Standard Charging method | 0.5 C5A CC(constant current) charge to 4.2V, then CV (constant voltage 4.2V) charge till charge current decline to 0.01 C5A | Charging time：Approximately 3.5h 
+Standard Discharge method | 0.5 C5A. electric constant exile to 2.25V | 
+Fast charging | Continuous ChargeCurrent：1 C5A Continuous Chargevoltage：4.2V Decline Charge voltage：0.01 C5A | Charging time：Approximately 90min 
+Maximum Continuous DischargeCurrent | 3C5A | 
+Max. Discharge Current | 5C5A | 
+Operation Temperature Range | Charge：0~45℃ | 60±25%R.H Single cell storage humidity range
+Discharge: -20~55℃ 
+Storage T/H Range | Less than one year：-20~25℃ | 60±25%R.H Shipment status humidity range for
+Less than 3 month：-20~35℃ 
+Weigh | Approximately：44g | 
+Product Dimension | Height(Max)：65.5mm | Initial dimension 
+
+ 
+
+What is a Lithium-Ion Battery?
+ 
+A lithium-ion battery (“LIB”) is a rechargeable electric device within which lithium moves from a negative electrode to a positive electrode during the discharge and back charging.  The four main materials typically used in LIB’s are cathode materials, anode materials, operators, and electrolytic solution.  The performance and safety of an LIB depends heavily on the materials from which they are made as their operation is based on chemical reactions which can be directly affected by the materials used in production.
+ 
+LIB’s are one of the most common types of rechargeable batteries as they are frequently used as the power supply for most consumer devices that people use every day such as mobile phones, digital cameras, and power tools. Additionally, LIB’s are also utilized in aerospace applications and automotive products such as electric and hybrid vehicles. The lithium-ion battery has become the more sought-after alternative to nickel-metal batteries for electric vehicles, partially due to its lighter weight and smaller size, and LIB’s have become a common replacement for the lead acid batteries used in golf carts and utility vehicles.
+ 
+Industry Overview
+ 
+The first lithium-ion battery was commercialized by Japan’s Sony in 1991. Since then, the LIB has become the most popular and advanced battery with its reach expanding more and more every day. Lithium-ion batteries are used in and influence nearly every aspect of our lives daily, both at home and at work, and innovation is sprinting forward at a rapid pace. The push for clean and renewable energy, from wind power to solar power, is a driving force in business today and a major reason why Lithium-batteries are and have been a major contender in storing renewable energy.
+ 
+The global market for lithium-ion batteries has grown significantly and is expected to continue to grow as the need for high power and high capacity battery cells increase its penetration into broader forms of use. The power density, safety, recharge time, cost, and other aspects of its technology are expected to continue to improve with future developments in technology.
+ 
+ 11
+ 
+
+According to a report published by Allied Market Research titled, "Lithium-Ion Battery Market" the global lithium-ion battery market is expected to generate revenue of $46.21 billion by 2022, with a CAGR of 10.8% during the forecast period (2016-2022).1 As reported by Allied, the market for these batteries is expected to experience significant growth because of their increasing application in the automotive sector. Other key factors that may affect the growth of this market are the growing demand for smartphones, tablets, and other electronic devices; stringent government regulations aimed at reducing the increasing pollution levels; and enhanced efficiency of lithium-ion batteries.
+ 
+Currently, the electronics industry has the highest demand for lithium-ion batteries, however, the automotive sector is forecast to have the highest rising demand for LIB for use in electric and plug-in hybrid vehicles. The number of electric/hybrid vehicles is expected to increase at an exponential rate in the coming years, which would further increase the demand for lithium ion batteries. For instance, in 2014, Tesla announced its plans to manufacture around 500,000 electric cars every year by around 2018, which would require a huge supply of lithium ion batteries.
+ 
+The Asia-Pacific geographical region is currently the largest in LIB use and production due to burgeoning demand in China, Japan and India. North America and Europe are the second and third leading regions respectively, for lithium-ion battery market.2 Currently, the global market is highly concentrated as about 5 to 6 major players occupy around 50% market share in the overall lithium-ion battery market.3
+
+The following figure shows the market size of lithium based batteries for the 2008-2013 period and expected market size for 2014-2020 forecast.
+ 
+Figure: Revenues of the Global Lithium-based Battery Market (in USD Billion), 2008-20204
+
+
+_________________________________
+ 
+ 1Lithium-Ion Battery Market by Material Type.Allied Market Research, March 2016.https://www.alliedmarketresearch.com/lithium-ion-battery-market
+ 2Id.
+ 3Id.
+ 4Global Market for Lithium-Ion batteries- Forecast, Trends, & Opportunies 2014-2020. Taiyou Research
+ 
+ 12
+ 
+
+ Competition
+ 
+Our competitors include large consumer electronic and manufacturing companies that offer products similar to ours such as Panasonic Sanyo, Samsung, Hitachi, Mitsubishi Chemical, and LG Chem Ltd., among others. Many of our competitors have substantially greater financial, technical, and human resources than we do, as well as greater experience in the discovery and development of products and the commercialization of those products. Our competitors’ products may be more effective, or more effectively marketed and sold, than any products we may commercialize and may render our products obsolete or non-competitive before we can recover the expenses of their development and commercialization. We anticipate that we will face intense and increasing competition as new products enter the market and advanced technologies become available. However, we believe that our products will offer key potential advantages over competitive products that could enable our products to capture meaningful market share from our competitors. We believe the principal methods of competition and primary competitive factors in our business include:
+ 
+ 
+· | customer service,
+--+------------------
+
+
+· | product pricing, and
+--+---------------------
+
+
+· | product performance, reliability and safety.
+--+---------------------------------------------
+
+Distribution Methods of Products
+ 
+The Company’s products are currently directly shipped from the manufacturers to the distributors and retailers. Marketing and sales departments were established in through the Company’s indirect subsidiaries during the year ended June 30, 2017 to cope with the growth of the Company. We explore potential customer bases using internal resources. Currently, we do not have any long term contracts with our customers and will manufacture according to the purchase orders received. In the future, we will continue to seek additional channels of distribution for our products to include wholesale stores and mass retailers. The Company plans to focus primarily on distributing its products regionally, starting in Greater China, and will then seek to expand its distribution channels across the U.S. and internationally.
+Manufacturing
+ 
+ 
+The Company outsources the manufacturing and packaging of our products to a third party located in China on an order-by-order basis. Baileqi Electronics entered into a manufacturing contract with Shenzhen Baileqi S&T to manufacture products for Baileqi Electronics.
+ 
+The Company and Lisite Science are actively seeking new prospects for the manufacturing and production of the Company’s products. Further, when we do identify and engage a manufacturer we expect that that manufacturer would not work exclusively for the Company and may be limited in their ability to meet our production needs, however, we are considering this a top priority while trying to identify prospects.
+
+
+Suppliers of Materials
+ 
+The elements necessary for our products are and will be sourced from several different suppliers located primarily in China on an order-by-order basis. These materials include lithium manganite (Li-Mn) and lithium nickel manganese cobalt (Li-NiCoMn). Some of the materials in our products are not readily available in large quantities or are available on a limited basis only. Further, the limited availability of some of these materials could cause significant fluctuations in their costs.
+ 
+The Company, Baileqi Electronics, and Lisite Science acquire materials from the following list of principal suppliers, dependent on availability and price points:
+ 
+
+lithium manganate（Li-Mn)* | lithium nickel manganese cobalt（Li-NiCoMn）* 
+Anhui Aland New Energy Materials Co. ,Ltd. | Xinxiang Zhongtian Luminous Materials Co., Ltd. 
+Guangzhou Guanggang New Energy Technology Co., Ltd. | Xinxiang Jinrun Science and Technology Co., Ltd. 
+Zhejiang New Era Haichuang Lithium Battery Technology Co., Ltd. | Jiaozuo Banlv Na-No Material Engineering Company Limited
+Long Power Systems (Suzhou) Co., Ltd. | 
+
+ 
+*This list of suppliers is subject to change at any time.
+ 
+Our management researches and develops our sources of materials used in the manufacturing of our products. The materials that we source are and will be sent to our manufacturer in China to create our products. The Company does not have any long-term contracts with our suppliers and we cannot be assured that they will be able to meet our demands.
+ 
+ 13
+ 
+
+Intellectual Property
+ 
+As part of our business, we will seek to protect our intellectual property rights in various ways, including through trademarks, copyrights, trade secrets, including know-how, patents, patent applications, employee and third party nondisclosure agreements, intellectual property licenses and other contractual rights. We currently hold no intellectual property rights.
+Government Regulations Affecting Our Business
+ 
+At this stage in our business, we are unaware of any government regulations that are directly affecting our business, however, as we grow our business activities may become subject to various governmental regulations in different countries in which we operates, including regulations relating to: various business/investment approvals; trade affairs, including customs, import and export control; competition and antitrust; anti-bribery; advertising and promotion; intellectual property; broadcasting, consumer and business taxation; foreign exchange controls; personal information protection; product safety; labor; human rights; conflict; occupational health and safety; environmental; and recycling requirements.
+ 
+Employees of the Company
+ 
+The Company has no significant employees other than our officers and directors. As of June 30, 2017, the Company has no employees, however, our indirect subsidiary Baileqi has fifteen employees and Lisite Science has three employees. We intend to increase the size of our management team and hire additional employees in the future to manage the continued growth of our company and to increase our sales force and marketing efforts.
+ 
+
+WHERE YOU CAN GET ADDITIONAL INFORMATION
+ 
+We file annual, quarterly and current reports, proxy statements and other information with the SEC. You may read and copy our reports or other filings made with the SEC at the SEC’s Public Reference Room, located at 100 F Street, N.E., Washington, DC 20549. You can obtain information on the operations of the Public Reference Room by calling the SEC at 1-800-SEC-0330. You can also access these reports and other filings electronically on the SEC’s web site, www.sec.gov.
+ 
+ 

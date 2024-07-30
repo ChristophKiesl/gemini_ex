@@ -1,0 +1,361 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+ This annual report contains forward-looking statements. These statements relate to either future events or our future financial performance. In some cases, you may be able to identify forward-looking statements by terms such as "may," "should," "expects," "plans," "anticipates," "believes," "estimates," "predicts," "potential" or "continue," the negative of these terms or other synonymous terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled "Risk Factors," that may cause our or our industry's actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements.
+ 
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend, and we do undertake any obligation, to revise or update any of the forward-looking statements to match actual results. Readers are urged to carefully review and consider the various disclosures made in this report, which aim to inform interested parties of the risks factors that may affect our business, financial condition, results of operations and prospects.
+ 
+Our financial statements are stated in United States Dollars (US$) and are prepared in accordance with United States Generally Accepted Accounting Principles (GAAP).
+ 
+ As used in this annual report, the terms "we," "us," "our" and similar references refer to AMERI Holdings Inc., and its subsidiaries together, unless the context indicates otherwise.
+ 
+Overview of AMERI Holdings, Inc.
+ 
+AMERI Holdings, Inc. is a fast-growing company that, through the operations of its twelve subsidiaries, provides  SAPTM cloud and digital enterprise services to clients worldwide. We deliver a comprehensive range of SAP solutions and services across multiple domains and industries. Our core services include SAP enterprise services, digital transformation services and cloud services.
+ 
+Recent Events
+ 
+ Acquisition of ATCG
+ 
+  On March 10, 2017, we acquired 100% of the shares of ATCG Technology Solutions, Inc. ("ATCG"), a Delaware corporation, pursuant to the terms of a Share Purchase Agreement among the Company, ATCG, all of the stockholders of ATCG (the "Stockholders"), and the Stockholders' representative. ATCG provides U.S. domestic, offshore and onsite SAP consulting services and has its main office in Folsom, California. ATCG specializes in providing SAP Hybris, SAP SuccessFactors and business intelligence services.
+ 
+The aggregate purchase price for the acquisition of ATCG consisted of:
+ 
+  
+(a) | 576,923 shares of our common stock,
+----+------------------------------------
+
+
+(b) | unsecured promissory notes issued to certain of ATCG's selling Stockholders for the aggregate amount of $3,750,000 (which notes bear interest at a rate of 6% per annum and mature on June 30, 2018) and,
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(c) | Earn-out payments in shares of our common stock (up to an aggregate value of $1,200,000 worth of shares) to be paid, if earned, in each of 2018 and 2019. ATCG's financial statements will be filed by amendment of the Current Report on Form 8-K filed on March 13, 2017 to disclose the closing of the acquisition.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ Acquisition of DC&M
+ 
+ On July 29, 2016, we acquired 100% of the membership interests of DC&M Partners, L.L.C. ("DCM"), an Arizona limited liability company, pursuant to the terms of a Membership Interest Purchase Agreement by and among us, DCM, all of the members of DCM, Giri Devanur and Srinidhi "Dev" Devanur, our President and Chief Executive Officer and Executive Vice Chairman, respectively. DCM is a SAP consulting company headquartered in Chandler, Arizona. DCM provides its clients with a wide range of information technology development, consultancy and management services with an emphasis on the design, build and rollout of SAP implementations and related products. DCM is also a SAP-certified software partner, having launched its SAP reporting, extraction and distribution tool called "IRIS". DCM services clients in diverse industries, including retail, apparel/footwear, third-party logistics providers, chemicals, consumer goods, energy, high-tech electronics, media/entertainment and aerospace.
+
+
+ - 1 -
+ 
+
+  
+
+  The purchase price for the acquisition of DCM consisted of:
+ 
+  
+(a) | A cash payment in the amount of $3,000,000 at closing,
+----+-------------------------------------------------------
+
+
+(b) | 1,600,000 shares of our common stock, which are to be issued on July 29, 2018 or upon a change of control of our company (whichever occurs earlier) and
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(c) | Earn-out payments of $1,500,000 payable in cash each year to be paid, if earned, in 2017 and 2018.
+----+---------------------------------------------------------------------------------------------------
+
+Acquisition of Virtuoso
+
+
+ On July 22, 2016, we, through wholly-owned acquisition subsidiaries, acquired all of the outstanding membership interests of Virtuoso, L.L.C. ("Virtuoso"), a Kansas limited liability company, pursuant to the terms of an Agreement of Merger and Plan of Reorganization, by and among us, Virtuoso Acquisition Inc., Ameri100 Virtuoso Inc., Virtuoso and the sole member of Virtuoso (the "Sole Member"). Virtuoso is a SAP consulting firm specialized in providing services on SAP S/4 HANA finance, enterprise mobility and cloud migration and is based in Leawood, Kansas. In connection with the merger, Virtuoso's name was changed to Ameri100 Virtuoso Inc. The Virtuoso acquisition did not constitute a significant acquisition for the Company.
+ 
+ The purchase price paid to the Sole Member for the acquisition of Virtuoso consisted of:
+ 
+  
+(a) | A cash payment in the amount of $675,000 which was due within 90 days of closing and was paid on October 21, 2016;
+----+-------------------------------------------------------------------------------------------------------------------
+
+
+(b) | $659,138, or 101,250 shares of our common stock at closing at a market price of $6.51 per share, on July 22, 2016; and
+----+-----------------------------------------------------------------------------------------------------------------------
+
+
+(c) | Earn-out payments in cash and stock of $450,000 and approximately $560,807, respectively, to be paid, if earned, in 2017, 2018 and 2019.
+----+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Acquisition of Bigtech Software Private Limited
+ 
+ On June 23, 2016, we entered into a definitive agreement to purchase Bigtech Software Private Limited ("Bigtech"), a pure-play SAP services company providing a complete range of SAP services including turnkey implementations, application management, training and basis ABAP support. Based in Bangalore, India, Bigtech offers SAP services to improve business operations at companies of all sizes and verticals. The acquisition of Bigtech was effective as of July 1, 2016, and the consideration paid for the acquisition was:
+
+(a) | A cash payment in the amount of $340,000 which was due within 90 days of closing and was paid on September 22,, 2016
+----+---------------------------------------------------------------------------------------------------------------------
+
+
+(b) | Warrants for the purchase of 51,000 shares of our common stock, with such warrants exercisable for two years; and
+----+------------------------------------------------------------------------------------------------------------------
+
+
+(c) | $255,000, which may become payable in cash as a commission to the sellers of Bigtech, if Bigtech achieves certain pre-determined revenue targets.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ Bigtech's financial results are included in our condensed consolidated financial results starting July 1, 2016.  The Bigtech acquisition did not constitute a significant acquisition for the Company.
+ 
+ Acquisition of Bellsoft, Inc.
+
+ On November 20, 2015, we completed the acquisition of Bellsoft, Inc., a consulting company based in Lawrenceville, Georgia with over 175 consultants specialized in the areas of SAP software, business intelligence, data warehousing and other enterprise resource planning services. Following the acquisition, the name of Bellsoft, Inc. was changed to Ameri100 Georgia Inc. ("Ameri Georgia"). Ameri Georgia has operations in the United States, Canada and India. For financial accounting purposes, we recognized September 1, 2015 as the effective date of the acquisition. The consideration for the acquisition of Ameri Georgia included:
+
+(a) | A cash payment in the amount of $3,000,000, which was paid at closing;
+----+-----------------------------------------------------------------------
+
+
+(b) | 235,295 shares of our common stock issued at closing;
+----+------------------------------------------------------
+
+
+(c) | $250,000 quarterly cash payments to be paid on the last day of each calendar quarter of 2016;
+----+----------------------------------------------------------------------------------------------
+
+
+(d) | A $1,000,000 cash reimbursement to be paid 5 days following closing to compensate Ameri Georgia for a portion of its approximate cash balance as of September 1, 2015;
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(e) | Approximately $2,910,817 paid within 30 days of closing in connection with the excess of Ameri Georgia's accounts receivable over its accounts payable as of September 1, 2015; and
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(f) | Earn-out payments of approximately $500,000 a year for 2016 and 2017, if earned through the achievement of annual revenue and EBITDA targets specified in the purchase agreement, subject to downward or upward adjustment depending on actual results.
+----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+ - 2 -
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ Our Company
+ 
+We were incorporated under the laws of the State of Delaware in February 1994 as Spatializer Audio Laboratories, Inc., which was a shell company immediately prior to our completion of a "reverse merger" transaction on May 26, 2015, in which we caused Ameri100 Acquisition, Inc., a Delaware corporation and our newly created, wholly owned subsidiary, to be merged with and into Ameri and Partners Inc ("Ameri and Partners"), a Delaware corporation (the "Merger"). As a result of the Merger, Ameri and Partners became our wholly owned subsidiary with Ameri and Partners' former stockholders acquiring a majority of the outstanding shares of our common stock. The Merger was consummated under Delaware law, pursuant to an Agreement of Merger and Plan of Reorganization, dated as of May 26, 2015 (the "Merger Agreement"), and in connection with the Merger we changed our name to AMERI Holdings, Inc. and do business under the brand name "Ameri100".  Our principal executive office is located at 100 Canal Pointe Boulevard, Suite 108, Princeton, NJ 08540. As of March 29, 2017, we have twelve subsidiaries: Ameri and Partners, Ameri Consulting Service Private Ltd., Ameri100 Georgia Inc. (formerly Bellsoft, Inc., "Ameri Georgia"), Bellsoft India Solutions Private Ltd., BSI Global IT Solutions Inc., Linear Logics, Corp. WinHire Inc, Ameri100 Virtuoso Inc., DC&M Partners, L.L.C., Bigtech Software Private Limited, ATCG Technology Solutions, Inc. and Ameritas Technologies India Private Limited.
+ Our Services
+  
+ 
+We specialize in delivering SAP cloud-based solutions, which enable businesses to transform the way their data is stored, accessed and managed, thereby increasing business mobility. Our SAP focus allows us to provide technological solutions across an enterprise, addressing both strategic and tactical objectives of the organization. We are headquartered in Princeton, NJ, and have offices across the United States, which are supported by offices in India.  Our model inverts the conventional global delivery model wherein offshore information technology ("IT") service providers are based abroad and maintain a minimal presence in the United States. With a strong SAP focus, our client partnerships anchor around SAP cloud services, artificial intelligence, internet of things and robotic process automation. We are pursuing an acquisition strategy that gives us a unique opportunity to disrupt the business model of offshore IT service providers.
+
+
+Our Industry
+ 
+Background
+ 
+ We operate in an intensely competitive IT outsourcing services industry, which competes on quality, service and costs.  Though we are able to differentiate our company on all of these axes, our India-based capabilities ensure that labor arbitrage is our fundamental differentiator. Most offshore IT services providers have undertaken a "forward integration" to boost their capabilities and presence in their client geographies (large offshore presence with a small local presence). Large U.S. players on the other hand focus on "backward integration" to scale and boost their offshore narrative (offshore being the "back office" for the local operations).  Today the IT services industry is marked by the following characteristics:
+ 
+
+ - 3 -
+ 
+
+
+ 
+Characteristic | | Description 
+----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mature Market | ● | Most large global companies have already outsourced what they wanted to outsource. 
+Commoditized Business Model | ● | North America and Europe continue to be the markets with attractive spending potential. However, increased regulations and visa dependencies prove to be a major drawback of the model. 
+● | The benefits realized from the business model are largely based on labor arbitrage, productivity benefits and portfolio restructuring. These contours have changed due to commoditization. 
+Insourcing | ● | Extremely rapid changes in technology are forcing IT services–traditionally an outsourcing business—to adopt an insourcing model. 
+Rapid Technology Shifts | ● | Cloud services, robotic process automation, artificial intelligence and internet of things are increasingly in demand as part of outsourcing engagements. Smart robots increasingly operate in the cloud, and a 'labor-as-a-service' approach has emerged, as clients and providers find that intelligent tools and virtual agents can be easily and flexibly hosted on cloud platforms.
+● | Social media, cloud computing, mobility and big data will continue to be mainstays for any IT ecosystem. 
+● | The convergence of cloud computing, virtualization (applications and infrastructure) and utility computing is around the corner. The ability of a vendor to offer an integrated basket of services on a SaaS model, will be a key differentiator.
+● | Enterprises are becoming more digital. There is a strong convergence of human and machine intelligence thanks to drivers like advanced sensors and machine learning. Operations and technology are converging. 
+Contracts & Decision Making | ● | Large multi-year contracts will be renegotiated and broken down into shorter duration contracts and will involve multiple vendors rather than sole sourcing. 
+● | The ability to demonstrate value through Proof of Concepts (POCs) and willingness to offer outcome based pricing are becoming critical considerations for decision making, Requests for Proposal (RFP)-driven decisions are increasingly rare. 
+
+The SAP Industry
+  
+ 
+ 
+ 
+SAP as an Enterprise Resource Planning ("ERP") product has become an industry by itself. The core SAP enterprise offering has been reinforced with cloud-based products that make the entire SAP ecosystem extremely attractive from our perspective due to the following attributes:
+
+
+  
+● | The alignment of SAP to enterprises is extremely strong. Given the reliance of enterprises on applications, clients tend to make long-term bets on SAP as an enterprise solution. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | According to the September 2014 "HfS Blueprint Report" from by HfS Research Ltd., the SAP market is a multi-billion-dollar market that is very fragmented (there are over 5,000 consulting firms), with the three largest service providers capturing an increasing share of the market.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A significant number of SAP customers must move to S/4 HANA by 2025.
+--+---------------------------------------------------------------------
+
+
+
+
+
+ - 4 -
+ 
+
+ 
+Our Approach
+ 
+
+ 
+Our solutions deliver significant business efficiency outcomes through turnkey projects, consulting and offshore services. We have adopted a "strategic acquisition model", pursuant to which we acquire companies that support our goals. These businesses are realigned as parts of a viable and profitable "operating model". We believe that our strategic service portfolio, deep industry experience and strong global talent pool offer a compelling proposition to clients.  In 2016, we acquired three companies: Virtuoso and DCM in the U.S., and Bigtech Software Pvt. Ltd. in India. These strategic acquisitions have brought offshore delivery, SAP S/4 HANA and high-end SAP consulting capabilities to our service portfolio.  In 2016, we entered into working partnerships with Blue Prism, for robotic process automation services, and SNP, for transformational ERP offerings.  These partnerships will allow us to offer our clients a broader spectrum of services.
+
+
+Our Portfolio of Service Offerings
+ 
+Our portfolio of service offerings expanded significantly in 2016 with our acquisitions of Ameri Georgia, DCM, Virtuoso and Bigtech. We expect our future service offerings to evolve as we continue to pursue our acquisitive growth strategy.
+
+
+Our current portfolio of services is divided into three categories:
+ 
+Cloud Services
+ 
+An increasing trend in the IT services market is the adoption of cloud services. Historically clients have resorted to on-premise software solutions, which required capital investments in infrastructure and data centers. Cloud services enable clients to build and host their applications at much lower costs.  Our product offerings leverage the low cost and flexibility of cloud computing
+ 
+We have expertise in deploying SAP's public, private and hybrid cloud services, as well as SAP HANA cloud migration services. Our teams are experienced in the rapid delivery of cloud services. We perform SAP application and cloud support and SAP cloud development. Additionally, we provide cloud automation solutions that focus on business objectives and organizational growth.
+ 
+Digital Services
+ 
+ We have developed several cutting-edge mobile solutions, including Simple Advance Planning and Optimization ("APO"), the IBP/S&OP Mobile Analytics App and the Langer Index. The SimpleAPO mobile application (app) provides sales professionals with real-time collaboration capabilities and customer data, on their mobile devices. It increases the efficiency of the sales process and the accuracy of customer needs forecasting. The SAP IBP mobile app enables the real-time management and analysis of Sales and Operations Planning (S&OP) related data from mobile devices. SAP is an implementation partner for this app. SAP has recognized the app's value to the ecosystem (S&OP apps being complex and difficult to design). The Langer Index is a mobile-supported, web-based assessment system for collecting and analyzing IT organizational effectiveness.
+ 
+We are also active in Robotic Process Automation ("RPA"), which leverages the capability of artificially intelligent software agents for business process automation.  We have expertise in automating disparate and redundant data entry tasks by configuring software robots that seamlessly integrate with existing software systems. We also provide RPA solutions for reporting and analysis and deliver insights into business functions by translating large data into structured reports. Lastly, we have a working partnership with Blue Prism, a leading RPA solutions provider, which makes it possible for us to automate up to one-third of all standard back-office operations.
+ 
+Enterprise Services
+ 
+ We design, implement and manage Business Intelligence ("BI") and analytics solutions. BI helps our clients navigate the market better by identifying new trends and by targeting top-selling products. We also enable clients to use BI for generating instant financial reports and analytics of customer, product and cost information over time.  In addition, we provide solutions for metadata repository, master data management and data quality. Finally, we determine BI demands across various platforms.
+ 
+Other key enterprise services that we offer include consulting services for global and regional SAP implementations, SAP/IT solution advisory and architectural services, project management services, IT/ERP strategy and vendor selection services.  Often clients have relied on us to deliver services in non-SAP packages, as well. We bring deep expertise in products by companies such as Oracle, JD Edwards, Peoplesoft, Microstrategy, Hyperion, Siebel and Webmethods.
+
+
+   - 5 -
+ 
+
+ 
+
+
+
+Our Growth Strategy
+ 
+  Our growth strategy is based on customer-driven business expansion and strategic acquisition of SAP cloud services companies. It is our goal to be a leader in the SAP cloud services market. As part of this strategy, we use strategic acquisitions, alliances and partnerships to achieve this goal.
+
+
+We have complementary near-and longer-term strategies. In the short-term, we continue to focus on high-end consulting and solutions in the SAP space.  Our medium-term focus will be to make an entry into cloud engagements and HANA. Signing up with NEC as a strategic partner for the SAP HANA migration will be critical to achieving this objective. Additionally, we will gain market share in high-growth areas in the SAP ecosystem such as Hybris, Success Factors and BI/BW/SAP HANA.  In the long-term, we will identify and acquire firms in the areas of Artificial Intelligence (AI) and robotics to bolster our AIR (AI + internet of things + robotics) practice. We believe that during each phase of our growth strategy business and market conditions will require our plans to evolve or change, and we plan to be agile in addressing both opportunities and exigencies.
+
+
+Most customers do not have measurement metrics to assess if their IT spend is yielding value. A firm's IT organization could be transactional, transitional or transformational depending on its investment in technology, processes and personnel.  The Langer Index gives us a novel tool to measure IT maturity and focus and to help our clients ensure that their IT dollars are creating maximal value.
+ 
+Sales and Marketing
+ 
+ We combine traditional sales with our strength in industries and technology. Our sales function is composed of direct sales and inside sales professionals. Both work closely with our solutions directors to identify potential opportunities within each account. We currently have 70 active clients and 130 dormant accounts. Using a consultative selling methodology (working with clients to prescribe a solution that suits their need in terms of efficiency, cost and timelines), target prospects are identified and a pursuit plan is developed for each key account. We utilize a blended sales model that combines consultative selling with traditional sales methods. Once the customer has engaged us, the sales, solutions and marketing teams monitor and manage the relationship with the help of customer relationship management software.
+ 
+The marketing group is tasked with building a strong, sustainable brand image for our company, positioning us in the SAP arena and facilitating business opportunities. Marketing functions include webinars, targeted email campaigns and social media vehicles including blogs, networking efforts and video sharing websites. Data gathered from these activities helps us to measure and track our market position and customer understanding of our offerings.
+
+
+
+
+
+
+
+
+
+ - 6 -
+ 
+
+ 
+Revenues and Customers
+ 
+  
+We generate revenue primarily through consulting services performed in the fulfillment of written service contracts. The service contracts we enter into generally fall into two categories: (1) time-and-materials contracts and (2) fixed-price contracts.
+ 
+When a customer enters into a time-and-materials or fixed-price, (or a periodic retainer-based) contract, we recognize revenue in accordance with an evaluation of the deliverables in each contract. If the deliverables represent separate units of accounting, we then measure and allocate the consideration from the arrangement to the separate units, based on vendor-specific objective evidence of the value for each deliverable.
+ 
+The revenue under time-and-materials contracts is recognized as services are rendered and performed at contractually agreed upon rates. Revenue pursuant to fixed-price contracts is recognized under the proportional performance method of accounting. We routinely evaluate whether revenue and profitability should be recognized in the current period. We estimate the proportional performance on our fixed-price contracts on a monthly basis utilizing hours incurred to date as a percentage of total estimated hours to complete the project.
+ 
+For the twelve months ended December 31, 2016, sales to five major customers accounted for 52.75% of our total revenue.
+
+
+Technology Research and Development
+ 
+We regard our services and solutions and related software products as proprietary. We rely primarily on a combination of copyright, trademark and trade secret laws of general applicability, employee confidentiality and invention assignment agreements, distribution and software protection agreements and other intellectual property protection methods to safeguard our technology and software products.  We have not applied for patents on any of our technology.  We also rely upon our efforts to design and produce new applications and upon improvements to existing software products to maintain a competitive position in the marketplace.
+ 
+On December 26, 2015, we entered into a license agreement with Dr. Arthur M. Langer, which grants us a license for exclusive, perpetual, irrevocable and worldwide use of the Langer Model to generate the Langer Index.
+ 
+ 
+Research and product development expenditures were approximately $54,945 for the twelve months ended December 31, 2016 and $524,741 for twelve months ended December 31, 2015.
+ 
+Strategic Alliances
+ 
+ Through our Lean Enterprise Architecture Partnership ("LEAP") methodology, we have strategic alliances with technology specialists who perform services on an as-needed basis for clients. We partner with niche specialty firms globally to obtain specialized resources to meet client needs. Our business partners include executive recruiters, staffing firms and niche technology companies.
+ 
+Alliances and partnerships broaden our offerings and make us a one-stop solution for clients. Our team is constantly evaluating products and services that complement our portfolio and build strategic partnerships. Our partner companies range from RPA product companies, to digital marketing strategy consulting firms, to large infrastructure players.
+ 
+Competition
+ 
+ The large number of competitors and the speed of technology change make IT services and outsourcing a challenging business. Competitors in this market include systems integration firms, contract programming companies, application software companies, traditional large consulting firms, professional services groups of computer equipment companies and facilities management and outsourcing companies. Examples of our competitors in the IT services industry include Accenture, Cartesian Inc., Cognizant, Hexaware Technologies Limited, Infosys Technologies Limited, Mindtree Limited, RCM Technologies Inc., Tata Consultancy Services Limited, Virtusa, Inc. and Wipro Limited.
+ 
+
+
+
+ - 7 -
+ 
+ We believe that the principal factors for success in the IT services and outsourcing market include performance and reliability; quality of technical support, training and services; responsiveness to customer needs; reputation and experience; financial stability and strong corporate governance; and competitive pricing.
+
+
+Some of our competitors have significantly greater financial, technical and marketing resources and/or greater name recognition, but we believe we are well positioned to capitalize on the following competitive strengths to achieve future growth:
+ 
+ 
+· | well-developed recruiting, training and retention model;
+--+---------------------------------------------------------
+
+
+· | successful service delivery model;
+--+-----------------------------------
+
+
+· | broad referral base;
+--+---------------------
+
+
+· | continual investment in process improvement and knowledge capture;
+--+-------------------------------------------------------------------
+
+
+· | investment in research and development;
+--+----------------------------------------
+
+
+· | financial stability and strong corporate governance; and
+--+---------------------------------------------------------
+
+
+· | custom strategic partnerships to provide breadth and depth of services.
+--+------------------------------------------------------------------------
+
+Employees
+ 
+As of December 31, 2016, we had 237 employees, including billable employees and support staff. We routinely supplement our employee consulting staff with subcontractors, which totaled 175 at December 31, 2016, most of which were from other services firms. Between our employees and subcontractors, we had 313 billable consultants at December 31, 2016. Our employees are not part of a collective bargaining arrangement and we believe our relations with our employees are good. We have employment agreements with our executive officers and certain other employees.
+ 
+Available Information
+ 
+Our executive office is located at 100 Canal Pointe Boulevard, Suite 108, Princeton, NJ 08540. Our telephone number is (732) 243-9250, our fax number is (732) 243-9254 and our website is www.ameri100.com. We provide free access to various reports that we file with or furnish to the U.S. Securities and Exchange Commission through our website, as soon as reasonably practicable after they have been filed or furnished. These reports include, but are not limited to, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to these reports. Our Securities and Exchange Commission ("SEC") reports can be accessed through the investors section of our website (http://ameri100.com/page/investors/), and we intend to disclose any changes to or waivers from our Code of Ethics for our Chief Executive Officer and Senior Financial Officers and our Code of Ethics and Business Conduct that would otherwise be required to be disclosed under Item 5.05 of Form 8-K on our website. In addition, the public may read and copy any materials filed by us with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. We are an electronic SEC filer. The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC. The internet address of the SEC's website is http://www.sec.gov. Information on our website does not constitute part of this annual report on Form10-K or any other report we file or furnish with the SEC.
+ 
+Investors and others should note that we use social media to communicate with our subscribers and the public about our company, our services, new product developments and other matters. Any information that we consider to be material to an evaluation of our company will be included in filings on the SEC EDGAR website and may also be disseminated using our investor relations website (http://ir.ameri100.com/) and press releases.
+ 
+ - 8 -
+ 
+

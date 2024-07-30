@@ -1,0 +1,190 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | DESCRIPTION OF BUSINESS
+--------+------------------------
+
+
+
+
+As used in this Form 10K and unless otherwise indicated, the terms the “ClickStream,” “Company,” “we,” “us” and “our” refer to ClickStream Corporation.
+ 
+
+OVERVIEW OF THE BUSINESS
+ 
+Overview
+ 
+ClickStream is a technology based data analytics company focused on development of analytical tools for high volume data analysis and related internet trends and associations.  We are currently in late-stage development of a fantasy sports analytical service platform, DraftClick.  A fantasy sport is a game where participants assemble imaginary or virtual teams of real players of a professional sport. These fantasy teams compete based on the statistical performance of the selected professional athlete in actual games. This performance is converted into points that are compiled and totaled according to a roster chosen by the fantasy sport participant. These point systems can be simple enough to be manually calculated by a “league commissioner” who coordinates and manages the overall league, or points can be compiled and calculated using computers tracking actual results of the professional sport. In fantasy sports, fantasy sports participants act as team owners and managers that draft, trade and cut (drop) professional athletes, analogously to real sports teams.
+ 
+DraftClick is designed to assist in the fantasy sport participant’s ability to monitor changes in player valuations, breaking news releases, injury reports, real-time discussions in sports forums, fan sentiment, historical matchup data and other sources of data by incorporating all of this information into prediction results.  These results are then presented using a tailored version of DraftClick’s user interface which has been designed to enable seamless transition of fantasy sport participant selections to fantasy game sites such as DraftKingsTM and FanDuelTM.
+ 
+ClickStream plans to monetize DraftClick using its proprietary data analysis algorithms to take advantage of the growing fantasy sports market through various weekly subscription services and tools on a per sport basis that:
+ 
+  
+· | generates probabilities of sport specific win/loss outcomes for a particular team;
+--+-----------------------------------------------------------------------------------
+
+
+· | generates probabilities of particular professional athletes meeting certain performance thresholds, as may be particularly useful for fantasy football and fantasy baseball customers;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ 4
+ 
+
+ 
+· | compares predictions (taking into account confidence ratings and historical performance) and cross-reference with published lines in order to identify particularly appealing acquisition opportunities; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | generates probabilities of final score differentials for upcoming specific sporting events.
+--+--------------------------------------------------------------------------------------------
+
+
+
+Our fantasy sports services are slated to provide notifications which would allow for the sending of an e-mail or text whenever a particular prediction reaches a threshold confidence rating, or when predictions change by more than a set amount based on late-breaking news or events. We plan to customize our service interface and applications for each fantasy sport and are currently planning on using both mobile apps and web-based platforms which would allow customers to log-in using both desktop or mobile devices.
+ 
+History
+ 
+We were incorporated in the state of Nevada on September 30, 2005 and previously operated under the name Peak Resources Incorporated. Effective August 18, 2008, we changed our name to “Mine Clearing Corporation.” The Company had been operating as an exploration division in the mining sector until May 2014.
+ 
+On April 25, 2014, the Company’s stockholders adopted Amended and Re-Stated Articles of Incorporation, (the “New Articles”). The New Articles provide for a one for 300 reverse split of all outstanding shares of common stock, authorization of 5 million shares of “blank check” preferred stock, an increase in the authorized shares of common stock to 300,000,000 shares and changing the name of the Company to ClickStream Corporation. All share numbers in this Annual Report have been adjusted to reflect the one for 300 reverse split of the common stock effective as of June 19, 2014.
+ 
+ 5
+ 
+
+On May 2, 2014, the Company acquired all of the outstanding shares of ClickStream Corporation, a Delaware corporation (“CS Delaware”), pursuant to a merger into a wholly-owned subsidiary of the Company.  Since the merger, we have been operating as a data analytics tool developer and have sought to further develop and exploit our data analytics technology and proprietary algorithms.
+ 
+Since former holders of Clickstream common stock owned, after the Merger, substantially all of MCCO’s shares of common stock, and as a result of certain other factors, including that all members of the Company's executive management are members of Clickstream management, Clickstream is deemed to be the acquiring company for accounting purposes and the merger was accounted for as a reverse merger and a recapitalization in accordance with generally accepted accounting principles in the United States (“GAAP”).
+ 
+Our common stock is currently quoted on the over-the-counter market in the United States (commonly known as “the Pink Sheets”) under the trading symbol “CLIS”.
+ 
+Our principal executive offices are located at 1801 Century Park East, Suite 1201, Los Angeles, California, and our telephone number at that address is (626)-964-8808. Our website is located at www.clickstream.technology. Information on our website is not, and should not be considered, part of this Registration Statement.
+ 
+Business Operations
+ 
+Our business and operations are focused on development of analytical tools for high volume data analysis and related internet trends and associations particularly for use in fantasy sports. Our mission is to build value for our investors by commercializing the predictability power of discussions on the internet combined with other statistics in our ever growing database. To realize this mission, ClickStream has developed an automated analytics platform.
+The Opportunity
+ 
+According to published reports, fantasy sports players have grown from 500,000 in 1988 to an estimated 57 million in 2017 in the U.S. and Canada up from 32 million in 2010. They spend an average of 8.7 hours weekly consuming fantasy sports, they are mostly male (66%) with an average age of 39 years, and 66% have college degrees. The average annual spending per fantasy player is $556. The favorite fantasy sport is football and 70% of fantasy sports players pay a league fee. In 2017 it’s a $7 billion business. (Fantasy Sports Trade Association)
+ 
+As of September, 2016, more than 25,000 one-week leagues were run weekly in all different sizes. The market for fantasy sports has  expanded at a rapid rate and we believe it will continue to grow in popularity.
+ 
+The Challenge
+ 
+When using the Internet for research, users have been accustomed to expect to accumulate mountains of data through available search techniques and data providers. The resulting data is often composed of an unstructured mix of current and historical objective and subjective information. In order to make sense of this data, the user must carefully analyze and screen the results in the hope of extracting their search results in a timely fashion. Essentially, this ‘search’ is manual, unfocused and time consuming.
+ 
+Informed decision-makers, particularly in fantasy sports, often assume that the majority of their peers are making equally careful considerations when choosing a course of action. However, management believes that the reality is that most decisions, even important ones, are based on emotions. Emotional decisions are usually grouped and are followed by emotional decisions from peers. People react much more quickly to fear than they do to facts, thus creating the phenomenon known as herd mentality. Knowing that emotional herds grow through interactions and conversations, it would logically follow that tracking and analyzing conversations in real-time are invaluable.
+ 
+Management believes information dissemination is now largely not through traditional publication such as print media, but through social media and online conversation. Our preliminary tests have been able to show that one  can use that social data to augment historical statistical data to gain an additional advantage through our proprietary self-learning algorithms increasing the likelihood for picking a winning fantasy sports team or determining the possible outcome of a particular event.
+ 
+ 6
+ 
+
+The Solution
+ 
+ClickStream understands the relational importance of information and thus we focus on correlating and analyzing data as it continually becomes available. We aggregate data from numerous relevant sources but we understand it is unhelpful to pass this information in its raw form along to users. For the most part, users are looking for assistance in making critical decisions that often require a very timely response.
+ 
+Capturing the sentiment of social media conversation is also essential in analyzing the meaning of what is being said. Conversations are the catalysts of emotions, and gathering data from the multitude of relevant conversations that take place on the internet is vital to fully understanding the direction of today’s events.
+ 
+For fantasy sports players, DraftClick takes the analytical labor out of information aggregation.  DraftClick, powered by our algorithms, assists in one’s ability to monitor changes in sport player valuations, breaking news releases, injury reports, real-time discussions in sports forums, fan sentiment, historical matchup data and other sources of data, by incorporating all of this information into our prediction results. These results are then presented using a tailored version of our user interface which has been designed to enable seamless transition of fantasy sport participant selections to fantasy game sites such as DraftKing and FanDuel.
+ 
+DraftClick analyzes discussions on the Internet (forums, tweets, etc.) to determine the most relevant sources and then monitors those sources in real-time. This information is used in conjunction with the historical and daily sports data available for fantasy sport participants and teams to improve the self-learning of our algorithms. As new and important data becomes available, DraftClick aggregates and correlates that data with other relevant and important information in order lend intelligence to the user’s decision-making process.  In essence, this approach combines the quantitative methods used in fields such as technical trading with the sentiment-based approach which a person uses when reading and analyzing all available information about a particular event. The prediction algorithms optimize the relative importance of historical performance versus sentiment analysis for each particular event.
+ 
+Industry
+ 
+Management believes, after review of certain reports by Eilers Research which studies the industry, that daily games will generate around $2.6 billion in entry fees in 2015 and grow 41 percent annually, reaching $14.4 billion in 2020. Fantasy sports place a premium on data, and technological and statistical advances have made massive amounts of information available instantly and for sale.
+ 
+Management believes that the mainstream growth of daily fantasy sports was credited to several factors, including the convenience of the format in comparison to traditional fantasy sports, the prospective cash prizes (with some contests featuring advertised cash prices of up to $1 million), as well as their availability on mobile devices—which complements technologically-oriented lifestyles.
+ 
+In 2013, 319,000 Fantasy Sports players used mobile devices to participate in fantasy sports. In 2014, this number had increased by 847% to 3,022,000.  FanDuel is currently the largest daily fantasy sports operator offering 20,000 leagues open every day to bet on and hosts an average of over 600,000 lineup entries per week into their daily games.
+ 
+ 7
+ 
+
+Competition
+ 
+Most companies in the fantasy sports industry who offer statistical data to fantasy sport participants (mostly for use on FanDuel and DraftKings, although Yahoo has recently instituted a fantasy sport platform) offer data driven intelligence to support fantasy sports contests. Such companies typically provide content including top 10 value plays, odds of professional athletes scoring the most points, optimal lineups and overall rankings. They formulate pre-game projections which are updated in real-time as games progress, incorporating a range of components including win probability, professional athlete projections and expected points against the spread.
+ 
+STATS is a sports statistics, technology, data, and content company, founded in 1981 that provides content to multimedia platforms, television broadcasters, leagues and teams, fantasy providers and fantasy sport participants as well as major business-to-business and business-to-consumer brands. STATS also offers Associated Press editorial content and maintains relationships with many major sports leagues worldwide. They cover more than 300 leagues and competitions across the globe for a total of 83,000 events annually.
+ 
+Other companies such as RotoGrinders, RotoWire, OfficialPredictionMachine.com, Breaking Sports and Sports Guys LLC., offer optimal lineups for fantasy sports games, professional athletes and team news and depth charts. Some of these services help fantasy sport participants set lineups, make trades and strategize every week all the way to the playoffs assisting in making informed decisions by supplying large amounts of data. Some are customizable by site, time, risk level and type of game.
+ 
+The predictions all these companies make are based on an algorithm(s) which uses available data and generates a prediction. The field of self-learning algorithms is fairly well-established and the type of algorithms which can be used in applications like the stock market or fantasy sports is well defined.
+ 
+DraftClick Differentiators
+ 
+DraftClick, ClickStream’s flagship product for daily fantasy sports users (“DFS”), differs from commonly available products or toolsets to help DFS users select their optimal teams in two key areas.
+ 
+First, the DraftClick team selection page supports a large number of professional athlete filters that can be used in a flexible fashion. Some of these filters are based on widely available professional athlete data (e.g., average fantasy points per game, floor/ceiling points, consistency in point production), while others are based on computed values using proprietary algorithms (e.g., projected performance versus next opponent, recent social media feedback). These filters can currently be nested up to six levels deep to help users sort and select their own professional athletes using one or many selected search criteria. The searches can be position specific or across multiple positions.
+ 
+Second, the DraftClick team selection page offers an “auto fill” button which will complete the user’s team using proprietary self-learning algorithms which utilize statistical correlation to determine which of over 100 professional athlete specific variables best predict the fantasy point production for each professional athlete in their next contest. These algorithms learn through historical back-testing (before and after examples from thousands of previous games) and the specific algorithms which best predict each professional athlete’s recent performance (out of a pool of over 40 algorithms) are then selected to predict their next game performance. The entire collection of algorithms are rerun on a daily basis, or a subset of algorithms as breaking events occur. The auto fill button can also be used to select the entire team, if that is desired.
+ 
+ 8
+ 
+
+Future Applications.
+ 
+Fantasy sport applications are the initial iteration and application for our technology.  Additionally, subject to the availability of capital, we plan to develop products for additional sports and other applications as we continue to evolve our technology such as:
+
+· | Financial Predictions ―Using stock prices, public sentiment analysis and event data, ClickStream technology can correlate past stock price movements driven by discrete events and public sentiment with gathered data on emerging events and breaking sentiment to predict the movement of specific stocks over the next few trading sessions. Key markets and users for this type of product are hedge funds that essentially operate as day traders (especially high frequency traders), institutional investment houses, financial advisors, individual investors and online retail brokers. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Political Analytics―Using real-time news, polls and event tracking, our technology can perform political analytics to monitor public entities and social media both proactively and reactively to deliver alerts about any negative or threatening conversations, press, or changes in sentiment on the web.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+We currently have two employees and three technology consultants.
+ 
+Intellectual Property
+ 
+We believe our proprietary algorithms and database architectures are fundamental to our business and our strategy, including the continued development of our analytical tools.  Our core technology is centered on statistical prediction.  In order to generate statistical predictions, several criteria must first be defined. First, what is the specific question that the algorithms will attempt to answer. Second, what algorithm or set of algorithms will be used. Third, which data points will be used within the algorithm as input data from which the prediction will be generated. Fourth, what will be used as the ‘training data” which allows the algorithms to “learn” and subsequently improve accuracy. Finally, what confidence levels are selected to declare a valid prediction outcome.
+ 
+The selections of these five criteria are critical to the prediction and there can be thousands of valid combinations. DraftClick uses over 40 types of well-established self-learning algorithms and it uses over 100 athlete specific variables as input data points. Which of these algorithms to use for each athlete each day is dynamically selected by the system based on the training data. The training data consists of thousands of historical contests where the outcome is known and the values of the data points are known before and after each contest. This so-called historical “back testing” is also used to establish proper confidence levels. As each day goes by, the set of training data increases by the outcomes for that day.
+ 
+Based upon availability of capital, we anticipate to launch DraftClick in the Fall of 2017.
+ 
+All elements used in the development of the Company’s products (including design, names, function, codes, algorithms) have been developed by the Company’s personnel from conception, or by technical consultants under contract to the Company.  Each individual has signed an invention and assignment agreement that all such elements, including the completed products and any patents or registrations that may be attached thereto, belong solely to the Company and that they have no right, title or interest in said properties.
+ 
+We presently have no patents. Consequently, we rely on a combination of trade secret laws and assignment of invention and non-disclosure agreements to protect our technology, systems and data procedures. We have applied for trademark registrations for DraftClick and ClickStream in the United States.
+ 
+ 9
+ 
+
+Government Regulation
+ 
+Our DraftClick fantasy sports product is a toolset which allows people to identify their optimal teams which they can then enter into sites like FanDuel or DraftKings. We do not provide a daily fantasy sport platform, and as such, we would not be directly affected by government regulation on how sites like FanDuel or DraftKings operate under federal and state internet gambling rules and regulations.  The following regulatory discussion pertains to the fantasy sports industry and the ability for daily fantasy sport platforms to continue their present operations.
+U.S. Federal Regulation of Fantasy Sports
+ 
+Under federal law, the Unlawful Internet Gambling Enforcement Act of 2006 (UIGEA) prohibits online gambling practices, but exempts fantasy sports, as long as they operate within certain parameters. The UIGEA specifically exempts fantasy sports games, educational games, or any online contest that “has an outcome that reflects the relative knowledge of the participants, or their skill at physical reaction or physical manipulation (but not chance), and, in the case of a fantasy or simulation sports game, has an outcome that is determined predominantly by accumulated statistical results of sporting events, including any non-participant’s individual performances in such sporting events...” As a result, online casino games, such as poker, are deemed games of luck; fantasy sports, including daily fantasy sports, are considered games of skill so long as:
+
+· | Such games are not based on the current membership of an actual sports team or on the score, point spread or performance of teams;
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+· | All prizes and awards are established and made known before the start of the contest; and
+--+------------------------------------------------------------------------------------------
+
+
+· | Winning outcomes are based on the skill of the participants and predominately by accumulated statistics of individual performances of professional athletes, but not solely on a single performance of a professional athlete.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+State Regulation of Fantasy Sports
+ 
+Even if fantasy sport platforms or daily fantasy sports websites operate in compliance with UIGEA, individual states can take more restrictive positions. In most U.S. states, fantasy sports currently remain unregulated or are generally considered a game of skill and therefore not considered gambling. However, some states either use a more restrictive test of whether a game is one of skill or have specific laws outlawing pay-to-play fantasy sports, such as in Illinois, Montana, Washington, Iowa, Nevada and Arizona. The regulatory environment for daily fantasy sports is evolving. Either the U.S. government or additional states could potentially pass laws or interpret their current laws in ways that would cause fantasy sports platforms to cease operating in those states, or to change the manner in which they operate.
+ 
+ 10
+ 
+
+Non-governmental Regulation of Fantasy Sports
+ 
+In the wake of recent inquiries by federal and state regulators, daily fantasy sports companies have agreed to the formation of the Fantasy Sports Control Agency (“FSCA”), a self-regulatory body which is to be initially headed by the former acting U.S. Secretary of Labor, Seth Harris.  The FSCA is charged with creating a system to ensure ethics and integrity across the fantasy industry as a whole.  It is unclear whether such self-regulation will be accepted by government regulators or the effect of such self-regulatory body.
+EMPLOYEES AND CONSULTANTS
+ 
+We currently have two employees and three technology consultants.
+ 
+
+ 

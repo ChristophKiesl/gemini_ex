@@ -1,0 +1,490 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Business.
+--------+----------
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+This Annual Report on Form 10-K contains "forward-looking statements" within the meaning of the safe-harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements can often be identified by words such as: "expect," "believe," "estimate," "plan," "strategy," "future," "potential," "continue," "may," "should," "will," and similar references to future periods. Examples include, among others, statements about:
+
+• | The likelihood of regulatory approvals for our product candidates;
+--+-------------------------------------------------------------------
+
+
+• | The potential market opportunities for commercializing our product candidates;
+--+-------------------------------------------------------------------------------
+
+
+• | The anticipated results and effects of our product candidates;
+--+---------------------------------------------------------------
+
+
+• | Our expectations regarding the potential market size for our products candidates, if approved for commercial use;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+• | Estimates of our expenses, capital requirements and need for additional financing;
+--+-----------------------------------------------------------------------------------
+
+
+• | Our ability to enter into strategic partnership agreements and to achieve the expected results from such arrangements;
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+• | The initiation, timing, progress and results of future laboratory and field studies and our research and development programs;
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our ability to manufacture our product candidates in a commercially efficient manner;
+--+--------------------------------------------------------------------------------------
+
+
+• | The scope of protection we are able to obtain and maintain for our intellectual property rights covering our product candidates;
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our financial performance;
+--+---------------------------
+
+
+• | Developments and projections relating to our competitors and our industry; and
+--+-------------------------------------------------------------------------------
+
+
+• | Our ability to sell our products at commercially reasonable values.
+--+--------------------------------------------------------------------
+
+ 
+Forward-looking statements are neither historical facts nor assurances about future performance. Instead, they are only predictions, based on current beliefs, expectations and assumptions about the future of our business and other future conditions. Forward-looking statements are subject to known and unknown risks, uncertainties and changes in circumstances that are difficult to predict and many of which are outside of our control. Actual events and results may differ materially. Therefore, you should not rely on any of these forward-looking statements.
+ 
+Any forward-looking statement made by us in this report is based only on information available to us on the date of this report. Except as may be required by law, we undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise.
+ 
+Our forward-looking statements can be affected by inaccurate assumptions we might make or by known or unknown risks, uncertainties and other factors. We discuss many of these risks, uncertainties and other factors in this Annual Report on Form 10-K in greater detail under the Item 1A—“Risk Factors.” We caution readers that our business and financial performance are subject to substantial risks and uncertainties.
+ 
+BUSINESS
+ 
+Overview
+ 
+We have developed and are seeking to commercialize globally a proprietary technology for managing animal pest populations through fertility control. We believe our innovative non-lethal approach, targeting reproduction, is more humane, less harmful to the environment, and more effective in providing a sustainable solution to pest infestations than traditional lethal pest management methods. Our approach is designed to promote food security and reduce infrastructure damage, disease outbreaks, environmental contamination and other costs associated with rodent infestations. Our first fertility control product, ContraPest®, will be marketed for use in controlling rat populations. We are pursuing regulatory approvals and amendments to existing registration in the US for ContraPest in various jurisdictions, including the U.S., India, Argentina and the EU. We submitted ContraPest for registration with the EPA on August 23, 2015, and the EPA granted registration approval for ContraPest effective August 2, 2016. We believe ContraPest is the first non-lethal fertility control product approved by the EPA for the management of rodent populations. However, before we can begin selling ContraPest in the U.S., we must obtain registration from the various state regulatory agencies. To date, we have received registration for ContraPest in 45 states and the District of Columbia, with additional applications pending. Other business initiatives include expanding our technology to other species and applications, and developing bio-synthetic sources of triptolide, an active ingredient in ContraPest that also has pharmaceutical applications. This initiative may produce a less expensive source of triptolide for our own use, and provide us with the potential opportunity to earn revenue from the sale of such product to other potential consumers of triptolide.
+
+1
+-
+
+Current Problem
+ 
+Rodent populations cause significant harm by:
+ 
+•                Decreasing the worldwide food supply. Rodents destroy crops through consumption and contamination, and the magazine Quality Assurance and Food Safety estimated that in 2014, 20% of stored food was lost due to rodent activity, of which a 5% reduction would be enough to feed an estimated 380 million people.
+ 
+•                Damaging public infrastructure. Rodents cause significant damage to public infrastructure by undermining foundations with burrowing, gnawing on electrical wiring and insulation, fireproofing systems and electronic and computer equipment. A study conducted in 2007 estimated that the cost of destruction to infrastructure by rats in the U.S. is $27 billion.
+ 
+•                Transmitting disease. Rodents transmit disease and deadly pathogens to humans and other species, such as E. coli, salmonella, leptospirosis, infectious jaundice, Weil’s disease, plague, murine typhus and Hantavirus. Rats caught during an independent study in New York City were found to be carrying more than 20 pathogens that cause disease in humans.
+ 
+Current efforts to control rodent populations include the use of lethal chemical agents, also referred to as rodenticides, the sale of which constituted an estimated $900 million market worldwide in 2013 or more. In the United States, there are currently 193 such products registered by the EPA. Unfortunately, rodenticides have a number of serious shortcomings, as outlined below.
+ 
+Rodenticides are not a long-term solution
+ 
+Rodenticides do not target the rapid reproductive rates in rodents, to the contrary they accelerate rates by creating voids with plentiful food and harborage. The initial decline in rodent populations exposed to rodenticides is typically followed by a “population rebound” as surviving rodents quickly reproduce and rodents from surrounding areas migrate into the affected area. Studies have indicated that rat population rebounds can occur in as little as four months, while many populations rebound within six to nine months of being exposed to rodenticides. Moreover, even when rodenticides kill all of the rats in a designated area, populations have been observed to fully recover within 4-5 months.
+ 
+Rats are prolific breeders; even a single pair of rats can result in a rapidly rebounding population. For example, a single female rat typically has a litter of ten to twelve pups or more every three weeks when food is plentiful. As a result, one pair of rodents can contribute over 15,000 progeny in 8 months, and four pairs of breeding adult rats and their progeny can produce up to 15 million rats in one year as a result of a geometric progression. In addition, rats are territorial and will protect their food source from immigrating rats. If a rat population is substantially decreased through poisoning by rodenticides, other rats will migrate to the unguarded food source and establish a new and expanding population.
+ 
+Due to rebounding rodent populations exposed to rodenticides, property owners and pest management operators must continuously apply rodenticides of different active ingredients on a rotating basis in an effort to control these populations without favoring resistance to a particular poison. This creates an ongoing cycle of rodenticide treatment, with the costs of rodenticides remaining constant. Moreover, rodenticides are often distributed indiscriminately, on a non-targeted basis, which likely decreases their effectiveness in controlling rat infestations. The following chart, which is based on data derived from our population models, primary scientific literature, and current market pricing for rodenticides, demonstrates that the use of rodenticides does not sustainably reduce rat populations in the long term, while the cost of using rodenticides remains relatively constant over that same period.
+ 
+
+2
+-
+
+ 
+
+
+Rodenticides are an ineffective delivery method for rodents
+ 
+Due to their understanding of cause and effect, studies have shown that rodents will generally not consume food that they have seen adversely affect other rodents; this is known as “bait shyness”. When the adverse effects of rodenticides are displayed by treated rodents, other rodents in the vicinity typically avoid the areas where the rodenticides were located.
+ 
+Rodenticides are unsafe
+ 
+Rodenticides contain lethal chemicals that can be toxic to humans and other animals. The EPA has observed that between 1993 and 2008, the American Association of Poison Control Centers logged between 12,000 and 15,000 reports of rat and mouse poison exposures each year in children under the age of six. These numbers and other concerns about pet and non-target wildlife exposures have spurred the EPA and similar authorities to renew its efforts to establish better protections for children and the environment. For example, the EPA and similar authorities in other jurisdictions have established stronger restrictions on the sale and use of ten active ingredients found in various registered rodenticide products. These restrictions prohibit the sale of “loose” rodenticide bait, such as pellets, powders, and liquids and require all such consumer-use baits be sold with protective bait stations. They also prohibited the use of second-generation anticoagulants, or SGARs, in any consumer-use product. In May 2014, the EPA and Reckitt Benckiser Group plc (a large manufacturer of rodenticides, including d-CON) reached an agreement to cancel 12 of their mouse and rat poisons that do not comply with the new EPA safety standards.
+ 
+Rodenticides are harmful to the environment
+ 
+Rodenticides are designed to cause the rodent pest to die over five or more days, permitting the target animal to continue to consume the rodenticide during that period. Since the target animal may consume significantly higher doses than are needed to be lethal, the lethal chemicals can accumulate in the target animal. This process is known as bio-accumulation. If the target animal is consumed by other animals (such as predators), such other animals can become sick or die from the lethal chemicals remaining in the deceased animal. In addition, deceased animals contaminated by rodenticides can spread the lethal chemicals to the surrounding area.
+ 
+Rodenticides are inhumane
+ 
+The most common type of rodenticide prevents blood from clotting. Once the rodent has consumed the rodenticide, lethal chemicals cause the rodent to bleed internally and through its eyes, nose and ears, gradually culminating in death over 10 to 14 days from exposure. Therefore, rodenticides result in a long, painful death which can be transmitted to any predator such as dogs, cats, and birds. This raises moral concerns, particularly in regions such as India, among people who do not want to cause unnecessary pain in animals.
+ 
+
+3
+-
+
+Our Solution — Fertility Control
+ 
+Our first fertility control product, ContraPest, targets the reproductive capabilities of rodents by inducing the gradual loss of their limited supply of eggs in female rodents and disruption of sperm in male rodents, resulting in contraception that can progress to sterility in both females and males. By targeting rodent fertility, our solution is sustainably effective, directed, safe, environmentally friendly and humane.
+ 
+Our solution is sustainable over the long term
+ 
+ContraPest, when used as directed, causes rodent populations to remain at a sustained low level. A third-party laboratory study in partnership with the United States Department of Agriculture National Wildlife Research Center, or NWRC, completed in December 2014 observed that 50 wild-caught rats treated with ContraPest in the presence of regular food and water resulted in a 95% reduction in litter sizes. A follow-up USDA study completed in June 2015 involving 50 wild-caught rats demonstrated a 96% reduction in litter size in female and male rats treated with ContraPest in an open arena study. We have also conducted open population studies, including in trash rooms in the New York City subway completed August 2013 and with the largest hog producer in the United States completed in March 2015, in which we have observed decreases in wild rodent populations of more than 40% over a 12-week period. We believe this decrease in population will continue and, based on studies conducted by third parties, will stabilize at an approximately 70% reduction in 12 months without rebound (based on an initial population of approximately 10,000 rats). Also, we have observed that the contraceptive effect of ContraPest in reducing rat population is present regardless of the amount consumed by any particular rat in that population.
+ 
+Consequently, rat populations treated with ContraPest do not experience the same “population rebound” effect as those treated with rodenticides because the non-reproductive rodents continue to defend their territory from invasion by other rodents. Further, this low level of rodents contain a mixed gene pool that does not favor the development of resistance to the active ingredients. As a result, property owners and pest management operators may be able to substantially decrease the amount of ContraPest used over time, thus reducing the total cost of rodent population control in the long term. The following chart, which is based on data derived from our population models and field studies, predicts that as the use of ContraPest sustainably reduces rat populations over time and on an ongoing basis, the cost of ContraPest would be lower in the long term as compared to rodenticides.
+ 
+
+
+4
+-
+
+ 
+
+Our solution involves a targeted delivery
+ 
+Our proprietary formulation appears to be attractive to rodents. To maintain proper hydration, rats drink 10% of their body weight in water each day; our product is a liquid bait and comprised mostly of water. Moreover, studies show that rats prefer and develop an addiction to eating sweet and fatty foods. ContraPest incorporates these elements, and our studies demonstrate that rats prefer ContraPest even when other familiar food and water sources were abundant, such as in indoor garbage collection areas of urban, industrial facilities. Once consumed, our product is designed to avoid a first pass through the liver effect and to deliver active ingredients directly to targeted reproductive organs, thus increasing its effectiveness and minimizing harm to the animal.
+ 
+In addition, our solution utilizes a unique delivery system in the field that not only allows us to evaluate the effectiveness of our fertility control products, but also enables us to observe rodent pest behavior and determine the optimal locations for our proprietary bait stations. We also are able to customize the specific concentration to address the target pest.
+ 
+Our solution is safe
+ 
+Studies of ContraPest have demonstrated that doses of ContraPest are not lethal to rodents or harmful to people or other animals. The active ingredients in ContraPest are included at very low concentrations (together totaling less than 0.1% of the formulation) and have short half-lives of less than 20 minutes in the blood of rodents. Therefore, the active ingredients in ContraPest do not accumulate in tissues or organs of the rat (as poisons do) and thus do not sicken or kill predators or scavengers that eat a rat that has consumed ContraPest.
+ 
+In addition, at the concentrations of active ingredients in our product, there is no potential for reproductive disruption in humans. A human would have to consume impossibly large amounts of the active ingredients in our product to have any effect. Further, the man-made chemical that is one of our active ingredients (4-vinylcyclohexene diepoxide, or VCD) has been used in manufacturing settings, and no toxic effects have been demonstrated in humans. The other active ingredient (triptolide) is a plant-derived ingredient used in traditional Chinese medicine to treat symptoms of rheumatoid arthritis.
+ 
+Moreover, ContraPest is delivered in a ready-to-use and pre-packaged plastic container which is inserted into a tamper-resistant rodent bait station. As the container is inserted into the station, a spike punctures the foil-covered opening, allowing the liquid bait to flow into a tray within the bait station. The tank is a non-refillable container, which is recapped and disposed of when empty. Thus, as a “closed system,” there is little opportunity for handler exposure and virtually no opportunity for bystander exposure.
+ 
+Our solution is environmentally friendly
+ 
+ContraPest does not contain poisons, and the ingredients in ContraPest target the reproductive organs of the rodent and do not accumulate in other tissues or organs of the rat. As a result, the ingredients in ContraPest do not cause illness or death in other animals that come into contact with or eat the rat that has consumed ContraPest, and there is no risk of secondary exposure expected from the use of ContraPest. Also, the active ingredients in ContraPest are present in our product in very low concentrations, and break down into inactive, or inert, ingredients when they come into contact with soil or water in the environment. Moreover, ContraPest is packaged in a delivery system that dispenses the liquid bait directly into a tamper-resistant rodent bait station. These bait stations are limited to use only indoors and in the immediate perimeter of structures (no more than one foot from the exterior walls). As a result, ecological exposure of the liquid product will be limited to animals that directly contact or consume the bait, and there is little risk of exposure to non-target species or to the surrounding environment.
+ 
+Our solution is humane
+ 
+ContraPest does not cause rodent death and there have been no observations of any physical suffering in rodents exposed to ContraPest. ContraPest allows rodent pests to live out the course of their natural lives, while defending their territory and keeping out other invading rodents which have the potential of being disease vectors. By reducing rodents’ ability to reproduce, but keeping them alive, our product has the effect of humanely reducing rodent populations in the long-term.
+ 
+
+5
+-
+
+ 
+
+Recent Research Regarding the Effectiveness of ContraPest
+ 
+The majority of our research efforts have been focused on developing our lead product, ContraPest. We have completed studies regarding the effectiveness of our product, which were funded by and in cooperation with the NIH, the United States Department of Agriculture, or USDA, the NWRC, and the New York Metropolitan Transit Authority, or MTA, and other third parties. The following summarizes the results of these recent studies:
+ 
+•                A NWRC study involving approximately 50 rats completed in June 2015 demonstrated a 96% reduction in litter size in female and male rats treated with ContraPest in a laboratory setting;
+ 
+•               A January 2015 study in Rose Hill, North Carolina resulted in a 33% reduction in rodent activity over 12 weeks after being exposed to ContraPest, as compared to the use of rodenticide alone;
+ 
+•               A NIH-funded study in February 2013 in the subway trash rooms of the MTA in New York City observed that there was a 43% reduction in the rodent population in the trash rooms that were baited with ContraPest; and
+ 
+•               Internal laboratory studies involving 32 rats have shown zero pups born to any rat groups provided with ContraPest along with food and water, while rats given the control bait with no active ingredients had on average 11 pups per litter.
+ 
+In September 2015 we initiated a research study with the Chicago Transit Authority, or CTA, to begin a field trial of our bait station. That study is now complete. While the observations and results are subject to a confidentiality agreement, the performance of the bait stations met expectations. We have additional field trials underway in Hawaii and Massachusetts (Somerville), and are contemplating further research trials in a variety of applications.
+ 
+We have also begun exploring diverse applications with a variety of collaborators. We have conducted proof of concept studies with feral dogs on the Navajo Reservation in New Mexico with a grant from the USDA, and we have collected rabies and geographic data on stray dogs in the Tibetan refugee camps of Mainpat, India. We are currently collaborating with Texas A&M University to test the potential of our product candidates to manage feral pigs. Studies have also been conducted for proof of concept in Australia with wallaby, rat, and mouse populations and in New Zealand with rats and brushtail possums. We have also conducted early trials with cats in collaboration with the University of Florida. These diverse studies seek to provide evidence of the potential for ContraPest and the continued development of fertility control technology in general.
+ 
+Business Strategy
+ 
+Our goal is to become a leader in fertility control technology designed to promote food security and reduce infrastructure damage, disease outbreaks, environmental contamination and other costs associated with pest infestations and poor animal health. Key elements of our strategy are:
+ 
+•                Obtain regulatory approval for our lead product, ContraPest, throughout the U.S. and in Argentina, India, the EU and other parts of the world.
+ 
+•                Continue to develop and establish third party relationships with manufacturing, marketing and distribution partners in the U.S. and internationally.
+ 
+•                Educate our target markets on the long-term benefits our fertility control solution provides over lethal approaches.
+ 
+•                Establish a secure supply of active ingredients, including triptolide, by cultivating a diverse base of traditional agricultural suppliers and developing bio-synthetic sources of triptolide.
+ 
+•                Leverage our scientific research and core technologies to develop and commercialize a broad suite of products.
+ 
+
+6
+-
+
+Manufacturing, Marketing and Distribution
+ 
+Third-Party Relationships
+ 
+We intend to continue to establish and develop relationships in the U.S. and internationally. To date, we have entered into the following arrangements:
+ 
+NeoVenta — In September 2015, we entered into a sales and marketing agreement with NeoVenta Solutions, a sales and marketing company, for the sales of ContraPest in India and certain surrounding Southeast Asian countries. Under the agreement, NeoVenta will be responsible for seeking applicable regulatory approval to market ContraPest in these countries on our behalf. After such regulatory approval has been obtained, we have granted NeoVenta an exclusive license for 10 years to represent us in marketing, sales and distribution of ContraPest in these countries. We have retained all manufacturing responsibilities for ContraPest in these markets. NeoVenta has agreed to minimum sales commitments of rodent control products in the countries covered by the agreement, which total $23 million over the first five years. However, we believe that this understates the market potential for a non-lethal, effective and humane product in these countries.
+Bioceres — In January 2016, we signed an agency agreement with INMET, the research and development subsidiary of Bioceres, Inc., a leading agricultural biotechnology company in Argentina, to seek regulatory approval for and conduct pre-sales marketing of ContraPest in Argentina. Under the agreement, INMET, which specializes in bacterial fermentation solutions, will act as our exclusive agent to obtain necessary governmental approvals to sell and market ContraPest in agricultural, residential and public transport applications throughout the country of Argentina. The parties intend to create a joint venture entity which we will control. Sales in Argentina will occur only after regulatory approval is obtained and the joint venture entity is formed. We have also entered into a services agreement with Bioceres and INMET to provide research and development services to develop an efficient production method for a bio-synthetic version of triptolide, one of the two active ingredients in ContraPest that also has pharmaceutical applications. The parties intend to create a second legal entity to pursue this triptolide research and development.
+ 
+Subject to obtaining necessary regulatory approvals, we plan to market ContraPest in additional international jurisdictions. The expectation is that we will stage these market launches based on the length of time required to complete each country’s regulatory process, the market potential, identification and agreements with appropriate parties and the safety of our intellectual property.
+ 
+We are currently exploring a potential relationship in Europe for the registration of ContraPest with EU regulatory agencies, the development of manufacturing in the EU, research and development of new products using our fertility control technology, and the granting of distribution rights in the EU. However, we have not yet entered into any binding agreements related to these matters.
+ 
+Commercialization Plans
+ 
+To date, we have generated minimal revenue from product sales, but we currently expect to fully commercialize ContraPest and begin to generate revenue from the sale of products the second quarter of 2017 on a limited basis.Subject to obtaining necessary regulatory approvals, we also intend to market ContraPest in international jurisdictions. Target segments for ContraPest include government (e.g., subways, transit systems and public housing agencies); healthcare; agriculture (e.g., farms, storage facilities and protein production facilities (including cattle, sheep, pig and poultry facilities)); food production (e.g., factories, meat-packing facilities, dairy production plants and vegetable and fruit preparation facilities); and commercial (e.g., major restaurant chains, retail locations, casinos and hotels). Since EPA approval, we have received calls or emails of interest from the following types of potential customers: zoos, animal research facilities, waste and recycling centers, parks, transit agencies, natural resource managers, island conservation groups, botanical gardens, animal sanctuaries, children’s gardens, healthcare providers, property managers, and food production facilities. In addition, we intend to approach large pest management companies to pursue potential partnerships for the distribution and sale of ContraPest.
+Pricing and Value
+ 
+We intend to value price our product, ContraPest, such that our pricing strategy will take into account not only the cost of goods sold, but an understanding of the cost of competitive products and the value of our product to the end user. We believe ContraPest will be perceived as a significant improvement over current products for managing rat infestations and, as such, should command a premium price. Our experience is that potential customers understand the advantages of ContraPest and become enthusiastic about its use. We plan to use promotional efforts to support the value message and to justify our product’s increased value and premium price, built around the following proposed advantages:
+
+• | ContraPest is sustainably effective;
+--+-------------------------------------
+
+
+7
+-
+
+
+• | ContraPest involves targeted delivery;
+--+---------------------------------------
+
+
+• | ContraPest is safe;
+--+--------------------
+
+
+• | ContraPest is environmentally friendly; and
+--+--------------------------------------------
+
+
+• | ContraPest is humane.
+--+----------------------
+
+ 
+Also, we will focus on specific advantages for the individual customer and expect to position our product as having the following additional general advantages:
+ 
+
+• | Savings in personnel costs to clean up dead rodents;
+--+-----------------------------------------------------
+
+
+• | Reduction in disease vectors because there are no contaminated rat carcasses
+--+-----------------------------------------------------------------------------
+
+
+• | Savings in eliminating the use of rodenticides during ContraPest baiting;
+--+--------------------------------------------------------------------------
+
+
+• | Public relations advantages (sustainably effective, safe, environmentally friendly and humane);
+--+------------------------------------------------------------------------------------------------
+
+
+• | Savings by reducing loss or contamination of food inventories; and
+--+-------------------------------------------------------------------
+
+
+• | Savings by reducing damage to infrastructure.
+--+----------------------------------------------
+
+ 
+We believe that the addressable markets for ContraPest will evolve from first adopters to those potential customers that have zero tolerance for poisons, to those potential customers that focus on efficacy and value pricing, to those potential customers and regulators that prefer an alternative to poisons, and finally to bulk agricultural and retail markets. We believe that the expansion into these markets will be aided by a progression of potential cost and pricing reductions, starting with raw material costs, packaging costs, scale economies, and finally delivery and distribution improvements.
+ 
+Sales Approach
+ 
+Because of the unique nature of our technology and the market demand for a non-lethal approach to rodent pest control, large pest management companies who we have approached about our product have expressed interest in learning more about ContraPest. Consequently, we plan to continue to foster these discussions, to exchange data, and may negotiate agreements with carefully selected partners to maximize their appropriate deployment of our product. The advantages to selling through such a third party include:
+
+• | Immediate availability of a field sales force experienced in selling rodent control products;
+--+----------------------------------------------------------------------------------------------
+
+
+• | Familiarity with our target customers and the challenges they face;
+--+--------------------------------------------------------------------
+
+
+• | Our field personnel, customer service, account receivable, and shipping and handling teams would be smaller, thus reducing start-up costs; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Less need to substantially expand the sales force as our product gains traction with new customers.
+--+----------------------------------------------------------------------------------------------------
+
+ 
+We plan to be deeply involved in the initial product launch and assist with in-depth product training, business development, co-travel with sales representatives and the creation of sales and marketing tools.
+ 
+
+8
+-
+
+Raw Materials and Manufacturing Process
+ 
+ContraPest contains two active ingredients, VCD, an industrial chemical, and triptolide, a plant derived chemical from the Thunder God Vine, Tripterygium wilfordii. ContraPest also contains several other inactive ingredients. Currently, we source VCD from a standard industrial chemical supply provider. However, in the near future we will be qualifying additional suppliers for VCD. Triptolide is derived from the Thunder God Vine, which is commonly cultivated and harvested wild in southeastern China and other Asian countries, and is available from a variety of sources. Currently, we have one EPA registered source of purified triptolide, and have validated a second source. However, the process to purify triptolide for use in ContraPest is expensive, and we are seeking other, less costly methods of triptolide production, including bio-synthetic methods. See the discussion under the heading “Manufacturing, Marketing and Distribution” for more information about our agreement with Bioceres and INMET to provide research and development services to develop an efficient production method for a bio-synthetic version of triptolide. This initiative may produce a less expensive source of triptolide for our own use, and provide us with the potential opportunity to earn revenue from the sale of such product to our licensees and other potential consumers of triptolide. The inactive ingredients in ContraPest are sourced from standard chemical supply providers.
+ 
+Our manufacturing process involves the incorporation of our two active ingredients, in low concentrations, into several inert ingredients. Once incorporated, the entire product goes through a micro-encapsulation process in order to stabilize the final formulation. Stabilizing the product in this manner allows it to be delivered to rodents in a safe and effective manner. After production, the manufacturing line is cleaned using environmentally safe methods and products.
+ 
+Currently, we have production scale capability in our facilities in Arizona to manufacture and launch ContraPest. Our internal production capabilities allow us to meet our current and anticipated demand during 2017 for ContraPest. We have secured equipment to double our manufacturing capacity and expect it to be online in the third quarter of 2017. Our manufacturing process has been designed in a modular, scalable and transportable fashion. This allows us to quickly respond to production requirements anywhere in the world.
+ 
+In addition to our domestic manufacturing facility, we have also entered into an agreement with Bioceres and Inmet to jointly develop our manufacturing capacity in Argentina, and intend to enter into additional manufacturing agreements in the future on an opportunistic basis.
+ 
+Scientific Background Regarding our Product
+ 
+ContraPest is a liquid bait containing the active ingredients VCD and triptolide. When consumed, ContraPest causes contraception that can progress to sterility in male and female rats beginning with the first breeding cycle following consumption.
+ 
+The female rat is born with a finite number of eggs, also called oocytes, and she remains fertile and will reproduce until the day she dies. Within the ovary, eggs are contained in structures called follicles. The non-regenerating and most immature stage of follicles is called primordial. The primordial follicles mature through several stages from primary to secondary to antral follicles and ultimately ovulate. Once the primordial follicles have become depleted, ovarian failure occurs, which terminates reproductive capability.
+ 
+VCD has been well studied and causes specific loss of ovarian small follicles (both primordial and primary); because oocytes do not regenerate, loss of these follicles leads to ovarian failure. Following repeated dosing, VCD causes ovarian failure in rats. However, daily dosing of mice and rats with VCD does not produce generalized toxicity nor does it affect other tissues. A VCD-dosed rat will continue to reproduce until the pool of secondary and antral follicles are depleted through ovulation or atresia, which is the natural death of the follicle, which can take up to three months.
+ 
+The second active ingredient, triptolide, targets growing follicles and exerts a significant suppression of male fertility by disrupting sperm maturation and stopping the movement of sperm. Female rats treated with triptolide ovulate fewer eggs because the follicles stop growing. Triptolide does not affect primordial follicles, but when used in combination with VCD, the result is contraception that can progress to sterility in female rats.
+ 
+Both VCD and triptolide are supported by evidence regarding their safety and mechanism of action. Additionally, recent studies, both in the lab and in the field, have documented their effect in fertility reduction and therefore reduction in rat populations. The graph below displays the total numbers of pups after two breeding rounds in one study.
+ 
+
+9
+-
+
+ 
+
+
+Figure: Total number of rat pups born after consumption of ContraPest. Sixteen female rats (n=8 control and n=8 treatment) were provided ContraPest or inactive bait for 15 days and bred with proven male breeders. After two breeding rounds, the number of pups was totaled. The bar on the left shows the number of pups born to control females while the bar on the right shows the number of pups born to females that consumed ContraPest.
+ 
+Other Potential Products
+ 
+We have developed a pipeline of potential additional fertility control and animal health products, with diverse applications, as outlined in the following chart and in more detail below.
+
+Product Candidate/Area | Development Status | Segment | Primary Target 
+--------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+------------------------
+ContraPest | Environmental Protection Agency (EPA) granted registration approval for ContraPest effective August 2, 2016 | Population management | Rodents 
+Plant-based fertility control | Pilot studies have been completed; additional testing required for the use of this product to manage pest populations in select sites such as schools and hospitals | Population management | Rodents 
+Feral animal fertility control | Pilot studies are in process to show efficacy of this product candidate; to complete larger pivotal studies and regulatory submission | Population management | Feral dogs and hogs 
+Non-surgical spay and neutering | Pilot studies completed show encouraging signs of efficacy; to complete additional studies and regulatory submission | Companion animal health | Companion dogs and cats
+Boar taint | Additional scientific and field studies and regulatory submission required | Food production and safety | Boars 
+Animal cancer treatment | Proof of concept study to be performed to determine whether proprietary formulation may provide effective delivery of triptolide to dogs for cancer therapy | Companion animal health | Companion dogs 
+
+Boar Taint Product Candidate
+ 
+Boar taint is the offensive odor or taste that can be evident during the cooking or eating of pork or pork products caused by hormones, called pheromones, present in non-castrated boars once they reach puberty. Castration without anesthesia shortly after birth is currently the standard procedure used to eliminate boar taint, but it results in lower meat production due to decreased weight gain, which is an effect of castration. This process also introduces a surgical risk of infection and can raise safety issues for workers.
+
+10
+--
+
+ 
+
+If we are successful at developing a boar taint product candidate, we expect that it will target testosterone production and will be easily administered to feedlots and will have none of the safety issues associated with castration. The next step will be continued scientific and field studies followed by submission to and approval by the appropriate regulatory agencies. This process is expected to take approximately two years.
+ 
+Feral Animal Fertility Control Product Candidate
+ 
+Feral dogs and hogs present problems both in the United States and internationally. The negative impacts of feral dogs include threats to human health and safety, agriculture, natural resources and property. A 2005 study estimated monetary losses by feral dogs within the U.S. at $620 million annually. Feral pigs are can also be aggressive and are known for damaging crops and transmitting diseases to humans, livestock and other wildlife. Feral pigs are present across more than three quarters of the U.S. and are responsible for an estimated $1.5 billion in damages each year.
+ 
+Current strategies for controlling feral animal populations are often ineffective, difficult to conduct and costly. Studies have shown that our fertility control technology is effective in both these species. Accordingly, we are currently conducting pilot studies to show efficacy of our approach prior to proceeding to larger pivotal studies and regulatory submission. We are currently completing specific development plans for this product candidate.
+ 
+Companion Animal Product Candidates
+ 
+We plan to develop the following products for use in companion animals such as domestic dogs and cats. However, applications for companion animals require FDA approval, which is a much longer and more expensive regulatory process. Our expectation is that we will pursue these technologies or through research and development partnerships with larger companies.
+•                Non-Surgical Spay and Neutering Product Candidate. Based on a low average of $100 for each spay or neuter procedure, the spay and neutering of companion animals constitutes a $1.9 billion market in the United States alone, with few effective non-surgical alternatives. We are developing a product that can be easily administered to the companion animal orally or by injection in combination with vaccinations. No surgery is required and the surgical risks of infection and pain could be eliminated. This product candidate targets the ovaries and testes and is delivered through a proprietary drug delivery methodology. Early field studies with feral dogs showed encouraging signs of efficacy.
+•                Animal Cancer Treatment Product Candidate. Cancer therapy for companion animals is often not a viable option since chemotherapy can be a long, painful and expensive process. However, we have developed a manufacturing technology that allows the chemotherapeutics to be encapsulated and delivered directly to the affected tissues without causing the side effects to the immune, hypothalamic systems or neuro pathways.
+Competition
+ 
+Currently, there are no non-lethal fertility control products that target rodents. Products that are used for managing rodent infestations include rodenticides, kill devices and traps.
+ 
+Rodenticides
+ 
+Rodenticides are poisons that use anticoagulants or phosphides to cause rodent death.
+ 
+Anticoagulants can be single dose (i.e., second generation) or multiple dose (i.e., first generation) rodenticides. Generally, death occurs within one to two weeks after ingestion of lethal amounts. These poisons work by blocking the rodent’s blood clotting ability. In addition, they include chemicals that cause damage to tiny blood vessels, or capillaries, resulting in diffuse internal bleeding. These effects are gradual, developing over several days. In the end, the animal dies calmly, but leading up to death the rodent is likely to experience discomfort and pain. As a result, we believe that the use of anticoagulants is inhumane.
+
+11
+--
+
+ 
+
+First generation anticoagulants are generally less toxic than second generation products, so they have shorter elimination half-lives, but they also require higher concentrations and consecutive intake over days to be lethal. First generation anticoagulants are marketed under a variety of brands such as Ramik, Rodex, Tomcat and Rozol and contain active ingredients such as warfarin, chlorophacinone, diphacinone or coumatetralyl. Second generation anticoagulant rodenticides, or SGARs, known as “superwarfarins,” are far more toxic than first generation rodenticides so they are applied in lower concentrations. Most are lethal after a single ingestion of bait. SGARs are also available under a variety of different brand names, including d-CON, Havoc, Di-Kill, Jaguar, Hawk, Boot Hill and Hombre. These products contain active ingredients such as difenacoum, brodifacoum, difethialone, flocoumafen, and bromadiolone. Companies that manufacture anticoagulants include Reckitt Benckiser Group plc, Syngenta, Bayer CropScience, BASF, Neogen and Liphatech.
+ 
+Metal phosphides are considered single-dose fast acting rodenticides; death occurs commonly within one to three days after single bait ingestion. Death is caused by an acid in the digestive system of the rodent that reacts with the phosphide to generate the toxic phosphine gas. Metal phosphides have possible use in places where rodents are resistant to some of the anticoagulants. Zinc phosphide baits are also cheaper than most second-generation anticoagulants. They are marketed under brands that include Prozap, Eraze, and Ridall-Zinc by Neogen, MotomCo and Liphatech, respectively.
+ 
+Rodenticide manufacturers compete by introducing new products to meet the changing demand of consumers, expansions and investments, acquisitions, and entering into strategic alliances with distributors and companies that have expertise in the rodenticide market. As a result, we believe the degree of competition in the rodenticide market is high. The market is highly concentrated among a few large rodenticide manufacturers, such as Syngenta, Bayer CropScience, BASF, Neogen and Liphatech. Also, there are high barriers to entry into the rodenticide market due to extensive capital investment and regulatory approval requirements.
+ 
+Traps
+ 
+Trapping is an option for those looking for a non-lethal way to manage a rodent infestation. There are several types of traps including spring, or snap traps, cage traps, glue traps and electronic traps. Often traps merely injure and trap the rodent still alive. Trapped rodents will do anything to free itself, including chewing off its limbs. Also, rats are relatively intelligent animals and can learn to avoid traps. Further, the use of traps is less popular in urban centers and among pest control companies. Therefore, traps are a less common alternative to rodenticides as a form of rodent control. Companies that manufacture traps include Victor, Havahart, Rat Zapper, Real-Kill, J.T. Eaton and others.
+Kill Devices
+ 
+Goodnature self-resetting kill traps, from New Zealand, are becoming widely used in conservation and island areas. Rats are attracted by a long-life lure that triggers a powerful impact that kills animals instantly and more humanely than other products. These traps are easy to install and maintain and can kill up to 24 rats per CO2 canister, thus reducing the amount of man hours needed to maintain the traps.
+Animal Fertility Control
+ 
+Animal fertility control has been in research and development for almost 30 years. GonaCon (GnRH) is the current product for fertility control approved by the USDA. GonaCon is injected into an animal and the animal must receive a booster after two years to maintain efficacy. The formula is typically provided through a dart gun and the animals should be marked so that the booster can be given at a later date. This is an extremely challenging delivery method for any wild animal in a natural environment. ZonaStat-H (PZP), a fertility product used since the late 1980’s for wild horses and burros, is delivered in the same manner as Gonacon. The only oral fertility product on the market is an avian product, developed by Innolytics, LLC in collaboration with the USDA Animal and Plant Health Inspection Service, and is made specifically for pigeons.
+Government Regulation and Product Approval
+ 
+Federal, state and local government authorities in the United States regulate, among other things, the testing, manufacturing, quality control, approval, labeling, packaging, storage, record-keeping, distribution and marketing of the products we develop. Our wildlife and pest fertility control products must be approved by the EPA Office of Pesticide Programs, or OPP, before they can be legally marketed and sold in the United States. The process for obtaining regulatory approval and compliance with appropriate federal, state and local regulations is rigorous and requires the expenditure of substantial time and financial resources.
+
+12
+--
+
+ 
+
+Additional product candidates in our pipeline may require approval from other government agencies, namely the USDA and FDA. In 2015, the FDA and EPA entered into a “data sharing” agreement to streamline data review and speed the regulatory process avoiding redundancy where possible.
+ 
+United States Review and Approval Processes
+ 
+In the United States, the EPA regulates the sale, distribution and use of any pesticide under the Federal Insecticide, Fungicide and Rodenticide Act, or FIFRA. The EPA defines a pesticide as “any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest.” FIFRA defines a pest as “any insect, rodent, nematode, fungus, or weed.” To register a new product, all active ingredients within the product must be registered with the EPA.
+ 
+On August 23, 2015, we submitted a set of registration applications for two active ingredients and a formulated product – ContraPest - for EPA review and approval. Our application for ContraPest was submitted as a restricted use, indoor only, application. A restricted use product can only be handled by a certified pest control operator. The requirements for an application are specified in detail by EPA regulations. These include requirements for data on which the EPA can evaluate the environmental effects, health effects, and safety of the product. The environmental effects data is reviewed by the Environmental Fate and Effects Division, or EFED. The health effects data is reviewed by the Health Effects Division, or HED.
+ 
+Prior to submission, our active ingredients and product information were reviewed by the Hazard and Science Policy Council, or HASPOC, which includes HED members, and data waiver requests were granted for all of the required toxicology studies. EFED also reviewed the applications, and provided certain recommendations for testing, which were incorporated into our filing.
+ 
+Upon filing an application with the OPP Registration Division (RD), there was a preliminary screen, where the application was initially reviewed for all required sections regarding chemistry, toxicity and environmental fate. As per the registration process once the preliminary screen is finished, the review period begins. Under the timelines set forth by the Pesticide Registration Improvement Extension Act (PRIA 3), RD has 20 months to review the application and reach a registration decision. Once the review period begins, RD will disperse the application to all the applicable science departments for an in depth review. For an application with an official review period greater than six months, OPP has 90 days in which it may identify any substantive science omissions and may reject the application unless the applicant can correct the omissions within 10 business days. This technical screening review period passed without EPA raising any issue. After completing the science reviews, each department will make its recommendations to RD. Based on these science recommendations, RD may decide it needs additional data and will contact the applicant with options for proceeding, which may include extending the review period until requisite data or other information can be developed and submitted for review. If RD has sufficient information, it will develop its initial risk and registration decisions, which it will articulate and publish in a document for public comment. RD decided that it had sufficient data from our application and published the document for public comment on June 24, 2016. After the 30-day public comment period, OPP reviewed the public comments to address any additional concerns. This is considered one of the final steps prior to approval of a registration.
+ 
+The EPA also requires that the following be submitted for review, in addition to data: a complete copy of the label proposed for the product, instructions for use and any claims that will be made by us, as well as, the complete formulation. We are also required to submit documentation describing the chemistry, manufacturing process and quality control parameters. This is done to ensure the product can be produced consistently. The entire submission must be reviewed and approved prior to any legal sales and distribution of the product. The EPA granted registration approval for ContraPest effective August 2, 2016. This EPA approval was granted on a restricted-use basis, including indoor and limited outdoor use, and is based on a liquid formation. We intend to diligently pursue additional related regulatory approvals from the EPA to support our product evolution, including seeking approval for full outdoor use, removal of the restricted-use status, alternative formulations and for additional species (utilizing already approved active ingredients). In addition, we believe that the EPA will support us in facilitating regulatory reviews outside of the U.S., and we are exploring a relationship with the Danish Environmental Protection Agency to assist us with obtaining regulatory approvals in the EU.
+ 
+
+13
+--
+
+ 
+
+We have submitted for registration in each state, since product registration is required for every state in which the product will be distributed or sold. Each state has its own registration filing requirements. These registration programs are managed by state agricultural and/or environmental regulatory agencies. For some state registration applications, all that is required is the EPA stamped-approved label, a completed application form, and a fee payment. Other states, notably California, New York, and several others, require more robust registration applications and may require data not required by EPA. ContraPest has received registration from the regulatory agencies of Alabama, Alaska, Arizona, Arkansas, Colorado, Delaware, District of Columbia, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nevada, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, South Carolina, Tennessee, Texas, Utah, Vermont, Virginia, Washington, W. Virginia, Wisconsin, and Wyoming . Registrations in additional states are currently pending. States vary in the expected timing of approval, from a few weeks to several months.
+ 
+International Review and Approval Processes
+ 
+Canada — Canada also has a product registration program similar to the U.S. program. Canada has entered into a data and review agreement with EPA intended to expedite the approval process. We intend to submit an application to PMRA during 2017.
+European Union — The European Chemicals Agency (ECHA) is a decentralized agency of the European Union, or EU. The agency is responsible for the scientific evaluation of chemicals intended for use in human health and the environment developed by companies for use in the EU. The agency has a biocidal product committee that is responsible for the review of any biocidal product and active substances. A biocidal product is used to control unwanted organisms that are harmful to human or animal health, or that cause damage to human activities. These harmful organisms include pests (e.g. insects, rats or mice) and microorganisms (e.g. molds or bacteria). Biocidal products include: insecticides, insect repellents, disinfectants, preservatives for materials, and anti-fouling paints. The biocidal product committee has similar but more stringent requirements to those of the EPA in the United States, requiring that evidence of purity, safety, efficacy, and consistency of manufacturing processes all be demonstrated.
+ 
+The member state where the biocidal product will be placed on the market is responsible for authorizing the product. This is referred to as the ‘National authorization’. The process of national authorization relies however on the process of mutual recognition. Once a biocidal product is authorized by a first EU country (the ‘Reference Member State’), the other EU countries must, if requested to do so, authorize the biocidal products under the same terms and conditions. Some products can also be authorized at EU level, allowing the companies to place these on the entire EU market. In these cases, it is the European Commission that authorizes the products. This is referred to as the ‘Union authorization’.
+ 
+In March 2016, ECHA decided to move toward a comparative assessment for rodenticides registered as a biocide. A comparative assessment will evaluate the risks and benefits of each rodenticide and a standard will be set for rodenticides based on this information. When a new rodenticide files for registration, it must meet this standard or best this standard to be accepted. This comparative assessment will be carried out by the Reference Member State. Representatives from various member states met in Helsinki the second week of June 2016 to determine which products or active ingredients will be used to set the standard for rodenticides. ECHA has moved to support the 5-year renewal, not the traditional 10-year renewal, of eight anticoagulant rodenticides.
+ 
+On July 4, 2016, we met with the Danish Environmental Protection Agency (DEPA) for a pre-meeting to discuss the registration of ContraPest in the EU. This meeting was to determine if DEPA was willing and capable to review and support a ContraPest dossier. DEPA agreed they would have the capacity to support a ContraPest dossier and they have executed their commitment as the competent authority to carry our EU registration application forward. We are engaged in ongoing discussions with DEPA to establish the application content.
+ 
+United Kingdom — In addition to registration routes listed above, the UK has a data sharing agreement with the United States, Australia, and New Zealand for any wildlife fertility management product, allowing for a potentially expedited registration process.
+Australia — The Australian Pesticides and Veterinary Medicines Authority, or APVMA, is an Australian government statutory authority established in 1993 to centralize the registration of all agricultural and veterinary products into the Australian marketplace. Previously each State and Territory government had its own system of registration. The APVMA assesses applications from companies and individuals seeking registration so they can supply their product to the marketplace. Applications undergo rigorous assessment using the expertise of the APVMA’s scientific staff and drawing on the technical knowledge of other relevant scientific organizations, Commonwealth government departments and state agriculture departments. If the product works as intended and the scientific data confirms that when used as directed on the product label it will have no harmful or unintended effects on people, animals, the environment or international trade, the APVMA will register the product. As well as registering new agricultural and veterinary products, the APVMA reviews older products that have been on the market for a substantial period of time to ensure they still do the job users expect and are safe to use. The APVMA also reviews registered products when particular concerns are raised about their safety and effectiveness. The review of a product may result in confirmation of its registration, or it may see registration continue with some changes to the way the product can be used. In some cases the review may result in the registration of a product being cancelled and the product taken off the market.
+
+14
+--
+
+ 
+
+Rest of the World — Country-specific regulatory laws have provisions that include requirements for certain labeling, safety, efficacy and manufacturers’ quality control procedures to assure the consistency of the products, as well as company records and reports. With the exception of the EU, most other countries’ regulatory agencies will generally defer to the EPA or accept OECD compliant data in establishing standards and regulations for pest management products. Some specific in-country studies will be required for particular countries but some countries will generally accept an EPA or EU compliant dossier.
+ 
+Import Permits — Field and laboratory proof of principle studies have been conducted in other countries. In each country, import regulations have been met for the shipment of active ingredients. To date we have received import permits from Australia, New Zealand, Indonesia, Laos, and the Philippines. We expect that additional import permits will be obtained for various field trials in countries prior to registration.
+Personnel
+ 
+As of December 31, 2016, we had 27 full-time, and two part-time employees including a total of four with Ph.D. degrees. Within our workforce, 16 employees are engaged in research and development and 13 in business development, finance, legal, human resources, facilities, information technology and general management and administration. None of our employees are represented by labor unions or covered by collective bargaining agreements.
+Intellectual Property and Other Proprietary Rights
+ 
+Maintaining a strong position in the rodenticide market requires constant innovation along with a healthy research program to evolve product lines to remain competitive and relevant to the needs of the changing global marketplace. We protect the intellectual property resulting from these efforts with the broadest international patent protections available. Our proprietary data and trade secrets are protected with vigilance and attention to data exchanges among employees, consultants, collaborators and research and trade partners. We further strengthen our market position employing international regulatory expertise.
+Patent Filings
+ 
+Our intellectual property portfolio supporting ContraPest consists of nine international patent filings (in the United States, Europe, Canada, Brazil, Russia, Japan, Mexico, South Korea, and Australia) addressing the ContraPest compound. Claims directed toward the compound include composition-of-matter involving a diterpenoid epoxide or salts thereof in combination with an organic diepoxide, use claims for inducing follicle depletion and for reducing the reproductive capability of a mammalian animal or non-human mammalian population. Issued claims will have a patent term extending to 2033 or longer based on patent term determinations in each of the filing countries. The novelty of ContraPest extends to its method of field distribution and has required innovation to perfect the dosing of our product to rodents. We have filed an international patent application covering our novel bait station device to effectively and efficiently deliver our rodent bait at individual bait sites that would, if issued, offer patent term protection through at least 2036.
+License Agreements
+ 
+We have an exclusive patent license with the University of Arizona for background intellectual property that we plan to employ for future product development in the domestic animal fertility control market. The patent claims in the United States, Australia and New Zealand cover the use of 4-vinylcyclohexene diepoxide to deplete ovarian follicles in individual mammals and mammal populations. The license agreement, signed in 2005, will terminate with the last-to-expire patent claims, which have a term extending to 2026.
+
+15
+--
+
+Trade Secrets and Trademarks
+ 
+Beyond our patent right holdings, we broaden our intellectual property position with trademark, trade secret, know-how and continuous scientific discovery to accompany our product development efforts. We protect these proprietary assets with a combination of confidentially terms in all partnership agreements or as stand-alone agreements along with rights-ownership agreements and structured information transfer understandings prior to beginning any collaborative projects. We maintain the ContraPest trademark and are registering new trademarks for products from our evolving rodenticide product line and for products for mammalian species beyond rodentia.
+Data Sets
+ 
+We have exclusive use status with the EPA for the data sets we have developed and submitted to the EPA as part of our application for ContraPest. The exclusive use status applies to new active ingredients and the final formulation of the ContraPest product for a period of 10 years. For five years after the 10-year period of exclusivity, if another applicant or the EPA Administrator chooses to rely on one or more data sets that we submitted in support of an application submitted by another applicant, the new applicant must make a binding offer to compensate us and certify to EPA that it has done so. If we and the offeror cannot reach agreement on the terms of the compensation for the use of such data sets, FIFRA requires resolution by binding arbitration. The EPA rules do not describe how the compensation should be determined, and there is publicly available information about some, but not all, binding arbitration decisions. See Item 1A, “Risk Factors,” for more information regarding our intellectual property and other proprietary rights.
+Available Information
+ 
+We electronically file with the Securities and Exchange Commission (“SEC”) our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. We make available on our website at www.senestech.com, free of charge, copies of these reports, as soon as reasonably practicable after electronically filing such reports with, or furnishing them to, the Securities and Exchange Commission. The information contained in, or that can be accessed through, our website is not part of, and is not incorporated into, this Annual Report on Form 10-K.
+ 
+Directors and Executive Officers of the Registrant
+ 
+The following table sets forth certain information with respect to our directors and executive officers as of January 31, 2016:
+ 
+
+Name | Age | Position 
+------------------------+-----+-------------------------------------------------------------------------------------
+Loretta P. Mayer, Ph.D. | 67 | Chair of the Board, Chief Executive Officer and Chief Scientific Officer 
+Cheryl A. Dyer, Ph.D. | 64 | President, Chief Research Officer and Director 
+Thomas C. Chesterman | 57 | Executive Vice President, Chief Financial Officer, Treasurer and Assistant Secretary
+Kim Wolin | 61 | Executive Vice President, Operations, and Secretary 
+Grover Wickersham | 68 | Vice-Chair of the Board, Chair of Nominating and Corporate Governance Committee 
+Marc Dumont | 73 | Director 
+Bob Ramsey | 71 | Director 
+Matthew Szot | 42 | Director; Chair of Audit and Compensation Committees 
+Julia Williams, M.D. | 57 | Director 
+
