@@ -1,0 +1,372 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | BUSINESS
+--------+---------
+
+ 
+All references in this report to “Corbus,” the “Company,” “we,” “us,” or “our” mean Corbus Pharmaceuticals Holdings, Inc. and its subsidiaries unless we state otherwise, or the context otherwise indicates.
+ 
+Overview
+ 
+We are a Phase 3, clinical-stage pharmaceutical company focused on the development and commercialization of novel therapeutics that target the endocannabinoid system in the fields of autoimmunity, fibrosis, and cancer. We are developing a diverse pipeline of drug candidates across several distinct programs, including small molecules as well as biologics, while also evaluating potential external candidates complimentary to our existing programs.
+
+
+Our pipeline includes the following programs:
+ 
+
+1. | Lenabasum, a novel, synthetic, oral, cannabinoid receptor type 2 (CB2) agonist designed to resolve chronic inflammation, limit fibrosis and support tissue repair. Lenabasum is in clinical development for treatment of autoimmune diseases. We are currently evaluating lenabasum for safety and efficacy in a Phase 3 study in dermatomyositis, as well as a Phase 2 study in systemic lupus erythematosus (“SLE”). 
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. | Peripherally-restricted cannabinoid receptor type 1 (CB1) inverse agonists designed to normalize metabolic abnormalities or limit inflammation and fibrosis. We are currently evaluating these compounds in pre-clinical studies for the treatment of metabolic disorders and for fibrotic disorders. We are evaluating certain compounds as potential candidates for further clinical development. 
+3. | Novel CB2 agonists designed to limit cancer cell growth directly and reduce the fibrosis and immunosuppression in the tumor microenvironment that are associated with tumor growth, metastasis, and resistance to treatment with drugs such as checkpoint inhibitors. We are currently evaluating these compounds in pre-clinical studies for the treatment of cancer, in combination with other cancer therapies such as checkpoint inhibitors. We are evaluating certain compounds as potential candidates for further clinical development. 
+
+Our Pipeline
+
+
+
+Lenabasum for the Treatment of Autoimmune Diseases
+ 
+Lenabasum selectively binds to CB2, which is preferentially expressed on activated immune cells, fibroblasts and other cell types, including muscle and bone cells. Lenabasum reduces inflammation and limits fibrosis, without immunosuppression. Lenabasum inhibits production of inflammatory cytokines and eicosanoids, and stimulates the production of mediators (Specialized Pro-resolving Lipid Mediators) that resolve inflammation. It inhibits transformation of fibroblasts into myofibroblasts and production of fibrotic growth factors and collagen. These biologic effects have been demonstrated in cells, animal models, and humans.
+ 
+The U.S. Food and Drug Administration, or FDA, granted lenabasum Orphan Drug Designation as well as Fast Track Status for systemic sclerosis and cystic fibrosis, and Orphan Drug Designation for dermatomyositis. The European Medicines Authority, or EMA, has granted lenabasum Orphan Drug Designation for systemic sclerosis, cystic fibrosis, and dermatomyositis.
+
+
+
+4
+-
+
+
+In 2020, we announced that lenabasum did not meet the primary endpoints in our RESOLVE-1 Phase 3 study of lenabasum for the treatment of systemic sclerosis (the “RESOLVE-1 Study”) or our Phase 2b study of lenabasum for the treatment of cystic fibrosis. Currently, no patients with systemic sclerosis or cystic fibrosis are being treated with lenabasum. We are preparing the data from our RESOLVE-1 Study for publication and will decide on the next steps in the development process for systemic sclerosis pending the outcome of our Phase 3 study of lenabasum for the treatment of dermatomyositis (the “DETERMINE Study”). We are preparing the data from our Phase 2b study of lenabasum for the treatment of cystic fibrosis for publication, but currently we do not have plans for additional clinical studies in cystic fibrosis.
+
+
+In December 2018, we initiated the DETERMINE Study, our Phase 3 double-blind placebo-controlled multi-center international clinical study. The DETERMINE Study is fully enrolled with 176 patients. In January, 2021, we submitted a protocol amendment to the FDA to shorten the duration of the DETERMINE Study from 52 weeks to 28 weeks. Subjects in the DETERMINE Study are randomized to receive lenabasum 20 mg twice per day, lenabasum 5 mg twice per day, or placebo twice per day in a 2:1:2 ratio. The primary efficacy outcome, which will be measured at week 28, is the American College of Rheumatology/European League Against Rheumatism 2016 Total Improvement Score, which is a weighted composite measure of improvement from baseline in six endpoints, including Physician Global Assessment of Disease Activity, Physician Global Assessment of Extramuscular Disease Activity, Patient Global Assessment of Disease Activity, Health Assessment Questionnaire (patient-reported disability), Manual Muscle Testing, and muscle enzymes. Change from Baseline in the Cutaneous Dermatomyositis Activity and Severity Index activity (CDASI) score is one of several secondary efficacy outcomes in the Phase 3 study. All subjects in the DETERMINE study have completed their week 28 visit, and some need to complete a 28-day safety follow-up visit off study drug, with topline data expected in the second quarter of 2021.
+
+
+The design of our DETERMINE Study was based on positive data from our 16-week, Phase 2 double-blind, placebo-controlled single center study of safety and efficacy of lenabasum in patients with refractory dermatomyositis skin disease and no more than minimal active muscle involvement at baseline. Our Phase 2 study was completed in October 2017 and showed improvement in skin disease with lenabasum treatment. All subjects remained on their background standard-of-care therapy, which, for a majority of patients, included immunosuppressive therapies, throughout the study. Lenabasum treatment was also associated with numerically better improvements in multiple secondary efficacy outcomes, compared to placebo. Lenabasum was safely administered in this study, with no severe or serious adverse effects. Lenabasum was well-tolerated, with no subjects discontinuing treatment because of an adverse effect related to lenabasum.
+
+
+In our Phase 2 study of lenabasum for the treatment of dermatomyositis, the mean improvement (reduction) in the primary efficacy outcome, the CDASI score, was 9.3 points for lenabasum treatment versus a reduction of 3.7 points for placebo treatment (p = 0.04, 2-sided MMRM) at Week 16.
+ 
+
+5
+-
+
+Phase 2 Dermatomyositis Study*
+ 
+
+*Data on file.
+ 
+Our double-blind, randomized, placebo-controlled Phase 2 study of lenabasum in systemic lupus erythematosus (funded by the National Institutes of Health) is underway. The study is expected to dose 100 subjects at 15 sites. Enrollment is expected to be completed in the second fiscal quarter of 2021, and topline results are expected in the second half of 2021.
+
+
+Lenabasum has demonstrated acceptable safety and tolerability profiles in clinical studies to date.
+ 
+CB1 Inverse Agonists for the Treatment of Metabolic and Fibrotic Diseases
+ 
+CB1 is a receptor that is highly expressed in the nervous system and is also expressed in multiple cell lines outside the nervous system. A CB1 agonist is a compound that initiates a pharmacologic response when it binds to CB1. Both CB1 antagonists and CB1 inverse agonists bind to, or block, CB1 and will reduce pharmacologic effects of CB1 agonists. A CB1 inverse agonist binds CB1 but also induces a pharmacological response opposite to a CB1 agonist. Testing of CB1 antagonists and CB1 inverse agonists in animal studies has shown improvement in models of metabolic diseases, including diet-induced obesity, diabetes, diabetic nephropathy, diabetic retinopathy, metabolic syndrome, non-alcoholic steatohepatitis, fibrotic diseases including (lung, cardiac, renal disease, and liver fibrosis), and other diseases including ascites, cognitive defects, Prader-Willi syndrome, and smoking cessation.
+
+
+
+6
+-
+
+
+In the nervous system, CB1 regulates neurotransmission. Despite the positive results observed in animal studies of CB1 antagonists and CB1 inverse agonists for the treatment of certain diseases, treatment with a particular CB1 inverse agonist, rimonabant (brand name, Acomplia), has also been associated with increased risk of anxiety, depression, and suicidality in humans that led in October 2008 to the withdrawal of rimonabant from the European market, where it had been approved for treatment of obesity.
+ 
+Importantly, data shows that the metabolic effects of blocking CB1 are mediated by CB1 in the periphery, not the central nervous system. This has led to efforts to develop drugs that block CB1 only outside the central nervous system, to avoid adverse central nervous system effects seen with rimonabant when treating metabolic diseases. When considering treatment of metabolic diseases, CB1 is known to have reciprocal functional activities with the incretins glucose-dependent insulinotropic polypeptide, or GIP, and glucagon-like peptide-1, or GLP-1. This is of importance because recent data show that GIP/GLP-1 receptor agonists semaglutide and tirzepatide reduce obesity and blood sugar in humans. In animal studies, GIP/GLP-1 receptor agonists are reported to have greater metabolic effects when used in combination with CB1 inhibitors than when used as monotherapies. Beneficial effects of the combination of GIP/GLP-1 receptor agonists and CB1 inhibitors have been observed on body weight, fat mass, insulin action, dyslipidemia, and hepatic steatosis in obese diabetic mice.
+ 
+We have an exclusive worldwide license to develop, manufacture and market drug candidates from more than 600 compounds that have been developed primarily to serve as CB1 inverse agonists with limited blood-brain-barrier penetration, to lessen risks of CB1-mediated central nervous system adverse effects. 
+ 
+We have identified and are conducting pre-clinical studies of several CB1 inverse agonists that have shown low exposure in the brain compared to the plasma. As shown below, the area under the curve exposure in the brain is less than 5-10% of that in the plasma for some of our compounds in murine studies.
+ 
+Novel CB1 Inverse Agonists Have Low Plasma: Brain Ratios*
+ 
+
+*Data on file.
+ 
+
+7
+-
+
+
+Some of these compounds have shown metabolic effects in a diet-induced obesity (DIO) murine model, preventing weight gain, or inducing weight loss and improving glucose tolerance. In the experiment shown below, mice received a high fat diet for 16 weeks to induce obesity and glucose intolerance, then continued to receive high fat diet while receiving oral compounds for 4 weeks. Treatment with CRB cmpd C gave dose dependent decreases in body weight that were similar to the positive control rimonabant. At the same doses, but lower exposures, cmpd D appeared to prevent the body weight gains associated with vehicle, though the differences were not statistically significant. However, CRB cmpd D gave exposures that were ~7-12 fold lower than exposures for the same dose of CRB cmpd C, so results for CRB cmpds C and D should not be compared directly. CRB cmpd D (5 mg/kg and 10 mg/kg) significantly reduced blood glucose levels at 15 minutes and 30 minutes post glucose challenge indicating improvement in glucose tolerance. Note that 1 hour after the last study dose, the brain-plasma ratio for CRB cmpd C was 0.04 (5 mg/kg) and 0.02 (10 mg/kg) and for CRB cmpd D was 0.04 for both doses.
+ 
+Novel CB1 Inverse Agonists Prevent Weight Gain or Induce Weight Loss in a Diet-Induced Obesity Model*
+ 
+
+Diet-Induced Obesity Treatment Results: Mouse body weight change induced by study controls Pioglitazone and rimonabant compared to CRB Compounds (cmpd) C and D. Data are means of n = 10 animals per time point. Day 0 = start of investigational compound dosing.
+* Data on file. Presented at New York Academy of Sciences Webinar on January 27, 2021.
+ 
+Novel CB1 Inverse Agonists Improve Glucose Tolerance in a Diet-Induced Obesity Model*
+ 
+
+Glucose Tolerance Test: Oral glucose challenge was performed on Day 25. Data are means of n = 5/group. *p < 0.05.
+
+* Data on file. Presented at New York Academy of Sciences Webinar on January 27, 2021.
+ 
+Some of the CB1 inverse agonist compounds we are evaluating have demonstrated anti-inflammatory and anti-fibrotic effects, as well as the inhibition of inflammatory cytokine production and the fibroblast to myofibroblast transition in pre-clinical studies.
+
+
+For some of the CB1 inverse agonists, we will further evaluate drug exposure and CB1 occupancy in the brain, relative to the periphery, following chronic dosing in several animal species including non-human primates. We have planned other pre-clinical studies to fully characterize effects of these compounds in animal models of metabolic diseases and fibrosis. We also plan to test metabolic effects of our CB1 inverse agonists in combination with GLP-1 receptor agonists in animal models.
+ 
+We believe that CB1 inverse agonists with limited CB1 receptor occupancy in the brain may potentially be a safe and effective treatment for metabolic, fibrotic and other diseases. We intend to begin IND-enabling studies with a CB1 inverse agonist (yet to be selected) in 2021 and begin Phase 1 testing in 2022.
+ 
+
+8
+-
+
+
+Novel CB2 agonists for treatment of cancer
+ 
+The role of the endocannabinoid system in cancer has been widely researched and is a focus of current oncology research. Unregulated expression of cannabinoid receptors and the elevated levels of endocannabinoids have been observed in a variety of cancer cells (skin, prostate, and colon cancer, hepato- cellular carcinoma, endometrial sarcoma, glioblastoma multiforme, meningioma and pituitary adenoma, Hodgkin lymphoma, chemically induced hepatocarcinoma, mantel cell lymphoma). For example, CB2 expression in breast cancer biopsies correlates with negative clinical outcomes.
+
+
+Pre-clinical studies of CB2 agonists in tumor models in vitro and in vivo have shown positive data, with a decrease in tumor growth and progression observed. Similarly, plant-derived cannabinoids such as tetrahydrocannabinol and cannabidiol have shown activity in pre-clinical models of cancer. Several pathways downstream from CB2 have been proposed to mediate possible anti-cancer activities of CB2 agonists, as shown in the figure below.
+
+
+Proposed CB2 Pathways for Anti-Cancer Activities*
+ 
+
+*Pisanti S, Picardi P, D'Alessandro A, Laezza C, Bifulco M. The endocannabinoid signaling system in cancer. Trends Pharmacol Sci. 2013 May;34(5):273-82. doi: 10.1016/j.tips.2013.03.003. Epub 2013 Apr 17. PMID: 23602129.
+ 
+We have several novel CB2 agonists (which also function as CB1 agonists) that have reduced proliferation of some human tumor cell lines in vitro (some Her2+ breast cancer, estrogen receptor+ breast cancer, triple negative breast cancer, lymphoma, non-small cell lung cancer, and glioblastoma cell lines) in our pre-clinical studies. A time-dependent reduction in phosphorylation of Her2 on Her2+ HCC1954 breast cancer cells in vivo has been observed as shown in the first panel in the figure below. In this experiment, HCC1954 Her2+ breast cancer cells were cultured with vehicle (DMSO) or CRB cmpd DD for different times. Densitometric analysis of the relative expression of the phosphorylated Her2 vs. total Her2 protein was determined. CRB cmpd DD suppressed Her2 phosphorylation in vitro in HCC1954 cells.
+
+9
+-
+
+
+We have conducted pre-clinical studies with our CB2 agonists that have shown a reduction in tumor volume of human Her2+ breast cancer cell HCC1954 (shown in the second panel in the figure below) and a triple negative breast cancer in xenograft murine models. In the experiment shown below, female Balb/c nude mice (n = 10/group) were injected in the flank with HCC1954 Her2+ breast cancer cells. Pharmacological treatments for 21 days with vehicle or CRB cmpd DD were started when tumors reached 90-180 mm3,with BKM-129 serving as a concurrent positive control. Tumor dimensions were measured using a caliper and used to calculate tumor volume.
+ 
+A CB2 Agonist Inhibits Her2 Phosphorylation in vitro in a Cancer Cell Line and in vivo in a Her2+ Tumor Cell Growth in a Xenograft Model
+ 
+
+* Data on file. Presented at New York Academy of Sciences Webinar on January 27, 2021.
+ 
+We are conducting and plan to commence additional pre-clinical studies to define the range of anti-cancer effects of our CB2 agonist compounds and the underlying pathways for these effects. We also plan to test efficacy of these compounds as monotherapy and in combination with other anti-cancer agents such as checkpoint inhibitors, in animal models. We believe that it will be important to demonstrate that these compounds add to the efficacy seen with checkpoint inhibitors alone in animal models before moving these compounds into clinical development. We intend to begin IND-enabling studies with a CB2 inverse agonist (yet to be selected) in 2021 and begin Phase 1 testing in 2022.
+Lenabasum Market Opportunity and Developed Competitive Landscape
+ 
+Dermatomyositis
+ 
+Dermatomyositis is a serious and rare autoimmune idiopathic inflammatory myopathy with characteristic cutaneous findings. About 80,000 individuals in the U.S., Europe and Japan suffer from dermatomyositis. Dermatomyositis usually strikes adults, with common age of onset in adults between 50-60 years of age.
+ 
+This systemic disorder most frequently affects the skin and muscles, and dermatomyositis can also include interstitial lung disease/restrictive lung disease, arthritis, gastrointestinal and cardiac involvement. Inflammatory muscle disease associated with dermatomyositis can cause discomfort and significant weakness of the proximal muscles of the arms and legs and of the trunk. Dermatomyositis can include damaging inflammation elsewhere in the body, for example: lung inflammation that leads to lung fibrosis and restrictive lung disease; heart inflammation that causes arrhythmia, congestive heart failure, and pericarditis; inflammation of muscles in the esophagus that causes swallowing problems or aspiration pneumonia; and arthritis. Dermatomyositis patients may have active skin disease despite successful treatment of their muscle and/or lung disease. The skin findings in dermatomyositis can be disfiguring and are inflammatory rashes characterized by redness and itching in exposed areas of the skin, around the eyes, on the hands, and in a “shawl” distribution on the scalp, hands, upper back, and photo-exposed areas. Patients with dermatomyositis have an increased risk of malignancy, most commonly in older patients. By itself, skin involvement in dermatomyositis has a large negative impact on quality of life, comparable to that of cutaneous lupus erythematosus, and much higher than many dermatologic diseases.
+ 
+Typically, people with dermatomyositis are prescribed immunosuppressive therapies. These therapies may be associated with significant side effects, such as serious infections. FDA-approved treatments for dermatomyositis include systemic corticosteroids and adrenocorticotropic hormone analogue. Additionally, a Phase 3 study of Octagam® 10% in dermatomyositis (NCT02728752) was reported in 2020 to achieve its primary endpoint. 
+ 
+We believe that a safe and effective drug that controls inflammation in the skin, muscles, and other organs and improves overall disease would address a significant unmet medical need in dermatomyositis, particularly a non-immunosuppressive drug like lenabasum.
+
+
+
+10
+--
+
+Systemic Lupus Erythematosus
+ 
+Systemic lupus erythematosus (SLE) is a prototypical autoimmune disease with a wide array of clinical manifestations, including arthritis, rash, photosensitivity, oral ulcers, pleuritis, pericarditis, kidney problems, seizures and psychosis and blood cell abnormalities. About 550,000 individuals in the U.S., Europe and Japan suffer from SLE. The musculoskeletal system is the most commonly involved system in SLE. Patients with SLE have an increased frequency of related autoimmune problems, such as Sjogren’s syndrome and antiphospholipid syndrome that require additional treatments. Systemic lupus erythematosus may occur with other autoimmune conditions, such as thyroiditis, hemolytic anemia, and idiopathic thrombocytopenia purpura.
+ 
+The pathology of SLE involves chronic activation of the innate immune system by immune complexes, with activation of the complement cascade, increased production of type 1 interferons and other mediators of inflammation, generation of specific immunity against self-antigens, and resultant tissue inflammation and damage.
+ 
+Medicines specifically approved by the FDA for treatment of SLE are aspirin, hydroxychloroquine, corticosteroids (for example, prednisone), the corticotropin injection Acthar® and the immunosuppressive drug Benlysta®. Other drugs that are not specifically FDA approved for SLE may be prescribed by physicians, including methotrexate, mycophenolate, azathioprine, and cyclophosphamide. These treatments may be associated with significant side effects, such as serious infections.
+ 
+We believe that a safe and effective drug that controls inflammation in the joints and skin as well as improves overall disease activity will address a significant unmet medical need in SLE, particularly a non-immunosuppressive drug like lenabasum.
+ 
+Sales and Marketing for Lenabasum
+ 
+We are developing our commercial capabilities in anticipation of potential FDA approval for lenabasum. Our intent is to commercialize lenabasum ourselves in the United States with a targeted customer-facing organization to call on treating specialists and payers. In Europe we are evaluating potential partnerships for the commercialization of lenabasum as well as considering the option of commercializing ourselves. In Japan we granted exclusive license rights to Kaken Pharmaceutical Co., Ltd., or Kaken, for the commercialization of lenabasum for the treatment of systemic sclerosis and dermatomyositis. 
+ 
+CB1 Inverse Agonist Market Opportunity
+
+
+There has been clinical interest in CB1 inverse agonists and antagonists for their potential applications in fibrosis, and metabolic disorders such as obesity. In obesity, rimonabant (brand name Acomplia), a CB1 inverse agonist, received marketing authorization in Europe in 2006 prior to its subsequent withdrawal in 2008 due to safety concerns. In fibrosis, there are two companies with pre-clinical stage CB1 inverse agonist programs. Goldfinch Bio has a preclinical program in diabetic nephropathy. Inversago has preclinical programs in diabetic nephropathy, non-alcoholic steatohepatitis, and Prader-Willi syndrome.
+
+
+We believe there is continued interest in the potential benefits of reducing obesity in diabetic and other at-risk populations. Recent data from two large clinical studies have demonstrated significant effects of GLP-1 agonists on weight loss in a diabetic population. As of 2019, the market size for GLP-1 agonists was estimated at over $10 billion and expected to grow based on a 2016 estimate of approximately 1.9 billion adults worldwide who are overweight and at increased risk of developing diabetes.We believe a CB1 inverse agonist that avoids the potential central nervous system adverse effects associated with Acomplia could have potential clinical utility in helping treat metabolic disorders.
+
+
+
+11
+--
+
+Market Opportunity for CB2 Agonists That Add Benefit to Immune Checkpoint Inhibitors
+ 
+The emergence of immune checkpoint inhibitors, or ICIs has transformed the treatment paradigm for multiple cancers. The ICI market reached $24 billion worldwide in 2019 and is projected to grow to more than $50 billion by 2026. However, as of 2019, it is estimated that as few as 44% of patients are eligible to receive and only 12.5% of all patients respond to an ICI. Even for patients who achieve a response, disease progression often occurs due to resistance mechanisms. Therefore, therapies that combine with checkpoint inhibitors to improve outcomes, for example by altering the tumor microenvironment to reduce immunosuppression or fibrosis, may offer an attractive commercial opportunity. We are currently planning to conduct pre-clinical studies of certain of our CB2 agonist compounds with ICIs for the treatment of certain cancer indications.
+Intellectual Property
+ 
+We have filed patent applications directed to lenabasum, compositions and methods for treating disease using lenabasum. If granted, the resulting patents would expire on dates ranging from 2031 to 2034, subject to extension under certain circumstances. The patent application filings are directed to:
+
+● | Compositions including an improved ultrapure version of lenabasum and uses of the compositions for the treatment of fibrotic conditions and inflammatory conditions; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | The use of lenabasum in the treatment of fibrotic diseases; and 
+● | Lenabasum formulations and uses of the formulations for the treatment of disease. 
+
+Issued Patents
+ 
+On August 6, 2019, the U.S. Patent and Trademark Office (“USPTO”) issued U.S. Patent No. 10,369,131 to the Company with claims covering the use of pharmaceutical compositions comprising lenabasum for the treatment of dermatomyositis. The patent provides exclusivity in the U.S. for this use of lenabasum to February 12, 2034.
+
+12
+--
+
+
+On December 18, 2018, USPTO issued U.S. Patent No. 10,154,986 to the Company with claims covering pharmaceutical compositions of lenabasum. The patent provides exclusivity in the U.S. for these lenabasum compositions to February 12, 2034.
+ 
+On October 3, 2018, the USPTO issued U.S. Patent No. 10,085,964 to the Company with claims covering the use of pharmaceutical compositions comprising lenabasum for the treatment of all fibrotic diseases, encompassing Corbus’ lead indications systemic sclerosis, cystic fibrosis and others. The patent provides exclusivity in the U.S. for this use of lenabasum to February 12, 2034.
+ 
+On October 31, 2017, the USPTO issued U.S. Patent No. 9,801,849 to the Company with claims covering the use of pharmaceutical compositions comprising lenabasum, for the treatment of all inflammatory diseases. The patent provides exclusivity in the U.S. for this use of lenabasum to February 12, 2034.
+ 
+On November 27, 2017, the USPTO issued U.S. Patent No. 9,820,964 to the Company with claims covering the use of pharmaceutical compositions comprising lenabasum for the treatment of all fibrotic diseases, encompassing the Company’s lead indications systemic sclerosis, cystic fibrosis and others. The patent provides intellectual property protection in the United States for this use of lenabasum to February 12, 2034.
+ 
+On September 20, 2018, we entered into an exclusive license agreement with Jenrin Discovery, LLC which provides us with an exclusive worldwide license to develop and market cannabinoid compounds covered by the Jenrin issued patents and patent applications that cover the composition and method of use of selective cannabinoid receptor modulators. The Jenrin intellectual property portfolio includes sixteen granted United States patents, one pending United States application and twenty-two granted or pending foreign patents and applications. This portfolio includes U.S. Patent No. 8,680,131, which granted with claims covering the cannabinoid receptor blocker CRB-4001 and methods of using the same for treating obesity related disorders, diabetes, various inflammatory disorders, various cardiometabolic disorders, various hepatic disorders, and/or various cancers. The licensed intellectual property portfolio provides intellectual property protection in the United States for CRB-4001 and these uses to July of 2033, not including any potential patent term extension.
+ 
+Lenabasum has been granted Orphan Drug Designation for cystic fibrosis, dermatomyositis and systemic sclerosis in the U.S. and in the European Union and for systemic sclerosis in Japan. In addition, in systemic sclerosis and in cystic fibrosis, lenabasum has been granted a Fast Track Designation by the FDA. Orphan designation for lenabasum may be pursued for other inflammatory diseases in the U.S., Europe, and Japan. Orphan drug status provides seven years of market exclusivity in the U.S. and ten years in Europe and Japan beginning on the date of drug approval.
+ 
+Our commercial success depends in part on our ability to obtain and maintain patent and other proprietary protection for lenabasum and to operate without infringing the proprietary right of others and to prevent others from infringing our proprietary rights. We strive to protect our intellectual property through a combination of patents and trademarks as well as through the confidentiality provisions in our contracts. With respect to lenabasum, we endeavor to obtain and maintain patent protection in the U.S. and internationally on all patentable aspects of the drug. We cannot be sure that the patents will be granted with respect to any patent applications we may own or license in the future, nor can we be sure that any patents issued or licensed to us in the future will be useful in protecting our technology. For this and more comprehensive risks related to our intellectual property, please see “Risk Factors—Risks Relating to Our Intellectual Property Rights.”
+ 
+In addition to patent protection, we rely on trade secrets and know-how to develop and maintain our competitive position. For example, aspects of our proprietary technology platform are based on unpatented trade secrets and know-how related to the manufacturing of lenabasum. Trade secrets and know-how can be difficult to protect. We seek to protect our proprietary technology and processes, in part, by confidentiality agreements and invention assignment agreements with our employees, consultants, scientific advisors, contractors and commercial partners. These agreements are designed to protect our proprietary information and, in the case of the invention assignment agreements, to grant us ownership of technologies that are developed through a relationship with a third party. We also seek to preserve the integrity and confidentiality of our data and trade secrets by maintaining physical security of our premises and physical and electronic security of our information technology systems. While we have confidence in these individuals, organizations and systems, agreements or security measures may be breached, and we may not have adequate remedies for any breach. In addition, our trade secrets may otherwise become known or be independently discovered by competitors. To the extent that our contractors use intellectual property owned by others in their work for us, disputes may arise as to the rights in related or resulting know-how and inventions.
+ 
+
+13
+--
+
+
+We also seek and will continue to seek trademark protection in the United States and outside of the United States where available and when appropriate. We use and intend to use these registered marks in connection with our pharmaceutical research and development as well as our product candidates.
+ 
+Manufacturing and Supply for Lenabasum and Our Other Product Candidates
+ 
+Lenabasum is a synthetic molecule and there are readily available supplies of all raw materials necessary for manufacturing lenabasum. We have developed and validated a good manufacturing practice, or GMP, to manufacture lenabasum’s active pharmaceutical ingredient and drug product through our contract manufacturers. Our existing active pharmaceutical ingredient contract manufacturer has produced multi-kilogram scale bulk batches under GMP for our on-going clinical studies and is under agreement to produce sufficient API required prior to submitting an NDA filing with the FDA. We do not own or operate manufacturing facilities for the production of lenabasum. We expect to depend on third-party suppliers and manufacturing organizations for all our pre-clinical and clinical trial quantities of raw materials and drug substance.
+Regulatory Matters
+ 
+Government Regulation
+ 
+The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations require the expenditure of substantial time and financial resources. Failure to comply with the applicable requirements at any time during the product development process, approval process or after approval, may subject an applicant to administrative or judicial sanctions. These sanctions could include the FDA’s refusal to approve pending applications, withdrawal of an approval, a clinical hold, warning letters, product recalls or withdrawals from the market, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement, or civil or criminal penalties. Any agency or judicial enforcement action could have a material adverse effect on us.
+ 
+Any product development activities related to lenabasum or products that we may develop or acquire in the future will be subject to extensive regulation by various government authorities, including the FDA, other federal, state and local agencies and comparable regulatory authorities in other countries, which regulate the design, research, clinical and non-clinical development, testing, manufacturing, storage, distribution, import, export, labeling, advertising and marketing of pharmaceutical products and devices. Generally, before a new drug can be sold, considerable data demonstrating its quality, safety and efficacy must be obtained, organized into a format specific to each regulatory authority, submitted for review and approved by the regulatory authority. The data are often generated in two distinct development states: pre-clinical and clinical.
+ 
+Development of Drugs in the United States
+ 
+Lenabasum or other products that we may develop or acquire in the future must be approved by the FDA before they may be legally marketed in the United States. For new chemical entities, the pre-clinical development stage generally involves synthesizing the active component, developing the formulation and determining the manufacturing process, and drug stability as well as carrying out non-human toxicology, pharmacology and drug metabolism studies that support subsequent clinical testing. These pre-clinical laboratory and animal tests are often performed under the FDA’s Good Laboratory Practices regulations. A drug’s sponsor must submit the result of the pre-clinical tests, together with manufacturing information, analytical data and any available clinical data or literature and a proposed clinical protocol to the FDA as part of an IND application, which is a request for authorization from the FDA to administer an investigational drug or biological product to humans. Similar filings are required in other countries.
+ 
+
+14
+--
+
+
+The clinical stage of development can generally be divided into three sequential phases that may overlap, Phase 1, Phase 2 and Phase 3 clinical trials. In Phase 1, generally, small numbers of healthy volunteers are initially exposed to single escalating doses and then multiple escalating doses of the product candidate. The primary purpose of these studies is to assess the metabolism, pharmacologic action and general safety of the drug. Phase 2 trials typically involve studies in disease-affected patients to determine the dose required to produce the desired benefits, common short-term side effects and risks. Phase 2 studies are typically well-controlled, closely monitored, and conducted in a relatively small number of patients, usually involving no more than several hundred subjects. Phase 3 trials are intended to gather the additional information about effectiveness and safety that is needed to evaluate the overall benefit-risk relationship of the drug and to provide an adequate basis for physician labeling. Phase 3 studies usually include from several hundred to several thousand subjects and are closely controlled and monitored. In addition to these Phase 1-3 trials, other trials may be conducted to gather additional safety, pharmacokinetic and pharmacodynamic information., Pharmaceutical products with active ingredients equal or similar to those already approved by the FDA often have more streamlined development programs than compounds entirely new to the agency, often skipping Phase 1 and 2 trials.
+ 
+A clinical plan must be submitted to the FDA prior to commencement of a clinical trial. If the FDA has concerns about the clinical plan or the safety of the proposed studies, they may suspend or terminate the study at any time. Studies must be conducted in accordance with good clinical practice and reporting of study progress and any adverse experiences is required. Studies are also subject to review by independent institutional review boards responsible for overseeing studies at particular sites and protecting human research study subjects. An independent institutional review board may also suspend or terminate a study once initiated. Accordingly, we cannot be sure that submission of an IND will result in the FDA allowing clinical trials to begin, or that once begun, issues will not arise that could cause the trial to be suspended or terminated.
+ 
+Post-approval studies, sometimes referred to as Phase 4 clinical trials, may be conducted after initial marketing approval. Sometimes, these studies are used to gain additional experience from the treatment of patients in the intended therapeutic condition. In certain instances, the FDA may mandate the performance of Phase 4 studies. In other situations, post-approval studies aim to gain additional indications for a medication.
+ 
+Special Protocol Assessment
+ 
+The Federal Food, Drug, and Cosmetic Act directs the FDA to meet with sponsors, pursuant to a sponsor’s written request, for the purpose of reaching agreement on the design and size of clinical trials intended to form the primary basis of an efficacy claim in an NDA. If an agreement is reached, the FDA will reduce the agreement to writing and make it part of the administrative record. This agreement is called a special protocol assessment, or SPA. While the FDA’s guidance on SPAs states that documented SPAs should be considered binding on the review division, the FDA has latitude to change its assessment if certain exceptions apply. Exceptions include public health concerns emerging that were unrecognized at the time of the protocol assessment, identification of a substantial scientific issue essential to the safety or efficacy testing that later comes to light, a sponsor’s failure to follow the protocol agreed upon, or the FDA’s reliance on data, assumptions or information that are determined to be wrong.
+ 
+Review and Approval in the United States
+ 
+Following pivotal or Phase 3 trial completion, data are analyzed to determine safety and efficacy. Data are then filed with the FDA in a New Drug Application, or an NDA, along with proposed labeling for the product and information about the manufacturing and testing processes and facilities that will be used to ensure product quality. In the United States, FDA approval of an NDA must be obtained before marketing a pharmaceutical product. The NDA must contain proof of safety, purity, potency and efficacy, which entails extensive pre-clinical and clinical testing.
+ 
+The FDA will likely re-analyze the clinical trial data, which could result in extensive discussions between the FDA and us during the review process. The review and evaluation of applications by the FDA is extensive and time consuming and may take several years to complete. The FDA may conduct a pre-approval inspection of the manufacturing facilities for the new product to determine whether they comply with current good manufacturing practice requirements and may also audit data from clinical and pre-clinical trials.
+ 
+
+15
+--
+
+
+There is no assurance that the FDA will act favorably or quickly in making such reviews and significant difficulties or costs may be encountered in our efforts to obtain FDA approvals. The FDA may require that certain contraindications, warnings or precautions be included in the product labeling, or may condition the approval of the NDA on other changes to the proposed labeling, development of adequate controls and specifications, or a commitment to conduct post-marketing testing or clinical trials and surveillance programs to monitor the safety of approved products that have been commercialized. Further, the FDA may place conditions on approvals including the requirement for a risk evaluation and mitigation strategy, or REMS, to assure the safe use of the drug. If the FDA concludes a REMS is needed, the sponsor of the NDA must submit a proposed REMS; the FDA will not approve the NDA without an approved REMS, if required. A REMS could include medication guides, physician communication plans, or elements to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. Any of these limitations on approval or marketing could restrict the commercial promotion, distribution, prescription or dispensing of products. Product approvals may be withdrawn for non-compliance with regulatory standards or if problems occur.
+ 
+Orphan Drug Designation
+ 
+Under the Orphan Drug Act, the FDA may grant orphan drug designation to a drug intended to treat a rare disease or condition, which is generally a disease or condition that affects fewer than 200,000 individuals in the United States. Orphan product designation must be requested before submitting an NDA. After the FDA grants orphan drug designation, the identity of the therapeutic agent and its potential orphan use are disclosed publicly by the FDA. Orphan product designation does not convey any advantage in or shorten the duration of regulatory review and approval process. In addition to the potential period of exclusivity, orphan designation makes a company eligible for grant funding of up to $400,000 per year for four years to defray costs of clinical trial expenses, tax credits for clinical research expenses and potential exemption from the FDA application user fee.
+ 
+If a product that has orphan designation subsequently receives the first FDA approval for the disease or condition for which it has such designation, the product is entitled to orphan drug exclusivity, which means the FDA may not approve any other applications to market the same drug for the same indication for seven years, except in limited circumstances, such as (i) the drug’s orphan designation is revoked; (ii) its marketing approval is withdrawn; (iii) the orphan exclusivity holder consents to the approval of another applicant’s product; (iv) the orphan exclusivity holder is unable to assure the availability of a sufficient quantity of drug; or (v) a showing of clinical superiority to the product with orphan exclusivity by a competitor product. If a drug designated as an orphan product receives marketing approval for an indication broader than what is designated, it may not be entitled to orphan drug exclusivity. We have received orphan drug designation for lenabasum for cystic fibrosis and systemic sclerosis. There can be no assurance that we will receive orphan drug designation for lenabasum for DM, or additional orphan diseases.
+ 
+Drug Development in Europe
+ 
+In the European Union, our future products may also be subject to extensive regulatory requirements. Similar to the U.S., the marketing of medicinal products is subject to the granting of marketing authorizations by regulatory agencies. Also, as in the U.S., the various phases of pre-clinical and clinical research in the European Union are subject to significant regulatory controls.
+ 
+Review and Approval in the European Union
+ 
+In the European Union, approval of new medicinal products can be obtained through one of three processes: the mutual recognition procedure, the centralized procedure and the decentralized procedure. We intend to determine which process we will follow, if any, in the future.
+ 
+Mutual Recognition Procedure: An applicant submits an application in one European Union member state, known as the reference member state. Once the reference member state has granted the marketing authorization, the applicant may choose to submit applications in other concerned member states, requesting them to mutually recognize the marketing authorizations already granted. Under this mutual recognition process, authorities in other concerned member states have 55 days to raise objections, which must then be resolved by discussion among the concerned member states, the reference member state and the applicant within 90 days of the commencement of the mutual recognition procedure. If any disagreement remains, all considerations by authorities in the concerned member states are suspended and the disagreement is resolved through an arbitration process. The mutual recognition procedure results in separate national marketing authorizations in the reference member state.
+ 
+
+16
+--
+
+
+Centralized Procedure: This procedure is currently mandatory for products developed by means of a biotechnological process and optional for new active substances and other “innovative medicinal products with novel characteristics.” Under this procedure, an application is submitted to the European Agency for the Evaluation of Medical Products. Two European Union member states are appointed to conduct an initial evaluation of each application. These countries each prepare an assessment report that is then used as the basis of a scientific opinion of the Committee on Proprietary Medical Products. If this opinion is favorable, it is sent to the European Commission, which drafts a decision. After consulting with the member states, the European Commission adopts a decision and grants a marketing authorization, which is valid throughout the European Union and confers the same rights and obligations in each of the member states as a marketing authorization granted by that member state.
+ 
+Decentralized Procedure: The most recently introduced of the three processes for obtaining approval of new medicinal processes in the European Union, the decentralized procedure is similar to the mutual recognition procedure described above, but with differences in the timing that key documents are provided to concerned member states by the reference member state, the overall timing of the procedure and the possibility of, among other things, “clock stops” during the procedure.
+ 
+Post-Marketing Requirements
+ 
+Following approval of a new product, a pharmaceutical company and the approved product are subject to continuing regulation by the FDA and other federal and state regulatory authorities, including, among other things, monitoring and recordkeeping activities, reporting to applicable regulatory authorities of adverse experiences with the product, providing the regulatory authorities with updated safety and efficacy information, product sampling and distribution requirements, and complying with promotion and advertising requirements, which include, among others, standards for direct-to-consumer advertising, restrictions on promoting drugs for uses or in patient populations not described in the drug’s approved labeling (known as “off-label use”), and limitations on industry-sponsored scientific and educational activities. Although physicians may prescribe legally available drugs for off-label uses, manufacturers may not market or promote such off-label uses. Modifications or enhancements to the products or labeling or changes of site of manufacture are often subject to the approval of the FDA and other regulators, which may or may not be received or may result in a lengthy review process. The FDA regulations require the products be manufactured in specific approved facilities and in accordance with current good manufacturing practices, and NDA holders must list their products and register their manufacturing establishments with the FDA. These regulations also impose certain organizational, procedural and documentation requirements with respect to manufacturing and quality assurance activities. Drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with current good manufacturing practice and other laws. NDA holders using contract manufacturers, laboratories or packagers are responsible for the selection and monitoring of qualified firms. These firms are subject to inspections by the FDA at any time, and the discovery of violative conditions could result in enforcement actions that interrupt the operation of any such facilities or the ability to distribute products manufactured, processed or tested by them.
+ 
+Other Regulatory Matters
+ 
+Manufacturing, sales, promotion and other activities following product approval are also subject to regulation by numerous regulatory authorities in addition to the FDA, including, in the United States, the Centers for Medicare & Medicaid Services, or CMS, other divisions of the Department of Health and Human Services, the Drug Enforcement Administration, the Consumer Product Safety Commission, the Federal Trade Commission, the Occupational Safety & Health Administration, the Environmental Protection Agency, and state and local governments. These regulations include:
+ 
+● the federal healthcare program anti-kickback law which prohibits, among other things, persons from soliciting, receiving or providing remuneration, directly or indirectly, to induce either the referral of an individual, for an item or service or the purchasing or ordering of a good or service, for which payment may be made under federal healthcare programs such as the Medicare and Medicaid programs;
+ 
+
+17
+--
+
+
+● federal false claims laws which prohibit, among other things, individuals or entities from knowingly presenting, or causing to be presented, claims for payment from Medicare, Medicaid, or other government reimbursement programs that are false or fraudulent. The government may assert that a claim including items or services resulting from a violation of the federal healthcare program anti-kickback law or related to off-label promotion constitutes a false or fraudulent claim for purposes of the federal false claims laws;
+ 
+● the Federal Physician Payments Sunshine Act within the ACA, and its implementing regulations, require that certain manufacturers of drugs, devices, biological and medical supplies for which payment is available under Medicare, Medicaid or the Children’s Health Insurance Program (with certain exceptions) to report information related to certain payments or other transfers of value made or distributed to physicians and teaching hospitals, or to entities or individuals at the request of, or designated on behalf of, the physicians and teaching hospitals and to report annually certain ownership and investment interests held by physicians and their immediate family members; and
+ 
+● the Health Insurance Portability and Accountability Act, or HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act, or HITECH, and its implementing regulations, imposes certain requirements relating to the privacy, security and transmission of individually identifiable health information. Among other things, HITECH makes HIPAA’s privacy and security standards directly applicable to “business associates”—independent contractors or agents of covered entities that receive or obtain protected health information in connection with providing a service on behalf of a covered entity. HITECH also created four new tiers of civil monetary penalties, amended HIPAA to make civil and criminal penalties directly applicable to business associates and possibly other persons, and gave state attorneys general new authority to file civil actions for damages or injunctions in federal courts to enforce the federal HIPAA laws and seek attorneys’ fees and costs associated with pursuing federal civil actions.
+ 
+● applicable child-resistant packaging requirements under the U.S. Poison Prevention Packaging Act.
+ 
+● The Lanham Act and federal antitrust laws.
+ 
+● state law equivalents of each of the above federal laws, such as anti-kickback and false claims laws, which may apply to items or services reimbursed by any third-party payer, including commercial insurers, and state laws governing the privacy and security of health information in certain circumstances, many of which differ from each other in significant ways and often are not preempted by federal laws, thus complicating compliance efforts.
+ 
+Distribution of pharmaceutical products is subject to additional requirements and regulations, including extensive record-keeping, licensing, traceability, and storage and security requirements intended to prevent the unauthorized sale of pharmaceutical products
+ 
+The handling of any controlled substances must comply with the U.S. Controlled Substances Act and the Controlled Substances Import and Export Act. In the U.S., our product candidate, lenabasum, is currently classified as Schedule I controlled substance as defined in the Controlled Substance Act (“CSA”).
+ 
+Schedule I controlled substances are pharmaceutical products subject to specific regulations under the CSA, that establishes, among other things, certain registration, manufacturing quotas, security, recordkeeping, reporting, import, export and other requirements administered by the DEA. All parties responsible for the manufacturing, distribution and testing the drug in clinical studies must apply for and obtain a license from the DEA before they are permitted to perform these activities with lenabasum. Furthermore, these parties must have the security, control, recordkeeping, reporting and inventory mechanisms required by the DEA to prevent drug loss and diversion. All licensed facilities are required to renew their registrations annually if they intend to continue to work with our drug. The DEA conducts periodic inspections of certain registered establishments that handle controlled substances. We have been working with our manufacturers, distributors, exporters and clinical sites to obtain the necessary licenses to work with lenabasum. The parties responsible for the manufacturing, distribution and export of lenabasum have already applied for and have been granted DEA licenses and a number of institutions responsible for conducting our current clinical studies have also been granted DEA licenses.
+ 
+
+18
+--
+
+
+Individual states have also established controlled substance laws and regulations. Though state-controlled substances laws often mirror federal law because the states are separate jurisdictions, they may separately schedule drugs, as well. While some states automatically schedule a drug based on federal action, other states schedule drugs through rulemaking or a legislative action. The requirement for state registrations could also result in delay of the manufacturing, distribution of lenabasum or in the completion of our current clinical studies. We and our manufacturing vendors and clinical sites must also obtain separate state registrations, permits or licenses in order to be able to obtain, handle, and distribute controlled substances for clinical trials or commercial sale, and failure to meet applicable regulatory requirements could lead to enforcement and sanctions by the states in addition to those from the DEA or otherwise arising under federal law.
+ 
+Third-Party Payer Coverage and Reimbursement
+ 
+Significant uncertainty exists as to the coverage and reimbursement status of any of our drug candidates that ultimately may obtain regulatory approval. In both the United States and foreign markets, our ability to commercialize our product candidates successfully, and to attract commercialization partners for our product candidates, depends in significant part on the availability of adequate financial coverage and reimbursement from third-party payers, including, in the United States, governmental payers such as the Medicare and Medicaid programs, managed care organizations, and private health insurers. Medicare is a federally funded program managed by the CMS, through local fiscal intermediaries and carriers that administer coverage and reimbursement for certain healthcare items and services furnished to the elderly and disabled. Medicaid is an insurance program for certain categories of patients whose income and assets fall below state defined levels and who are otherwise uninsured that is both federally and state funded and managed by each state. The federal government sets general guidelines for Medicaid and each state creates specific regulations that govern its individual program. Each payer has its own process and standards for determining whether it will cover and reimburse a procedure or particular product. Private payers often rely on the lead of the governmental payers in rendering coverage and reimbursement determinations. Therefore, achieving favorable CMS coverage and reimbursement is usually a significant gating issue for successful introduction of a new product. The competitive position of some of our products will depend, in part, upon the extent of coverage and adequate reimbursement for such products and for the procedures in which such products are used. Prices at which we or our customers seek reimbursement for our product candidates can be subject to challenge, reduction or denial by the government and other payers.
+ 
+The United States Congress and state legislatures may, from time to time, propose and adopt initiatives aimed at cost containment, which could impact our ability to sell our product candidates profitably. For example, the two-year spending law signed by the President of United States on February 9, 2018 includes a provision raising the manufacturer discount to 70% in 2019 in the Medicare Part D coverage gap, also known as the “donut hole.” Under prior law, manufacturers were required to provide a 50% discount on prescription drugs purchased in the donut hole. Manufacturers of branded drugs will face much higher liabilities from donut hole payments beginning in 2019, estimated at multiple billions of dollars for some of the largest companies.
+ 
+The cost of pharmaceuticals continues to generate substantial governmental and third-party payer interest. We expect that the pharmaceutical industry will experience pricing pressures due to the trend toward managed healthcare, the increasing influence of managed care organizations and additional legislative proposals. Our results of operations could be adversely affected by current and future healthcare reforms.
+ 
+Some third-party payers also require pre-approval of coverage for new or innovative devices or drug therapies before they will reimburse healthcare providers that use such therapies. While we cannot predict whether any proposed cost-containment measures will be adopted or otherwise implemented in the future, the announcement or adoption of these proposals could have a material adverse effect on our ability to obtain adequate prices for our product candidates and operate profitably.
+ 
+
+19
+--
+
+
+In addition, in some foreign countries, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the European Union provides options for its member states to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. A member state may approve a specific price for the medicinal product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal product on the market. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will allow favorable reimbursement and pricing arrangements for any of our products. Historically, products launched in the European Union do not follow price structures of the United States and generally tend to be significantly lower.
+ 
+Employees
+ 
+We had 76 full-time employees at December 31, 2020. All our employees are engaged in administration, finance, clinical, manufacturing, regulatory and business development functions. We believe our relations with our employees are good. In addition, we utilize and will continue to utilize consultants, clinical research organizations and third parties to perform our pre-clinical studies, clinical studies, manufacturing and regulatory functions.
+Corporate Information
+ 
+Corbus Pharmaceuticals, Inc. (formerly known as JB Therapeutics Inc.), was incorporated on April 24, 2009 under the laws of the State of Delaware. On April 11, 2014, JB Therapeutics, Inc. completed a merger with Corbus Pharmaceuticals Holdings, Inc. and changed its name to Corbus Pharmaceuticals, Inc. Upon the consummation of the merger, Corbus Pharmaceuticals, Inc. became a wholly-owned subsidiary of Corbus Pharmaceuticals Holdings, Inc. which continues to operate the business of Corbus Pharmaceuticals, Inc. Our principal executive offices are located at 500 River Ridge Drive, Norwood, Massachusetts 02062, and our telephone number is (617) 963-0100. Our website address is www.corbuspharma.com.
+ 
+We make available free of charge on or through the Investor Relations link on our website, www.corbuspharma.com, access to press releases and investor presentations, as well as all materials that we file electronically with the SEC, including our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after electronically filing such materials with, or furnishing them to, the SEC. During the period covered by this Form 10-K, we made all such materials available through our website as soon as reasonably practicable after filing such materials with the SEC. In addition, the SEC maintains an Internet website, www.sec.gov, that contains reports, proxy and information statements and other information that we file electronically with the SEC.
+ 
+This report and the information incorporated herein by reference contain references to trademarks, service marks and trade names owned by us or other companies. Solely for convenience, trademarks, service marks and trade names referred to in this report and the information incorporated herein, including logos, artwork, and other visual displays, may appear without the ® or ™ symbols, but such references are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks, service marks and trade names. We do not intend our use or display of other companies’ trade names, service marks or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. Other trademarks, trade names and service marks appearing in this report are the property of their respective owners.
+ 
+
+20
+--
+

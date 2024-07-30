@@ -1,0 +1,255 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Overview
+ 
+The Company is a 25-year veteran in Business Continuity services, providing Disaster Recovery as a Service (“DRaaS”), Infrastructure as a Service (“IaaS”), Cyber Security as a Service (“CSaaS”) and Data Analytics as a Service. We provide our clients subscription based, long term agreements for Disaster Recovery as a Service solutions, Infrastructure as a Service products, telecommunications solutions, and high processing on site computing power and software solutions. While a significant portion of our revenue has been subscription based, we also generate revenue from the sale of equipment and software for cybersecurity, data storage, IBM Power systems equipment and managed service solutions.
+ 
+Headquartered in Melville, NY, we provide solutions and services to a broad range of customers in several industries, including healthcare, banking and finance, distribution services, manufacturing, construction, education, and government. We maintain an internal business development team as well as a contracted independent distribution channel. DSC’s contracted distributors have the ability to provide disaster recovery and hybrid cloud solutions and IBM and Intel Infrastructure as a Service cloud-based solutions, without having to invest in infrastructure, data centers or telecommunication services or, in specialized technical staff, which substantially lowers the barrier of entry for the distributor to provide our solutions to their client base.
+ 
+During 2020, we added new distributors, hired additional management focused on building our sales and marketing distribution, and expanded our technology assets in Dallas, TX. We also recently expanded our offering of cybersecurity solutions for remote tele-computing with ezSecurity™, a new 2020 product.
+ 
+Our target marketplace for Infrastructure as a Service and Disaster Recovery as a Service globally is estimated at over one million Virtual IBM Power servers in the finance, retail, healthcare, government, and distribution industries and sectors according to the most recent information received from IBM. While Infrastructure as a Service and Disaster Recovery as a Service solutions are our core products, we also continue to provide ancillary solutions in this market.
+ 
+For the past two decades, our mission has been to protect our clients’ data twenty-four hours a day, ensuring business continuity, and assisting in their compliance requirements, while providing better management and control over the clients’ digital information.
+ 
+Our October 2016 acquisition of the assets of ABC Services, Inc. and ABC Services II, Inc. (collectively, “ABC”), including the remaining 50% of the assets of Secure Infrastructure & Services LLC, accelerated our strategy into cloud based managed services, expanded cybersecurity solutions and our hybrid cloud solutions with the ability to provide equipment and expanded technical support. We intend to continue our strategy of growth through synergistic acquisitions.
+ 
+Our offices in New York include a technology center and lab, which are adapted to meet technology needs of the Company’s clients. In addition to office staffing, we employ additional remote staff. DSC maintains its infrastructure, storage and networking equipment required to provide our subscription solutions in four geographically diverse data centers located in New York, Massachusetts, Texas and North Carolina.
+ 
+Our Continuing Strategy
+ 
+DSC derives its revenues from long-term subscriptions, and professional services contracts related to the implementation of solutions that provide protection of mission critical data and equipment. In 2009, DSC’s revenues consisted primarily of data vaulting, de-duplication, continuous data protection and cloud disaster recovery solutions, and protecting information for our clients.
+ 
+In 2010, we expanded our solutions based on the asset acquisition of SafeData, a provider of disaster recovery and business continuity for the powerful IBM servers, Power i AS400 / AIX. The Safe Data acquisition provided the ability to provide a solution to a specialized IBM community with limited competition, a higher average revenue per client and a global marketplace.
+ 
+In August 2012, DSC entered into a Joint Venture Partnership with an IBM partner, ABC Services, Inc. to provide an IBM Infrastructure as a Service (IaaS) offering, marketed under the name Secure Infrastructure & Services LLC (“SIAS”), a New York limited liability company. In October 2016, DSC purchased the assets of ABC, which included the remaining 50% of the assets of SIAS, launching the Company into managed services, Cyber Security, Equipment and Software.
+ 
+Building on the requirement of our clients for access to cloud services, and with the growing requirement of Voice over Internet Protocol (“VOIP”), on October 19, 2017, we formed a new division, Nexxis, to provide VOIP and carrier services.
+ 
+Our Differentiation
+ 
+Focus on delivering strategic outcomes: Clients see value with our focus on solving strategic business problems. Our services are intended to allow clients to maintain business operations in a time of disaster, scale to meet their demands and focus on growing their business.
+ 
+Services that support multicloud: Clients are able to run applications or DRaaS services requiring IBM Power systems in the Data Storage Cloud with seamless connectivity to other cloud partners and providers for their specialized services providing a true multicloud experience.
+ 
+Service expertise: The expertise and commitment to client support provide by our support and service experts in IBM Power Systems, Storage, Networking, Backup and Recovery, High Availability System replication and Business Continuity. This allows us to maintain a competitive advantage in our industry.
+ 
+Close client relationships: Beginning early on in the relationship, we work with our clients identifying and solving critical business problems. We carry that through with careful planning and management of the migration and configuration process, continuing the relationship and advising our clients long after the services have been implemented. For the year ended December 31, 2020, we had a Value-Added Reseller with multiple clients accounting for 15% of our revenue and 94% of client subscriptions renewed their solutions with the Company after their initial contract term expired.
+ 
+5
+
+ 
+Partner relationships: We increase revenue and drive growth for our partners by developing and managing collaborative solutions as well as joint marketing initiatives. We have a diverse community of partners, ranging from IBM Business Partners, Software Vendors, application support providers, consultants, and other cloud providers.
+ 
+Our Growth Strategies
+ 
+In order to continue to drive growth and capture our large market opportunity, key elements of our growth strategies include: 
+ 
+
+● | Core offerings and service expertise. We have developed several service offerings that solve a wide spectrum of critical business problems. Services including, Disaster Recovery, Infrastructure as a Service, Managed Cyber Security, Managed System Services and Monitoring and Migration Services for Microsoft Windows, Linux, IBM I, and AIX environments with a specialization on IBM i and AIX on Power Systems. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Marketing Strategies:
+--+----------------------
+
+
+Build out and support a robust partner channel; 
+-----------------------------------------------------------------------------
+
+
+Effectuate standardized, repeatable offerings; 
+----------------------------------------------------------------------------
+
+
+Conduct inbound marketing through search engine optimization (SEO), white papers, blogs, case studies; and 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Focus on client experience, client retention and referrals. 
+-----------------------------------------------------------------------------------------
+
+ 
+Drive sales execution: We plan to continue executing on several sales initiatives that are designed to drive continued growth in our business.
+ 
+Expand geographic reach: We believe there is significant need for our solutions on a global basis and, accordingly, opportunity for us to grow our business through international expansion as these markets increase their use of multicloud solutions.
+ 
+Leverage and expand our partner ecosystem: We benefit from close relationships with our cloud partners, allowing us to provide comprehensive services to our customers, and providing us with a source of new business opportunities and inputs for future product roadmaps.
+ 
+Pursue strategic acquisitions: We intend to continue to explore potential transactions that could enhance our capabilities, increase the scope of our technology footprint or expand our geographic reach.
+ 
+Opportunity and the Industry
+ 
+We believe businesses are increasingly under pressure to improve the proficiency of their information and storage systems accelerating the migration from self-managed IT solutions to fully managed multicloud technologies in order to reduce cost and compete effectively. These trends create an opportunity for cloud technology service providers. DSCs market opportunity is derived from the demand for fully managed cloud services across all major operating systems. According to the Gartner Forecast: IT Services, Worldwide, 2018-2024, 2Q20 Update, the managed services and cloud infrastructure services market worldwide is estimated to be $410 billion in 2020 and is expected to grow 7% annually to $502 billion in 2023.
+ 
+Cloud Services with on-demand availability of computer storage and network resources have revolutionized how companies manage their information technology systems and applications, providing businesses with greater flexibility and lower costs. Over the past several years, businesses have increasingly adopted cloud solutions to drive cost, scale, reliability benefits, increasingly turning to the use of more than one cloud solution at a time (which is referred to as multicloud) to enhance performance, ensure redundancy and resilience and provide for increased security, compliance and governance.
+ 
+We believe that both modern and legacy technologies require specialized expertise. Many companies lack the in-house resources to navigate the complexity of all this technology or manage multiple cloud instances. We believe this creates an opportunity for a cloud services provider that enables businesses to fully embrace the power of multicloud technologies and, together, deliver incredible customer experiences.
+ 
+Our Mission: To migrate clients to Infrastructure as a Service, to update clients’ Disaster Recovery as a Service and cyber security, and to provide clients data analytics. We also aim to assist our clients in the migration and continued day to day management, and in leveraging multicloud information technology, while meeting expectations for cyber security support, price and value.
+ 
+Our Core Services: We provide an array of multicloud information technology solutions in highly secure, enterprise level cloud services for companies using IBM Power systems, Microsoft Windows and Linux. Specifically, our support services cover:
+ 
+
+● | Infrastructure as a Service 
+--+--------------------------------
+
+
+● | Disaster Recovery as a Service 
+--+-----------------------------------
+
+
+● | Cyber Security as a Service 
+--+--------------------------------
+
+
+● | Data Analytics as a Service 
+--+--------------------------------
+
+Solutions and Services
+ 
+Disaster Recovery Solutions: We offer a variety of data protection and disaster recovery solutions services designed to meet our clients requirements and budgets.
+ 
+Data Backup and Data Vaulting: Our ezVault™ business-to-business data backup and date vaulting solution consists of high-speed cloud enterprise storage, de-duplication, and compression, backup and restore services which automatically scale in size with data growth. Our ezVault solution is typically accompanied by a service level agreement (SLA), such as our ezRecovery™ Disaster Recovery as a Service solution.
+ 
+Standby Server Services: Our ezRecovery™ (Disaster Recovery as a Service) solution offers organizations that require a faster recovery timeframe data vaults combined with our standby server computing, storage, and network infrastructure resources to help ensure a faster recovery time.
+  6
+
+ 
+
+High Availability Services: Our ezAvailability™ solution offers reliable, high availability and business continuity for mission critical applications with Recovery Time Objective under fifteen minutes and near zero Recovery Point Objective, with optional, fully managed real-time replication services. Our ezAvailability service consists of a full-time enterprise system, storage, and network resources, allowing quick and easily switched production workloads to our cloud when needed. Our ezAvailability services are backed by a Service-Level Agreement (“SLA”) to help assure performance, availability, and access.
+ 
+Data Mirroring Services: Our ezMirror™ solution provides replication services that mirror the clients’ storage systems and allows for recovery in our cloud.
+ 
+I-a-a-S – Full Cloud Infrastructure Production Systems: Our ezHost™ solution offers full cloud-based production systems from our data center facilities and a selection of disaster recovery solutions to meet the client’s expectations on their compute power and recovery timeframes. ezHost provides full-time, scalable compute, storage, and network infrastructure resources to run clients’ workloads on our enterprise class infrastructure. ezHost replaces the cost of support, maintenance, system administration, space, power and cooling of the typical hardware on-premises systems with a predictable monthly expense. Our ezHost services are backed by a SLA governing performance, availability, and access.
+Cybersecurity Solutions: Our ezSecurity™ solution offers a suite of comprehensive cybersecurity products that can be utilized on systems at the client’s location or on systems hosted in the DSC cloud. These offerings include fully managed endpoint security with active threat mitigation, system security assessments, risk analysis and applications to ensure continuous security and auditing for IBM systems.
+ 
+Voice & Data Solutions: Nexxis, our voice and data division, offers VoIP and data services over fiber optic networks to help keep businesses fully connected from any location. Nexxis provides, among other things, top of the line Polycom VVX color phone systems and the performance of download speeds of up to 40 GB.
+ 
+Corporate History
+ 
+On October 20, 2008, DSC consummated a share exchange transaction with Data Storage Corporation, a Delaware corporation, and DSC subsequently changed its name from Euro Trend Inc. to Data Storage Corporation.
+ 
+DSC acquired the assets of SafeData, LLC in June 2010, and the assets of Message Logic LLC, (“Message Logic”) in October 2012.
+ 
+In November 2012, DSC entered into a Joint Venture Partnership with an IBM partner, ABC Services, Inc. to provide an IBM Infrastructure as a Service (IaaS) offering, marketed under the name Secure Infrastructure & Services LLC (“SIAS”), a New York limited liability company.
+ 
+In December 2012, DSC was accepted as an IBM Service Provider for cloud solutions.
+ 
+In October 2016, DSC purchased the assets of ABC which included the remaining 50% of the SIAS.
+ 
+The result of these acquisitions and strategic alliances, combined with DSC’s legacy disaster recovery and business continuity solutions, positions DSC as a potential leader in business-to-business disaster recovery as a service, infrastructure as a service on the IBM Power servers, email compliance with software as a service (“SaaS”). DSC will continue to provide our solutions and our planned industry consolidations.
+ 
+Competitive Landscape
+ 
+The markets for the Company’s products and services are competitive and the Company is confronted by competition. Competitors in the United States include IBM, Connectria Corporation, iTech Solutions Group, Skytap Inc., Abacus Group LLC and Source Data Products. 
+ These markets are characterized by frequent product introductions and rapid technological advances. The Company’s financial condition and operating results can be adversely affected by these and other industry-wide downward pressures on gross margins. Principal competitive factors important to the Company include price, product features, relative price and performance, product quality and reliability, a strong third-party software, marketing and distribution capability, service and support and corporate reputation.
+ 
+The Company is focused on expanding its market opportunities globally related to disaster recovery and infrastructure as a service and platform as a service, primarily focused on the IBM community. These markets are highly competitive and include several large, well-funded and experienced participants.
+ 
+The Company’s future financial condition and operating results depend on the Company’s ability to continue to provide a high-quality solution as well as increase distribution of the solutions in each of the markets in which it competes.
+ 
+Recent Developments
+ 
+Flagship Solutions, LLC
+ 
+On February 4, 2021, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Data Storage FL, LLC, a Florida limited liability company and our wholly-owned subsidiary (the “Merger Sub”), Flagship Solutions, LLC (“Flagship”), a Florida limited liability company, and the owners (collectively, the “Equityholders”) of all of the issued and outstanding limited liability company membership interests in Flagship (collectively, the “Equity Interests”), pursuant to which, upon the Closing (as defined below), we will acquire Flagship through the merger of Merger Sub with and into Flagship (the “Merger”), with Flagship being the surviving company in the Merger and becoming as a result our wholly-owned subsidiary. The closing of the Merger (the “Closing”) is expected to take place on or before May 31, 2021 (the “Outside Closing Date”). Flagship is a provider of IBM Equipment and solutions, managed services and cloud solutions globally that include cloud-based server monitoring and management, 24×7 help desk support, and data center infrastructure management.
+ 
+7
+
+ 
+
+Pursuant to the Merger, all of the Equity Interests that are issued and outstanding immediately prior to the effectiveness of the filing of the Articles of Merger by Flagship and Merger Sub with the Secretary of State of the State of Florida, will be converted into the right to receive an aggregate amount equal to up to $10,500,000, consisting of $5,550,000, payable in cash, subject to reduction by the amount of any excluded liabilities assumed by us at Closing and subject to adjustment as set forth below in connection with a net working capital adjustment, and up to $4,950,000, payable in shares of our common stock, subject to reduction by the amount by which the valuation of Flagship (the “Flagship Valuation”), as calculated based on Flagship’s unaudited pro forma 2018 financial statements and audited 2019 and 2020 financial statements (the “2020 Audit”), is less than $10,500,000. In the event that the Flagship Valuation, as calculated based on the 2020 Audit, is less than $10,500,000, then, within fifteen (15) days after completion of the audit of Flagship’s financial statements for its 2019, 2020 and 2021 fiscal years (the “2021 Audit”), we have agreed to pay the Equityholders in shares of our common stock the number of shares to be determined based on the amount by which the Flagship Valuation, as calculated based on the 2021 Audit, exceeds the sum of $5,550,000 and the value of the shares merger consideration paid by us to the Equityholders at Closing. In addition, the cash merger consideration paid by us to the Equityholders at Closing shall be adjusted, on a dollar-for-dollar basis, by the amount by which Flagship’s estimated net working capital at Closing is more or is less than the target working capital amount specified in the Merger Agreement.
+ 
+The parties have agreed to indemnify each other for any losses that may be incurred by them as a result of their breach of any of their representations, warranties and covenants contained in the Merger Agreement. Our indemnification obligations are capped at 20% of the aggregate merger consideration paid to the Equityholders for any breach of our representations and warranties contained in the Merger Agreement, other than the representations and warranties set forth under Section 4.1 (Existence; Good Standing; Authority; Enforceability), Section 4.2 (No Conflict) and Section 4.4 (Brokers) (herein, “Fundamental Representations”). Our indemnification obligations in respect of any breach by us of the Fundamental Representations or in the event of our willful or intentional breach of the Merger Agreement (or acts of fraud), are not capped.
+ 
+Concurrently with the Closing, Flagship and Mark Wyllie, Flagship’s Chief Executive Officer, will enter into an Employment Agreement (the “Wyllie Employment Agreement”), which will become effective upon consummation of the Closing, pursuant to which Mr. Wyllie will continue to serve as Chief Executive Officer of Flagship following the Closing on the terms and conditions set forth therein. Flagship’s obligations under the Wyllie Employment Agreement will also be guaranteed by us. The Wyllie Employment Agreement will contain customary salary, bonus, employee benefits, severance and restrictive covenant provisions. In addition, pursuant to the Wyllie Employment Agreement, Mr. Wyllie will be appointed to serve as a member of the Board during the term of his employment thereunder.
+ 
+ The Merger Agreement further provides that it may be terminated by Flagship and the Equityholders (a “Flagship Termination”) in the event we have not consummated an underwritten public offering of our securities or listed our shares of common stock on national securities exchange such as the Nasdaq, by the Outside Closing Date as long as such failure was not due to the breach of, or non-compliance with, this Agreement by the Company or any of the Equityholders. In the event of a Flagship Termination, we will be required to pay Flagship and the Equityholders an amount equal to two (2) times their reasonable, documented, out-of-pocket attorneys’ and accountants’ transaction fees and expenses incurred prior to such Flagship Termination in connection with the Merger, up to a maximum aggregate amount of $100,000. On February 12, 2021, we filed a registration statement on Form S-1 in connection with a proposed offering of our securities. We have also applied to list our common stock on the Nasdaq. There can be no assurance that our public offering will be consummated or our uplisting to Nasdaq will be achieved.
+ 
+The foregoing information is a summary of each of the agreements involved in the transactions described above, is not complete, and is qualified in its entirety by reference to the full text of those agreements, each of which has been filed as an exhibit to this Annual Report. Readers should review those agreements for a complete understanding of the terms and conditions associated with this transaction.
+ 
+In the event the Closing is consummated on or before the Outside Closing Date, the shares of common stock to be issued as part of the Merger will be issued pursuant to exemptions from registration provided by Section 4(a)(2) and/or Regulation D of the 1933 Securities Act, as amended.
+ 
+COVID-19
+ 
+In December 2019, a novel strain of coronavirus, COVID-19, was reported in Wuhan, China. The World Health Organization determined that the outbreak constituted a “Public Health Emergency of International Concern” and declared a pandemic. The COVID-19 pandemic is disrupting businesses and affecting production and sales across a range of industries, as well as causing volatility in the financial markets. The extent of the impact of the COVID-19 pandemic on our customer demand, sales and financial performance will depend on certain developments, including, among other things, the duration and spread of the outbreak and the impact on our customers and employees, all of which are uncertain and cannot be predicted. See “Risk Factors” for information regarding certain risks associated with the pandemic.
+ 
+The COVID-19 pandemic has accelerated cloud transformation efforts for new and existing customers and underscored the importance and mission-critical nature of multicloud strategies. Over the last several months, customers have increasingly turned to cloud solutions to pivot to new business models, improved their disaster recovery of mission critical data, migrated to cloud-based solutions and reduced their capital expenditure requirements.
+ 
+In response to the COVID-19 pandemic, we implemented a number of initiatives to ensure the safety of our employees. Since March 9, 2020, over 90% of our employees work remotely. All of our employees have had the ability to work remotely utilizing solutions the Company provides to their clients and distribution channels. Additionally, our remote, technology-enabled model has enabled minimal disruption to our go-to-market efforts and service delivery organizations.
+ 
+The effects of the COVID-19 pandemic are rapidly evolving, and the full impact and duration of the virus are unknown. Currently, the COVID-19 pandemic has not had a significant impact on our operations or financial performance; however, the ultimate extent of the impact of the COVID-19 pandemic on our operational and financial performance will depend on certain developments, including the duration and spread of the outbreak and its impact on our customers, vendors and employees and its impact on our sales cycles as well as industry events, all of which are uncertain and cannot be predicted.
+ 
+On April 30, 2020, the Company was granted a loan from a banking institution, in the principal amount of $481,977 (the “Loan”), pursuant to the Paycheck Protection Program (the “PPP”) under Division A, Title I of the Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”), which was enacted on March 27, 2020. The Loan, which was in the form of a Note dated April 30, 2020, matures on April 30, 2022 and bears interest at a fixed rate of 1.00% per annum, payable monthly to Signature Bank, as lender, commencing on November 5, 2020. Funds from the loan may only be used to retain workers and maintain payroll or make mortgage payments, lease payments and utility payments. Management intends to use the entire Loan amount for qualifying expenses. Under the terms of the PPP, certain amounts of the Loan may be forgiven if they are used for qualifying expenses as described in the CARES Act. The Company intends to apply for forgiveness for the full amount.
+ 
+The extent of the impact, if any, will depend on future developments, including actions taken to contain COVID-19. See also “Risk Factors” for more information.
+ 
+Reverse Stock Split
+ 
+On March 8, 2021, our Board of Directors and our stockholders that have in excess of 50% of our voting power approved an amendment to our articles of incorporation to effect a reverse stock split with a ratio of between 1:2 to 1:60, to be effected in the discretion of our Board of Directors.
+ Joint Venture with Able-One Systems
+ On February 18, 2021, we announced a joint venture agreement with Able-One Systems Inc. (“Able-One”) to provide DSC’s portfolio of enterprise-level IBM cloud infrastructure services to customers in Canada. Able-One has provided technology solutions in Canada for over 30 years. The arrangement is effective immediately. The joint venture between DSC and Able-One is intended to fill a vital need for cloud services in Canada among businesses that run IBM Power Systems on IBM i, AIX and Linux operating systems.
+ 
+ezSecurity™ Product Launch
+ Due to the COVID-19 outbreak and the critical need for safe remote collaboration, we recently expanded our offering of cybersecurity solutions for remote tele-computing with our new product, ezSecurity™. We also launched a new remote collaboration program for small and medium-sized businesses. As part of this new program, we are offering free migration services from Microsoft Exchange to Microsoft 365, along with support for comprehensive voice communications (Hosted VoIP, IP Phones, Cloud PBX) and video conferencing. In addition, we have expanded capacity through our new Dallas data center location to accommodate increased demand for our portfolio of ezServices™, including ez-Backup™, ezRecovery™ and ezAvailability™, adding to our existing network of data centers and fiber backbone. 
+
+8
+
+ 
+ Government Regulation
+ 
+We are subject to various federal, state, local and international laws with respect to our receipt, storage and processing of personal information and other customer data.
+ 
+We receive, store, and process personal information and other customer data. Personal privacy has become a significant issue in the United States and in many other countries where we may offer our offering of solutions. The regulatory framework for privacy issues worldwide is currently complex and evolving, and it is likely to remain uncertain for the foreseeable future. There are numerous federal, state, local, and foreign laws regarding privacy and the storing, sharing, use, processing, disclosure and protection of personal information and other customer data, the scope of which are changing, subject to differing interpretations, and may be inconsistent among countries or conflict with other rules. We generally seek to comply with industry standards and are subject to the terms of our privacy policies and privacy-related obligations to third parties. We strive to comply with all applicable laws, policies, legal obligations, and industry codes of conduct relating to privacy and data protection to the extent possible. Any failure or perceived failure by us to comply with our privacy policies, our privacy-related obligations to customers or other third parties, our privacy-related legal obligations, or any compromise of security that results in the unauthorized release or transfer of personally identifiable information or other customer data, may result in governmental enforcement actions, litigation, or public statements against us by consumer advocacy groups or others and could cause our customers to lose trust in us, which could have an adverse effect on our reputation and business. Any significant change to applicable laws, regulations, or industry practices regarding the use or disclosure of our customers data, or regarding the manner in which the express or implied consent of customers for the use and disclosure of such data is obtained, could require us to modify our solutions and features, possibly in a material manner, and may limit our ability to develop new services and features that make use of the data that our customers voluntarily share with us.
+ 
+Our solutions are used by customers in the health care industry and we must comply with numerous federal and state laws related to patient privacy in connection with providing our solutions to these customers. In particular, the Health Insurance Portability and Accountability Act of 1996 (HIPAA), and the Health Information Technology for Economic and Clinical Health Act (HITECH) include privacy standards that protect individual privacy by limiting the uses and disclosures of individually identifiable health information and implementing data security standards. Because our solutions may backup individually identifiable health information for our customers, our customers are mandated by HIPAA to enter into written agreements with us known as business associate agreements that require us to safeguard individually identifiable health information. Business associate agreements typically include:
+ 
+
+● | a description of our permitted uses of individually identifiable health information; 
+--+-----------------------------------------------------------------------------------------
+
+
+● | a covenant not to disclose that information except as permitted under the agreement and to make our subcontractors, if any, subject to the same restrictions; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | assurances that appropriate administrative, physical, and technical safeguards are in place to prevent misuse of that information; 
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | an obligation to report to our customers any use or disclosure of that information other than as provided for in the agreement;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+● | a prohibition against our use or disclosure of that information if a similar use or disclosure by our customers would violate the HIPAA standards; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the ability of our customers to terminate their subscription to our solution if we breach a material term of the business associate agreement and are unable to cure the breach; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | the requirement to return or destroy all individually identifiable health information at the end of the customers subscription; and 
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | access by the Department of Health and Human Services to our internal practices, books, and records to validate that we are safeguarding individually identifiable health information. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Human Capital Resources
+ 
+We believe that our success depends upon our ability to attract, develop and retain key personnel. As of March 31, 2021, we employed 26 full-time employees and 3 part-time employees  , of which five are executive management, five are administration and finance, five are sales staff and 14 were part of our technical team. None of our employees are covered by collective bargaining agreements, and management considers relations with our employees to be in good standing. Although we continually seek to add additional talent to our work force, management believes that it has sufficient human capital to operate its business successfully.
+ 
+Our compensation programs are designed to align the compensation of our employees with our performance and to provide the proper incentives to attract, retain and motivate employees to achieve superior results. The structure of our compensation programs balances incentive earnings for both short-term and long-term performance.
+ 
+The health and safety of our employees is our highest priority, and this is consistent with our operating philosophy. Since the onset of the COVID-19 pandemic, employees, including our specialized technical staff, are working from home or in a virtual environment unless they have a requirement to be in the office for short-term tasks and projects.
+ 
+Corporate Information
+ 
+The primary mailing address for the Company is 48 South Service Road, Melville, NY 11747. Our telephone number is (212) 564-4922.
+ 
+Available Information
+ 
+Our corporate website address is www.datastoragecorp.com. All filings we make with the Securities and Exchange Commission (“SEC”), including our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K, our proxy statements and any amendments thereto filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available for free in the Investor Relations section of our website as soon as reasonably practicable after they are filed with or furnished to the SEC. The reference to our website address does not constitute inclusion or incorporation by reference of the information contained on our website in this Form 10-K or other filings with the SEC, and the information contained on our website is not part of this document.

@@ -1,0 +1,152 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. DESCRIPTION OF BUSINESS
+BACKGROUND AND CAPITAL STRUCTURE
+
+Know Labs, Inc. was incorporated under the laws of the State of Nevada in 1998. Since 2007, the Company has been focused primarily on research and development of proprietary spectroscopic technologies spanning the electromagnetic spectrum. More recently, the Company has used its proprietary Artificial Intelligence (“AI”) Deep Learning Platform to further enhance the ability of its spectroscopic technologies to accurately identify and measure a wide range of organic and inorganic materials, analytes and compositions of matter. The AI platform has recently produced revenues through the sale of Non-Fungible Tokens (“NFT”) it generated. Our Common Stock trades on the OTCQB Exchange under the symbol “KNWN.” 
+BUSINESS
+
+We are focused on the development and commercialization of proprietary biosensor technologies which, when paired with our AI deep learning platform, are capable of uniquely identifying and measuring almost any material or analyte using electromagnetic energy to detect, record, identify and measure the unique “signature” of said materials or analytes. We call these our “Bio-RFID™” technology platform when pertaining to radio and microwave spectroscopy; and “ChromaID” technology platform when pertaining to optical spectroscopy. The data obtained with our biosensor technology is analyzed with our trade secret algorithms which are driven by our AI Deep Learning platform.
+
+ChromaID is the first technology developed and patented by the Company. For the past several years, we have focused upon extensions and new patentable inventions that are derived from and extend beyond our ChromaID technology and intellectual property. We call this technology platform Bio-RFID. The rapid advances made with our Bio-RFID technology in our laboratory have caused us to move quickly into the commercialization phase of our Company as we work to create revenue generating products for the marketplace. Today, the primary focus of the Company is on its Bio-RFID technology, its commercialization and development of related patent assets. Through its wholly owned subsidiary corporations the Company works to exploit additional opportunities and markets that its broad intellectual property and trade secret portfolio addresses.
+
+The Know Labs Technology
+
+We have internally and under contract with third parties developed proprietary platform technologies to uniquely identify and measure almost any organic and inorganic material or analyte. Our patented technology utilizes electromagnetic energy along a wide range of the electromagnetic spectrum from visible light and infrared to radio and microwave wavelengths to perform analytics which allow the user to accurately identify and measure materials and analytes depending upon the specified targets or endpoints and field of use. The Company’s proprietary platform technologies are called Bio-RFID and ChromaID.
+
+Our most recent technology platform is called Bio-RFID, which utilizes spectroscopy at higher wavelengths than ChromaID’s optical range, to span radio wave and microwave segments of the electromagnetic spectrum. Working in our lab over the last three years, we have developed extensions and new inventions derived in part from our ChromaID technology which we refer to as Bio-RFID. We believe an important competitive differentiator for Bio-RFID to be its ability to not only identify a wide range of organic and inorganic materials and analytes, but to do so concurrently, and in real time, which potentially enables new multivariate models of clinical diagnostics, and health and wellness monitoring. We are rapidly advancing the development of this technology by increasing its accuracy, sensitivity, and specificity. We have announced detailed results confirming that we have successfully been able to non-invasively measure blood glucose levels in humans. 
+
+
+3
+
+
+The ability of the Company to obtain exacting results from the data obtained from its Bio-RFID sensor technology, also referred to as Radio Frequency Spectroscopy or RF Spectroscopy is a consequence of the application of the Company’s trade secret algorithms. The Company has worked for the last several years on the AI and Machine Learning (“ML”) that drives the accurate pattern recognition of its algorithms. This work has led to the development of a robust AI Deep Learning Platform. This AI Platform drives the data pattern recognition for Bio-RFID’s exacting determination of blood glucose levels. It can also provide the data recognition for blood alcohol and blood oxygen levels which the Company also identified in preliminary tests. It will provide the analytics for the long list of other analytes in the human body that the Company will pursue non-invasive detection of, many of which are set forth in the Company’s issued patent USPTO 11,033,208 B1. The Company’s AI Deep Learning Platform will be monetized through the subsidiary AI Mind, Inc. AI Mind, Inc. was incorporated on September 17, 2021 and had limited operations through September 30, 2021 but expects to begin more substantive operations next quarter.
+
+We continue to build the internal and external development team necessary to commercialize this newly discovered technology as well as make additional patent filings covering the intellectual property created with these new inventions. The first applications of our Bio-RFID technology will be in a product marketed as a Glucose Monitor. It will provide the user with real time information on their blood glucose levels. This product will require US Food and Drug Administration clearance prior to its introduction to the market, which we plan to pursue. 
+
+We have also announced the results of laboratory-based comparison testing between our Bio-RFID technology and the leading continuous glucose monitors from Abbott Labs (Freestyle Libre®) and DexCom (G6®). These results provide evidence of a high degree of correlation between our Bio-RFID technology and the current industry leaders and their continuous glucose monitors. Our patented technology is fundamentally differentiated from these industry leaders as our technology completely non-invasively monitors blood glucose levels.
+
+In addition to internal testing, the Company engaged a world-renowned research institution to perform third party validation testing of the Bio-RFID technology. The purpose of the independent pre-clinical research was to confirm that Know Labs’ Bio-RFID technology is able to precisely and non-invasively measure and identify a variety of analytes in vitro by detecting their unique radio frequency spectral responses. The results of this testing were reported in a June 8, 2021, press release and Form 8-K filing. Unfortunately, the research institution would not allow their name to be used in the press release absent the publication of the report in a peer reviewed journal, which can take considerable time. 
+
+We have begun the internal process to pursue US Food and Drug Administration (FDA) approval of our non-invasive blood glucose monitoring device as soon as possible. To guide us in that undertaking we previously announced the hiring of a Chief Medical Officer and formed a Medical and Regulatory Advisory Board to guide us through the FDA process. Additionally, we have retained third party quality assurance and documentation consultants to ensure that the rigorous requirements of the FDA are met. We are unable, however, to estimate the time necessary for such approval nor the likelihood of success in that endeavor.
+
+Our ChromaID patented technology utilizes light at the photon (elementary particle of light) level through a series of emitters and detectors to generate a unique signature or “fingerprint” from a scan of almost any solid, liquid or gaseous material. This signature of reflected or transmitted light is digitized, creating a unique ChromaID signature. Each ChromaID signature is comprised of from hundreds to thousands of specific data points. 
+
+The ChromaID technology looks beyond visible light frequencies to areas of near infra-red and ultraviolet light and beyond that are outside the humanly visible light spectrum. The data obtained allows us to create a very specific and unique ChromaID signature of the substance for a myriad of authentication, verification, and identification applications. 
+
+Bio-RFID, ChromaID and AI Deep Learning: Foundational Platform Technologies
+
+Our technologies provide a unique platform upon which a myriad of applications can be developed. As platform technologies, they are analogous to a smartphone, upon which an enormous number of previously unforeseen applications have been developed. Bio-RFID and ChromaID technologies are “enabling” technologies that bring the science of electromagnetic energy to low-cost, real-world commercialization opportunities across multiple industries. The technologies are foundational and, as such, the basis upon which the Company believes significant businesses can be built. While the Company is pursuing its core focus on commercializing its Glucose Monitor, it believes non-core clinical and non-clinical applications represent a myriad of opportunity for strategic collaboration and joint development agreements with leading companies in their respective industries.
+
+As with other foundational technologies, a single application may reach across multiple industries. The Bio-RFID technology can non-invasively identify the presence and quantity of blood glucose in the human body. By extension, there may be other analytes or molecular structures this same technology can identify in the human body which, over time, the Company will focus on. They may include the monitoring of drug usage or the presence of illicit drugs. They may also involve identifying hormones and various biomarkers of disease or pre-conditions of disease.
+
+
+4
+
+
+Similarly, the ChromaID technology can, for example effectively differentiate and identify different brands of clear vodkas that appear identical to the human eye. By extension, this same technology could identify pure water from water with contaminants present. It could provide real time detection of liquid medicines such as morphine that have been adulterated or compromised. It could detect if jet fuel has water contamination present. It could determine when it is time to change oil in a deep fat fryer. These are but a few of the potential applications of the ChromaID technology based upon extensions of its ability to identify different liquids.
+
+The AI Deep Learning Platform is an enabling technology which can identify patterns from data gathered from both the Bio-RFID and ChromaID platform technologies. The AI Deep Learning Platform is critical to the Company’s ability to identify accurately blood glucose levels and other analytes in the human body. Over time, utilizing our AI Deep Learning Platform we plan to develop analytics which, when using data collected from our sensors, will provide useful information on health and wellness to end users, and potentially lead to what the Company calls “Predictive Health.” In addition to identifying patterns, the inverse is also possible as the Company’s AI Deep Learning Platform can also create patterns in the form of 3D graphical images. That activity has found its first form in the work of the Company’s subsidiary, AI Mind, Inc., to generate beautiful 3D graphical images which were sold as NFTs providing revenue in the first quarter of fiscal year 2022, as reported in the Company’s recently filed Form 8-K and press release. The Company believes there will be future revenue generation from the sale of NFTs and from other applications of its AI Deep Learning Platform.
+
+The cornerstone of a company with a foundational platform technology is its intellectual property portfolio. We have pursued an active intellectual property strategy which includes focus on patents where appropriate and a diligent protection of trade secrets. The Company has been granted 20 patents and 6 design patents. We currently have a number of patents pending and continue, on a regular basis, the filing of new patents. We possess all right, title and interest to the issued patents. 
+
+Our Patents and Intellectual Property
+
+We believe that our 20 patents and 9 design patents, patent applications, registered trademarks, and our trade secrets, copyrights and other intellectual property rights are important assets. Our issued patents will expire at various times between 2027 and 2041. Pending patents, if and when issued, may have expiration dates that extend further in time. The duration of our trademark registrations varies from country to country. However, trademarks are generally valid and may be renewed indefinitely as long as they are in use and/or their registrations are properly maintained.
+
+The issued patents cover the fundamental aspects of the Know Labs ChromaID and Bio-RFID technology and a number of unique applications. We have filed patents on the fundamental aspects of our Bio-RFID technology and growing number of unique applications. We will continue to expand the Company’s patent portfolio. 
+
+Additionally, significant aspects of our technology are maintained as trade secrets which may not be disclosed through the patent filing process. We are diligent in maintaining and securing our trade secrets.
+
+The patents that have been issued to Know Labs and their dates of issuance are:
+
+On August 9, 2011, we were issued US Patent No. 7,996,173 B2 entitled “Method, Apparatus and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy,” by the United States Office of Patents and Trademarks. The patent expires August 24, 2029. 
+
+On December 13, 2011, we were issued US Patent No. 8,076,630 B2 entitled “System and Method of Evaluating an Object Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires November 7, 2028.
+
+On December 20, 2011, we were issued US Patent No. 8,081,304 B2 entitled “Method, Apparatus and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 28, 2030.
+
+On October 9, 2012, we were issued US Patent No. 8,285,510 B2 entitled “Method, Apparatus, and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+
+On February 5, 2013, we were issued US Patent No. 8,368,878 B2 entitled “Method, Apparatus and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+
+On November 12, 2013, we were issued US Patent No. 8,583,394 B2 entitled “Method, Apparatus and Article to Facilitate Distributed Evaluation of Objects Using Electromagnetic Energy by the United States Office of Patents and Trademarks. The patent expires July 31, 2027.
+
+
+5
+
+
+On November 21, 2014, we were issued US Patent No. 8,888,207 B2 entitled “Systems, Methods, and Articles Related to Machine-Readable Indicia and Symbols” by the United States Office of Patents and Trademarks. The patent expires February 7, 2033. This patent describes using ChromaID to see what we call invisible bar codes and other identifiers.
+
+On March 23, 2015, we were issued US Patent No. 8,988,666 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Objects Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires July 31, 2027. 
+
+On May 26, 2015, we were issued US Patent No. 9,041,920 B2 entitled “Device for Evaluation of Fluids using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires March 12, 2033. This patent describes a ChromaID fluid sampling devices.
+
+On April 19, 2016, we were issued US Patent No. 9,316,581 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Substances Using Electromagnetic Energy” by the United States Office of Patents and Trademarks. The patent expires March 12, 2033. This patent describes an enhancement to the foundational ChromaID technology.
+
+On April 18, 2017, we were issued US Patent No. 9,625,371 B2 entitled “Method, Apparatus, and Article to Facilitate Evaluation of Substances Using Electromagnetic Energy.” The patent expires July 2027. This patent pertains to the use of ChromaID technology for the identification and analysis of biological tissue. It has many potential applications in medical, industrial and consumer markets.
+
+On May 30, 2017, we were issued US Patent No. 9,664.610 B2 entitled “Systems for Fluid Analysis Using Electromagnetic Energy that is reflected a Number of Times through a Fluid Contained within a Reflective Chamber.” This patent expires approximately in approximately March 2034. This patent pertains to a method for the use of the Company’s technology analyzing fluids.
+
+On April 4, 2018, we were issued US Patent No. 9,869,636 B2, entitled “Device for Evaluation of Fluids Using Electromagnetic Energy.” The patent expires in approximately April 2033. This patent pertains to the use of ChromaID technology for evaluating and analyzing fluids such as those following through an IV drip in a hospital or water, for example. 
+
+On February 4, 2020, we were issued US Patent No. 10,548,503 B2, entitled “Health Related Diagnostics Employing Spectroscopy in Radio/Microwave Frequency Band.” The patent expires in approximately May 2039. This patent pertains to the use of Bio-RFID technology for medical diagnostics.
+
+On June 8, 2021, we were issued US Patent No. 11,031,970, entitled “Non-Invasive Analyte Sensor and System with Decoupled and Inefficient Transmit and Receive Antennas.” This patent expires in approximately December 2040. This patent pertains to the unique configuration of the antennas used in Know Labs’ Bio-RFID sensors.
+
+On June 15, 2021, we were issued US Patent No. 11,033,208, entitled “Fixed Operation Time Frequency Sweeps for an Analyte Sensor.” This patent expires in approximately February 2041. This patent pertains to how operation of the Know Labs Bio-RFID sensor technology is controlled.
+
+On July 13, 2021, we were issued US Patent No. 11,063,373, entitled “Non-Invasive Analyte Sensor and System with Decoupled Transmit and Receive Antennas.” This patent expires in approximately December 2040. This patent pertains to the unique configuration of the antennas used in Know Labs’ Bio-RFID sensors.
+
+On July 13, 2021, we were issued US Patent No. 11,058,317, entitled “Non-Invasive Detection of an Analyte Using Decoupled and Inefficient Transmit and Receive Antennas.” This patent expires in approximately December 2040. This patent pertains to the unique configuration of the antennas used in Know Labs’ Bio-RFID sensors.
+
+On July 13, 2021, we were issued US Patent No. 11,058,331, entitled “Analyte Sensor and System with Multiple Detector Elements that can Transmit or Receive.” This patent expires in approximately February 2041. This patent pertains to the technology that allows the implementation of radio frequency scans using different combinations of antennas to improve the detection capabilities of the Bio-RFID sensors in non-invasively measuring and identifying analytes, including glucose.
+
+On December 7, 2021, we were issued US Patent No. 11,193,923, entitled “Detection of an Analyte Using Multiple Elements that can Transmit or Receive.” This patent expires in approximately February 2041. This patent pertains to the technology that allows the implementation of radio frequency scans using different combinations of antennas to improve the detection capabilities of the Bio-RFID sensors in non-invasively measuring and identifying analytes, including glucose.
+
+Product Strategy 
+
+We are currently undertaking internal development work on potential products for the commercial marketplace. We have announced the development of our non-invasive glucose monitor and our desire to obtain US Food and Drug Administration clearance for the marketing of this product. We have also announced the engagement of a manufacturing partner we will work with to bring this product to market. We will make further announcements regarding this product as development, testing, manufacturing, and regulatory approval work progresses.
+
+6
+
+
+Currently we are focusing our efforts on productizing our Bio-RFID technology as we move it out of our research laboratory, through appropriate and required clinical trials and into the marketplace.
+
+Our subsidiary corporation, Particle, Inc. is seeking a strategic distribution partner or partners to move its virus deactivating light bulb into the global marketplace. Our AI Mind, Inc. subsidiary is looking at additional ways to monetize its AI Deep Learning Platform beyond the NFT market for its graphical images and expects to test several product ideas over the next fiscal year.
+
+Research and Development
+
+Our current research and development efforts are primarily focused on improving our Bio-RFID technology, extending its capacity, and developing new and unique applications for this technology and the AI Deep Learning Platform that drives its analytics. As part of this effort, we conduct on-going laboratory testing to ensure that application methods are compatible with the end-user and regulatory requirements, and that they can be implemented in a cost-effective manner. We are also actively involved in identifying new applications. Our current internal team along with outside consultants have considerable experience working with the application of our technologies and their application. We engage third party experts as required to supplement our internal team. We believe that continued development of new and enhanced technologies is essential to our future success. We incurred expenses of $3,970,000 and $2,034,000 for the year ended September 30, 2021 and 2020, respectively, on development activities.
+
+On April 30, 2020, we approved and ratified the incorporation of Particle, Inc. Particle is focused on the development and commercialization of our extensive intellectual property relating to electromagnetic energy outside of the medical diagnostic arena which remains the parent company’s singular focus. Since incorporation, Particle has engaged in research and development activities on threaded light bulbs that have a warm white light and can inactivate germs, including bacteria and viruses. It is now looking for partners to take the product to market.
+
+On September 17, 2021, we approved and ratified the incorporation of AI Mind, Inc. AI Mind is focused on monetizing the AI Deep Learning Platform. Since incorporation it has focused on creating patterns from Company data which were sold as NFTs. The Company will continue to look for opportunities for new applications on its AI Deep Learning Platform which to generate revenues to support the continued development of its non-invasive diagnostic technology.
+
+Related Patent Assets
+
+Inherent in a platform technology is the ability to develop or license technology in diverse fields of use apart from the Company’s core focus. Know Labs focuses on human health and wellness with a first focus on the non-invasive monitoring of blood glucose. It will pursue the identification of a multitude of analytes in the human body important to diagnostics over time. The Company will also identify, over time, opportunities for its intellectual property to be deployed in areas outside human health and wellness. Examples are Particle, Inc. and AI Mind, Inc.
+
+On April 30, 2020, we incorporated a subsidiary corporation, Particle, Inc. for the purpose of research and development on non-core Company intellectual property. The first research activity, undertaken by a separate Particle team has been on standard threaded light bulbs that have a warm white light that can inactivate germs, including bacteria and viruses. On June 1, 2020, we approved and ratified entry into an intercompany Patent License Agreement dated May 21, 2020 with Particle. Pursuant to the Agreement, Particle received an exclusive non-transferrable license to use certain patents and trademarks of the Company, in exchange the Company shall receive: (i) a one-time fee of $250,000 upon a successful financing of Particle, and (ii) a quarterly royalty payment equal to the greater of 5% of the Gross Sales, net of returns, from Particle or $5,000. As of September 30, 2021, the operations of Particle have generated no sales and operations are just commencing. The first product, the Particle bulb can be used in households, businesses, and other facilities to inactivate bacteria and viruses. Through internal preliminary testing, Particle personnel has confirmed the bulb’s efficacy in inactivating common germs such as E. coli and Staphylococcus. Final study results from Texas Biomedical Research Institute indicate the Particle bulb’s ability to inactivate SARS-CoV-2, the virus that causes COVID-19 and most recently, the Alpha and Delta variants of the virus that causes COVID-19. The Particle team is working on certification, labeling, product manufacturing and related go-to-market requirements; as well as business development activities related to interest from potential strategic and channel partners in both consumer and business applications in the global marketplace.
+
+On September 17, 2021 we incorporated a subsidiary corporation, AI Mind, Inc. for the purpose of identifying and capitalizing upon market opportunities for its AI Deep Learning Platform. The first revenue activity undertaken by the subsidiary was after the year ended September 30, 2021 and related to the creation of graphical images expressed as NFTs utilizing the AI Deep Learning Platform and our data. We plan to explore other opportunities to monetize our AI Deep Learning Platform. 
+
+
+7
+
+
+We expect that other such subsidiaries may be created over time. Additionally, we may license its intellectual property to third parties so that they may pursue activities that are not a part of the Company’s core focus. 
+
+EMPLOYEES
+
+As of September 30, 2021, we had 10 full-time employees. Our senior management and seven other personnel are located in our Seattle, Washington offices. We periodically utilize consulting firms and individual contractors to supplement our workforce.
+THE COMPANY’S COMMON STOCK
+
+Our common stock trades on the OTCQB Exchange under the symbol “KNWN.” 
+
+PRIMARY RISKS AND UNCERTAINTIES
+
+We are exposed to various risks related to our need for additional financing, the sale of significant numbers of our shares and a volatile market price for our common stock. These risks and uncertainties are discussed in more detail below in Part II, Item 1A. 
+CORPORATE INFORMATION
+
+We were incorporated under the laws of the State of Nevada on October 8, 1998. Our executive offices are located at 500 Union Street, Suite 810, Seattle, WA 98101. Our telephone number is (206) 903-1351 and its principal website address is located at www.knowlabs.co. The information on our website is not incorporated as a part of this Form 10-K.

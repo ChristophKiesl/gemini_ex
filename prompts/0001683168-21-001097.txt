@@ -1,0 +1,311 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+Overview
+ 
+Beam is a sustainable clean-technology innovation company based in San Diego, California. We develop, engineer, manufacture and sell renewably energized infrastructure products for transportation, outdoor media and energy security. Our renewably energized products enable vital and highly valuable services in locations where it is either too expensive, too disruptive or impossible to connect to the utility grid, or where the requirements for electrical power are so important that grid failures, like blackouts, are intolerable. We do not compete with EV charging companies; rather, we enable them through providing infrastructure solutions that replace the time consuming and expensive process of construction and electrical work required to installed traditional grid-tied EV chargers. We also do not compete with utilities. Our products provide utilities with another tool to deliver reliable and low-cost electricity to EV chargers and, in the case of a grid failure, to first responders or others, through our integrated emergency power panels.
+ 
+Our products are rapidly deployed without the need for construction or electrical work. We compete with the highly fragmented and disintegrated ecosystem of general contractors, electrical contractors, consultants, engineers, permitting specialists and others who are required to perform a traditional grid-tied EV charger installation construction project. Our clean-technology products are designed to replace a complicated, expensive, time consuming and risk prone process with an easy, low total cost of ownership, robust and reliable product.
+ 
+Beam’s renewably energized products and proprietary technology solutions target three markets that are experiencing significant growth with annual global spending in the billions of dollars.
+ 
+
+· | electric vehicle charging infrastructure;
+--+------------------------------------------
+
+
+· | outdoor media advertising; and
+--+-------------------------------
+
+
+· | energy security and disaster preparedness.
+--+-------------------------------------------
+
+ 
+The Company focuses on creating renewably energized, high-quality products for electric vehicle (“EV”) charging, outdoor media and branding, and energy security that are rapidly deployable and attractively designed. We believe that there is a clear need for a rapidly deployable and highly scalable EV charging infrastructure, and that our EV ARC™ and Solar Tree™ products fulfill that requirement. We are agnostic as to the EV charging service equipment (“EVSE”) as we do not sell EV charging, rather we sell products which enable it. Our EV ARC™ and Solar Tree™ products replace the infrastructure required to support EV chargers, not the chargers themselves.
+ 
+We believe our chief differentiators are:
+ 
+
+· | our patented, renewably energized products dramatically reduce the cost, time and complexity of the installation and operation of EV charging infrastructure and outdoor media platforms when compared to traditional, utility grid tied alternatives;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | our first-to-market advantage with EV charging infrastructure products which are renewably energized, rapidly deployed and require no construction or electrical work on site; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | our products’ capability to operate during grid outages and to provide a source of EV charging and emergency power rather than becoming inoperable during times of emergency or other grid interruptions; and
+
+
+· | our ability to continuously create new and patentable products using our own proprietary technology and parts, and other commonly available engineered components, creating a further barrier to entry for our competition.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3
+-
+
+Products and Technologies
+ 
+Electric vehicle charging infrastructure
+ 
+All of our products currently incorporate the same underlying technology and multiple layers of value, having a built-in renewable energy source in the form of attached solar panels and/or light wind generator, along with battery storage enabling them to generate and store all of their own electricity and operate without connecting to the grid. They are all also capable of connecting to the grid in the event that a customer values that capability. We believe that the U.S. and global utility grids lack sufficient capacity to supply enough electricity to all the new EVs which are becoming more available to consumers. This is especially the case when one considers the number of national and state governments that have announced outright bans on the sale of gasoline and diesel vehicles, such as Norway starting in 2025, with most bans being put in place no later than 2040. Even locations where a grid connection is available often lack circuits which are large enough to support EV charging in any meaningful way. For example, parking lots might have enough electrical capacity to power lighting but not enough to power EV charging. Beam products provide that power without a requirement to increase the electrical grid capacity at that site which can often be, and we believe will increasingly be, expensive, disruptive, complex and time consuming.
+ 
+We believe that the need for rapidly deployed and highly scalable EV charging infrastructure products which do not require construction or electrical work, and which do not rely on the utility grid for a supply of electricity will become increasingly urgent during the coming months and years. We are not aware of any other products which provide a solution for this opportunity as effectively as our patented products which are listed below:
+ 
+
+· | EV ARC™ (Electric Vehicle Autonomous Renewable Charger) – Our most popular product, we believe this patented product is the world’s first and only transportable, solar powered EV charger on the market. The EV ARC™ generates and stores all its own energy and supports Level I, Level II and DC Fast Charging (requiring 4 interconnected units). It does not need a grid connection and therefore needs no trenching, switch gear, or transformer upgrades. Because there is no foundation, trench or electrical infrastructure, the EV ARC™ typically does not require a building or any other kind of permit, and it is easily transportable if a different location is desired. EV ARC™ products can charge between one and six EVs simultaneously and a single unit can provide EV charging to as many as 12 parking spaces. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+EV ARC™ systems are immune to grid interruptions such as black-outs or brown-outs which is becoming increasingly important as more transportation relies on electricity as fuel. There are no utility bills to pay and, as the number of EVs increase at the host locations, more EV ARC™ units can be added without disruptive planning or permission from the utility. Current grid-tied EV chargers are often placed in locations where a suitable circuit is most easily accessed and cheapest to install, rather than in the most convenient and desirable locations for EV drivers to charge their EVs. EV ARC™ systems do not need to be connected to the grid and as such, can be placed anywhere, making them a rapidly deployable and highly scalable EV charging infrastructure solutions.
+ 
+In 2019, we began deploying an upgraded version of our EV ARC™, the EV ARC™ 2020, which provides all of the features of the original EV ARC™ in addition to elevating the electronics under the solar canopy to make the unit flood-proof up to nine and a half feet. Also in 2019, we deployed our first EV ARC™ DC Fast Charging units that provide a 50kW DC fast charge which provides up to 1,100 miles per day to one or more electric vehicles. We are also working with a partner to develop inductive charging as a feature to offer to our customers. A patent has been filed for our EV ARC™ system equipped with this technology.
+ 
+Because EV ARC™ systems are highly visible and, it has been independently represented to us, very attractive, we believe that they are an ideal platform for sponsored deployments wherein networks of EV ARC™ systems are deployed and owned by us and monetized through sponsorship and naming-rights agreements with corporate sponsors who are eager to have their brands associated with the “Driving on Sunshine” network. Our products also create significant reductions in greenhouse gas and CO2 emissions which, we believe, can be used as a further inducement to encourage corporations to sponsor the networks as they might benefit from the carbon offsets generated by a network of EV ARC™ systems.
+ 
+
+
+
+4
+-
+
+
+· | SolarTree® Products – This patented product is used for larger scale solar powered EV charging applications. We believe our Solar Tree® product to be the only single column, sun tracking, solar support structure with integrated energy storage, EV charging and media platforms available today. The design makes Solar Tree® systems ideal for charging electric buses, electric heavy-duty vehicles, electric agricultural equipment, public transportation and increasing electric vehicle options in the construction industry. In 2020, we launched our new generation of Solar Tree® DCFC products with on-board battery storage that do not require a connection to the utility grid (though grid connection capability is available). As a result, they can be rapidly deployed and enable EV charging in locations where it would otherwise be impossible or economically infeasible, such as rest areas, park and ride locations, construction sites, or any location with insufficient grid connectivity. The costs and environmental impact associated with delivering a 50kW or greater circuit to a remote rest area may be prohibitive, whereas a Solar Tree® DCFC can be deployed with minimal site disturbance. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We believe Solar Tree® products with on-board battery storage can provide a highly reliable source of energy to provide emergency power to users such as first responders during times of emergency or other grid failures. We also believe that Solar Tree® products optimized for branding can create visually stunning platforms for the delivery of a business’ brand message with a less onerous planning and entitlement process than that experienced with traditional signage.
+ 
+
+· | EV-Standard™ Product – On December 31, 2019, we received a patent for this product from the United States Patent and Trademark Office. The EV-Standard™ is currently in development and will use an existing streetlamp’s foundation and grid connection. Combining solar, wind-power and the street lamp grid connection into on board batteries which are stored in the EV Standard’s column, the product will deliver meaningful Level II EV charging at “curbside” or “on street”. The EV-Standard™ design combines a tracking solar panel, wind energy and utility-generated electricity from the existing streetlamp grid connection in a bank of integrated batteries. While most traditional streetlamps do not have sufficient electrical capacity to provide meaningful EV charging, the combination of all three sources of power will do so in a sustainable and economical manner. Densely populated areas do not have large open parking lots and will require EV charging solutions where drivers park on the street. The EV StandardTM can provide that without having to invest in expensive, disruptive and time-consuming construction or electrical work. It will continue to charge during grid failures and greatly reduce the cost of electricity when compared to an all grid-powered solution. We believe that in some instances EV charging might be deployed at every five lamp standards or even greater density. We believe the patented EV Standard™ creates a significant additional opportunity for product sales and revenue generation. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | UAV ARC™ drone charging product – On November 24, 2020, we received a patent for this product from the United States Patent and Trademark Office. This product is currently in development. The UAV ARC™ network is a rapidly deployable, highly scalable, range extending drone recharging product which forms a network intended to provide a range-extending source of battery recharging for drones that would otherwise be limited by range or payload restrictions. UAV ARC™ is also intended to exchange data with the drone on, for example, its state of health. This and other information will be transmitted to Beam and monetized through a variety of business models such as making it available to the operator of the drone fleet. Beam is considering business models that might include a subscription based model for fuel and data. The ability to recharge on a network of UAV ARC™ products deployed on rooftops in built up areas, undeveloped regions or at sea (marinized version) should dramatically increase the potential range and utility of UAVs. Each UAV ARC™ unit generates and stores all its power from renewable sources so drones will receive clean renewable electricity with no cost-per-unit of energy. The units are completely independent from the power grid, allowing them to provide charging during grid outages and in remote locations. UAV ARC™ will be deployed without the requirement for site activities such as construction or electrical work. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Outdoor Media Advertising
+ 
+As the value of traditional advertising media such as television, radio, and print diminishes, advertisers in the United States and abroad are looking for new outlets to capture the attention of consumers. Industry experts believe that there will be significant growth in spending on outdoor advertising platforms particularly when mounted on street furniture. We believe the digital out of home industry (“DOOH”) is enjoying a period of rapid growth and may continue to do so for the foreseeable future. The Company believes there is opportunity in the outdoor advertising space to place outdoor content on Beam’s infrastructure products and disperse them throughout cities. One objective is to sell advertising to a company, and the proceeds would then be used to fund the delivery of EV ARC™ systems, which would be placed in visible locations and would display the advertisements. This is a growing area with companies such as Google. Beam’s current main focus in the media space is to sell sponsorship and naming rights to networks of EV ARC™ systems deployed across major cities, using a similar model to the Citibike program in New York City. In 2012, Citigroup Inc. paid $41 million for five years of naming rights on New York’s bike sharing program. Citibank extended the naming rights agreement for $70 million to cover the period from 2019 to 2024. Beam intends to replicate this model with the Driving on Sunshine network. Because EV ARC™ systems are highly visible and, it has been independently represented to us, very attractive, we believe that they are an ideal platform for sponsored deployments wherein networks of EV ARC™ systems are deployed and owned by us and monetized through sponsorship and naming-rights agreements with corporate sponsors who are eager to have their brands associated with the “Driving on Sunshine” network. Our products also create significant reductions in greenhouse gas and CO2 emissions which, we believe, can be used as a further inducement to encourage corporations to sponsor the networks as they might benefit from the carbon offsets generated by a network of EV ARC™ systems. We intend to offer five-year sponsorship agreements. We believe that the EV ARC™ will provide 20 years of service (we have had them operating in the field for almost a decade to date) and as such intend to create a long-term recurring revenue stream from renewing the sponsorships. We believe that the Driving on Sunshine network will become more valuable as more EVs are purchased and the public perception of free solar powered driving improves and increases.
+
+5
+-
+
+ 
+
+In 2020, the Company entered into a collaboration agreement with the City of San Diego to deploy solar-powered EV charging infrastructure across the city (Driving on Sunshine network) and is currently working with qualified partners to engage sponsors to take advantage of this naming rights platform.
+ 
+Energy Security and Disaster Preparedness
+ 
+Power outages cost the United States up to 200 billion per year according to the Department of Energy. Our renewably-energized products are fully sustainable and include battery energy storage that can dispatch power during times of grid or hydrocarbon fueled generator failure or during public safety power shutoff (PSPS) in certain jurisdictions. Our chief area of focus in energy security is to ensure that there is EV recharging infrastructure during grid failures, such as blackouts. As the adoption of EVs increases, it will be critical to have fuel (recharging) infrastructure that is not reliant on the utility grid with its centralized vulnerabilities. We have witnessed power outages in Texas due to cold weather, in California and New York due to hot weather and in other parts of the nation whenever inclement conditions such as high winds or flooding take place. California has also been susceptible to public safety power shutoffs (PSPS) to prevent fires during high wind events. There have been kinetic and cyber attacks on the grid and the U.S. government has evidence of intrusions by nefarious nation state actors. All of these events constitute significant vulnerabilities which are expensive, disruptive, inconvenient, and dangerous today. As we electrify our fleets, they will become catastrophic. The U.S. has a Strategic Petroleum Reserve (SPR) to ensure that we never run out of gasoline and diesel but there is no strategic electric reserve. In fact, many markets are operating at capacity during peak events.
+ 
+Beam’s products provide a hedge against grid failures because they are invulnerable to the centralized nature and other aspects of the utility infrastructure. Locally generated and stored electricity of the sort delivered by EV ARC™ and Solar Tree® provides a highly robust and secure source of power to EVs of every sort. We are engaged with government officials at every level to increase awareness of our products and the benefits they can bring to U.S. energy security. We are increasingly hearing suggestions that 25% of all EV charging infrastructure should be independent of the centralized grid. We believe that our products are uniquely positioned to provide this sort of solution and our contracts with states like California and Florida, cities like New York, and the Federal government through our General Services Administration (GSA) Multiple Award Schedule Contract should ideally position us to take advantage of what we believe will be a significant increase for the requirements of robust and sustainable EV charging infrastructure. The Biden administration has stressed increased commitment to:
+ 
+
+1. | American made products 
+---+------------------------------
+2. | Clean Energy 
+3. | Energy Security 
+4. | Electrified transportation 
+5. | Transportation infrastructure
+
+ 
+We believe that our products are ideally suited to fulfill all of these requirements.
+ 
+ Strategy
+ 
+Target Markets
+ 
+Beam’s markets consist of several broad segments: state, municipal and federal government agencies, corporations, energy utility companies, universities, retail, hospitality and international markets. These segments can further be broken down into increasingly granular segments as different market opportunities are identified. Beam’s largest market is currently Municipal.
+ 
+Beam’s largest customers include the State of California, which is a conglomeration of California state agencies and municipalities, the City of New York, and Electrify America, LLC a subsidiary of Volkswagen Group of America. The most attractive markets for Beam have been New York and California, but we are now seeing growing opportunities throughout the U.S.
+ 
+
+
+
+6
+-
+
+ 
+
+The factors below have been considered in determining favorable markets for our products:
+ 
+
+· | Political Factors. Political statements, mandates and laws supporting and driving policy to reduce carbon emissions through the electrification of transportation. State and local governments focusing on the transportation industry and the electrification of fleet vehicles to reduce carbon emissions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Economic Factors. The use of grants and incentives to advance the adoption of EVs and EV charging infrastructure. Regions with difficult, time consuming permitting and regulatory requirements and high construction costs.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Sociocultural Factors. High concentration of EV drivers and a cultural desire to be good stewards of the environment.
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+· | Technological Factors. Regions with good insolation, expensive energy costs, and poor or degraded air quality, and a lack of capacity or expensive upgrade requirements for their utility grid.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+These factors have been important in the early days of EV adoption. Government tail winds are stronger than ever with many nations and states announcing the outright banning of gasoline and diesel vehicle sales during the next two decades. In the U.S., California has announced a ban starting fourteen years from now in 2035 and the State of Washington has improved upon that with a ban starting in 2030, less than nine years away. Beam believes that a perhaps more powerful force is starting to shape the industry; automotive OEMs are announcing the delivery of electric vehicles which are much more consistent with models which have traditionally been popular with U.S. consumers. Ford has announced an all-electric F150 pickup truck, available in 2022. The F150 is the most popular vehicle in the US since 1981 and the top selling pickup truck for forty-two years in a row. The electric version will have the same towing and payload capacity but will be able to accelerate for 0 to 60mph in around three seconds. GM has announced an electric Hummer which will have 1000HP (compared to the gasoline version with 300HP) and will accelerate at about the same rate as the F150. Neither vehicle will need to go to the gas station ever. Neither vehicle will require anything but the most basic and minor maintenance. There will be at least 100 new EV models released in the next 24 months.
+ 
+We believe that the consumer will adopt EVs faster than many experts are predicting and that as a result, the requirement for growth in EV charging infrastructure will be more urgent than is currently forecasted or contemplated. We also believe that as the easiest (low hanging fruit) locations for grid-tied chargers are used up, the process of deploying traditionally installed and powered grid-tied EV chargers will become more expensive and time consuming. At the same time, we believe that we will continue to reduce the costs to produce our products and become faster at deploying them. During a period of significant and increasing demand, we believe that our scalability and rapid deployment will create a significant advantage for our products and our position in the market.
+ 
+Growth Strategy
+ 
+The electric vehicle market is expected to grow at a rapid pace. According to Goldman Sachs, the EV infrastructure market is expected to receive $6 trillion in investments for infrastructure around EVs. Bloomberg forecasts 559M EVs on the road by 2040. In addition, General Motors recently announced that they aspire to offer only zero-emissions vehicles by 2035. California’s Governor has also issued an executive order that by 2035, all new cars and passenger trucks sold in California will be zero-emission vehicles. Massachusetts has followed suit and others are expected to follow. We currently operate in three rapidly growing markets: EV charging infrastructure, outdoor media advertising and energy security and disaster preparedness. Our products are being used in 23 U.S. states, 122 municipalities, three international countries, and the U.S. Virgin Islands in the Caribbean. We believe that our products have a global appeal and that we are only at a nascent period in the development of our sector. We believe that our strategic growth plan will enable us to increase our user base and revenues while leading to increased profitability and includes:
+
+· | Investment in Government Relations expert services to ensure that decision makers are aware of the value that our made in America products provide
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+· | Increase sales and marketing to educate our universe of potential customers. 
+
+
+· | Continue to expand our geographic footprint and customer base.
+--+---------------------------------------------------------------
+
+
+7
+-
+
+
+· | Enhance our gross margins by increasing production volumes, improving operating efficiencies and reducing the cost of materials and production.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Increase leverage of outsourcing as our manufacturing process scales.
+--+----------------------------------------------------------------------
+
+
+· | Expand our recurring revenue business. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Educate and communicate information about federal and other government grants, investment tax credits, and other incentives to provide funding opportunities for our customers.
+
+
+· | Capture market share of the electrified personal and public transportation space, which is at a nascent phase.
+--+---------------------------------------------------------------------------------------------------------------
+
+
+· | Continue to expand our Outdoor Media Business unit.
+--+----------------------------------------------------
+
+
+· | Develop and innovate new products while building a strong IP portfolio.
+--+------------------------------------------------------------------------
+
+Sales and Marketing
+ 
+Beam utilizes an in-house sales team and sells through a direct sales and marketing channel, pairing customers with sales specialists (Clean Mobility Experts) to ensure their needs are met. The Company hired a new Vice President of Sales and Marketing on January 1, 2020 who currently leads the team.
+ 
+Our sales process is heavily focused on educating prospective customers about our product so that they are aware that they have other options, before they select a traditional grid-tied solution. As a result, we have begun investing more in marketing materials and videos, as well as a public relations firm to help us to educate the market. Beam uses research to identify potential customers, as well as contacts established through trade show events and in-bound calls. We also utilize a combination of regional and industry focused campaigns, nurturing campaigns, speaking opportunities, product demonstrations, press releases and social media (Facebook, Instagram, Twitter, and LinkedIn). Beam is, we believe, an industry leader in the sustainable EV charging infrastructure space and our website is used to highlight that together with webinars and industry news to automate the education of our markets, helping them confidently make informed decisions about the purchase of our products. Presentation and execution continues to remain a priority while we keep sales and marketing materials updated to ensure messaging is on point and consistent with our product offering, customer’s needs and industry standards.
+ 
+Beam products can have a long sales cycle. This is a sophisticated sale and often a large capital expense for our customers. Sales often hinge on bureaucratic processes and funding approval. Political mandates do not always equal availability of resources to execute policy into action. We also utilize a consultant to support our customers with the federal grant process to identify grants that may be available to reduce the cost of their purchase.
+ 
+Our products are eligible for various tax and other incentives which can significantly reduce the out-of-pocket expense paid by a customer for our products. Examples of these sorts of incentives include:
+ 
+
+· | Federal Solar Investment Tax Credit (ITC) (Section 48 of the tax code). This may provide a tax credit, which is currently at 26% of the amount of your solar energy system purchase. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Rule 179 Depreciation or Bonus Depreciation - allows our customers to accelerate depreciation of their solar energy system up to 100% of the cost of the system in the first year it is in service.
+· | Code Section 30C, Alternative Fuel Vehicle Refueling Property, may allow a tax credit of 30% of the cost of the purchase up to $30,000. 
+
+ 
+The combination of these incentives can provide significant tax benefit for our customers. There are often other state, local and utility incentives which can provide further savings.
+ 
+We believe that the current administration will continue and perhaps enhance incentives to deploy products such as ours in the coming years. President Biden has made several commitments to the funding of clean energy and EV charging infrastructure including the deployment of 500,000 publicly available EV charging stations on U.S. highways. We believe that because our products are rapidly deployed, enhance energy security and are made in America, that we are well positioned to benefit from these, and other, initiatives.
+ 
+
+
+
+8
+-
+
+Major Customer Contracts
+ 
+In 2020 and 2019, we have had three major customers, the State of California, the City of New York and Electrify America, LLC that have accounted for a substantial portion of our revenue.
+City of New York Requirement Contract. We entered into a Requirement Contract with the City of New York on April 17, 2017 that extends through April 16, 2021. We have received 3 purchase orders to date on this contract. The first was for 36 EV ARCs™ and one ARC Mobility™ trailer, all of which were delivered in 2017 and 2018, for a total contract price of $2,416,356. On September 10, 2018, we received a new $3,300,000 order from the City of New York for 50 EV ARC™ units which we delivered 16 units during 2018 and 34 units in the first half of 2019. On March 12, 2021, we received a purchase order for two of the new EV ARC™ 2020 systems. New York expressed that they want to test the new flood proof EV ARC™ model before the current contract expires. We anticipate that a Request for Proposal will be initiated by the City of New York in 2021 to provide a new contract, to which, in that event, Beam will respond.
+ 
+Contract with the California Department of General Services. On June 12, 2015, our bid for solicitation was accepted by the California Department of General Services (the “California Contract”). The term of the California Contract was initially for one year with two extension options for one year. California elected to exercise both options to extend. In June 2018, the California Contract was renewed for up to four more years (two years with two additional one-year options), and its scope was expanded to include more of our products, including our EV ARC™ DC Fast Charging Electric Vehicle Autonomous Renewable Charger, with a California estimated value of over $20 million. In January 2021, the contract was extended through June 2022 and was expanded to be utilized by agencies across the U.S. The California Contract permits California state and local government agencies, including cities, counties, special districts, California State universities, University of California systems, K-12 school districts, and community colleges, to purchase EV ARCs™, ARC Mobility Trailers, and related accessories from us. We have sold 86 EV ARCsTM for a total of $6,089,882 through December 31, 2020, which includes 18 units totaling $1,850,268 in 2020.
+ 
+Electrify America Contract. In October 2019, Beam responded to a Request for Proposal with Electrify America, a subsidiary of Volkswagen Group of America. On February 21, 2020, Beam was awarded a $2 million contract for 30 EV ARC units to be deployed in rural areas in central California. During the year ended December 31, 2020, we recognized revenues for 29 units totaling $1,833,698 to Electrify America, with one EV ARC™ system remaining to deploy in the first quarter of 2021. Beam continues to develop a business relationship with Electrify America.
+Competitors
+ 
+We do not compete with EV charging companies or utilities. In fact, we support the major EV charging product and service providers by factory installing their products onto ours before shipping for a rapid and construction free deployment at the customer site. We have deployed ChargePoint, Blink, Enel, Electrify America and many other quality charging brands. We also do not compete with utilities who use our product as another tool to provide electricity, primarily for EV charging to their constituency. We currently have six utility customers and anticipate that that number will grow as more utilities become engaged in EV charging and also in deploying distributed generation resources to enhance grid stability. We are not aware of other companies that provide an infrastructure product similar to ours, utilizing solar energy to power EV charging in a rapidly deployed and highly scalable construction-free format. We have responded to several competitively bid contracts issued by, for example, New York City, California, Florida and Massachusetts where we were the only responding company with products that met the specifications cited in the RFP. We believe that if there were other competing products that we would have become aware of them during those processes. We are, however, subject to competition from a number of companies which are involved in the design, construction and installation of fixed grid-connected EV charging stations that depend on the utility grid for a source of power, and on the construction and civil and electrical engineering services for the installation of traditional infrastructure. Our challenge is to market our products to ensure that potential customers are aware of our product offering.
+ 
+Competition in the solar renewable energy and EV charging industries is intense, and competition is fragmented among a wide variety of entities. Companies such as Schneider, Eaton, Enel X, and Bosch manufacture EV charging units but do not offer charging services. There are many companies which offer installation services for the EV charging market. They are typically from electrical and general contracting backgrounds as well as some larger project management firms such as Black and Veatch, Bechtel, CH2M Hill and AECOM. Companies such as Chargepoint (NYSE: CHPT) and Blink (NASDAQ: BLNK) offer EV charging services and hardware but not, typically, installation. Our EV ARC™ units will incorporate whatever charger the customer wants, so in most cases, we are not competing with the charger company, but rather creating opportunities for them which they might not otherwise have had.
+ 
+
+
+
+9
+-
+
+ 
+
+iSun, Inc. (Nasdaq: ISUN) offers an off-grid charging solution using solar power to charge batteries, but their product is not transportable, does not have solar tracking, does not fit in a standard parking space and requires permitting, construction and electrical work for its installation.
+ 
+Volta (NYSE: SNPR) is a San Francisco based EV charging company which derives revenue through the sale of advertising. Volta gives charging away for free. They are deployed in shopping malls and other similar locations. While they do not have solar-powered, rapidly deployed infrastructure solutions and they do require construction, electrical work and a utility bill, their business model of using media revenue instead of EV charging fees most closely matches our media business model.
+ 
+Many solar companies are now fixing EV chargers to their parking lot structures and some are offering packages combining solar rooftop installations and EV charger installations for the residential marketplace. These installations are almost always grid-tied, require construction and electrical work and do not include energy storage.
+ 
+Another example of an entity which is providing free or discounted EV charging infrastructure is Electrify America, the EV charging provider is required to spend approximately $2B on EV charging infrastructure ($800M in California) to satisfy the requirements of a settlement with the U.S. government. Electrify America is a customer of Beam and has used our products to assist in the deployment of their EV charging network.
+ 
+We also face competition, to some extent, from entities which are offering free or discounted EV charging infrastructure to our prospective customers. Utilities such as the three large IOUs (investor owned utilities) in California (SDG&E, PG&E, SCE) have successfully lobbied the California Public Utility Commission for permission to rate base the costs of installations of EV chargers. As a result, they can offer the installation, or “make readies” of electrical circuits and other civil infrastructure, for a lower price or in some instances for free, to certain customers. We are adding utilities to our customer base and have provided product to six utilities to date. We do not view utilities as long term competition and instead view them as a significant opportunity as they increasingly add off grid solutions to their energy mix.
+ 
+Where energy security is concerned, we view the competition from companies that produce generators and combined solar and storage solutions to be most relevant to our business. Companies in this space range from small startup companies like Green Charge Networks to behemoths like General Electric and NEC. Siemens, Eaton, Schneider and other large electrical component companies are all also working on combined renewables/storage product solutions. We are in contact with all these companies and have not observed that any of them have a product which provides all the same value and differentiation that our EV ARC™ product delivers because our EV ARC™ systems are transportable, rapidly deployed and offer multiple layers of value beyond EV charging and emergency power. For example, during 2020, our EV ARC™ products were repurposed by our customers from customer locations to Covid-19 Emergency Pop-Up Centers to provide remote emergency power and EV charging.
+ 
+Our competitive advantage over these other solutions includes:
+ 
+
+o | Rapid deployability and scalability of our products. Our products offer a turnkey product solution that is manufactured in our facility and delivered to a customer and deployed in minutes. This competes with an entire ecosystem involving the design, engineering, permitting and constructing of civil projects which requires engaging a company, or group of companies, including architects, civil engineers, electrical engineers, zoning specialists, consultants, general contractors, electrical contractors, and EVSE vendors. These grid-tied projects can take six months to two years to complete.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+o | | Lower total cost of ownership. Beam’s products are powered by renewable sources. As a result, there is no charge for on-going energy to power vehicles because our products do not generate a utility bill. 
+o | | Ability to operate during blackouts and brownouts. In addition, most units provide an emergency power panel that can be used for emergency power to charge other devices and emergency equipment during outages. Typical grid-tied solutions fail during grid failures and do not provide a source of emergency power. Even those grid-tied solutions that have back up battery integration rely on the grid to charge their batteries. During prolonged grid failures, those systems fail while Beam products continue to operate.
+
+
+10
+--
+
+
+o | Because a grid connection is not required, Beam’s EV ARC™ can be located anywhere, including remote locations that are hard to connect to a grid. Most grid-tied chargers are deployed in locations where the utility grid is easy and inexpensive to connect to. Many EV drivers have experienced this when they find charging units behind supermarkets next to dumpsters. This is because the utility grid interconnection exists at the back of the store and as such that is the cheapest place to deploy. We believe that early adopters of EVs are more willing to make these sorts of concessions than mainstream consumers will be. We believe that in the future two impacts will drive the installation of EV chargers in more expensive and complicated locations where grid connection is concerned. First, the locations close to grid connections will be used up and second mainstream consumers will not be content with parking and charging in less desirable locations. Both of these impacts will drive the deployment of EV chargers in front of stores and other locations where people want to park. Those sorts of locations typically do not have readily available grid connections so the cost and complexity to bring the grid to the charger will increase dramatically. The cost and complexity to deploy our products will not increase and in fact, we believe that, like any other manufacturing company, our costs will continue to decrease while our efficiency and deployment velocity increases.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+o | Environmentally sound product using clean energy. Grid-tied chargers rely upon electricity, more than 60% of which is generated by burning fossil fuels. The electricity our products provide is 100% emissions free. Furthermore, the construction activities required to dig trenches, pour concrete and perform the other tasks related to the construction and electrical installation of a grid-tied charger are environmentally impactful and reduce the environmental benefits of EVs. Our products are deployed with minimal or no disruption or environmental impact making them a cleaner choice. 
+o | Beam products can be relocated which gives the customer the flexibility to move it if a job site changes or business needs change. Grid-tied installations are a permanent solution. Many of our customers operate in leased facilities. The transportability of our products means that a customer can remove them when a lease matures whereas grid-tied solutions become tenant improvements and a sunk investment. 
+o | BeamTrak™, our patented solar tracking solution which causes the solar array to follow the sun generating up to 25 percent more electricity than a fixed array, is a significant advantage for our products over any similar offering. Our unique ability to deliver 25% more driving miles to an EV from an off-grid solar installation is, we believe, a significant differentiator. 
+o | Our ability to continuously improve our product’s energy production when reducing costs means that while the grid-tied competition is stuck at a theoretical maximum amount of energy that can be delivered at a given location, our products have continued to deliver more power without costing more. 
+o | Beam offers a product that delivers DC fast charging solely from solar generation, which we have not seen in the market to date. 
+
+Manufacturing
+ 
+We are headquartered in San Diego, California in a leased building of approximately 53,000 square feet professionally equipped to handle the significant growth possibilities we believe are in front of us. The facility houses our corporate operations, sales, design, engineering and product manufacturing. We are currently staffed for one shift, five days a week and believe that at that level we can produce approximately 260 EV ARC™ units per year. We also believe that with an expansion of human resources, capital investment, increased engagement of contract manufacturing and operating 3 shifts, seven days a week we could produce approximately 2,200 EV ARC™ units a year from our current facility.
+ 
+All of our products are currently designed, developed and manufactured in this facility. We have been able to reduce our costs and improve our quality by performing fabrication in-house. This also provides a good environment for improving the manufacturing process as well as for the development of new products. Many of our suppliers are local which allows for shorter lead times and lower transportation costs. The EV ARC™ product family requires no field installation work and is typically delivered to the customer site by us or by a third-party transportation company for a fee. We sell our Solar Tree® products as an engineered kit of parts to be installed by third parties employed by the buyer of the Solar Tree® kit.
+ 
+We continually endeavor to reduce component costs and make production improvements in both our products and our processes to reduce our manufacturing costs, while maintaining the high quality for which we strive. As unit sales continue to increase, we will be able to spread our fixed overhead costs over more units, reducing the cost per unit and management believes that gross profits can be realized and maintained.
+ 
+
+
+
+11
+--
+
+Customer Concentration
+ 
+During 2020, the Company had one customer, Electrify America, that represented 30% of our revenue.
+ 
+Backlog
+ 
+Our backlog at December 31, 2020 was $1.1 million. Reported backlog represents firm purchase orders or contracts received by customers for deliveries scheduled in the future.
+ 
+Government Regulation
+ 
+Businesses in general are subject to extensive regulation at the federal, state, and local level. We are subject to extensive government regulation of employment, health, safety, working conditions, labor relations, and the environment in the course of the conduct of our business. In order for our customers to enable the installation of some of our products, they can be required to obtain permits from local and other governmental agencies. In the case of our grid-tied products, they must comply with the applicable rules and regulations of the relevant state public utility agencies. In order for our customers to take advantage of available tax and other governmental incentives associated with the installation of solar power production facilities, and the production and use or sale of solar power, they must comply with the applicable regulatory terms and conditions. Changes or new government regulation may have a material adverse impact on our business, operating results, and financial condition.
+Employees
+ 
+As of the date of this report, we have 29 employees, and 7 additional temporary employees. Most of the temporary employees are retained through a temporary employment agency to maximize our flexibility and to reduce the risks and costs associated with permanent employees. We believe our employee relations to be good. None of our employees are represented by a labor union or collective bargaining agreement.
+Seasonality
+ 
+Our operations are generally not materially affected by seasonality.
+
+

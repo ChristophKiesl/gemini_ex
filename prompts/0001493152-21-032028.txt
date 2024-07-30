@@ -1,0 +1,427 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1 Description of Business
+Background
+ 
+Current Line of Business
+ 
+We manufacture optical sighting systems and assemblies, primarily for Department of Defense applications. Our products are installed on various types of U.S. military land vehicles, such as the Abrams and Bradley fighting vehicles, light armored and armored security vehicles and have been selected for installation on the Stryker family of vehicles. We also manufacture and deliver numerous periscope configurations, rifle and surveillance sights and night vision optical assemblies. Our products consist primarily of build-to-customer print products that are delivered both directly to the armed services and to other defense prime contractors. Less than 1% of our revenue is related to the resale of products substantially manufactured by others. In this case, the product would likely be a simple replacement part of a larger system previously produced by us.
+ 
+We continue to field new product opportunities from both domestic and international customers. We believe that given continuing unrest in multiple global hot spots, the need for precision optics continues to increase. Most of these requirements are for observation and situational awareness applications; however, we continue to see requests for higher magnification and custom reticles in various product modifications. The basic need to protect the soldier while providing information about the mission environment continues to be the primary driver for these requirements.
+ 
+
+3
+-
+
+Recent Events
+ 
+Amended and Restated Employment Agreement for Danny Schoening
+ 
+The Company entered into an amended and restated employment agreement with Danny Schoening dated December 1, 2021. The term of the agreement commenced as of December 1, 2021 and the current term ends on November 30, 2022. Mr. Schoening’s base salary is $296,031 per annum. Mr. Schoening will be eligible for a performance bonus based upon a rolling three-year operating plan adopted by the Company’s Board of Directors (the “Board”). The bonus will be based on operating metrics decided annually by our Board and tied to such three-year plan. The target bonus equates to 30% of Mr. Schoening’s base salary. Our Board will have discretion in good faith to alter the performance bonus upward or downward by 20%. The amended and restated employment agreement also served to amend Mr. Schoening’s Restricted Stock Unit (“RSU”) Agreement, dated January 2, 2019, by changing the third and final vesting date for the restricted stock units granted under such agreement. For additional information on the amended and restated employment agreement, please see “Item 11. Executive Compensation – Employment Agreements - Danny Schoening,” which disclosure is incorporated by reference herein.
+Renewal of Employment Agreement for Karen Hawkins
+ 
+On February 1, 2021, the employment agreement for Karen Hawkins, CFO, auto-renewed for an additional 18-month period, expiring on June 30, 2022. The contract automatically renews for subsequent 18-month periods unless Ms. Hawkins or the Company give notice of termination at least 90 days before the end of the term then in effect.
+Stock & Warrant Repurchases
+ 
+On June 8, 2020 the Company announced authorization for a $1 million stock repurchase program. As of September 27, 2020 there were 105,733 shares held in treasury purchased under the June 2020 stock repurchase program. The Company purchased a total of 519,266 shares under the program through April 2021, which were subsequently cancelled in June 2021.
+ 
+On September 22, 2021 the Company announced authorization for an additional $1 million stock repurchase program.
+ 
+During the twelve months ended October 3, 2021, there were 449,088 common shares repurchased through the repurchase programs at a cost of $869 thousand. As of October 3, 2021, there were 35,555 shares held in treasury purchased under the September 2021 stock repurchase program. The shares authorized to be repurchased under the repurchase program may be purchased from time to time at prevailing market prices, through open market or in negotiated transactions, depending upon market conditions and subject to Rule 10b-18 as promulgated by the SEC.
+ 
+July 2021 Ransomware Attack
+ 
+On July 13, 2021, the Company experienced a ransomware attack. Information regarding the attack was communicated to the appropriate U.S. government officials. The Company isolated the source of the attack and restored normal operations with no material day-to-day impact to the Company or the Company’s ability to access its data. As part of our normal disaster recovery procedures, we were able to restore our systems with clean back-ups. Sensitive data may have been breached, but we did not uncover any evidence of comprised data. We did not communicate with the attackers and engaged a third-party recovery and monitoring service to assist with the investigation and prevention of future attacks. Subsequent to the event, we have enhanced our IT security to minimize future occurrences.
+Recent Orders
+ 
+
+● | On January 11, 2021, the Company announced a contract for Laser Protected Periscopes for a base period of three years plus two one-year option years, not to exceed $14.4 million pursuant to an Indefinite Delivery - Indefinite Quantity (IDIQ) contract. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | On August 2, 2021, the Company announced a contract award of $8.4 million as part of a twenty-four-month purchase order for laser filters manufactured at the (AOC) Division of Optex Systems, Inc. 
+
+
+4
+-
+
+
+● | On September 21, 2021, the Company announced a $3 million order to be delivered over the next twelve months as part of a multi-year strategic supplier agreement with a domestic commercial manufacturer of premium optical devices. The products will be manufactured at the (AOC) Division of Optex Systems, Inc. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | On September 27, 2021, the Company announced an initial $1.4 million order against a 5 Year Indefinite Delivery Indefinite Quantity contract for laser protected periscopes from a U.S. Defense agency customer with deliveries starting in 2022 and concluding in 2023 for this initial release. 
+
+Products
+ 
+Our products are installed on various types of U.S. military land vehicles, such as the Abrams and Bradley, and Stryker families of fighting vehicles, as well as light armored and armored security vehicles. We also manufacture and deliver numerous periscope configurations, rifle and surveillance sights and night vision optical assemblies. We deliver our products both directly to the federal government and to prime contractors.
+ 
+On August 31, 2020, the Company announced it is now offering mil-spec quality High Efficiency Anti-Reflective Coatings for Infrared applications in both the military and commercial markets. These coatings are manufactured at the Applied Optics Center (AOC) Division of Optex Systems, Inc. in Dallas, Texas. During the twelve months ended October 3, 2021, AOC booked new orders of $199 thousand for the new products and an additional order of $52 thousand during October 2021. We anticipate continued revenue growth from the new offering in the current fiscal year.
+ 
+We deliver high volume products, under multi-year contracts, to large defense contractors and government customers. Increased emphasis in the past several years has been on new opportunities to promote and deliver our products in foreign military sales, where U.S.-manufactured, combat and wheeled vehicles, are supplied (and upgraded) in cooperation with the U.S. Department of Defense. We have a reputation for quality and credibility with our customers as a strategic supplier. We also anticipate the opportunity to integrate some of our night vision and optical sights products into commercial applications.
+ 
+Specific product categories by product line include:
+ 
+
+Product Line | Product Category 
+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Periscopes | Laser & Non-Laser Protected Plastic & Glass Periscopes, Electronic M17 Day/Thermal Periscopes, Vision Blocks 
+Sighting Systems | Back Up Sights, Digital Day and Night Sighting Systems (DDAN), M36 Thermal Periscope, Unity Mirrors, Optical Weapon System Support and Maintenance, Commander Weapon Station Sight (CWSS) 
+Howitzers | M137 Telescope, M187 Mount, M119 Aiming Device, XM10 Aiming Circle 
+Other | Muzzle Reference Systems (MRS), Binoculars, Collimators, Optical Lenses & Elements, Windows 
+Applied Optics Center | Laser Interference Filter, Optical Assemblies, Laser Filter Units, Day Windows, Binoculars, Specialty Thin Film Coatings. 
+
+Contracts
+ 
+Some of our contracts may allow for government contract financing in the form of contract progress payments pursuant to Federal Acquisition Regulation 52.232-16, “Progress Payments”. Subject to certain limitations, this clause provides for government payment of up to 90% of incurred program costs prior to product delivery for small businesses like us. To the extent any contracts allow for progress payments and the respective contracts would result in significant preproduction cash requirements for design, process development, tooling, material or other resources which could exceed our current working capital or line of credit availability, we intend to utilize this benefit to minimize any potential negative impact on working capital prior to receipt of payment for the associated contract deliveries.
+
+5
+-
+
+
+Our government contracts allow for Federal Acquisition Regulation 52.243-1 which entitles the contractor to an “equitable adjustment” for contract or statement of work changes effecting cost or time of performance. In essence, an equitable price adjustment request is a request for a contract price modification (generally an increase) that allows for the contractor to be “made whole” for additional costs incurred which were necessitated by some modification of the contract effort. This modification may come from an overt change in U.S. Government requirements or scope, or it may come from a change in the conditions surrounding the contract (e.g., differing site conditions or late delivery of U.S. Government-furnished property) which result in statement of work additions, deletions, part substitutions, schedule or other changes to the contract which impact the contractor’s overall cost to complete.
+ 
+Each contract with our customers has specific quantities of material that need to be purchased, assembled, and then shipped. Prior to bidding for a contract, we contact potential sources of material and receive qualified quotations for each material. In some cases, the entire volume is given to a single supplier and in other cases, the volume might be split between several suppliers. If a contract has a single source supplier and that supplier fails to meet their obligations (e.g., quality, delivery), then we would attempt to find an acceptable alternate supplier, and if successful, we would then renegotiate contractual deliverables (e.g., specifications, delivery or price). As of November 22, 2021, approximately 1% of our material requirements are single-sourced across 9 suppliers representing approximately 8% of our active supplier order values. Single-sourced component requirements span across all of our major product lines. Of these single sourced components, we have material contracts (purchase orders) with firm pricing and delivery schedules in place with each of the suppliers to supply the parts necessary to satisfy our current contractual needs. See “Item 1.A. Risk Factors – Risks Relating to Our Business – Certain of our products are dependent on specialized sources of supply potentially subject to disruption which could have a material, adverse impact on our business” for a description of certain supplier risks we face, which description is incorporated herein by reference.
+ 
+Approximately 83% of our contracts contain termination clauses for convenience. In the event these clauses should be invoked by our customer, future revenues against these contracts could be affected, however these clauses allow for a full recovery of any incurred contract costs plus a reasonable fee up through and as a result of the contract termination. We are currently unaware of any pending terminations on our existing contracts.
+ 
+In some cases, contract awards may be issued that are subject to renegotiation at a date (up to 180 days) subsequent to the initial award date. Generally, these subsequent negotiations have had an immaterial impact (zero to 5%) on the contract price of the affected contracts. Currently, none of our awarded contracts are subject to renegotiation.
+ 
+We are subject to, and must comply with, various governmental regulations that impact, among other things, our revenue, operating costs, profit margins and the internal organization and operation of our business. The material regulations affecting our U.S. government business are summarized in the table below.
+ 
+
+Regulation | Summary 
+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Federal Acquisition Regulation (FAR) | The principal set of rules in the Federal Acquisition Regulation System. This system consists of sets of regulations issued by agencies of the federal government of the United States to govern what is called the “acquisition process,” which is the process through which the government acquires goods and services. That process consists of three phases: (1) need recognition and acquisition planning, (2) contract formation, and (3) contract administration. This system regulates the activities of government personnel in carrying out that process. It does not regulate the purchasing activities of private sector firms, except to the extent that those activities involve government solicitations and contracts by reference. 
+
+
+6
+-
+
+
+International Traffic in Arms Regulations (ITAR) | United States government regulations that control the export and import of defense-related articles and services on the United States Munitions List. These regulations implement the provisions of the Arms Export Control Act. 
+-----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Truth in Negotiations Act (TINA) | A public law enacted for the purpose of providing for full and fair disclosure by contractors in the conduct of negotiations with the government. The most significant provision included is the requirement that contractors submit certified cost and pricing data for negotiated procurements above a defined threshold of $2 million for contracts entered into after June, 30, 2018. The law requires contractors to provide the government with an extremely broad range of cost or pricing information relevant to the expected costs of contract performance, and it requires contractors and subcontractors to submit cost or pricing data to the government and to certify that, to the best of their knowledge and belief, the data are current, accurate, and complete. A contracting officer may still request cost or price data, if necessary, without certification, to determine whether the proposed cost or price is fair and reasonable for contracts which are below the threshold. 
+
+ 
+We are responsible for full compliance with the Federal Acquisition Regulation (FAR). Upon award, the contract may identify certain regulations that we need to meet. For example, a contract may allow progress billing pursuant to specific FAR clauses incorporated into the contract. Other contracts may call for specific first article acceptance and testing requirements. The FAR will identify the specific regulations that we must follow based on the type of contract awarded and contains guidelines and regulations for managing a contract after award, including conditions under which contracts may be terminated, in whole or in part, at the government’s convenience or for default. These regulations also subject us to financial audits and other reviews by the government of our costs, performance, accounting and general business practices relating to our government contracts, which may result in adjustment of our contract-related costs and fees and, among other things and impose accounting rules that define allowable and unallowable costs governing our right to reimbursement under certain contracts.
+ 
+First Article Testing and Acceptance requirements consist of specific steps which could be comprehensive and time consuming. The dimensions and material specifications of each piece of the assembly must be verified, and some products may have in excess of 100 assembled parts. Once the individual piece parts are verified to be compliant to the specification, the assembly processes are documented and verified. A sample of the production (typically three units) is verified to meet final performance specifications. Once the units meet the final performance specification, they are then subjected to accelerated life testing, a series of tests which simulate the lifetime use of the product in the field. This consists of exposing the units to thermal extremes, humidity, mechanical shock, vibration, and other physical exposure tests. Once completed, the units undergo a final verification process to ensure that no damage has occurred as a result of the testing and that they continue to meet the performance specification. All of the information and data is recorded into a final first article inspection and test report and submitted to the customer along with the test units for final approval. First Article Acceptance and Testing is generally required on new contracts/product awards but may also be required on existing products or contracts where there has been a significant gap in production, or where the product has undergone significant manufacturing process, material, tooling, equipment or product configuration changes.
+ 
+We are also subject to laws, regulations and executive orders restricting the use and dissemination of information deemed classified for national security purposes and the exportation of certain products and technical data as covered by the International Traffic in Arms Regulation (ITAR). In order to import or export items listed on the U.S. Munitions List, we are required to be registered with the Directorate of Defense Trade Controls office. The registration is valid for one year, and the registration fees are established based on the number of license applications submitted the previous year. We currently have an approved and current registration on file with the Directorate of Defense Trade Controls office. Once the registration is approved, each import/export license must be filed separately. License approval requires the company to provide proof of need, such as a valid contract or purchase order requirement for the specific product or technical data requested on the license and requires a detailed listing of the items requested for export/import, the end-user, the end-user statement, the value of the items, consignees/freight forwarders and a copy of a valid contract or purchase order from the end-user. The approval process for the license can vary from several weeks to six months or more. The licenses we currently use are the Department of State licenses: DSP-5 (permanent export), DSP-6 (license revisions) and DSP-73 (temporary export) and Department of Commerce: BIS-711 (export).
+ 
+
+7
+-
+
+
+The aforementioned licenses are valid for 48 months from date that each license is issued. A summary of our active ITAR licenses is presented below (updated as of November 17, 2021):
+ 
+
+ | Fiscal Year | Number of | | Total Contract Value of | 
+---------------------------+---------------+-----------+----+--------------------------+--
+Active ITAR Licenses | of Expiration | Licenses | | Licenses | 
+DSP-5 | | | | | | 
+Issued 2018 | 2022 | | 8 | | | 2,742,658 
+Issued 2019 | 2023 | | 4 | | | 20,934,845
+Issued 2020 | 2024 | | 3 | | | 51,365 
+Issued 2021 | 2025 | | _3 | | | 232,630 
+Total DSP-5 Licenses | | | 18 | | $ | 23,961,498
+DSP-6 (no active licenses) | N/A | | — | | $ | — 
+DSP-73 | | | | | | 
+Issued in 2019 | 2023 | | 1 | | $ | 4,000 
+Total DSP-73 Licenses | | | 1 | | $ | 4,000 
+BIS-711 | | | | | | 
+Issued in 2018 | 2022 | | 4 | | $ | 113,907 
+Issued in 2019 | 2023 | | 4 | | | 3,416 
+Issued in 2020 | 2024 | | 5 | | | 92,554 
+Issued in 2021 | 2025 | | 4 | | | 323,911 
+Total BIS-711 Licenses | | | 17 | | $ | 533,788 
+Total All Licenses | | | 36 | | $ | 24,499,286
+
+ 
+These licenses are subject to termination if a licensee is found to be in violation of the Arms Export Control Act or the ITAR requirements. If a licensee is found to be in violation, in addition to a termination of its licenses, it can be subject to fines and penalties by the government.
+ 
+Our contracts may also be governed by the Truth in Negotiation Act (TINA) requirements where certain of our contracts or proposals exceed the TINA threshold ($2 million for awards after June 30, 2018), and/or are deemed as sole source, or non-competitive awards, covered under this act. For these contracts, we must provide a vast array of cost and pricing data in addition to certification that our pricing data and disclosure materials are current, accurate and complete upon conclusion of the negotiation. Due to the additional disclosure and certification requirements, if a post contract award audit were to uncover that the pricing data provided was in any way not current, accurate or complete as of the certification date, we could be subjected to a defective pricing claim adjustment with accrued interest. We have no history of defective pricing claim adjustments and have no outstanding defective pricing claims pending. Additionally, as a result of this requirement, contract price negotiations may span from two to six months and can result in undefinitized or not to exceed ceiling priced contracts subject to future downward negotiations and price adjustments. Currently, we do not have any undefinitized contracts subject to further price negotiation.
+ 
+Our failure to comply with applicable regulations, rules and approvals or misconduct by any of our employees could result in the imposition of fines and penalties, the loss of security clearances, the loss of our U.S. government contracts or our suspension or debarment from contracting with the U.S. government generally, any of which could have a material adverse effect our business, financial condition, results of operations and cash flows. We are currently in compliance with all applicable regulations and do not have any pending claims as a result of noncompliance.
+ 
+
+8
+-
+
+
+The terms of our material contracts as of November 17, 2021, are as follows:
+ 
+
+ | Customer | Contract | Total Award Value(2) | | Remaining Value(3) | | | Delivery
+---------------------------------------------------+----------------------------------+----------+---------------------------+-----+---------------------+---+-----+---------
+Customer | PO/Contract | Type(1) | (millions) | | (millions) | | | Period 
+US Prime Contractor(1) | Subcontract | FFPQ | $ | 1.6 | | $ | 0.1 | | Dec 2017- Feb 2022 
+Periscopes | PO 35506523 | | | | | | | | 
+US Prime Contractor(2) | Subcontract | FFPQ | $ | 3 | | $ | 1.1 | | Oct 2017- Mar 2024 
+Sighting Systems | PO 35515590 | | | | | | | | 
+DLA Land and Maritime(3) | Prime | IDIQ | $ | 0.9 | | $ | 0.4 | | Feb 2020 - Jun 2022 
+Periscopes | SPE7LX-18-D-0108 | | | | | | | | 
+US Prime Contractor(4) | Subcontract | FFPQ | $ | 2.6 | | $ | 0.3 | | Aug 2017- Feb 2022 
+Day Windows (AOC) | PO 40269398 | | | | | | | | 
+DLA Land and Maritime(5) | Prime | IDIQ | $ | 0.2 | | $ | 0.1 | | Feb 2021 - Apr 2022 
+Periscopes | SPE7LX-19-D-0089 | | | | | | | | 
+DLA Land and Maritime(6) | Prime | IDIQ | $ | 0.6 | | $ | 0.4 | | Dec 2021 - July 2022
+Periscopes | SPE7LX-20-D-0020 | | | | | | | | 
+DLA Land and Maritime(7) | Prime/Shared | IDIQ | $ | - | | $ | - | | No task awards have 
+Glass Periscopes | SPE7MX-20-D-0012 | | | | | | | | been released 
+DLA Land and Maritime(8) | Prime | IDIQ | $ | - | | $ | - | | No task awards as of
+Periscopes | SPE7MX-20-D-0028 | | | | | | | | current date 
+DLA Land and Maritime(9) | Prime | IDIQ | $ | - | | $ | - | | No task awards as of
+Periscopes | SPE7MX-20-D-0032 | | | | | | | | current date 
+U.S. Prime Contractor(10) XM10 Aiming Circles | Subcontract PO 63659 | FFPQ | $ | 2.3 | | $ | 2.3 | | Jul 2021- Oct 2023 
+DLA Land and Maritime(11) | Prime | IDIQ | $ | 0.8 | | $ | 0.4 | | Sept 2021 - Jan 2022
+Periscopes | SPE7LX-21-D-0057 | | | | | | | | 
+U.S. Prime Contractor(12) Laser Filter Units (AOC) | Subcontract PO 631537 | FFPQ | $ | 8.4 | | $ | 8.3 | | Aug 2021 - Oct 2023 
+Commercial Customer(13) Optical Assemblies (AOC) | Subcontract PO26071, 26077 | FFPQ | $ | 3 | | $ | 3 | | Dec 2021 - June 2022
+US Prime Contractor(14) Periscopes | Subcontract PO 40389248,40389250 | FFPQ | $ | 1.4 | | $ | 1.4 | | Feb 2022 - Mar 2023 
+
+
+(1) | Contract quantity awarded on December 2, 2016 for laser protected periscopes installed on Light Armored Vehicles in the Middle East. 
+----+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+9
+-
+
+
+(2) | The original three-year contract was awarded on September 11, 2017 to provide LAV 6.0 optimized weapon system support for Optex’s Commander Sighting System. The contract includes option years to extend the period of performance through 2035 if awarded. The current contract option extends the in-service support through March 2024 for their existing fleet of Light Armored Vehicles. 
+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3) | Contract awarded September 5, 2018. This is a long-term, Indefinite Delivery Indefinite Quantity (IDIQ) Contract with firm fixed pricing for the duration of a base period of three (3) years plus two (2) firm fixed priced option years for a potential total of (5) five years. 
+(4) | Contract awarded February 6, 2017 with an additional quantity executed on January 24, 2019. This is a Firm Fixed Price order for Day Windows manufactured at the Applied Optics Center for delivery through March 2022. 
+(5) | Contract awarded March 4, 2019. This is a long-term, Indefinite Delivery Indefinite Quantity (IDIQ) Contract with firm fixed pricing for the duration of a base period of three (3) years plus two (2) firm fixed priced option years for a potential total of (5) five years. 
+(6) | Contract awarded on November 12, 2019. This is a long-term, Indefinite Delivery Indefinite Quantity (IDIQ) Contract with firm fixed pricing for the duration of a base period of three (3) years plus two (2) firm fixed priced option years for a potential total of (5) five years for periscopes valued up to $2.3 million. 
+(7) | Contract awarded on December 5, 2019. This is a shared long-term, Indefinite Delivery Indefinite Quantity (IDIQ) Contract with firm fixed pricing for the duration of a base period of three (3) years plus two (2) firm fixed priced option years for a potential total of (5) five years and a maximum of value $35 million for Improved Commander Weapon System (ICWS) periscopes. As of October 3, 2021, there have been no task orders released against the base contract award. 
+(8) | Contract awarded on January 24, 2020. This is a long-term, Indefinite Delivery Indefinite Quantity (IDIQ) Contract with firm fixed pricing for the duration of a base period of three (3) years plus two (2) firm fixed priced option years for a potential total of (5) five years for periscopes valued up to $3.6 million. As of October 3, 2021, there have been no task orders released against the base contract award. 
+(9) | Contract awarded on February 12, 2020. This is a long-term, Indefinite Delivery Indefinite Quantity (IDIQ) Contract with firm fixed pricing for the duration of a base period of three (3) years plus two (2) firm fixed priced option years for a potential total of (5) five years for periscopes valued up to $9.2 million. As of October 3, 2021, there have been no task orders released against the base contract award. 
+(10) | Purchase Order by a U.S. prime contractor in support of government contract W15QKN-16-D-0055 for Aiming Circle optical subassemblies. The purchase order was awarded on July 30, 2020 for $2 million and amended to $2.3 million on 9/14/2020 and includes non-recurring engineering and first article testing during fiscal year 2021, with production deliveries from November 2021 through October 2023. 
+(11) | Contract awarded on January 6, 2021. This is a long-term, Indefinite Delivery Indefinite Quantity (IDIQ) Contract with firm fixed pricing for the duration of a base period of three (3) years plus two (2) firm fixed priced option years for a potential total of (5) five years for periscopes valued up to $14.4 million. 
+(12) | Purchase Order awarded August 3, 2021 by a U.S. prime contractor in support of U.S. government contracts. Award includes first article inspection in August 2021 and production deliveries commencing in September 2021 through October 2023. 
+(13) | Purchase Orders awarded September 8, 2021 and September 21, 2021 by a commercial customer. 
+(14) | Purchase Orders awarded September 24, 2021 by a U.S. prime contractor in support of U.S. government contracts. 
+
+Market Opportunity — U.S. Military
+ 
+During the twelve months ended October 3, 2021, approximately 86% of our business was in support of U.S. military products. The chart below was derived from public government spending sources and depicts total U.S. military spending from 2011 through 2020 and estimated spending through 2026. The purpose of including this chart is to provide the reader with historical trend data and projected U.S. military defense and procurement spending over time. For fiscal year 2022, the total projected military spending is estimated at $729.5 billion, an overall increase of 1.7% over estimated 2021 spending. The chart below also depicts increased spending through 2026 of 9.0% from the current estimated fiscal year 2021 level. Military procurement spending, a subset of total military spending, depicts an overall decline of 13.3 billion, or 9.7% in fiscal year 2022 as compared to the estimated spending in fiscal year 2021.
+
+10
+--
+
+
+Military spending was negatively impacted by the Budget Control Act of 2011 (BCA 2011), which was passed in August 2011. The BCA 2011 mandated a $917.0 billion reduction in discretionary spending over the succeeding decade, and $1.2 trillion in automatic spending cuts over a nine-year period to be split between defense and non-defense programs beginning in January 2013. During the years 2015-2019 Congress enacted additional legislative budget measures which eased the strict spending caps set forth in sequestration of the BCA 2011 through the 2021 fiscal budget year.
+ 
+On February 9, 2018, Congress enacted the Bipartisan Budget Act of 2018 (BBA 2018), a budget stop gap resolution which lifted the sequestration limits on military spending by $165 billion through fiscal year 2019. On August 2, 2019, the Bipartisan Budget Act of 2019 (BBA 2019) was signed into law. The BBA 2019 raises the budget caps for both defense and nondefense for fiscal year 2020 and fiscal year 2021, the final two years of the BCA 2011 discretionary cap period. The 2019 bill increases the defense base budget by $171 billion over the BCA 2011 and sets limits on the Overseas Contingency Operations (OCO) Emergency Funding of $141 billion over the two-year period. Under the current law, there are no caps on defense and nondefense discretionary spending for fiscal year 2022 and beyond.
+ 
+As of December 14, 2021, the National Defense Authorization Act for Fiscal Year 2022 (2022 NDAA) has not yet been passed by Congress. The Chart below depicts the estimated funding levels from the U.S. Department of Defense based on the FY2022 budget request.
+ 
+
+Source: Government Publishing Office, U.S. Budget Historical Tables, FY 2022, Table 3.2 Outlays by function and sub function, 1962-2026.
+ 
+
+11
+--
+
+
+The table below depicts the U.S. Department of Defense budget request for fiscal year 2022 for major ground system programs. The total fiscal year 2022 budget request for major ground system programs decreased by 14.2% from the fiscal year 2021 levels and by 16.3% from the fiscal year 2020 levels. Although it is difficult to directly tie the budget request to specific components provided by Optex Systems, we provide periscopes, collimator assemblies, vision blocks and laser interface filters to the U.S. armed forces on almost all of the ground system platforms categorized below.
+ 
+
+Major Weapon System Summary | | | | | | | | 
+-------------------------------+------------------------------------+---------+---+---------+---+---------+---------+--------
+($ in Millions) | FY 2020 | | | FY 2021 | | | FY 2022 | 
+Ground Systems - Joint Service | | | | | | | | | | | 
+JLTV | Joint Light Tactical Vehicle | | $ | 1,716.5 | | | $ | 1,401.9 | | | $ | 1,055.3
+Ground Systems - USA | | | | | | | | | | | 
+M-1 | Abrams Tank Modification/Upgrades | | | 2,186.0 | | | | 1,404.2 | | | | 1,031.7
+AMPV | Armored Multi-Purpose Vehicle | | | 525.2 | | | | 139.1 | | | | 140.3 
+PIM | Paladin Integrated Management | | | 744.5 | | | | 681.4 | | | | 659.7 
+FMTV | Family of Medium Tactical Vehicles | | | 141.4 | | | | 207.8 | | | | 54.1 
+FHTV | Family Of Heavy Tactical Vehicles | | | 50.8 | | | | 28.8 | | | | 95.9 
+NGSW | Next Generation Squad Weapon | | | 86.2 | | | | 124.4 | | | | 165.0 
+Stryker | Stryker | | | 953.2 | | | | 1,186.3 | | | | 1,036.0
+Ground Systems - USMC | | | | | | | | | | | 
+ACV | Amphibious Combat Vehicle | | | 349.3 | | | | 478.6 | | | | 613.1 
+Total Ground System Vehicles | $ | 6,753.1 | | | $ | 5,652.5 | | | $ | 4,851.1 | 
+
+Source: Office of the Under Secretary of Defense (Comptroller)/Chief Financial Officer, “Program Acquisition Cost by Weapon System, United States Department of Defense, Fiscal Year 2022 Budget Request”, May 2021.
+ 
+The 2022 Department of Defense Budget indicates an overall decrease in ground system vehicle program spending in the fiscal year 2021 and the 2022 appropriation budget years. There is generally a six to eighteen-month delay between U.S. defense budget requests and program delivery orders related to our products from government agencies and our prime defense customers. In addition, DoD budget requests are often changed throughout the congressional NDAA Budgeting and Budget appropriations process. The DoD budget requests exclude any foreign military sales as they are funded separately from the annual NDAA budgets. We are carefully watching the projected trends in both DoD military spending and FMS as defense allocation priorities change, as well as challenges which are presented from the current pandemic, global recession, and changes in political climate to ascertain any potential impact to the company’s future revenue.
+ 
+The Applied Optics Center supports numerous other military platforms outside of the ground system vehicles budget such as infantry rifle scopes, night vision monoculars, infantry and navy binoculars, night goggles, and infrared aircraft filters. The Applied Optics Center has seen a substantial increase in orders from new and existing customers in support of the other platforms, which we expect to offset the impact of the ground systems reductions to their base revenue.
+ 
+Market Opportunity — Foreign Military
+ 
+Our products directly support FMS combat vehicles globally, including Canada, the Kingdom of Saudi Arabia, Kuwait, Morocco, Egypt, South America, and Israel. We have increased efforts to promote our proven military products, as well as newly improved product solutions directly to foreign military representatives and domestic defense contractors supporting the FMS initiatives.
+ 
+In addition, we have partnered with G&H for the supply of acrylic-based sighting system technology to meet European customer requirements for a total package single-technology source supply. Some foreign customers desire the reduced weight and cost savings provided by acrylic based periscopes when compared directly to glass-based periscopes. Our partnership will allow us to deliver this technology through ITAR licenses directly to them or their customers. G&H designs and manufactures periscopes and sighting systems for armored fighting vehicles under the Kent Periscopes brand. With a strong footprint in Europe and Asia, G&H supplies glass-based products for both periscope external viewing and system sensor-based imaging by commanders, drivers, and gunners.
+ 
+
+12
+--
+
+
+We are currently under contract with the Israeli Ministry of Defense (IMOD) to refurbish a small quantity of their Night Vision Rifle Scopes. If this initial quantity meets their requirements, we expect substantial follow on orders to refurbish a major portion of their current inventory.
+ 
+We are also exploring possibilities to adapt some of our products for commercial use in those markets that demonstrate potential for solid revenue growth, both domestically and internationally.
+ 
+Market Opportunity — Commercial
+ 
+Our products are currently sold to military and related government markets. We believe there may be opportunities to commercialize various products we presently manufacture to address other markets. Our initial focus will be directed in three product areas.
+
+● | Big Eye Binoculars — While the military application we produce is based on mature military designs, we own all castings, tooling and glass technology. These large fixed mount binoculars could be sold to cruise ships, personal yachts and cities/municipalities. The binoculars are also applicable to fixed, land-based outposts for private commercial security as well as border patrols and regional law enforcement. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Thin Film Coatings — The acquisition of the Applied Optics Center (AOC) also creates a new sector of opportunity for commercial products for us. Globally, commercial optical products use thin film coatings to create product differentiation. These coatings can be used for redirecting light (mirrors), blocking light (laser protection), absorbing select light (desired wavelengths), and many other combinations. They are used in telescopes, rifle scopes, binoculars, microscopes, range finders, protective eyewear, photography, etc. Given this broad potential, the commercial applications are a key opportunity going forward. 
+● | Optical Assemblies – Through the Applied Optics Center, we are utilizing our experience in military sighting systems to pursue commercial opportunities associated with products that incorporate multi-lens optical cell assemblies, bonded optical elements and mechanical assemblies. There are a wide variety of products in the medical, machine vision, automotive and outdoor recreation fields that can benefit from our capabilities. Support to domestic customers for these type products has driven significant increases in overall sales during the last five years. 
+
+Customer Base
+ 
+We serve customers in four primary categories: as prime defense contractor (Defense Logistics Agency (DLA) Land and Maritime, DLA Warren, DLA Aviation, U.S. Army, Navy and Marine Corps), as defense subcontractor (General Dynamics, L-3 Communications, Elbit Systems, BAE, Sig Sauer, and ADS Inc.), as a military supplier to foreign governments (Israel, Australia, South America and Canada) and also as a commercial optical assembly supplier (Nightforce Optics, Cabela’s, Amazon). During the twelve months ended October 3, 2021, we derived approximately 86% of our gross business revenue from six major customers: U.S. government agencies (28%), four major defense contractors, (27%, 11%, 5%, and 5%), and one commercial customer (10%). We have approximately 98 discrete contracts for items that are utilized in vehicles, optical product lines and as spare parts. Due to the high percentage of prime and subcontracted U.S. defense revenues, large customer size and the fact that there are multiple contracts with each entity, which are not interdependent, we are of the opinion that this provides us with a fairly well diversified revenue pool.
+Marketing Plan
+ 
+We believe we are well positioned to service both U.S. and foreign military needs by our focus on delivering products that satisfy the following factors important to the U.S. military:
+
+● | Product reliability — failure can cost lives 
+--+---------------------------------------------------------
+● | Speed to delivery and adherence to delivery schedule 
+● | System life cycle extension 
+
+
+13
+--
+
+
+● | Low cost/best value 
+--+----------------------------------------------------------------------
+● | Visual aids for successful execution of mission objectives 
+● | Mission critical products specifically related to soldier safety. 
+
+ 
+
+
+Potential Entrants — Low Risk to us. In order to enter this market, potential competitors must overcome several barriers to entry. The first hurdle is that an entrant would need to prove to the government agency in question the existence of a government approved accounting system for larger contracts. Second, the entrant would need to develop the processes required to produce the product. Third, the entrant would then need to produce the product and submit successful test requirements (many of which require lengthy government consultation for completion). Finally, in many cases, the customer has an immediate need and therefore cannot wait for this qualification cycle and therefore must issue the contracts to existing suppliers. Given the expense of development and qualification testing, the barrier to entry is high for new competitors.
+ 
+Buyers — Medium Risk to us. In most cases the buyers (usually government agencies or defense contractors) have two fairly strong suppliers. It is in their best interest to keep at least two, and therefore, in some cases, the contracts are split between suppliers. In the case of larger contracts, the customer can request an open book policy on costs and expects a reasonable margin to have been applied.
+ 
+
+14
+--
+
+
+Substitutes — Low Risk to us. We have both new vehicle contracts and replacement part contracts for the same product. Three combat vehicles have a long history of service in the U.S. Army. The first M-1 Abrams Tank entered service with the Army in 1980; the M-2/M-3 Bradley Fighting Vehicle in 1981; and the Stryker Combat Vehicle in 2001. Under current Army modernization plans, the Army envisions all three vehicles in service with Active and National Guard forces beyond FY2028. Optex Systems provides periscopes and optical sighting systems in support of all three vehicle platforms. Since the early 2010s, the U.S. Army has been upgrading its outdated Bradley design with the Operation Desert Storm-Situational Awareness model and since 2012, upgrading the underbelly armor to improve mine and improvised explosive device resistance. Since it was first fielded in 1980, the Abrams tank has undergone near-continuous upgrades and improvements. The Abrams is the principal battle tank of the United States Army and Marine Corps, and the armies of Egypt, Kuwait, Saudi Arabia, Iraq, and since 2007, Australia. On average, there has been a new improvement package every seven years. The Army is currently upgrading the Abrams with a System Enhancement Package Version 3 (SEPv3), with additional upgrades in development. Additionally, the US Army has announced contracts to produce 742 Stryker DVH vehicles, redesigned (dual v-hulled vehicles) to be more resistant to land mines, as retrofits and as new production vehicles. The Abrams, Bradley and Striker vehicles are the only production tanks currently in production by the government. We believe that this, in conjunction with the 30-year life span, supports our expectation that they will continue to be used through 2040.
+ 
+Suppliers — Low to Medium Risk to Optex Systems Holdings. The suppliers of standard processes (e.g., casting, machining and plating) need to be very competitive to gain and/or maintain contracts. Those suppliers of products that use top secret clearance processes have a slight advantage; however, there continues to be multiple avenues of supply and therefore only moderate power.
+ 
+Consistent with our marketing plan and business model, the AOC acquisition strengthened our overall position by decreasing the bargaining power of their suppliers through the backwards integration of a key supplier and created additional barriers of entry for potential competitors.
+ 
+The following matrix reflects the current focus of our four basic approaches for sales and development:
+ 
+
+1) | Sell existing products to existing customers. 
+---+----------------------------------------------------------------------
+2) | Sell existing products to new customers. 
+3) | Develop new products to meet the needs of our existing customers. 
+4) | Develop new products to meet the needs of new customers. 
+
+
+ | Existing Customers | New Customers 
+----------------------+---------------------------------------+------------------------------------------------------------------------------------------------------------------------
+New Products | | Chile M17 Day/Thermal 
+ | USACC Binoculars | Brazil M17 Day/Thermal 
+ | GDLS DDAN, OWSS | Israel M17 Day/Thermal, OWSS U.S. Prime Contractor - XM10 Aiming Circle 
+ | Commercial Optical Lens | Commercial: Optical Lens, Spotting Scopes, Monocular Lens 
+Existing Products | USACC Periscopes, Back Up Sights, | Marines Sighting Systems 
+ | Binoculars, Vision Blocks, | 
+ | Laser Filter Units | Commercial: Optical Lens, Spotting 
+ | GDLS Periscopes, Collimators | Scopes, Monocular Lens 
+ | BAE Periscopes | 
+ | L3- Laser Interface Filters | U.S. Prime Contractor – Laser Filter Units 
+ | DLA Optical Elements | 
+
+Operations Plan
+ 
+Our operations plan can be broken down into three distinct areas: material management, manufacturing space planning and efficiencies associated with economies of scale.
+ 
+
+15
+--
+
+Materials Management
+ 
+The largest portion of our costs is materials. We have completed the following activities in order to demonstrate continuous improvement:
+ 
+
+- | Successful completion of annual surveillance audit for ISO 9001:2008 certificate, with no major nonconformance issues 
+--+--------------------------------------------------------------------------------------------------------------------------
+- | Weekly cycle counts on inventory items 
+- | Weekly material review board meeting on non-moving piece parts 
+- | Kanban kitting on products with consistent ship weekly ship quantities 
+- | Daily cross functional floor meetings focused on delivery, yields and labor savings 
+- | Redesigned floor layout using tenant improvement funds 
+- | Daily review of yields and product velocity 
+- | Bill of material reviews prior to work order release 
+
+ 
+Future continuous improvement opportunities include installation and training of shop floor control module within the ERP system and organizational efficiencies of common procurement techniques among buyers.
+ 
+Manufacturing Space Planning
+ 
+We currently lease 93,967 square feet of manufacturing space (see “Properties”). Our current facilities are sufficient to meet our immediate production needs without excess capacity. As our processes are primarily labor driven, we are able to easily adapt to changes in customer demand by adjusting headcounts, overtime schedules and shifts in line with production needs. In the event additional floor space is required to accommodate new contracts, Optex has the option to lease adjacent floor space at the current negotiated lease cost per square foot. Consistent with the space planning, we will drive economies of scale to reduce support costs on a percentage of sales basis. These cost reductions can then be either passed through directly to the bottom line or used for business investment.
+ 
+Our manufacturing process is driven by the use of six sigma techniques and process standardization. Initial activities in this area have been the successful six sigma projects in several production areas which have led to improved output and customer approval on the aesthetics of the work environment. In addition, we use many tools including 5S programs, six sigma processes, and define, measure, analyze, improve, control (DMAIC) problem solving techniques to identify bottlenecks within the process flow, reduce cost and improve product yields. Successful results can then be replicated across the production floor and drive operational improvements.
+ 
+Economies of Scale
+ 
+Plant efficiencies fluctuate as a function of program longevity, complexity and overall production volume. Our internal processes are primarily direct labor intensive and can be more easily adapted to meet fluctuations in customer demand; however, our material purchases, subcontracted operations and manufacturing support costs are extremely sensitive to changes in volume. As our volume increases, our support labor, material and scrap costs decline as a percentage of revenue as we are able to obtain better material pricing, and scrap, start up and support labor (fixed) costs and they are spread across a higher volume base. On the contrary, as production volumes decline, our labor and material costs per unit of production generally increase. Additional factors that contribute to economies of scale relate to the longevity of the program. Long running, less complex programs (e.g., periscopes) do not experience as significant of an impact on labor costs as production volumes change, as the associated workforce is generally less skilled and can be ramped quickly as headcounts shift. Our more complex thin laser filter coatings, Howitzer and thermal day/night programs are more significantly impacted by volume changes as they require a more highly-skilled workforce and ramp time is longer as the training is more complex. We continually monitor customer demand over a rolling twelve-month window and in order to anticipate any changes in necessary manpower and material which allows us to capitalize on any benefits associated with increased volume and minimize any negative impact associated with potential declines in product quantities.
+
+16
+--
+
+Intellectual Property
+ 
+We utilize several highly specialized and unique processes in the manufacture of our products. While we believe that these trade secrets have value, it is probable that our future success will depend primarily on the innovation, technical expertise, manufacturing and marketing abilities of our personnel. We cannot assure you that we will be able to maintain the confidentiality of our trade secrets or that our non-disclosure agreements will provide meaningful protection of our trade secrets, know-how or other proprietary information in the event of any unauthorized use, misappropriation or other disclosure. The confidentiality agreements that are designed to protect our trade secrets could be breached, and we might not have adequate remedies for the breach. Additionally, our trade secrets and proprietary know-how might otherwise become known or be independently discovered by others. We possess three utility patents and two design patents.
+ 
+Our competitors, many of which have substantially greater resources, may have applied for or obtained, or may in the future apply for and obtain, patents that will prevent, limit or interfere with our ability to make and sell some of our products. Although we believe that our products do not infringe on the patents or other proprietary rights of third parties, we cannot assure you that third parties will not assert infringement claims against us or that such claims will not be successful.
+ 
+The following patents generally expire 20 years after issuance.
+ 
+On July 13, 2021, we filed for a new patent, currently under review with the United States Patent and Trademark Office.
+ 
+On June 18, 2019 we were issued U.S. Patent No. 10,324,298 titled “Offset Image Wedge with Dual Capability and Alignment Technique”. The invention relates to an offset image wedge for use on a bore-sighted rifle mounted directly onto the scope via a clamp mounting device. The wedge allows for a dual image which can be aligned in the field and provides the user with a choice of either a bore-sighted image or an offset image without removing the wedge.
+ 
+On July 11, 2017, we were issued U.S. Patent No. D791,852 S, for our Red Tail Digital Spotting Scope. We have a retail sales relationship with Cabela’s Inc. and Amazon, to distribute these scopes. They are currently the only digital spotting scope offered by Cabela’s. Our Red Tail Digital Spotting Scopes also received a favorable review from Trigger Magazine in 2017.
+ 
+In May 2015, we announced the issuance to us of U.S. Patent No. 13,792,297 titled “ICWS Periscope”. This invention improves previously accepted levels of periscope performance that, in turn, improve soldier’s safety.
+ 
+In December 2013, Optex Systems, Inc. was issued U.S. Patent No. 23,357,802 titled “Multiple Spectral Single Image Sighting System Using Single Objective Lens Set.” The technology platform, designed for our DDAN program, is applicable to all ground combat vehicles used by the US and foreign militaries. This invention presents a single image to both day and night sensors using precision optics, which in turn allows the user to individually observe day, night, or day and night simultaneously. In addition, it has proven to be especially useful in light transition points experienced at dusk and dawn. We are in production and currently delivering sighting systems with this advanced technology, a significant upgrade in the goal of supporting our customers as they modernize the worldwide inventory of aging armored vehicles. This technology is applicable to many sighting systems, and it has already been designed for implementation on the Light Armored Vehicles, the Armored Security Vehicle, the Amphibious Assault Vehicle, and the M60 Main Battle Tank. Digital Day and Night technology has advanced the capabilities of these installed weapon systems and is the first in a series of patents we have applied for to protect our Intellectual Property portfolio in support of the warfighters who use these systems.
+ 
+
+17
+--
+
+
+In May 2012, we purchased a perpetual, non-exclusive license, with a single up-front license fee of $200,000 to use Patent 7,880,792 “Optical and Infrared Periscope with Display Monitor” owned by Synergy International Optronics, LLC. We believe the purchase of the license agreement may allow us to extend and expand our market potential for the M113APC vehicle type which has the highest number of commonly used armored vehicles in the world. The current estimated active M113 APC worldwide inventory is over 80,000 units. This licensing of this patent allows us to develop additional products for this vehicle type, including the M17 Day/Thermal and M17 Day/Night periscopes. We are actively marketing the new periscopes internationally and completed our first international shipment utilizing this technology in March 2014. We continue to prototype these products and demonstrate them to potential customers.
+ 
+Competition
+ 
+The markets for our products are competitive. We compete primarily on the basis of our ability to design and engineer products to meet performance specifications set by our customers. Our customers include military and government end users as well as prime contractors that purchase component parts or subassemblies, which they incorporate into their end products. Product pricing, quality, customer support, experience, reputation and financial stability are also important competitive factors.
+ 
+There are a limited number of competitors in each of the markets for the various types of products that we design, manufacture and sell. At this time, we consider our primary competitors for the Optex, Richardson site to be Kent Periscopes and Synergy International Optronics, LLC. The Applied Optics Center thin film and laser coatings products compete primarily with Materion-Barr, Artemis and Alluxa.
+ 
+Our competitors are often well entrenched, particularly in the defense markets. Some of these competitors have substantially greater resources than we do. While we believe that the quality of our technologies and product offerings provides us with a competitive advantage over certain manufacturers, some of our competitors have significantly more financial and other resources than we do to spend on the research and development of their technologies and for funding the construction and operation of commercial scale plants.
+ 
+We expect our competitors to continue to improve the design and performance of their products. We cannot assure investors that our competitors will not develop enhancements to, or future generations of, competitive products that will offer superior price or performance features, or that new technology or processes will not emerge that render our products less competitive or obsolete. Increased competitive pressure could lead to lower prices for our products, thereby adversely affecting our business, financial condition and results of operations. Also, competitive pressures may force us to implement new technologies at a substantial cost, and we may not be able to successfully develop or expend the financial resources necessary to acquire new technology. We cannot assure you that we will be able to compete successfully in the future.
+ 
+Employees and Human Capital
+ 
+We had 84 full time equivalent employees as of October 3, 2021 and 87 employees as of December 13, 2021, which include a small temporary work force to handle peak loads as needed. We are in compliance with local prevailing wage, contractor licensing and insurance regulations, and have good relations with our employees, who are not currently unionized. We use outside consultants for various services. We have not experienced any work stoppages and are not a party to a collective bargaining agreement. Management considers labor relations to be good.
+ 
+We are dedicated to preserving operational excellence and remaining an employer of choice. We provide and maintain a work environment that is designed to attract, develop and retain top talent through offering our employees an engaging work experience that contributes to their career development. We recognize that our success is based on the collective talents and dedication of those we employ, and we are highly invested in their success. We value our employees and believe that employee loyalty and enthusiasm are key elements of our operating performance.
+ 
+Internet Address
+ 
+The Company maintains an internet website at the following address: www.optexsys.com. The information on the Company’s website is not incorporated by reference in this Annual Report on Form 10-K.
+
+18
+--
+

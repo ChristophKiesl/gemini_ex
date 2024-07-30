@@ -1,0 +1,307 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+------------+---------
+
+ 
+GAN Limited is a Bermuda exempted holding company and through its subsidiaries, is a business-to-business (“B2B”) supplier of enterprise Software-as-a-Service (“SaaS”) solutions for online casino gaming, commonly referred to as iGaming, and online sports betting applications. Our technology platform, which we market as the GameSTACK™ Internet gaming ecosystem platform (“GameSTACK”), has been deployed in both Europe and the United States. However, we are primarily focused on enabling the U.S. casino industry’s ongoing digital transformation, which is accelerating following the repeal of a federal ban on sports betting in May 2018. Our customers rely on our software to run their online casinos and sportsbooks legally, profitably and with engaging content. Additionally, following our acquisition of Coolbet in January 2021, an award-winning developer and operator of a legal online sports betting and casino platform, we now offer customers a digital portal for engaging in sports betting, online casino games and peer-to-peer poker.
+ 
+GameSTACK
+ 
+Our GameSTACK customer base in the United States includes large regional operators as well as individual tribal casino operators that, combined, operate over 100 retail casino properties, racetracks and online sportsbooks. Our customers in the United States that are outside of the states with regulated online casino or sports betting markets generally operate on our social casino or simulated gambling applications. The largest portion of our U.S. business is in real money Internet gambling (“real money iGaming” or “RMiG”) with operators in the states where either (or both) Internet casino gaming and sports betting are permitted by regulation.
+ 
+Our GameSTACK platform and related managed services are designed to help our customers rapidly launch and scale their iGaming and online sportsbook operations. Our iGaming offerings support both social, or “freemium,” simulated online casino gaming (“simulated gaming” or “SIM”) as well as RMiG for deployment in regulated markets. Like RMiG, SIM is a revenue center for our customers in non-regulated markets. We measure the level of player engagement through key performance measures including Active Player-Days, Gross Operator Revenue, and Average Revenue per Daily Active User, which we track for both SIM and RMiG operations. For more information, refer to the Segment Results section of our Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+ 
+GameSTACK forms the technical hub of our casino operator customers’ online gaming presence. The platform provides the foundational technology and back-office tools necessary for a successful consumer experience, including intuitive player account activation, sophisticated payment services, geolocation, marketing, loyalty club linking and real-time analytics and reporting. The core of the GameSTACK platform is its player account management system, in which highly sensitive consumer and player activity data is stored and processed. This is the layer of any casino operator’s online technology deployment that becomes the focal point of regulatory licensure since it is the fortified vault of player data and privacy. We are the trusted custodian of player transactional data and provide direct visibility into wagering activity, which allows us to deploy proprietary plater analysis models to help our casino operator customers predict and identify, over time, their highest-value players. Our casino operator customers rely on our data models to best direct their retention marketing investments towards specific customer profiles, thereby optimizing player loyalty and therefore player value. GameSTACK also relies on a flexible integration services layer in order to integrate easily with other essential third-party systems such as casino management systems, remote gaming servers, sports betting engines, and marketing services applications.
+ 
+In addition to our growth opportunity within our existing core markets, we see a large and growing universe of additional potential new customers for GameSTACK in selected U.S. states that have formally passed online sports betting but have not yet implemented a regulatory framework for governing online real money iGaming in their states. We believe that as newly regulated U.S. states such as Michigan generate real tax revenue for their respective state treasuries that more states will evaluate, develop, and pass online gaming legislation. GAN has the unique ability to absorb and support this expansion. For example, in January 2021, we simultaneously launched three operator clients online in Michigan, including FanDuel Group Inc.’s (“FanDuel”) online casino and two new clients, Churchill Downs’ brand TwinSpires and Wynn Resorts’ WynnBET.
+ 
+
+4
+-
+
+
+GameSTACK may also be configured as a “super” remote gaming server (“Super RGS”), otherwise known as an RGS aggregator, when can be deployed on behalf of existing Internet casino operators (for example, in states such as New Jersey, Pennsylvania and Michigan) that are operating on their own proprietary or third-party platform. Super RGS provides these operators with access to all of our own games as well as 29 current (and all future) remote gaming server integrations, as well as our content library of more than 1,000 Internet casino games. Super RGS creates a technical and commercial vehicle for us to deliver our proprietary casino content and third-party game content across the entirety of the relevant U.S. intrastate markets. Our Super RGS provides for a cost and time savings for new and existing market operators to more efficiently manage their game content.
+ 
+Coolbet
+ 
+On January 1, 2021, we completed the acquisition of all outstanding shares of Vincent Group p.l.c., a Malta public limited company doing business as “Coolbet.” Coolbet operates a business-to-consumer (“B2C”) casino and sports-betting platform that is accessible for gambling via its website Coolbet.com in eight national markets across Northern Europe (Estonia, Finland, Iceland, Norway and Sweden), Latin America (Chile and Peru) and North America (Canada). Coolbet.com launched in May 2016 and as of January 1, 2021, had over 375,000 registered customers. Coolbet holds gambling licenses in Estonia, Malta and Sweden. The majority of Coolbet’s traffic comes from mobile customers and each region features customized interfaces with localized product offerings and local language support teams. The largest revenue stream for 2020 came from sports betting (50% of total revenue), followed by online casino games (45% of total revenue) and online peer-to-peer poker across various operators in real-time select markets (5% of total revenue). Revenue increased 50% in 2020 from $23.6 million in 2019 to $35.5 million in 2020. Coolbet’s results of operations for 2019 and 2020 are not included in our financial results due to the fact that the acquisition closed on January 1, 2021.
+Corporate History
+ 
+We were an early pioneer of online gaming. We commenced operations in 2002 in the United Kingdom and first generated revenues in December 2002. Our initial product allowed end user residents of the United Kingdom to create an online account, deposit money into that account and to compete against each other online in competitions of skill. We offered online games of skill to residents of the United Kingdom under the operation of the United Kingdom’s applicable legislation, the Lotteries & Amusements Act 1976 (s.14), which permitted competitions of skill.
+ 
+In May 2020, GAN Limited completed a reorganization and share exchange pursuant to which we acquired all of the outstanding ordinary shares of GAN plc and became the parent company of GAN plc. Subsequently, GAN plc changed its name to GAN (UK) Limited. On May 7, 2020, we completed our U.S. initial public offering under which we sold an aggregate of 7,337,000 ordinary shares at a price per share to the public of $8.50 and raised gross proceeds of $62.4 million.
+ 
+On November 16, 2020 we entered into a share exchange agreement (the “Share Exchange Agreement”), pursuant to which we agreed to acquire all of the outstanding equity in Vincent Group p.l.c., a Malta public limited company doing business as “Coolbet” in exchange for cash and ordinary shares. On December 21, 2021 we completed a secondary public offering, issuing 6,790,956 ordinary shares in exchange for net proceeds of $98.5 million after underwriting discounts and commission and other offering expenses. We used the proceeds from this offering to fund the cash portion of the purchase price payable to the Coolbet shareholders. On January 1, 2021, we completed the acquisition of Coolbet in exchange for a purchase price of $218.6 million comprised of a cash payment of $111.6 million, the issuance of 5,260,516 ordinary shares (valued at $106.7 million) and the issuance of replacement equity awards (valued at $0.3 million).
+
+
+
+5
+-
+
+
+iGaming and Online Sportsbook Industry and Background
+ 
+Our GameSTACK platform and related managed services are geared towards casino operators, with an emphasis on land-based commercial and tribal casinos in the United States, although we have deployed our solutions in other geographies such as the United Kingdom, Italy, and Australia. We also market our platform technology to gaming ecosystem partners, such as online sportsbooks and gaming content developers, who provide us with an indirect channel into casino operators.
+ 
+On May 14, 2018, the Supreme Court of the United States overturned the Professional and Amateur Sports Protection Act (“PASPA”), which since 1992 had prevented U.S. states, aside from Nevada, Delaware and Oregon from engaging in the regulation and taxation of sports betting activities at the intrastate level. The ruling paved the way for states to elect individually whether to allow for regulated sports betting and, by extension, real money iGaming within their borders. Prior to the Supreme Court of the United States overturning PASPA, U.S. casino operators were largely limited to retail slot and table gaming operations and, in the online channel, to simulated gaming operations offering no prospect for real money winnings.
+ 
+Between May 2018 and March 2021, 21 U.S. states enacted and approved some form of real money gaming legislation, with 14 of those states approving online sports betting or iGaming. Each state has unique regulatory and licensure requirements, and our ability to rapidly customize deployments and submit expeditiously for individual state gaming licensure has been a vital contributor to our success in the U.S. market. We enable our customers to deploy iGaming and online sportsbook offerings to their end users quickly, capturing valuable early-mover advantages in their relevant markets, such as for the recent launch in Michigan in January 2021. We are presently licensed or approved to operate our RMiG platform in New Jersey, Pennsylvania, Indiana, West Virginia, Colorado, Michigan, and Tennessee. Following the November 2020 election, three additional states (Louisiana, Maryland, and South Dakota) legalized online sports betting and we are monitoring several additional states (Ohio, Massachusetts, New York) that currently have some legislative momentum for possible legalization in 2021. We plan to and will pursue licensure in these additional states in 2021 and beyond.
+ 
+Full scale Internet sports betting launched in New Jersey on August 3, 2018; West Virginia on December 27, 2018; Pennsylvania on May 28, 2019; Oregon on October 16, 2019; and in New Hampshire on December 30, 2019. As of December 3, 2020, 25 states have approved legalized sports betting: New York, New Jersey, West Virginia, Pennsylvania, Indiana, Iowa, Arkansas, Mississippi, Rhode Island, Delaware, Oregon, Nevada, New Hampshire, Colorado, Illinois, Michigan, Tennessee, Montana, North Carolina, New Mexico, Louisiana, Maryland, South Dakota, Virginia and Washington, along with Washington D.C. Real money iGaming is also presently legal in six states: New Jersey, Pennsylvania, Michigan, West Virginia, Nevada and Delaware.
+ 
+Online sports betting deployment models can vary widely due to state-specific regulatory and licensing mandates. However, licensed casino operators with land-based retail facilities tend to partner with online sportsbook operators in order to accelerate online customer acquisition. These operators generally rely on a technology platform, such as GameSTACK, for player onboarding, player account management, payment processing and various back-office tools designed to maintain regulatory compliance and real-time reporting. Additionally, the technology ecosystem for online sportsbooks incorporates a sports betting engine for pricing, trade execution and risk management, which we now own following our acquisition of Coolbet in January 2021.
+ 
+In order to monetize players both online and offline in a coherent manner, casino operators pursue omni-channel marketing strategies necessitating deep integration of hardware and software elements, including computing infrastructure, customer relationship management, casino management system and loyalty program management. Because of the complexity in deploying and maintaining iGaming and online sports betting infrastructures, casino operators may rely on third-party managed services providers to stand up, operate and maintain all or part of the technology infrastructure.
+ 
+Our Platform and Services
+ 
+Our overarching product strategy for GameSTACK is to provide a unified, flexible and highly scalable platform that can be rapidly licensed and deployed for SIM, RMiG and online sports betting. In addition to our platform, we offer a range of professional and managed services designed to fast-track deployments and provide ongoing operational support following commercial launch.
+
+6
+-
+
+
+Our SIM and RMiG offerings share a common code base and user interface within GameSTACK, providing our SIM customers with a readily accessible upgrade path to RMiG. In developing GameSTACK, we remained fully committed to building an evergreen and agile software architecture forged from a single code base, ensuring that developments in metagame mechanics, new back-office functionalities and integrations with leading third-party software could be capitalized on by our customers across all gameplay modalities. Importantly, we developed our code to operate in multiple jurisdictions and under different regulatory requirements, giving us the ability to leverage quickly different configurations to comply with newly regulated markets.
+ 
+As of December 31, 2020, we had ten instances of GameSTACK deployed inside data centers – one located in Nevada, three in New Jersey, three in Pennsylvania, one in Oklahoma, one in Guernsey (U.K. Channel Islands) and one in Italy.
+ 
+GameSTACK Platform
+ 
+GameSTACK is a turnkey platform comprising proprietary enterprise-level software, hardware and specific proprietary components such as our iSight Back Office tool (“iSight”) and the iBridge Framework that has developed, evolved and hardened over a period of 17 years. GameSTACK is a comprehensive platform providing our customers with account set up, customer services facilitation, comprehensive player marketing tools, and the ability to deliver converged gambling across land-based retail casinos and the Internet. GameSTACK supports both real money and social casino offerings through a common code base and user interface, providing our SIM customers a path to rapid market entry into real money gambling. Our operators’ players also experience a consistent user experience throughout the evolution to permitted real money gambling. While SIM implementations of GameSTACK generate revenue for our customers, the SIM application is predominantly employed as a marketing platform by operators in anticipation of rolling out an RMiG offering.
+ 
+iSight Back Office
+ 
+GameSTACK provides operators with a range of day-to-day back-office management tools along with integration application program interfaces for third-party casino management systems. With the iSight management tool, our casino operators have complete control over their content selection, player communications, website layout, process automation and real-time analytics.
+ 
+iBridge Framework
+ 
+Our proprietary iBridge Framework is a core feature of our platform, enabling operators to engage online players with innovative loyalty offers. iBridge provides our operator customers the ability to automatically verify whether a new online player is part of an existing offline loyalty database. iBridge allows operators to unite in-casino complimentary items and services, loyalty points and other offers with online play. This enables casino operators to engage their customers online, reinforcing brand loyalty, as well as encouraging online players to visit retail properties. Our platform integrates with a variety of third-party casino management systems, eliminating the need for operators to create and maintain two disparate databases as their online businesses grow in scale.
+ 
+Data Analytics
+ 
+Because we are the trusted custodian of our customers’ end user players’ aggregated and anonymized transactional data originated and stored within our platform, we have direct visibility into a players’ activity and can predict which characteristics will contribute to a player becoming amongst the highest-value players of our customers over time. This helps our customers to direct their retention marketing investments to specific player profiles. Over the course of our history, we have accumulated large data sets from which we have extracted substantial analytical insights for the benefit of our customers, who rely on our reporting and analytics capabilities to help them to optimize their marketing spend as well as to maximize the value of their loyalty programs.
+
+7
+-
+
+Real Money iGaming
+ 
+Our RMiG instances of GameSTACK incorporate comprehensive player registration, account funding and back-office accounting and management tools that enable our casino operator customers to efficiently, confidently and effectively extend their presence online. For the individual players, our software enables them to create a regulatory-compliant iGaming account online, to have their credentials properly validated in order to activate their account, to deposit money into their account and proceed to gamble that money on any content we publish on the relevant casino operator’s website or mobile app. Content might comprise a casino game such as roulette, blackjack or a casino slot machine game. Content might also comprise a myriad of sporting events on which the diverse outcomes can be wagered on.
+ 
+We have optimized GameSTACK for RMiG and in particular U.S. Internet casino gaming with geolocation tracking, Know-Your-Customer processes and a market-leading U.S. payments platform. Payment aggregation services within GameSTACK integrate with a wide range of third-party payment processors while simultaneously allowing our casino operators to accept cash deposits onsite within their retail casino properties, which are credited to the players’ online account.
+ 
+Our RMiG instances of GameSTACK augment our SIM product to further incorporate more comprehensive player registration, account funding and back-office accounting and management tools. In the United States, real money iGaming applications must comply with the Unlawful Internet Gambling Enforcement Act of 2006 and with the federal Wire Act of 1961. Consequently, our RMiG customers must physically deploy our platform within their state’s borders, typically inside their retail casino premises in order to comply with intrastate regulatory mandates. Our customers generally procure the hardware computing resources on which our software is deployed inside of our customers’ data centers. Payment aggregation services within GameSTACK integrate with a wide range of third-party payment processors while simultaneously allowing operators to accept cash deposits onsite within their retail casino properties, which are credited to the players’ online account.
+ 
+Simulated Gaming
+ 
+Our B2B SIM solution is custom-designed for U.S. casino operators seeking to bring their retail brand online and create a new Internet gaming experience delivered as an amenity to their players and leveraging their on-property rewards program.
+ 
+For SIM implementations, we design the casino operator’s mobile application and website with a branded experience that is consistent with the casino operator’s brand and market positioning. Our iSight technology provides management tools and streamlines player registration and account funding. We generally host our customers’ SIM operations on a combination of proprietary and cloud servers. GameSTACK features a gaming content engine that serves both internally developed slot and table games as well as third-party gaming content via a technical ‘abstraction layer’ that permits third party games to be published to end user players via GameSTACK. SIM deployments of GameSTACK allow casino operators to put their offers, games and unique brand experience in their players’ hands around the clock. GameSTACK incorporates our proprietary iSight technology, which captures online player activity, giving marketers the equivalent visibility of 100% rated play.
+ 
+In September 2020, we substantially augmented the SIM deployment by adding a ‘simulated sports betting’ capability, launched on PlayJACK.com for JACK Entertainment, a leading casino operator in Ohio. With real money regulated Internet sports betting anticipated in 2021, this added product experience of sports betting, offered alongside simulated Internet casino gaming, has enabled JACK Entertainment to engage with sports betting enthusiasts online in Ohio substantially in advance of real money Internet sports betting being made available. Simulated sports betting is relevant to all clients of SIM and will be rolled-out to additional clients in 2021 and beyond, as a demonstrable vehicle for acquiring sports betting enthusiasts’ online information substantially in advance of regulation of real money Internet sports betting.
+ 
+Online Sportsbook
+ 
+For online sports betting applications, we integrate our RMiG version of GameSTACK with third-party services such as sports betting engines and the sportsbook operator’s user interface and user experience. To date, we have integrated sports betting engines for customers at their request, including IGT Sports, Kambi and Amelco. The revenue from these services is recorded as part of RMiG revenue share.
+
+8
+-
+
+
+Following our announced acquisition of Coolbet, a technical integration between the sports betting engine of Coolbet and GameSTACK was commenced, with a view to offering Coolbet’s sports betting engine, at customer request, as an alternate to the existing engines already integrated by us. This new sports betting engine product offering will be made available to all existing customers operating Internet sports betting in existing operational states, as well as future states into which existing customers seek to expand.
+ 
+Managed Services
+ 
+We provide a range of term-based operational services to support our customers’ online gaming activities. Our premier offering is a full turnkey combination of marketing services and customer services. Our managed services teams provide user acquisition, customer retention management, and customer functions for our operator customers to help them in acquiring and retaining players (“Managed Services”). The Managed Services we provide are designed to fast-track deployments and provide ongoing operational support following commercial launch for our customers. We sell marketing and customer services to our casino operator customers to support their deployment of our RMG and SIM solutions. Customer and marketing service revenues are typically in the form of a per month charge, which we recognize over the time during which the services are provided. Our tailored managed services include player customer support across email, phone and live chat, marketing agency services and network management with 24/7 uptime guarantee. We also provide custom game theme development services in select engagements where customers seek to differentiate with gaming content unique to a customer’s branded experience.
+ 
+Non-U.S. B2C
+ 
+Upon closing of our acquisition of Coolbet in January 2021, we operate the B2C gaming site www.coolbet.com, which currently operates in selected Northern Europe, Latin America and North America markets. The site offers sports betting, poker, casino, live casino and virtual sports. Coolbet.com is built on proprietary software, including a proprietary sportsbook engine and risk management tools, enabling Coolbet to offer a highly differentiated entertainment experience when compared to other B2C vendors who rely on third-party technology stacks. Because Coolbet predominantly relies on in-house technology, Coolbet can rapidly enter new international markets with deeply local and tailormade content. Coolbet product offerings include:
+ 
+Sports Betting. Coolbet manages an online sportsbook allowing customers to place various types of bets on the outcome of sporting events around the world. Coolbet operates as the bookmaker and offers various multiple odds-scenarios-based betting types in a given match, including both pre-match and in-play (placed after a sports event has begun) betting types. Coolbet offers all major sports including soccer, basketball, baseball, American football, ice hockey and tennis, as well as across smaller sports and emerging sports such as eSports. Coolbet’s proprietary sportsbook features specialist odds compiled by their in-house product experts, which leads to more attractive odds and offers on local sports events and a better value for customers.
+ 
+Online Casino. Coolbet offers Live Casino via its digital online casino offering in selected markets, allowing customers to place bets and play games virtually at retail casinos via a real-time streaming video solution. Coolbet offers customers a catalog of over 1,600 third-party iGaming titles across skill-based games such as Poker and Blackjack, and chance-based games such as digital slot machines and table games such as Roulette.
+ 
+Peer-to-Peer Poker. Peer-to-Peer Poker allows registered customers to play poker against each other directly on Coolbet’s online poker network in real-time.
+ 
+Super RGS
+ 
+In August 2020, we soft-launched a new product offering branded Super RGS. This product delivers our market-leading portfolio of casino games, which includes both third-party casino games developed inherently within our platform as well as aggregated content from multiple remote gaming server providers. Super RGS is significant because it creates a technical and commercial vehicle for us to deliver our proprietary casino content across the entirety of the relevant U.S. intrastate markets, and not just to the websites and mobile applications operating on our own GameSTACK. Super RGS includes our content library of over 1,000 casino games, is currently available in New Jersey, Pennsylvania, and Michigan.
+ 
+
+9
+-
+
+Our Growth Strategy
+ 
+Key elements of our growth strategy include:
+ 
+Supporting our existing customers as they continue to scale up their respective iGaming and online sportsbook operations. Gross Operator Revenue generated on our technology platform in 2020 increased by 73% to $545.2 million in 2020, up from $315.8 million in 2019. As our customers’ online businesses continue to grow, we intend to deploy the necessary internal resources to support their evolving requirements. We will, for instance, continue to invest in the GameSTACK platform’s functionality by expanding our gaming content library and third-party integrations, and will move expeditiously to obtain regulatory approvals to operate in new states our existing customers do not yet operate in. Furthermore, we will continue to engage our SIM installed base in pursuit of opportunities to upgrade these customers to RMiG customers as the regulatory environment develops.
+ 
+Securing new casino operator customers in existing and new regulated markets. We continuously engage with casino operators in states that have yet to adopt regulated forms of RMiG and sports betting. We intend to engage these new customers with our SIM offering, creating a path to RMiG deployments over time. In states with regulated online gambling markets, we are investing in sales and marketing initiatives to aggressively pursue new deployment opportunities, including the Super RGS content offering. This offering creates a technical and commercial vehicle for us to deliver our proprietary casino content across the entirety of the relevant U.S. intrastate markets, and not just to the websites and mobile applications of GameSTACK clients. When successfully commercialized, we believe that Super RGS will develop additional Gross Operator Revenue, as well as generate high margin content licensing revenues.
+ 
+Expanding our gaming content development capabilities. In addition to distributing online facsimiles of third-party physical machine-based slots and table games via GameSTACK, we publish proprietary casino games that we display in both our SIM and RMiG online environments. We will invest in our gaming development capabilities in order to expand our library of high-quality, in-house content, which we will strategically serve within GameSTACK to optimize our margin profile.
+ 
+Growing our international business. In addition to our focus on the U.S. market through B2B opportunities, we intend to expand in regulated markets primarily in Europe, Latin America and Australia through both B2B and B2C opportunities. The acquisition of Coolbet in January 2021, which has been operating a B2C model at scale in Northern Europe and Latin America, provides us with a fast-growing international strategy, incremental to our existing international market activity. We currently provide our GameSTACK platform and services in relation to RMiG in Italy, which comprised 15% of total revenues for the year ended December 31, 2020. During the year ended December 31, 2020 our RMiG business in Italy grew revenues 13% when compared to 2019. We expect our Italian business to continue to grow as we onboard additional operators and expand through our revenue share agreements with our existing operators. We also deliver SIM to an operator in Australia as a precursor to potential legalization of Australian RMiG. Additionally, we are exploring selected Latin American regulated markets for potential expansion. With the addition of Coolbet’s Nordic and Latin American B2C activities, we expect to continue to grow our international business.
+ 
+Executing a selective merger & acquisition and commercial licensing strategy. We intend to pursue a prudent inorganic growth strategy aimed at strengthening and expanding our competitive position in the markets where we compete. The Coolbet acquisition should substantially complete our U.S. B2B offering. However, we will continue to pursue opportunities to acquire selective elements of the iGaming ecosystem as well as a myriad of content assets to bolster our product offerings, both through commercial licensing as well as acquisition.
+ 
+Integration with Coolbet. We expect that the combination with Coolbet will drive significant value for our customers and our shareholders. We believe that the integration of our GameSTACK and Coolbet platforms will be done efficiently, and that the combination will result in one of the most comprehensive, best-in-class product offerings in the iGaming space. We anticipate being able to offer U.S. customers a fully integrated iGaming and sports betting offering in the second half of 2021 without material integration costs in excess of current resources. The combination would also result in a diversification of revenue streams, customer bases and markets for the combined company. For the year ended December 31, 2020, we generated 83% of its revenues from its B2B business in the United States, with additional revenues coming primarily from Italy, the United Kingdom and Australia. During the same period, Coolbet’s revenues were generated primarily in Northern Europe (Estonia, Finland, Iceland, Norway and Sweden), Latin America (Chile and Peru) and Canada. We intend to continue to operate in the United States solely as a B2B provider to casino and other operators. The addition of a proprietary sports betting engine would give us the ability to offer a “one-stop” solution to our U.S. retail casino operators, while at the same time preserving the flexibility to incorporate third-party solutions when specified.
+ 
+
+10
+--
+
+Competition and Competitive Strengths
+ 
+We operate in a global and dynamic market and compete with a variety of organizations that offer services similar to those that we offer. We face competition primarily from: (1) online casino operators that provide competing content direct to consumers; (2) retail casino operators that develop their own proprietary online gaming capabilities; and (3) other similar existing or developing technology providers that develop competing platforms.
+ 
+We believe the principal competitive factors in our business include rapid deployment, ease of integration with existing and future content and gaming, ease of user registration and conversion, regulatory compliance, data security, back office management systems, reliability, and platform extensibility.
+ 
+Customers and Ecosystem
+ 
+Our principal customers are retail casino operators who require a regulatorily compliant and complete technology solution provider for setting up, launching and operating an Internet gambling business to drive incremental and complementary revenues to their existing retail gaming business.
+ 
+When a U.S. casino needs to move online, there is a small group of potential technology vendors available to serve their needs, and an even smaller subset of companies which are B2B only and fully licensed for U.S. Internet gambling. We believe we are one of the few companies whose operational know-how and proven track record of excellence represent a substantial competitive advantage together with our strategic U.S. patent governing the important linkage of an iGaming account with a land-based casino rewards account.
+ 
+The GAN family of casino operator customers represents leading U.S. gambling groups, both online and retail. Our customer base is comprised of casino operators, which contract with us for our ability to deliver RMiG and social casino gaming as well as provide dedicated services pre-and post-product launch. These casino operators span over 100 retail locations. Today, the GAN family of casino operator customers operate tens of thousands of slot machine units on their casino gaming floors and possess millions of dedicated loyalty club card holding players within their loyalty program databases.
+ 
+In addition to customer relationships with retail casino operators, we have assembled a wide range of relationships with casino equipment manufacturers seeking to bring their machine-based casino slot games online and distribute them into permitted U.S. markets and into selected regulated markets internationally.
+ 
+For sports betting content, we proactively integrated three third-party sports betting systems into our platform. We remain capable of integrating any third-party sports betting system nominated by an existing or future customer, in order to publish sports betting content alongside gaming content on our customers’ operating websites and mobile applications. Beyond content, we have brought together world-leading service providers spanning payment processing, pre-paid card services, age and identity verification, geo-location, and fraud detection.
+ 
+During the year ended December 31, 2020, one of our customers, FanDuel accounted for more than 10% of our revenues (42.6%). Beginning in 2013, we partnered with FanDuel’s majority shareholder, Flutter Entertainment plc (formerly known as PaddyPower Betfair plc), to support FanDuel’s rapid deployment of online sports betting sites in selected states having legalized single-game sports betting. Under the current commercial agreements, we license the GameSTACK platform and provide development and operational support services in exchange for a percentage of Internet gambling revenues and fees for development and other services.
+ 
+FanDuel’s agreement with us provides that FanDuel, upon notice and payment of fees, can migrate user accounts away from our digital wallet technology to its own proprietary solution. In the nine months ended September 30, 2020, FanDuel exercised this option and migrated its New Jersey, Pennsylvania and Indiana wallets from our digital wallet technology to its own proprietary solution. We stopped receiving revenue share with respect to FanDuel’s sports betting operations on August 31, 2020. The right of migration does not affect our revenue share generated from RMiG operations with FanDuel.
+
+
+
+11
+--
+
+
+Our agreement with FanDuel provides that we will be the exclusive provider of their casino gaming operations for the initial three years following a launch date. Following that exclusivity period, FanDuel will have the right to use other casino gaming solutions, subject to a requirement to pay us revenue shares of a minimum percentage of their net gaming revenue from RMiG operations. We currently support FanDuel’s RMiG casino operations in the states of Pennsylvania, New Jersey, and Michigan. The current contract expires in January 2025.
+ 
+Additionally, Coolbet operates a B2C casino and sports-betting platform that is accessible for legal gambling via its website Coolbet.com in eight national markets across Northern Europe (Estonia, Finland, Iceland, Norway and Sweden), Latin America (Chile and Peru) and North America (Canada). Coolbet.com launched May 2016 and as of January 1, 2021, had over 375,000 registered customers. The majority of Coolbet’s traffic comes from mobile customers and each region features customized interfaces with localized product offerings and local language support teams.
+ 
+Intellectual Property Rights
+ 
+We rely on a combination of patent, copyright, trademark and trade secret laws in the United States and other jurisdictions, as well as license agreements and other contractual protections, to protect our proprietary technology. We also rely on a number of registered and unregistered trademarks to protect our brand.
+ 
+As of December 31, 2020, we had one registered patent in the United States and two registered trademarks in the United Kingdom relating to our owned technology. We hold a U.S. patent, which expires in 2034, that covers the integration of a retail casino’s on-property rewards and loyalty program with an Internet gambling experience, whether offered for real money or virtual-based social casino gaming. Because of the tendency for non-licensed states to implement social casino gaming as an alternative or precursor to RMiG, and our ability to legitimately and comprehensively integrate the unique ability to connect existing retail rewards program with an online gaming and gambling experience, we believe that our intellectual property provides a key competitive advantage.
+ 
+We seek to protect our intellectual property rights by implementing a policy that requires our employees and independent contractors involved in development of intellectual property to enter into agreements acknowledging that all intellectual property generated or conceived by them on our behalf are our property, and assigning to us any rights that they may claim or otherwise have in those works or property, to the extent allowable under applicable law. Despite our efforts to protect our technology and proprietary rights through intellectual property registrations, licenses and contractual protections, unauthorized parties may still copy or otherwise obtain and use our software and technology. We may also face allegations in the future that we have infringed the intellectual property rights of third parties, including our competitors and non-practicing entities.
+ 
+Government Regulation
+ 
+The gaming industry is highly regulated, and we must secure licenses to conduct our gaming operations. We are licensed and regulated by the United Kingdom (“U.K.”) Gambling Commission, the Alderney Gambling Control Commission, the New Jersey Division of Gaming Enforcement, the Pennsylvania Gaming Control Board, the Indiana Gaming Commission, the West Virginia Lottery, the Michigan Gaming Control Board, the Tennessee Education Lottery Corporation, and the Colorado Department of Revenue Division of Gaming. Our software is also certified by the Amministrazione autonoma dei monopoli di Stato (Autonomous Administration of State Monopolies) in Italy, we are also approved by GambleAware, which is a leading U.K. charity advising and assisting those with a gambling problem. All of our games are certified and tested by the New Jersey Division of Gaming Enforcement’s technical testing laboratory and/or Gaming Laboratories International, which is a leading industry provider for online gaming testing and certification.
+
+12
+--
+
+
+Coolbet holds gaming licenses in Estonia, Malta and Sweden. Coolbet’s sportsbook technology and technical platform is certified by an accredited third party according to the licensing requirements of the regulatory authorities of Estonia, Malta and Sweden. Coolbet also has customers in jurisdictions that are currently unregulated, including Norway, Finland, Iceland, Chile, Canada and Peru. A number of these jurisdictions are evaluating the adoption of regulations for the online sports betting and gaming operations that Coolbet currently offers. If regulations requiring licensure are adopted in those jurisdictions, Coolbet intends to apply for licensing, but cannot be assured that it will receive licenses in each instance or that changes in regulation will not adversely impact its business.
+ 
+We are required to secure licenses to operate in each new jurisdiction where we conduct business and will need to secure additional licenses in order to expand operations to new markets. In newly regulated markets, new licensing regimes may impose licensing conditions, such as the requirement to locate significant technical infrastructure within the relevant territory or establish real-time data interfaces with the regulator that present operational challenges or may stop the licensee from being able to offer the full range of our products.
+ 
+We license our products to operators in the online gaming industry whose ability to operate in any jurisdiction may be impacted by changes in regulations. Regulatory agencies in each of our operating markets continue to examine a wide variety of issues impacting the iGaming and sports betting industries, and consequently the laws and regulations governing our business could be modified or could be interpreted differently in the future, or new laws and regulations could be enacted. Material changes, new laws or regulations, or material differences in interpretations by courts or governmental authorities could cause us to incur substantial additional compliance costs and adversely affect our operating results.
+ 
+In addition to regulations governing gaming, we are also subject to substantial regulations concerning money laundering. We process a number of financial transactions daily and are subject to a number of financial regulations, including anti-money laundering laws and regulations in the United States and other jurisdictions. We are required to conduct due diligence on our customers and report certain suspicious activity where we know, suspect or have reason to suspect that transactions involve, among other things, funds from illegal activity or are intended to evade federal regulations or avoid reporting requirements or have no business or lawful purpose. We occasionally experience attempts to conduct fraudulent activity on customer accounts, including deposits from stolen credit cards and debit cards.
+ 
+As part of our operations, we establish player accounts and receive personal and financial information. Accordingly, our operations are subject to privacy and data protection regulation in the United States, the U.K., the European Union, Asia Pacific, and elsewhere. These laws are rapidly developing and changing. The European Union adopted a comprehensive General Data Protection Regulation (“GDPR”), which came into effect in May 2018, as supplemented by any national laws (such as in the U.K., the Data Protection Act 2018) and further implemented through binding guidance from the European Data Protection Board. In the United States, several states have adopted revised legislation to expand data breach notification rules and to mirror some of the protections provided by the GDPR. Some states, including California have adopted data protection legislation that requires companies to make significant changes in their data processing operations.
+ 
+Social Responsibility
+ 
+We maintain an open, honest and responsible approach towards our stakeholders, which include our employees, suppliers, customers, investors and the wider community. As both a B2B provider of games of skill and chance in regulated intra-state Internet gambling markets, we have placed our responsible gambling policies and tools at the core of our vision to provide industry-leading entertainment in a socially responsible fashion. Our GameSTACK software platform has a myriad of features for detection and prevention of problem gambling as well as offering tools to end user players to limit their gambling activities online, in compliance with the challenging technical requirements of New Jersey, Pennsylvania and Indiana as well as the United Kingdom and other jurisdictions.
+ 
+Our platform services enable our casino operators to offer their players an array of tools to control their spending, including deposit limits, wagering value limits, wagering frequency limits, time limits, definable self-exclusion and/or cooling-off periods. This, coupled with sophisticated reporting and analytics, allows operators to identify potentially compulsive behavior and take the required action to ensure the protection of any vulnerable players in line with their operating requirements in the relevant intra-state gambling market. Our teams are extensively trained in the area of responsible gambling, to assist end user players displaying signs of gambling addiction and guide them in the correct direction to seek assistance. We also, in conjunction with our customers and third-party service partners, provide robust age verification processes to ensure that no minors can access the gambling opportunities provided on our customer’s websites.
+ 
+
+13
+--
+
+Human Capital Resources
+ 
+We are committed to investing in our employees while nurturing an innovative and vibrant work environment. Our leadership team actively works to attract, develop, and retain talent from a range of backgrounds and experiences in order to benefit from diverse perspectives. The Company and its employees are committed to helping our communities thrive through charity activities throughout the year.
+Our Global Workforce
+ 
+Approximately 74% of our employees at year-end 2020 were located outside the United States. The majority of our employees are working within the operations function, which includes the majority of the technical and product employees. The charts below show our global employee population by region and operational function.
+
+Workforce by Region: | | 
+---------------------------+-----+--
+Bulgaria | 102 | 
+Israel | 10 | 
+United Kingdom | 108 | 
+United States | 68 | 
+Workforce by Function: | | 
+Operations | 79 | %
+Non-Operations | 21 | %
+
+
+Workforce by Type of Employment: | | 
+-------------------------------------+----+--
+Full-Time | 84 | %
+Part-Time/Temporary | 2 | %
+Contractor | 14 | %
+
+ 
+Attracting, developing and retaining a pool of diverse and highly skilled talent is critical to our ability to continue achieving sustainable growth. As we continue to buildout the Human Capital function, learning and development will be created to provide ongoing support and resources to our teams worldwide to ensure that the skills of our employees evolve with our business needs, industry trends, and human capital management best practices. Additionally, the Human Capital function is working on tools and processed to enable increased productivity, peak performance, and career growth.
+ 
+Diversity & Inclusion
+ 
+A diverse global workforce and an equality, inclusive, and belonging culture is our commitment to the current and future employees. We are committed to promote diversity and inclusion in all our policies, practices, and actions such as hiring, purchasing, and general business practices. We seek to establish an environment of respect and understanding in the workplace and a culture that values and reflects the diverse components of our employees and the communities in which we operate. We also work to ensure that a welcoming and professional environment is maintained in the workplace for all of our employees.
+
+Workforce by Gender: | | 
+-------------------------+----+--
+Male (75% in 2019) | 70 | %
+Female (25% in 2019) | 30 | %
+
+Pay & Benefits
+ 
+With our recent growth and success, we have moved forward with our updated compensation philosophy to offer market-based, competitive wages and benefits in all markets where we compete for talent. All of our employees were paid above the applicable legal minimum wage at year-end 2020. The pay structure has been changed to be positioned around the market median within each market, with variances based on knowledge, skills, years of experience, and performance. We regularly evaluate pay equity, expanding our review in 2020 to include race/ethnicity in addition to gender, and we make adjustments to compensation where needed.
+
+14
+--
+
+
+In addition to base wages, our compensation and benefit programs, which vary by country, include short-term incentives, long-term incentives (e.g., cash and share-based awards), employee savings plans with company match, healthcare and insurance benefits (in the United States), health savings spending accounts with company match (in the United States), generous paid time off, leave options, flexible work arrangements, and employee assistance programs.
+ 
+Furthermore, we kicked off a wellness program to support our employees through the pandemic. The program included highlighting support for mental wellness, intellectual wellness, physical wellness, and social wellness through activities, blogs, and training. We have created moving challenges to get our employees up and active by walking, running, and/or biking 100 miles in a month. The moving challenges also includes a charity component in that GAN pledges $0.50 per mile to Souls4Soles charity.
+ 
+Workforce Health & Safety
+ 
+As the pandemic occurred, we work hard to ensure all our offices were following the strict protocols of local, federal, country-specific, and global requirements. We quickly closed all our offices and moved the entire workforce to work from home for the majority of 2020. The health and safety of our employees is the upmost importance now and in the future. Throughout 2020, we kept our eye on when it was safe to reopen our office spaces. And once reopened, we continued to be diligent in our safety protocols as well as re-closing the offices, when it was no longer safe to stay open.
+Employee Engagement
+ 
+With the majority of 2020 forcing closures and stay at home orders, it was important for us to find ways to engage and support our employees even when we could no longer be together. We know how important an engaged workforce is to the health of the organization as well as our employee population. Engaged employees provides a more innovative, productive, and satisfied workforce and promotes retention while minimizing employee turnover.
+ 
+Throughout 2020, we conducted global employee engagement surveys to ensure our employees had everything they needed to do their job at home, get the support from their teams and management, and receive the communication and guidance they needed from the company, as well as take care of their own wellbeing and as the wellbeing of those who may be living with them. We received glowing scores from our employees and were able to identify and take action on areas where our employees needed more support and areas noted that were in need of improvement.
+ 
+While employee engagement is the result of many factors, we believe the changes we have implemented in 2020 and plans for the future will help us grow a more engaged workforce. Our goal is to provide an environment where our employees can be the best versions of themselves and have the support they need to deliver extraordinary results for themselves and our company.
+ 
+Information about Segment and Geographic Revenue
+ 
+Our segment and geographic revenue information is described in Note 13 to the Consolidated Financial Statements in Item 8 of this report.
+ 
+Emerging Growth Company Status
+ 
+We are an “emerging growth company” as defined in Section 2(a)(19) of the Securities Act, as modified by the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). As such, we are eligible to take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not “emerging growth companies” including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002 (the “Sarbanes-Oxley Act”), reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, and exemptions from the requirements of holding a non-binding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved. We intend to take advantage of all of these exemptions.
+
+15
+--
+
+
+In addition, Section 107 of the JOBS Act also provides that an “emerging growth company” can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards, and delay compliance with new or revised accounting standards until those standards are applicable to private companies. We have elected not to take advantage of the benefits of this extended transition period.
+ 
+We could be an emerging growth company until the last day of the first fiscal year following the fifth anniversary of our first common equity offering, although circumstances could cause us to lose that status earlier if our annual revenues exceed $1.07 billion, if we issue more than $1.0 billion in non-convertible debt in any three-year period, if, at the end of any fiscal year in which the market value of our common stock held by non-affiliates exceeded $700 million as of the end of the second quarter of that fiscal year, or if we become a “large accelerated filer” as defined in Rule 12b-2 under the Exchange Act.
+ 
+Smaller Reporting Company Status 
+ 
+We also qualify as a “smaller reporting company” under Rule 12b-2 of the Exchange Act, which is defined as a company with a public equity float of less than $250 million. To the extent that we remain a smaller reporting company at such time as we are no longer an emerging growth company, we will still have reduced disclosure requirements for our public filings, some of which are similar to those of an emerging growth company, including not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act and the reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements.
+ 
+Available information
+ 
+We make available free of charge (other than an investor’s own Internet access charges) through our Internet website (https://www.investors.gan.com) our Annual Report on Form 10-K and other reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (“SEC”). We are not including the information contained on our website as part of or incorporating it by reference into, this Annual Report on Form 10-K. In addition, the SEC maintains an Internet site, sec.gov, that includes filings of and information about issuers that file electronically with the SEC.
+ 

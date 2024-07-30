@@ -1,0 +1,430 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business.
+Overview
+ 
+Scopus BioPharma Inc. is a biopharmaceutical company developing transformational therapeutics targeting serious diseases with significant unmet medical needs. Our mission is to improve patient outcomes and save lives. To achieve our mission, we are capitalizing on groundbreaking scientific and medical discoveries at some of the world’s foremost research and academic institutions.
+ 
+Our lead development program is a novel, targeted immuno-oncology gene therapy for the treatment of multiple cancers. We have partnered with the City of Hope, or COH, for CpG-STAT3siRNA, or CO-sTiRNA™, which is a STAT3 inhibitor gene therapy. Pre-clinical testing at City of Hope was designed to determine whether CO-sTiRNA would reduce growth and metastasis of various pre-clinical tumor models, including melanoma, and colon and bladder cancers, as well as leukemia and lymphoma. Based upon such testing, an investigational new drug application, or IND, for CO-sTiRNA for B-cell lymphoma is currently anticipated to be filed with the United States Food and Drug Administration, or FDA, in H1 2021. We currently anticipate that a first-in-human Phase 1 clinical trial for B-cell lymphoma will commence in H2 2021.
+ 
+In conjunction with City of Hope, Phase 1 clinical trials for additional cancer indications are being contemplated for CO-sTiRNA in combination with immune checkpoint inhibitors and chimeric antigen receptor T-cells, or CAR-Ts.
+ 
+Our second lead development program is MRI-1867, a peripherally-restricted, dual-action cannabinoid-1, CB1, receptor inverse agonist and inhibitor of inducible nitric oxide synthase, or iNOS. We have partnered with the National Institutes of Health, or NIH, for MRI-1867 and are initially targeting systemic sclerosis, or SSc. Over-activation of CB1 and iNOS has been implicated in the pathophysiology of SSc, which includes fibrosis of the skin, lung, kidney, heart and the gastrointestinal tract. We are currently continuing to conduct pre-clinical work for MRI-1867 to support an IND filing with the FDA.
+ 
+We are also partnered with The Hebrew University of Jerusalem, or Hebrew University, on several additional research and development programs. These programs relate to a proprietary opioid-sparing anesthetic and synthesis of novel compounds and new chemical entities, or NCEs.
+ 
+Recent Developments
+ 
+Public Offerings
+ 
+On December 18, 2020, we completed an initial public offering, or IPO, of our common stock at a public offering price of $5.50 per share for aggregate gross proceeds, including our underwriters’ exercise, in full, of their over-allotment option, of $3,162,500, or net proceeds of $1,711,186 after deducting $1,451,314 in offering costs. Our common stock is listed on The Nasdaq Global Market under the symbol “SCPS”.
+ 
+On February 10, 2021, we completed a follow-on public offering of 1,150,000 shares of our common stock, including the underwriters’ exercise, in full, of their over-allotment option, of our common stock at a public offering price of $9.00 per share of common stock for aggregate gross proceeds of $10,350,000, or estimated net proceeds of approximately $9,150,000 after deducting approximately $1,200,000 in offering costs. 
+ 
+1
+
+ 
+
+COVID-19 Pandemic
+ 
+In March 2020, the World Health Organization declared the outbreak of a novel strain of coronavirus, or COVID-19, as a global pandemic, which continues to spread throughout the United States and around the world. We are continually monitoring the impact of the global pandemic on us, especially since we conduct activities in multiple locations, both in and outside of the United States. These locations are New York City and Los Angeles in the United States and Tel Aviv, Israel. At various times since the onset of the global pandemic, these locations have been severely affected by COVID-19 and, as a result, have been subject to various requirements to stay at home and self-quarantine, as well as constraints on mobility and travel, especially international travel.
+ 
+In many locations, the primary focus of healthcare providers and hospitals has been to combat the virus. While we continue to advance our development programs, we are also continually assessing the impact of the global pandemic on our product development efforts, including any impact on the timing and/or costs for our clinical trials, IND-enabling work and other research and development activities. There is no certainty as to the length and severity of societal disruption caused by COVID-19. Consequently, we do not have sufficient visibility to predict the impact of the global pandemic on our operations and overall business, including delays in the progress of our planned pre-clinical work and clinical trials, or by limiting our ability to recruit physicians or clinicians to run our clinical trials, enroll patients or conduct follow-up assessments in our clinical trials. Further, the business or operations of our strategic partners and other third parties with whom we conduct business may also be adversely affected by the global pandemic. We continue to monitor the impact of the global pandemic, including regularly reevaluating the timing of our research and development and clinical milestones. In light of the more restrictive constraints on international travel, we continue to adjust program emphasis and prioritization. Until we are able to gain greater visibility as to the impact of the global pandemic, we intend to commit greater resources to our existing and future programs in the United States and are slowing investment in program development outside the United States.
+ 
+Our Strategic Partners
+ 
+Our strategic partners for our lead development and other programs are City of Hope, the NIH and Hebrew University. The researchers with whom we are working at each of our strategic partners are leaders in their respective fields.
+City of Hope
+ 
+City of Hope is a world-renowned, independent biomedical research and treatment center for cancer, diabetes, and other life threatening diseases. City of Hope’s unique research and development hybrid of the academic and commercial creates an infrastructure that enables City of Hope researchers and their commercial partners to submit numerous INDs to the FDA each year. In June 2020, we signed an exclusive, worldwide license for CO-sTiRNA.
+ 
+2
+
+ 
+
+National Institutes of Health
+ 
+The NIH is the primary government agency in the United States responsible for biomedical and public health research. The NIH spends approximately $39 billion annually to conduct and fund medical research seeking to enhance health, lengthen life and reduce illness and disability. The NIH is comprised of 27 separate institutes and centers covering different biomedical disciplines. We are working with the Section of Neuroendocrinology of the Laboratory of Physiologic Studies, which are part of the National Institute on Alcohol Abuse and Alcoholism, or NIAAA. We own an exclusive, worldwide license from the NIH to three patents covering a series of novel dual-action CB1 receptor inverse agonists, which includes MRI-1867.
+The Hebrew University of Jerusalem
+ 
+Hebrew University has been a pioneer in the research of the ECS for over 50 years. To better integrate and coordinate its extensive research in this area, in April 2017, Hebrew University established the MCCR. The MCCR is staffed by eminent scientists and medical doctors from a variety of faculties at Hebrew University and Hadassah University Medical Center. To date, we entered into two MOUs and have executed two exclusive, worldwide licenses in connection with these programs covering the research results and any resulting patents.
+Our Drug Candidates
+ 
+Gene Therapy — STAT3 Inhibitor
+ 
+Our licensed gene therapy, or CO-sTiRNA, is a dual-action STAT3 inhibitor. STAT3 is a gene that drives tumor cell growth and anti-tumor immune suppression. CO-sTiRNA is a highly selective and targeted gene therapy that is designed to silence the activity of the STAT3 gene by way of RNA interference. CO-sTiRNA is also designed to stimulate TLR9 receptors and to activate the body’s immune defense to recognize and kill cancer cells.
+ 
+Cancer is caused by genetic mutations that result in the uncontrolled division and proliferation of abnormally functioning cells. The STAT3 gene plays a fundamental role in cell growth and division, cell movement and apoptosis in both tumor cells and tumor associated immune cells. Studies suggest that many cancers depend on the activity of STAT3 to survive and proliferate. The ability to selectively and temporarily silence STAT3 is highly desirable for certain cancer therapies.
+ 
+We are working with Dr. Hua Yu and Dr. Marin Kortylewski at City of Hope. Dr. Yu is the Billy and Audrey L. Wilder Professor in Tumor Immunotherapy, Associate Chair/Professor in the Department of Immuno-Oncology, and Co-Leader of the Cancer Immunotherapeutics Program. Dr. Kortylewski is an Associate Professor in the Department of Immuno-Oncology. Drs. Yu and Kortylewski are both leading experts in the role of STAT3 in tumor angiogenesis and tumor immune evasion and in oligonucleotide-based cancer immunotherapies and developed CO-sTiRNA. The strategy to pursue STAT3 inhibition was developed based on seminal discoveries by Dr. Yu and her team defining the key role of STAT3 in cancer cell survival and immune tolerance, combined with pioneering work by Dr. Kortylewski and his team on STAT3 targeting using TLR9-targeted delivery of siRNA oligonucleotide therapeutics into immune cells.
+ 
+Multiple studies, including those conducted at City of Hope, have indicated STAT3 as a promising target in non-Hodgkin’s lymphoma. There is growing evidence linking B-cell non-Hodgkin lymphomas to persistent activation of STAT3. Pre-clinical testing at City of Hope was designed to determine whether CO-sTiRNA would reduce growth and metastasis of various cancers, including lymphoma, leukemia, and solid tumors including melanoma, and colon and bladder cancers. Pre-clinical studies in City of Hope laboratories indicated that intratumoral injection of CO-sTiRNA combined with radiation therapy, or RT, may prove to be efficacious in eradicating established tumors in pre-clinical models of human and mouse B-cell lymphoma. The therapeutic effect of CO-sTiRNA combined with RT may likely result from a two-pronged effect, reducing survival signaling in lymphoma cells, as well as decreasing tolerogenic/proangiogenic effects of the tumor microenvironment post-RT.
+ 
+Local administration of CO-sTiRNA with RT resulted in complete rejection of mouse syngeneic B-cell lymphoma and significant growth inhibition of xenotransplanted tumors. Thus, the combination of local radiation and intratumoral injection of CO-sTiRNA may represent a novel approach to elicit an anti-tumor immune response in the host.
+ 
+License Agreement and Sponsored Research Agreement
+ 
+In June 2020, we entered into a license agreement with City of Hope, or COH License Agreement. In addition to the COH License Agreement, we also entered into a Sponsored Research Agreement, or SRA, relating to on-going research and development activities in collaboration with City of Hope. We obtained the right to negotiate the COH License Agreement with City of Hope from Bioscience Oncology Pty. Ltd., or Bioscience, which held the exclusive underlying right to negotiate the COH License Agreement. Simultaneously with the execution of the COH License Agreement, we also closed on related transactions with Bioscience and certain related parties (together with the COH License Agreement, the “Transactions”). In connection with the Transactions, we paid City of Hope and Bioscience aggregate consideration and expense reimbursements at closing of approximately $455,000 in cash and issued 1,466,667 shares of our common stock together with 959,308 Series W Warrants, or W Warrants. We are also obligated to pay additional consideration in cash and common stock, in some cases upon satisfaction of certain milestones.
+ 
+3
+
+ 
+
+National Institutes of Health Program
+ 
+We own an exclusive, worldwide license from the NIH to three patents covering a series of cannabinoid receptor mediating compounds developed by Dr. George Kunos, Scientific Director of the National Institute on Alcohol Abuse and Alcoholism of the NIH and leading researcher on endocannabinoids and the endocannabinoid system.
+ 
+These novel dual-action cannabinoid receptor mediating compounds are proprietary NCEs that are CB1 receptor antagonists and inhibitors of inducible nitric oxide synthase, or iNOS. Over activation of CB1 and iNOS has been implicated in the pathophysiology of SSc, which includes fibrosis of the skin, lung, kidney, heart, and the gastrointestinal tract.
+ 
+Our license enables us to use these cannabinoid receptor mediating compounds for the commercial development as a new therapeutic for the treatment of SSc and other skin fibrotic diseases.
+ 
+Systemic Sclerosis
+ 
+SSc is a chronic, systemic autoimmune disease characterized by activation of innate and adaptive immune systems, an obliterative, proliferative vasculopathy of small blood vessels, and fibrosis of the skin and multiple internal organs. Approximately 90,000 people in the United States and Europe have SSc. The disease affects mainly adults (80% of SSc patients are women) with mean age of onset about 46 years of age in the United States. Based on these patient population characteristics, SSc is classified as an orphan indication.
+ 
+SSc can affect multiple internal organs in the body, including the lungs, heart, kidneys, joints, muscles, esophagus, stomach and intestines. Clinically apparent organ involvement that occurs in more than a third of these patients includes thickened skin, Raynaud’s phenomenon, esophageal symptoms, pulmonary fibrosis, restrictive lung disease, edematous skin, joint contractures, digital ulcers, and muscle weakness.
+ 
+Less frequently occurring, yet life-threatening manifestations include pulmonary artery hypertension (about 1 in 5 patients), cardiac conduction blocks (about 1 in 10 patients), and renal crisis (about 1 in 50 patients). In the United States, SSc is the most-deadly of the systemic autoimmune diseases. The median disease duration for an individual who dies of SSc is 7.1 years from the onset of symptoms. About 85% of deaths caused by SSc are the result of pulmonary fibrosis, pulmonary artery hypertension, or cardiovascular disease, such as sudden death.
+ 
+Currently, there are no FDA-approved therapies specifically for SSc, although therapies have been approved for the pulmonary artery hypertension associated with this disease. Immunosuppressants with significant toxicities are commonly used to treat SSc, however, as far as we know, there is a general absence of clinical data to support their use.
+ 
+We believe there is general agreement in the SSc community that an effective anti-inflammatory and anti-fibrotic drug would address a significant unmet medical need in SSc, especially a drug that is orally administered, can be used chronically with other commonly prescribed medications for SSc, and is not immunosuppressive. We believe such a therapy would be positively received by the market.
+ 
+MRI-1867
+ 
+We are developing the cannabinoid receptor mediating compound, MRI-1867, for the treatment of SSc. MRI-1867 is a rationally designed, orally available, dual-action, hybrid, small molecule that is an inverse agonist of the endocannabinoid system/CB1 receptor, or CB1, as well as an inhibitor of the iNOS system. To date, MRI-1867 has demonstrated numerous positive characteristics in pre-clinical animal model testing.
+ 
+Specifically, NIH researchers have indicated that MRI-1867 has druggable pharmacodynamic, pharmacokinetic and stability properties using non-GLP in vitro and in vivo animal testing. Further, in vivo testing conducted by the NIH (published in peer review journals) has, in relevant animal models, demonstrated successfully that, compared to a placebo, MRI-1867 has both slowed the progression of fibrosis and attenuated pre-existing fibrosis in two organs (liver and lungs) with highly potent and selective antagonism of both CB1 and iNOS. Importantly, in vivo animal studies have also demonstrated that MRI-1867 did not cross the blood brain barrier, eliminating the potential for adverse CNS side effects which can be present with other cannabinoids that bind to receptors in the brain. MRI-1867 has also exhibited sufficient bioavailability with oral delivery and supported once daily dosing.
+ 
+4
+
+ 
+
+Cooperative Research and Development Agreement
+ 
+We have entered into a CRADA with NIH. A CRADA, which is authorized under 15 U.S.C. §3710a, allows a federal laboratory to undertake joint research and development activities with a non-federal party. Under the CRADA, we are advancing the research undertaken to date in connection with the potential therapeutic benefits of using MRI-1867 as a treatment for SSc. The research being conducted under the CRADA is being carried out by Dr. Kunos and his team at NIH. Preliminary in vivo studies demonstrated a reduction in pre-existing fibrosis as compared to placebo in the treatment of bleomycin-induced skin fibrosis. Our company is funding Dr. Kunos’ research over a two-year period under a proprietary research plan. The cost to our company is approximately $240,000 for the two-year study.
+Development Plan
+ 
+Based on the published data for MRI-1867 in liver and lung fibrosis and the preliminary positive data in skin fibrosis generated under the CRADA, we intend to commence additional studies to support an IND submission to the FDA for MRI-1867. Prior to this submission, our company plans to file a pre-IND meeting request with FDA to confirm that the planned chemistry, manufacturing, and controls, or CMC, and non-clinical tasks will support the initiation of a Phase 1 clinical trial. By doing so, we may receive feedback from the FDA that will enable us to modify the development plan for MRI-1867 early on, expediting the overall development process and avoiding a waste of resources. Additionally, given the significant unmet clinical need and lack of an FDA-approved treatment for SSc, we also plan to submit an orphan drug designation request for MRI-1867 for the treatment of SSc. We plan to file an IND for MRI-1867 in 2021. We continue to adjust our program emphasis and prioritization and we are slowing investments in programs outside of the United States. Accordingly, until we are able to gain visibility as to the impact of the global pandemic, we are revising our planning relating to the timing for filing an IND for MRI-1867 with the FDA.
+Hebrew University Programs
+ 
+We are working with leading researchers at Hebrew University on three projects, which seek to identify novel cannabinoid-based therapeutics for development. These projects are being conducted pursuant to the MOUs between us and Yissum Research Development Company of the Hebrew University, which we refer to as Yissum. Under these MOUs, we are responsible for funding the costs of prescribed research projects. This research is conducted under the auspices of a named researcher. We have the exclusive right to negotiate for licenses of the intellectual property resulting from this research, including any patents that are filed. To date, we have executed two licenses in connection with these MOUs.
+Proprietary CBD-mediated, Opioid-sparing Anesthetics
+ 
+In collaboration with Dr. Alexander Binshtok of Hebrew University, we are evaluating the CBD-mediated activation of nociceptive, transient receptor potential cation channels, or TRPV1 and TRPA1 channels, for painless pain-selective anesthesia. Dr. Binshtok is studying the effects of approved anesthetics in combination with CBD on sodium currents and action potential. The research will be carried out, under our company’s sponsorship and supervision, by Dr. Binshtok and his team at Hebrew University.
+ 
+In a previous study, Dr. Binshtok discovered that the injection of capsaicin, a TRPV1 and TRPA1 channel activator, in combination with QX-314, a lidocaine derivative, in-vivo effectively silenced pain and itch. Building upon these prior results, our sponsored research program with Dr. Binshtok was designed to determine whether CBD, a TRPV1 and TRPA1 channel activator, could be used as an alternative to capsaicin in combination with chloroprocaine, an approved anesthetic, to result in painless selective long-term pain relief without paralytic, autonomic or neurotoxic side effects.
+ 
+5
+
+ 
+
+Based on the foregoing, we are currently working with Dr. Binshtok to optimize potential treatment regimens, as well as to conduct safety and efficacy studies. We believe that our proprietary combinations of CBD with approved anesthetics may be eligible for the FDA’s 505(b)(2) development pathway; provided, however, there can be no assurance that we will be able to avail ourselves of such pathway. This pathway was introduced to avoid duplication of studies already performed on drug compounds, in this case both CBD and the anesthetics, and would significantly reduce the future time and costs associated with clinical development.
+ 
+We believe our proprietary combinations of CBD with approved anesthetics would be applicable in multiple clinical settings including:
+ 
+• opioid-sparing post-operative pain management
+ 
+• nerve block anesthesia
+ 
+• epidural anesthesia during childbirth (i.e., pain relief while retaining the ability to “push”)
+ 
+•       spinal anesthesia, particularly in patients susceptible to low blood pressure (e.g., the elderly)
+ 
+• dental anesthesia
+ 
+• inflammatory, cancer and neuropathic pain and itch
+ 
+Each of these potential applications represents a significant market opportunity in the United States, as well as globally.
+ 
+Additionally, we believe that opioid-sparing, pain-selective anesthetics may also reduce the need for the use of highly-addictive opioids in tandem with anesthetics or for general stand-alone pain management helping to address a growing opioid epidemic in the United States. According to the Center for Disease Control and Prevention, or CDC, there were nearly 30,000 overdose deaths related to opioids in 2017. The U.S. Federal Government budgeted approximately $4.6 billion for 2018 to combat the growing opioid epidemic. Given the growing health and economic impact of opioids, we believe an opioid-sparing anesthetic, such as those in our novel class of pain-selective anesthetics, would be well-received by the market and may be considered for an expedited review by the FDA.
+ 
+Synthesis of Novel Cannabinoids
+ 
+In collaboration with Dr. Dmitry Tsvelikhovsky of Hebrew University, we are pursuing two programs seeking to synthesize novel cannabinoids: cannabinoid-based dual-action compounds and novel chemical derivatives based upon the molecular structure of existing cannabinoids. Both of these programs are intended to provide us with a series of proprietary NCEs for evaluation as potential drug candidates.
+Cannabinoid-based Dual-action Compounds
+ 
+Our first program seeks to create new dual-action, cannabinoid-based hybrid NCEs which improve upon the efficacy, side effects or a combination of both compared to FDA-approved drugs and other promising drug candidates currently under development. Our initial strategy is to focus on indications that have been proven to be responsive to cannabinoids and cannabinoid therapeutics such as certain metabolic, autoimmune and inflammatory diseases. Once we have completed the synthesis portion of our program, we will contract with third-party CROs to perform in vitro receptor binding assays to determine which indications these compounds may address. Based on the results of these receptor binding assays, we will decide which compounds to advance in vivo testing and which compounds would benefit from further chemical refinement. We are initially targeting the creation of approximately four new proprietary compounds as part of this program.
+Novel Chemical Derivatives of Existing Cannabinoids
+ 
+Our second program seeks to create novel derivatives of two cannabinoids, CBG (which is a precursor to CBD and THC) and THCV, which we intend to evaluate for their potential therapeutic benefits. We are initially targeting the creation of approximately four and ten new proprietary CBG and THCV compounds, respectively, as part of this program.
+ 
+6
+
+ 
+
+CBG is a non-psychoactive cannabinoid found in cannabis that is believed to boost anandamide, a naturally occurring endocannabinoid that increases dopamine levels and is responsible for regulating various bodily functions related to mood, sleep and appetite. In addition, CBG is also believed to be a possible inhibitor of the psychoactive effects of THC. CBG is believed to have potential benefits in the areas of pain relief, inflammatory bowel disease/colitis, anti-cancer and anti-bacterial activities, neurodegenerative diseases (e.g., Huntington’s disease), cachexia, depression, overactive bladder and various forms of epilepsy.
+ 
+THCV is a psychoactive cannabinoid found in cannabis that shares a similar molecular structure to THC. Despite the structural similarities to THC, the psychoactive properties of THCV are more difficult to define. In low doses, THCV is believed to be an antagonist of the CB1 receptor. In high doses, however, THCV is believed to be an agonist of the CB1 receptor similar to THC. Unlike THC, which increases appetite, THCV has the opposite effect of suppressing appetite making it a popular research target for weight loss and diabetes drugs. Further, THCV is also believed to have anti-inflammatory, anti-anxiety and anti-seizure properties, as well as being effective at reducing tremors associated with central nervous system conditions such as amyotrophic lateral sclerosis, or ALS, Parkinson’s disease and Alzheimer’s disease.
+ 
+That fact that CBG and THCV already demonstrate biological activity gives us reason to believe that their derivatives will also be biologically active. These derivatives may also demonstrate different biological activity than their respective parent compounds.
+ 
+Once we complete the chemical design and synthesis of these derivative cannabinoid compounds, we intend to test them in in vitro receptor binding assays to determine the best potential indications for further development.
+ 
+Commercialization
+ 
+Given our stage of development, we have not yet established a commercial organization or distribution capabilities. We may build our own commercial infrastructure or utilize contract reimbursement specialists, sales people, medical education specialists, distribution or other collaboration arrangements and take other steps to establish the necessary commercial infrastructure at such time as we believe that one of our drug candidates is approaching marketing approval.
+Competition
+ 
+Our industry is characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary products. We face potential competition from many different sources, such as pharmaceutical companies, including generic drug companies, biotechnology companies, drug delivery companies and academic and research institutions. Many of our potential competitors have substantially greater financial, scientific, technical, intellectual property, regulatory and human resources than we do, and greater experience than we do commercializing products and developing drug candidates, including obtaining FDA and other regulatory approvals for drug candidates. Consequently, our competitors may develop products for indications we pursue that are more effective, better tolerated, more widely-prescribed or accepted, more useful and less costly, and they may also be more successful in manufacturing and marketing their products. We also face competition from third parties in recruiting and retaining qualified personnel, establishing clinical trial sites and enrolling patients for clinical trials and in identifying and acquiring or in-licensing new products and drug candidates.
+Intellectual Property
+ 
+The proprietary nature of, and protection for, our drug candidates and our discovery programs, processes and know-how are important to our business. We need to rely upon our licensors to obtain patent protection in the United States and internationally for our drug candidates and our discovery programs, and any other inventions to which we have rights under our license agreements, where available and when appropriate. To the extent we will be able to do so, our policy will be to work with our licensors to pursue, maintain our licensed patents and defend patent rights and to protect the technology, inventions and improvements that are commercially important to the development of our business. We will also rely on trade secrets that may be important to the development of our business.
+ 
+7
+
+ 
+
+
+Our commercial success will depend in part on obtaining and maintaining patent protection by collaborating with our licensors and trade secret protection of our current and future drug candidates and the methods used to develop and manufacture them, as well as successfully defending any patents against third-party challenges. Our ability to stop third parties from making, using, selling, offering to sell or importing our products depends on the extent to which we have rights under valid and enforceable patents or trade secrets that cover these activities. We cannot be sure that patents will be granted with respect to any of pending patent applications our licensors file or with respect to any patent applications our licensors file in the future, nor can we be sure that any existing patents or any patents that may be granted in the future upon which we rely will be commercially useful in protecting our drug candidates, discovery programs and processes. For this and more comprehensive risks related to our licensed intellectual property, please see “Risk Factors — Risks Relating to Our Intellectual Property.”
+ 
+Intellectual Property Licenses
+ 
+We acquired exclusive, worldwide rights from City of Hope for CO-sTiRNA, including the patent rights and associated know-how. Under the COH License Agreement, we are required to commercially develop CO-sTiRNA, including through all phases of clinical trials, and to eventually obtain marketing approval. Upon the grant of the COH License Agreement, we paid City of Hope an upfront license fee and reimbursed certain patent fees and expenses in an aggregate amount of approximately $284,000, and issued 200,000 shares of our common stock and 47,965 of our W warrants. Over the course of the COH License Agreement, we are required to attain certain diligence milestones and are obligated to raise a prescribed amount of capital to support the costs associated with development of CO-sTiRNA. We also are required to make development milestone payments, which total approximately $3.5 million in the aggregate, for each indication. These milestone payments are tied to achieving certain clinical milestones and obtaining marketing approvals. We also must make sales milestone payments tied to achieving net sales starting at $50 million in a year up to $1 billion in a year, which payments total $57.5 million in the aggregate. We are also subject to paying base royalties on sales, such royalty rate being a mid-single digit percentage of sales, subject to minimum annual royalties. Royalty terms are determined on a country-by-country basis and extend to the later of 15 years following the expiration of patent protection in such country or, in cases of know-how, 15 years from the first commercial sale. Starting in 2021, we also must pay an annual license maintenance fee, such fee being less than $50,000 per year, which will be a credit against base royalties in a license year once we become obligated to pay such royalties in a license year. The COH License Agreement is subject to termination upon an uncured material breach by either party or our bankruptcy.
+ 
+Through our wholly-owned subsidiary, Vital Spark, Inc. or VSI, we own a license from the NIH, pursuant to which we have an exclusive, worldwide rights with respect to three patents related to cannabinoid receptor mediating compounds for use in connection with SSc. We are required under the license agreement to use reasonable commercial efforts to bring the licensed products and licensed processes to practical application, which includes adhering to an agreed upon commercial development plan and meeting certain performance benchmarks. Upon execution of the license agreement, we paid a license fee and reimbursed certain patent fees and expenses in an aggregate amount of approximately $120,000. In addition, we are required to pay to NIH minimum annual royalties, such minimum amount being $25,000 per year, which are credited against any earned royalties on product sales, such royalty rate being less than 5% of product sales. We are also obligated to pay royalties in connection with the achievement of certain prescribed milestones tied to clinical development and market approvals in prescribed countries. Such milestone payments total approximately $2,100,000 in the aggregate. We are responsible for funding the patent prosecution costs NIH incurs for the patents licensed to us. We have the right to surrender the license in any country for which we determine not to fund patent prosecution costs.
+ 
+We have two license agreements with Yissum. The first is to the patent and associated research results relating to the CBD combinations with approved anesthetics resulting from our MOU with Dr. Binshtok. The second is to the research results relating to the synthesis of novel cannabinoid dual-action compounds and novel chemical derivatives of CBG and THCV resulting from our MOU with Dr. Tsevlikhovsky. Under the first license agreement and under the second license agreement, solely with respect to regulated products, we have agreed to pay milestone payments upon achievement of certain clinical development and product approval milestones. The first of these payments is due upon dosing of the first patient in the first in-human clinical trial. The second becomes due upon the dosing of the first patient in a pivotal PhaseIIb/ Phase III trial. The last three payments are tied to marketing approvals in the United States and in other countries. These milestone payments total approximately $1,225,000 in the aggregate for each license agreement. We will also pay percentage royalties tied to sales of any drug product that may arise in the future based upon the licensed patent. Such percentage royalty rate is less than 5% of product sales. This license is worldwide subject, however, to our funding patent prosecutions on a country by country basis. We have agreed, at a minimum, to fund patent prosecutions in the United States, Canada, Japan, China, India, the United Kingdom, Germany and France. In addition, under our second license agreement, as for non-regulated products, we have agreed to pay two milestone payments totaling $100,000, the first payment being due upon establishing the commercial optimization of any product we develop and the second upon developing a small-scale pilot manufacturing plant. The royalty rate for non-regulated products is 60% of the percentage royalty rate for regulated products.
+ 
+8
+
+ 
+
+Manufacturing
+ 
+We do not own or operate, and currently have no plans to establish, any manufacturing facilities for final manufacture. We intend to rely, on third parties for the manufacture of our drug candidates for future pre-clinical and clinical testing, as well as for commercial manufacture of any products that we may commercialize.
+ 
+For our future drug candidates, we aim to identify and qualify manufacturers and researchers to provide the application program interface, or API, and fill-and-finish services prior to submission of an NDA to the FDA. We expect to continue to fund the development of drug candidates that can be produced cost-effectively at contract manufacturing facilities.
+ 
+Marketing
+ 
+Given our stage of development, we have not yet established marketing capabilities. We may perform marketing functions ourselves or through third parties, or may take other steps to establish the necessary marketing infrastructure if any of our drug candidates are approved.
+Government Regulation and Product Approval
+ 
+Governmental authorities in the United States, at the federal, state and local level, and other countries extensively regulate, among other things, the research, development, testing, manufacture, labeling, packaging, promotion, storage, advertising, distribution, marketing and export and import of products such as those we are developing. Our drug candidates must be approved by the FDA through the NDA, process before they may be legally marketed in the United States and by the European Medical Associate, or EMA, through the Marketing Authorization Application, or MAA, process before they may be legally marketed in Europe. Our drug candidates will be subject to similar requirements in other countries prior to marketing in those countries. The process of obtaining regulatory approvals and the subsequent compliance with applicable federal, state, local and foreign statutes and regulations require the expenditure of substantial time and financial resources.
+ 
+Regulation of Cannabis and Cannabinoids
+ 
+We intend to pursue FDA approval, as well as other U.S. and non-U.S. regulatory approvals, for our proprietary drug candidates. We believe that the rigorous safety and efficacy testing required to obtain FDA approval will distinguish our drugs from the proliferation of commoditized cannabinoid products in the marketplace. FDA approval will also allow us to legally market our drugs with claims of therapeutic benefit for specific diseases and indications which cannot be done with non-FDA approved products. Finally, obtaining approval will allow us to overcome the legal obstacles that exist under state and federal laws to the marketing, selling and transportation of cannabinoids and cannabinoid associated products. By pursuing this strategy, we hope to gain a competitive advantage over non-approved products and encourage healthcare providers to prescribe our products for the diseases and indications for which our products are intended at higher prices when compared to non-approved products.
+ 
+DEA Regulation
+ 
+Cannabis, cannabis extracts and some cannabinoids are regulated as “controlled substances” as defined in the CSA, which establishes registration, security, recordkeeping, reporting, storage, distribution and other requirements administered by the DEA. The DEA is concerned with the control of handlers of controlled substances, and with the equipment and raw materials used in their manufacture and packaging, in order to prevent loss and diversion into illicit channels of commerce.
+ 
+The DEA regulates controlled substances as Schedule I, II, III, IV or V substances. Schedule I substances by definition have no established medicinal use, and may not be marketed or sold in the United States. A pharmaceutical product may be listed as Schedule II, III, IV or V, with Schedule II substances considered to present the highest risk of abuse and Schedule V substances the lowest relative risk of abuse among such substances. Cannabis, cannabis extracts and some cannabinoids are listed by the DEA as Schedule I controlled substances under the CSA, except that the DEA has de-scheduled CBD included in Epidiolex. The manufacture, shipment, storage, sale and use of such Schedule I controlled substances are subject to a high degree of regulation. Annual registration is required for any facility that manufactures, distributes, dispenses, imports or exports any controlled substance. The registration is specific to the particular location, activity and controlled substance schedule. For example, separate registrations are needed for import and manufacturing, and each registration will specify which schedules of controlled substances are authorized.
+ 
+9
+
+ 
+
+The DEA typically inspects a facility to review its security measures prior to issuing a registration. Security requirements vary by controlled substance schedule, with the most stringent requirements applying to Schedule I and Schedule II substances. Required security measures include background checks on employees and physical control of inventory through measures such as cages, surveillance cameras and inventory reconciliations. The registered entity must maintain records for the handling of all controlled substances, and must make periodic reports to the DEA. These include, for example, distribution reports for Schedule I and II controlled substances, Schedule III substances that are narcotics, and other designated substances. The registered entity must also report thefts or losses of any controlled substance, and obtain authorization to destroy any controlled substance. In addition, special authorization and notification requirements apply to imports and exports.
+ 
+In addition, a DEA quota system controls and limits the availability and production of controlled substances in Schedule I or II. Distributions of any Schedule I or II controlled substance must also be accompanied by special order forms, with copies provided to the DEA. The DEA may adjust aggregate production quotas and individual production and procurement quotas from time to time during the year, although the DEA has substantial discretion in whether or not to make such adjustments. To meet its responsibilities, the DEA conducts periodic inspections of registered establishments that handle controlled substances. In the event of non-compliance, the DEA may seek civil penalties, refuse to renew necessary registrations, or initiate proceedings to revoke those registrations. In certain circumstances, violations could lead to criminal prosecution.
+ 
+State Regulation
+ 
+The states also maintain separate controlled substance laws and regulations, including licensing, recordkeeping, security, distribution, and dispensing requirements. State authorities, including Boards of Pharmacy, regulate use of controlled substances in each state. Failure to maintain compliance with applicable requirements, particularly as manifested in the loss or diversion of controlled substances, can result in enforcement action that could have a material adverse effect on our business, operations and financial condition.
+The Single Convention on Narcotics Drugs 1961
+ 
+Many countries, including the United States, are parties to the 1961 Single Convention on Narcotic Drugs, or the Single Convention, which is an international treaty that governs international trade and domestic control of narcotic substances, including cannabis and cannabis extracts. The Single Convention requires all parties to take measures to limit the production, manufacture, export, import, distribution of, trade in, and use and possession of cannabis exclusively to medical and scientific purposes. In particular, the Single Convention requires member countries to establish a government agency to oversee the cultivation of marijuana and establish a monopoly on the wholesale trade of marijuana, and it provides that this role must be filled by a single government agency if the member country’s constitution so permits.
+National Institute on Drug Abuse
+ 
+Pursuant to the Single Convention, National Institute on Drug Abuse, or NIDA, oversees the cultivation of research-grade cannabis for medicinal research on behalf of the United States Government. NIDA has historically fulfilled this obligation through a contract that it administers with University of Mississippi, or UM. UM has been the sole NIDA contractor to grow cannabis for research purposes since 1968. The contract is open for competitive bidding at periodic intervals. Since 1999, the term of the contract has been five years. UM engaged in a competitive bidding process for the next contract interval and was awarded the contract in 2015. Under the NIDA contract, UM grows, harvests, stores, ships and analyzes cannabis of different varieties, as NIDA requires. In August 2016 the DEA announced that it would consider granting registrations for the cultivation of cannabis for research and development purposes outside of the NIDA contract process. We are not aware of any entity that has received such a registration under this process.
+ 
+10
+
+ 
+
+UM has represented that it also grows cannabis for purposes of researching cannabis extracts, and has in the past grown cannabis, purified cannabis extracts, and distributed extracts for purposes of developing drug candidates, separate and apart from its contract with NIDA. UM has indicated that it conducted these activities pursuant to separate registrations from the DEA and that it plans to seek the necessary additional DEA registrations to conduct the contemplated activities in connection with our partnership, in compliance with applicable law and the United States’ obligations under the Single Convention. However, there is a risk that regulatory authorities may disagree and decline to authorize UM to engage in these activities.
+ 
+United States Food and Drug Administration Regulation
+ 
+NDA Approval Processes
+ 
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act, or the FDCA, and implementing regulations. Failure to comply with the applicable U.S. requirements at any time during the product development process or approval process, or after approval, may subject an applicant to administrative or judicial sanctions, any of which could have a material adverse effect on us. These sanctions could include:
+ 
+• refusal to approve pending applications;
+ 
+• withdrawal of an approval;
+ ​
+ • imposition of a clinical hold;
+ ​
+ • warning letters;
+ ​
+ • product seizures;
+ 
+• total or partial suspension of production or distribution; or
+ 
+•        injunctions, fines, disgorgement, or civil or criminal penalties.
+ ​
+ The process required by the FDA before a drug may be marketed in the United States generally involves the following:
+ 
+• completion of nonclinical laboratory tests, animal studies and formulation studies conducted according to Good Laboratory Practices, or GLPs, or other applicable regulations;
+ 
+• submission to the FDA of an Investigational New Drug application, or IND, which must become effective before human clinical trials may begin;
+ 
+• performance of adequate and well-controlled human clinical trials according to Good Clinical Practices, or GCPs, to establish the safety and efficacy of the proposed drug for its intended use;
+ 
+• submission to the FDA of an NDA;
+ 
+• satisfactory completion of an FDA inspection of the manufacturing facility or facilities at which the product is produced to assess compliance with current Good Manufacturing Practices, or cGMPs, to assure that the facilities, methods and controls are adequate to preserve the drug’s identity, strength, quality and purity; and
+ 
+• FDA review and approval of the NDA.
+ 
+11
+
+ 
+
+Once a pharmaceutical candidate is identified for development, it will enter the pre-clinical or nonclinical testing stage. Nonclinical tests include laboratory evaluations of product chemistry, toxicity and formulation, as well as animal studies. An IND sponsor must submit the results of the nonclinical tests, together with manufacturing information and analytical data, to the FDA as part of the IND. Some nonclinical testing may continue even after the IND is submitted. In addition to including the results of the nonclinical studies, the IND will also include a protocol detailing, among other things, the objectives of the clinical trial, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated if the first phase lends itself to an efficacy determination. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA, within the 30-day time period, places the IND on clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before clinical trials can begin. A clinical hold may occur at any time during the life of an IND, and may affect one or more specific studies or all studies conducted under the IND.
+ 
+All clinical trials must be conducted under the supervision of one or more qualified investigators in accordance with GCPs. They must be conducted under protocols detailing the objectives of the trial, dosing procedures, research subject selection and exclusion criteria and the safety and effectiveness criteria to be evaluated. Each protocol must be submitted to the FDA as part of the IND, and progress reports detailing the status of the clinical trials must be submitted to the FDA annually. Sponsors also must timely report to FDA serious and unexpected adverse reactions, any clinically important increase in the rate of a serious suspected adverse reaction over that listed in the protocol or investigation brochure, or any findings from other studies or animal or in vitro testing that suggest a significant risk in humans exposed to the drug. An institutional review board, or IRB, at each institution participating in the clinical trial must review and approve the protocol before a clinical trial commences at that institution and must also approve the information regarding the trial and the consent form that must be provided to each research subject or the subject’s legal representative, monitor the study until completed and otherwise comply with IRB regulations.
+ 
+Human clinical trials are typically conducted in three sequential phases that may overlap or be combined:
+ 
+•       Phase 1. The drug is initially introduced into healthy human subjects and tested for safety, dosage tolerance, absorption, metabolism, distribution and elimination. In the case of some products for severe or life-threatening diseases, such as cancer, especially when the product may be inherently too toxic to ethically administer to healthy volunteers, the initial human testing is often conducted in patients.
+• Phase 2. Clinical trials are performed on a limited patient population intended to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage.
+ ​
+ • Phase 3. Clinical trials are undertaken to further evaluate dosage, clinical efficacy and safety in an expanded patient population at geographically dispersed clinical study sites. These studies are intended to establish the overall risk-benefit ratio of the product and provide an adequate basis for product labeling.
+ ​
+ Human clinical trials are inherently uncertain and Phase 1, Phase 2 and Phase 3 testing may not be successfully completed. The FDA or the sponsor may suspend a clinical trial at any time for a variety of reasons, including a finding that the research subjects or patients are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients.
+ 
+During the development of a new drug, sponsors are given opportunities to meet with the FDA at certain points. These points may be prior to the submission of an IND, at the end of Phase 2 and before an NDA is submitted. Meetings at other times may be requested. These meetings can provide an opportunity for the sponsor to share information about the data gathered to date and for the FDA to provide advice on the next phase of development. Sponsors typically use the meeting at the end of Phase 2 to discuss their Phase 2 clinical results and present their plans for the pivotal Phase 3 clinical trial that they believe will support the approval of the new drug. If a Phase 2 clinical trial is the subject of discussion at the end of Phase 2 meeting with the FDA, a sponsor may be able to request a Special Protocol Assessment, or SPA, the purpose of which is to reach agreement with the FDA on the Phase 3 clinical trial protocol design and analysis that will form the primary basis of an efficacy claim.
+ 
+12
+
+ 
+
+According to published guidance on the SPA process, a sponsor which meets the prerequisites may make a specific request for a SPA and provide information regarding the design and size of the proposed clinical trial. The FDA is supposed to evaluate the protocol within 45 days of the request to assess whether the proposed trial is adequate, and that evaluation may result in discussions and a request for additional information. A SPA request must be made before the proposed trial begins, and all open issues must be resolved before the trial begins. If a written agreement is reached, it will be documented and made part of the record. The agreement will be binding on the FDA and may not be changed by the sponsor or the FDA after the trial begins except with the written agreement of the sponsor and the FDA or if the FDA determines that a substantial scientific issue essential to determining the safety or efficacy of the drug was identified after the testing began.
+ 
+Concurrent with clinical trials, sponsors usually complete additional animal safety studies and also develop additional information about the chemistry and physical characteristics of the drug and finalize a process for manufacturing commercial quantities of the product in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the drug and the manufacturer must develop methods for testing the quality, purity and potency of the drug. Additionally, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the drug candidate does not undergo unacceptable deterioration over its proposed shelf-life.
+ 
+The results of product development, nonclinical studies and clinical trials, along with descriptions of the manufacturing process, analytical tests and other control mechanisms, proposed labeling and other relevant information are submitted to the FDA as part of an NDA requesting approval to market the product. The submission of an NDA is subject to the payment of user fees, but a waiver of such fees may be obtained under specified circumstances. The FDA reviews all NDAs submitted to ensure that they are sufficiently complete for substantive review before it accepts them for filing. It may request additional information rather than accept an NDA for filing. In this event, the NDA must be resubmitted with the additional information. The resubmitted application also is subject to review before the FDA accepts it for filing.
+ 
+Once the submission is accepted for filing, the FDA begins an in-depth review. NDAs receive either standard or priority review. A drug representing a significant improvement in treatment, prevention or diagnosis of disease may receive priority review. The FDA may refuse to approve an NDA if the applicable regulatory criteria are not satisfied or may require additional clinical or other data. Even if such data are submitted, the FDA may ultimately decide that the NDA does not satisfy the criteria for approval. The FDA reviews an NDA to determine, among other things, whether a product is safe and effective for its intended use and whether its manufacturing is cGMP-compliant. The FDA may refer the NDA to an advisory committee for review and recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendation of an advisory committee, but it generally follows such recommendations. Before approving an NDA, the FDA will inspect the facility or facilities where the product is manufactured and tested.
+ 
+Expedited Review and Approval
+ 
+The FDA has various programs, including Fast Track, priority review, and accelerated approval, which are intended to expedite or simplify the process for reviewing drugs, and/or provide for the approval of a drug on the basis of a surrogate endpoint. Even if a drug qualifies for one or more of these programs, the FDA may later decide that the drug no longer meets the conditions for qualification or that the time period for FDA review or approval will be shortened. Generally, drugs that are eligible for these programs are those for serious or life-threatening conditions, those with the potential to address unmet medical needs and those that offer meaningful benefits over existing treatments. For example, Fast Track is a process designed to facilitate the development and expedite the review of drugs to treat serious or life-threatening diseases or conditions and fill unmet medical needs. Priority review is designed to give drugs that offer major advances in treatment or provide a treatment where no adequate therapy exists an initial review within six months as compared to a standard review time of ten months. Although Fast Track and priority review do not affect the standards for approval, the FDA will attempt to facilitate early and frequent meetings with a sponsor of a Fast Track designated drug and expedite review of the application for a drug designated for priority review. Accelerated approval, which is described in Subpart H of 21 CFR Part 314, provides for an earlier approval for a new drug that is intended to treat a serious or life-threatening disease or condition and that fills an unmet medical need based on a surrogate endpoint. A surrogate endpoint is a laboratory measurement or physical sign used as an indirect or substitute measurement representing a clinically meaningful outcome. As a condition of approval, the FDA may require that a sponsor of a drug candidate receiving accelerated approval perform post-marketing clinical trials.
+ 
+13
+
+ 
+
+In the recently enacted Food and Drug Administration Safety and Innovation Act, or FDASIA, Congress encouraged the FDA to utilize innovative and flexible approaches to the assessment of products under accelerated approval. The law requires the FDA to issue related draft guidance within a year after the law’s enactment and also promulgate confirming regulatory changes.
+ 
+The Hatch-Waxman Act
+ 
+In seeking approval for a drug through an NDA, applicants are required to list with the FDA each patent whose claims cover the applicant’s product. Upon approval of a drug, each of the patents listed in the application for the drug is then published in the FDA’s Approved Drug Products with Therapeutic Equivalence Evaluations, commonly known as the Orange Book. Drugs listed in the Orange Book can, in turn, be cited by potential generic competitors in support of approval of an abbreviated new drug application, or ANDA. An ANDA provides for marketing of a drug product that has the same active ingredients in the same strengths and dosage form as the listed drug and has been shown through bioequivalence testing to be bioequivalent to the listed drug. Other than the requirement for bioequivalence testing, ANDA applicants are not required to conduct, or submit results of, pre-clinical or clinical tests to prove the safety or effectiveness of their drug product. Drugs approved in this way are considered to be therapeutically equivalent to the listed drug, are commonly referred to as “generic equivalents” to the listed drug, and can often be substituted by pharmacists under prescriptions written for the original listed drug in accordance with state law.
+ 
+The ANDA applicant is required to certify to the FDA concerning any patents listed for the approved product in the FDA’s Orange Book. Specifically, the applicant must certify that: (i) the required patent information has not been filed; (ii) the listed patent has expired; (iii) the listed patent has not expired, but will expire on a particular date and approval is sought after patent expiration; or (iv) the listed patent is invalid or will not be infringed by the new product. The ANDA applicant may also elect to submit a section viii statement, certifying that its proposed ANDA labeling does not contain (or carves out) any language regarding the patented method-of-use, rather than certify to a listed method-of-use patent.
+ 
+If the applicant does not challenge the listed patents, the ANDA application will not be approved until all the listed patents claiming the referenced product have expired.
+ 
+A certification that the new product will not infringe the already approved product’s listed patents, or that such patents are invalid, is called a Paragraph IV certification. If the ANDA applicant has provided a Paragraph IV certification to the FDA, the applicant must also send notice of the Paragraph IV certification to the NDA and patent holders once the ANDA has been accepted for filing by the FDA. The NDA and patent holders may then initiate a patent infringement lawsuit in response to the notice of the Paragraph IV certification. The filing of a patent infringement lawsuit within 45 days of the receipt of a Paragraph IV certification automatically prevents the FDA from approving the ANDA until the earlier of 30 months, expiration of the patent, settlement of the lawsuit, or a decision in the infringement case that is favorable to the ANDA applicant.
+ 
+The ANDA application also will not be approved until any applicable non-patent exclusivity listed in the Orange Book for the referenced product has expired.
+ 
+Upon NDA approval of a new chemical entity or NCE, which is a drug that contains no active moiety that has been approved by the FDA in any other NDA, that drug receives five years of marketing exclusivity during which time the FDA cannot receive any ANDA or 505(b)(2) application seeking approval of a drug that references a version of the NCE drug. Certain changes to a drug, such as the addition of a new indication to the package insert, are associated with a three-year period of exclusivity during which the FDA cannot approve an ANDA or 505(b)(2) application that includes the change.
+ 
+14
+
+ 
+
+An ANDA or 505(b)(2) application may be submitted one year before NCE exclusivity expires if a Paragraph IV certification is filed. If there is no listed patent in the Orange Book, there may not be a Paragraph IV certification and thus no ANDA or 505(b)(2) application may be filed before the expiration of the exclusivity period.
+ 
+For a botanical drug, the FDA may determine that the active moiety is one or more of the principal components or the complex mixture as a whole. This determination would affect the utility of any five-year exclusivity as well as the ability of any potential generic competitor to demonstrate that it is the same drug as the original botanical drug.
+ 
+Five-year and three-year exclusivities do not preclude FDA approval of a 505(b)(1) application for a duplicate version of the drug during the period of exclusivity, provided that the 505(b)(1) applicant conducts or obtains a right of reference to all of the pre-clinical studies and adequate and well-controlled clinical trials necessary to demonstrate safety and effectiveness.
+ 
+After NDA approval, owners of relevant drug patents may apply for up to a five-year patent extension. The allowable patent term extension is calculated as half of the drug’s testing phase — the time between IND submission and NDA submission — and all of the review phase — the time between NDA submission and approval up to a maximum of five years. The time can be shortened if the FDA determines that the applicant did not pursue approval with due diligence. The total patent term after the extension may not exceed 14 years.
+ 
+For patents that might expire during the application phase, the patent owner may request an interim patent extension. An interim patent extension increases the patent term by one year and may be renewed up to four times. For each interim patent extension granted, the post-approval patent extension is reduced by one year. The director of the PTO must determine that approval of the drug covered by the patent for which a patent extension is being sought is likely. Interim patent extensions are not available for a drug for which an NDA has not been submitted.
+ 
+Orphan Drug Designation
+ 
+Under the Orphan Drug Act, the FDA may grant orphan drug designation to a drug intended to treat a rare disease or condition, which is generally a disease or condition that affects fewer than 200,000 individuals in the United States. Orphan product designation must be requested before submitting an NDA. After the FDA grants orphan drug designation, the identity of the therapeutic agent and its potential orphan use are disclosed publicly by the FDA. Orphan product designation does not convey any advantage in or shorten the duration of regulatory review and approval process. In addition to the potential period of exclusivity, orphan designation makes a company eligible for grant funding of up to $500,000 per year for four years to defray costs of clinical trial expenses, tax credits for clinical research expenses and potential exemption from the FDA application user fee.
+ 
+If a product that has orphan designation subsequently receives the first FDA approval for the disease or condition for which it has such designation, the product is entitled to orphan drug exclusivity, which means the FDA may not approve any other applications to market the same drug for the same indication for seven years, except in limited circumstances, such as (i) the drug’s orphan designation is revoked; (ii) its marketing approval is withdrawn; (iii) the orphan exclusivity holder consents to the approval of another applicant’s product; (iv) the orphan exclusivity holder is unable to assure the availability of a sufficient quantity of drug; or (v) a showing of clinical superiority to the product with orphan exclusivity by a competitor product. If a drug designated as an orphan product receives marketing approval for an indication broader than what is designated, it may not be entitled to orphan drug exclusivity. We intend to apply for orphan drug designation for MRI-1867 for SSc and any other of our drug candidates that we develop for diseases or conditions that satisfy the requirements for orphan drug designation. There can be no assurance that we will receive orphan drug designation for MRI-1867 for SSc, or any other drug candidates that we may develop for the treatment of SSc or other orphan diseases.
+ 
+Pediatric Exclusivity and Pediatric Use
+ 
+Under the Best Pharmaceuticals for Children Act, or BPCA, certain drugs may obtain an additional six months of exclusivity, if the sponsor submits information requested in writing by the FDA, or a Written Request, relating to the use of the active moiety of the drug in children. The FDA may not issue a Written Request for studies on unapproved or approved indications or where it determines that information relating to the use of a drug in a pediatric population, or part of the pediatric population, may not produce health benefits in that population.
+ 
+15
+
+ 
+
+To receive the six-month pediatric market exclusivity, we would have to receive a Written Request from the FDA, conduct the requested studies in accordance with a written agreement with the FDA or, if there is no written agreement, in accordance with commonly accepted scientific principles, and submit reports of the studies. A Written Request may include studies for indications that are not currently in the labeling if the FDA determines that such information will benefit the public health. The FDA will accept the reports upon its determination that the studies were conducted in accordance with and are responsive to the original Written Request or commonly accepted scientific principles, as appropriate, and that the reports comply with the FDA’s filing requirements.
+ 
+In addition, the Pediatric Research Equity Act, or PREA, requires all applications (or supplements to an application) submitted under section 505 of the FDCA (21 U.S.C. Section 355) for a new active ingredient, new indication, new dosage form, new dosing regimen or new route of administration to contain a pediatric assessment unless the applicant has obtained a waiver or deferral. It also authorizes the FDA to require holders of approved NDAs for marketed drugs to conduct pediatric studies under certain circumstances. In general, PREA applies only to those drugs developed for diseases and/or conditions that occur in both the adult and pediatric populations. Products intended for pediatric-specific indications will be subject to the requirements of PREA only if they are initially developed for a subset of the relevant pediatric population.
+ 
+As part of the FDASIA, Congress reauthorized both BPCA and PREA, which were slated to expire on September 30, 2012, and made both laws permanent.
+ 
+Post-approval Requirements
+ 
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product may result in restrictions on the product or even complete withdrawal of the product from the market. After approval, some types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further FDA review and approval. In addition, the FDA may require testing and surveillance programs to monitor the effect of approved products that have been commercialized, and the FDA has the power to prevent or limit further marketing of a product based on the results of these post-marketing programs.
+ 
+Any drug products manufactured or distributed by us pursuant to FDA approvals are subject to continuing regulation by the FDA, including, among other things:
+ 
+• record-keeping requirements;
+ 
+•        reporting of adverse experiences with the drug;
+ 
+• providing the FDA with updated safety and efficacy information;
+ ​
+ • drug sampling and distribution requirements;
+ 
+•        notifying the FDA and gaining its approval of specified manufacturing or labeling changes; and
+ 
+• complying with FDA promotion and advertising requirements.
+ ​
+ Drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and some state agencies for compliance with cGMP and other laws.
+ 
+From time to time, legislation is drafted, introduced and passed in Congress that could significantly change the statutory provisions governing the approval, manufacturing and marketing of products regulated by the FDA. In addition, FDA regulations and guidance are often revised or reinterpreted by the agency in ways that may significantly affect our business and products. It is impossible to predict whether legislative changes will be enacted, or FDA regulations, guidance or interpretations changed or what the impact of such changes, if any, may be.
+ 
+16
+
+ 
+
+Regulation Outside of the United States
+ 
+In addition to regulations in the United States, we will be subject to regulations of other countries governing clinical trials and commercial sales and distribution of our products. Whether or not we obtain FDA approval for a product, we must obtain approval by the comparable regulatory authorities of countries outside of the United States before we can commence clinical trials in such countries and approval of the regulators of such countries or economic areas, such as the European Union, before we may market products in those countries or areas. The approval process and requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from place to place, and the time may be longer or shorter than that required for FDA approval.
+ 
+In the European Union, our future products may also be subject to extensive regulatory requirements. Similar to the United States, the marketing of medicinal products is subject to the granting of marketing authorizations by regulatory agencies. Also, as in the United States, the various phases of pre-clinical and clinical research in the European Union are subject to significant regulatory controls.
+ 
+Medicinal products require a marketing authorization before they may be placed on the market in the European Economic Area, or EEA, comprising the member states of the European Union as well as Iceland, Liechtenstein and Norway. There are various application procedures available, depending on the type of product involved. The centralized procedure gives rise to marketing authorizations that are valid throughout the EEA. Applicants file marketing authorization applications with the European Medicines Agency, or EMA, where they are reviewed by a relevant scientific committee, in most cases the Committee for Medicinal Products for Human Use, or CHMP. The EMA forwards CHMP opinions to the European Commission, which uses them as the basis for deciding whether to grant a marketing authorization. The centralized procedure is compulsory for medicinal products that (1) are derived from specified biotechnology processes, (2) contain a new active substance (not yet approved on November 20, 2005) indicated for the treatment of certain diseases, such as HIV/AIDS, cancer, diabetes, neurodegenerative disorders, viral diseases or autoimmune diseases and other immune dysfunctions, (3) are orphan medicinal products or (4) are advanced therapy medicinal products (such as gene therapy, somatic cell therapy and tissue engineered products). For medicines that do not fall within these categories, an applicant may voluntarily submit an application for a centralized marketing authorization to the EMA, as long as the CHMP agrees that (i) the medicine concerned contains a new active substance (not yet approved on November 20, 2005), (ii) the medicine is a significant therapeutic, scientific, or technical innovation, or (iii) if its authorization under the centralized procedure would be in the interest of public health.
+ 
+For those medicinal products for which the centralized procedure is not available, the applicant must submit marketing authorization applications to the national medicines regulators through one of three procedures: (1) a national procedure, which results in a marketing authorization in a single EEA member state; (2) the decentralized procedure, in which applications are submitted simultaneously in two or more EEA member states; and (3) the mutual recognition procedure, which must be used if the product has already been authorized in at least one other EEA member state, and in which the EEA member states are required to grant an authorization recognizing the existing authorization in the other EEA member state, unless they identify a serious risk to public health.
+ 
+Marketing authorization applications must usually include the results of clinical trials. Clinical trials of medicinal products in the EEA must be conducted in accordance with EEA and national regulations and the International Conference on Harmonization guidelines on GCP. Prior to commencing a clinical trial in a particular EEA member state, the sponsor must obtain a clinical trial authorization from the competent authority and a positive opinion from an independent ethics committee.
+ 
+In the EEA, companies developing a new medicinal product must agree a Pediatric Investigation Plan (PIP) with the EMA and must conduct pediatric clinical trials in accordance with that PIP, unless a waiver applies, e.g., because the relevant disease or condition occurs only in adults. The marketing authorization application for the product must include the results of pediatric clinical trials conducted in accordance with the PIP, unless a waiver applies, or a deferral has been granted, in which case the pediatric clinical trials must be completed at a later date.
+ 
+17
+
+ 
+
+Reimbursement
+ 
+Sales of any product we successfully develop will depend, in part, on the extent to which the costs of our products will be covered by third-party payors, such as government health programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly challenging the prices charged for medical products and services. Additionally, the containment of healthcare costs has become a priority of federal and state governments and the prices of drugs have been a focus in this effort. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit our net revenue and results. If these third-party payors do not consider our products to be cost-effective compared to other therapies, they may not cover our products after approved as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our products on a profitable basis.
+ 
+The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, or the MMA, imposed new requirements for the distribution and pricing of prescription drugs for Medicare beneficiaries. Under Part D, Medicare beneficiaries may enroll in prescription drug plans offered by private entities which will provide coverage of outpatient prescription drugs. Part D plans include both stand-alone prescription drug benefit plans and prescription drug coverage as a supplement to Medicare Advantage plans. Unlike Medicare Part A and B, Part D coverage is not standardized. Part D prescription drug plan sponsors are not required to pay for all covered Part D drugs, and each drug plan can develop its own drug formulary that identifies which drugs it will cover and at what tier or level. However, Part D prescription drug formularies must include drugs within each therapeutic category and class of covered Part D drugs, though not necessarily all the drugs in each category or class. Any formulary used by a Part D prescription drug plan must be developed and reviewed by a pharmacy and therapeutic committee. Government payment for some of the costs of prescription drugs may increase demand for our products for which we receive marketing approval. However, any negotiated prices for our products covered by a Part D prescription drug plan will likely be lower than the prices we might otherwise obtain. Moreover, while the MMA applies only to drug benefits for Medicare beneficiaries, private payors often follow Medicare coverage policy and payment limitations in setting their own payment rates. Any reduction in payment that results from the MMA may result in a similar reduction in payments from non-governmental payors.
+ 
+The American Recovery and Reinvestment Act of 2009 provides funding for the federal government to compare the effectiveness of different treatments for the same illness. A plan for the research will be developed by the Department of Health and Human Services, the Agency for Healthcare Research and Quality and the National Institutes for Health, and periodic reports on the status of the research and related expenditures will be made to Congress. Although the results of the comparative effectiveness studies are not intended to mandate coverage policies for public or private payors, it is not clear what effect, if any, the research will have on the sales of any product, if any such product or the condition that it is intended to treat is the subject of a study. It is also possible that comparative effectiveness research demonstrating benefits in a competitor’s product could adversely affect the sales of our drug candidates. If third-party payors do not consider our products to be cost-effective compared to other available therapies, they may not cover our products as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our products on a profitable basis.
+ 
+The Patient Protection and Affordable Care Act, as amended by the Health Care and Education Affordability Reconciliation Act of 2010, collectively referred to as the ACA, enacted in March 2010, is expected to have a significant impact on the health care industry. ACA is expected to expand coverage for the uninsured while at the same time containing overall healthcare costs. With regard to pharmaceutical products, among other things, ACA is expected to expand and increase industry rebates for drugs covered under Medicaid programs and make changes to the coverage requirements under the Medicare Part D program. We cannot predict the impact of ACA on pharmaceutical companies, as many of the ACA reforms require the promulgation of detailed regulations implementing the statutory provisions which has not yet occurred. In addition, some members of the U.S. Congress have been seeking to overturn at least portions of the legislation and we expect they will continue to review and assess this legislation and alternative health care reform proposals. Any legal challenges to ACA, as well as Congressional efforts to repeal ACA, add to the uncertainty of the legislative changes enacted as part of ACA.
+ 
+18
+
+ 
+
+In addition, in some non-U.S. jurisdictions, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the European Union provides options for its member states to restrict the range of medicinal products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. A member state may approve a specific price for the medicinal product or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal product on the market. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will allow favorable reimbursement and pricing arrangements for any of our products. Historically, products launched in the European Union do not follow price structures of the United States and generally tend to be significantly lower.
+ 
+Employees
+ 
+Our executive management consists of four members, one of whom, our President, is employed pursuant to an employment agreement, and three of whom provide services to us pursuant to a management services agreement, or MSA. 
+ 
+The executive services of our Chairman, Vice Chairman and Executive Committee Chairman are provided to us pursuant to an MSA, or Portfolio Services MSA, between HCFP/Portfolio Services LLC, or Portfolio Services, and us. Upon closing of the Transactions and as contemplated thereby, we entered into an MSA with an affiliate of Paul E. Hopper, or Hopper MSA. As further contemplated by and in connection with the Transactions, Mr. Hopper assumed the position of Co-Chairman. In connection with Mr. Hopper’s need to commit greater time to another biopharmaceutical company, unrelated to us, undertaking a series of financing transactions, including an IPO, Mr. Hopper resigned as our Co-Chairman. We intend to replace the pre-existing MSA for services relating to Dr. Morris C. Laster and the Hopper MSA, although there can be no assurance that we will actually enter into any such MSAs. Mr. Hopper continues to serve as a non-officer and non-employee director of the company. 
+ 
+Our executive officers are supported by additional personnel associated with the entities that provide services to the company pursuant to our management services agreements. We also utilize consultants in the ordinary course of business with expertise in various aspects of the drug development process.
+ 

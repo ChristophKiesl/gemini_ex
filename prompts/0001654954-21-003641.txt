@@ -1,0 +1,310 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ ITEM 1—BUSINESS
+ 
+  Overview
+ 
+ Tenax Therapeutics was originally formed as a New Jersey corporation in 1967 under the name Rudmer, David & Associates, Inc., and subsequently changed its name to Synthetic Blood International, Inc. Effective June 30, 2008, we changed the domiciliary state of the corporation to Delaware and changed the company name to Oxygen Biotherapeutics, Inc. On September 19, 2014, we changed the company name to Tenax Therapeutics, Inc.
+ 
+ We are a specialty pharmaceutical company focused on identifying, developing and commercializing products that address cardiovascular and pulmonary diseases of high unmet medical need. On November 13, 2013, through our wholly owned subsidiary, Life Newco, Inc., or Life Newco, we acquired a license granting Life Newco an exclusive, sublicensable right to develop and commercialize pharmaceutical products containing levosimendan, 2.5 mg/ml concentrate for solution for infusion / 5ml vial in the United States and Canada. On October 9, 2020, we entered into an amendment to the license to include two new oral products containing levosimendan, in capsule and solid dosage form, and a subcutaneously administered product containing levosimendan, to the scope of the license, subject to specified limitations.
+ 
+ On January 15, 2021, through our wholly owned subsidiary, Life Newco II, Inc., or Life Newco II, we acquired 100% of the equity of PHPrecisionMed Inc., a Delaware corporation, or PHPM. In accordance with the terms of the merger agreement between Life Newco II and PHPM, Life Newco II merged with and into PHPM, with PHPM surviving as our wholly-owned subsidiary. As a result of the merger, we plan to develop and commercialize pharmaceutical products containing imatinib for the treatment of pulmonary arterial hypertension.
+ 
+  Business Strategy
+ 
+ Our principal business objective is to identify, develop, and commercialize novel therapeutic products for disease indications that represent significant areas of clinical need and commercial opportunity. The key elements of our business strategy are outlined below.
+ 
+ 
+   
+1
+
+
+  
+ 
+  Efficiently conduct clinical development to establish clinical proof of concept with our current product candidates. Levosimendan and imatinib both represent novel therapeutic modalities for the treatment of pulmonary hypertension and other cardiovascular and pulmonary diseases of high unmet medical need. We are conducting clinical development with the intent to establish proof of concept in several important disease areas where these therapeutics would be expected to have benefit. Our focus is on conducting well-designed studies to establish a robust foundation for subsequent development, partnership and expansion into complementary areas.
+ 
+  Efficiently explore new high potential therapeutic applications, leveraging third-party research collaborations and our results from related areas. Levosimendan has shown promise in multiple disease areas. We are committed to exploring potential clinical indications where our therapies may achieve best-in-class profile, and where we can address significant unmet medical needs. In order to achieve this goal, we have established collaborative research relationships with investigators from research and clinical institutions and our strategic partners. These collaborative relationships have enabled us to cost effectively explore where our product candidates may have therapeutic relevance, and how it may be utilized to advance treatment over current clinical care. Additionally, we believe we will be able to leverage clinical safety data and preclinical results from some programs to support accelerated clinical development efforts in other areas, saving substantial development time and resources compared to traditional drug development.
+ 
+  Continue to expand our intellectual property portfolio. Our intellectual property is important to our business and we take significant steps to protect its value. We have ongoing research and development efforts, both through internal activities and through collaborative research activities with others, which aim to develop new intellectual property and enable us to file patent applications that cover new applications of our existing technologies or product candidates.
+ 
+  Enter into licensing or product co-development arrangements. In addition to our internal development efforts, an important part of our product development strategy is to work with collaborators and partners to accelerate product development, reduce our development costs, and broaden our commercialization capabilities. We believe this strategy will help us to develop a portfolio of high-quality product development opportunities, enhance our clinical development and commercialization capabilities, and increase our ability to generate value from our proprietary technologies.
+ 
+  Our Current Programs
+ 
+  Levosimendan Background
+ 
+ Levosimendan was discovered and developed by Orion Corporation, a Finnish company, or Orion. Levosimendan is a calcium sensitizer/K-ATP activator developed for intravenous use in hospitalized patients with acutely decompensated heart failure. It is currently approved in over 60 countries for this indication and not available in the United States or Canada. It is estimated that to date over 1.5 million patients have been treated worldwide with levosimendan.
+ 
+ Levosimendan is a novel, first in class calcium sensitizer/K-ATP activator. The therapeutic effects of levosimendan are mediated through:
+  
+   -
+ Increased cardiac contractility by calcium sensitization of troponin C, resulting in a positive inotropic effect which is not associated with substantial increases in oxygen demand.
+
+   -
+ Opening of potassium channels in the vasculature smooth muscle, resulting in a vasodilatory effect on all vascular beds.
+
+   -
+ Opening of mitochondrial potassium channels in cardiomyocytes, resulting in a cardioprotective effect.
+
+ 
+ This triple mechanism of action helps to preserve heart function during cardiac surgery. Several studies have demonstrated that levosimendan protects the heart and improves tissue perfusion while minimizing tissue damage during cardiac surgery.
+ 
+ In 2013, we acquired certain assets of Phyxius Pharma, Inc., or Phyxius, including its North American rights to develop and commercialize levosimendan for any indication in the United States and Canada. In the countries where levosimendan is marketed, levosimendan is indicated for the short-term treatment of acutely decompensated severe chronic heart failure in situations where conventional therapy is not sufficient, and in cases where inotropic support is considered appropriate. In acute decompensated heart failure patients, levosimendan has been shown to significantly improve patients’ symptoms as well as acute hemodynamic measurements such as increased cardiac output, reduced preload and reduced afterload. 
+ 
+ 
+   
+2
+
+
+  
+ 
+  The European Society of Cardiology, or the ESC, recommends levosimendan as a preferable agent over dobutamine to reverse the effect of beta blockade if it is thought to be contributing to hypotension. The ESC guidelines also state that levosimendan is not appropriate for patients with systolic blood pressure less than 85mmHg or in patients in cardiogenic shock unless it is used in combination with other inotropes or vasopressors. Other unique properties of levosimendan include sustained efficacy through the formation of a long-acting metabolite, lack of impairment of diastolic function, and evidence of better compatibility with beta blockers than dobutamine.
+ 
+  Levosimendan Development for Pulmonary Hypertension Patients
+ 
+ We recently completed a Phase 2 clinical trial of levosimendan in North America for the treatment of patients with pulmonary hypertension associated with heart failure with preserved ejection fraction, or PH-HFpEF. PH-HFpEF is defined hemodynamically by a mean pulmonary artery pressure, or mPAP, ≥25 mmHg, and a pulmonary capillary wedge pressure, or PCWP, >15 mmHg. Pulmonary hypertension in these patients is believed to arise from a passive backward transmission of elevated filling pressures from left-sided heart failure. These mechanical components of pulmonary venous congestion may trigger pulmonary vasoconstriction, decreased nitric oxide availability, increased endothelin expression, desensitization to natriuretic peptide induced vasodilation, and vascular remodeling. Over time, these changes often lead to advanced pulmonary arterial and venous disease, increased right ventricle afterload, and right ventricle failure.
+ 
+ PH-HFpEF is a common form of pulmonary hypertension with an estimated U.S. prevalence exceeding 1.5 million patients. Currently, no pharmacologic therapies are approved for treatment of PH-HFpEF.  Despite the fact that many therapies have been studied in PH-HFpEF patients, including therapies approved to treat pulmonary arterial hypertension patients, no therapies have been shown to be effective in treating PH-HFpEF patients.
+ 
+ Published pre-clinical and clinical studies indicate that levosimendan may provide important benefits to patients with pulmonary hypertension. Data from these published trials indicate that levosimendan may reduce pulmonary vascular resistance and improve important cardiovascular hemodynamics such as reduced pulmonary capillary wedge pressure and pulmonary artery pressure in patients with pulmonary hypertension. In addition, several published studies provide evidence that levosimendan may improve right ventricular dysfunction which is a common comorbidity in patients with pulmonary hypertension. While none of these studies have focused specifically on PH-HFpEF patients, the general hemodynamic improvements in these published studies of various types of pulmonary hypertension provide a basis to believe that levosimendan may be beneficial in PH-HFpEF patients.
+ 
+ In March 2018, we met with the United States Food and Drug Administration, or FDA, to discuss development of levosimendan in PH-HFpEF patients. The FDA agreed with our planned Phase 2 design, patient entry criteria, and endpoints. It was agreed the study could be conducted under the existing investigational new drug application with no additional nonclinical studies required to support full development. The FDA recognized there were no approved drug therapies to treat PH-HFpEF patients and acknowledged this provided an opportunity for a limited Phase 3 clinical program. This topic was discussed further at the End-of-Phase 2 Meeting following completion of the Phase 2 study in PH-HFpEF patients, which is known as the HELP Study – Hemodynamic Evaluation of Levosimendan in PH-HFpEF.
+ 
+ We initiated the first of our expected 10-12 HELP Study clinical sites in November 2018 and the first of 37 patients were enrolled in the HELP Study in March 2019. Enrollment in the HELP Study was completed in March 2020. The primary endpoint of the HELP Study was based on the change in PCWP during exercise versus baseline compared to placebo. The HELP Study utilized a double-blind randomized design following five weekly outpatient infusions of levosimendan.
+ 
+  On June 2, 2020, we announced preliminary, top-line data from the study. The primary efficacy analysis, pulmonary capillary wedge pressure (PCWP) during exercise did not demonstrate a statistically significant reduction from baseline. Levosimendan did demonstrate a statistically significant reduction in PCWP compared to baseline (p=<0.0017) and placebo (p=<0.0475) when the measurements at rest, with legs up and on exercise were combined. Levosimendan also demonstrated a statistically significant improvement in 6-minute walk distance as compared to placebo (p=0.0329). These findings from the HELP Study represent important discoveries related to the use of levosimendan in PH-HFpEF patients since this is the first study to evaluate levosimendan in PH-HFpEF patients and this is the first study ever conducted of any therapy in PH-HFpEF patients to show such positive improvements in hemodynamics and 6-minute walk distance.
+ 
+ 
+   
+3
+
+
+  
+ 
+  Hemodynamic Results
+ 
+  Hemodynamic measurements were made at rest (supine), after leg raise on a supine bicycle (a test of rapid increase in ventricular filling) and during exercise (25 watts for 3 minutes or until the patient tired). In the initial open-label phase, 84% of the patients had a significant reduction in right atrial pressure, or RAP, pulmonary artery pressure, or PAP and PCWP at rest and during exercise. In the randomized double-blinded 6-week trial, levosimendan demonstrated a statistically significant reduction in PCWP compared to baseline (p=<0.0017) and placebo (p=<0.0475) when the measurements at rest, with legs up and on exercise were combined. While there was no significant change in PCWP during exercise, patients receiving levosimendan had reductions from baseline at Week 6 in PCWP, PAP, and RAP that were significant when patients were “at rest” and/or with their “legs raised” (p<0.05).
+ Clinical Results (6-Minute Walk Distance)
+ 
+  The clinical efficacy was confirmed by a statistically significant improvement in 6-minute walk distance of 29 meters (p=0.0329). The 6-minute walk distance was a secondary endpoint in the trial and is a validated and accepted endpoint used in many pulmonary hypertension registration trials. Levosimendan was given in once-weekly home infusions for six weeks.
+ Safety
+ 
+  The incidence of adverse events or serious adverse events between the control and treated groups were similar. In addition, there were no arrhythmias observed, atrial or ventricular, when comparing baseline electrocardiographic monitoring with 72-hour monitoring after five weeks of treatment.
+ 
+  The detailed results from the Phase 2 HELP Study of levosimendan in PH-HFpEF were presented at the Heart Failure Society of America Virtual Annual Scientific Meeting on October 3, 2020 and at the American Heart Association Scientific Sessions 2020 on November 13, 2020. Additionally, the full manuscript has been accepted for publication in the peer-reviewed journal JACC:Heart Failure.
+ 
+  Next Steps
+ 
+ On October 9, 2020, we entered into an amendment, or the Amendment, to the License between the Company and Orion to include two new product formulations containing levosimendan, in a capsule solid oral dosage form, and a subcutaneously administered dosage form containing levosimendan, to the scope of the License, subject to specified limitations.
+ 
+ We plan to study the utility of the levosimendan oral capsule dosage form in patients who have participated in the open-label extension of the HELP Study and who continue to receive weekly infusions of intravenous levosimendan. These patients are now eligible to participate in the amendment to the HELP Study that will transition them from the intravenous to an oral formulation. The investigators at the centers that participated in the HELP Study have been invited to participate and enroll their patients into this study.
+ 
+  In October 2020, we met with the FDA for an End-of-Phase 2 Meeting to discuss the Phase 2 clinical data and further development of levosimendan in PH-HFpEF patients. The FDA agreed that one or two Phase 3 clinical studies (depending on the size) with a primary endpoint of change in 6-minute walk distance over 12 weeks or a single Phase 3 trial with clinical worsening (e.g., death, hospitalization for heart failure, or decline in exercise capacity) over 24 weeks would be sufficient to demonstrate the effectiveness of levosimendan in PH-HFpEF. The FDA also agreed to a plan to replace weekly intravenous levosimendan dosing with daily oral levosimendan doses in a Phase 3 clinical study. The FDA expressed concern about a safety database as potentially necessary and indicated that the need for a further safety database could be dependent on the final design of the Phase 3 study. We expect that this will be addressed when the final Phase 3 protocol is submitted which will better characterize the trial design and primary endpoints.
+ 
+ 
+   
+4
+
+
+  
+ 
+
+  The HELP Study design was novel in several respects. To date, no other multi-center study has evaluated levosimendan in heart failure patients with preserved ejection fraction, or HFpEF, patients or PH-HFpEF patients. Instead, all previous levosimendan heart failure studies have enrolled heart failure patients with reduced ejection fraction, or HFrEF, which specifically excluded HFpEF patients. Also, the HELP Study utilized a unique 24-hour weekly infusion regimen of 0.075- 0.1µm/kg/min. Finally, the HELP Study employed a unique home-based intravenous infusion administration via an ambulatory infusion pump. This home-based weekly intravenous administration is unlike all other chronic dosing studies of levosimendan that have typically employed a shorter duration and less frequent infusion regimen administered in a hospital setting. Despite the unique patient population, weekly dosing, and home-based administration, there have been no reported serious adverse events.
+ 
+  We believe that the combination of the unique HELP Study patient population, innovative weekly 24-hour dosing, unique home-based site of administration, and novel findings of efficacy and safety in PH-HFpEF patients represent unique discoveries and significant intellectual property. These discoveries, among others from the HELP Study, form the basis for a U.S. patent application that we have filed. 
+ 
+  Imatinib Background
+ 
+  Imatinib (also known as “Gleevec”), is a tyrosine kinase inhibitor, which revolutionized the treatment of chronic myeloid leukemia, or CML, in 2001. The first clinical trial of imatinib took place in 1998 and the drug received FDA approval in May 2001. Encouraged by the success of Imatinib in treating CML patients, scientists explored its effect in other cancers, and it was found to produce a similar positive effect in other cancers where tyrosine kinases were overexpressed.
+ 
+  Tyrosine kinases are important mediators of the signaling cascade, determining key roles in diverse biological processes like growth, differentiation, metabolism, and apoptosis in response to external and internal stimuli. Deregulation of protein kinase activity has been shown to play a central role in the pathogenesis of human cancers. Imatinib, a 2-phenyl amino pyrimidine derivative, is a tyrosine kinase inhibitor with activity against ABL, BCR-ABL, PDGFRA, and c-KIT. Imatinib works by binding close to the ATP binding site therefore inhibiting the enzyme activity of the protein. Imatinib also inhibits the ABL protein of noncancer cells. Imatinib is well absorbed after oral administration with a bioavailability exceeding 90%. It is extensively metabolized, principally by cytochrome P450 (CYP)3A4 and CYP3A5 and can competitively inhibit the metabolism of drugs that are CYP3A4 or CYP3A5 substrates. Imatinib is generally well tolerated in cancer patients. Common side effects include fluid retention, headache, diarrhea, loss of appetite, weakness, nausea and vomiting, abdominal distention, edema, rash, dizziness, and muscle cramps. Serious side effects may include myelosuppression, heart failure, and liver function abnormalities. Novartis is the manufacturer of Gleevec.
+ 
+  Previous Imatinib Development for Pulmonary Arterial Hypertension Patients
+ 
+  In pulmonary arterial hypertension, or PAH, a rare disease, subjects who remain symptomatic despite available therapies have a high morbidity and mortality. Though several therapies are now available, there is no cure for the disease, and there is no data supporting that the existing therapies, all of which are pulmonary vasodilators, halt progression or induce regression of the disease. Imatinib is a tyrosine kinase inhibitor that has been shown in animal models of pulmonary hypertension to induce disease reversal by an effect on platelet derived growth factor, or PDGF, which appears to be causal in the disease. After that discovery was made, several case reports and small case series of patients with advanced PAH failing combination pulmonary vasodilator therapy were published showing a dramatic effect of imatinib on stabilizing and improving these patients. This led Novartis to develop imatinib as a treatment of PAH.
+ 
+  Novartis sponsored a Phase 2 proof-of-concept trial to evaluate the safety, tolerability, and efficacy of imatinib as an adjunct to PAH specific therapy in patients with PAH. This was a 24-week randomized, double-blind, placebo-controlled study of PAH subjects who remained symptomatic on one or more PAH therapies in WHO Functional Class (FC) II-IV. The Phase 2 trial of imatinib in PAH caused significant hemodynamic improvement in some patients but failed to meet the primary endpoint of an increase in 6-minute walk distance (22 meters, p=NS). Novartis then sponsored a Phase 3 trial (IMPRES) which met its primary endpoint of significant increase in 6-minute walk (32 meters, p=0.002), an effect maintained in the extension study in patients remaining on imatinib. However, the data were confounded by a high rate of dropouts in the patients randomized to imatinib attributed largely to gastric intolerance during the first eight weeks. The sponsor proposed consideration of a surrogate endpoint under the subpart H provision as a basis for approval but was denied. Consequently, Novartis chose to withdraw the Investigational New Drug application as the drug went off patent.
+ 
+ 
+   
+5
+
+
+  
+ 
+  Current Imatinib Development for Pulmonary Arterial Hypertension Patients
+ 
+ On May 30, 2019, PHPM met with the FDA to discuss a proposal for a Phase 3 trial of imatinib for PAH. At that meeting, PHPM received agreement for a single Phase 3 trial using change in 6-minute walk distance as the primary endpoint (p<0.05). PHPM also received agreement for submission under the 505(b)(2) regulatory pathway, and thereafter received orphan designation. In August of 2019, PHPM was given preliminary advice on its plans to submit an application for Breakthrough Therapy Designation. In July 2020, PHPM received agreement from the FDA for the development of a modified release formulation that would require only a small comparative PK/bioavailability study in 12 volunteers receiving a single dose of the modified release formulation to be compared to a single dose of the existing immediate release formulation. A Phase 3 study is planned with the modified release formulation of imatinib.
+ Suppliers
+ 
+ Pursuant to the terms of our license for levosimendan, Orion is our sole manufacturing source for levosimendan. We intend to engage various third-party suppliers and contract manufacturing organizations for the supply and manufacture of imatinib for planned, upcoming clinical trials.
+ Intellectual Property
+ 
+ We rely on a combination of patent applications, patents, trade secrets, proprietary know-how, trademarks, and contractual provisions to protect our proprietary rights. We believe that to have a competitive advantage, we must develop and maintain the proprietary aspects of our technologies. Currently, we require our officers, employees, consultants, contractors, manufacturers, outside scientific collaborators and sponsored researchers, and other advisors to execute confidentiality agreements in connection with their employment, consulting, or advisory relationships with us, where appropriate. We also require our employees, consultants, and advisors who we expect to work on our products to agree to disclose and assign to us all inventions conceived during the workday, developed using our property, or which relate to our business.
+ 
+ To date, we own or in-license the rights to one U.S. patent and three foreign patents. In addition, we have three U.S. patent applications pending related to a product candidate and proprietary process, method and technology. Our issued and in-licensed patents, as well as our pending patents, expire between 2023 and 2039. 
+ 
+ We have:
+ 
+   -
+ one U.S. patent (8,404,752), one Australian patent (209,271,530) and one European patent (EPO9798325.8) held jointly with Virginia Commonwealth University Intellectual Property Foundation for the treatment of traumatic brain injury; and
+
+
+   -
+ one Israeli patent (215516) and numerous patent applications, including one U.S. patent application, for the formulation of perfluorocarbon emulsion with an average remaining life of approximately 13 years.
+
+
+ We have filed a patent application for a subcutaneous formulation of levosimendan that we have developed in collaboration with a formulation development partner. In addition, we have filed a patent application for the use of levosimendan in the treatment of PH-HFpEF patients based on several discoveries that have emerged from the HELP Study. In addition to levosimendan, we have recently acquired three patent applications for pharmaceutical compositions for the treatment of pulmonary hypertension with the use of imatinib.
+ 
+ The U.S. trademark registration for Simdax® is owned by Orion and is licensed to us for sales and marketing purposes for any intravenous pharmaceutical products containing levosimendan that are commercialized in the United States and Canada.
+ 
+  Competition
+ 
+ The pharmaceutical and biotechnology industries are intensely competitive. Many companies, including biotechnology, chemical and pharmaceutical companies, are actively engaged in activities similar to ours, including research and development of drugs for the treatment of rare medical conditions. Many of these companies have substantially greater financial and other resources, larger research and development staffs, and more extensive marketing and manufacturing organizations than we do. In addition, some of them have considerable experience in preclinical testing, clinical trials and other regulatory approval procedures. There are also academic institutions, governmental agencies and other research organizations that are conducting research in areas in which we are working. We expect to encounter significant competition for any of the pharmaceutical products we plan to develop.
+ 
+ 
+   
+6
+
+
+  
+ 
+ We believe the concept of using levosimendan to treat patients with PH-HFpEF is novel. Because no therapies are approved to treat PH-HFpEF, our ability to succeed in the market is dependent on our ability to change the established practice paradigm, which is never an easy task. Key factors on which we will compete with regards to the development and marketing of levosimendan for the treatment of pulmonary hypertension include, among others, the ability to obtain adequate efficacy data, safety data, cost effectiveness data and hospital formulary approval, as well as sufficient distribution and handling. Furthermore, while we believe the mechanism of action of levosimendan is novel, other low-priced, generically available products possess some similar qualities, which could present competition in the form of therapeutic substitution.
+ 
+ The use of imatinib to treat PAH has the potential to be the first disease modifying treatment of this disease. Novartis developed imatinib for PAH and conducted a Phase 3 trial in 2013 that succeeded in meeting its primary endpoint, however, the high number of dropouts of patients in the trial randomized to imatinib, due primarily to gastric intolerance, was the basis for the FDA and European Medicines Agency to request another trial. To address this, we are developing a delayed release oral formulation to bypass the stomach, as 98% of imatinib is absorbed in the small intestine. Two other companies are developing an inhaled route of administration as their strategy to mitigate against the gastric intolerance. We believe that our development plan has advantages in that we already know the effective dose of imatinib administered orally, as the systemic exposure from an inhaled route remains uncertain. Pulmonary vasodilators, the only approved medications for PAH, do not have disease modifying properties.
+ 
+ In order to compete successfully in this and other therapeutic areas, we must develop proprietary positions in patented drugs for therapeutic markets that have not been satisfactorily addressed by conventional research strategies. Our product candidates, even if successfully tested and developed, may not be adopted by physicians over other products and may not offer economically feasible alternatives to other therapies.
+ 
+  Government Regulation
+ 
+ The manufacture and distribution of levosimendan will require the approval of United States government authorities as well as those of foreign countries. In the United States, the FDA regulates medical products. The Federal Food, Drug and Cosmetic Act and the Public Health Service Act govern the testing, manufacture, safety, effectiveness, labeling, storage, record keeping, approval, advertising and promotion of our medical products. In addition to FDA regulations, we are also subject to other federal and state regulations, such as the Occupational Safety and Health Act and the Environmental Protection Act. Product development and approval within this regulatory framework requires a number of years and involves the expenditure of substantial funds.
+ 
+ Preclinical tests include evaluation of product chemistry and studies to assess the safety and effectiveness of the product and its formulation. The results of the preclinical tests are submitted to the FDA as part of the application. The goal of clinical testing is the demonstration in adequate and well-controlled studies of substantial evidence of the safety and effectiveness of the product in the setting of its intended use. The results of preclinical and clinical testing are submitted to the FDA from time to time throughout the trial process. In addition, before approval for the commercial sale of a product can be obtained, results of the preclinical and clinical studies must be submitted to the FDA. The testing and approval process requires substantial time and effort and there can be no assurance that any approval will be granted on a timely basis, if at all. The approval process is affected by a number of factors, including the severity of the condition being treated, the availability of alternative treatments and the risks and benefits demonstrated in clinical trials. Additional preclinical studies or clinical trials may be requested during the FDA review process and may delay product approval. After FDA approval for its initial indications, further clinical trials may be necessary to gain approval for the use of a product for additional indications. The FDA may also require post-marketing testing, which can involve significant expense, to monitor for adverse effects.
+ 
+ The effects of government regulations on our business are discussed in “Item 1A — Risk Factors — Risks Relating to Regulatory Matters.”
+ 
+  Summary of Risk Factors
+  
+ Our business, financial condition, operating results and cash flows are subject to numerous risks and uncertainties that are summarized below. The summary of risk factors described below should be read together with the more detailed discussion of risks set forth in “Item 1A — Risk Factors” and elsewhere in this Annual Report on Form 10-K.
+ 
+   -
+ We have a limited operating history, and we expect a number of factors to cause our operating results to fluctuate on a quarterly and annual basis, which may make it difficult to predict our future performance.
+
+   -
+ We have incurred losses since our inception, expect to continue to incur losses in the foreseeable future, and may never become profitable.
+
+   -
+ Our independent registered public accounting firm auditors’ report includes an explanatory paragraph stating that there is substantial doubt about our ability to continue as a going concern.
+
+   -
+ We may need additional funding and if we are unable to raise capital when needed, we would be forced to delay, reduce or eliminate our product development programs.
+
+   -
+ A pandemic, epidemic, or outbreak of an infectious disease, such as COVID-19, or coronavirus, may materially and adversely affect our business and our financial results.
+
+   -
+ Our PPP Loan may not be forgiven or may subject us to challenges and investigations regarding qualification for the loan.
+
+   -
+ We are limited in the number of products we can simultaneously pursue and therefore our survival depends on our success with a small number of product opportunities.
+
+   -
+ We currently have no approved drug products for sale, and we cannot guarantee that we will ever have marketable drug products.
+
+   -
+ The development of our product candidates is subject to a high level of technological risk.
+
+   -
+ We are required to conduct additional clinical trials in the future, which are expensive and time consuming, and the outcome of the trials is uncertain.
+
+   -
+ The market may not accept our products.
+
+   -
+ Any collaboration we enter with third parties to develop and commercialize any future product candidates may place the development of our product candidates outside our control, may require us to relinquish important rights or may otherwise be on terms unfavorable to us.
+
+   -
+ Delays in the enrollment and completion of clinical testing could result in increased costs to us and delay or limit our ability to obtain regulatory approval for our product candidates.
+
+   -
+ Our activities are and will continue to be subject to extensive government regulation, which is expensive and time consuming, and we will not be able to sell our products without regulatory approval.
+
+   -
+ We must continually monitor the safety of our products once approved and marketed for signs that their use may elicit serious and unexpected side effects and adverse events, which could jeopardize our ability to continue marketing the products. We may also be required to conduct post-approval clinical studies as a condition to licensing a product.
+
+   -
+ After our products are commercialized, we expect to spend considerable time and money complying with federal and state laws and regulations governing their sale, and, if we are unable to fully comply with such laws and regulations, we could face substantial penalties.
+
+   -
+ Health care reform and controls on health care spending may limit the price we can charge for our products and the amount we can sell.
+
+   -
+ Uncertainty of third-party reimbursement could affect our future results of operations.
+
+   -
+ Governments outside the United States tend to impose strict price controls and reimbursement approval policies, which may adversely affect our prospects for generating revenue outside the United States.
+
+   -
+ We depend on third parties to manufacture our products.
+
+   -
+ We depend on the services of a limited number of key personnel.
+
+   -
+ We have no experience in the sale and marketing of medical products.
+
+   -
+ We may enter into distribution arrangements and marketing alliances for certain products and any failure to successfully identify and implement these arrangements on favorable terms, if at all, may impair our ability to commercialize our product candidates.
+
+   -
+ It is difficult and costly to protect our proprietary rights, and we may not be able to ensure their protection.
+
+   -
+ We rely on confidentiality agreements that, if breached, may be difficult to enforce and could have a material adverse effect on our business and competitive position.
+
+   -
+ We may incur substantial costs as a result of litigation or other proceedings relating to patent and other intellectual property rights and we may be unable to protect our rights to, or use, our technology.
+
+   -
+ Our collaborations with outside scientists and consultants may be subject to restriction and change.
+
+   -
+ Under current law, we may not be able to enforce all employees’ covenants not to compete and therefore may be unable to prevent our competitors from benefiting from the expertise of some of our former employees.
+
+   -
+ We may infringe or be alleged to infringe intellectual property rights of third parties.
+
+   -
+ Product liability lawsuits against us could cause us to incur substantial liabilities, limit sales of our existing products and limit commercialization of any products that we may develop.
+
+   -
+ Our business and operations would suffer in the event of computer system failures, cyber-attacks or deficiencies in our cyber-security.
+
+   -
+ The issuance of shares of our common stock upon conversion of outstanding Series B convertible preferred stock issued in connection with our acquisition of PHPM would result in substantial dilution to the interests of our other stockholders.
+
+   -
+ Our share price has been volatile and may continue to be volatile which may subject us to securities class action litigation in the future.
+
+   -
+ Our failure to maintain compliance with Nasdaq’s continued listing requirements could result in the delisting of our common stock.
+
+   -
+ We have a significant securityholder, which could exert substantial influence over our business.
+
+   -
+ Our bylaws contain an exclusive forum provision, which could limit our stockholders’ ability to obtain a favorable judicial forum for disputes with us or our directors, officers, employees, or agents.
+
+   -
+ We are likely to attempt to raise additional capital through issuances of debt or equity securities, which may cause our stock price to decline, dilute the ownership interests of our existing stockholders, and/or limit our financial flexibility.
+
+
+  Employees
+ 
+ We believe that our success will be based on, among other things, the quality of our clinical programs, our ability to invent and develop superior and innovative technologies and products, and our ability to attract and retain capable management and other personnel. We have assembled a high-quality team of clinical development managers and executives with significant experience in the biotechnology and pharmaceutical industries.
+ 
+ As of December 31, 2020, we had nine full-time employees and one part-time employee. In addition to our employees, we also use the service and support of outside consultants and advisors. None of our employees are represented by a union, and we believe relationships with our employees are good.
+ 
+  Available Information
+ 
+ Our website address is www.tenaxthera.com, and our investor relations website is located at http://investors.tenaxthera.com. Information on our website is not incorporated by reference herein. Copies of our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and our Proxy Statements for our annual meetings of stockholders, and any amendments to those reports, as well as Section 16 reports filed by our insiders, are available free of charge on our website as soon as reasonably practicable after we file the reports with, or furnish the reports to, the Securities and Exchange Commission, or the SEC. Our SEC filings are also publicly available on the SEC’s website located at www.sec.gov, which contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
