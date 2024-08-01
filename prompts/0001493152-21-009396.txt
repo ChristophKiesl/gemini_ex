@@ -1,0 +1,358 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+------------+---------
+
+Overview
+ 
+
+● | Todos Medical Ltd. (“Todos Medical,” the “Company,” “we,” “our,” “us”), is an in vitro diagnostics company focused on distributing comprehensive solutions for COVID-19 screening and diagnosis and developing blood tests for the early detection of cancer and Alzheimer’s disease. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Todos has entered into distribution agreements with companies to distribute certain novel coronavirus (COVID-19) test kits. The agreements cover multiple international suppliers of PCR testing kits and related materials and supplies, as well as antibody testing kits from multiple manufacturers after completing validation of said testing kits and supplies in its partner CLIA/CAP certified laboratory in the United States. Todos has combined the PCR testing kits with automated lab equipment to create lab workflows capable of performing up to 40,000 PCR tests per day. Todos has entered into supply agreements with CLIA/CAP certified laboratories in the United States to deploy these PCR workflows. Todos has formed strategic partnerships with Meridian Health and other strategic partners to deploy COVID-19 antigen and antibody testing in the United States. Additionally, the Company is developing a lab-based COVID-19 3CL protease test to determine whether a COVID-19 positive patient remains contagious after quarantine is complete and is further developing point-of-care-based embodiments of the lab test for use in screening programs worldwide. 
+● | In December 2020, Todos announced the commercial launch of its proprietary 3CL protease inhibitor dietary supplement Tollovid™ at The Alchemist’s Kitchen in SoHo district in Manhattan, New York. Tollovid, a mix of botanical extracts, is being targeted to support healthy immune function against circulating coronaviruses. Tollovid’s mechanism of action is to inhibit the activity of the 3CL protease, a key protease required for the intracellular replication of coronaviruses. Tollovid was granted a Certificate of Free Sale by the US Food & Drug Administration in August 2020, allowing its commercial sale anywhere in the United States. 
+● | Additionally, the Company’s patented Todos Biochemical Infrared Analyses (TBIA) is a cancer-screening technology using peripheral blood analysis that deploys deep examination into cancer’s influence on the immune system, looking for biochemical changes in blood mononuclear cells and plasma. Todos’ two internally developed cancer-screening tests, TMB-1 and TMB-2 have received a CE mark in Europe. Todos is a party to an exclusive option agreement to acquire U.S.-based medical diagnostics company Provista Diagnostics, Inc. to gain rights to its Alpharetta, Georgia-based CLIA/CAP certified lab and Provista’s proprietary commercial-stage Videssa® breast cancer blood test. The transaction is expected to close in the second quarter of 2021. 
+● | Todos is also developing blood tests for the early detection of neurodegenerative disorders, such as Alzheimer’s disease. 
+● | In July 2020, Todos completed the acquisition of Breakthrough Diagnostics, Inc., the owner of the LymPro Test intellectual property, from Amarantus Bioscience Holdings, Inc. 
+
+Products
+ 
+
+● | Our two most advanced blood tests for cancer are for the screening and diagnosis of breast cancer. TM-B1 is our breast cancer test for the screening and diagnosis of breast cancer in all women, and TM-B2 is our breast cancer test for the screening and diagnosis of breast cancer in women who have ‘dense breasts.’ Dense breasts, medically categorized as BI-RADS 3 and BI-RADS 4, make mammograms largely ineffective because the biophysical structure of the breast does not allow high enough resolution on the mammogram X-ray to determine whether or not a tumor is present, leading to potentially unnecessary additional imaging tests and breast biopsies in women who have dense breasts. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Additionally, our TMC blood test is for the screening and diagnosis of colon cancer. 
+● | The Lymphocyte Proliferation Test (LymPro Test™) is a diagnostic blood test that determines the ability of peripheral blood lymphocytes (PBLs) and monocytes to withstand an exogenous mitogenic stimulation that induces them to enter the cell cycle. It is believed that certain diseases, most notably Alzheimer’s disease, are the result of compromised cellular machinery that leads to aberrant cell cycle re-entry by neurons, which then leads to apoptosis. LymPro is novel in the use of peripheral blood lymphocytes as a surrogate for neuronal cell function, suggesting a common relationship between PBLs and neurons in the brain. 
+
+
+3
+-
+
+Recent Developments
+ 
+Products
+ 
+On April 8, 2021, we received a notice of allowance (‘Letter of Intent to Grant a Patent’) from the European Patent Office covering the use of the Company’s proprietary Total Biochemical Infrared Analysis (‘TBIA’) method that uses blood (plasma and/or peripheral blood mononuclear cells ‘PBMCs’) to distinguish between patients with benign tumors vs. malignant tumors vs. no tumors (healthy controls).
+ 
+The patent application specifically covers methods for capturing consistent data from infrared spectroscopy readers, as well as the application of various artificial intelligence algorithm development methods to the data. The ability of TBIA to make a diagnosis of cancer has first been applied to the detection of breast and colon cancers, where Todos has received CE Marks in Europe paving the way for commercialization initially focused on TMB-2 (dense breast / inconclusive mammogram secondary screening) and TMB-1 (general breast cancer screening) cancer detection tests.
+ 
+Financing and Fundraising
+ 
+On May 10, 2020, we entered into an agreement with Shmuel Mellman (“Mellman”), Meir Ben Zur and Shay Zaga “the “Mellman Purchasers”) pursuant to which we agreed to the conversion of a promissory note in the principal amount of approximately $350,000 into 8,750,000 ordinary shares, divided equally among the Mellman Purchasers. As a result of this transaction, $350,000 of debt on our books was converted to equity.
+ 
+On June 19, 2020, the Company and its subsidiaries, Todos Medical USA and Corona Diagnostics, LLC (“Corona”) entered into a Receivables Financing Agreement with Toledo Advisors, LLC (“Toledo”) for up to $25,000,000 in a revolving receivables financing facility (the “Facility”). The availability of the Facility shall terminate on the earlier of June 19, 2025 and the date on which more than $25,000,000 has been advanced. The financing is secured by all of the assets of the Company’s wholly-owned subsidiary Todos Medical USA, Inc. In addition, Todos Medical USA pledged all of the outstanding equity of Corona to the Lender. The initial draw under the Facility was on June 19, 2020 for $165,000 which was due on the earlier to occur of (i) ninety days following the date the draw was made by the Lender and (ii) the date the receivable, for which the draw was made, is paid. The Facility has since been repaid.
+ 
+In November 2020, the parties agreed to amend the Facility to reduce the cost of funding to Todos Medical USA, and to make the relationship between Corona and Toledo nonexclusive in exchange for Toledo being granted a percentage of Corona’s revenues from diagnostic testing.
+ 
+On July 9, 2020, we entered into a Securities Purchase Agreement with Leviston Resources, LLC (“Leviston”) pursuant to which Leviston purchased from Todos (a) 4,000,000 ordinary shares, (b) a convertible note in the original principal amount of $2,000,000, including an original issue discount of $500,000, and (c) warrants to purchase up to 5,000,000 ordinary shares for a period of five years having an exercise price equal to the lower of (i) $0.10 and (ii) the lowest exercise price of issued and outstanding warrants, subject to adjustment as described therein. Todos also issued an additional 2,000,000 shares to Leviston as a diligence fee. The convertible note was repaid during the first quarter of 2021.
+ 
+On July 28, 2020, the Company held a final closing of a financing round of an aggregate of $2,015,000 in convertible notes. The Company entered into multiple securities purchase agreements with institutional and high net worth investors (the “Todos Investors”) pursuant to which the Company agreed to issue to the Todos Investors secured promissory convertible notes in an aggregate principal amount of $2,149,166 (the “Convertible Note”). The Convertible Notes bear interest at 2% per annum. The Convertible Notes are convertible into ordinary shares of the Company (“Conversion Shares”) for 40 days following the date of closing at 150% of the closing bid price of the Company’s ordinary shares on such closing date. After the 40 days, the conversion price equals the lower of (i) 60% of the lowest VWAP trading price of the ordinary shares during the eleven trading days immediately prior to the date of conversion, (ii) 150% of the closing bid price of the Company’s ordinary shares on such closing date and (iii) 150% of the closing bid price on the date of effectiveness of the Company’s registration statement covering the converted shares. $2,000,000 was disbursed to the Company. In addition, the Company issued to certain of the Todos Investors a total of, 4,000,000 shares as a commitment fee (the “Commitment Shares”) and an additional 2,000,000 shares as a diligence fee (the “Diligence Shares”). The Company also issued warrants to the Todos Investors to purchase up to an aggregate 23,500,000 shares (the “Warrant Shares”) at an exercise price of $0.10 per share exercisable at any time until expiration dates ranging from July 9, 2025 to July 28, 2025. Pursuant to a Registration Rights Agreement, the Company agreed to file within 17 days after the closing date, a registration statement on Form F-1 registering for resale the Conversion Shares, Commitment Shares, Diligence Shares and the Warrant Shares. On August 13, 2020, the Company filed such registration statement, but as of the date of this annual report on Form 10-K it has yet to become effective. The Convertible Notes were repaid during the first quarter of 2021.
+ 
+Reverse Split
+ 
+At an extraordinary general meeting of our shareholders held on May 11, 2020, our shareholders voted to approve a reverse share split of the Company’s ordinary shares within a range of 1:10 to 1:100, to be effective at the ratio and on a date to be determined by the Board of Directors of the Company (the “Reverse Split”). Although our shareholders approved the Reverse Split, all per share amounts and calculations in this annual report on Form 10-K and the accompanying financial statements do not reflect the effects of the Reverse Split, as the Board of Directors has not determined the ratio or the effective date of the Reverse Split. At its next general meeting, Todos’ shareholders will be asked to approve an extension of the deadline for the Reverse Split.
+The Purchase Agreement with Lincoln Park
+ 
+On August 4, 2020, we entered into a purchase agreement (the “LPC Purchase Agreement”) with Lincoln Park Capital, LLC (“Lincoln Park”), pursuant to which Lincoln Park agreed to purchase from us up to an aggregate of $10,275,000 of our ordinary shares (subject to certain limitations) from time to time over the term of the LPC Purchase Agreement. Also on August 4, 2020, we entered into a registration rights agreement with Lincoln Park, pursuant to which on August 11, 2020, we filed with the Securities and Exchange Commission, or the SEC, a registration statement (the “LPC Registration Statement”) to register for resale under the Securities Act of 1933, as amended, or the Securities Act, the ordinary shares that have been or may be issued to Lincoln Park under the Purchase Agreement. That registration statement became effective on August 18, 2020.
+
+4
+-
+
+
+The LPC Registration Statement covers the resale by Lincoln Park of up to 50,000,000 ordinary shares, comprised of: (i) 5,812,500 ordinary shares that we issued to Lincoln Park as a fee for making its irrevocable commitment to purchase our ordinary shares under the Purchase Agreement, which we refer to in this annual report on Form 10-K as the Commitment Shares, (ii) 3,437,500 ordinary shares that we sold to Lincoln Park on August 5, 2020 for a total purchase price of $275,000 in an initial purchase under the Purchase Agreement the (“Initial Purchase Shares”), and (iii) up to an additional 40,750,000 ordinary shares that we have reserved for sale to Lincoln Park under the LPC Purchase Agreement from time to time after the date of the LPC Registration Statement, if and when we determine to sell additional ordinary shares to Lincoln Park under the LPC Purchase Agreement.
+ 
+Under the LPC Purchase Agreement, we may, from time to time and at our sole discretion for a period of 24-months, on any business day that we select on which the closing sale price of our ordinary shares equals or exceeds $0.02 per ordinary share, direct Lincoln Park to purchase up to 500,000 ordinary shares, which amount may be increased depending on the market price of our ordinary shares at the time of sale, subject to a maximum commitment of $500,000 per purchase, which we refer to in this annual report on Form 10-K as “Regular Purchases.” In addition, at our discretion, Lincoln Park has committed to purchase other “accelerated amounts” and/or “additional accelerated amounts” under certain circumstances. We control the timing and amount of any sales of our ordinary shares to Lincoln Park. The purchase price of the ordinary shares that may be sold to Lincoln Park in Regular Purchases under the Purchase Agreement will be based on an agreed upon fixed discount to the market price of our ordinary shares immediately preceding the time of sale as computed under the Purchase Agreement. The purchase price per ordinary share will be equitably adjusted as provided in the Purchase Agreement for any reorganization, recapitalization, non-cash dividend, share split, or other similar transaction occurring during the business days used to compute such price. We may at any time in our sole discretion terminate the Purchase Agreement without fee, penalty or cost upon one business day notice. There are no restrictions on future financings, rights of first refusal, participation rights, penalties or liquidated damages in the Purchase Agreement or Registration Rights Agreement, other than a prohibition on our entering into certain types of transactions that are defined in the Purchase Agreement as “Variable Rate Transactions.” Lincoln Park may not assign or transfer its rights and obligations under the Purchase Agreement. Since August 18, 2020, Lincoln Park has purchased 37,977,388 of our ordinary shares under the Purchase Agreement, at prices ranging from $ 0.038 per share to $ 0.115 per share. 
+
+As of March 31, 2021, there were 552,345,481 ordinary shares outstanding, of which 425,851,159 ordinary shares were held by non-affiliates. Although the Purchase Agreement provides that we may sell up to an aggregate of $10,275,000 of our ordinary shares to Lincoln Park, only 50,000,000 ordinary shares were registered for resale under the LPC Registration Statement, which represents the 9,250,000 ordinary shares that were issued to Lincoln Park under the Purchase Agreement and an additional 40,750,000 ordinary shares that we were entitled to issue and sell to Lincoln Park under the Purchase Agreement, if and when we sell ordinary shares to Lincoln Park under the Purchase Agreement. Depending on the market prices of our ordinary shares at the time we elect to issue and sell ordinary shares to Lincoln Park under the Purchase Agreement, we may need to register for resale under the Securities Act additional ordinary shares in order to receive aggregate gross proceeds equal to the $10,275,000 total commitment available to us under the Purchase Agreement. To the Company’s knowledge, Lincoln Park does not currently hold any of our ordinary shares. If all of the 6,210,112 ordinary shares that remain to be sold to Lincoln Park under the Purchase Agreement were issued and outstanding as of the date of this Annual Report on Form 10-K, such ordinary shares, would represent approximately 1.12% of the total number of ordinary shares outstanding and approximately 1.45% of the total number of outstanding ordinary shares held by non-affiliates, in each case as of the date of this Annual Report on Form 10-K. If we elect to issue and sell to Lincoln Park under the Purchase Agreement more than the 50,000,000 ordinary shares that were registered for resale by Lincoln Park under the LPC Registration Statement, which we have the right, but not the obligation, to do, we will first have to register for resale under the Securities Act any such additional ordinary shares, which could cause additional substantial dilution to our shareholders. The number of ordinary shares ultimately offered for resale by Lincoln Park is dependent upon the number of ordinary shares we ultimately decide to sell to Lincoln Park under the Purchase Agreement.
+ 
+The Purchase Agreement prohibits us from directing Lincoln Park to purchase any ordinary shares if those ordinary shares, when aggregated with all other ordinary shares then beneficially owned by Lincoln Park and its affiliates, would result in Lincoln Park having beneficial ownership, at any single point in time, of more than 4.99% of the then total outstanding ordinary shares, as calculated pursuant to Section 13(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and Rule 13d-3 thereunder, which limitation we refer to as the Beneficial Ownership Cap.
+ 
+Issuances of our ordinary shares to Lincoln Park under the Purchase Agreement will not affect the rights or privileges of our existing shareholders, except that the economic and voting interests of each of our existing shareholders will be diluted as a result of any such issuance. Although the number of ordinary shares that our existing shareholders own will not decrease, the ordinary shares owned by our existing shareholders will represent a smaller percentage of our total outstanding ordinary shares after any such issuance of ordinary shares to Lincoln Park under the Purchase Agreement.
+ 
+On November 4, 2020, we entered into a Secured Convertible Equipment Loan Agreement with Friends of Yeshiva Orot Hateshuva Inc. (“Friends”), pursuant to which Friends lent us $450,000 to purchase two liquid handler machines. Under the terms of the agreement, the note was issued with 41.4% Original Issue Discount, with Friends receiving a royalty of 12.5% of all amounts resulting from any diagnostic tests performed by the two liquid handler machines. During the initial payback period and up until the earlier of either (a) the Maturity Date, or (b) the aggregate loan amount is paid in full, all Royalty payments made to Investor will be counted towards their loan balance. Thereafter, the royalties continue so long as the machines are in use. The Maturity Date was March 4, 2021. On March 4, 2021, the Company and Friends agreed to extend the maturity date of the note to May 1, 2021, in exchange for a payment of $100,000 and the issuance of 2,000,000 ordinary shares, in each case to a charity designated by Friends. As of March 31, 2021, the Company has not made any royalty payments to Friends.
+ 
+On December 31, 2020, we entered into a Secured Convertible Equipment Loan Agreement with Harper Advance LLC (“Harper”), pursuant to which Harper lent us $450,000 to purchase two liquid handler machines. Under the terms of the agreement, the note was issued with 40% Original Issue Discount, with Harper receiving a royalty of 12.5% of all amounts resulting from any diagnostic tests performed by the two liquid handler machines. During the initial payback period and up until the earlier of either (a) the Maturity Date, or (b) the aggregate loan amount is paid in full, all Royalty payments made to Investor will be counted towards their loan balance. Thereafter, the royalties continue so long as the machines are in use. The Maturity Date is April 30, 2021. As of March 31, 2021, the Company has not made any royalty payments to Harper.
+ 
+
+5
+-
+
+
+On January 22, 2021, the Company entered into a Securities Purchase Agreement (the “Yozma SPA”) with Yozma Global Genomic Fund (“Yozma”) pursuant to which the Company agreed to issue a promissory convertible note (the “Yozma Note”) to Yozma in the principal amount of $4,857,142.86 for proceeds of $3,400,000 (the “Transaction”). The closing took place on January 29, 2021. The Yozma Note has a maturity date of one year from the date of issuance and pays interest at a rate of 4% per annum. The Note is convertible into ordinary shares (the “Yozma Conversion Shares”) at a conversion price of $0.0599 (the “Yozma Conversion Price). In addition, Yozma received a warrant (the “Yozma Warrant”) to purchase up to 16,956,929 ordinary shares (the “Yozma Warrant Shares”) of the Company with an exercise price equal to $0.107415 per share. The Yozma Warrant is exercisable for 5 years from the date of issuance.
+ 
+On April 9, 2021, the Company entered into a Securities Purchase Agreement with a Family Office Investor (the “Family Office”) to which the Company agreed to issue a promissory convertible note (the “Note”, or the “Yozma Crossover Round”) to the Purchaser in the principal amount of $4,285,714.29 for proceeds of $3,000,000 (the “Transaction”). The closing occurred on April 12, 2021. The Note has a maturity date of one year from the date of issuance and pays interest at a rate of 4% per annum. The Note is convertible into ordinary shares (the “Family Office Conversion Shares”) at a conversion price of $0.0599 (the “Conversion Price). In addition, the Purchaser received a warrant (the “Warrant”) to purchase up to 16,000,000 shares of Common Stock (the “Family Office Warrant Shares”) of the Company with an exercise price equal to $0.107415 per share. The Warrant is exercisable for 5 years from the date of issuance.
+ 
+The Company has agreed to file a registration statement with the Securities and Exchange Commission registering for resale the Yozma Conversion Shares, the Family Office Conversion Shares, Yozma Warrant Shares and the Family Office Warrant Shares. Subsequent to the effective date of such registration statement, if the closing sale price of the ordinary shares averages less than the then Conversion Price over a period of ten (10) consecutive trading days, the Conversion Price shall reset to such average price. If the 10 day volume weighted average price of the ordinary shares continues to be less than the Conversion Price, then the Conversion Price should reset to such 10-day average price with a maximum of a 20% discount from the initial Conversion Price.
+ 
+In February and March 2021, Todos redeemed approximately $676,375 in principal amount of convertible promissory notes that it had issued in 2019 and 2020 (the “Convertible Notes”). The Convertible Notes were convertible into Todos’ ordinary shares at between 40% and 80% of the closing prices of its ordinary shares in trading on the OTC Market during periods ranging from three and ten trading days. Conversion of the Convertible Notes would have caused significant dilution to the Company’s existing shareholders. The holders of the Convertible Notes still hold warrants to purchase up to 25,703,128 ordinary shares of the Company at prices ranging from $0.10 to $0.39.
+ 
+SARS-nCoV-2 Related Business
+ 
+With the onset of COVID-19, Todos sought to apply its expertise in developing blood tests for the early detection of cancer and Alzheimer’s disease to distributing and then developing screening tests for the new pandemic. 
+ 
+On March 17, 2020, Todos Medical USA (“Todos USA”) entered into a non-exclusive distribution agreement with 3D Biomedicine Science & Technology Co., Ltd. (3D Med) to market 3D Med’s novel Coronavirus (SARS-nCoV-2) and SARS-nCoV- 19 + Influenza A/Influenza B polymerase chain reaction (PCR) test kits, and extraction solution (automated RNA extraction system and optimized extraction reagents) in the United States and Israel. On April 21, 2020, 3D Med received Emergency Use Authorization (EUA) with the FDA.
+ 
+On May 18, 2020, we announced our first commercial sale of COVID-19 tests. The sale was made via a sub-distribution agreement with a U.S.-based medical distribution company with clients in state and local governments throughout the Southeastern United States who are seeking comprehensive testing solutions for return-to-work programs.
+ 
+On June 4, 2020, Todos USA entered into a Medical Device Distribution Agreement with 3D Med, pursuant to which Todos has the right to distribute 3D Med’s equipment, reagents and tests for the screening of novel coronavirus in more than 60 countries over a period of three years. The next three agreements described below relate in part to the products provided by 3D Med to Todos.
+ 
+On June 18, 2020, Todos USA entered into a Distribution Agreement with Meridian Health Services Network, Inc. (“Meridian,” www.meridianhsn.com) pursuant to which each party appointed the other as its non-exclusive agent to market, sell and distribute each other’s products and services in the United States and internationally, being Todos’ equipment, reagents and tests for the screening of novel coronavirus, and Meridian’s products and services for health care consumers in the United States, especially self-insured employers. The agreement is effective for a period of two years.
+ 
+On June 29, 2020, Todos announced that it has entered into a partnership with Meridian to deploy COVID-19 testing programs throughout the United States. As part of the agreement, Todos is working closely with Meridian to help supplement COVID-19 testing products and services for its network of brick & mortar and mobile laboratories nationwide. Meridian successfully completed CLIA validation testing for Todos’ antibody test.
+ 
+On July 6, 2020, Todos and Meridian announced that they have partnered with Moto-Para to provide a complete turnkey solution for on-site COVID testing. Moto-Para is a non-profit organization providing well trained retired service veterans from all branches of the military including Navy Seals, Force Recon Marines, Army Rangers, Green Beret encompassing site operations, physicians, paramedics, and nurses, which enable Meridian to set up testing sites anywhere in the US for any length of service. Todos provides the medical testing kits for this venture. The labs are provided by Integrated Health and staffed by Moto-Para. On December 20, 2020 and January 11, 2021, respectively, Todos reached financial settlements with Integrated and Moto-Para that reduced the scope of these relationships.
+ 
+On August 21, 2020, Todos announced that it has entered into a sales agreement with a New York-based laboratory to supply it with the necessary testing equipment and supplies to perform up to 3,000 tests per day. Todos will be supplying automated extraction machines, liquid handlers and PCR machines in sufficient quantity to create a workflow of 3,000 qPCR tests per day. The initial contract is for approximately $1,000,000 per month for 6 months.
+ 
+
+6
+-
+
+
+On August 31, 2020, Todos announced that it has entered into a sales agreement with a Wisconsin-based laboratory to supply it with the necessary testing equipment and supplies for a total contract value of $23.76 million. Todos will be supplying automated extraction machines, liquid handlers and PCR machines. The initial contract is for 8 months. Todos has also been granted a priority right to supply the lab with up to 100,000 COVID PCR tests per day in the event the laboratory sees significant additional testing demand. This customer has entered into an agreement with the State of Wisconsin to supply COVID-19 PCR tests. On September 22, 2020, Todos announced that it has agreed to double the testing capacity supplied under this agreement, for a total contract value of $47.5 million in reagent sales by Todos Medical over the next seven months.
+ 
+On September 2, 2020, we announced that we entered into a COVID-19 testing and contract partnership with Pangea, based in Israel. Pangea is a trusted global supplier of digital identity, security, and ePayment solutions serving millions of people worldwide, who specializes in the digital transformation of government services and enterprise business operations. Under the terms of the agreement, Todos will be the preferred supplier of COVID-19 testing products for Pangea’s suite of offerings aimed at securely delivering contact tracing and ‘COVID testing passport’ services in Israel and certain African countries, whereas Todos will be able to integrate and tailor Pangea’s technology offering into its services package in the United States, Canada and Mexico (the ‘North American Bubble’) to create ‘COVID bubbles’ for employers, schools, sports leagues and other clients to deliver a full solution for COVID testing and contact tracing in a HIPAA compliant, ‘opt-in’ privacy tailored fashion. Pangea is able to provide a COVID-19 contact tracing solution which includes airport testing security as part of the effort to re-enable international travel.
+ 
+On September 17, 2020, we announced an expansion of our previously existing joint venture with NLC Pharma in which NLC Pharma has added the dietary supplement NLC-001 to its joint venture with Todos Medical. NLC-001 is an orally administered proprietary blend of plant extracts that includes a powerful potential 3CL protease inhibitor that could help support and maintain healthy immune function. The 3CL protease plays a vital role in the intracellular replication of coronaviruses, and 3CL protease inhibition is being evaluated as a potential therapeutic target for coronaviruses.
+ 
+On December 7, 2020, we announced the commercial launch of our proprietary 3CL protease inhibitor dietary supplement Tollovid™ at The Alchemist’s Kitchen in SoHo district in Manhattan, New York. Tollovid, a mix of botanical extracts, is being targeted to support healthy immune function against circulating coronaviruses.
+ 
+On December 14, 2020, we announced the signing of a Distribution Agreement with Aditx Therapeutics, Inc. for AditxtScore™ for COVID-19. AditxtScore™ is an immune monitoring platform.
+ 
+On December 23, 2020, we announced that we had entered into a preferred vendor agreement to supply COVID-19 related testing products and services to Natural Wellness Clinics (“NWC”) for use in its efforts in testing the uninsured population in the Commonwealth of Kentucky. NWC is a US military veteran owned health care provider that offers communities a holistic and integrative approach and is establishing a niche in implementing large-scale testing programs and logistics for state governments that it hopes may dovetail into vaccine distribution logistics.
+ 
+Natural Wellness Clinics recently signed a COVID-19 testing contract for up to approximately $93.4 million with the Commonwealth of Kentucky to test uninsured citizens of Kentucky. Continued funding was anticipated; however, budget concerns have impacted the initiative. In light of the changes in funding for COVID-19 testing for states governments across the United States, Todos is working with the Commonwealth of Kentucky to identify the appropriate funding mechanisms that will allow this testing program to move forward.
+ 
+On March 23, 2021, we announced that we have entered into an automation and reagent supply agreement with MAJL Diagnostics (“MAJL”). Under the terms of the agreement, Todos will implement its automation solution, including Tecan™ liquid handlers, automated RNA extraction machines, as well as a 384-well PCR machine capable of conducting COVID, cancer genetics and pharmacogenomics testing, in order to become the provider of all COVID-19 PCR testing reagents and supplies.
+ 
+On March 29, 2021, we announced the successful installation of automated lab equipment and completion of training for a lab client in Brooklyn, NY. The implementation of the Todos automation solution has expanded the lab’s processing capacity to 6,000 PCR tests per day from 500 PCR tests per day, with the potential to quickly expand to up to 12,000 PCR tests per day. The lab will be implementing EUA approved PCR testing for COVID-19 testing, as well as COVID + influenza A & B PCR testing upon request for select clients. Additionally, through the future implementation of pooling, the lab could potentially increase processing capacity to in excess of 40,000 PCR tests per day at a 4:1 ratio.
+ 
+On March 30, 2021, we announced that we have entered into a distribution partnership with Osang Healthcare (OHC) of South Korea, to distribute the GeneFinder™ COVID-19 Plus RealAMP Kit in the United States. Todos intends to make GeneFinder Plus the primary kit used for distribution in its fully integrated and automated COVID-19 PCR testing lab solutions. GeneFinder Plus has been granted Emergency Use Authorization (EUA) by the US FDA.
+ 
+We market our COVID-19 test kits directly to clinical laboratories throughout the U.S. as well as through our distributors, who include Meridian, Dynamic Distributors, LLC, and others.
+ 
+During the third and fourth quarter of 2020, the Company recognized approximately $5,207,142 in revenue related to its COVID-19 business, and in January and February of 2021, the Company recognized approximately $16,169,354 in such revenue. There is no assurance that the Company will generate any additional revenues in the future pursuant to any of these arrangements.
+ 
+Employees and Consultants
+ 
+On July 23, 2020, the Company entered into a Consulting Agreement with Leomics Associates, pursuant to which Leomics is to provide the Company with business development services, including in developing the use of the Company’s CLIA laboratory services, client development and products validation in exchange for an annual retainer of $250,000 payable monthly. The Consulting Agreement is in effect until July 23, 2021 unless earlier terminated by either party on 90 days’ notice and may be extended by mutual agreement. Upon execution of the Consulting Agreement, the Company issued to Leomics 1,000,000 of its ordinary shares.
+
+7
+-
+
+Patents and Other Intellectual Property Rights
+ 
+Our core proprietary technology centers on testing blood cells using an FTIR spectrometer to turn biological information into data, and then using our patented TBIA deep learning data analytics platform to mine the data in order to develop algorithms that are indicative of the presence of cancer, and the tissue of origin in the body where the cancer is located. The TBIA detection method is based on cancer’s influence on the immune system that triggers biochemical changes in peripheral blood. The primary advantages of the TBIA platform are the high accuracy (sensitivity and specificity) and low COGS due to the biological information being captured using spectroscopy versus biological antibody capture methods that require the manufacture of multiple antibodies to capture a biological signature. TBIA is based upon technology originally invented by the researchers at Ben Gurion University (“BGU”) and Soroka Medical Center (“Soroka”), whose intellectual property has been licensed to us. We have received a CE Mark in the European Union authorizing the commercial use of the TBIA platform in the diagnosis of breast cancer and colon cancer. We have been issued patents in the United States, Europe and other international jurisdictions covering the use of TBIA to detect solid tumors.
+ 
+We have filed and own all rights in the following patent applications, all of which are currently pending or have been issued as patents:
+ 
+Category I: These applications relate to analysis of an IR spectrum of a PBMC sample. Claims are generally directed to indicating the presence of a solid tumor based on analysis of an IR spectrum of a PBMC sample.
+ 
+(1) US Patent Application 13/701,262. This has claims for a method (process). The claims in this application are generally directed to indicating the presence of a solid tumor in breast tissue based on analysis of an IR spectrum of a PBMC sample. On March 28, 2017, this application issued as US Patent 9,606,057. This patent is expected to expire on June 1, 2031.
+ 
+(2) US Patent Application 15/443,674. This application is a continuation application of US 13/701,262 and has claims for a method (process) and is expected to expire on June 1, 2031. The claims in this application are generally directed to indicating the presence of a solid tumor in tissue of a gastrointestinal tract based on analysis of an IR spectrum of a PBMC sample.
+ 
+(3) European Patent Application No. 11789348.7. This has claims for a method (process) and a system and is expected to expire on June 1, 2031.
+ 
+(4) Israel Patent Application 223,237. This has claims for a method (process), a system, and for a computer program product and is expected to expire on June 1, 2031.
+ 
+Category II: These applications relate to analysis of an IR spectrum of a blood plasma sample. Claims are generally directed to indicating the presence of a solid tumor based on analysis of an IR spectrum of a blood plasma sample.
+ 
+(5) US Patent Application 14/116,506. This has claims for a method (process), a system, and for a computer program product. The claims in this application are generally directed to indicating the presence of a solid tumor in a gastrointestinal tract based on analysis of an IR spectrum of a blood plasma sample. On August 1, 2017, this application issued as US Patent 9,719,937. This patent is expected to expire on May 10, 2032.
+ 
+(6) US Patent Application 15/645,168. This application is a continuation application of US 14/116,506. This has claims for a method (process), a system, and for a computer program product and is expected to expire on May 10, 2032. The claims in this application are generally directed to indicating the presence of a solid tumor in breast tissue based on analysis of an IR spectrum of a blood plasma sample.
+ 
+(7) European Patent Application No. 12782256.7. This has claims for a method (process) and a system and is expected to expire on May 10, 2032.
+ 
+(8) Israel Patent Application 229,109. This has claims for a method (process), a system, and for a computer program product and is expected to expire on May 10, 2032. On September 13, 2017, we received a notice of allowance from the Israel Patent Office regarding this application.
+ 
+Category III: These applications relate to analysis of an IR spectrum of a blood plasma sample and PBMC samples.
+ 
+(9) US Patent Application 14/894,128. This has claims for a method (process). The claims in this application are generally directed to (i) analysis of an IR spectrum of a PBMC to indicate the presence of a benign tumor in breast tissue and in the gastrointestinal tract, and (ii) analysis of an IR spectrum of a blood plasma sample to indicate the presence of a benign tumor. On October 31, 2017, this application issued as US Patent 9,804,145. This patent is expected to expire on November 14, 2033.
+ 
+(10) US Patent Application 15/785,801. This application is a continuation application of US 14/894,128. This has claims for a method (process), a system, and for a computer program product and is expected to expire on November 14, 2033. The claims in this application are generally directed to (i) analysis of an IR spectrum of a PBMC sample, and a blood plasma sample to indicate the presence of a benign tumor in ovarian tissue, and (ii) preparation of a sample for analyzing by infrared spectroscopy.
+ 
+(11) European Patent Application No. 13885931.9. This has claims for a method (process), and is expected to expire on November 14, 2033. The claims in this application are generally directed to indicating the presence of a benign tumor in breast tissue based on analysis of an IR spectrum of a PBMC sample.
+ 
+
+8
+-
+
+
+There are no patents or patent applications which are licensed to us pursuant our license agreement with BG Negev and Mor Research Applications Ltd. (a wholly-owned subsidiary of Clalit Medical Services - Israel) referenced below. Nevertheless, our products are based on intellectual property licensed from BG Negev and Mor. There are no patents or patent applications which are licensed to us from any other entity. The intellectual property licensed to us under these agreements are related to know-how for the product.
+ 
+To our management’s knowledge, there are no contested proceedings or third-party claims over any of our patent applications. Our success depends upon our ability to protect our technologies through intellectual property agreements including patents, trademarks, know-how, and confidentiality agreements. However, there can be no assurance that the above-mentioned patent applications will be approved by the appropriate agencies.
+ 
+Breakthrough licenses the following patents and patent applications:
+ 
+LymPro:
+ 
+
+○ | German Patent 19936035 
+--+------------------------------------------------------------
+○ | PCT/EP2004/010889 (expired) MSPrecise: 
+○ | US Patent Application 15/546,171 
+○ | Chinese Patent Application No. 201480075681.6 NeuroPro: 
+○ | US Patent 9,547,012 
+
+ 
+To the knowledge of the Company’s management, there are no contested proceedings or third-party claims over any of our patent applications. Our success depends upon our ability to protect our technologies through intellectual property agreements including patents, trademarks, know-how, and confidentiality agreements. However, there can be no assurance that the above-mentioned patent applications will be approved by the appropriate agencies.
+ 
+All of the technology for which the patents are sought is owned by the Company. Our patents are entirely owned by the Company or by Breakthrough.
+ 
+The Company has also filed applications in the United States and Israel to register the Todos name as a trademark.
+ 
+
+9
+-
+
+Geographic Areas
+ 
+Investments and activities in some countries outside the United States are subject to higher risks than comparable U.S. activities because the investment and commercial climate may be influenced by financial instability in international economies, restrictive economic policies and political and legal system uncertainties. Changes in the relative values of currencies may materially affect our results of operations. For a discussion of these risks, see “Item 1A—Risk Factors.”
+ 
+For information regarding revenues and long-lived assets by geographic area, see “Item 7—Management’s Discussion and Analysis of Financial Condition and Results of Operations—Results of Operations,” and note 23(d) to our consolidated financial statements.
+ 
+Licensing Agreements
+ 
+BG Negev Research and License Agreement
+ 
+In April 2010, we entered into a research and license agreement with BG Negev and Mor Research Applications Ltd. (a wholly-owned subsidiary of Clalit Medical Services - Israel), or together with BG Negev, the Licensor. The Licensor, pursuant to the agreement, granted us an exclusive, worldwide, license to commercialize certain intellectual property covered by the agreement (i.e., research, development, manufacturing, marketing, distribution, and sale of any product containing the licensable IP under the agreement).
+ 
+Pursuant to the agreement, we are under an obligation to pay to the Licensor a minimum annual royalty of $10,000 in 2015, $25,000 in 2016 and, from 2017 through the termination of the agreement, $50,000 per year. We have not paid any royalties yet under the Agreement. In March 2017, we agreed with the Licensor that the $85,000 we owed the Licensor will be paid by us by the earlier of August 2017, or (b) our sale of equity securities to investors with gross proceeds to the Company of at least $10,000,000. We are not currently in compliance with the payment terms of the license agreement with our Licensor. As such, on May 20, 2020, we and the Licensor agreed to amend the agreement with respect to royalties due in years 2015 through 2020 (or an aggregate amount of $235,000), according to which the minimum royalties payable to the Licensor shall be $250,000 to be paid on December 31, 2020. As of March 31, 2021, these royalties had not been paid.
+ 
+Once there are sales of products or sublicensing receipts based on the licensed intellectual property, we are under an obligation to pay the Licensor a certain percentage of such sales or sublicensing receipts, as running royalties, but in any event not less than the minimum annual royalties. Any minimum annual royalties will be credited against the running royalties in any given year.
+ 
+The following table sets forth the percentage of our net sales that we will pay as royalties to the Licensor:
+ 
+
+○ leukemia related products | 3.0 | %
+--------------------------------------------------------------------------------------+------+--
+○ other products | 2.5 | %
+○ in certain limited circumstances, rates may be reduced to | 2.0 | %
+On fixed sublicense income (with no sub license income on sales by sub licensee): | | 
+○ leukemia related products | 20.0 | %
+○ other products | 15.0 | %
+On fixed sublicense income (with Company income on sales by the sub licensee. | | 
+These rates are in addition to the net sales rates listed above.): | | 
+○ leukemia related products | 10.0 | %
+○ Other products | 7.5 | %
+
+ 
+The minimum royalties will be paid to the Licensor regardless of whether we are able to generate sales from the products arising from the usage of the license.
+ 
+The license agreement is for an unlimited term, unless terminated earlier by either of the parties under certain circumstances as described in the agreement, including termination as a result of a material breach or a failure to comply with a material term by the other party, as a result of liquidation or insolvency of the other party. In addition, we were entitled to terminate the agreement if at any time, during the period of 7 years following the effective date of the transaction, we, at our sole discretion, would determine that commercialization of the leukemia licensed products is not commercially viable.
+ 
+
+10
+--
+
+University of Leipzig License Agreement
+ 
+On November 7, 2018, Amarantus entered into an amended license agreement with the University of Leipzig (the “Leipzig License Agreement”) whereby the University of Leipzig granted Amarantus an exclusive license to the University of Leipzig’s patent that underlies the Lympro Test. As part of the Amarantus transaction, Amarantus assigned the Leipzig License Agreement to our subsidiary, Breakthrough Diagnostics Inc.
+ 
+Under the Leipzig License Agreement, the licensee is required to pay the University of Leipzig the following fees and royalties:
+ 
+
+● | a license issuance fee of $80,000 as partial reimbursement of patent expenses related to the patent rights; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | an annual royalty of $35,000 on the first and second anniversary of the effective date of the Leipzig License Agreement, and an annual royalty of $15,000 on each subsequent anniversary of the effective date; 
+● | the following milestone payments: 
+
+
+○ | $75,000 on first commercial sale of a licensed product; 
+--+-------------------------------------------------------------------------
+○ | $150,000 on obtaining first FDA approval for a licensed product; and 
+○ | $150,000 upon reaching $5,000,000 in cumulative net sales; 
+
+
+● | the annual royalty and milestone payments will be treated as an advance on royalty payments due from sales, and after the royalties from sales equal the aggregate annual royalty and the milestone payments made, a royalty of 3% of net sales, provided that with regard to each country in which a licensed product is sold, after seven years, the royalty will be reduced to 2% of net sales; and 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | 10% of non-royalty sub-licensing income. 
+
+
+11
+--
+
+Competition
+ 
+Current prevailing cancer detection tests utilize the standard procedures which, we believe, are typically uncomfortable, such as colonoscopy for colorectal cancer and mammography for breast cancer. In addition, we believe, these tests generally have medium to low sensitivities/specificity, along with adverse risks. Furthermore, many of the existing detection methods depend on the technician’s or the physician’s capabilities, knowledge and interpretation. The existing detection methods also carry a high cost.
+ 
+In light of these drawbacks, our assays will be a part of standard clinical protocol for cancer screening and not a replacement of any of these gold standard procedures. Our aim is to improve the screening process, reducing false negatives and increasing sensitivity thus, saving lives, pain and expenses.
+ 
+Many of our anticipated competitors, such as those listed in the below table, have substantially greater financial, technical, and other resources and larger, more established marketing, sales and distribution systems than we have. Many of our competitors also offer broad product lines outside of the diagnostic testing market and have brand recognition. Moreover, our competitors may make rapid technological developments that may result in our intended technologies and products becoming obsolete before we are able to enter the market, recover the expenses incurred to develop them or generate significant revenue. Our success will depend, in part, on our ability to develop our intended products in a timely manner, keep our future products current with advancing technologies, achieve market acceptance of our future products, gain name recognition and a positive reputation in the healthcare industry, and establish successful marketing, sales and distribution efforts.
+ 
+
+Company | Symbol | Company Description 
+--------------------+---------+------------------------------------------------------------------------------------------
+Exact Sciences | EXAS | Marketing Cologuard stool-based detection test for the detection of colorectal cancer 
+Grail | Private | Developing blood-based diagnostics for all cancers based on liquid biopsy 
+Volition Rx | VNRX | Developing blood-based diagnostic tests for colorectal, lung, prostate, ovarian 
+ | | and other cancer types based on nucleosomics 
+Epigenomics | EPGNF | Engages in developing and commercializing in vitro diagnostic tests for the 
+ | | detection and diagnosis of cancer (EpiproColon - methylated Septin9 DNA in 
+ | | human plasma) 
+Cancer Genetics | CGIX | Focuses on developing and commercializing proprietary genomic tests to 
+ | | improve and personalize the diagnosis and response to treatment of cancer. 
+
+ 
+We primarily face competition in the COVID-19 testing market with testing products and systems developed by public and private companies such as GenMark Diagnostics, Inc., PerkinElmer, Quest Diagnostics Infectious Disease, Laboratory Corporation of America, Hologic, Thermo Fisher, Roche Diagnostics, and Abbott Molecular Diagnostics. Our diagnostic tests also face competition from laboratory developed tests (LDTs) developed by national and regional reference laboratories and hospitals. We believe that our testing systems compete largely on the basis of accuracy, reliability, enhanced laboratory workflow, multiplex capability, ease-of-use, turnaround time, customer service and support, patient safety, and return on investment for customers.
+ 
+Many of our competitors have substantially greater financial, technical, research, and other resources and larger, more established marketing, sales, and distribution channels than we do. Many of our competitors also offer broader product lines and have greater brand recognition than we do. Moreover, our existing and new competitors may make rapid technological developments that may result in our technologies and products becoming obsolete before we recover the expenses incurred to develop them or before they generate significant revenue.
+ 
+
+12
+--
+
+
+Sources and Availability of Products and Supplies
+ 
+The nature of our products does not mandate any dependence on one or a few major products or suppliers, but if we are required to change our current suppliers of the components of our products, we may encounter significant delay in locating suitable alternative suppliers.
+ 
+Existing or Probable Government Regulations
+ 
+Our cancer screening products are subject to governmental regulation, which regulation may be different for each country or region where we intend to commercialize our products. We plan to initially commercialize our products in Israel and the European Union (EU), and then afterwards enter the U.S. market.
+EU
+ 
+In Europe, medical devices are regulated by self-certification through the CE Mark system. Under the system, developers and manufacturers must operate a Quality System and validate medical devices in a limited clinical trial to demonstrate the manufacturer has met analytical and clinical performance criteria. We have implemented an International Organization for Standardization standard - ISO 13485 - quality management system for the design and manufacture of medical devices. ISO 13485 addresses managerial awareness of regulatory requirements, control systems, inspection and traceability, device design, risk and performance criteria as well as verification for corrective and preventative measures for device failure. ISO 13485 certification establishes conformity to specific European Union directives related to medical devices and allows CE Marking and sale of the device.
+ 
+The Medicines and Healthcare products Regulatory Agency, or MHRA, is the United Kingdom-based European Authority responsible for the issuance of CE Mark approval. In 2013, our regulatory authorized representative in Europe submitted an application to the MHRA for the CE Mark approval of our TBIA method. We obtained this approval on December 9, 2013 with the receipt of a Certificate of Conformance from our regulatory authorized representative in Europe. The European regulatory demands regarding IVD have recently been revised and major changes need to be made in order to keep our CE Mark. These changes need to be made by 2022.
+ 
+The new European In Vitro Diagnostic Regulation (IVDR - 2017/746), or the IVDR, became effective as of May 25, 2017, marking the start of a transition period for manufacturers selling IVD devices into Europe. The IVDR, which replaces IVD Directive (98/79/EC), or the Directive, has a transition period of five years, after which the IVDR will apply in full, and no new applications pursuant to the Directive will be accepted. Manufacturers have the duration of the five-year transition period to update their technical documentation and processes to meet the new, more stringent EU regulatory requirements. We believe that the most challenging areas under the IVDR will be regarding the classification of products and the performance evaluation of IVDs, which will not only include the classic clinical performance and analytical performance but also scientific validity, the role and responsibilities of the economic actors of the supply chain, the traceability and the transparency of the devices with, in particular, the introduction of the UDI-system and an expanded EUDAMED database.
+ 
+During 2021, we plan to commence updating our technical files in accordance with the new IVDR.
+ 
+Israel
+ 
+In Israel, medical devices are regulated by the Israeli Ministry of Health (MoH) medical device department.
+ 
+On January 23, 2019, we applied to the MoH for approval for our products and we have obtained MoH approval.
+ 
+U.S.
+ 
+United States federal and state governmental agencies subject the health care industry to intense regulatory scrutiny, including heightened civil and criminal enforcement efforts. The federal government scrutinizes, among other things, the marketing, labeling, promotion, manufacturing and export of diagnostic health care products. Our cancer screening products fall within the IVD medical device category and are subject to FDA clearance or approval in the United States.
+ 
+The federal government has increased funding in recent years to fight health care fraud, and various agencies, such as the United States Department of Justice, the Office of Inspector General of the Department of Health and Human Services, or OIG, and state Medicaid fraud control units, are coordinating their enforcement efforts.
+ 
+In the United States, we anticipate that our cancer screening products will have to be cleared through the FDA’s premarket notification or 510(k), process or its premarket approval, or PMA, process. The determination of whether a 510(k) or a PMA is necessary will depend in part on the proposed indications for use and the FDA’s assessment of the risk associated with the use of the IVD for a particular indication.
+ 
+
+13
+--
+
+Research and Development Activities and Costs
+ 
+For the years ended December 31, 2020 and 2019, we incurred $11,904,000 and $755,699, respectively, of research and development expense.
+ 
+Our research and development efforts are financed in part through grants received from the IIA. Through December 31, 2020, we have received the aggregate amount of $272,000 from the IIA. Aside from payment of royalties to the IIA, we are required to comply with the requirements of the Research Law. Under the Research Law, royalties of 3% to 3.5% on the revenues derived from sales of products or services developed in whole or in part using these IIA grants are payable to the Israeli government. We developed our technologies, at least in part, with funds from these grants, and accordingly we would be obligated to pay these royalties on sales of any of our product candidates that achieve regulatory approval. The maximum aggregate royalties paid generally cannot exceed 100% of the grants made to us, plus annual interest equal to the 12-month LIBOR applicable to dollar deposits, as published on the first business day of each calendar year.
+Employees
+ 
+As of December 31, 2020, we had seven full-time employees, two of whom are located in Israel, four in the United States and one in Singapore. Our President and Chief Executive Officer, Gerald Commissiong is located in the United States. Our Chief Financial Officer, Daniel Hirsch, and our Chief Business Officer, Rami Zigdon, are located in Israel. Joseph Wee is the Chief Executive Officer of our Singaporean subsidiary and is located in Singapore.
+ 
+In addition, we engage specialists and consultants in fields such as optics, physics, medicine, mathematical algorithms, biochemistry, regulatory and patents from time to time as required by our operations.
+ 
+Available Information
+ 
+Our main corporate website address is https://todosmedical.com/. Until December 31, 2020, we reported as a foreign private issuer with an Annual Report on Form 20-F and Current Reports on Form 6-K. Since January 1, 2021, we are required to report as a domestic issuer in the United States. Copies of our Quarterly Reports on Form 10-Q, Annual Report on Form 10-K and Current Reports on Forms 6-K and 8-K filed or furnished to the U.S. Securities and Exchange Commission (the “SEC”), and any amendments to the foregoing, will be provided without charge to any shareholder submitting a written request to our company secretary at our principal executive offices or by calling 1-646-825-8834. All of our SEC filings are also available on our website at https://todosmedical.com//, as soon as reasonably practicable after having been electronically filed or furnished to the SEC. The public may read and copy any materials filed by Todos with the SEC at the SEC’s Public Reference Room at 100 F Street, NE, Room 1580, Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov. The information on our website is not, and will not be deemed, a part of this Report or incorporated into any other filings we make with the SEC.
+
+14
+--
+

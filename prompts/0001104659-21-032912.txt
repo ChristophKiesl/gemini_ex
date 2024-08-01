@@ -1,0 +1,268 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Introduction
+ 
+Rodgers Silicon Valley Acquisition Corp. (“RSVA”) is a Delaware company incorporated on September 23, 2020 as a blank check company for the purpose of entering into a merger, share exchange, asset acquisition, stock purchase, recapitalization, reorganization or other similar business combination, with one or more target businesses.
+ 
+On December 4, 2020, RSVA consummated its initial public offering (the “IPO”) of 23,000,000 units (the “Units”), each Unit consisting of one share of common stock of the Company, par value $0.0001 per share (the “Common Stock”) and one-half of one redeemable warrant (“Warrant”), each whole Warrant entitling the holder thereof to purchase one share of Common Stock for $11.50 per share. The closing included the full exercise of the underwriter’s over-allotment option. The Units were sold at a price of $10.00 per Unit, generating gross proceeds to the Company of $230,000,000.
+ 
+On December 4, 2020, simultaneously with the consummation of the IPO, we consummated the private placement (“Private Placement”) with Rodgers Capital, LLC ( the “Sponsor”) of 6,000,000 warrants (the “Private Warrants”) at a price of $1.00 per Private Warrant, generating total proceeds of $6,000,000. The Private Warrants are identical to the Warrants (as defined below) sold in the IPO except that the Private Warrants will be non-redeemable and may be exercised on a cashless basis, in each case so long as they continue to be held by the Sponsor, the anchor investors or their permitted transferees. Additionally, our Sponsor and anchor investors have agreed not to transfer, assign, or sell any of the Private Warrants or underlying securities (except in limited circumstances, as described in the Registration Statement) until the date that is 30 days after the date we complete our initial business combination. The Sponsor and anchor investors were granted certain demand and piggyback registration rights in connection with the purchase of the Private Warrants.
+ 
+A total of $230,000,000 of the net proceeds from the sale of Units in the IPO and the private placement on December 4, 2020 were placed in a trust account established for the benefit of the Company’s public stockholders at Oppenheimer maintained by Continental Stock Transfer & Trust Company, acting as trustee. None of the funds held in trust will be released from the trust account, other than interest income to pay any tax obligations until the earlier of (i) the consummation of the Company’s initial business combination, (ii) the Company’s failure to consummate a business combination by December 4, 2022, (iii) the redemption of any public shares properly submitted in connection with a stockholder vote to amend RSVA’s amended and restated certificate of incorporation, (iv) to modify the substance or timing of the ability of holders of RSVA’s public shares to seek redemption in connection with RSVA’s initial business combination or RSVA’s obligation to redeem 100% of its public shares if RSVA does not complete its initial business combination by December 4, 2022, or (v) with respect to any other provision relating to stockholders’ rights or pre-business combination activity.
+ 
+Business Combination Agreement
+ 
+On February 22, 2021, we entered into a merger agreement (the “Merger Agreement” or the “Agreement”) with Enovix Corporation (“Enovix”) and RSVA Merger Sub Inc. (“Merger Sub”), pursuant to which Merger Sub will merge with and into Enovix, with Enovix surviving as our wholly-owned subsidiary (the “Merger”).
+ 
+As a result of the Merger, subject to reduction for indemnification claims as described below, an aggregate of 105,000,000 shares of RSVA common stock will be issued (or reserved for issuance pursuant to currently exercisable options or warrants) in respect of shares of Enovix capital stock that are issued and outstanding as of immediately prior to the effective time of the Merger and options and warrants to purchase shares of Enovix capital stock, in each case, that are issued, outstanding and vested as of immediately prior to the effective time of the Merger. Additional shares of RSVA common stock will be reserved for issuance in respect of options to purchase shares of Enovix capital stock that are issued, outstanding and unvested as of immediately prior to the effective time of the Merger.
+ 
+In connection with the Acquisition, we filed and will file relevant materials with the Securities and Exchange Commission (the “SEC”), including a proxy statement on Schedule 14A. Promptly after filing our definitive proxy statement with the SEC, we will mail the definitive proxy statement and a proxy card to each stockholder entitled to vote at the special meeting relating to the acquisition. INVESTORS AND SECURITY HOLDERS OF RSVA ARE URGED TO READ THESE MATERIALS (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO) AND ANY OTHER RELEVANT DOCUMENTS IN CONNECTION WITH THE ACQUISITION THAT RSVA WILL FILE WITH THE SEC WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT RSVA, ENOVIX AND THE MERGER. The preliminary proxy statement, the definitive proxy statement and other relevant materials in connection with the acquisition (when they become available), and any other documents filed by us with the SEC, may be obtained free of charge at the SEC’s website (www.sec.gov) or by writing to us at 535 Eastview Way, Woodside, CA 94062.
+ 
+2
+
+ 
+
+General
+ 
+We are a newly incorporated Delaware blank check company whose purpose is to effect a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses or entities, which we refer to throughout this prospectus as our initial business combination.
+ 
+We plan to target companies that compete in the areas of peak activity in Silicon Valley:
+ 
+
+· | Green Energy, electrification, and storage: all types of solar components and systems, fuel cells, green hydrogen, energy storage systems, including advanced batteries, and the software infrastructure that enables interoperability of these new technologies
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Smart Industry (IoT): internet-connected silicon, sensors, and software connected to the Internet of Things to transform industries including agriculture, health care, construction, logistics and manufacturing
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Artificial intelligence: cognitive neural networks, autonomous vehicle control for both logistics and mobility, and massively parallel computers optimized for machine learning
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | The new manufacturing wave: self-configuring automatic assembly lines, high-speed additive manufacturing at scale, novel materials, and computer vision with learning capabilities
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Each of these markets is global, and each is of considerable size. The global electric vehicle market, for instance, is projected to reach $550 billion by 2024 from $257 billion in 2019 at a CAGR of 16.4%, according to Business Communications Company Research dated January 2020. Grid-edge battery investments, which in 2019 in the U.S. totaled $712 million, are on track to reach just shy of $2 billion this year, and double again in 2021, according to Wood Mackenzie dated March 10, 2020. In May 2020, for the first time since 1960, American households’ aggregate expenditure on electricity exceeded what they spent on gas, according to Bloomberg dated October 2020.
+ 
+The electrification of industry is also a substantial opportunity. Industry consumed about 20% of its energy in the form of electricity in 2017, according to McKinsey & Company dated May 2020 . This figure can more than double, to approximately 50%, with solar, fuel cells, green gas, and battery technology in production now due to the record low cost of wholesale solar energy, with new plants now capable of producing electricity at less than $0.02 per kilowatt hour, according to CleanTechnica dated August 30, 2020.
+ 
+The number of businesses that use the IoT technologies has increased from 13% in 2014 to about 25% today. And the worldwide number of IoT-connected devices is projected to increase to 43 billion by 2023‒over five IoT devices for every human on Earth. From a roughly $2.5 billion market in 2018, IoT use cases are expected to grow to $17 billion in 2023 at a CAGR of 48%, according to McKinsey & Company dated July 22, 2019.
+ 
+The market for artificial intelligence chips, meanwhile, was valued at $8 billion in 2019 and is expected to reach $70 billion by 2026 at a CAGR of 35%, according to Electronic Engineering Times dated April 23, 2020. In 2019, cloud computing providers purchased 40% of AI chips, and this share is expected to expand at a rate of 30% annually through 2026. Software is expected to capture 80% of the worldwide $156 billion AI market in 2020, for a value of $124 billion, according to International Data Corporation dated August 4, 2020.
+ 
+3
+
+ 
+
+Our Management Team
+ 
+Thurman J. “T.J.” Rodgers is our CEO, chairman and founder. After starting Cypress Semiconductor, he and his team received funding in April 1983, and took the company public in just 37 months, during which time a new wafer fabrication plant was built and commissioned. He served 34 years as the company’s CEO until his retirement in 2016, by which time Cypress had grown to $1.8 billion in revenue and built four manufacturing plants, three of them in the U.S. Dr. Rodgers received 17 of his 20 U.S. patents while at Cypress and has been inducted into the Silicon Valley Engineering Hall of Fame. He wrote a Harvard Business Review article and follow-up book entitled “No Excuses Management,” detailing some of the formal business processes developed and formalized to help startup Cypress Semiconductor get over the $100 million revenue hurdle. For his work at Cypress, Rodgers received the Stanford Graduate School of Business Encore Award as Entrepreneur of the Year in 1988 and the equivalent award from Ernst & Young in 1991. Rodgers is also credited with saving the fledgling startup SunPower Corporation by writing an emergency $750,000 personal check during the 2001 dotcom crisis. He then acquired SunPower for Cypress, led its operational turnaround as chairman, took the company public in 2005 and finally spun Cypress’s 48.8% position out in a $3.6 billion stock dividend to Cypress shareholders in 2008. In addition to the SunPower stock dividend, during his tenure, Cypress paid shareholders $425 million in dividends and bought back $4 billion in shares.
+ 
+In January 2017, Rodgers was invited to invest in and join the board of Enphase Energy during a financially challenging time for the company. His technical review convinced him that Enphase had the best solar inverter in the world, but the company needed to be run more efficiently to be financially successful‒and its culture needed to become more supportive of its customers and even the company itself. Working with the board, Rodgers brought in Enphase’s current CEO, ex-Cypress EVP Badri Kothandaraman, to address the company’s problems, which Rodgers believed had a common underlying cause: under-developed or non-existent business processes, broadly impacting almost every discipline. Kothandaraman’s team effort led to a dramatic improvement in financial performance: the company’s operating margin improved by 30% points in the two years ended 2019, and its share price increased from a price of $1.37 per share in the first quarter of 2017 to $82.59 per share in the third quarter of 2020.
+ 
+In addition, CEO Kothandaraman, demonstrated the value of his “10,000-hours of training in design” by personally spending several months leading the rework of the company’s new-product development process. Rodgers believes that the CEO’s conspicuous effort drove the Enphase team through the second-product barrier often suffered by immature companies. In July 2020, Enphase brought to market the world’s first all-in-one, grid-independent smart energy system. Rodgers now believes that Enphase has reached stability as a public company and attends only board and strategy committee meetings along with providing some M&A consulting.
+ 
+In addition to Enphase, Rodgers currently serves on the boards and/or technical advisory boards of several high-tech companies: Solaria (solar panels), FTC (utility-scale solar trackers), Enovix (high-capacity silicon Li-ion batteries), and NexGen (gallium nitride power transistors). He received an AB from Dartmouth College in 1970, where he received the Hazeltine award as the top student in physics and chemistry and was the class salutatorian overall. He holds MS and PhD degrees in electrical engineering from Stanford University and remains technically active.
+ 
+Emmanuel T. Hernandez is our CFO and serves as a director. He is currently the chairman of the Board of Directors of BrainChip–a publicly traded Australian artificial intelligence company and is also the chairman of the audit committee of transistor stalwart ON Semiconductor. He was the CFO of SunPower Corporation from 2005 to 2008, during which time he oversaw the company’s IPO and raised $1 billion in public funding. From 1994 to 2005, he was the EVP Finance & Administration and CFO of Cypress Semiconductor, where he managed annual revenue growth from $300 million to $1 billion, completed 10 mergers and formalized the company’s M&A business process. Prior to that, from 1976 to 1993, he held a series of positions at National Semiconductor, a pioneer Silicon Valley semiconductor company. He holds an MBA degree in Finance from Golden Gate University and a BSC in accounting from the University of Nueva Caceres in the Philippines.
+ 
+Steven J. Gomo serves as an independent director and as our audit committee chairman. Currently, Gomo serves as the chairman of the audit committees of Enphase Energy (solar systems), semiconductor memory giant Micron Technology, Nutanix (enterprise software) and Solaria (solar systems). He is an experienced CFO, having served at NetApp (data services and management), Gemplus International (smart cards), Asera (supply chain management software), and RISC-computer pioneer, Silicon Graphics. Gomo started his Silicon Valley career at Hewlett-Packard in 1974.
+ 
+John D. McCranie serves as an independent director. After his early career in semiconductor sales, he became the EVP of Sales & Marketing for Harris Corporation, the CEO of SEEQ Technology and Virage Logic, and then joined Cypress Semiconductor as EVP of Sales & Marketing (1994-2001), where he developed Cypress’s business processes for product pricing, product introduction, sales compensation, sales training, and running large international sales conferences. He has held 10 board positions in the semiconductor industry, including nine years on the Cypress board. Six of his board positions involved significant restructuring, including the multi-year restructuring of ON Semiconductor, which he led.
+ 
+4
+
+ 
+
+Lisan Hung serves as an independent director. She has been providing business and legal solutions for over 26 years to Silicon Valley technology and semiconductor companies ranging from start-ups to publicly-traded companies. Her experience includes M&A, SEC reporting, corporate governance, financing, IP strategy, data privacy, commercial and technology transactions, international expansion, litigation and dispute resolution and board-level related matters. She is currently General Counsel and Corporate Secretary of Enphase Energy, Inc. Prior to Enphase, she was General Counsel and Corporate Secretary of Crocus Technology, Inc. (magnetic sensors) and Kovio, Inc. (printed electronics). During her previous 10 years at AMD, she was on the team that formed and divested Spansion Inc. and supported the antitrust litigation against Intel Corporation. She holds a JD from Santa Clara University and a BS in Political Economy of Natural Resources from UC Berkeley.
+ 
+Joseph I. Malchow serves as an independent director. He is the Founding General Partner at Hanover Technology Investment Management (“Hanover”), a Sand Hill Road venture capital firm. Earlier, he cofounded Publir, a prominent market-maker in digital ads. Hanover focuses on Seed and Series A investments in software companies in artificial intelligence, developer tooling, data and computing infrastructure and digital security in a number of specific verticals including finance and credit, freight and logistics, national security technology, and construction and infrastructure. Malchow has originated investments in 25 companies including RelatelQ (sales and marketing), Socotra (insurance), Sourcegraph (code search), Material Security (email security), Elementl (graph programming language), Retool (low-code environment), Premise Data (data gathering), Golden (semantic knowledge base), Mattermost (chatops), Solugen (next-generation chemical synthesis) and Flatfile (data infrastructure). He also serves on the board of Enphase Energy, where he focuses on software and data strategy.
+ 
+Malchow has often provided the first capital to innovative software ventures because he often gets an early look at new software ventures because entrepreneurs value his advice on new business formation, technology strategy, business alliances, political risk and opportunity and product pipeline. He was named to the Forbes 30 under 30 list in 2012 and is a Robert L. Bartley Fellow of The Wall Street Journal, based on his contributions. Malchow earned an AB from Dartmouth College in 2008, after which he studied at the law and business schools of Stanford University, receiving a JD in 2013.
+ 
+Our Business Strategy
+ 
+One of our business theses is that the time-proven IPO process imposes avoidable delays and costs on both new companies and investors. We believe the increase in SPAC IPO issuance and merger activity in 2020 validates the SPAC’s ability to address some of the problems with the IPO process.
+ 
+Public technology investors today commonly discuss these issues surrounding a typical technology IPO scenario:
+ 
+
+1. | Long delays in the IPO process. Fundamental technology investors find it difficult to own stock in new technology companies during their pre-revenue and/or pre-profit phases because technology companies are typically required by most investment banks to produce a string of revenue growth quarters with profit or near-profit before they are allowed to do an IPO. We may offer earlier access to a technology company that is reporting milestones as opposed to revenue or profits, but we will certainly also consider companies on the IPO track, with growing revenue on the path to profitability.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | No IPO stock allocation. Many public market investors say they cannot get an allocation of a new IPO unless they enjoy preferred-customer status with one of the IPO’s sponsoring investment banks. Our mission is to offer fundamental technology investors an opportunity to take a long-term position in a good Silicon Valley technology company.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | IPO discount. We all have seen the share price of a new IPO jump significantly during the first few days of trading. This implied discount in the IPO price encourages early turnover of the IPO shares and forces fundamental technology shareholders to pay higher share prices in the aftermarket to accumulate a position.
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+5
+
+ 
+
+Our team has watched our new technology companies face these issues in a typical IPO scenario:
+ 
+
+1. | Late-stage public funding expensive and hard to source. In the period just prior to profitability, a company may need large amounts of working capital or more capacity or to exploit an R&D breakthrough‒all good signs. Unfortunately, this cash drain is often funded with significant dilution by venture capital or high-coupon debt. We intend to bring public investment in a private company earlier, without the IPO gauntlet.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Pre-IPO R&D stall. Prior to its IPO, a company is incentivized to hold down operating expense, including R&D expenses, to bolster its profitability. This may delay second-product introduction and other investments that put the company at a disadvantage relative to its more mature competitors for a period of a year or more; i.e., for the time needed to create the string of profitable quarters often mandated by investment banks.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Low corporate visibility. Privately held companies can certainly become prominent in the era of the unicorn, but we believe there is nothing like open debate in the market over a company’s prospects to make the public‒not to mention prospective customers and business partners‒aware of an important new company.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The use of SPACs to effect public offerings earlier can bring on potential new problems caused by the accelerated entry of immature companies into public markets. For our target candidate, we intend to address the following common problems and mitigate them to the best of our ability.
+ 
+
+1. | Incomplete or inaccurate financial reports may lead to bad internal business decisions and sometimes even re-statements. We will work to install Sarbanes-Oxley-compatible systems in our target companies as early as possible.
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. | Second product stall (R&D based). We have observed that R&D product pipelines can also stall if a startup company relies solely on a group of very good engineers whose skill allows them to develop a new product with informal new-product documentation and scheduling systems. When some of those engineers move on or move up, the company’s R&D pipeline may suffer from repeated rework delays. We have robust scheduling and product definition systems available.
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3. | Revenue over-forecasting. The use of third-party sales funnel software is now common, but we have observed that poor quality control of the funnel data input, and the use of simplistic algorithms to create revenue estimates from sales funnel data often lead to inflated revenue predictions. We understand these problems and have systems to address them.
+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4. | High manufacturing costs. Manufacturing creates many high-quality blue-collar jobs, but America’s manufacturing sector has been shrinking, and with it the pool of people to hire. This forces companies to automate manufacturing. Several members of our team are manufacturing experts who can, if needed, assist our target company in building a manufacturing plant that is competitive and fully automated. These skills are also directly applicable to the increasingly common use of subcontract manufacturers, who we believe must also be tightly connected to the parent company for good results.
+---+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. | Poor product quality. Quality should be a way of life in all corporate activities, not just a mathematical system to measure and eliminate product defects. For example, we view Sarbanes-Oxley practices as financial quality-assurance systems. Several of us have worked personally for years on corporate-level quality systems and quality culture development‒abstract processes that really matter.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+6. | Inadequate planning often shows up in public reports, for example, as late new products, long product lead times, quarterly revenue misses and unanticipated competitor success. We often see immature companies plan poorly or even do no planning in some disciplines. While we certainly cannot promise to fix the list of maladies above, we can share excellent planning tools in multiple disciplines with our top-few target companies.
+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+6
+
+ 
+
+Our Business Process
+ 
+The mission of the Rodgers Silicon Valley Acquisition Corp. is to provide fundamental public technology investors with early access to an excellent technology company from Silicon Valley. (We are focused on Silicon Valley but are not strictly limited to bringing forward Silicon Valley companies.) After our top-few target companies are identified, we will analyze their business processes, systems, and disciplines relative to what we believe is required for stable and predictable performance. Then, if the target desires our consultation, we will offer our help, as well as the help of our portfolio companies that have agreed to share their best-practices.
+ 
+Finally, we will offer our target company consulting support from our internal and external experts. Given that strategy, some of our key directors may remain on the board of the combined company.
+ 
+We are not prohibited from pursuing an initial business combination with a company that is affiliated with one or more of our officers or directors. In the event we seek to complete our initial business combination with an affiliated company, we, or a committee of our independent directors, will obtain outside opinions to assess the fairness of the combination from an independent investment banking firm that is a member of FINRA or an independent accounting firm that commonly renders valuation opinions to ensure that our initial business combination is fair to our shareholders prior to their vote to on our initial business combination.
+ 
+Following this IPO, members of our management team will directly or indirectly own our common stock and may also own our private placement warrants. This may also lead to individual conflicts of interest after our initial business combination or when we choose directors for the combined company. Any conflicts will be disclosed to shareholders prior to their vote on the initial business combination.
+ 
+Our Investment Criteria
+ 
+We have identified the following general criteria and guidelines that we believe are important in evaluating prospective target businesses. We will focus on these criteria and guidelines in evaluating acquisition opportunities, but we may decide to enter into our initial business combination with a target business that does not meet one or more these criteria and guidelines.
+
+· | Companies that operate in industries and sectors that are ripe for technological disruption or are currently undergoing fundamental transformations. We plan to identify sectors that are in the process of or have significant potential to replace a current solution or process with a more automated method. We will seek to acquire a business that operates within an industry that is witnessing at least one or more trends, mentioned above, which we believe are driving the opportunity within technology enabled services.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Companies with an attractive and defensible competitive position. We will target companies with defensible market positions that we believe offer long-term competitive advantages. These could include proprietary technology, a leading product suite, strong market share or actionable path to gain significant market share or creative use of existing technology that we believe is enduring and unique.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Compelling growth prospects. We view growth as an important driver of value and will seek companies whose growth potential can generate meaningful upside through both organic growth and meaningful opportunity for add-on acquisitions.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Strong preference for business models with contractually recurring revenue. We will focus on companies with subscription-based or otherwise recurring revenues under multi-year contracts.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | High gross margins and significant operating leverage. We will seek to invest in companies that we believe possess not only proven business models and sustainable competitive advantages, but also inherently profitable unit economics that will yield significant economies of scale and expanding profit margins with continued growth.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+7
+
+ 
+
+
+• | Low customer churn and compelling customer acquisition cost relative to lifetime customer value. We believe the best opportunities will be companies which have demonstrated the ability to win new customers cost effectively and retain them for long periods of time, generating a compelling return on investments in sales and marketing.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Strong management teams. We will spend significant time assessing a company’s leadership and evaluating what we can do to augment and/or upgrade the team over time if needed. We have deep experience partnering with motivated, capable management teams and can identify a top team.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Accretive use of proceeds. We will seek investment opportunities where our capital will help fund growth, not just provide shareholder liquidity. We believe it is important that our transaction will help create shareholder value by funding the development of new products, increasing investment in sales and marketing or capacity expansion.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Appropriate valuations. We will seek to be a disciplined and valuation-centric investor that will invest on terms that we believe will provide significant upside potential with limited downside risk.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Benefit from being a public company. We intend to pursue a business combination with a company that we believe will benefit from being publicly traded and can effectively utilize the broader access to capital and public profile that are associated with being a publicly traded company, including potential for value-expanding acquisitions and greater branding in the marketplace.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+These criteria are not intended to be exhaustive. Any evaluation relating to the merits of a particular initial business combination may be based, to the extent relevant, on these general guidelines as well as other considerations, factors and criteria that our management may deem relevant. In the event that we find an opportunity that has characteristics more compelling to us than the characteristics described above, we would pursue such opportunity.
+ 
+Our Acquisition Process
+ 
+Our sponsor believes that conducting comprehensive due diligence on prospective investments is particularly important within the technology industry. In evaluating a prospective initial business combination, we expect to conduct a thorough diligence review that will encompass, among other things, meetings with incumbent management and employees, document reviews, inspection of facilities, financial analyses and technology reviews, as well as a review of other information that will be made available to us.
+ 
+We are not prohibited from pursuing an initial business combination with a company that is affiliated with our sponsor, our officers, or our directors, subject to certain approvals and consents. In the event we seek to complete our initial business combination with a company that is affiliated with our sponsor, officers or directors, we, or a committee of independent directors, will obtain an opinion from an independent investment banking firm that is a member of FINRA or an independent accounting firm that our initial business combination is fair to us from a financial point of view.
+ 
+Members of our management team may directly or indirectly own our securities following this offering, and accordingly, they may have a conflict of interest in determining whether a particular target business is an appropriate business with which to effectuate our initial business combination. Further, each of our officers and directors may have a conflict of interest with respect to evaluating a particular business combination if the retention or resignation of any such officers and directors was included by a target business as a condition to any agreement with respect to our initial business combination.
+ 
+8
+
+ 
+
+As described in “Proposed Business — Sourcing of Potential Business Combination Targets” and “Management — Conflicts of Interest,” each of our officers and directors presently has, and any of them in the future may have additional, fiduciary, contractual or other obligations or duties to one or more other entities pursuant to which such officer or director is or will be required to present a business combination opportunity to such entities. Our amended and restated certificate of incorporation will provide that we renounce our interest in any corporate opportunity offered to any director or officer unless (i) such opportunity is expressly offered to such person solely in his or her capacity as a director or officer of our company, (ii) such opportunity is one we are legally and contractually permitted to undertake and would otherwise be reasonable for us to pursue and (iii) the director or officer is permitted to refer the opportunity to us without violating another legal obligation. Accordingly, if any of our officers or directors becomes aware of a business combination opportunity which is suitable for one or more entities to which he or she has fiduciary, contractual or other obligations or duties, he or she will honor these obligations and duties to present such business combination opportunity to such entities first, and only present it to us if such entities reject the opportunity and he or she determines to present the opportunity to us. We do not believe, however, that the fiduciary, contractual or other obligations or duties of our officers or directors will materially affect our ability to complete our initial business combination.
+ 
+Our sponsor and our officers, directors and director nominees have, with certain exceptions, agreed not to participate in the formation of, or become an officer or director of, any other special purpose acquisition company with a class of securities registered under the Securities Exchange Act of 1934, as amended, or the Exchange Act, until we have entered into a definitive agreement regarding our initial business combination or we have failed to complete our initial business combination within 24 months after the closing of this offering, as such may be extended by stockholder approval. Those exceptions are those listed below under the heading Conflicts of Interest, and include, as an exception, that Mr. Malchow serves as a director of Rice Acquisition Corp., and may continue to serve as a director following an initial business combination effected by that special purpose acquisition company.
+ 
+9
+
+ 
+
+Management Operating and Investment Experience
+ 
+We believe that our executive officers possess the experience, skills and contacts necessary to source, evaluate, and execute an attractive business combination. See the section titled “Management” for complete information on the experience of our officers and directors. Notwithstanding the foregoing, our officers and directors are not required to commit their full time to our affairs and will allocate their time to other businesses. We presently expect each of our employees to devote such amount of time as they reasonably believe is necessary to our business (which could range from only a few hours a week while we are trying to locate a potential target business to a majority of their time as we move into serious negotiations with a target business for a business combination). The past successes of our executive officers and directors do not guarantee that we will successfully consummate an initial business combination.
+ 
+10
+
+ 
+
+As more fully discussed in “Conflicts of Interest,” if any of our officers or directors becomes aware of a business combination opportunity that falls within the line of business of any entity to which he has pre-existing fiduciary or contractual obligations, he may be required to present such business combination opportunity to such entity, subject to his or her fiduciary duties under Delaware law, prior to presenting such business combination opportunity to us. Most of our officers and directors currently have certain pre-existing fiduciary duties or contractual obligations.
+ 
+Emerging Growth Company Status and Other Information
+ 
+We are an emerging growth company as defined in Section 2(a) of the Securities Act of 1933, as amended, or the Securities Act, as modified by the Jumpstart Our Business Startups Act of 2012 (which we refer to herein as the JOBS Act). As such, we are eligible to take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, or the Sarbanes-Oxley Act, reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, and exemptions from the requirements of holding a non-binding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved. If some investors find our securities less attractive as a result, there may be a less active trading market for our securities and the prices of our securities may be more volatile.
+ 
+Further, Section 102(b)(1) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies (that is, those that have not had a Securities Act registration statement declared effective or do not have a class of securities registered under the Exchange Act) are required to comply with the new or revised financial accounting standards. The JOBS Act provides that a company can elect to opt out of the extended transition period and comply with the requirements that apply to non-emerging growth companies but any such an election to opt out is irrevocable. The Company has elected not to opt out of such extended transition period which means that when a standard is issued or revised, and it has different application dates for public or private companies, the Company, as an emerging growth company, can adopt the new or revised standard at the time private companies adopt the new or revised standard. This may make comparison of the Company’s financial statement with another public company which is neither an emerging growth company nor an emerging growth company which has opted out of using the extended transition period difficult or impossible because of the potential differences in accounting standards used.
+ 
+We will remain an emerging growth company until the earlier of (1) the last day of the fiscal year (a) following the fifth anniversary of the date of the IPO, (b) in which we have total annual gross revenue of at least $1.07 billion, or (c) in which we are deemed to be a large accelerated filer, which means the market value of our shares of common stock that are held by non-affiliates exceeds $700 million as of the prior June 30, and (2) the date on which we have issued more than $1.0 billion in non-convertible debt during the prior three year period.
+ 
+Competition
+ 
+In identifying, evaluating and selecting a target business for our initial business combination, we may encounter intense competition from other entities having a business objective similar to ours, including other blank check companies, private equity groups and leveraged buyout funds, and operating businesses seeking strategic acquisitions. Many of these entities are well established and have significant experience identifying and effecting business combinations directly or through affiliates. Moreover, many of these competitors possess greater financial, technical, human and other resources than us. Our ability to acquire larger target businesses will be limited by our available financial resources. This inherent limitation gives others an advantage in pursuing the acquisition of a target business. Furthermore, the requirement that we acquire a target business or businesses having a fair market value equal to at least 80% of the value of the trust account (excluding any taxes payable) at the time of the agreement to enter into the business combination, our obligation to pay cash in connection with our public stockholders who exercise their redemption rights and the number of our outstanding warrants and the future dilution they potentially represent, may not be viewed favorably by certain target businesses. Any of these factors may place us at a competitive disadvantage in successfully negotiating our initial business combination.
+ 
+11
+
+ 
+
+Employees
+ 
+We currently have two executive officers. These individuals are not obligated to devote any specific number of hours to our matters but they intend to devote as much of their time as they deem necessary to our affairs until we have completed our initial business combination. The amount of time they will devote in any time period will vary based on whether a target business has been selected for our initial business combination and the stage of the business combination process we are in. We do not intend to have any full time employees prior to the consummation of our initial business combination.

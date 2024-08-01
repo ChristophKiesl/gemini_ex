@@ -1,0 +1,63 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1. Business
+Overview
+ 
+TraQiQ, Inc. (along with its wholly owned subsidiaries, referred to herein as the “Company”) was incorporated in the State of California on September 9, 2009 as Thunderclap Entertainment, Inc. On July 14, 2017, Thunderclap Entertainment, Inc. changed its name to TraQiQ, Inc. On July 19, 2017, the Company entered into a Share Exchange Agreement (“Share Exchange”) with the stockholders of OmniM2M, Inc. (“OmniM2M”) and TraQiQ Solutions, Inc. dba Ci2i Services, Inc. (formerly Ci2i Services, Inc. – amended November 6, 2019) (“Ci2i”) whereby the stockholders of OmniM2M and Ci2i agreed to exchange all of their respective shares, representing 100% ownership in OmniM2M and Ci2i in exchange for 12,000,000 shares of the Company’s common stock, respectively. The OmniM2M Shareholders and the Ci2i Shareholders have each been issued their respective 12,000,000 shares on a pro rata basis based on their respective holdings in OmniM2M and Ci2i in the Share Exchange Agreement. The Share Exchange was accounted for as a reverse merger whereas Ci2i is considered the accounting acquirer and TraQiQ, Inc. is considered the accounting acquiree. For accounting purposes, the acquisition of OmniM2M is recorded at historical cost in accordance with Accounting Standard Codification (“ASC”) 805-50-25-2 as this is considered an acquisition of entities under common control as the management of the Company and OmniM2M control the activities of the respective companies. Prior to the merger with Ci2i and acquisition of OmniM2M, the Company was considered a shell company under Rule 12b-2 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). On December 1, 2017, The Company entered into a Share Purchase Agreement (the “Share Exchange Agreement”) with Ajay Sikka (“Sikka”), the sole shareholder of Transport IQ, Inc. whereby Sikka agreed to sell all of the shares in TransportIQ, Inc. (“TransportIQ”) in exchange for $18,109, in the form of cancellation of all of the debt of TransportIQ that is owed to the Company. The transaction became effective upon the execution of the Share Exchange Agreement by Sikka and the Company; and Transport IQ, Inc, is now a wholly-owned subsidiary of the Company. Because TransportIQ was commonly controlled and owned, the transaction was recorded at the historical carrying value of TransportIQ’s assets and liabilities.
+ 
+On May 16, 2019, the Company entered into a Share Exchange Agreement with Mann-India Technologies Private Ltd., an Indian Corporation (“Mann”). On January 2, 2020, Mann changed its name to TRAQIQ Solutions Private Limited (“TRAQ Pvt Ltd”). Pursuant to the Share Exchange Agreement with Mann, the Company acquired 100% of the shares of Mann and assumed certain net liabilities in exchange for warrants exercisable over a five-years to purchase 1,329,272 shares of common stock of the Company valued at $268. The warrants will be exercisable as follows: (i) 100,771 warrants immediately; (ii) 859,951 warrants exercisable one-year after the date of closing, which was extended to March 31, 2021; and (iii) 368,550 warrants exercisable two-years after the date of closing. This transaction is being recorded as a business combination under ASC 805.
+ 
+On December 19, 2019, the name of Ci2i Services, Inc was changed to TraQiQ Solutions, Inc.
+ 
+Effective December 31, 2020, TraQiQ Solutions, Inc. acquired the net assets of OmniM2M and TransportIQ, and then dissolved those entities in January 2021. The value of those transactions were for the assumed liabilities of Omni and TransportIQ, and no cash was exchanged.
+ 
+
+1
+-
+
+TraQiQ Solutions, Inc.
+ 
+TraQiQ Solutions, Inc. (TraQSol) was formed about over 15 years ago and has most recently been providing technology solutions, predominantly in the business intelligence and data analytics arenas. The Company has been a vendor to Microsoft for over 10 years and has done work with many Microsoft product and business groups, including Microsoft Azure and Microsoft Media planning. Ci2i has worked closely with customers where a wide variety of analytics solutions were built.
+ 
+TraQSol’s cloud solutions and analytics services comprise software development, program management, project management, and business analytics services.
+ 
+TRAQIQ Solutions Private Ltd. (fka Mann-India Technologies Pvt Ltd)
+ 
+Pursuant to the Share Exchange Agreement with TRAQ Pvt Ltd., the Company acquired 100% of the shares of TRAQ Pvt Ltd. and assumed certain net liabilities in exchange for warrants exercisable over a five-years to purchase 1,329,272 shares of common stock of the Company valued at $268. The warrants will be exercisable as follows: (i) 100,771 warrants immediately upon closing; (ii) 859,951 warrants exercisable one-year after the date of closing, extended to March 31, 2021); and (iii) 368,550 warrants exercisable two-years after the date of closing. This transaction is being recorded as a business combination under ASC 805.
+ 
+Mann-India Private limited was renamed to TraQiQ Solutions Private Limited shortly after acquisition by TraQiQ Inc.
+ 
+The warrants that are exercisable in one-year (which were extended to March 31, 2021) and two-years are conditioned upon TRAQ Pvt Ltd. achieving certain revenue figures and pre-tax profit percentages. TRAQ Pvt Ltd. must achieve target revenue of $1.1 million (US$) and pre-tax profit of 25% (US$). Should TRAQ Pvt Ltd. be unable to achieve these criteria, the warrants will be reduced proportionately.
+ 
+TRAQ Pvt Ltd. was established in May 2000 and is headquartered in New Delhi, India. TRAQ Pvt Ltd. is a leading software development company which, with the advent of technology, has evolved as a mature and fast-growing company committed to provide reliable and cost-effective software solutions across industries all over the world.
+ 
+TRAQ Pvt Ltd. has its own experienced team of software developers dedicated towards developing various kinds of customized software.
+ 
+TraQ Pvt Ltd. has been doing business around the world for over 15 years, with particular emphasis on Latin America and India. The customer list includes large enterprise Finance and Insurance companies across Latin America. The company’s product portfolio has evolved rapidly and now includes enterprise ready solutions for payment processing, mobile wallets, micro lending solutions and digital transformation.
+ 
+TraQSuite is a distribution platform that allows users to setup task-based networks rapidly – target customers, facilitate/validate transactions, track/manage task workers, manage funds and run the entire distribution network. It includes the following functions:
+ 
+Targeting
+ 
+TraQSuite analyzes your customers’ omni-channel behaviors and transactions. Using artificial intelligence technology, the software analyzes online activity and delivers real-time, automated recommendations and personalized content, including such items as personalized, always-updated coupons, funds, tickets and loyalty cards.
+Transactions
+ 
+The digital transactions functions of the software enable users to manage and control finances and virtually store and use financial assets including G2P, B2P, welfare, salary, cards and micro banking like loans and insurance. The software includes back-end payment processing and a front-end digital wallet that allows users with and without bank accounts to buy products and services and pay with their mobile devices, settling transactions across multiple vendors, currencies and locations.
+
+2
+-
+
+ 
+
+Last mile
+ 
+The Last-Mile software module is designed to allow logistics and delivery operations to manage large numbers of workers in multiple locations that are delivering products and services to users. It both tracks the task workers and provides validation for the transactions. The mobile applications enable data sharing and validation and also measure customer satisfaction.
+ 
+Integration
+ 
+TraQSuite also includes software designed to integrate the TraQSuite tools with existing business software.
+ 
+Learning
+ 
+TraQLearn is eLearning software that includes modules and dashboards for students, teachers and administrators and tools to help with targeted learning.
+ 

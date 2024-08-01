@@ -1,0 +1,269 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Business Overview
+ 
+Amplitech designs, engineers and assembles micro-wave component-based amplifiers that meet individual customer specifications. Our products consist of RF amplifiers and related subsystems, operating at multiple frequencies from 50kHz to 44GHz, including low noise amplifiers, medium power amplifiers, cryogenic amplifiers, and custom assembly designs for the aerospace, governmental, defense and commercial satellite markets. We also offer non-recurring engineering services on a project-by-project basis, for a predetermined fixed contractual amount, or on a time plus material basis.
+ 
+Specialty designs and manufactures passive microwave components and related subsystems for use in satellite communication ground networks that meet individual customer specifications for both domestic and international customers.
+ 
+Our mission is to patent our proprietary IP and trade secrets that were used in small volume niche markets and expand our capabilities through strategic partnerships, joint ventures, mergers/acquisitions with key industry leaders in the 5G/6G, quantum computing, and cybersecurity markets. We believe this will enable us to scale up our products and revenue by developing full systems and subsystems with our unique technology as a core component, which we expect will position us as a global leader in these rapidly emerging technology sectors and addresses large volume markets as well, such as cellphone handsets, laptops, server networks, and many other applications that improve everyday quality of life.
+ 
+The Company’s research and development initiative to expand its product line of low noise amplifiers to include its new 5G and wireless infrastructure products is progressing significantly. We have introduced new products that will be manufactured through our SMW acquisition. The combined engineering and manufacturing resources is expected to complement the new product development of subsystems for satellite, wireless, and 5G infrastructures, as well as advanced military and commercial markets.
+ 
+Our Corporate History and Structure
+ 
+AmpliTech Group Inc. (“AmpliTech” or “the Company”) was incorporated under the laws of the State of Nevada on December 30, 2010. On August 13, 2012, the Company acquired AmpliTech Inc., by issuing 833,750 shares of the Company’s Common Stock to the shareholders of Amplitech Inc. in exchange for 100% of the outstanding shares of AmpliTech Inc. (“the Share Exchange”). After the Share Exchange, the selling shareholders owned 60,000 shares of the outstanding 893,750 shares of Company common stock, resulting in a change in control. Accordingly, the transaction was accounted for as a reverse acquisition in which AmpliTech, Inc. was deemed to be the accounting acquirer, and the operations of the Company were consolidated for accounting purposes. The capital balances have been retroactively adjusted to reflect the reverse acquisition.
+ 
+AmpliTech designs, engineers and assembles micro-wave component based low noise amplifiers (“LNA”) that meet individual customer specifications. Application of the Company’s proprietary technology results in maximum frequency gain with minimal background noise distortion as required by each customer. The Company has both domestic and international customers in such industries as aerospace, governmental, defense and commercial satellite. 
+ 
+On September 12, 2019, Amplitech Group Inc. acquired substantially all of the assets of Specialty Microwave Corporation (SMW), a privately held company based in Ronkonkoma, NY. The purchase included all inventory, orders, customers, property and equipment, and goodwill. Following the closing of the asset purchase, we hired all eight team members of SMW. In connection with the acquisition, the Company began using the trade name “Specialty Microwave”. The total consideration paid was $1,143,633, consisting of $668,633 in cash and a $475,000 promissory note with an interest rate of 6%. The Company also entered into a five-year lease on the property located at 120 Raynor Avenue, Ronkonkoma, NY with an option to buy the property during the first two years of the lease for $1,200,000 and then at fair market value for the remainder of the lease term. 
+ 
+Specialty designs and manufactures passive microwave components and related subsystems for use in satellite communication ground networks that meet individual customer specifications for both domestic and international customers.
+ 
+
+4
+
+The COVID-19 Pandemic
+ 
+The COVID-19 pandemic has caused significant worldwide disruption throughout the course of 2020 and resulted in the imposition of various public and private sector measures to try to contain the virus, on a local, state, national and international level, such as travel bans and restrictions, quarantines, shelter-in-place/stay-at-home and social distancing orders, and shutdowns. These measures have temporarily impacted our workforce and operations and some of the operations of our customers, and vendors, suppliers, and partners. The ultimate impact and efficacy of government measures and potential future measures is currently unknown. 
+ 
+There is uncertainty regarding the business impacts from such measures and potential future measures. While we have been able to continue our operations through a combination of work-from-home and social distancing policies implemented to protect employees, these measures have resulted in reduced workforce availability. Accordingly, we resumed operations on May 5, 2020, with the CDC safeguard guidelines in place. Difficulties in communicating with our customers’ employees and delivery delays due to COVID-19 may impact our ability to meet customer demand, and thus decrease revenue into 2021 and negatively impact our financial condition and results of operations.
+ 
+Our Products
+ 
+Our products consist of RF amplifiers and related subsystems, operating at multiple frequencies from 50kHz to 44GHz, including low noise amplifiers, medium power amplifiers, cryogenic amplifiers, and custom assembly designs for the aerospace, governmental, defense and commercial satellite markets. We also offer non-recurring engineering services on a project-by-project basis, for a predetermined fixed contractual amount, or on time plus material basis. 
+ 
+Our existing product line includes the 18 to 40 GHz wide band low noise amplifier. It is designed mainly for wideband telecommunications such as military and space applications, point to point radios as well as test equipment.
+ 
+Our new line of cryogenic amplifiers is designed to operate at temperatures as low as 4K that offer much lower noise figures than our standard models. Consuming as little DC power as +0.5V DC@8mA, the light weight, compact housings provide excellent performance while generating very little heat. These amplifiers are very useful for applications that require the absolute minimum amounts of noise injection for the growing market of low temperature applications, such as quantum computing, medical applications, RF imaging, research & development, space communications, accelerators, radiometry and telephony.
+ 
+In connection with the acquisition of the SMW business, we began designing and manufacturing passive microwave components and related subsystems that meet individual customer specifications for both domestic and international customers.
+ 
+Low Noise Amplifiers
+ 
+Low Noise Amplifiers, or LNAs, are amplifiers used in receivers of almost every type of communication system (Wi-Fi, radar, satellite, base station, cell phone, radio, etc.) to improve signal strength and increase sensitivity and range of receivers. 
+Medium Power Amplifiers
+ 
+Medium Power Amplifiers, or MPAs, provide increased output power and gain in transceiver chains to increase signal power and maintain dynamic range and linearity in radars, base-stations, wireless networks, and almost every communication system.
+Satellite Access Point Block Downconverter (BDC)
+ 
+The Specialty Microwave BDC assembly is used as a test device on Satellite Access Point (SAP) antennas located worldwide. The BDC assembly down converts a Ka band signal, 17.7 GHz to 19.7 GHz, from the LNAs on either polarization of the antenna to between 950 and 2150 MHz using a high and low band block downconverter.
+1:2 Tx Protection Switch Panel Subsystem
+ 
+The Specialty Microwave 1:2 Tx Protection Switch panel is a logic panel used in satellite communications earth stations. The system mechanism operates waveguide and coaxial switches to operator desired positions.
+
+5
+
+
+
+Desktop/Benchtop and compact wideband Power Amplifiers
+ 
+These products are utilized over a frequency range of .1 to 40 GHz used in SATCOM rack mount systems as well as test equipment used in integrators and manufacturers of various communications systems such as cellular base stations, simulators, and point to point wireless radios.
+ 
+Waveguide to Coaxial Adapters
+ 
+These adapters are used in all SATCOM and satellite internet gateway systems from S band to K band, or 2GHz to 50 GHz.
+ 
+Cryogenic Amplifiers
+ 
+Designed to operate at 4k temperatures with industry low noise figures from 2-26 GHz range. With a low power dissipation of less than 10 mWatts, these cryogenic amplifiers can be used in applications for quantum computing, nanophysics, astronomy, superconductor research as well as making significant impact to 5G applications.
+Cryogenic and Non-Cryogenic 4g/5g Small Cell Subsystems
+ 
+These products are utilized in private and public high-speed networks and airline WI-FI systems.
+ 
+Our Technology
+ 
+Our products are supported by hybrid design topologies that create highly linear Radio Frequency (RF) products that amplify and transform signals with minimal addition of noise, achieving high Signal to Noise Ratio (SNR) and increased receiver sensitivity and range, at a low cost and low power consumption. Our hybrid design topologies include:
+
+· | Discrete Microwave Integrated Circuit (MIC) 
+--+--------------------------------------------------------
+· | Pseudomorphic High Electron Mobility Transistor (PHEMT)
+· | MIC and Low Noise MIC 
+
+
+
+We believe the discrete topology that we utilize provides various advantages:
+ 
+
+· | Can easily optimize Voltage Standing Wave Ratio (VSWR) and Noise Figure 
+--+-----------------------------------------------------------------------------
+· | Flexibility of design; can easily adapt to change of specs, technology, etc.
+· | Low DC power consumption 
+· | Can control and optimize gain flatness due to discrete gain stages 
+
+
+· | Optimum use of MIC technology and experience 
+--+-------------------------------------------------------------------------------------------------------------------------------
+· | Use of negative bias is not necessary 
+· | Specially selected components with specific parameters that yield proprietary results due to use in a particular configuration
+
+
+
+To date, our research and development activities have primarily been conducted on new product designs to the extent as requested by the customers. The cost of our research and development activities is incorporated into the unit selling prices and, as such, is borne directly by the customers. In addition to the research and development for our customers, we invest in research and development for new products on emerging technologies such as 5G/6G, cybersecurity, MMICs, IoT and wireless products for the future. For the years ending December 31, 2020 and 2019, the Company has incurred research and development costs of $61,953 and $56,507, respectively.
+ 
+
+6
+
+Industry and Competition
+ 
+Market Overview
+ 
+We operate our business in the industry of high-power Radio Frequency (RF) semiconductor. We believe that the RF semiconductor industry has the following features:
+ 
+High demand for complex, next-generation Wireless signal processing applications.
+ 
+
+· | Mass adoption of Internet and Web-based applications, and other high-band width applications 
+--+----------------------------------------------------------------------------------------------
+· | Ability to combine analog and digital signal processing into more integrated RF solutions 
+· | Widespread application of low-cost, high-performance and functionality wireless networks 
+· | Emergence of 5G/6G, WI-FI 6e, satellite and advanced wireless network infrastructure rollouts
+
+
+
+Growing opportunity for advanced RF subsystems, modules and components.
+ 
+
+· | Demand for precise, high-speed signal conditioning interfaces between analog and digital 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+· | Combining analog/digital signal processing capabilities into more highly integrated solutions 
+· | Widespread application of low-cost, high-performance wireless network systems 
+· | Convergence of computing, communications, and consumer electronics with state-of-the-art signal processing capability with less power consumption
+
+
+
+Complements OEM design, and manufacturing capabilities.
+ 
+
+· | Deliver high quality and feature improvements that service provider requires 
+--+---------------------------------------------------------------------------------------------
+· | Lower production costs and shorten product development cycles 
+· | Adhere to flexibility, performance, streamlined procurement processes and value requirements
+
+Current and Future Target Markets.
+ 
+
+· | High speed terrestrial and satellite terminals (SATCOM, “Internet in the Sky”) 
+--+--------------------------------------------------------------------------------------------------------
+· | 5G/Wi-Fi6E and 6G wireless infrastructure (Cellular Base Stations, Small Cells, Private Wi-Fi Networks)
+· | IoT (Internet of Things) 
+· | Cloud farms, big data and MEC architecture 
+· | Quantum supercomputers/Quantum research 
+· | Deep space astronomy 
+· | Autonomous self-driving vehicles 
+· | Telemedicine, AR/VR (Augmented and Virtual Reality) 
+· | Drones, UAVs (Unmanned aerial vehicles) 
+· | Cyber-security 
+· | Military/Defense ECM/EW 
+
+
+7
+
+Competition
+ 
+We face competition in the amplifier industry from many established players. Some of our competitors have longer operating histories and significantly greater financial, research and development, marketing and other resources than us. As a result, some of these competitors are able to devote greater resources to the development, promotion, sale and support of their products. These competitors may also have the ability to provide discounted pricing on their products to gain market share. In addition, consolidation in the amplifier industry could intensify the competitive pressures that we face. Many of our existing and potential competitors may be better positioned than we are to acquire other companies, technologies or products. We compete on the basis of technology, cost, and design flexibility. 
+ 
+Our ability to compete successfully depends on numerous factors, including our ability to:
+ 
+
+• | maintain and increase our market share and the strength of our brand in amplifiers;
+--+------------------------------------------------------------------------------------
+
+
+• | maintain and expand our relationships with channel partners;
+--+-------------------------------------------------------------
+
+
+• | secure products in large volume in a cost-effective and timely manner from our suppliers;
+--+------------------------------------------------------------------------------------------
+
+
+• | develop innovative, differentiated, high-performance products relative to our competitors’ solutions; and
+--+----------------------------------------------------------------------------------------------------------
+
+
+• | protect our intellectual property.
+--+-----------------------------------
+
+
+
+We cannot assure you that our solutions will compete favorably or that we will be successful in the face of increasing competition from new products and enhancements introduced by our existing competitors or new companies entering our market. In addition, we cannot assure you that our competitors do not have or will not develop processes or product designs that currently or in the future will enable them to produce competitive products at lower costs than ours. 
+ 
+Our Strategy
+ 
+Our objective is to become a premier designer, manufacturer and distributor of high quality and state-of-the-art cryogenic microwave amplifiers, RF designs and applications for Wireless Networks and the future of Wireless Communication. Key elements of our strategy include the following:
+
+· | Reorganization to have our shares traded on a national exchange to improve access to capital resources and a much broader customer base with higher volumes, as well as better access to large OEMs (Original Equipment Manufacturers)
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | New product development 
+· | Commercializing of existing core technology into specific high-volume technology sectors and obtaining patent on such technology 
+
+
+8
+
+Manufacturing
+ 
+Our manufacturing facilities are located at our corporate office in Bohemia, New York and in Ronkonkoma, New York. Our manufacturing process in Bohemia involves the assembly of numerous individual components and precise fine-tuning by production technicians. Our manufacturing facility is estimated to be capable of assembling up to 100 amplifiers per month. If we receive larger quantity orders that need to be fulfilled in a short time-frame, or in excess of our capacity at the main facility, we will outsource the assembly by sending kitted raw materials to a qualified contract assembly facility in the local Northeast.
+ 
+Our manufacturing process in Ronkonkoma is dedicated to the design, manufacturing and testing of passive microwave components, RF subsystems, specialized electronics and related products.
+ 
+We are currently certified to the ISO 9001:2015 standard. ISO 9001 is a uniform worldwide Quality Management System (QMS) standard.
+ 
+Suppliers
+ 
+Our material consists of purchased component parts used in our assembly process. The following table describes supplier concentration based upon the percentage of materials purchased from each supplier for 2020:
+
+Supplier A | $ | 133,240 | 14.14 | %
+----------------------------------------+---+---------+-------+--
+Supplier B | | 109,060 | 11.58 | %
+Supplier C | | 84,065 | 8.92 | %
+Supplier D | | 67,640 | 7.18 | %
+Supplier E | | 36,844 | 3.91 | %
+All other suppliers (approximately 100) | | 511,371 | 54.27 | %
+Total | $ | 942,220 | 100 | %
+
+Marketing
+ 
+We employ an aggressive and focused approach to market our products, at various venues including trade shows, strategic alliances, website and trade magazines. We target specific types of customers such as system integrators, defense contractors, cellular and wireless service providers but it should be noted that we are also focused on expanding our customer base to include users of consumer applications and products. In addition, during the COVID pandemic, we have increased our online and print ads as well as held virtual meetings and conferences. 
+ 
+We rely on our sales representatives and one distributor to channel our products throughout the Americas as well as to countries in Europe, the Middle East and South Asia.
+ 
+During the 4th quarter of 2016, we entered into an agreement appointing an exclusive distributor of our products in the U.S, Canada, Mexico and South America. 
+ 
+In February 2018, the Company entered into an advisory agreement with Sunbiz Holding Corp in order to promote market awareness in Asia and the Middle East. The advisory agreement has been extended for additional two years.
+ 
+
+9
+
+Trade Shows
+ 
+We attend trade shows such as MTTS (Microwave Theory and Techniques Show), IMS (International Microwave Symposium), EDIC (Electronic Design Innovation Conference) European Microwave Symposium, SATCON, MILCOM and the American Institute of Physics Exhibit (APS). We also sponsor some trade shows to gain recognition and presence.
+Strategic Alliances
+ 
+We explore opportunities with global OEMs (Original Equipment Manufacturers) by working strategic alliances and that improve sales and presence in the marketplace and expand our product line and capabilities, thereby broadening our customer base. Two such companies are Orban Microwave and MPT Corp. The two companies have expertise in the planar phased array and GPS antennas as well as the ability to design and manufacture subsystems incorporating our low noise amplifiers and other products. 
+Website
+ 
+We maintain a dynamic website to capture more business via worldwide customer searches for our products on the internet. Our website is available at www.amplitechinc.com.
+ 
+Trade Magazines
+ 
+We advertise our products in Microwave Product Digest.
+ 
+Customers
+ 
+We serve a diverse customer base located primarily in the United States, Europe and South Asia, in the aerospace, governmental defense, commercial satellite and wireless industries. Our customers include Viasat, L3 Harris Technologies, Raytheon, and Mercury Systems. As of December 31, 2020, there were no customers that accounted for more than 10% of our total revenue. We have both direct and indirect relationships with these customers domestically and abroad via exclusive and non-exclusive sales representatives and through our distributor.
+Government Regulation
+ 
+We are subject to the local, state and national laws and regulations of the jurisdictions where we operate that affect companies generally, including laws and regulations around commerce, intellectual property, trade, environmental, health and safety, commerce and contracts, privacy and communications, consumer protection, web services, tax, and state corporate laws and securities laws; and specifically those conducting business of electronics, many of which are still evolving and could be interpreted in ways that could harm our business. Existing and future laws and regulations may impede our growth. These regulations and laws may change over time. Unfavorable regulations and laws could diminish the demand for our products and services and increase our cost of doing business.
+
+10
+
+Intellectual Property
+ 
+We regard domain names, tradename, customer relationships, trade secrets, proprietary technologies and similar intellectual property important to our success. 
+ 
+We rely on contractual restrictions to protect our proprietary rights in products and services. It is our policy to enter into confidentiality and invention assignment agreements with our employees and contractors as well as nondisclosure agreements with our suppliers and strategic partners in order to limit access to and disclosure of our proprietary information. We cannot assure you that these contractual arrangements or the other steps taken by us to protect our intellectual property will prove enough to prevent misappropriation of our technology or to deter independent third-party development of similar technologies. We plan to use the information obtained from the IP story to file additional patents relating to our intellectual property and trade secrets. 
+Employees
+ 
+As of March 25, 2021, we have sixteen (16) full time employees. From time to time, we may hire additional workers on a contract basis as the need arises.

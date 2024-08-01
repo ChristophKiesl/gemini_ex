@@ -1,0 +1,327 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+OVERVIEW OF OUR BUSINESS
+ 
+Overview
+ 
+Innovation Pharmaceuticals Inc. is a clinical stage pharmaceutical company developing innovative therapies with anti-infective, oncology, anti-inflammatory and dermatology applications. The Company owns the rights to Brilacidin, our lead drug in a new class of compounds called defensin-mimetics, and Kevetrin (thioureidobutyronitrile), our anti-cancer compound.
+Recent Developments 
+ 
+Brilacidin is being studied by the Company, as well as other independent researchers, as a potential broad-spectrum antiviral therapeutic for the treatment of viruses including the novel coronavirus (SARS-CoV-2), which is responsible for COVID-19. 
+ 
+In December 2020, the U.S. Food and Drug Administration (FDA) approved the Company’s Investigational New Drug (IND) application to proceed with initiation of a randomized, placebo-controlled Phase 2 clinical trial of Brilacidin in moderate-to-severe hospitalized patients with COVID-19. Similar regulatory approval was obtained from the Russian Ministry of Health.
+ 
+In January 2021, the FDA designated as a Fast Track development program the investigation of Brilacidin for the treatment for COVID-19.
+ 
+In February 2021, the clinical trial of Brilacidin for treating hospitalized patients with COVID-19 in the United States and Russia began with patients being recruited to the study.
+ 
+On February 9, 2021, antiviral results demonstrating Brilacidin’s inhibition of SARS-CoV-2 in cell culture were published in the journal Viruses.
+ 
+In April 2021, the COVID-19 clinical trial’s independent Data Monitoring Committee (DMC) completed its scheduled review of interim safety data. Upon reaching 25 percent enrollment (30 subjects), recruitment was paused and a pre-specified unblinded safety data review and evaluation was conducted by the DMC. The DMC recommended increasing the dosing regimen of Brilacidin from 3 days to 5 days of treatment, as intended per the protocol, which the Company implemented. 
+ 
+In June 2021, 100 percent of the planned number of patients (n=120) were randomized in the study.
+ 
+In July 2021, new in vitro data supporting Brilacidin’s broad-spectrum antiviral potential were presented by George Mason University/National Center for Biodefense and Infectious Disease researchers at the American Society of Virology’s Annual Meeting. Brilacidin showed inhibition in multiple human cell lines and in different strains of alphaviruses and bunyaviruses, building on earlier antiviral work in coronaviruses.
+ 
+In July 2021, the independent DMC completed a second review of interim safety data from the Phase 2 clinical trial of Brilacidin in moderate-to-severe hospitalized patients with COVID-19. From their review, the DMC agreed to recommend the trial continue with no further modifications to the protocol.
+ 
+On July 30, 2021, the last subject’s final visit occurred in the Company’s COVID-19 clinical trial. 
+ 
+
+8
+
+ 
+On August 2, 2021, the Company provided an update on ongoing Brilacidin antiviral laboratory research being conducted by different groups of scientists. Their research includes insights into Brilacidin’s antiviral mechanisms of action as well as in vitro data supporting Brilacidin’s inhibition of the Alpha and Gamma variants and different strains of human coronaviruses.
+ 
+The Company has received individual patient Expanded Access (compassionate use) requests for Brilacidin to treat critically ill COVID-19 patients who are not responding to prior therapy. Expanded Access was implemented by the FDA and Congress to address physician applications for access to potentially lifesaving drugs, prior to FDA approval, for patients in their care when available treatment options have failed. Following receipt of such requests, the Company has supplied Brilacidin to relevant hospitals for individual patient use, with the FDA granting the treating physician permission for the emergency administration of Brilacidin.
+ 
+The study results as of the date of this Form 10-K remain blinded. The Company and vendors are currently engaged in the process of completing the necessary tasks for the unblinding of the Brilacidin COVID-19 clinical trial and obtaining study results.
+ 
+Business Development and Licensing 
+ 
+The Company is actively engaged in business development and licensing initiatives with multiple specialty and global pharmaceutical companies. From time to time, the Company may be party to various indications of interest and term sheets and participate in preliminary discussions and negotiations regarding potential licensing or partnership arrangements. It remains the Company’s primary objective to complete licensing deals, territorial and/or global, to provide access to non-dilutive capital to advance clinical assets forward in the most expeditious and cost-effective manner. The Company can make no assurance that partnerships will occur, but is committed toward executing on these potential alliance and partnership opportunities.
+ 
+In July 2019, the Company entered into a license agreement with Alfasigma S.p.A. (“Alfasigma”), granting Alfasigma the worldwide right to develop, manufacture and commercialize rectally administered Brilacidin for ulcerative proctitis/ulcerative proctosigmoiditis (“UP/UPS”). The license agreement provides Alfasigma with a right of first refusal for Brilacidin for the treatment of more extensive forms of inflammatory bowel disease (IBD), such as ulcerative colitis and Crohn’s disease, as well as a right of first negotiation for Brilacidin in other gastrointestinal indications. In January 2021, Alfasigma notified the Company that the Phase 1 study for the treatment of UP/UPS using Brilacidin in a proprietary Alfasigma formulation successfully completed dosing per protocol; an extra treatment cohort was subsequently added by amendment and commenced in 2Q 2021. In April 2021, the Company was notified that a Phase 2 multinational clinical trial for UP/UPS is planned to commence during the fourth quarter of 2021, and Alfasigma has ordered Brilacidin drug substance from the Company for use in this study. Due to a delay at the manufacturing vendor, delivery of drug substance to Alfasigma has moved out (mid 4Q2021), and the subsequent drug product manufacturing time will likely push any clinical trial start into 2022. The Company is eligible to receive $24 million in upfront and milestone payments, and a 6 percent royalty (net sales) upon the successful marketing of Brilacidin for UP/UPS. 
+ 
+On July 22, 2020, the Company and Fox Chase Chemical Diversity Center, Inc. (“FCCDC”) amended an earlier collaborative research agreement related to antifungal drug discovery work to which the Company had rights. In exchange for a six (6) percent fee tied to all potential future proceeds, the Company granted FCCDC all discovery, intellectual property and commercialization rights related to its share of their joint antifungal drug program.
+ 
+
+9
+
+Active Clinical Development Programs
+ 
+
+Compound | Target/Indication | Clinical Status 
+-----------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Brilacidin | Oral Mucositis (OM) | Phase 2 Study (completed) Phase 3 in preparation 
+ | Inflammatory Bowel Disease (IBD) | Phase 2 UP/UPS Proof of Concept Study (completed) Phase 1 Safety/toleration/PK of oral dosage form (completed) Phase 2 UC Safety/toleration/PK and Proof of Concept in preparation
+ | ABSSSI (Acute Bacterial Skin and Skin Structure Infection) | Phase 2 (completed) 
+ | COVID-19 | Phase 2 Study 
+Kevetrin | Ovarian Cancer | Phase 2 Study (completed) 
+
+ 
+We have no product sales to date and we will not receive any product revenue until we receive approval from the FDA or equivalent foreign regulatory agencies to begin marketing a pharmaceutical product. Milestone payments from our licensee are also dependent on clinical/regulatory milestones. We are actively engaged in business development for partnering our drugs. Developing pharmaceutical products, however, is a lengthy and very expensive process and there can be no assurance that we will complete such development or commercialize such pharmaceutical products for several years, if ever.
+ 
+The Company devotes most of its efforts and resources on Brilacidin, which is in clinical development. We anticipate using our expertise to manage and perform what we believe are the most critical aspects of the product development process, which include: (i) design and oversight of clinical trials; (ii) development and execution of strategies for the protection and maintenance of intellectual property rights; and (iii) interactions with regulatory authorities, domestically and internationally. We expect to concentrate on product development and engage in a limited way in product discovery, avoiding the significant investment of time and financial resources that is generally required for a promising compound to be identified and brought into clinical trials.
+ 
+Set forth below is an overview of our most recent research and development efforts on Brilacidin and Kevetrin through the date of this Annual Report on Form 10-K:
+ 
+Brilacidin
+ 
+COVID-19 — Due to the global COVID-19 pandemic, the Company was approached by a number of organizations to research Brilacidin against the novel coronavirus (COVID-19). Material Transfer Agreements were signed with two academic institutions that operate Biosafety Level 3 Laboratories (BSL-3). Brilacidin drug substance (Brilacidin tetrahydrochloride) was provided for antiviral research.
+ 
+The research data demonstrated that Brilacidin exerts potent inhibition of SARS-CoV-2 and thus supported Brilacidin as a promising COVID-19 drug candidate for clinical studies. Also of note, Brilacidin in these research studies demonstrated excellent synergistic antiviral activity when combined with Remdesivir, a broad-spectrum antiviral medication.
+ 
+Research Highlights: 
+ 
+
+☐ | Brilacidin potently inhibits SARS-CoV-2 in an ACE2 positive human lung cell line. 
+--+---------------------------------------------------------------------------------------
+☐ | Brilacidin achieved a high Selectivity Index of 426 (CC50=241μM/IC50=0.565μM). 
+☐ | Brilacidin’s main mechanism appears to disrupt viral integrity and impact viral entry.
+☐ | Brilacidin and remdesivir exhibit excellent synergistic activity against SARS-CoV-2. 
+
+
+10
+
+ 
+In a broader context, demonstration of Brilacidin’s direct antiviral activity against the SARS-CoV-2 virus supports the drug’s unique 3-in-1 therapeutic potential—antiviral, anti-inflammatory, antimicrobial—to treat COVID-19 and its associated complications.
+ 
+A Phase 2 clinical trial of intravenously-administered Brilacidin for COVID-19 has achieved full enrollment (n=120) in sites in the United States and Russa. The Company is now preparing for study unblinding, statistical analysis and reporting of data. The study is a randomized, double-blind, placebo-controlled, multi-center study to evaluate the efficacy and safety of Brilacidin in COVID-19 hospitalized patients. The trial’s primary endpoint is time to sustained recovery through Day 29, using a clinical status ordinal scale based on that used in the series of National Institute of Allergy and Infectious Diseases (NIAID) Adaptive COVID-19 Treatment Trials (ACTTs). Additional endpoints include: in-hospital outcomes (e.g., duration of hospitalization, time to discharge), all-cause mortality, measurement of disease biomarkers (e.g., CRP, ferritin) and inflammation-related biomarkers (e.g., IL-1β, IL-6, IL-10, total IL-18, TNF-α), changes to SARS-CoV-2 viral load, as well as other key measures.
+ 
+In April 2021, the clinical trial’s independent DMC completed its scheduled review of interim safety data. Upon reaching 25 percent enrollment (30 subjects), recruitment was paused and a pre-specified unblinded safety data review and evaluation was conducted by the DMC. The DMC recommended increasing the dosing regimen of Brilacidin from 3 days to 5 days of treatment, as intended per the protocol, which the Company implemented. In July 2021, the independent DMC completed a second review of interim safety data; based on their review, the DMC agreed to recommend the trial continue with no further modifications to the protocol.
+ 
+The Company is collaborating with a Regional Biocontainment Laboratory researcher investigating further research opportunities with Brilacidin as a treatment for the SARS-CoV-2 virus, other Human Coronaviruses (H-CoVs), and other types of viruses. Further, grant applications for federally-funded research are pending, and further grant applications are planned. 
+ 
+IBD, Ulcerative Proctitis/Proctosigmoiditis (UP/UPS) study —A Phase 2a trial has previously been completed by the Company, comprised of three sequential cohorts, with progressive dose escalation by cohort—cohort A (6 patients) - 50 mg, cohort B (6 patients) - 100 mg, and cohort C (5 patients) - 200 mg, respectively. Treatment with Brilacidin by daily enema administration was performed for 42 days. The primary efficacy endpoint of clinical remission (accounting for stool frequency, rectal bleeding and endoscopy findings subscores) was met by the majority of patients across the cohorts. Brilacidin was generally well-tolerated. Patient quality of life (as assessed by the short inflammatory bowel disease questionnaire, or SIBDQ) showed notable improvements. Limited systemic exposure to Brilacidin was demonstrated as measured by plasma Brilacidin concentrations. In July 2019, the Company entered into a license agreement with Alfasigma, granting Alfasigma the worldwide right to develop, manufacture and commercialize rectally administered Brilacidin for UP/UPS. In January 2021, Alfasigma notified the Company that the Phase 1 study for the treatment of UP/UPS using Brilacidin in a proprietary Alfasigma formulation successfully completed dosing per protocol; an extra treatment cohort was subsequently added by amendment and commenced in 2Q 2021. In April 2021, the Company was notified that a Phase 2 multinational clinical trial for UP/UPS is planned to commence 4Q 2021, and Alfasigma has ordered Brilacidin from the Company for use in this study. Due to a delay at the manufacturing vendor, delivery of drug substance to Alfasigma has moved out (mid 4Q2021), and the subsequent drug product manufacturing time will likely push any clinical trial start into 2022.
+ 
+
+11
+
+See Note 7. Exclusive License Agreement of the Notes to Consolidated Financial Statements included in Part II, Item 8 in this Annual Report on Form 10-K.
+ 
+IBD, Ulcerative Colitis (UC) — Brilacidin is also being developed as a treatment in more extensive forms of IBD. 
+ 
+Development of a delayed release oral formulation has been in progress, with development work expanding into immediate release formulations due to unexpected findings encountered. Such findings appear due to the inherent physiochemical properties of the compound, and those of polymers used to achieve delayed release. An immediate release, multi-particulate capsule formulation has been developed and a ‘research and development’ batch has progressed to stability testing at the manufacturing vendor. Further work is ongoing, in preparation for manufacture of clinical trial supplies. 
+ 
+Based on these recent findings, the development plan for ulcerative colitis has been adapted with inclusion of Phase 1 testing of the immediate release oral formulation. Clinical trials will be able to progress pending completion of clinical trial supply manufacturing (currently scheduled for January 2022) and securing sufficient working capital. 
+ 
+Oral Mucositis (OM) study — In a randomized, double-blind Phase 2 study of Brilacidin for the prevention and control of OM in patients receiving chemoradiation for treatment of Head and Neck Cancer (HNC), Brilacidin markedly reduced the rate of severe OM (WHO Grade ≥ 3), delayed onset of severe OM and decreased duration of severe OM. The Company made available on its website a comparative data table (based on public information) showing Brilacidin compares favorably to other compounds in development for preventing and treating severe OM. The Company and the FDA have completed an End-of-Phase 2 meeting concerning the continuing development of Brilacidin oral rinse to decrease the incidence of severe OM in HNC patients receiving chemoradiation. Both parties agreed to an acceptable Brilacidin Phase 3 development pathway, including studying Brilacidin oral rinse effects on severe OM when cisplatin, the preferred chemotherapy regimen in HNC care, is administered in higher concentrations (80-100 mg/m2) every 21 days, and at lower concentrations (30-40 mg/m2) administered weekly as part of the chemoradiation regimen.
+ 
+Development of an optimized oral rinse formulation is in progress, with potential to progress to Phase 3 clinical trials in 2022, pending completion of drug formulation work and securing sufficient drug supply and working capital.
+ 
+ABSSSI — In February 2016, the Company submitted a Special Protocol Assessment (SPA) request, along with a final protocol, to the FDA, for a Phase 3 clinical trial of Brilacidin for the treatment of Acute Bacterial Skin and Skin Structure Infection (ABSSSI) caused by gram-positive bacteria, including methicillin-resistant Staphylococcus aureus (MRSA). We received from the FDA comments and considerations for incorporation into our study design. Management decided to delay its response to the FDA due to the low price per share of our common stock and the many multiple million dollar costs associated with a Phase 3 program. Our strategy, for now, is to achieve success with other trials and attract partnering opportunities that may provide significant upfront payments and milestone payments, which can then be used to fund the ABSSSI program. We see ABSSSI as the appropriate gateway indication in infectious diseases, enabling potential further studies of Brilacidin’s use for implant coating and biofilm infections. 
+ 
+Expenditures on Brilacidin were approximately $5.0 million and $1.2 million during the years ended June 30, 2021 and 2020, respectively.
+ 
+
+12
+
+ 
+For Brilacidin overall, we see significant potential in treatment of COVID-19 (by the IV route), and in treatment of Oral Mucositis (by oral rinse) and IBD (by oral capsule or tablet). The available clinical data also suggest that other inflammatory conditions including various dermatology disorders and conditions may, likewise, be treated locally and efficaciously with Brilacidin.
+ 
+Kevetrin
+ 
+The Company has completed a Phase 2a trial of Kevetrin in treating late-stage ovarian cancer. The main objective of the trial focused on confirming the modulation by Kevetrin of p53 pathways in tumors, as well as monitoring the response of tumors to the treatment. The study was successful in demonstrating modulation of p53 directly in ovarian cancer tumor tissue in patients. Pharmacokinetic data collected on Kevetrin during the Phase 1 clinical trial demonstrated that the compound has a short half-life of approximately two hours. This short half-life makes it a compelling candidate for an oral drug delivery treatment for the main purpose of allowing simple daily, or multiple-times daily administrations within or outside the hospital setting. Compared to injectable or intravenous treatments, oral therapy is the preferred drug delivery method of patients. Preliminary laboratory studies are encouraging and support the potential of developing an oral formulation, but there are no assurances made or implied that the Company will be successful in completing development of an oral formulation. Toxicology studies for the oral formulation of Kevetrin are approximately half completed, with the remainder of this work to be completed when the Company secures additional financial resources. Presently we are focusing our resources on Brilacidin, our other lead candidate. 
+ 
+Expenditures on Kevetrin were insignificant during the years ended June 30, 2021 and 2020.
+ 
+We have no product sales to date and we will not receive any product revenue until we receive approval from the FDA or equivalent foreign regulatory agencies to begin marketing a pharmaceutical product. Developing pharmaceutical products, however, is a lengthy and very expensive process and there can be no assurance that we will complete such development or commercialize such for several years, if ever.
+ 
+INTELLECTUAL PROPERTY 
+ 
+Patents
+ 
+Set forth below is a description of our patents owned and co-owned, including the current status and jurisdictions in which a patent has been issued or a patent application has been filed.
+Categories:
+ 
+
+1. | Brilacidin, and related compounds 
+---+-------------------------------------------------------------------
+2. | Arylamide and Salicylamide compounds 
+3. | Anti-microbial compounds (including anti- Gram negative compounds)
+4. | Kevetrin and related compounds 
+
+
+13
+
+
+Patent Title | Status | Description 
+----------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Arylamide Compounds And Compositions And Uses Thereof | United States: issued 11/24/15 and 01/01/19; Europe: issued 03/04/15; Japan: issued 05/15/15; Australia: issued 11/28/13; China: issued 10/01/14; Canada: issued 8/9/16; India: issued 10/23/17 Pending: United States (Other claims) Patents Expire: 2027 | Category 1 Brilacidin compound, compositions, and methods of treating bacterial ophthalmic infections 
+Synthetic Mimetics Of Host Defense And Uses Thereof | United States: issued 10/02/12; Taiwan: issued 04/01/15 Patents Expire: 2029 and 2030 | Category 1 Brilacidin enantiomer, compositions and formulations, and methods of preparation of enantiomer; Methods of preparation of Brilacidin 
+Host Defense Protein (HDP) Mimetics For Prophylaxis And/Or Treatment Of Inflammatory Diseases of the Gastrointestinal Tract | Pending – United States, Patent Cooperation Treaty (PCT) – National phase entered in Australia. Europe and Japan– Granted Patents Expire: 2036 | Category 1 Treatment Of Inflammatory Diseases of the Gastrointestinal Tract 
+Compounds For Use In Treatment Of Mucositis | United States: issued 08/12/14, 10/13/15, 10/4/16, 10/24/17, 02/19/19, and 3/31/20; Europe: issued 10/11/17; Japan: issued 11/06/15; Taiwan: issued 2/11/16; China: issued 04/20/16; Australia: issued 10/6/16; Israel: issued 7/31/18; South Korea: issued 8/14/19; Canada: issued 6/16/20. Pending: Russia, Patents Expire: 2032 | Category 1 Methods of treating mucositis with Brilacidin and related compounds, and compositions of Brilacidin and palifermin 
+
+
+14
+
+
+Cyclic Compounds And Methods Of Making And Using The Same | United States: issued 10/18/16 Patent Expires: 2032 | Category 3 Cyclic compounds, compositions, methods of inhibiting the growth of a bacteria, and method of treating a mammal having a bacterial infection 
+------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Facially Amphiphilic Polymers As Anti-infective Agents | United States: issued 02/06/07; 11/18/14 Latest Patent Expires: 2028 | Category 1 & 3 - Brilacidin and related compounds; anti-microbial surfactants and related compounds 
+Facially Amphiphilic Polyaryl And Polyarylalkynyl Polymers And Oligomers And Uses Thereof | United States: issued 07/17/12; 05/06/14 Latest Patent Expires: United States (2028) | Category 1 & 3 
+Facially Amphiphilic Polymers And Oligomers And Uses Thereof | United States: issued 08/07/12; 06/04/13; 01/26/16 Australia: issued 9/22/16 Canada: issued 05/20/14 India: issued 11/10/16 Japan: issued 03/11/16 South Korea: issued 03/04/13 Taiwan: issued 05/21/15 Latest Patent Expires: foreign (2024); United States (2027) | Category 1 & 2 
+Nitrile Derivatives and their Pharmaceutical Use and Compositions | United States patent issued 12/25/2012 United States patent issued 5/17/16 United States patent issued 4/4/17 Patent Cooperation Treaty (PCT) - filed National Phase entered Other patents allowed or issued: Canada, Europe, Eurasian Patent Convention granted for Russia, Israel, Japan, Korea (2 divisional applications), Mexico Other Applications filed arising from PCT: Australia, India, South Korea, Singapore, Thailand Other applications filed independent of PCT: Argentina, Venezuela Patents expire: 2030 | Category 4 - Kevetrin and related compounds 
+
+ 
+In 2021, the Company filed a non-provisional patent application with the U.S. Patent and Trademark Office in support of Brilacidin’s use as an antiviral treatment including the SARS-CoV-2 virus.
+ 
+We rely on a combination of patents and trade secrets, as well as confidentiality and non-use agreements to protect our intellectual property. Our patent strategy is designed to facilitate commercialization of our current and future product candidates, and create barriers to entry.
+ 
+Payments Related to Assignment of Compounds
+ 
+The Company acquired all rights, title, and interest to Kevetrin from Dr. Krishna Menon, a former director and executive officer of the Company. The Company previously had similar rights to seven other pharmaceutical compounds, KM 277, KM 278, KM 362, KM 3174, KM 732, and KM-391, but the Company abandoned the rights to those compounds. The Company has agreed to pay the assignors 5% of net sales of Kevetrin in countries where composition of matter patents have been issued, divided 2% to Dr. Menon, 2% to an unaffiliated third party, and 1% to Leo Ehrlich, our CEO, and 3% of net sales in other countries. 
+
+15
+
+ 
+In September 2013, the Company acquired substantially all of the assets of Polymedix Inc, and Polymedix Pharmaceuticals, Inc. (together, “Polymedix”), including Polymedix’s rights to Brilacidin under a patent license agreement with the Trustees of the University of Pennsylvania (“Penn”). Under the terms of the patent license agreement, the Company will pay to Penn a royalty on gross sales of the compounds licensed thereunder ranging from 0.5% to 3.0%, plus certain other payments as provided therein. In addition, the Company will pay Penn 10% of all consideration received from sublicensees.
+ 
+MANUFACTURING 
+ 
+The Company does not intend to establish manufacturing capabilities or facilities to produce its drug product candidates (compounds) in the near or mid-term. The Company believes it can contract or partner with third parties for the manufacturing of its investigational compounds at sites registered with the FDA and contract with third-party scientists for pharmaco-kinetic, pharmaco-dynamic and toxicology studies. Such studies generally must be completed prior to filing an investigational new drug (IND) application with the FDA, and an IND is necessary to begin the human safety and efficacy trials of its compounds (Phase 1, 2 and 3). 
+GOVERNMENT REGULATION 
+ 
+Our operations and activities are subject to extensive regulation by numerous government authorities in the United States and other countries. In the United States, drugs are subject to rigorous regulation by the FDA. The Federal Food, Drug, and Cosmetic Act (FDCA) and other federal and state statutes and regulations govern the testing, development, manufacture, quality control, distribution, safety, effectiveness, labeling, storage, record keeping, reporting, approval, advertising and promotion, and import and export of our investigational products. Failure to comply with FDA requirements may result in enforcement action, including warning letters, fines, civil or criminal penalties, suspension or delays in clinical development, recall or seizure of products, partial or total suspension of production or withdrawal of a product from the market. Although the discussion below focuses on regulation in the United States, which is our primary initial focus, we anticipate seeking approval to market our products in other countries. Generally, our activities in other countries will be subject to regulation that is similar in nature and scope as that imposed in the U.S., although there can be important differences. 
+Development and Approval
+ 
+Product development and the product approval process are very expensive and time consuming, and we cannot be certain that the FDA will grant approval for any of our drug product candidates on a timely basis, if at all. Under the FDCA, the FDA must approve any new drug before it can be sold in the United States. The general process for obtaining FDA approval of a drug is as follows: 
+Preclinical Testing 
+ 
+Before we can test a drug candidate in humans, we must develop extensive preclinical data, generally derived from laboratory evaluations of product chemistry and formulation, as well as toxicological and pharmacological studies in animals, to generate data to support the drug’s quality and potential safety and benefits. Certain animal studies must be performed in compliance with the FDA’s Good Laboratory Practice, or GLP, regulations and the U.S. Department of Agriculture’s Animal Welfare Act. Presently we have Brilacidin in antiviral studies testing against SARS-CoV-2.
+ 
+We submit this preclinical data and other information to the FDA in an IND. Human clinical trials cannot commence until an IND application is submitted and becomes effective. Based on the data and information contained in the IND, the FDA must determine whether there is an adequate basis for testing the drug candidate in initial clinical studies in human volunteers. Unless the FDA raises concerns, the IND becomes effective 30 days following its receipt by the FDA.
+ 
+
+16
+
+Clinical Trials 
+ 
+Once the IND goes into effect, we study an investigational drug in human clinical trials to determine if the drug is safe and effective for a particular use. Clinical trials involve the administration of the drug to healthy human volunteers or to patients under the supervision of a qualified investigator. The conduct of clinical trials is subject to extensive regulation, including compliance with the FDA’s bioresearch monitoring regulations and Good Clinical Practice, or GCP, requirements, which establish standards for conducting, recording data from, and reporting the results of clinical trials, and are intended to assure that the data and reported results are credible and accurate, and that the rights, safety, and well-being of study participants are protected. Clinical trials must be conducted under protocols that detail the study objectives, parameters for monitoring safety, and the efficacy criteria, if any, to be evaluated. FDA reviews each protocol that is submitted to the IND. In addition, each clinical trial must be reviewed and approved by, and conducted under the auspices of, an Institutional Review Board, or IRB, for each institution conducting the clinical trial. Companies sponsoring the clinical trials, investigators, and IRBs also must comply with regulations and guidelines for obtaining informed consent from the study subjects, complying with the protocol and investigational plan, adequately monitoring the clinical trial, and timely reporting adverse events. Foreign studies conducted under an IND must meet the same requirements that apply to studies being conducted in the U.S. Data from a foreign study not conducted under an IND may be submitted in support of an NDA if the study was conducted in accordance with GCP and, if necessary, the FDA is able to validate the data through an on-site inspection, if the agency deems such inspection necessary.
+ 
+In general, clinical trials involve three separate phases that often overlap, can take many years to complete, and are very expensive. These three phases are as follows: 
+ 
+Phase 1. The investigational drug is given to a small number of human subjects to test for safety, dose tolerance, pharmacokinetics, metabolism, distribution and excretion. In most disease states Phase 1 studies are performed in healthy volunteers. In cancer, Phase 1 studies generally are performed in cancer patients.
+ 
+Phase 2. The investigational drug is given to a limited patient population to determine the initial effect of the drug in treating the disease, the best dose of the drug, and the possible side effects and safety risks of the drug. Phase 2 trials typically are controlled studies. 
+ 
+Phase 3. If Phase 2 clinical trials of a compound yield promising data regarding safety and effectiveness, the compound may be advanced to Phase 3 clinical trials to confirm those results. Phase 3 clinical trials typically are long-term, involve a significantly larger population of patients, are conducted at numerous sites in different geographic regions, and are carefully designed to provide reliable and conclusive data regarding the safety and benefits of a drug and to form the basis for labeling. It is not uncommon for a drug that appears promising in Phase 2 clinical trials to fail in the more rigorous and reliable Phase 3 clinical trials. 
+ 
+At any point in this process, the development of a drug could be stopped for a number of reasons, including safety concerns and lack of treatment benefit. We cannot be certain that any clinical trials that we are currently conducting, or any that we conduct in the future, will be completed successfully or within any specified time period. We may choose, or the FDA or an IRB may require us, to delay or suspend our clinical trials at any time if, for example, it appears that the patients are being exposed to an unacceptable health risk or if the drug candidate does not appear to have sufficient treatment benefit. Success in early-stage clinical trials does not assure success in later-stage clinical trials, and data obtained from clinical activities are not always conclusive and may be subject to alternative interpretations that could delay, limit or prevent further development and regulatory approval.
+ 
+
+17
+
+FDA Approval Process 
+ 
+If we believe that the data from the Phase 3 clinical trials show an adequate level of safety and effectiveness, we will file a new drug application (NDA) with the FDA seeking approval to sell the drug for a particular use. When an NDA is submitted, the FDA conducts a preliminary review to determine whether the application is sufficiently complete to be accepted for filing. If it is not, the FDA may refuse to file the application and request additional information, in which case the application must be resubmitted with the supplemental information, and review of the application is delayed. 
+ 
+Upon accepting the NDA for filing, the FDA will review the NDA and may hold a public hearing where an independent advisory committee of expert advisors considers key questions regarding the drug. This advisory committee makes a recommendation to the FDA, which is not binding on the FDA, but is generally followed. 
+ 
+Under the Pediatric Research Equity Act, certain applications for approval must include an assessment, generally based on clinical study data, of the safety and effectiveness of the subject drug in relevant pediatric populations. The FDA may waive or defer the requirement for a pediatric assessment, either at the company’s request or by the agency’s initiative. The FDA may determine that a Risk Evaluation and Mitigation Strategy, or REMS, is necessary to ensure that the benefits of a new product outweigh its risks. A REMS may include various elements, ranging from a medication guide or patient package insert to limitations on who may prescribe or dispense the drug, depending on what the FDA considers necessary for the safe use of the drug.
+ 
+Before approving an NDA, the FDA will inspect the facilities at which the product will be manufactured. The FDA will not approve the product unless it determines that the manufacturing processes and facilities for the drug, including those of companies who manufacture our drugs for us and including foreign establishments that may manufacture the product for sale in the U.S., comply with cGMP requirements (described below) and are adequate to assure consistent production of the product within required specifications.
+ 
+If the FDA concludes that an NDA does not meet the regulatory standards for approval, the FDA typically issues a Complete Response letter communicating the agency’s decision not to approve the application and outlining the deficiencies in the submission. The Complete Response letter also may request further information, including additional preclinical or clinical data or improvements to manufacturing processes, procedures, or facilities. Even if such additional information and data are submitted, the FDA may decide that the NDA still does not meet the standards for approval.
+ 
+The FDA may reject an application because, among other reasons, it believes that the drug is not safe enough, or effective enough, or because it does not believe that the data submitted are reliable or conclusive. FDA may interpret data differently than the sponsor. Obtaining regulatory approval often takes a number of years, involves the expenditure of substantial resources, and depends on a number of factors, including the nature of the disease or condition the drug is intended to address, the availability of alternative treatments, and the risks and benefits demonstrated in clinical trials.
+ 
+If the FDA agrees that the compound has met the required level of safety and effectiveness for a particular use, it will approve the NDA, allowing the Company to sell the drug in the United States for that use. As a condition of approval, the FDA may impose restrictions that could affect the commercial success of a drug. For example, the FDA could require post-approval commitments, including completion within a specified time period of additional clinical studies, which often are referred to as “Phase 4” or “post-marketing” studies. The FDA also may limit the scope of the approved uses of the drug. Certain post-approval modifications to the drug product, such as changes in indications, labeling, or manufacturing processes or facilities, may require a sponsor to develop additional data or conduct additional preclinical or clinical trials, to be submitted in a new or supplemental NDA, which would require FDA approval.
+ 
+
+18
+
+ 
+Should our products be approved for marketing, we would also be subject to various other state and federal laws concerning the marketing and cost reimbursement of our products.
+ 
+Major jurisdictions outside the United States, such as the European Union, Japan and Canada, have similarly rigorous regulatory processes. They may also require studies not required by the FDA, which can add to the cost and risk of development. Products approved by the FDA might not be approved in these other countries. After review by the health authorities, pricing and cost reimbursement are also subject to separate approvals in many of these countries. 
+ 
+Post-Approval Regulation
+ 
+Even if regulatory approval is granted, a marketed drug product is subject to continuing comprehensive requirements under federal, state and foreign laws and regulations, including requirements and restrictions regarding adverse event reporting, recordkeeping, marketing, and compliance with current good manufacturing practices (cGMP). Adverse events reported after approval of a drug can result in additional restrictions on the use of a drug or requirements for additional post-marketing studies or clinical trials. The FDA or similar agencies in other countries may also require labeling changes to products at any time based on new safety information. If ongoing regulatory requirements are not met or if safety problems occur after the product reaches the market, the FDA or similar agencies in other countries may at any time withdraw product approval or take actions that would suspend marketing or approval.
+ 
+Good Manufacturing Practices. Companies engaged in manufacturing drug products or their components must comply with applicable cGMP requirements and product-specific regulations enforced by the FDA and other regulatory agencies. If, after approval, a company makes a material change in manufacturing equipment, location, or process (all of which are, to some degree, incorporated in the NDA), additional regulatory review and approval may be required. The FDA also conducts regular, periodic visits to re-inspect equipment, facilities, and processes following the initial approval of a product. Failure to comply with applicable cGMP requirements and conditions of product approval may lead the FDA to seek sanctions, including fines, civil penalties, injunctions, suspension of manufacturing operations, operating restrictions, withdrawal of FDA approval, seizure or recall of products, and criminal prosecution.
+Advertising and Promotion. The FDA and other federal regulatory agencies closely regulate the marketing and promotion of drugs through, among other things, standards and regulations for advertising, promotion to physicians and patients, communications regarding unapproved uses, and industry-sponsored scientific and educational activities. Failure to comply with applicable FDA requirements and other restrictions in this area may subject a company to adverse publicity and enforcement action by the FDA, the Department of Justice, the Office of the Inspector General of the Department of Health and Human Services, and state authorities, as well as civil and criminal fines and agreements that may materially restrict the manner in which a company promotes or distributes drug products.
+Other Requirements. In addition, companies that manufacture or distribute drug products or that hold approved NDAs must comply with other regulatory requirements, including submitting annual reports, reporting information about adverse drug experiences, submitting establishment registrations and drug listings, and maintaining certain records.
+
+19
+
+Orphan Drug Exclusivity
+ 
+The Orphan Drug Act established incentives for the development of drugs intended to treat rare diseases or conditions, which generally are diseases or conditions affecting less than 200,000 individuals in the U.S. at the time of the request for orphan designation. If a sponsor demonstrates that a drug is intended to treat a rare disease or condition and meets other applicable requirements, the FDA grants orphan drug designation to the product for that use. In November 2014, the FDA granted orphan drug designation to Kevetrin for use in the treatment of ovarian cancer. The benefits of orphan drug designation include tax credits for clinical testing expenses and exemption from user fees. A drug candidate that is approved for the orphan drug designated use typically is granted seven years of orphan drug exclusivity. During that period, the FDA generally may not approve any other application for the same product for the same indication, although there are exceptions, most notably when the later product is shown to be clinically superior to the product with exclusivity.
+Pediatric Exclusivity
+ 
+Section 505A of the FDCA provides for six months of additional exclusivity if an NDA sponsor submits pediatric data that fairly respond to a written request from the FDA for such data. The data do not need to show the product to be safe and effective in the pediatric population studied; rather, if the clinical trial is deemed to fairly respond to the FDA’s request, the additional protection is granted. If reports of requested pediatric studies are submitted to and accepted by the FDA within the statutory time limits, whatever statutory or regulatory periods of exclusivity or Orange Book listed patent protection that cover the drug are extended by six months.
+Qualified Infectious Disease Product Exclusivity
+ 
+The Generating Antibiotic Incentives Now (GAIN) Act amended the FDCA to encourage pharmaceutical companies to develop new antimicrobial drugs to treat serious and life-threatening infections. Among other measures, GAIN grants an additional five years of marketing exclusivity for new antibacterial or antifungal human drugs designated under the law as a “qualified infectious disease product” (QIDP). This five-year period of exclusivity is in addition to any existing regulatory exclusivity, including Hatch-Waxman, orphan drug, or pediatric exclusivity. In addition, QIDPs are eligible for fast-track designation and priority review to facilitate expedited development and review processes with the FDA. Our investigational drug Brilacidin has been granted QIDP designation as a potential new treatment for ABSSSI.
+Fast Track Designation and Priority Review
+ 
+Certain of our product candidates, such as Brilacidin for the indications of SARS-CoV-2 and Oral Mucositis, and Kevetrin for the indication of ovarian cancer, have been awarded Fast Track designation. The Fast Track program is intended to expedite or facilitate the process for reviewing new drugs that demonstrate the potential to address unmet medical needs involving serious or life-threatening diseases or conditions. If a drug receives Fast Track designation, the FDA may consider reviewing sections of the NDA on a rolling basis, rather than requiring the entire application to be submitted to begin the review. Products with Fast Track designation also may be eligible for more frequent meetings and correspondence with the FDA about the product’s development. 
+ 
+Certain of our product candidates, such as Brilacidin, also may qualify for priority review. Priority review is available to a drug that treats a serious condition and that, if approved, would provide a significant improvement in safety or effectiveness. Priority review designation provides for a six-month review goal for an NDA, rather than the standard 10-month review timeframe.
+ 
+
+20
+
+ 
+Other FDA programs intended to expedite development and review include accelerated approval, which allows the FDA to approve a drug on the basis of a surrogate endpoint that is reasonably likely to predict clinical benefit, and Breakthrough Therapy designation, which is intended to expedite the development and review of drugs for serious or life-threatening conditions and where preliminary clinical evidence shows that the drug may have substantial improvement on at least one clinically significant endpoint over available therapy.
+ 
+Even if a product qualifies for Fast Track designation or Breakthrough Therapy designation, the FDA may later decide that the product no longer meets the conditions for qualification and may rescind the designation. Moreover, none of these programs assures ultimate approval of an investigational product. FDA may determine that the product does not meet the standards for approval. 
+ 
+Expanded Access
+ 
+Sometimes called “compassionate use”, expanded access is a potential pathway for a patient with an immediately life-threatening condition or serious disease or condition to gain access to an investigational medical product (drug, biologic, or medical device) for treatment outside of clinical trials when no comparable or satisfactory alternative therapy options are available. 
+ 
+Expanded access may be appropriate when all the following apply:
+ 
+
+· | Patient has a serious disease or condition, or whose life is immediately threatened by their disease or condition. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | There is no comparable or satisfactory alternative therapy to diagnose, monitor, or treat the disease or condition. 
+· | Patient enrollment in a clinical trial is not possible. 
+· | Potential patient benefit justifies the potential risks of treatment. 
+· | Providing the investigational medical product will not interfere with investigational trials that could support a medical product’s development or marketing approval for the treatment indication.
+
+ 
+Investigational drugs, biologics or medical devices have not yet been approved or cleared by FDA and FDA has not found these products to be safe and effective for their specific use. Furthermore, the investigational medical product may, or may not, be effective in the treatment of the condition, and use of the product may cause unexpected serious side effects.
+ 
+Coronavirus Treatment Acceleration Program 
+ 
+FDA has created a special emergency program for possible coronavirus therapies, the Coronavirus Treatment Acceleration Program (CTAP). The FDA website describes the program as one that “uses every available method to move new treatments to patients as quickly as possible, while at the same time finding out whether they are helpful or harmful.” Subject to FDA approval, the Company plans to utilize this program. 
+
+21
+
+PAYCHECK PROTECTION PROGRAM
+ 
+During the years ended June 30, 2021 and 2020, the Company received loan proceeds in the amount of approximately $93,000 and $79,000, respectively, under the Paycheck Protection Program (“PPP”) and it was recorded under loan payable. The PPP, established as part of the Coronavirus Aid, Relief and Economic Security Act (“CARES Act”), provides for loans to qualifying businesses for amounts up to 2.5 times of the average monthly payroll expenses of the qualifying business. The loans and accrued interest are forgivable after eight weeks as long as the borrower uses the loan proceeds for eligible purposes, including payroll, benefits, rent and utilities, and maintains its payroll levels. The amount of loan forgiveness will be reduced if the borrower terminates employees or reduces salaries during the eight-week period.
+ 
+The Company applied for the forgiveness of the first loan and such application is in process. The Company intends to apply for forgiveness of the second PPP loan as well.
+ 
+COMPETITION
+ 
+Competition in the pharmaceutical and biotechnology industries is intense. The drugs that we are developing will have to compete with existing therapies. In addition, a large number of companies are pursuing the development of pharmaceuticals that target the same diseases and conditions that we are targeting. Many pharmaceutical or biotechnology companies have products on the market and are actively engaged in the research and development of products that are competitive with our potential products. Many of these companies and institutions, either alone or together with their collaborative partners, have substantially greater financial, manufacturing, sales, distribution and technical resources and more experience in research and development, clinical trials and regulatory matters, than we do. In addition, our competitors may succeed in developing technologies and drugs that are more effective, better tolerated or less costly than any which are being developed by us or which would render our technology or potential drugs obsolete or noncompetitive. 
+ 
+With respect to Kevetrin, our lead compound for cancer, there are many drugs approved to treat cancers and many more in the publicly disclosed development pipeline. The same is true for our other compound in clinical development, Brilacidin. There are many drugs approved to treat various forms of inflammatory bowel diseases, and ABSSSI, and many more in the publicly disclosed development pipeline. There is no drug yet approved for preventing severe oral mucositis in head and neck cancer patients. 
+ 
+Several pharmaceutical companies have received FDA approval or an Emergency Use Authorization (EUA) for their COVID-19 treatments and vaccines, which are currently being distributed in the U.S., and abroad. While the widespread distribution of such treatments and vaccines have helped mitigate the pandemic, both in reducing the number of severely infected patients and providing relief to those infected, the virus continues to evolve. Mutations, in the form of variants, are showing signs of overcoming current COVID-19 treatments and vaccines, leading to rising case numbers and more breakthrough infections. In this broader context of the pandemic, the Company anticipates a continued need for novel antiviral therapeutics.
+ 
+The key competitive factors affecting the success of all of our product candidates, if approved, are likely to be their efficacy, safety, convenience and price, the effectiveness of alternative products, the level of competition and the availability of coverage and adequate reimbursement from government and other third-party payors.
+ 
+
+22
+
+ 
+Our commercial opportunity could be reduced or eliminated if our competitors develop and commercialize products or therapies that are safer, more effective, have fewer or less severe side effects, are more convenient or are less expensive than any products that we may develop. Our competitors also may obtain FDA, European Medicines Agency (EMA), or other regulatory approval for their products more rapidly than we may obtain approval for ours, which could result in our competitors establishing a strong market position before we are able to enter the market. In addition, our ability to compete may be affected in many cases by insurers or other third-party payors seeking to encourage the use of generic products.
+ 
+Our success depends on our ability to identify types of these respective diseases where our drugs have an advantage over existing therapies and those in the publicly disclosed development pipeline. 
+ 
+EMPLOYEES 
+ 
+As of June 30, 2021, the Company had 4 employees. The Company also conducts its operations using contractors and consultants. 
+ 
+CORPORATE INFORMATION 
+ 
+Innovation Pharmaceuticals Inc. was incorporated on August 1, 2005 in the State of Nevada. The Company has as its corporate headquarters 301 Edgewater Place - Suite 100, Wakefield, MA 01880, a facility that maintains our virtual offices, and if needed, the use of physical offices, meeting rooms, and business support services on a fee for use basis. All our employees and consultants work remotely. The Company’s telephone number is (978) 921-4125. The Company maintains an internet website at www.IPharmInc.com. The Company makes available, free of charge, through the Investors section of its website, its Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after such material is electronically filed with, or furnished to, the SEC. The information on the Company’s website is not, and shall not be deemed to be, a part hereof or incorporated into this or any of our other filings with the SEC. 

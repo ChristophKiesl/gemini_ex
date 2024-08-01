@@ -1,0 +1,172 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+Item 1.  Business
+Overview
+ 
+AudioEye is an industry-leading software solution provider delivering website accessibility compliance at all price points to businesses of all sizes. Our solutions advance accessibility with patented technology that reduces barriers, expands access for individuals with disabilities, and enhances the user experience for a broader audience. We believe that, when implemented, our solution offers businesses and organizations the opportunity to reach more customers, improve brand image, build additional brand loyalty, and, most importantly, provide an accessible and usable web experience to the expansive and ever-growing global population of individuals with disabilities.
+ 
+AudioEye primarily generates revenue through the sale of subscriptions for our software-as-a-service (“SaaS”) accessibility solutions. Our solutions are backed by AudioEye’s machine-learning/AI-driven technology that finds and fixes common accessibility errors. Our core and supplemental solutions are designed to help websites and applications achieve and sustain substantial conformance with AudioEye’s interpretation of the Web Content Accessibility Guidelines (“WCAG”) which are web accessibility standards published by the Web Accessibility Initiative of the World Wide Web Consortium, the main international standards organization for the internet. Our solutions help mitigate a customer’s risk of costly digital accessibility-related legal action. AudioEye customers may purchase solutions directly through the AudioEye Marketplace, through a platform partner or an agency, such as Duda, that integrates our solutions into their marketplace, through a vertical Content Management System (“CMS”) partner, or through an authorized reseller, or by working directly with the AudioEye sales team. Our offerings serve businesses and organizations of all sizes and at all price points.
+ 
+AudioEye stands out among its competitors because it delivers machine-learning/artificial intelligence (“AI”)-driven accessibility without fundamental changes to the website architecture. As another differentiator, we offer transparency. Our offerings provide automated remediations and a transparent compliance score with additional manually driven enhancements. AudioEye pairs its patented technology solutions with certified accessibility experts, which allows our customers to achieve a higher level of compliance than competitors relying solely on automation. Our technology publishes more than one billion remediations daily, and our solution is trusted by some of the largest and most influential companies in the world, including ADP, Tommy Hilfiger, 360 Media, Samsung, Darden, Landry’s and more. Government agencies, from the federal level down to the local level, have also integrated our software in their digital platforms, including the Federal Communications Commission and the Social Security Administration.
+ 
+Industry Background
+ 
+If not coded properly, a website or application may not offer full access to content or functionality for individuals with disabilities and, in particular, for users of assistive technology (“AT”), such as a screen reader. As a result, those sites may exclude potential users and customers. As discussed in more detail below, these sites also may not comply with U.S. and foreign laws requiring accessibility and digital inclusion, such as Title III of the Americans with Disabilities Act, Section 508 of the Rehabilitation Act, and California’s Unruh Civil Rights Act. Website accessibility lawsuits have continued to increase in recent years. By some estimates, more than 3,000 lawsuits were filed in federal and state courts in 2020.
+ 
+Traditional solutions addressing web accessibility may be costly and difficult to implement. Historically, the process for achieving compliance has been driven by costly consulting services and has not fully utilized emerging technologies to reduce the compliance cost burden. At the same time, web accessibility efforts have generally focused on a limited number of disability use cases, leaving many users’ accessibility needs for digital inclusion unaddressed. Businesses may have been reluctant to invest further in web accessibility solutions due to a perceived lack of commercial return on the significant investment required to design and implement a thorough and usable compliance solution.
+ 
+Other solutions have been developed to help users access websites, but these often require the installation of a plug-in or software on the user’s computer. Similarly, some are tailored to either single or a limited number of use cases and do not encompass a more holistic approach for addressing compliance and accessibility.
+
+
+2
+
+ 
+
+AudioEye Solutions
+ 
+At its core, AudioEye’s provides an always-on testing, remediation, and monitoring solution that continually improves conformance with WCAG. This in turn helps businesses and organizations comply with WCAG standards as well as applicable U.S. and foreign accessibility laws. Our technology is capable of immediately identifying and fixing common accessibility errors and addresses a wide range of disabilities including dyslexia, color blindness, epilepsy and more. AudioEye also offers additional solutions to provide for enhanced compliance and accessibility including periodic manual auditing, manual remediations and legal support services. Our solutions may be purchased through a subscription service on a month-to-month basis or with one or multi-year terms. We also offer PDF remediation services and Native Mobile App audit reports to help our customers with their digital accessibility needs.
+ 
+AudioEye Customers
+ 
+Our current and potential customer base includes a very broad range of private and public sector customers, including:
+ 
+
+· | Small- and medium-sized businesses;
+--+------------------------------------
+
+
+· | Corporate enterprises;
+--+-----------------------
+
+
+· | Non-profit organizations;
+--+--------------------------
+
+
+· | Federal government agencies, whose electronic and information technology must be accessible to people with disabilities, including employees and members of the public, pursuant to Section 508 of the Rehabilitation Act of 1973; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Foreign, state and local governments and agencies, which often have laws and regulations that require accessibility for people with disabilities.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+AudioEye Channels / Go-to-market:
+ 
+We go-to-market through two primary channels: Enterprise and Partner and Marketplace.
+ 
+Enterprise channel consists of our larger customers and organizations, including those with non-platform custom websites, who generally engage directly with AudioEye sales personnel for custom pricing and solutions. This channel also includes federal, state and local government agencies.
+ 
+Partner and Marketplace channel consists of our CMS partners, platform & agency partners, authorized resellers and the Marketplace. This channel serves small and medium sized businesses that are on a partner or reseller’s web-hosting platform or who purchase an AudioEye solution from our Marketplace.
+ 
+The Company had one major customer (including the customer’s affiliates reflecting multiple contracts and a partnership with the Company) which accounted for approximately 16.7% of the Company’s revenue in the year ended December 31, 2020. The Company had one major customer which generated approximately 10% of its revenue in the year ended December 31, 2019.
+
+
+3
+
+ 
+
+Our typical market sectors include, but are not limited to:
+ 
+
+· | Finance and banking institutions;
+--+----------------------------------
+
+
+· | Travel and hospitality companies;
+--+----------------------------------
+
+
+· | Public and private transportation companies;
+--+---------------------------------------------
+
+
+· | Retail and ecommerce companies;
+--+--------------------------------
+
+
+· | Educational institutions (which occasionally enter into settlement agreements with the Department of Education’s Office of Civil Rights regarding accessibility);
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Food services companies; and
+--+-----------------------------
+
+
+· | SaaS service or solution providers.
+--+------------------------------------
+
+Intellectual Property
+ 
+Our intellectual property is primarily comprised of trade secrets, trademarks, issued, published and pending patent applications, copyrights and technological innovation. We have a patent portfolio comprised of seventeen (17) issued patents in the United States. We also have eight (8) pending patent applications and two (2) international patent applications filed via the Patent Cooperation Treaty (“PCT”). The commercial value of these patents is unknown.
+ 
+We plan to continue to invest in research and development and expand our portfolio of proprietary intellectual property.
+ 
+Competition
+ 
+Most of our competition falls within the following categories:
+ 
+
+· | There are a small number of web accessibility audit and tracking platform providers that purport to analyze websites for accessibility concerns. While these providers may sometimes identify issues for remediation, they typically do not provide remediation technology or the additional solutions that AudioEye offers.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Currently, other technology providers attempt to apply compliance remediation strictly through automation technology and accessibility toolbars. We believe their solutions do not compete with the full breadth of solutions offered by AudioEye including the manual auditing and custom remediation services that are essential for achieving a meaningful level of compliance that mitigates compliance lawsuits and provides customers with negotiation leverage when defending against legal complaints.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | There are a substantial number of consulting service providers offering website and application accessibility. Each generally provides an analysis of the various compliance issues associated with its clients’ websites. They ultimately provide resources and assistance in applying fixes and changes at the source. We believe our offerings are much more cost effective and comprehensive than these providers. We also provide tools that empower an end-to-end fully managed service, as well as resources that empower self-directed developers to fix issues on their own.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+ 
+
+Competitive Strengths
+ 
+Our management believes the following competitive strengths will enable our success in the accessibility marketplace:
+ 
+
+· | Unique patented technology. AudioEye builds all its products with the primary goal of enhancing the user experience regardless of the end-user’s individual disability or physical limitation. AudioEye is a marketplace technology leader providing what we believe to be unparalleled web accessibility solutions for our customers through our suite of offerings. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Broad price points and offerings. With a free 30-day trial for our base offering, AudioEye allows website owners to test our solution before choosing their preferred option. They range from low-cost offerings, to standard offerings, to our customized, enterprise-wide solutions. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Unique combination of advanced technology and expert-driven services. Our management believes that AudioEye addresses the problem of Web Accessibility holistically and provides a combination of leading-edge technology and high-quality specialized services. Our solutions are designed to provide our customers with reliable website accessibility compliance solutions, and to lead to cost-savings and reduced time-to-market for our customers. Our management believes that the AudioEye solution allows our customers to focus not only on achieving compliance, but also to help maintain compliance throughout the life of the subscription.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | We offer greater transparency in marketing our offerings. We believe there is no fully automated solution on the market that can provide 100% compliance. Our offerings provide automated remediations and a transparent compliance score with additional manually driven enhancements. We think that as the industry develops, opaque products with unsubstantiated claims will ultimately fail.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | Highly experienced inventors, technologists and product development team. Our team is comprised of experienced software and SaaS developers and technologists. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Legal and Regulatory Framework
+ 
+Courts and the U.S. Department of Justice (“DOJ”) broadly hold that Titles II and III of the Americans with Disabilities Act (“ADA”), together with Sections 504 and 508 of the Rehabilitation Act of 1973, require public and private websites and mobile applications to be accessible to people with disabilities. In particular, Title III of the ADA governs private businesses and prohibits discrimination on the basis of disability in the provision of services, programs, and activities by public accommodations.  
+ 
+While the law governing website and mobile application accessibility is still developing, most courts have held that websites and mobile applications fall within Title III’s scope. Some courts hold that Title III applies to all customer-facing websites and mobile applications, while others apply a “nexus” approach, which requires websites and mobile applications to comply with Title III if the website or mobile application is heavily integrated with a physical location. The U.S. Supreme Court has yet to articulate a unified approach, so some degree of uncertainty remains. Similarly, the DOJ has not promulgated new regulations laying out compliance standards for websites and mobile applications. In the absence of clear guidance, courts generally measure accessibility using the Web Content Accessibility Guidelines (“WCAG”), which are promulgated by the World Wide Web Consortium.
+ 
+Although the WCAG does not carry force of law, courts may order defendants to comply with the WCAG as a remedy for accessibility violations. Settlements and consent decrees generally require the same. We therefore design our products and services to help customer websites and mobile applications achieve and sustain substantial conformance with our interpretation of the informative guidance supplied through the WCAG, and we continue to improve and update our products and services as new guidance emerges.
+ 
+Lawsuits alleging website or mobile application accessibility claims typically follow a similar pattern. Both private commercial businesses and governmental agencies are regularly targeted for alleged violations. With an increasing amount of business taking place remotely, ensuring compliance with the relevant accessibility statutes is becoming increasingly important.
+ 
+This growing focus on website and mobile application accessibility is also reflected by other federal and state laws. In 2010, Congress enacted the 21st Century Communications and Video Accessibility Act in an effort to update telecommunications protections for people with disabilities. Furthermore, the Department of Transportation has issued rules interpreting and implementing the Air Carrier Access Act and setting forth website accessibility standards for air carriers. The California Unruh Civil Right Act also prohibits discrimination on the basis of disability, and California Government code Section 11546.7 requires state agency directors to certify that their websites comply with the WCAG. This focus on website accessibility is growing internationally as well, with over 100 countries having ratified the U.N. Convention on the Rights of Persons with Disabilities.
+ 
+Employees
+ 
+As of December 31, 2020, we had 89 full-time employees. We utilize independent contractors to supplement our staff, as needed. None of our employees is subject to a collective bargaining agreement, and we believe that relations with our employees are very good.
+Corporate Information
+ 
+AudioEye, Inc. was formed as a Delaware corporation on May 20, 2005. We file reports with the Securities and Exchange Commission (“SEC”) and make available, free of charge, on or through our website at www.audioeye.com, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. In addition, the SEC maintains a website at www.sec.gov containing reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.
+
+
+5
+
+ 
+
