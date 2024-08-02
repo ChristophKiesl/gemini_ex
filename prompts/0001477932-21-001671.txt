@@ -1,0 +1,630 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+ 
+When used in this Annual Report on Form 10-K, the terms “Lightbridge”, the “Company”, “we”, “our”, and “us” refer to Lightbridge Corporation together with its wholly-owned subsidiaries Lightbridge International Holding LLC and Thorium Power Inc. Lightbridge’s principal executive offices are located at 11710 Plaza America Drive, Suite 2000, Reston, Virginia 20190 USA.
+ 
+Overview
+ 
+At Lightbridge we are developing the next generation of nuclear fuel to impact in a meaningful way the world’s climate and energy problems. Our nuclear fuel could significantly improve the economics, safety, and proliferation resistance of nuclear fuel in existing and new nuclear reactors, large and small, with a meaningful impact on addressing climate change, and air pollution, all while benefiting national security. We project that the world’s energy and climate needs can only be met if nuclear power’s share of the energy-generating mix grows substantially in the coming decades. We are developing our nuclear fuel to enable that to happen. In particular, we are focusing on the potential for large numbers of small modular reactors (SMRs) that we believe can benefit from our fuel with improved economics and load following when included on an electric grid with renewables. Today, there are approximately 440 operable power reactors worldwide, of which about 400 are operating. We expect slow net growth in this number as old reactors close and fewer new large reactors are built, due to the inherent challenges facing new build large reactors, including regulatory and political challenges, financings, and the ability for large reactors to be profitable without running constantly.
+ 
+We believe our metallic fuel will offer significant economic and safety benefits over traditional fuel, primarily because of the superior heat transfer properties of all-metal fuel and the resulting lower operating temperature of the fuel. We also believe that uprating a reactor with Lightbridge Fuel™ will add incremental electricity at a lower levelized cost than any other means of generating baseload electric power, including any renewable, fossil, or hydroelectric energy source, or any traditional nuclear fuel.
+ 
+Emerging nuclear technologies that many in the industry believe have the potential to generate massive amounts of power include SMRs, which are now in the development and licensing phases. We expect that Lightbridge Fuel™ can provide SMRs with all the benefits our technology brings to large reactors, with the benefits being more meaningful to the economic case for deployment of SMRs. Lightbridge Fuel™ is expected to generate more power in SMRs than traditional nuclear fuels, which will help decarbonize sectors that are now powered by fossil fuels. We also plan to explore using Lightbridge Fuel™ in new SMRs to produce hydrogen for liquid non-carbon fuels for use in other, hard-to-decarbonize sectors such as aviation and shipping. Our ongoing research and development (R&D) initiatives are entirely compatible with Lightbridge Fuel™ powering SMRs for multiple purposes. The first SMRs that could use our fuel are expected to begin operations in 2029.
+ 
+We have built a significant portfolio of patents reflecting years of R&D, and we anticipate testing of our fuel through third party vendors and others, including the United States Department of Energy (DOE) national laboratories. Currently, we are in the process of transitioning most of our R&D activities to U.S. national laboratories, and have begun to negotiate contracts for additional future scopes of work.
+ 
+Our Nuclear Fuel
+ 
+Since 2008, we have been engaged in the design and development of proprietary, innovative nuclear fuels to improve the cost competitiveness, safety, proliferation resistance and performance of nuclear power generation. In 2010, we announced the concept of all-metal fuel (i.e., non-oxide fuel) for use in currently operating and new-build reactors. Our focus on metallic fuel is based on listening to the voices of prospective customers, as nuclear utilities have expressed interest in the improved economics and enhanced safety that we believe metallic fuel will provide.
+
+5
+
+ 
+The fuel in a nuclear reactor generates heat energy. That heat is then converted through steam into electricity that is delivered to the transmission and distribution grid. We have designed our innovative, proprietary metallic fuels to be capable of significantly higher burnup and power density compared to conventional oxide nuclear fuels. Burnup is the total amount of electricity generated per unit mass of nuclear fuel and is a function of the power density of a nuclear fuel and the amount of time the fuel operates in the reactor. Power density is the amount of heat power generated per unit volume of nuclear fuel. Conventional oxide fuel used in existing commercial reactors is nearing the limit of its design and licensed burnup and power density capability. As a result, further optimization to increase power output from the same core size and improve the economics and safety of nuclear power generation using conventional oxide fuel technologies is limited. A new fuel is needed to bring enhanced performance to reactors large and small; we are working to develop that new fuel.
+ 
+As the nuclear industry prepares to meet the increasing global demand for electricity production, longer operating cycles and higher reactor power outputs have become a much sought-after solution for the current and future reactor fleet. We believe our proprietary nuclear fuel designs have the potential to improve the nuclear power industry’s economics by:
+ 
+
+· | enabling increased reactor power output via a power uprate (potentially up to a 30% increase) or a longer operating cycle (instead of a power uprate) without changing the core size in new build pressurized water reactors (PWRs), including SMRs; or 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | providing an increase in power output of potentially up to 10% while simultaneously extending the operating cycle length from 18 to 24 months in existing PWRs, including in Westinghouse-type four-loop PWR plants which are currently constrained to an 18-month operating cycle by oxide fuel enriched up to 5% in the isotope uranium-235, or increasing the power potentially up to 17% while retaining an 18-month operating cycle.
+
+ 
+We believe our fuel designs will allow current and new build nuclear reactors to safely increase power production and reduce operations and maintenance costs on a per kilowatt-hour basis. New build nuclear reactors could also benefit from the reduced upfront capital investment per kilowatt of generating capacity in the case of implementing a power uprate. In addition to projected electricity production cost savings, we believe our technology can result in utilities or countries needing to deploy fewer new reactors to generate the same amount of electricity (in the case of a power uprate), resulting in significant capital cost savings. For utilities or countries that already have operating reactors, our technology could be utilized to both increase the power output of those reactors as well as enable them to load follow with electric grid demands, which have become increasingly variable with large additions of intermittent renewable generation.
+ 
+Nuclear Industry and Addressable Market
+ 
+Overview of the Nuclear Power Industry
+ 
+Presently, nuclear power provides approximately 4.5% of the world’s total energy from all sources, including approximately 10% of the world’s electricity. According to the World Nuclear Association, as of February 2021 there were approximately 440 operable nuclear power reactors worldwide, mostly light water reactors, with the most common types being PWRs, including Russian-designed water-water energetic reactors (VVERs), and boiling-water reactors (BWRs). Nuclear power provides a non-fossil fuel, low-carbon energy solution that can meet baseload electricity needs.
+
+6
+
+ 
+Of the world’s existing reactors currently in operation, PWRs (including VVERs) account for more than 60% of the net operating capacity, with BWRs being the second most prevalent and accounting for approximately 14%. Of the nuclear reactors currently under construction, approximately 80% are PWRs (including VVERs) with a rated electric power output of 1,000 megawatts (“MWe”) or greater.
+ 
+Almost all of the new build reactor capacity currently under construction are either Generation III or Generation III+ type reactors. The primary difference from second-generation designs is that many incorporate passive or inherent safety features, which require no active controls or operational intervention to avoid accidents in the event of malfunction. Many of these passive systems rely on a combination of gravity, natural convection, and/or resistance to high temperatures.
+ 
+We initially focused our fuel design on existing U.S. PWRs because they represent a large market segment for which Lightbridge Fuel™ could provide significant economic and safety benefits through a power uprate up to 10% along with an operating cycle extension from 18 to 24 months, or a power uprate of 17% without extending the cycle length. We estimate that in order to produce all the clean energy that the world will need in 2050 (the seminal year for climate change according to the Intergovernmental Panel on Climate Change) using nuclear power, it would require the equivalent of about an additional 20,000 reactors with generating capacities of 1,000 megawatts of electricity each. Realistically, the industry will not grow from approximately 440 to over 20,000 of these reactors during this timeframe. We expect that the net worldwide growth in the number of large reactors between now and 2050 will be fewer than 200, with most new plants built by China and Russia, and hence difficult for Lightbridge Fuel™ to reach. Furthermore, nuclear power will not generate all of the clean energy by itself. Existing large reactors can present an additional market opportunity for Lightbridge Fuel™, but cannot by themselves move the needle on climate change.
+ 
+In contrast, SMRs can be pivotal contributors to preventing further climate change, while providing the necessary energy capacity to meet global energy needs. Large reactors have considerable capital costs and must operate at full power 24/7 to be profitable. Due to their modular construction, SMRs are expected to have much lower capital costs per unit, thus making their deployment easier to finance by private and government sectors. Furthermore, one of the limiting factors relating to existing large reactors is their inability to load follow efficiently. Load following means increasing or decreasing power as other electricity sources, mostly wind and solar power, come on and off the electric grid. Natural gas plants are currently used to back up wind and solar generation since these plants can easily increase or decrease the energy they generate based on need. SMRs are expected to have the ability to reduce their power (i.e., by shutting down or reducing the power out of some units while running the other units at full power) while the wind is blowing, or the sun is shining. We believe that Lightbridge Fuel™ will allow SMRs greater flexibility in changing power levels, making it easier for SMRs to replace natural gas to load follow with renewables, helping to expand markets for renewables and SMRs together as countries seek to decarbonize energy generation. Other components of the reactor would also need to be designed to handle the changes in power, and we believe that it is feasible, with fuel capability being one of the current limiting factors to nuclear power plants balancing with wind and solar.
+ 
+We expect that Lightbridge Fuel’s™ most significant economic benefit will be to provide a 30% power uprate. However, the existing large reactors cannot realize that benefit because their systems are not designed to handle that much of an increase in power. The most additional power existing large PWRs could take from Lightbridge Fuel™ is estimated at approximately 17%. Only newly designed large reactors could benefit from the full 30% greater power available from Lightbridge Fuel™. While we believe that only a limited number of new, large reactors will be built, we expect that much larger numbers of SMRs will be deployed in the future.
+ 
+
+7
+
+Target Market for Lightbridge Fuel™
+ 
+Our target market segments include water-cooled commercial power reactors, such as PWRs, BWRs, VVER reactors, CANDU heavy water reactors, water-cooled SMRs, as well as water-cooled research reactors. However, we are currently focused on prioritizing opportunities with SMRs in the near-term.
+Nuclear Power as Clean and Low Carbon Emissions Energy Source
+ 
+Nuclear power provides clean, reliable baseload electricity. According to the World Nuclear Association (WNA), nuclear power plants produce no greenhouse gas emissions during operation, and over the course of their lifecycles, produce about the same amount of CO2 equivalent emissions per unit of electricity as wind. The WNA further notes that almost all proposed pathways to achieving significant decarbonization suggest an increased role for nuclear power, including those published by the International Energy Agency, Massachusetts Institute of Technology Energy Initiative, U.S. Energy Information Administration, and World Energy Council.
+ 
+We believe that deep cuts to CO2 emissions are only possible with electrification of most of the transportation and industrial sectors globally, and powering them and the current electricity needs of the world with non-emitting or low-emitting power or no-carbon liquid fuels. We believe this can be done only with a large increase in nuclear power, several times the amount that is generated globally today. We believe that our nuclear fuel technology will be an essential element of reaching this goal, for electricity generation and to produce hydrogen for liquid fuels.
+ 
+Influence of the Accident at Fukushima, Japan and New International Nuclear Build
+ 
+The nuclear accident at the Fukushima Daiichi nuclear power plant in Japan following the strong earthquake and massive tsunami that occurred on March 11, 2011, increased public concerns related to nuclear power, resulting in a slowdown in, or in some cases, a complete halt to, new construction of nuclear power plants as well as the early shut down of existing power plants in certain countries. As a result, some countries that were considering launching new domestic nuclear power programs before the Fukushima accident have delayed or cancelled preparatory activities they were planning to undertake as part of such programs. The Fukushima accident appears to have shrunk the projected size of the global nuclear power market in 2025-2030 as reflected in the most recent reference case projections published by the WNA. At the same time, the event has brought a greater emphasis on safety to the forefront that may be beneficial to us because our metallic fuel provides improved safety and fuel performance during normal operation and design-basis accidents.
+Anticipated Safety Benefits of Lightbridge Fuel™
+ 
+The expected safety benefits of Lightbridge Fuel™ are as follows:
+ 
+
+· | Operates at lower operating temperatures than current conventional nuclear fuel, contributing to lower stored thermal energy in the fuel rods;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------
+· | Under design-basis accidents when there is a loss of coolant in the reactor, does not generate explosive hydrogen gas; 
+· | Enhances structural integrity of the nuclear fuel rods; 
+· | Has lighter and stiffer fuel assembly, which may contribute to improved seismic performance; 
+· | May buy more time to restore active cooling in the reactor during Beyond Design-Basis (BDB) events. 
+
+
+8
+
+ 
+Due to the significantly lower fuel operating temperature and higher thermal conductivity, our metallic nuclear fuel rods are also expected to provide major improvements to safety margins during certain off-normal events. The U.S. Nuclear Regulatory Commission (US-NRC) licensing processes require engineering analysis of a large break loss-of-coolant accident (LOCA), as well as many other scenarios. The LOCA scenario assumes failure of a large water pipe in the reactor coolant system. Under LOCA conditions, the fuel and cladding temperatures rise due to reduced cooling capacity. Preliminary analytical modeling shows that under a design-basis LOCA scenario, unlike conventional uranium dioxide fuel, the cladding of the Lightbridge-designed metallic fuel rods would stay at least 200 degrees below the 850-900 degrees Celsius temperature at which steam begins to react with the zirconium cladding to generate hydrogen gas. Build-up of hydrogen gas in a nuclear power plant can lead to a hydrogen explosion, which contributed to the damage at the Fukushima Daiichi nuclear power plant. Lightbridge Fuel™ is designed to prevent hydrogen gas generation in design-basis LOCA situations. This is a major safety benefit.
+ 
+Lightbridge Spent Fuel – Proliferation Resistance
+ 
+The April 2018 issue of Nuclear Engineering and Design, a technical journal affiliated with the European Nuclear Society, included an article stating that after analyzing Lightbridge’s fuel, the authors concluded that any plutonium extracted from Lightbridge’s spent fuel would not be useable for weapon purposes. We anticipate the following proliferation resistance advantages for our metallic fuel:
+
+· | One-half of the amount of plutonium produced and remaining in the spent fuel as compared to conventional uranium dioxide fuels; and 
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+· | Lower Plutonium-239 fraction compared to uranium dioxide fuel; therefore, our spent fuel would be unsuitable as a source for weapon purposes.
+
+ 
+The Company plans to conduct the initial testing and demonstration of its advanced metallic nuclear fuel in the United States.
+ 
+Development of Lightbridge Fuel™
+ 
+Recent Developments
+ 
+
+· | We were awarded a GAIN voucher by the U.S. Department of Energy (DOE) in 2019 for the experiment design for irradiation of material samples of Lightbridge metallic fuel in the Advanced Test Reactor (ATR) at Idaho National Laboratory (INL). On April 22, 2020, we entered into a Cooperative Research and Development Agreement (CRADA) with Battelle Energy Alliance, LLC (BEA), the DOE’s operating contractor at INL. The project commenced in the second quarter of 2020 and was originally expected to be completed in the second quarter of 2021. However, because of project staffing issues at INL related to the laboratory’s COVID-19 restrictions and U.S. export control matters, the project is currently expected to be completed by the end of the third quarter of 2021.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Lightbridge is currently demonstrating in 2021 the manufacturing processes for the three-lobed variant of its uranium-zirconium (U-Zr) fuel technology for use in certain SMRs by producing several SMR-length prototype fuel rods with surrogate materials. 
+· | We expanded our patent portfolio by successfully obtaining 30 new patents in 2020 and, as of the filing date an additional 2 patents in 2021, in the United States and other key foreign countries. The new patents will help safeguard the Company’s intellectual property, which is an integral component of the Company’s plans to monetize the Lightbridge Fuel™ technology. 
+
+
+9
+
+Future Steps Toward the Development and Commercialization of Nuclear Fuel Assemblies
+ 
+We anticipate near-term fuel development milestones for Lightbridge Fuel™ over the next 2-3 years will consist of the following:
+ 
+
+· | Manufacture three-lobe SMR-length surrogate rods. These rods will be used to optimize aspects of the manufacturing process, develop novel quality control processes for rod inspection, and perform initial corrosion testing of our extruded, metallurgically-bonded fuel rod technology.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+· | Complete the scope of work relating to the recent GAIN Voucher award in collaboration with INL; 
+· | Enter into an agreement to manufacture our nuclear fuel material samples for test reactor irradiation; 
+· | Demonstrate our manufacturing technology using depleted or natural uranium; 
+· | Complete the design and manufacturing of a multi-lobe fuel rod with enriched uranium for irradiation experiments in a test reactor. 
+
+ 
+The long-term milestones towards development and commercialization of nuclear fuel assemblies include, among other things, irradiating nuclear material samples and prototype fuel rods in test reactors, conducting post-irradiation examination of irradiated material samples and/or prototype fuel rods, performing thermal-hydraulic experiments, performing seismic and other out-of-reactor experiments, designing a lead test assembly, entering into a lead test rod/assembly agreement(s) with a host reactor(s), demonstrating the production of lead test rods and/or lead test assemblies at a pilot-scale fuel fabrication facility and demonstrating the operation of lead test rods and/or lead test assemblies in commercial reactors. There are inherent uncertainties in the cost and outcomes of the many steps needed for successful deployment of our fuel in commercial nuclear reactors, which makes it difficult to predict the timing of the commercialization of our nuclear fuel technology with any accuracy. However, based on our best estimate and assuming adequate R&D funding levels, we expect to begin receiving purchase orders for initial reload batches from utilities in 15-20 years, with final qualification (i.e., deployment of fuel in the first reload batch) in a commercial reactor taking place approximately two years thereafter. 
+ 
+Please see Item 1A. Risk Factors in this Annual Report on Form 10-K for a discussion of certain risks that may delay or impair such developments including without limitation the availability of financing and the many risks inherent in developing a new type of nuclear fuel.
+ 
+Impact of COVID-19 to our Business 
+ 
+The recent COVID-19 pandemic has impacted our business operations and results of operations for the year ended December 31, 2020, resulting in the reduction of our R&D expenses and an increase in our general and administrative expenses due to severance payments made to former employees, as described in more detail in Part II. Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, of this Annual Report on Form 10-K. The future impacts of the COVID-19 pandemic on our financial position, results of operations and future liquidity and capital resources availability is unknown and uncertain.
+ 
+In an effort to protect the health and safety of our employees, we took proactive, aggressive action from the earliest signs of the outbreak in China, including working from home and suspending employee travel. In an effort to contain COVID-19 or slow its spread, governments around the world have also enacted various measures, including orders to close all businesses not deemed “essential,” isolate residents to their homes or places of residence, and practice social distancing when engaging in essential activities.
+ 
+
+10
+
+ 
+We will continue to actively monitor the COVID-19 situation and may take further actions altering our business operations that we determine are in the best interests of our employees and stakeholders, or as required by federal, state, or local authorities. It is not clear what the potential effects any such alterations or modifications may have on our financial position, results of operations or liquidity, including the effects on our employees and future prospects, including our R&D activities for the fiscal 2021 and beyond.
+ 
+Future Potential Collaborations and Other Opportunities
+ 
+In the ordinary course of business, we engage in periodic reviews of opportunities to invest in or acquire companies or units within companies to leverage operational synergies and establish new streams of revenue. We will be opportunistic in this regard, and may also partner or contract with entities that could be synergistic to our fuel business or present an attractive growth opportunity in a clean technology space. 
+Competition
+ 
+Currently, competition with respect to the design of commercially viable nuclear fuel products is limited to conventional uranium dioxide fuels, which are reaching the limits in terms of their capability to provide increased power output or longer fuel cycles. We believe that the industry needs fuel products that can provide these additional benefits. While we believe conventional uranium dioxide fuel may be capable of achieving power up-rates of up to 10% in existing PWRs or extending the fuel cycle length from 18 to 24 months, doing so would require uranium-235 enrichment levels above 5% (as is also the case with our metallic fuel), higher reload batch sizes, or a combination thereof. The alternative route of increasing reload batch sizes while keeping uranium enrichment levels below 5% for power uprates up to 10% using conventional uranium dioxide fuel would raise the cost and reduce the efficiency of each fuel reload, resulting in a significant fuel cycle cost penalty to the nuclear utility. The cost penalty could have a dramatic adverse impact on the economics of existing plants whose original capital cost has already been written off, which includes most US nuclear power plants.
+ 
+In addition to conventional uranium dioxide fuel, potential competition to our metallic fuel technology can come from so-called Accident Tolerant Fuels (ATF). We regard ATF as part of a series of relatively small changes to conventional uranium dioxide fuel over time. ATF uses uranium dioxide with added substances and/or changes to the cladding tube. After the accident at the Fukushima Daiichi nuclear power plant in March 2011, the U.S. Congress directed the DOE to investigate every aspect of nuclear plant operation including the existing uranium dioxide fuel pellets contained in zirconium-based alloy tubes (cladding). According to the February 2019 Nuclear Energy Institute technical report on ATF titled “Safety and Economic Benefits of Accident Tolerant Fuel”, advanced fuel design concepts (such as ATF) were accelerated by combining recent operating experience with worldwide research and development. Over the past several years, the ATF program has received significant DOE funding support and initial interest from utility customers seeking ATF demonstration programs in their operating reactors. For example, in February 2021, Framatome publicly announced completion of the initial 18-month cycle of lead test assembly (LTA) operation with its chromium-doped ATF design. Similar ATF concepts are being tested by Westinghouse, GE Nuclear, TVEL, and others.
+ 
+
+11
+
+ 
+When the DOE originally launched the ATF program, the program was focused solely on achieving enhanced safety benefits, such as extra “coping time” during severe accidents. Over the past year, many ATF vendors concluded that the unexpectedly small accident tolerance benefits their ATF fuel concepts offered (such as several extra hours of coping time during severe accidents rather than their original goal of approximately 72 hours) were not enough of an incentive for nuclear utilities to adopt ATF designs, which would cost more and have a reduced the efficiency relative to conventional uranium dioxide fuels. As a result, ATF vendors have begun exploring opportunities for extending the operating cycle length from 18 to 24 months in existing PWRs by going to higher enrichments (i.e., from approximately 5% to 7-8% enrichments) with ATF designs. If they are successful in extending the cycle length to 24 months in a cost-effective way, this could give sufficient economic incentive for nuclear utilities to switch to the ATF designs in the coming years. This recent shift in positioning by many ATF vendors represents a competitive threat to Lightbridge for use in existing large PWRs, as ATF vendors are now trying to encroach into a critical element of Lightbridge’s value proposition, i.e., the ability of Lightbridge Fuel™ to extend the cycle length from 18 to 24 months in existing large PWRs. While it is not certain that the ATF vendors will be successful in this approach, if ATF could provide for two-year cycles, it could severely weaken or undermine our economic value proposition in existing large PWRs. That said, we believe Lightbridge Fuel™ remains the only advanced light-water reactor fuel in development that can provide power uprates, cycle length extensions, improved safety, and load following in a single product as desired by the utilities.
+ 
+The above developments make prioritizing existing large PWRs less attractive than we had previously expected. Depending on the ultimate outcome of ATF technologies and government funding available to support advanced fuel technologies for existing large PWRs, this market segment could become more accessible again in the future. However, in the near-term, we believe that a realignment of our corporate initiatives with a focus on SMRs could lead to more beneficial, valuable, nearer-term opportunities for Lightbridge.
+ 
+We believe the 30% power uprate our fuel could provide to a new SMR designed to accommodate the full power uprate could reduce the upfront capital investment per kilowatt and generate positive incremental profit margin for SMR plants. At the same time, due to fuel design constraints, we do not expect ATF technologies to achieve the same power uprate capability in SMRs. This could give Lightbridge strong competitive advantages over ATF in this market segment.
+ 
+Nuclear power faces competition from other sources of electricity as well, including natural gas, which is currently the cheapest option for power generation in the U.S. and has resulted in some utilities abandoning nuclear initiatives. Other sources of electricity may also be viewed as safer than nuclear power, although we believe that generating nuclear energy with Lightbridge Fuel™ is the safest way to produce baseload electricity in suitable power reactors. To the extent demand for electricity generated by nuclear power decreases, the potential market for our nuclear fuel technology will decline.
+ 
+Raw Materials
+ 
+We do not plan to utilize any raw materials directly in the conduct of our operations (except for potential purchases of certain raw materials in small quantities for testing and demonstration efforts). Fuel fabricators which will ultimately fabricate fuel products incorporating our nuclear fuel technology will acquire the zirconium and uranium, and additional raw materials that are required for the production of nuclear fuel assemblies that go into the reactor core. Uranium and zirconium are available from various suppliers at market prices. However, the availability of uranium metal enriched to 19.75% in the isotope uranium 235 is currently limited to small quantities sufficient only for research and testing purposes. Deployment of our fuel will necessitate increasing enrichment level from 5% to 19.75% at enrichment facilities, as well as deployment of de-conversion/metallization capability at a commercial scale, as well as the design and licensing of a shipping container capable of accommodating fuel assemblies with uranium metal enriched up to 19.75%. We expect that utilities will contract with nuclear fuel fabricators to order nuclear fuel assemblies, and then ship the completed nuclear fuel assemblies to the reactor sites.
+Government Support/Approvals, Relationships with Critical Development Partners/Vendors and Other Government Regulation
+ 
+Due to our long fuel development timelines (i.e., currently estimated at 15-20 years) and significant amount of R&D funding required to bring our next generation nuclear fuel technology to market (i.e., estimated at approximately $10 million per year in R&D funding, excluding corporate overhead), substantial U.S. government funding and political support will be essential to the success of our fuel development program. Without significant U.S. government funding and cost sharing contributions toward our fuel development activities, it will be unfeasible for the Company to fund this fuel development effort on its own.
+
+12
+
+ 
+President Biden’s energy platform includes advanced nuclear as part of “critical clean energy technologies.” While the executive branch team is still being assembled, we understand that the new administration will prioritize advanced nuclear technologies, including advanced fuels and SMRs, as part of its nuclear energy policy. President Biden has brought the U.S. back into the Paris Agreement on climate change, with the goal that the U.S. electricity sector be carbon neutral by 2035, just 14 years from now. We believe Lightbridge Fuel’s™ coupling with SMRs can enhance the already strong case for SMRs and attract more private and government investment.
+ 
+In addition to U.S. government funding, political support for our project is similarly important. The sales and marketing of our services and technology internationally may be subject to U.S. export control regulations and the export control laws of other countries. Governmental authorizations may be required before we can export our services or technology or collaborate with foreign entities. If authorizations are required and not granted, our international business could be materially affected. Furthermore, the export authorization process is often time consuming. Violation of export control regulations could subject us to fines and other penalties, such as losing the ability to export for a period of years, which would limit our revenue growth opportunities and significantly hinder our attempts to expand our business internationally.
+ 
+The testing, fabrication and use of nuclear fuels by our future partners, licensees and nuclear power generators will be heavily regulated. The test facilities and other locations where our fuel designs may be tested before commercial use require governmental approvals from the host country’s nuclear regulatory authority. The responsibility for obtaining the necessary regulatory approvals will lie with our research and development contractors that conduct such tests and experiments. Nuclear fuel fabricators, which will ultimately fabricate fuel using our technology under commercial licenses from us, are similarly regulated. Utilities that operate nuclear power plants that may utilize the fuel produced by these fuel fabricators require specific licenses relating to possession and use of nuclear materials as well as numerous other governmental approvals for the ownership and operation of nuclear power plants.
+ 
+Certain Challenges and Uncertainties
+ 
+1. U.S. government funding support
+ 
+Presently, our ability to fund our fuel development program at a level necessary to adhere to our projected fuel development timelines is severely limited due to internal funding constraints. As previously mentioned, to stay on track, we need to invest, on average, $10 million per year in R&D activities over the next 15-20 years. This is in addition to our corporate overhead and other fixed costs, such as in-house project management and R&D personnel. As a result, we believe seeking and securing significant U.S. government funding to support our fuel development program is essential for us to be successful in our fuel development and commercialization efforts. Prioritization of SMRs over existing large reactors, along with the significant government funding opportunities we expect to go toward SMRs in the coming years, may help accelerate our projected fuel development timelines by up to a few years for SMR applications.
+ 
+2. Availability of suitable test loops in the ATR
+ 
+After the Halden research reactor was shut down in 2018, we embarked on a global search for an alternative for loop irradiation testing of our metallic fuel rods. Ultimately, we settled on the ATR at INL and applied to DOE for and won a GAIN Voucher in December 2019 to kick off our initial collaboration with the U.S. national laboratory complex. Our initial understanding was that we would have access to a government-funded PWR water test loop in the ATR to generate sufficient data to support our LTA testing and eliminate the need for lead test rod (LTR) testing in a large commercial reactor. 
+ 
+
+13
+
+ 
+However, while the ATR has enough space for four test loops where fuel rods can be irradiated, the reactor currently has only one such test loop, limiting how much fuel rod material that can be inserted into the reactor as well as its duration in the reactor. We believe that INL could add up to all three additional test loops, at a total design and construction cost of approximately $35 million, which we have determined to be an unmanageable cost for Lightbridge. We plan to work with the government and industry to have those test loops added without Lightbridge paying for them. We believe we have strong arguments for the government to pay most of the cost for the additional test loops. 
+ 
+If new test loops are not added to the ATR, loop irradiation testing in the ATR may not provide sufficient data to justify regulatory approval for LTA testing in a large commercial PWR in a commercially feasible timeframe. This would likely necessitate an extra fuel development step of LTR testing in a large commercial PWR in addition to the ATR loop testing before LTA testing could commence. As a result, our fuel development timelines would be extended to 15-20 years before securing our first orders for batch reloads in large commercial PWRs. Consequently, the projected fuel development costs would increase substantially, making it unfeasible for Lightbridge to fund this fuel development effort on our own. 
+ 
+3. Partnerships with fuel vendor and nuclear utility
+ 
+The ability to design and fabricate the LTAs and engagement with a nuclear utility that is willing to accept our LTAs, is required to demonstrate our fuel in a commercial reactor. In the U.S., the fabricator and the utility will be primarily responsible for securing necessary regulatory licensing approvals for the LTA operation. To this end, in 2011, we established a Nuclear Utility Fuel Advisory Board (NUFAB) to further strengthen dialogue with nuclear utilities. With a shift in focus toward SMRs, we plan to build additional relationships with SMR reactor and fuel vendors, as well as existing and/or potential SMR utility customers.
+ 
+4. Supply chain infrastructure for HALEU
+ 
+Establishment of required supply chain infrastructure to support high-assay low-enriched uranium (HALEU) metallic fuel is a necessary step in the commercialization of our nuclear fuel. Existing commercial nuclear infrastructure, including conversion facilities, enrichment facilities, de-conversion facilities, fabrication facilities, fuel storage facilities, fuel handling procedures, fuel operation at reactor sites, used fuel storage facilities and shipping containers, were designed and are currently licensed to handle uranium in oxide form with enrichment up to 5% in the isotope uranium-235. Our fuel designs are expected to use uranium metal with uranium enrichment levels up to 19.75% and would therefore require certain modifications to existing commercial nuclear infrastructure to enable commercial nuclear facilities to receive and handle our fuels. Those nuclear facilities will need to complete a regulatory licensing process and obtain regulatory approvals in order to be able to process, handle, or ship uranium metal with enrichment levels up to 19.75% and operate commercial reactors and spent fuel storage facilities using our metallic fuel.
+ 
+5. Need for experimental data on our metallic fuel
+ 
+There is a lack of publicly available experimental data on our metallic fuel. We will need to conduct various irradiation experiments to confirm fuel performance under normal and off-normal reactor conditions. Loop irradiation in a test reactor environment prototypic of commercial reactor operating conditions and other experiments on unirradiated and irradiated metallic fuel samples will be essential to demonstrate the performance and advantages of our metallic fuel. We are currently planning loop irradiation testing of our metallic fuel samples in the ATR at INL as part of this effort and plan to work with the government and industry to have additional test loops constructed.
+ 
+
+14
+
+ 
+6. Need for development of new analytical models to support our metallic fuel
+ 
+Existing analytical models may be inadequate to fully analyze our metallic fuel. New analytical models, capable of accurately predicting the behavior of our metallic fuel during normal operation and off-normal events, may be required. Experimental data measured from our planned irradiation demonstrations will help to identify areas where new analytical models or modifications to existing ones may be required.
+ 
+7. Need for development and demonstration of qualified fabrication process for our metallic fuel rods
+ 
+Demonstration of a fabrication process both for semi-scale irradiation fuel samples and subsequently for full-length (12-14 feet) metallic fuel rods for large PWR LTAs and shorter length for SMRs (~6 feet) is required. Past operating experience in icebreaker reactors with differently shaped fuel rods with a similar metallic fuel composition involved fabrication of metallic fuel rods up to 3 feet in length. Fabrication of full-length (approximately 3.5 to 4.5 meters) PWR metallic fuel rods for large PWRs has yet to be fully demonstrated. In 2019, we demonstrated co-extrusion of full-length rods using surrogate materials (i.e., rods which replaced the uranium component with a suitable analogue).
+ 
+Settlement of Arbitration 
+ 
+On February 11, 2021, the Company entered into a settlement agreement (the “Settlement Agreement”) with Framatome SAS and Framatome Inc. (together, “Framatome”), resolving the pending claims and counterclaims between the parties in arbitration and judicial proceedings related to the parties’ inactive joint venture, Enfission, LLC. Under the terms of the Settlement Agreement, all joint venture agreements will be terminated and the joint venture will be dissolved and wound-up following satisfaction of the conditions set forth in the Settlement Agreement. Lightbridge will pay Framatome approximately $4.2 million for outstanding invoices for work performed by Framatome and other expenses incurred by Framatome. Enfission was dissolved on March 23, 2021. See Part I. Item 3. Legal Proceedings, for more information.
+ 
+Our Intellectual Property
+ 
+Our nuclear fuel technologies are protected by multiple U.S. and international patents. Set forth below are the patents which we consider material to our business based on our current plans. The expiration dates of these patents, unless it’s a divisional patent filing, are generally 20 years from their application dates. 
+
+Country | Application Date | Issue Date | Title | Case Status
+-------------------------------------------+------------------+------------------+---------------+------------
+Fabrication Method Using The Casting Route
+Belgium | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Bulgaria | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Czech Republic | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Europe | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Hungary | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Finland | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+France | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+
+
+15
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-----------------------------------------------------+-------------------+-------------------+---------------+------------
+Germany | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Spain | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Sweden | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Turkey | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+United Kingdom | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+China | May 11, 2011 | March 27, 2018 | FUEL ASSEMBLY | Granted 
+United States of America | February 20, 2018 | | FUEL ASSEMBLY | Pending 
+Korea | May 11, 2011 | November 12, 2019 | FUEL ASSEMBLY | Granted 
+Korea | November 12, 2019 | October 7, 2020 | FUEL ASSEMBLY | Granted 
+Fabrication Method Using The Powder Metallurgy Route
+Australia | May 11, 2011 | July 2, 2015 | FUEL ASSEMBLY | Granted 
+Belgium | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Bulgaria | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Bulgaria | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Canada | May 11, 2011 | | FUEL ASSEMBLY | Pending 
+Canada | May 11, 2011 | April 28, 2020 | FUEL ASSEMBLY | Granted 
+China | May 11, 2011 | May 18, 2016 | FUEL ASSEMBLY | Granted 
+China | May 11, 2011 | March 27, 2018 | FUEL ASSEMBLY | Granted 
+Czech Republic | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Czech Republic | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Europe | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Finland | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+France | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Germany | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Spain | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Sweden | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+
+
+16
+
+
+Country | Application Date | Issue Date | Title | Case Status
+------------------------------------------------------------------------------+-------------------+-------------------+---------------+------------
+Turkey | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Europe | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Finland | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+France | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Germany | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Hungary | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Hungary | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+India | May 11, 2011 | | FUEL ASSEMBLY | Pending 
+Japan | May 11, 2011 | September 9, 2016 | FUEL ASSEMBLY | Granted 
+Sweden | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Turkey | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+United Kingdom | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+United Kingdom | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+United States of America | June 3, 2013 | July 31, 2018 | FUEL ASSEMBLY | Granted 
+United States of America | February 20, 2018 | | FUEL ASSEMBLY | Pending 
+All-Metal Fuel Assembly Design And A Mixed Grid Pattern of Metallic Fuel Rods
+United States of America | November 15, 2013 | January 1, 2019 | FUEL ASSEMBLY | Granted 
+Belgium | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Bulgaria | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Canada | May 1, 2014 | | FUEL ASSEMBLY | Pending 
+China | May 1, 2014 | November 24, 2017 | FUEL ASSEMBLY | Granted 
+Czech Republic | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+
+
+17
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-----------------------------+--------------------+-------------------+-----------------------+------------
+Eurasian Patent Organization | May 1, 2014 | October 31, 2019 | FUEL ASSEMBLY | Granted 
+Eurasian Patent Organization | May 1, 2014 | October 30, 2020 | FUEL ASSEMBLY | Granted 
+Europe | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Finland | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+France | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Germany | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Hungary | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+India | May 1, 2014 | | FUEL ASSEMBLY | Pending 
+Japan | May 1, 2014 | July 13, 2018 | FUEL ASSEMBLY | Granted 
+Korea | May 1, 2014 | | FUEL ASSEMBLY | Pending 
+Spain | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Sweden | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Turkey | May 1, 2014 | January 31, 2018 | FUEL ASSEMBLY | Granted 
+Australia | September 16, 2015 | August 27, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Canada | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+China | September 16, 2015 | April 2, 2019 | NUCLEAR FUEL ASSEMBLY | Granted 
+Eurasian Patent Organization | September 16, 2015 | December 13, 2019 | NUCLEAR FUEL ASSEMBLY | Granted 
+Japan | September 16, 2015 | June 17, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Europe | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Belgium | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Bulgaria | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+
+
+18
+
+
+Country | Application Date | Issue Date | Title | Case Status
+----------------------------------------------------------------------+--------------------+-------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+------------
+Czech Republic | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Germany | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Finland | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+France | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Hungary | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Spain | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Sweden | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Turkey | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+United Kingdom | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Japan | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+Korea | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+All-Metal Fuel Assembly Design (i.e., No Oxide Rods In The Outer Row)
+Canada | December 26, 2007 | April 26, 2016 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+United States of America | December 22, 2008 | February 14, 2012 | NUCLEAR REACTOR (ALTERNATIVES), FUEL ASSEMBLY OF SEED-BLANKET SUBASSEMBLIES FOR NUCLEAR REACTOR (ALTERNATIVES), AND FUEL ELEMENT FOR FUEL ASSEMBLY | Granted 
+
+
+19
+
+
+Country | Application Date | Issue Date | Title | Case Status
+------------------------------------+-------------------+-----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+------------
+India | December 26, 2007 | | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Pending 
+Australia | May 11, 2011 | July 2, 2015 | FUEL ASSEMBLY | Granted 
+United States of America | June 3, 2013 | July 31, 2018 | FUEL ASSEMBLY | Granted 
+United States of America | November 15, 2013 | January 1, 2019 | FUEL ASSEMBLY | Granted 
+Multi-Lobe Metallic Fuel Rod Design
+Australia | December 26, 2007 | May 24, 2014 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+Australia | December 26, 2007 | August 4, 2016 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+
+
+20
+
+
+Country | Application Date | Issue Date | Title | Case Status
+---------------+-------------------+-------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+------------
+Belgium | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Bulgaria | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Canada | December 26, 2007 | April 26, 2016 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+China | December 26, 2007 | February 12, 2014 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+China | December 26, 2007 | June 23, 2017 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+Czech Republic | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+
+
+21
+
+
+Country | Application Date | Issue Date | Title | Case Status
+--------+-------------------+----------------+------------------------------------------------------------------------------------------------------------------------------------------------------+------------
+Europe | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Finland | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+France | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Germany | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Hungary | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+India | December 26, 2007 | | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Pending 
+Japan | December 26, 2007 | August 1, 2014 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+
+
+22
+
+
+Country | Application Date | Issue Date | Title | Case Status
+--------+-------------------+-------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+------------
+Japan | December 26, 2007 | April 22, 2016 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+Korea | December 26, 2007 | December 15, 2014 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+Korea | December 26, 2007 | April 20, 2015 | NUCLEAR REACTOR (VARIANTS), FUEL ASSEMBLY CONSISTING OF DRIVER-BREEDING MODULES FOR A NUCLEAR REACTOR (VARIANTS) AND A FUEL CELL FOR A FUEL ASSEMBLY | Granted 
+Sweden | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Turkey | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+
+
+23
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-------------------------+-------------------+--------------------+-----------------------------------------------------------------------+------------
+United Kingdom | December 26, 2007 | May 18, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+United States of America | December 22, 2008 | February 14, 2012 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Belgium | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Bulgaria | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Czech Republic | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Europe | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Finland | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+France | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Germany | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+
+
+24
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-------------------------+-------------------+--------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+------------
+Hungary | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Spain | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Sweden | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+Turkey | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+United Kingdom | December 23, 2008 | September 21, 2016 | A FUEL ELEMENT, A FUEL ASSEMBLY AND A METHOD OF USING A FUEL ASSEMBLY | Granted 
+United States of America | March 14, 2011 | February 18, 2014 | NUCLEAR REACTOR (ALTERNATIVES), FUEL ASSEMBLY OF SEED-BLANKET SUBASSEMBLIES FOR NUCLEAR REACTOR (ALTERNATIVES), AND FUEL ELEMENT FOR FUEL ASSEMBLY | Granted 
+Australia | December 25, 2008 | September 3, 2015 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+
+
+25
+
+
+Country | Application Date | Issue Date | Title | Case Status
+---------------+-------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------+------------
+Belgium | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Bulgaria | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Bulgaria | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Czech Republic | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+
+
+26
+
+
+Country | Application Date | Issue Date | Title | Case Status
+---------------+-------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------+------------
+Canada | December 25, 2008 | November 29, 2016 | A LIGHT-WATER REACTOR FUEL ASSEMBLY AND A FUEL ELEMENT THEREOF | Granted 
+Canada | December 25, 2008 | February 12, 2019 | A LIGHT-WATER REACTOR FUEL ASSEMBLY AND FUEL ELEMENT THEREOF | Granted 
+China | December 25, 2008 | June 29, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Czech Republic | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Europe | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Europe | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+
+
+27
+
+
+Country | Application Date | Issue Date | Title | Case Status
+--------+-------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------+------------
+Finland | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Finland | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+France | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+France | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Germany | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+
+
+28
+
+
+Country | Application Date | Issue Date | Title | Case Status
+--------+-------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------+------------
+Germany | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Hungary | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Hungary | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+
+
+29
+
+
+Country | Application Date | Issue Date | Title | Case Status
+--------+-------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------+------------
+India | December 25, 2008 | | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Pending 
+Japan | December 25, 2008 | June 5, 2015 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Korea | December 25, 2008 | August 18, 2015 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Spain | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Sweden | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+
+
+30
+
+
+Country | Application Date | Issue Date | Title | Case Status
+---------------+-------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------+------------
+Sweden | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Turkey | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Turkey | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+United Kingdom | December 25, 2008 | April 13, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+
+
+31
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-------------------------+-------------------+-------------------+----------------------------------------------------------------------------------------------------------------------------------+------------
+United Kingdom | December 25, 2008 | February 20, 2019 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+United States of America | December 25, 2008 | May 31, 2016 | FUEL ASSEMBLY FOR A LIGHT-WATER NUCLEAR REACTOR (EMBODIMENTS), LIGHT-WATER NUCLEAR REACTOR AND FUEL ELEMENT OF THE FUEL ASSEMBLY | Granted 
+Australia | May 11, 2011 | July 2, 2015 | FUEL ASSEMBLY | Granted 
+Australia | May 11, 2011 | March 21, 2019 | FUEL ASSEMBLY | Granted 
+Australia | May 11, 2011 | January 21, 2021 | FUEL ASSEMBLY | Granted 
+Belgium | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Bulgaria | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Bulgaria | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Canada | May 11, 2011 | | FUEL ASSEMBLY | Pending 
+China | May 11, 2011 | May 18, 2016 | FUEL ASSEMBLY | Granted 
+Czech Republic | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Czech Republic | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Europe | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Europe | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Finland | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+
+
+32
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-------------------------+-------------------+-------------------+---------------+------------
+Germany | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+France | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Spain | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Sweden | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Turkey | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+Finland | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+France | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Germany | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Hungary | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Hungary | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+India | May 11, 2011 | | FUEL ASSEMBLY | Pending 
+Japan | May 11, 2011 | September 9, 2016 | FUEL ASSEMBLY | Granted 
+Japan | May 11, 2011 | April 13, 2018 | FUEL ASSEMBLY | Granted 
+Japan | May 11, 2011 | September 9, 2016 | FUEL ASSEMBLY | Granted 
+Korea | May 11, 2011 | November 12, 2019 | FUEL ASSEMBLY | Granted 
+Sweden | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+Turkey | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+United Kingdom | May 11, 2011 | October 25, 2017 | FUEL ASSEMBLY | Granted 
+United Kingdom | May 11, 2011 | April 6, 2016 | FUEL ASSEMBLY | Granted 
+United States of America | June 3, 2013 | July 31, 2018 | FUEL ASSEMBLY | Granted 
+United States of America | February 20, 2018 | | FUEL ASSEMBLY | Pending 
+Korea | November 12, 2019 | October 7, 2020 | FUEL ASSEMBLY | Granted 
+United States of America | November 15, 2013 | January 1, 2019 | FUEL ASSEMBLY | Granted 
+Australia | May 1, 2014 | October 11, 2018 | FUEL ASSEMBLY | Granted 
+
+
+33
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-----------------------------+--------------------+-------------------+-----------------------+------------
+Canada | May 1, 2014 | | FUEL ASSEMBLY | Pending 
+Australia | May 1, 2014 | May 7, 2020 | FUEL ASSEMBLY | Granted 
+Eurasian Patent Organization | May 1, 2014 | October 31, 2019 | FUEL ASSEMBLY | Granted 
+India | May 1, 2014 | | FUEL ASSEMBLY | Pending 
+Japan | May 1, 2014 | July 13, 2018 | FUEL ASSEMBLY | Granted 
+Korea | May 1, 2014 | | FUEL ASSEMBLY | Pending 
+Australia | December 5, 2019 | January 14, 2021 | FUEL ASSEMBLY | Granted 
+Australia | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+Canada | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+China | September 16, 2015 | April 2, 2019 | NUCLEAR FUEL ASSEMBLY | Granted 
+China | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+Eurasian Patent Organization | September 16, 2015 | December 13, 2019 | NUCLEAR FUEL ASSEMBLY | Granted 
+Eurasian Patent Organization | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+Europe | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Belgium | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Bulgaria | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Czech Republic | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Germany | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Spain | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+
+
+34
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-------------------------+--------------------+-------------------+---------------------------------------------------+------------
+Finland | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+France | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Hungary | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Sweden | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Turkey | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+United Kingdom | September 16, 2015 | February 19, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Japan | September 16, 2015 | June 17, 2020 | NUCLEAR FUEL ASSEMBLY | Granted 
+Korea | September 16, 2015 | | NUCLEAR FUEL ASSEMBLY | Pending 
+United States of America | September 16, 2015 | January 29, 2019 | FUEL ASSEMBLY | Granted 
+United States of America | January 7, 2019 | | FUEL ASSEMBLY | Pending 
+Belgium | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Bulgaria | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Czech Republic | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Europe | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+
+
+35
+
+
+Country | Application Date | Issue Date | Title | Case Status
+-------------------------+-------------------+-------------------+---------------------------------------------------+------------
+Germany | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR | Granted 
+Hungary | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Finland | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+France | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Spain | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Sweden | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Turkey | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+United Kingdom | December 25, 2008 | September 9, 2020 | A FUEL ASSEMBLY FOR A LIGHT WATER NUCLEAR REACTOR | Granted 
+Europe | December 25, 2008 | | A FUEL ASSEMBLY FOR A LGHT-WATER NUCLEAR REACTOR | Pending 
+United States of America | December 28, 2018 | | FUEL ASSEMBIY | Pending 
+
+ 
+In addition to our patent portfolio, we also own trademarks to Lightbridge and Thorium Power corporate names and the Lightbridge logo.
+ 
+
+36
+
+Human Capital 
+ 
+Our business model is to limit the number of our full-time employees and to rely on individual independent contractors, outside agencies and technical facilities with specific skills to assist with various business functions including, but not limited to, corporate overhead, personnel, research and development, and communications. This model limits overhead costs and allows us to draw upon resources that are specifically tailored to our internal and external (client) needs. As of December 31, 2020, we had seven full-time employees. We utilize a network of independent contractors available for deployment for specialized assignments. The Company’s human resource professional is a resource available for all its employees regarding the development of their careers and training. Lightbridge also has physical and mental health programs that are available to its employees. We believe that our relationship with our employees and contractors is satisfactory.
+Available Information
+ 
+Our internet address is www.ltbridge.com. We make available free of charge on our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, including exhibits, and amendments to those reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the Securities and Exchange Commission (“SEC”). Copies of these reports may also be obtained free of charge by sending written requests to Investor Relations, Lightbridge Corporation, 11710 Plaza America Drive, Suite 2000, Reston, Virginia 20190 USA. The SEC also maintains an internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov. The information posted on our website is not incorporated into this Annual Report on Form 10-K, and any reference to our website is intended to be inactive textual references only.

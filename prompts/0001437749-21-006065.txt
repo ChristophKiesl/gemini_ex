@@ -1,0 +1,861 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+
+Item 1. | Description of Business
+--------+------------------------
+
+Overview
+ 
+Oculus VisionTech Inc. (OVTZ) is a Canadian-based development-stage technology company focused on cyber security, data privacy and data protection solutions for Enterprise business customers. Headquartered in Vancouver, British Columbia, Canada, the company was originally founded by image processing experts and is operated by experienced leadership. Currently, OVTZ is expanding and investing in a suite of new data protection and data privacy security products that will revolutionize CCPA, GDPR, LGPD and other data privacy legislation compliance for both data subjects and data controllers worldwide. Our mission is to provide intelligent software tools for continual enablement of data privacy and data protection for individuals, organizations and their customers worldwide, through a vision of mutually trusted data governance compliance.
+ 
+Our Forget-Me-Yes™ data privacy product is a Software-as-a-Service (SaaS) platform developed to specifically address the global ‘Right-to-be-Forgotten’ (RtbF) and Right-of-Erase (RoE) legal components of Brazil’s LGPD, Europe’s GDPR, California Consumer Privacy Act (CCPA), Nevada SB220, and Washington Privacy Act (WPA) regulatory compliance. Additional new data protection software tools are being developed to address public cloud data governance compliance globally. Our Cloud Document Protection System (Cloud-DPS) technology leverages our digital watermarking technology enabling OVTZ to offer a SaaS-based document management platform for tamper-proof document authentication and protection. Historically, we have used our digital watermarking technology for streaming video content distribution based on embedded digital watermarking, as well as video-on-demand (VOD) systems, services and source-to-destination digital media delivery solutions that allow live or recorded digitized and compressed video to be transmitted through Internet, intranet, satellite or wireless connectivity.
+ 
+We were incorporated on April 18, 1986, as "First Commercial Financial Group Inc." in the Province of Alberta, Canada. In 1989, our name was changed to "Micron Metals Canada Corp.", which purchased 100% of the outstanding shares of USA Video Inc., a Texas corporation, in order to focus on the digital media business. In 1995, we changed our name to "USA Video Interactive Corp." and continued out of the Province of Alberta into the State of Wyoming. At a shareholders meeting held on December 30, 2011, a resolution was passed to change our name to "Oculus VisionTech Inc." and to alter our share capital by way of a reverse stock split (share consolidation) on the basis of fifteen old common shares for one new common share. On January 25, 2012, we changed our name to "Oculus VisionTech Inc." In June 2020, OVTZ acquired OCL Technologies Inc. (OCL), a Delaware corporation data privacy software development startup based in San Diego, California. As a 100% wholly-owned subsidiary of OVTZ and to better align with customer and market focus, OCL has completed a corporate name change to ComplyTrust™ Inc. (CTI) on January 21, 2021. All OCL references throughout this document are synonymous with the new name change, CTI.
+ 
+Our executive and corporate headquarter offices are located at Suite 507, 837 West Hastings Street, Vancouver, British Columbia, Canada, V6C 3N6. Our telephone number is 1-800-684-0183 and our facsimile number is 604-685-5777. Our email address is contact@ovtz.com and our website is www.ovtz.com. Our common shares are listed for trading on the TSX Venture Exchange (TSX.V – OVT, OTCQB – OVTZ, FSE – USF1).
+ 
+Business Environment and Market Opportunity
+ 
+In this age of digital transformation, data monetization, IoT, and massive data migration to converged hyperscale, geo-disbursed Cloud infrastructure and workloads, data protection and data privacy have taken center stage. GDPR, LGPD, CCPA, and many other new international (China, India) and upcoming US data privacy regulations enable individuals and organizations the right to access and request deletion of all personal information for a given data subject. In our ever increasing Everything-as-a-Service world, OVTZ recognizes the need for global cloud-native data privacy and data protection solutions that are multi-cloud platform-ready and can augment both existing legacy and newer agile-driven architectures. OVTZ is building modular microservices-based software solutions and services for both hybrid on-premise and multi-cloud data management that incorporate automated malware, privacy and ransomware scanning, reporting and visualization.
+ 
+   5
+
+ 
+
+Our new Forget-Me-Yes™ (FMY) Software-as-a-Service (Saas) data privacy solution is a highly-secure, Zero-Knowledge platform providing a single-source capability of continuous ‘right-to-be-forgotten’ (RtbF) and ‘right-of-erase’ (RoE) privacy compliance by incorporating automated policy-driven re-query services that guarantees a Data Subject’s requested RtbF/RoE data remains ‘forgotten’ over the life of their FMY subscription. FMY incorporates hybrid polymorphic encryption technology that ensures all User Interface, data-in-transit and data-at-rest remain secure and can only be accessed by the subscriber. With a cloud-native architecture, the FMY functionality can be utilized as either a complete turnkey SaaS subscription platform, or individually licensed for seamless integration with existing 3rd. party applications and data privacy platforms.
+ 
+Our new ComplyTrust™ Software-as-a-Service Suite (CTSS) is a set of software tools specifically designed to address cloud-native data management and regulatory compliant data governance. CTSS will help to remove enterprise organizational barriers and blockers to further enable successful cloud migration and deployment that benefit the cloud infrastructure providers, enterprise organizations, and users collectively. CTSS helps to automate and visualize cloud compliance reporting across accounts, regions and services based on a variety of user-definable and data driven metrics.
+ 
+OVTZ had recognized that cloud-based, digital document security/protection products were a potentially viable business opportunity for the Company that allowed us to apply our proprietary real-time digital video watermarking technology, originally developed for studios and networks in the entertainment industry, to the digital document security/protection market. Cloud-DPS secures and protects digital documents (including text documents, photos, blueprints, etc.) from any modification, and/or attempted forgery by imperceptibly watermarking documents, using real-time image processing and watermarking algorithms, embedded into a secured/protected copy of a document. This authentication and verification process ensures the integrity of the original digital document.
+ 
+Strategic Plan 
+ 
+Our strategic plan is to first introduce the cloud-native Forget-Me-Yes™ (FMY) data privacy SaaS platform under the AWS Web Services Cloud infrastructure on a monthly subscription basis for structured data. Initial release will include subscriber connections specific to Salesforce organizations with other connectors to be added over time, including but not limited to Hubspot, Marketo, Shopify, and more. Additional connectors for Database-as-a-Service (DBaaS) providers for MySQL, NoSQL and SQL databases, for both structured and unstructured data, are also planned. Going forward, we plan to license FMY API microservices for integration with 3rd. party application partners, software providers and potential OEM’s. FMY’s cloud native enables it to be integrated and run under any on-premises, hybrid or alternative cloud infrastructure.
+ 
+The ComplyTrust™ SaaS Suite (CTSS) strategic plan for the data protection market is to first introduce Amazon Web Services (AWS) tools to help AWS customers better manage organizational data protection and compliance in an automated and cloud-native fashion. As customer attainment increases, additional planned CTSS features will be rolled out to perform additional applicable data governance and management functionality. Additional CTSS plans include integration with 3rd. party software providers to provide an automated single-pane-of-glass solution for enterprise organizations worldwide.
+ 
+The Cloud-DPS plan is to re-evaluate the current potential addressable market and underlying architecture to determine next steps in the Cloud-DPS evolution, as it very well could become an additional component in the CTSS toolset. Limited past market adoption and revenues indicate the need for a new Cloud-DPS strategy going forward, stay tuned.
+ 
+Proprietary Technologies 
+ 
+Our Forget-Me-Yes™ patent-pending process locates, organizes and manages Data Subject RtbF and RoE personal information for FMY subscribers in a secure, efficient and persistent way. Automated and schedule compliance enables organizations to avoid regulatory distraction to focus on core business competencies. Our FMY zero-knowledge 3rd. party audit features provide arguable good faith and best practices to avoid litigation, fines, penalties and potential brand damage associated with bad publicity surrounding a data privacy compliance infraction.
+ 
+Our DPS technology ‘personalizes’ protected documents, based on their content, thereby creating a format invariant watermarking system. A document converted into a PDF document is encrypted before delivery, such that it cannot be opened without providing proper credentials. The result is that a document watermarking system can be offered as a cloud-based software service that can:
+ 
+
+o | Protect - Accept any incoming document through a web portal, watermark it and return the watermarked document as a PDF document.
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Authenticate - The "document authenticator" is also a cloud-based software service that can accept the watermarked document and validate the authenticity of the documents.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+   6
+
+ 
+
+Our DPS technology combines the access control security for electronic documents, forensic grade anti-tampering technology based on the document's content "understanding", and optional data storage into a single, unique solution. Because of its cloud-based scalable architecture, the DPS has potential to expand and grow into a complete document management, security and storage eco-system within the CTSS product suite, particularly in conjunction with FMY-specific unstructured data privacy scanning capabilities.
+ 
+Products and Services 
+ 
+Our principal products are our new patent-pending Forget-Me-Yes™ (FMY) data privacy SaaS solution and CTSS data protection tools, along with our legacy Cloud-DPS solution.
+ 
+Forget-Me-Yes™ (FMY)
+ 
+The Forget-Me-Yes (FMY) Software-as-a-Service Platform specifically manages both Organizational and Individual Right-to-be-Forgotten (RtbF) and Right-of-Erase (RoE) compliance of structured data for Brazil’s LGPD, Europe’s GDPR, California Consumer Privacy Act (CCPA), Nevada SB220, and Washington Privacy Act (WPA).
+
+● | Features include easy integration, in-time and automated continuous compliance all from a secure subscription-based cloud-native application.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Locates, organizes and manages Data Subject personal information for FMY subscribers in a secure, efficient, and persistent way;
+--+---------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Automated/scheduled compliance enables organizations to avoid regulatory distraction to focus on core business competencies;
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+● | Secure, zero-knowledge 3rd. Party audit features ensuring regulatory compliance;
+--+---------------------------------------------------------------------------------
+
+
+● | Provides arguable good faith and best practices for companies to avoid litigation, penalties and brand damage associated with bad publicity.
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+FMY enables secure discovery and delete requests against multiple data sources, ensuring the data subject is never inadvertently “remembered.” FMY securely stores a single record of each data subject query request datato meet GDPR, LGPD and CCPA regulatory compliance. The open API-first design structure of FMY enables quick and seamless integration of future new US and global privacy law compliance regulations, along with the ability to be licensed for 3rd party application and platform integration.
+ 
+ComplyTrust™ SaaS Suite (CTSS)
+ 
+The CTSS is designed to enhance cloud-native services efficiency and optionality for both legacy and integrated cloud services that contain significant gaps in feature coverage. Our initial CTSS product offering help customers with cloud-native compliance and operational efficiency while facilitating significant new cloud services opportunities for the public cloud sales teams directly. Additional planned CTSS optional tools include data privacy and security tools, for a variety of cloud services providers, including the AWS Cloud, Azure Cloud, Google Cloud platforms.
+ 
+Cloud-DPS 
+ 
+Our Cloud-based DPS web service system architecture enhances already existing storage and collaboration solutions such as Box, DropBox and Google Drive, and more, by adding document tamper-proof protection and workflows such as document sign-offs, authentication, secure distribution and collaboration. The Cloud-DPS technology can be deployed and scaled in wide range of vertical markets such as Corporate agreements/contract management, IP protection, Real Estate contract management, HealthCare and Law Enforcement secure document management and a wide variety of Aerospace, Automotive and Engineering industrial applications.
+ 
+Although the Cloud-DPS product is available today under a subscription-based licensing model, it is presently undergoing an engineering/architectural review to determine effort to modernize the underlying code-base into a cloud-native-based application that can also be bundled/integrated into and with the CTSS platform.
+ 
+   7
+
+ 
+
+Customers and Markets
+ 
+OVTZ intends to capture a significant portion of the cloud data privacy software and cloud native data protection service revenues within the $100B+ worldwide data protection market through a variety of OVTZ-developed cloud-native software tools within a 5-year timeframe. Global regulatory enforcement of data privacy legislation issued fines are breaking records each year, are non-insurable losses, and create unparalleled brand damage. The worldwide FinTech market was fined $14B in 2020. OVTZ helps global organizations and individuals cost-effectively manage data privacy compliance. Currently OVTZ has no customers for our products and services. We are taking steps to monetize our new cloud-native CTSS and FMY solutions, as well as the current Cloud-DPS technology in FY21.
+ 
+Forget-Me-Yes™ (FMY)
+ 
+FMY potential addressable markets cover a wide variety of data governance, data management, data privacy and data protection segments.
+ 
+
+● | Global Enterprise Governance, Risk and Compliance (eGRC) 2019 market size was valued at $31.5B with a 10% CAGR reaching $51.5B in 2024 (Source: Markets&Markets)
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | GDPR services market alone is projecting 26% CAGR with revenues at $3.1B by 2023, while the GDPR Data Governance market exclusively is projecting 21% CAGR with revenues to reach $4.8B by 2024 (Source: Markets&Markets)
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Global Enterprise data management platform market size expected 15% CAGR to reach $3B by 2023 (Source: MarketsResearchFuture)
+--+------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Regulatory Technology (RegTech/$55B by 2025), Risk&Compliance FinTech sector = $1B in 2019, forecast growth of 19.4% CAGR to reach $3.9B by 2025 (Source: Grandview Research)
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Data Privacy Management FY20 revenues were $ and are expected grow 13.7% annually to $1.6B by 2027 (Source: IDC, Insight Partners)
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Initial FMY target market segment and customers will be Salesforce CRM organizations. Salesforce FY20 revenues were $17.1Billion, up 29% year-over-year, with FY21 revenue guidance to $21Billion. With over 150,000 partners and customers across every vertical market segment, Saleforce is the #1 CRM platform worldwide. Top-10 customers include Accenture, Amazon Web Services, American Express, American Red Cross, CapGemini, Canon, Deloitte, IBM, NBC Universal, L’Oreal Americas and Toyota. Our initial FMY beta release is being tested by The Corrao Group, who is the #5th. ranked Salesforce consulting partner worldwide. Additional initial FMY targets will be cloud DevOps service providers seeking to reduce compliance risk and Database-as-a-Service (DBaaS) providers.
+ 
+ComplyTrust™ SaaS Suite (CTSS)
+ 
+CTSS potential addressable market opportunities cover a wide range within the data management and data protection segments.
+ 
+
+● | Worldwide public cloud service revenues were $257B in FY20, with a forecasted 6% Y/Y growth to $364B in FY21 (Source: Gartner)
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide FY20 public cloud market shares were AWS-53%, Azure-31%, AliBab-9%, GCP-7% (Source:Gartner, WikiBon)
+--+---------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide FY20 cloud data storage market was $50B, forecasted to be $137B by 2025 (Source: MarketResearchFuture)
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide FY20 public cloud revenue represents only 4% of overall IT FY20 spend of $3.9Trillion. (Source: Gartner)
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+● | Enterprise business FY20 workloads were 38% within public cloud and 41% in private cloud (Source: Markets&Markets)
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide data protection market FY20 revenues $77B, forecasted to be over $119B in 2022 (Source: Verified Market Research)
+--+----------------------------------------------------------------------------------------------------------------------------
+
+ 
+   8
+
+ 
+
+
+● | Worldwide cloud backup and recovery market segment forecasted to reach $11B in 2022, driven by the FY20 $5.1B Disaster Recovery-as-a-Service (DRaaS) market forecasting a 23% Y/Y to $14.6B by 2025. (Source: Gartner)
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide FY20 copy-data-management market revenues were $48B. (Source: IDC)
+--+-----------------------------------------------------------------------------
+
+ 
+CTSS customer focus will initially be within the cloud-native AWS segment within specific vertical markets including Aerospace, Financial Services, Genomics, Healthcare and Transportation. Follow-on cloud-native service enhancement targets include Azure, Digital Ocean, GCP, Rstor and Wasabi. Future CTSS offerings will include integration with other 3rd. party ISV’s and more.
+ 
+
+Cloud-DPS 
+ 
+The original principal market for our Cloud-DPS product and services were businesses requiring digital document protection, authentication and storage. However, recent developments in the overall ‘digital watermark’ market lends a need to re-assess the current Cloud-DPS technology applications.
+ 
+
+● | Worldwide digital signature and document services market has a forecasted growth of 20% Y/Y reaching $1.9B by 2023. (Source: Technavio)
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | DocuSign owns 71% of the worldwide digital document market, with their closest competitors Adobe (5.1%) and SignNow (5.6%) marketshare. (Source: Datanyze)
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide virtual data room market was $1.4B in FY20 forecasted to be $2.7B by 2025 (Source: Markets&Markets)
+--+--------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide OTT content digital watermarking market revenues hit $1B in FY20 with a modest 1% Y/Y growth thru 2024. (Source: Kagan)
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Worldwide automated content recognition market hit $1.7B in FY20 and is forecasted to reach $12.7B by 2026. (Source: Facts&Factors Research)
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Potential new applications for Cloud-DPS technology include audio/audience monitoring marks, content integrity, content protection, forensics, reverse-image search, user tracing and most recently package identification, tracking and monitoring. One example is the recent ‘HolyGrail’ pilot project sponsored by the World Wildlife Fund, which is targeting businesses, government, individuals and industry for application of digital watermarks on post-consumer packaging for eco-friendly, Smart-City recycling of the high-volume plastic waste. The underlying digital watermark technology in Cloud-DPS could also be a potential candidate for the Digital Watermarks Initiative that strives for No Plastics In Nature by 2030 and supports seventeen (17) of the United Nations Sustainable Development Goals (SDG’s). To-date, there are over 80+ participants in the HolyGrail2.0 project striving for viability.
+ 
+
+Materials and Supplies
+ 
+We are actively in the process of building and implementing an integrated, highly-secure, agile software development and IT operations (DevSecOps) framework in conjunction with an independent 3rd. party managed services and infrastructure provider. Our continuous integration/continuous delivery (CI/CD) pipeline process incorporates agile software development, test, QA and release tools, includes embedded security within our entire development and operations lifecycle. All components of our integrated project management and software development release process, inner-company and external communications processes, utilize state-of-the-art subscription-based software tools. All components and services employed by our company include backup/disaster recovery and high-availability infrastructure, processes and services. Both corporate and application-specific ISO/NIST security certifications and training are planned, as they will be required to successfully engage with our targeted Enterprise-class customers and markets. There are no seasonal limitations on our operations.
+ 
+   9
+
+ 
+
+Competition
+ 
+To successfully launch our products and services and derive revenues from our technology, we face competition from a number of companies with more established products and services within all our market sectors. Our specific key product technology differentiators, go-to-market efficiencies that clearly demonstrate OPEX cost benefits, will drive acceptance, adoption and relevance to meet and realize forecasted revenues. To the best of our knowledge and understanding of our competitive landscape, there are no seasonal limitations applicable.
+ 
+
+Forget-Me-Yes™ (FMY)
+ 
+
+● | OneTrust > Founded in 2016, with over $167M in FY20 revenues and a valuation of $5.1B (private), OneTrust is the leader in both data privacy management market share and revenues. Average subscription cost ranges from $27./month - $500./month+.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | TrustArc > Founded in 1997, with over $52M in FY20 revenue, acquired Nymity for their data privacy management platform. Average subscription cost is available by custom quotation only.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | BigID > Founded in 2015, with over $40M in FY20 revenue and a $1B valuation. Average subscription cost is available by custom quotation only.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | ControlCase > Founded in 2004, with over $38M in FY20 revenues, are primarily focused on credit card PCI-DSS compliance. Average subscription cost starts at $500.+/month.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Privitar > Founded in 2014, with over $29M in FY20 revenues, are primarily focused on Average subscription cost is available by custom quotation only.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+All above competitors have ISO/NIST and other regulatory compliant data management certifications.
+ 
+
+ComplyTrust™ SaaS Suite (CTSS)
+ 
+
+● | Daegis/OpenText > Originally founded in 1980 and acquired by OpenText in 2015 posted $3.5B in FY20 revenues, is primarily focused on Enterprise information management and data governance solutions.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | StoredIQ > Founded in 2001 and acquired by IBM in 2012, with estimated $6B in FY20 revenues, a component of IBM’s Cloud services suite.
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Tibco > Founded in 1997, posted $10.2B FY20 revenues, with primary focus on Enterprise data governance.
+--+--------------------------------------------------------------------------------------------------------
+
+ 
+Varonis > Founded in 2005, with revenues of $130M in FY20, primary focus on data security.
+ 
+Cloud-DPS 
+ 
+Document Management-specific competitors
+ 
+
+● | Adobe Doc Cloud > Founded in 2006 with revenues of $1.5B in FY20, is a close contender as the e-signature market share leader.
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Docusign > Founded in 2003 with revenues of $974M in FY20, shares the overall lead market share with Adobe.
+--+------------------------------------------------------------------------------------------------------------
+
+
+● | eSign > Founded in 2011 with revenues of $5M in FY20, is primarily focused in the Brokerage market.
+--+----------------------------------------------------------------------------------------------------
+
+
+● | HelloSign > Founded in 2010 and acquired by Dropbox in 2019, reported revenues of $465M in FY20, primarily focused on digital document storage.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | MSB Docs > Founded in 2003 with estimated FY20 revenues of $7M, signed a partnership with AuthBridge in December 2020 to provide an AI-driven OCR digital document signature solution.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | OneSpan > Founded in 1991, a member of the FIDO Alliance and a partnership with Salesforce, reported FY20 revenues of $37M, and is primarily focused in the financial document management market.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | SignNow > Founded in 2011 with estimated FY20 revenues of $2.1B, is primarily focused in the Healthcare document management market.
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+   10
+
+ 
+
+Digital Watermark-specific competitors
+ 
+
+● | Advestigo > Founded in 2002 with estimated revenues of $15M in FY20, is primarily focused on theraography technology for content-based fingerprinting.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Civolution > Founded in 2008 with estimated revenues of $16M in FY20, is focused on media content watermarking.
+--+----------------------------------------------------------------------------------------------------------------
+
+
+● | Digify > Founded in 2011 with estimated FY20 revenues of $10M, is partnered with Samsung (SEPCO) and primarily focused on mobile application content management.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Digimarc > Founded in 1995 with $1.3B in FY20 revenues, is the leader in digital identity management for all forms of media.
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+● | Intrasonics > Founded in 2000 with estimated revenues of $36M, is primarily focused on digital audio watermarking.
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+● | WetStone Technologies > Founded in 1997 with estimated revenues of $36M is focused in the cyber security/computer forensics market.
+--+------------------------------------------------------------------------------------------------------------------------------------
+
+Current participating members in the HolyGrail-2 Digital Watermark Project cross-value chain initiative are APK, Arburg, Arca, Arla, AveryDennison, Azul, BASF, Beiersdorf, Berry, Borealis, Bosch, Braskem, CCL, Ceflex, Citeo, City of Copenhagen, ClosedLoop, Coca-Cola, Colgate-Palmolive, Constantia, DagSam, Danon, Dansk, Digimarc, DM, Dow, Elif, Elopak, Esko, Essity, Expra, FiliGrade, Finat, FlintGroup, Foboha,, Formika, FujiSeal, General Mills, Gizeh, Graham, Greiner, GS1, Henkel, HL-Repro, HTP, Indorama, Intermat, IPL, ITC, Jabil, Johnson & Johnson, Jokey, Kellog’s, Kellpo, Kiefel, Korsini, KraftHeinz, L’OREAL, MacDermid, Masterpress, MikoPac, Milliken, Mondelez, Mondi, MSS, Muller, Nestle, NYCO, Orkla, PAC, Paccor, ReturPack, PepsiCo, Proctor&Gamble, Reclay, Rewe, Reynders, Rossman, Scibic, SaicaFlex, Saueressig, Seeberger, SGK, Schulstad, Schwartz, Siegwerk, Sleever, Sonoco, Storaenso, Styrenics, Suez, Sulayr, Sun Chemical, TetraPak, Tomra, Unilever, Ghent University, Vandemoortele, Veolia, Verpa, Viappiani, Wipak, Wrap and more.
+ 
+
+Research and Development
+ 
+Our current research and development is split between our Cloud-DPS ‘Wavelet’ digital watermark adaptive content protection technology and our new FMY microservices technology.
+ 
+Forget-Me-Yes™ (FMY)
+ 
+
+● | Cloud-native data extraction query engine(s) for Extract-Transform-Load (ELT) and Extract-Load-Transform (ELT) processing of both structured and unstructured data
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Zero-knowledge polymorphic encryption services
+--+-----------------------------------------------
+
+
+● | Cloud-native AI-driven bulk ingress/egress data processing services engine
+--+---------------------------------------------------------------------------
+
+
+● | Cloud-native multi-cloud services alerting/logging AI-driven engine
+--+--------------------------------------------------------------------
+
+ 
+
+Cloud-DPS 
+ 
+
+● | Image (Radiology-Xray) and Photo content protection for mobile Healthcare and Social Media markets
+--+---------------------------------------------------------------------------------------------------
+
+
+● | Mobile (Android/iOS) content security manager for Google Play store download
+--+-----------------------------------------------------------------------------
+
+
+● | Block chain capable Consumer Package tagging/watermarking for sorting and cross-value chain product management
+--+---------------------------------------------------------------------------------------------------------------
+
+ 
+Our fiscal 2020 research and development expenditures were $254,281.00.
+ 
+   11
+
+ 
+
+Acquisition of ComplyTrust Inc. (formerly OCL Technologies Corp.)
+ 
+On June 5th, the Company completed the acquisition of 100% of the shares of OCL Technologies Corp. www.ocltechnologies.com (hereafter “OCL”), a Delaware Corporation, with its head office located in the technology hub of San Diego, California. OCL is specifically focused on providing enterprise organizations and individuals with highly-secure data privacy tools that provide sustained and continuous global regulatory compliance of data subject rights, while independently protecting all parties. With the burgeoning growth of privacy regulation worldwide coupled with strict regulatory oversight, companies are dedicating significant resources to achieve and maintain compliance. In the past two years alone, initiatives such as the EU GDPR (General Data Protection Regulation effective May 25, 2018) as well as the CCPA (California Consumer Privacy Act passed June 28, 2018 and effective January 1, 2020) have mandated privacy rights and data protection for entities and individuals contemplated within their legislative frameworks. In addition to these, there are additional data privacy legislative initiatives on-going in Asia and both North and South America which will require data protection solutions. Oculus believes that the acquisition of OCL is a tremendous fit within its core objective of developing robust cutting edge technologies that address focused customer data protection requirements on a global scale.
+ 
+Consideration for the acquisition of OCL is 12,500,000 common shares of the Company and 12,500,000 share purchase warrants exercisable for a period of five years from date of issuance. The share purchase warrants are exercisable only upon specific performance criteria being met. Such criteria being 1) revenue sales projections per OCL’s proformas, or 2) listing on a major US exchange, or 3) change of control as defined below:
+ 
+
+i. | Meeting sales forecasts:
+---+-------------------------
+
+
+- | The greater of either the 20% vesting every six months or the pro rata percentage of warrants earned by the Company’s subsidiary, OCL Technologies Corp. (“OCL”) in years 1, 2 and 3
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | (100V/$125,000,000) of the warrants shall vest on June 4, 2021 (2022 and 2023), wherein “V” is the Gross Revenue of the business (as hereinafter defined) between the period June 4, 2020 – June 4, 2025;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | “Gross Revenue” means all monetary sums earned less any credits issued for returns and allowances, and, for certainty, Gross Revenue does not include Deferred Revenue;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- | eg: if the OCL warrant holders earn 60% of projected revenue in Year 1 then all option holders would also vest 60% .
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+ii. | the listing of the Company on any national securities exchange registered with the United States Securities and Exchange Commission under section 6 of the United States Securities Exchange Act of 1934, as amended, such as, but not limited to, the New York Stock Exchange, the NYSE American, and NASDAQ Stock Market; or
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+iii. | a Change of Control Event meaning, with reference to the Company: (a) the acquisition of a sufficient number of voting securities in the capital of the Company so that the acquirer (as referenced in the OCL Share Purchase Agreement dared for reference June 5, 2020) becomes entitled, directly or indirectly, to exercise more than 50% of the voting rights attaching to the outstanding voting securities in the capital of the Company (provided that, prior to the acquisition, the acquirer was not entitled to exercise more than 50% of the voting rights attaching to the outstanding voting securities in the capital of the Company); (b) an occurrence when a majority of the directors elected at any annual or extraordinary general meeting of shareholders of the Company are not individuals nominated by the Company’s then-incumbent board; or (c) sale of one or more assets of the Company (but for certainty excludes sales made in the normal course of Business) after the Closing Date (as defined in the OCL Share Purchase Agreement) resulting in the collection of monetary sums that is collectively more than 50% of the Gross Revenue of the Company during the twelve (12) month period immediately preceding the Closing Date (as defined in the OCL Share Purchase Agreement).
+-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+   12
+
+ 
+
+Intellectual Property 
+ 
+Our success is dependent, in part, upon our proprietary technology. We generally rely upon patents, trademarks, and trade secret laws to establish and maintain our proprietary rights in our technology products and services.
+ 
+On June 19, 2001, United States Patent Application No. 09/884,787, "Method and Apparatus for Digitally Fingerprinting Videos", was officially filed with the U.S. Patent and Trademark Office. This patent is for "MediaSentinel™". This patent expired in February of 2010. At this time, we have elected not to patent our Cloud-DPS technology until additional software development review is initiated to determine Cloud-DPS refresh requirements to be viable in today’s cloud-native world.
+ 
+Patent-pending technology encompassing the Forget-Me-Yes™ data privacy architecture includes our hybrid Zero-Knowledge data security process along with proprietary query engine and automated re-query services processes.
+ 
+In October 20202, trademark applications were made by OVTZ for both Forget-Me-Yes™ and ComplyTrust™.
+ 
+
+Laws and Regulations
+ 
+Our operations are or may be subject to various international, federal, provincial, state and local laws, regulations and recommendations relating to the marketing of products and relationships with data protection, intellectual property protection, the export of technology products to certain countries and privacy protection. Although we believe that we are compliance with all international, federal, provincial, state and local regulations, the risk of claims and actions against us for breach of the aforesaid laws cannot be eliminated completely. In the event of a breach of these laws, we could be held liable for any damages that result. The amount of such damages could have a materially adverse effect on our results of operations and financial condition.
+Employees 
+ 
+We currently have no employees. We engage independent contractors to provide services as necessary. Compensation for current and future work will be conducted on a contract basis. 
+ 
+The loss of the services of any key management could have a materially adverse effect on the Company. We do not maintain key man life insurance on the life of its officers. In addition, our future success will depend in part upon its continuing ability to hire, train, motivate and retain key senior management and skilled technical and marketing personnel. Competition for technical personnel in the industry we compete in is intense. Our future success will depend in part on our continued ability to contract, assimilate and retain qualified personnel. To date, we have had limited success in recruiting qualified contractors, but there is no assurance that we will continue to do so in the future. Attracting qualified expertise is contingent on raising sufficient working capital and project advancement.
+ 
+
+Oculus' Website
+ 
+Our website address is www.ovtz.com. Information found on our website is not incorporated by reference into this annual report. We make available free of charge through our website our Securities and Exchange Commission ("SEC"), filings filed pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after it electronically files such material with, or furnish it to, the SEC through its website on EDGAR www.sec.gov/edgar/companysearch. We will also make available all financial reports filed in accordance with United States generally accepted accounting principles ("US GAAP") on SEDAR through its website www.sedar.com. We invite investors and interested parties to sign up for "Email Alerts" on our website to receive information such as press releases as they become available.
+ 
+   13
+
+ 
+
+Item 1. Financial Statements. 
+
+OCULUS VISIONTECH INC. AND SUBSIDIARY
+-------------------------------------
+CONSOLIDATED BALANCE SHEETS 
+(Stated in US Dollars) 
+
+
+ | December 31, | | | December 31, | 
+--------------------------------------------------------------------------------------------------------------------------------------------+--------------+-------------+---+--------------+--
+ | 2020 | | | 2019 | 
+ASSETS | | | | | | | 
+Current Assets: | | | | | | | 
+Cash and cash equivalents | $ | 490,190 | | | $ | 382,452 | 
+Prepaid expenses and other current assets | | 6,082 | | | | 1,267 | 
+Total Assets | $ | 496,272 | | | $ | 383,719 | 
+LIABILITIES AND STOCKHOLDERS' EQUITY | | | | | | | 
+Current Liabilities: | | | | | | | 
+Accounts payable and accrued expenses | $ | 32,329 | | | $ | 5,431 | 
+Accounts payable and accrued expenses - related parties | | 135,738 | | | | 129,985 | 
+Total current liabilities | | 168,067 | | | | 135,416 | 
+Commitments and Contingencies | | - | | | | - | 
+Stockholders' Equity: | | | | | | | 
+Preferred stock - no par value; authorized 250,000,000 shares, none issued | | | | | | | 
+Common stock and additional paid-in capital - no par value; authorized 500,000,000 shares, issued and outstanding 86,522,569 and 67,022,568 | | 44,073,257 | | | | 41,634,999 | 
+Commitment to issue shares | | 414,128 | | | | - | 
+Accumulated deficit | | (44,159,180 | ) | | | (41,386,696 | )
+Stockholders' equity | | 328,205 | | | | 248,303 | 
+Total Liabilities and Stockholders' Equity | $ | 496,272 | | | $ | 383,719 | 
+
+SEE ACCOMPANYING NOTES
+ 
+ 34
+
+ 
+
+
+OCULUS VISIONTECH INC. AND SUBSIDIARY
+-------------------------------------
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Stated in US Dollars) 
+
+
+For the Years Ended December 31, | 2020 | | | 2019 | 
+Revenue | $ | - | | | $ | - | 
+Expenses: | | | | | | | 
+Research and development | | 254,281 | | | | - | 
+Selling, general and administrative | | 266,567 | | | | 196,621 | 
+Stock-based compensation | | 284,793 | | | | - | 
+Impairment of intangible assets | | 1,966,939 | | | | - | 
+Total expenses | | 2,772,580 | | | | 196,621 | 
+Loss from operations | | (2,772,580 | ) | | | (196,621 | )
+Other income | | | | | | | 
+Interest income | | 96 | | | | 449 | 
+Gain on settlement of accounts payable | | - | | | | 3,307 | 
+ | | 96 | | | | 3,756 | 
+Net loss | $ | (2,772,484 | ) | | $ | (192,865 | )
+Net loss per share - basic and diluted | $ | (.04 | ) | | $ | (.00 | )
+Weighted-average number of common shares outstanding - basic and diluted | | 75,356,815 | | | | 57,032,157 | 
+
+SEE ACCOMPANYING NOTES
+ 
+   35
+
+ 
+
+
+OCULUS VISIONTECH INC. AND SUBSIDIARY 
+------------------------------------------------------------
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIENCY)
+(Stated in US Dollars) 
+
+
+ | Common Stock | | | | | | | | | | 
+-------------------------------------------------------+--------------+------------+--------+---+------------+--------------+---------------+---------+-------------+--------+------------
+ | | | | | | | Commitment to | | Accumulated | | | Stockholders'
+ | Shares | | Amount | | | Issue Shares | | Deficit | | Equity | 
+Balance at December 31, 2018 | | 45,572,568 | | $ | 40,458,297 | | $ | - | | $ | (41,193,831 | ) | $ | (735,534 | )
+Sale of common stock, net of $32,416 of issuance costs | | 21,450,000 | | | 1,176,702 | | | - | | | - | | | 1,176,702 | 
+Net loss | | - | | | - | | | - | | | (192,865 | ) | | (192,865 | )
+Balance at December 31, 2019 | | 67,022,568 | | | 41,634,999 | | | - | | | (41,386,696 | ) | | 248,303 | 
+Sale of common stock | | 7,000,001 | | | 773,038 | | | - | | | - | | | 773,038 | 
+Shares issued for asset acquisition | | 12,500,000 | | | 1,380,427 | | | - | | | - | | | 1,380,427 | 
+Contingent consideration | | - | | | - | | | 414,128 | | | - | | | 414,128 | 
+Share-based compensation | | - | | | 284,793 | | | - | | | - | | | 284,793 | 
+Net loss | | - | | | - | | | - | | | (2,772,484 | ) | | (2,772,484 | )
+Balance at December 31, 2020 | | 86,522,569 | | $ | 44,073,257 | | $ | 414,128 | | $ | (44,159,180 | ) | $ | 328,205 | 
+
+SEE ACCOMPANYING NOTES
+ 
+   36
+
+ 
+
+
+OCULUS VISIONTECH INC. AND SUBSIDIARY
+-------------------------------------
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Stated in US Dollars) 
+
+
+Years ended December 31, | 2020 | | | 2019 | 
+------------------------------------------------------------------------------------+------+------------+---+------+--
+Cash flows from operating activities: | | | | | | | 
+Net loss | $ | (2,772,484 | ) | | $ | (192,865 | )
+Add back non-cash share-based compensation | | 284,793 | | | | - | 
+Add back non-cash impairment of intangible assets | | 1,966,939 | | | | - | 
+Adjustments to reconcile net loss to net cash used in operating activities: | | | | | | | 
+Changes in operating assets and liabilities: | | | | | | | 
+Decrease (increase) in prepaid expenses and other current assets | | (4,815 | ) | | | (75 | )
+Increase (decrease) in accounts payable and accrued expenses | | (259,655 | ) | | | (51,446 | )
+Increase (decrease) in accounts payable and accrued expenses due to related parties | | 5,753 | | | | (555,436 | )
+Net cash used in operating activities | | (779,469 | ) | | | (799,822 | )
+Cash flows from investing activities | | | | | | | 
+Cash acquired on asset acquisition | | 114,169 | | | | - | 
+Net cash from investing activities | | 114,169 | | | | - | 
+Cash flows from financing activities | | | | | | | 
+Proceeds from the sale of common stock | | 773,038 | | | | 1,176,702 | 
+Net cash from financing activities | | 773,038 | | | | 1,176,702 | 
+Net increase in cash and cash equivalents | | 107,738 | | | | 376,880 | 
+Cash and cash equivalents at beginning of year | | 382,452 | | | | 5,572 | 
+Cash and cash equivalents at end of year | $ | 490,190 | | | $ | 382,452 | 
+Supplemental disclosures of cash flow information: | | | | | | | 
+Cash paid during the period for interest | $ | - | | | $ | - | 
+Cash paid during the period for income taxes | $ | - | | | $ | - | 
+Non-Cash Financing and Investing Activities | | | | | | | 
+Common stock issued on acquisition | $ | 1,380,427 | | | | | 
+Intangible acquired on acquisition | | (1,966,939 | ) | | | | 
+Warrants issued on acquisition | | 414,128 | | | | | 
+Account payable acquired on acquisition | | 172,384 | | | | | 
+ | $ | - | | | | | 
+
+SEE ACCOMPANYING NOTES
+ 
+   37
+
+ 
+
+OCULUS VISIONTECH INC. AND SUBSIDIARY 
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ December 31, 2020 and 2019
+(Stated in US Dollars) 
+ 
+
+
+ 
+1. | BASIS OF PRESENTATION AND BUSINESS
+---+-----------------------------------
+
+ 
+The accompanying consolidated financial statements include the accounts of Oculus and its wholly-owned subsidiaries, USVO Inc. (dissolved December 31, 2019) and OCL Technologies Corp. (from the date of acquisition, Note 6).
+ 
+Oculus VisionTech, Inc. (the "Company") is a designer of digital watermarking services and solutions. At December 31, 2020 and for the two-year period then ended, substantially all of the Company's assets and substantially all its operations are located and conducted in the United States and Canada.
+
+
+
+ 
+2. | GOING CONCERN
+---+--------------
+
+ 
+The accompanying consolidated financial statements have been prepared assuming the Company will continue as a going concern. As shown in the financial statements, the Company has incurred a loss of $2,772,484 for the year ended December 31, 2020 and, in addition the Company incurred losses of $192,865 and $183,279 for the year ended December 31, 2019. As of December 31, 2020, the Company had an accumulated deficit of $44,159,180 and a working capital of $328,205. These conditions raise doubt about the Company’s ability to continue as a going concern. The Company’s ability to continue as a going concern is dependent upon its ability to generate sufficient cash flow to meet its obligations as they come due which management believes it will be able to do. To date, the Company has funded operations primarily through the issuance of common stock and warrants to outside investors and the Company’s management. The Company believes that its operations will generate additional funds and that additional funding from outside investors and the Company’s management will continue to be available to the Company when needed. The financial statements do not include any adjustments relating to the recoverability and classification of recorded assets, or the amounts and classifications of liabilities that might be necessary in the event the Company cannot continue as a going concern.
+
+
+
+ 
+3. | SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+---+-------------------------------------------
+
+ 
+The accompanying consolidated financial statements include the accounts of the Company and its wholly-owned subsidiary. All intercompany accounts and transactions have been eliminated.
+ 
+The Company maintains cash in bank deposit accounts which, at times, may exceed federally insured limits. The Company has not experienced any losses on these accounts.
+ 
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+ 
+The Company considers all highly liquid investments with original maturities of three months or less to be cash equivalents.
+ 
+The Company sells its products to customers on an open credit basis. The Company’s trade accounts receivable are due from such customers and are generally uncollateralized. Management closely monitors outstanding accounts receivable and charges off to expense any balances that are determined to be uncollectible or establishes an allowance for doubtful accounts. As of December 31, 2020 and 2019, the Company had no account receivable.
+ 
+   38
+
+ 
+
+Revenue from hardware product sales is recognized when the product has been shipped and the collection of payment is reasonably assured. Revenue recognized from these sales is net of applicable provisions for refunds, discounts and allowances. Engineering services sales are recognized upon the service having been provided. The Company had no hardware product sales in 2020 or 2019.
+ 
+Revenue from software sales is recognized when the product has been delivered. Revenue from multiple element contracts (hardware, software and engineering) is allocated to the various elements based on fair value. If objective evidence of fair value is not available, revenue from these contracts is deferred until the earlier of when objective evidence of fair value does exist or all elements of the contract have been delivered. Discounts will be applied to each element on a proportionate basis. No portion of the revenue will be recognized if the portion of the revenue allocable to delivered elements is subject to forfeiture, refund or other concession. The Company had no software sales in 2020 or 2019.
+ 
+Revenue is recognized for digital water marking based on a contracted usage schedule on a monthly billing cycle. Revenue for digital watermarking software usage totaled $-0- in 2020 and 2019.
+ 
+Income taxes are accounted for under the liability method. Under this method, deferred tax assets and liabilities are recorded based on the temporary differences between the financial statement and the tax basis of assets and liabilities and for operating loss carry forwards measured using the enacted tax rates in effect for the year in which the differences are expected to reverse. The Company periodically evaluates the reliability of its net deferred tax assets and records a valuation allowance if, based on the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized.
+ 
+The foreign assets and liabilities of the Company are translated into U.S. dollars at current exchange rates, and revenue and expenses are translated at average rates of exchange prevailing during the period. The aggregate effect of translation adjustments is immaterial at December 31, 2020 and 2019.
+ 
+Basic loss per common share ("EPS") is computed as net loss divided by the weighted-average number of common shares outstanding during the period. Diluted EPS includes the impact of common stock potentially issuable upon the exercise of options and warrants. As of December 31, 2020 and 2019 there were no potentially issuable common stock, except for stock purchase warrants.
+ 
+Management does not believe that any other recently issued, but not yet effective, accounting standards if currently adopted would have a material effect on the accompanying financial statements.
+ 
+
+
+ 
+4. | PREPAID EXPENSES AND OTHER CURRENT ASSETS
+---+------------------------------------------
+
+ 
+Prepaid expenses and other current assets consist of the following:
+ 
+ 
+ | 2020 | | 2019 | 
+Prepaid expenses | $ | 1,030 | | $ | - 
+Tax Receivable – Canadian GST | | 5,052 | | | 1,267
+ | $ | 6,082 | | $ | 1,267
+
+
+5. | ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+---+--------------------------------------
+
+ 
+Accounts payable and accrued expenses consist of the following:
+ 
+ 
+ | 2020 | | 2019 | 
+Accounts payable | $ | 16,670 | | $ | 5,048
+Accrued fees and expenses | | 15,659 | | | 383 
+ | $ | 32,329 | | $ | 5,431
+
+
+
+Accounts payable and accrued expenses - related parties consist of accounts payable for research and development, advances and accrued interest on related party debt.
+
+
+   39
+
+ 
+
+
+ 
+6. | ACQUISITION OF OCL TECHNOLOGIES CORP.
+---+--------------------------------------
+
+ 
+During the year ended December 31, 2020, the Company acquired a 100% interest in OCL Technologies Corp. (“OCL”) by issuing 12,500,000 shares with a fair value of $1,380,427 and contingent consideration consisting of 12,500,000 non-transferable warrants with a fair value of $414,128. The transaction does not meet the definition of a business as defined in ASC 805-10. As a result, the acquisition of OCL has been accounted for as an asset acquisition, whereby all of the assets acquired and liabilities assumed are assigned a carrying amount based on their relative fair values. Upon closing of the transaction, OCL became a subsidiary of the Company. The net assets acquired pursuant to the acquisition are as follows:
+ 
+ 
+Purchase Price | | 
+------------------------------------+---+----------
+Issuance of 12,500,000 shares | $ | 1,380,427
+Contingent consideration - warrants | | 414,128 
+Transaction costs | | 54,532 
+Total Purchase Price | $ | 1,849,087
+
+
+
+Contingent consideration consists of 12,500,000 non-transferable warrants that are exercisable into 12,500,000 common shares if certain criteria are met at an exercise price of $0.001 for a period of five years from the date of issuance expiry June 4, 2025. No share purchase warrants are exercisable until specific performance criteria have been met. Such criteria being 1) revenue sales projections per OCL’s 5 year proformas, or 2) listing on a major US exchange, or 3) change of control. The Company has estimated the fair value of the contingent consideration to be $414,128.
+ 
+ 
+Purchase Price Allocation | | | 
+--------------------------------------------+---+-----------+--
+Cash | $ | 114,169 | 
+Accounts payable and due from related party | | (232,021 | )
+Intangible asset | | 1,966,939 | 
+Total Purchase Price | $ | 1,849,087 | 
+
+
+
+During the year ended December 31, 2020, the Company impaired the intangible asset resulting an expense on the consolidated statement of operations of $1,966,939.
+
+
+   40
+
+ 
+
+
+ 
+7. | COMMON STOCK
+---+-------------
+
+ 
+The Company has one class of no par value common stock with 500,000,000 authorized shares 86,522,569 and 67,022,568 outstanding on December 31, 2020 and 2019, respectively.
+ 
+On June 19, 2019, the Company issued 7,500,000 shares to a consultant and directors at $0.075 CAD per share.
+ 
+On June 19, 2019, the Company issued 13,950,000 shares to investors at $0.075 CAD per share.
+ 
+On June 5, 2020, the Company issued 12,500,000 shares at a value of $0.15 CAD per share pursuant to the acquisition of OCL Technologies Corp.
+ 
+On June 5, 2020, the Company issued 7,000,001 shares to investors, including 1,766,667 common shares to a consultant and directors at $0.15 CAD per share.
+ 
+
+
+ 
+8. | STOCK OPTIONS
+---+--------------
+
+ 
+During the year ended December 31, 2020, the Company adopted a Rolling Stock Option Plan. Up to 10% of the Company’s issued and outstanding common shares may be reserved for granting of stock options.
+ 
+During the year ended December 31, 2020, the Company:
+ 
+i) granted 3,600,000 stock options to consultants, directors and officers exercisable into 3,600,000 shares at an exercise price of $0.35CAD and an expiry date of July 21, 2023. The options have a fair value of $909,900CAD, calculated using the Black-Scholes option pricing model using the following inputs (i) Volatility of 125%; (ii) Term of 3 years; (iii) Discount rate of 0.27%; (iv) Dividend rate of Nil; and (v) market stock price of $0.35. The options vest 20% every 6 months starting January 21, 2020. During the year ended December 31, 2020, the Company recorded $369,597CAD ($283,307US) of stock-based compensation relating to the vesting period.
+ 
+ii) granted 250,000 stock options to consultants, directors and officers exercisable into 250,000 shares at an exercise price of $0.45CAD and an expiry date of December 21, 2023. The options have a fair value of $75,800CAD, calculated using the Black-Scholes option pricing model using the following inputs (i) Volatility of 125%; (ii) Term of 3 years; (iii) Discount rate of 0.02%; (iv) Dividend rate of Nil; and (v) market stock price of $0.425. The options vest 20% every 6 months starting June 21, 2021. During the year ended December 31, 2020, the Company recorded $1,899CAD ($1,486US) of stock-based compensation relating to the vesting period.
+
+
+
+
+ 
+9. | COVID-19
+---+---------
+
+ 
+In December 2019, a coronavirus (COVID-19) was reported in China and in January 2020, the World Health Organization (WHO) declared it a Public Health Emergency of International Concern. In March 2020, the WHO declared it a global pandemic. COVID-19 continued to spread globally, directly impacting worldwide economic activity and financial markets. The extent of the COVID-19 impact to future operational and financial performance will depend on the duration and spread of the outbreak, related public health measures, and their impact on the macroeconomy. While the Company expects this matter to negatively impact the Company's financial condition, results of operations, or cash flows, the extent of the financial impact and duration cannot be reasonably estimated at this time, as none of these impacts can be predicted with certainty.
+ 
+
+
+ 
+10. | INCOME TAXES
+----+-------------
+
+ 
+As of December 31, 2020, the Company had deferred tax assets resulting primarily from net operating loss carry forwards of approximately $31,116,000., which are available to offset future taxable income, if any, through 2040. As utilization of the net operating loss carryforwards is not assured, a 100% valuation allowance has been provided (tax rates have been adjusted for Tax Cuts and Job Act).
+ 
+The components of the net deferred tax assets are as follows:
+ 
+ 
+December 31, | 2020 | | | 2019 | 
+----------------------------------+------+------------+---+------+--
+Net operating loss carry-forwards | $ | 6,755,000 | | | $ | 6,586,000 | 
+Valuation allowance | | (6,755,000 | ) | | | (6,586,000 | )
+Net deferred tax assets | $ | - | | | $ | - | 
+
+
+
+   41
+
+ 
+
+The reconciliation of the effective income tax rate to the federal statutory rate are as follows:
+ 
+ 
+Year Ended December 31, | 2020 | | | 2019
+--------------------------------------------------------+------+-----+---+-----
+Federal statutory tax rate | | 21 | % | | 21 | %
+Valuation allowance on net operating loss carryforwards | | (21 | ) | | (21 | )
+Effective income tax rate | | 0 | % | | 0 | %
+
+
+
+As of December 31, 2020, open Federal income tax years subjected to examination, include the tax years ended December 31, 2019 through December 31, 2018. Tax carry forwards began to expire in 2019.
+
+
+
+
+ 
+11. | RELATED PARTIES
+----+----------------
+
+ 
+The Company for the years ended December 31, 2020 and 2019 reimbursed a related party $27,479 and $25,184, respectively. The Company incurred no expenses from a related party for research and development for the years ended December 31, 2020 and 2019. Related parties advanced (repaid) the Company approximately $Nil and ($555,000) during 2020 and 2019, respectively.
+
+
+
+
+ 
+12. | OPERATING LEASES
+----+-----------------
+
+ 
+The Company has one operating leases with unrelated third parties for office space at the Vancouver, Canada.
+ 
+The lease at the Vancouver, Canada location is on a month-to-month basis with monthly rental payments of $3,950 (CND). For the years ended December 31, 2020 and 2019 rent expense was $36,340 and $38,651, respectively.
+
+
+
+
+ 
+13. | QUARTERLY FINANCIAL INFORMATION (UNAUDITED)
+----+--------------------------------------------
+
+ 
+The following table summarizes selected quarterly data for the years ended December 31, 2020 and 2019:
+ 
+ 
+Year Ended December 31, 2020 | First Quarter | | | Second Quarter | | | Third Quarter | | Fourth Quarter | | Full Year | 
+-----------------------------------------------------+---------------+---------+---+----------------+---+---------+---------------+---+----------------+---+-----------+-----------
+Revenue | $ | - | | | $ | - | | $ | - | | $ | - | | $ | - | 
+Expenses and other items | $ | (73,269 | ) | | $ | (84,417 | ) | $ | (296,973 | ) | $ | (2,317,825 | ) | $ | (2,772,484 | )
+Net gain (loss) | $ | (73,269 | ) | | $ | (84,417 | ) | $ | (296,973 | ) | $ | (2,317,825 | ) | $ | (2,772,484 | )
+Net gain (loss) per common share – Basic and diluted | $ | - | | | $ | - | | $ | - | | $ | (0.04) | | $ | (0.04) | 
+
+
+Year Ended December 31, 2019 | First Quarter | | | Second Quarter | | | Third Quarter | | Fourth Quarter | | Full Year | 
+-----------------------------------------------------+---------------+---------+---+----------------+---+---------+---------------+---+----------------+---+-----------+--------
+Revenue | $ | - | | | $ | - | | $ | - | | $ | - | | $ | - | 
+Expenses and other items | $ | (52,680 | ) | | $ | (69,486 | ) | $ | (42,817 | ) | $ | (27,882 | ) | $ | (192,865 | )
+Net gain (loss) | $ | (52,680 | ) | | $ | (69,486 | ) | $ | (42,817 | ) | $ | (27,882 | ) | $ | (192,865 | )
+Net gain (loss) per common share – Basic and diluted | $ | - | | | $ | - | | $ | - | | $ | - | | $ | - | 
+
+
+
+   42
+
+ 
+
+
+ 
+14. | SUBSEQUENT EVENT
+----+-----------------
+
+ 
+Subsequent to December 31, 2020, the Company issued 500,000 stock options with an exercisable into common shares for 3 years at a price of $1.20 (CAD). On January 21, 2021, the company’s wholly-owned subsidiary completed a corporate name change from OCL Technologies Corporation (OCL) to ComplyTrust Inc. (CTI).
+
+
+   43
+
+ 
+
+

@@ -1,0 +1,129 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS.
+Background
+ 
+We are a medical device technology and software as a service (SaaS) company focused on enabling primary care physicians (PCP’s) to increase their revenues by providing them with relevant, value-based tools to evaluate and treat chronic disease through reimbursable procedures. In some cases, the products we will provide our physician clients will enable them to diagnose and treat patients with chronic diseases which they historically have referred to specialists, allowing them to enhance their practice revenue. As part of our mission, we are providing PCP’s with the software, training and devices necessary to allow them to treat their patients using value-based healthcare, informatics and algorithmic personalized medicine, including digital therapeutics which foster reimbursable behavior based remote patient monitoring, chronic care and preventive medicine.
+ 
+In December 2019 we consummated a share exchange agreement pursuant to which we issued 2,172,600 shares of our common stock, $.0001 par value (the “common stock”) to the stockholders of Medical Practice Income, Inc. a Florida corporation (“MPI”) in exchange for all of the then issued and outstanding shares of common stock of MPI (the “Share Exchange”). As a result of our acquisition of MPI we became engaged in value-based healthcare, informatics and algorithmic personalized medicine including digital therapeutics, behavior based remote patient monitoring, chronic care and preventive medicine.
+ 
+In October 2020, we entered into an exclusive distribution agreement (the “Distribution Agreement”) whereby MedScience Research Group, Inc. (“MedScience”), granted us an exclusive right to distribute its allergy diagnostic and allergen immunotherapy system named AllergiEnd® and related components to non-allergy specialist physicians. MedScience’s FDA cleared product AllergiEnd® is a proprietary line of diagnostic equipment and products, which allows PCPs to diagnose and treat many common chronic allergies, providing the non-allergy specialist physician with the ability to broaden their practice and increase their revenues.
+ 
+We introduced our QHSLab, Software as a Service (SaaS) platform, to 159 medical practices in June 2020 on a free test use basis. Through September, physicians in these practices provided 374 allergy patients with a QHSLab-generated allergen immunotherapy prescription, generating an estimated $664,608 in revenue for these physicians’ practices. In November, building on the capabilities of our QHSLab, we began shipping AllergiEnd® diagnostic related products and immunotherapy treatments to these physicians in response to their requests based upon courses of treatment recommended for their patients by QHSLab. Our revenue in the fourth quarter was $124,532 as a result of these sales.
+ 
+Based on the success of PCPs using our QHSLab allergy diagnostics combined with the products licensed from MedScience, we intend to increase our revenues by charging physicians a monthly subscription fee for the use of QHSLab and soliciting additional PCPs to increase their revenues by using our proven revenue generating QHSLab and AllergiEnd® line of products. We also plan to introduce additional point of care diagnostic, digital medicine, and treatments that PCPs can use and prescribe in their practices. In all cases, PCPs will be paid under existing government and private insurance programs, based upon analyses conducted utilizing QHSLab.
+ 
+Industry
+ 
+The healthcare industry has yet to experience the improvements in outcomes, access, and cost-effectiveness that have transformed many other industries through the use of digital technologies. In an effort to address a worsening pandemic of chronic diseases associated with aging populations, technology companies are now contributing innovative solutions that enhance chronic care management through the structured capture, storage and analysis of large quantities of patient data, and remote monitoring digital applications to reduce the burden of care on healthcare systems.
+ 
+Digital medicine products utilizing sophisticated hardware and software to capture, store, analyze and access patient data, can be used independently or in concert with pharmaceuticals, biologics, devices, or other products to optimize patient care and health outcomes. A key component of digital medicine is the analysis of raw patient data, including physiological and environmental signals or responses to digital health risk assessments to provide the physician with result-oriented output that can be used to assess a patient’s health and when appropriate, prescribe a course of treatment
+ 
+
+3
+-
+
+ 
+
+Digital Therapeutics, that is, the use of digital medicine products to assess a patient’s state of health and monitor progress in response to recommended lifestyle changes and treatment regimens, is considered a treatment in its own right, and may be reimbursable depending upon patient outcomes and data capture, giving health-care providers an economic incentive to engage in digital therapeutics. We intend to add features to our QHSLab which allow PCPs to engage in digital therapeutics for which they will be reimbursed.
+ 
+QHSLab Expert System
+ 
+We have developed and are constantly upgrading our high-level, fully automated cloud-based Software as a Service (SaaS) system named the Quality Health Score Lab Expert System (“QHSLab”) which will provide physicians and healthcare organizations with the ability to capture and store patient information electronically in a secure database. The patients’ data can be analyzed by specific and proprietary algorithms, assisting the physician in making a diagnosis and prescribing a course of treatment. In addition to providing QHSLab to approximately 150 general practice physicians on a test basis in 2020, we provided these physicians with the analytical tools necessary to diagnose and treat allergies which allowed them to increase revenues by expanding the breadth of their practices. Our focus for the immediate future, is to increase the number of physicians utilizing our QHSLab, to charge all users a monthly fee, to expand the number of diagnostic algorithms incorporated into the QHSLab and to add features which allow PCPs to engage in reimbursable forms of digital therapeutics, thereby enabling general practice physicians to increase their revenues.
+ 
+Our QHSLab Expert System is capable of handling large quantities of data, without compromising security, accuracy or precision. We can set parameters to accommodate prospective client physician and healthcare organization policy and will deal easily with significant increases in user work load. Our cloud-based software and IT system scales to allow a virtually unlimited number of user sessions to be activated. By utilizing a set, well-known path built into our third-party ‘robust’ cloud server infrastructure our QHSLab is not only capable of scaling to a large number of users, but is also built on a globally-scalable architecture, allowing us to deliver high availability to users in just about any geographic region.
+ 
+The importance of identifying particular health risks and the indicators of the risks to be identified vary between different healthcare settings and sectors. Some require psychological data while others require a detailed medical history and list of medications. The data collected and analyzed by our QHSLab and the feedback provided to a physician can be tailored to provide the physician with an individualized assessment tailored to his practice.
+ 
+One example of how QHSLab can be programmed to provide a physician with specific information leading to a prescribed course of treatment was the use of QHSLab by general practice physicians who received the system in June to diagnose allergic conditions in 374 patients and to provide these patients with a QHSLab-generated allergen immunotherapy prescription, generating an estimated $664,608 in revenue for these practices. Traditionally, general practice physicians would have elected not to treat these conditions or referred the patients to an allergy specialist. To capitalize on the new found capabilities of these physicians, in November, we began shipping AllergiEnd® diagnostic related products and immunotherapy treatments to these physicians for their patients. We generated $124,532 in revenue in the fourth quarter through these sales.
+ 
+Advantages of the QHSLab Expert System
+ 
+QHSLab has the potential to play the same role in behavioral medicine and lifestyle interventions that pharmacological interventions play in biological medicine. It will help physicians and healthcare organizations overcome barriers preventing adoption of behavioral and therapeutic change programs for health promotion and disease prevention through easy to use applications.
+ 
+
+4
+-
+
+ 
+
+Through purposeful design, the QHSLab Expert System:
+ 
+
+● | Conducts a comprehensive assessment of patient behaviors, lifestyle and disease risk; 
+--+-----------------------------------------------------------------------------------------------------
+● | Integrates into existing physician and healthcare interventions; 
+● | Collects and compiles relevant, empirical data; 
+● | Utilizes this information for decision making (both artificial and naturalistic); 
+● | Accounts for individual differences yet is appropriate for whole populations; 
+● | Provides guidelines for consistent decisions; 
+● | Demonstrates flexibility by allowing new variables to be added; 
+● | Requires relatively low-skilled IT involvement in assessment or patient program development; and 
+● | Maximizes revenue by providing less costly ‘digital’ alternatives to face-to-face interactions. 
+
+ 
+Our interventions will be ideal for population-based approaches. We provide an efficient means of screening. Upon development, our interactive artificial intelligence (AI) based programs will branch into in-depth assessment when a problem area is identified. QHSLab will include a large array of interventions that can be matched to individual user requirements.
+ 
+QHSLab will be expanded to incorporate a wide variety of different intervention materials. Our AI driven approaches will range from patient treatment seeking intentions and motivational materials for participants in early stages of behavioral change to more detailed advice and support for participants in later stages of behavioral change. As a participant progresses (or regresses), different intervention materials will be available.
+ 
+Our system will provide an automated recording device so that minimal amounts of progress can be detected and reinforced. Gathering data through automation provides an extensive empirical data base that can be used to both serve the participant and provide an evaluation of the effectiveness of the system. Since health risk prevention can be very expensive in terms of the resources required to provide services to all participants, QHSLab represents a far less costly alternative.
+ 
+AllergiEnd®
+ 
+The first point of contact for most allergy patients is their primary care doctor or pediatrician. There are approximately 60 million Americans affected by allergic disorders, yet there are fewer than 3,000 practicing Board Certified Allergists and approximately 2,400 Board Certified Otolaryngologists specializing in allergy or approximately 1 specialist for every 11,000 allergy sufferers. It is estimated that the number of full-time equivalent (FTE) allergists/immunologists will decline about 7 percent in coming years. Meanwhile, demand for the services these physicians provide is projected to increase by 35 percent over the foreseeable future.
+ 
+Only a limited number of primary care physicians have sufficient training to diagnose and treat allergy-suffering patients in their offices. The primary care provider is managing many forms of chronic diseases today that in the past were in the specialist domain, while allergies have remained the exception. We believe there is a need to equip primary care physicians, physician assistants, nurse practitioners, and nurses with the ability to diagnose and treat allergy sufferers and that this need provides the strong economic opportunity for the Company.
+ 
+The AllergiEnd® system empowers the allergist primary care providers with means to test patients for a broad spectrum of allergens within the confines of their office, thereby enabling the physician to identify the specific cause of the patient’s allergies which can lead to targeted allergen immunotherapy treatment as opposed to merely masking symptoms with various anti-histamines. The product line consists primarily of a disposable, one-time use set of FDA cleared and patented skin test applicators and a unique patented test tray for use with the test applicators.
+ 
+
+5
+-
+
+ 
+
+As part of our service, we provide physicians and their staff with the know-how and training in allergy screening via the QHSLab digital medicine platform, skin test confirmation of the particular allergen causing the allergy symptoms and targeted allergen immunotherapy necessary to enable the physician to desensitize positive allergic patients, thereby treating the cause of the allergies, not merely the symptoms. AllergiEnd® allergen immunotherapies are pharmacy compounded preparations provided by MedScience’s contract pharmacy in response to prescriptions given by the treating physicians that slowly expose the patient to small doses of the allergen culprit, either via subcutaneous injections in the doctor’s office or through convenient at home sublingual (under the tongue) oral drops. This approach is similar, if not identical, to that used by allergists the world over for many years. This builds the body’s immune system to the allergens, thereby overcoming the patient’s excessive reaction to allergens that were previously causing allergy symptoms. Allergen Immunotherapy practiced safety is the only known method of treatment that leads to prolonged tolerance to the allergens causing the patients allergic chronic disease. In addition to enhancing the level of care the doctor can provide their patients; the screening, testing and allergen immunotherapy are reimbursable under established CPT codes enhancing the physician’s practice and, in many instances, also providing a new cash pay alternative for physicians and their patients.
+ 
+Competition
+ 
+The market for future point of care and software as a service solutions is highly competitive and characterized by rapid change. The success of our solutions will be contingent upon our ability to provide superior solutions and a strong value proposition for all potential customers and their patients. Many existing competitors are well-established and enjoy greater resources or other strategic advantages. It is likely that there will be new entrants into our market, some of which may become significant competitors. With the introduction of new technologies and market entrants, we expect the competitive environment to be and remain intense. We currently face competition from a range of companies, including Teledoc Health, Virta Health Corp., Omada Health, Inc., Glooko, Inc., Hello Heart Inc., Lyra Health, Inc., Onduo LLC, Zillion, Inc., Lark Health and Noom, Inc.
+ 
+Our main competitors fall into the following categories:
+ 
+● private and public companies that offer specific chronic disease products and services, such as solutions for allergies and asthma, diabetes, hypertension, and certain addictions or behavioral health conditions;
+ 
+● large enterprises focused on the healthcare industry, including initiatives and partnerships launched by companies which may offer or develop products or services with features or benefits that overlap with our proposed future solutions; and
+ 
+● digital health device manufacturers that facilitate the collection of data but offer limited interpretation, feedback or guidance.
+ 
+Many of our current competitors enjoy greater resources, recognition, deeper customer relationships, larger existing customer bases, and more mature intellectual property portfolios than we do currently.
+ 
+Intellectual Property
+ 
+Although certain of our current software applications and pioneering methods, as well as those developed in the future, will be eligible for patent and trademark protection, we believe that the costs of maintaining and enforcing such intellectual property rights may not afford us a competitive advantage and for the immediate future we intend to rely primarily on maintaining the secrecy of our proprietary information.
+
+6
+-
+
+Government Regulation
+ 
+The healthcare industry is heavily regulated and closely scrutinized by federal, state and local governments. Comprehensive statutes and regulations govern the manner in which we and the PCPs which use our products provide and bill for services and collect reimbursement from governmental programs and private payors, our contractual relationships with vendors and clients, our marketing activities and other aspects of our operations. Of particular importance are:
+
+● | the federal physician self-referral law, commonly referred to as the Stark Law; 
+--+----------------------------------------------------------------------------------------------------------------------------------
+● | the federal Anti-Kickback Act; 
+● | the criminal healthcare fraud provisions of HIPAA; 
+● | the federal False Claims Act; 
+● | reassignment of payment rules that prohibit certain types of billing and collection by companies which do business with PCPs; 
+● | similar state law provisions pertaining to anti-kickback, self-referral and false claims issues; 
+● | state laws that prohibit general business corporations, such as us, from practicing medicine; and 
+● | laws that regulate debt collection practices as applied to our debt collection practices; 
+
+ 
+Because of the breadth of these laws and the narrowness of the statutory exceptions and safe harbors available, it is possible that some of our business activities could be subject to challenge under one or more of such laws. Dealing with investigations can be time- and resource-consuming and can divert management’s attention from our business.
+ 
+The FDA issued a Finalized Guidance on medical mobile applications (“Apps”). The FDA determined that certain Apps may meet the definition of a medical device because they provide the user with certain biologic information. The Guidance contains an appendix that provides examples of mobile apps that may meet the definition of medical device but for which the FDA intends to exercise enforcement discretion. These mobile apps may be intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease. Even though these mobile apps may meet the definition of medical device, the FDA intends to exercise enforcement discretion for these mobile apps because they pose lower risk to the public. Based on our understanding of the Guidance, although there can be no guarantee, we believe our QHSLab services will eventually be subject to regulatory requirements because such services seem to fall within the statutory examples of medical devices with respect to which the FDA intends to monitor compliance with applicable regulations. Although many of the APPs described in the Guidance have been in use for an extended period of time, the impact they have had on the need for patient visits to a physician and thus, on the use of our products, has not been determined.
+ 
+Employees
+ 
+As of March 11, 2021, we had three employees devoting full-time services to the Company, all of whom were engaged in direct sales. In addition, we engage independent entities and consultants that provide programming services, Quality Management System development and Medical Consulting & Advisory services. We believe that our relationships with our employees and consultants are good.

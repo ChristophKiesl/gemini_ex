@@ -1,0 +1,162 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing. Use only information from the following the text:
+
+ITEM 1. BUSINESS
+Corporate History
+ 
+Cerberus Cyber Sentinel Corporation (“Cerberus Sentinel”) was formed on March 5, 2019 as a Delaware corporation. Our principal offices are located at 6900 E. Camelback Road, Suite 240, Scottsdale, AZ 85251.
+ 
+Effective April 1, 2019, we acquired GenResults. GenResults was established on June 22, 2015. Prior to our acquisition of GenResults, GenResults was wholly owned by an entity affiliated with David G. Jemmett, our Chief Executive Officer and a director of the Company. As of December 31, 2019, GenResults is a wholly owned subsidiary of Cerberus Sentinel. Due to the companies being under common control, the Company accounted for the acquisition as a reorganization.
+ 
+On April 12, 2019, we consummated a transaction whereby VCAB Six Corporation, a Texas corporation (“VCAB”), merged with and into us (the “VCAB Merger”). At the time of the VCAB Merger, VCAB was subject to a bankruptcy proceeding and had minimal assets, no equity owners and no liabilities, except for approximately 1,500 holders of Class 5 Allowed General Unsecured Claims and a holder of allowed administrative expenses (collectively the “Claim Holders”). Pursuant to the terms of the VCAB Merger, and in accordance with the bankruptcy plan, we issued an aggregate of 2,000,000 shares of our common stock (the “Plan Shares”) to the Claim Holders as full settlement and satisfaction of their respective claims. As provided in the bankruptcy plan, the Plan Shares were issued pursuant to Section 1145 of the United States Bankruptcy Code. As a result of the VCAB Merger, the separate corporate existence of VCAB was terminated. We entered into the merger in order to increase our shareholder base in order to, among other things, assist us in satisfying the listing standards of a national securities exchange.
+ 
+Effective as of October 1, 2019, we entered into an Agreement and Plan of Merger (the “TalaTek Merger”) pursuant to which TalaTek became our wholly owned subsidiary. Under the TalaTek Merger, all issued and outstanding units representing membership interests in TalaTek were converted into an aggregate of 6,200,000 shares of our common stock.
+ 
+On October 2, 2019, we filed a Registration Statement on Form 10-12G (the “Registration Statement”) with the Securities and Exchange Commission (“SEC”) to register our common stock, par value $0.00001, under the Exchange Act. The Registration Statement became effective on December 1, 2019.
+ 
+Effective May 25, 2020, we entered into a Stock Purchase Agreement with Techville and its sole shareholder, pursuant to which Techville became a wholly owned subsidiary of the Company (the “Techville Acquisition”). Under the terms of the Techville Acquisition, all issued and outstanding common stock of Techville was exchanged for an aggregate of 3,392,271 shares of the Company’s common stock.
+ 
+
+4
+-
+
+
+Effective August 1, 2020, we entered into a Stock Purchase Agreement with Clear Skies and its equity holders, pursuant to which Clear Skies became a wholly owned subsidiary of the Company (the “Clear Skies Acquisition”). Under the terms of the Clear Skies Acquisition, all issued and outstanding equity securities in Clear Skies were exchanged for an aggregate of 2,330,000 shares of the Company’s common stock.
+ 
+On December 16, 2020, we entered into an Agreement and Plan of Merger (the “Alpine Merger Agreement”) pursuant to which Alpine became a wholly owned subsidiary of the Company. All units representing membership interests of Alpine issued and outstanding were converted into 900,000 shares of our common stock.
+ 
+Our Business
+ 
+We are a security services company comprised of highly trained security professionals who work with clients to create a continuously aware security culture. We do not sell cybersecurity products. We position ourselves as a trusted cybersecurity advisor and are committed to delivering tailored security solutions to organizations of different sizes and across all geographies and industries to fit their budgetary needs and limit their cyber threat exposure.
+ 
+We currently provide a multitude of cybersecurity services including managed security service, cybersecurity consulting, technology consulting, compliance auditing, vulnerability assessment, penetration testing, security remediation, Security Operations Center (“SOC”) set-up and consulting and cybersecurity training. We differentiate ourselves from competitors by staying technology agnostic. We believe that many cybersecurity service providers in the market today are committed to a specific technology solution which limits their service scope and ability to quickly respond to any emerging cybersecurity challenges. In addition, as we continue to serve our clients within our existing capacities, we plan to continue making strategic acquisitions of small-to-medium-sized engineer-led cybersecurity service businesses to continue to expand our service scope and geographical coverage. We believe that having a world-class technology team with multi-faceted expertise is key to providing technology agnostic solutions to our clients and maximizing their return on investment from cybersecurity and information technology (“IT”) spending.
+ 
+Cybersecurity Market
+ 
+As the world has become increasingly connected through the Internet and the Internet of Things (“IoT”), cyberattacks have prevailed and evolved over the years, in different forms, causing uncontainable threats to the integrity and privacy of enterprise and personal data and resulted in significant economic losses globally. The number IoT devices worldwide is forecast to almost triple from 8.74 billion in 2020 to more than 25.4 billion IoT devices in 2030. In 2020, the highest number of IoT devices is found in China with 3.17 billion devices. IoT devices are used in all types of industry verticals and consumer markets, with the consumer segment accounting for around 60 percent of all IoT connected devices in 2020. This share is projected to stay at this level over the next ten years.
+ 
+In response to the increasing economic damage caused by heightened cybersecurity risks, regulatory bodies have pushed the implementation of new cybersecurity legislations, and cyber insurance companies have increased minimum cybersecurity requirements. We believe that we are well positioned in a fast-growing industry to provide businesses with a wide scope of cybersecurity services and with significant opportunities for growth.
+ 
+Service Offering
+ 
+We currently  offer two major types of services to clients: Managed Services and Consulting Services.
+ 
+Managed Services
+ 
+Our Managed Services focus on a holistic approach to cybersecurity based on an upfront gap analysis of our clients’ existing cybersecurity practices. We provide multiple offerings in the service portfolio including the following:
+
+● | CISO-as-a-service: Many companies are in need of cybersecurity services but do not have the capital resources or knowledge base to hire a Chief Information Security Officer (“CISO”). We offer this service to companies on an ongoing consulting basis as a resource to augment their management team. CISO-as-a-service includes road mapping the future state for the client and providing our knowledge and expertise to help them achieve their security needs; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5
+-
+
+
+● | Culture education and enablement offering: This targets the root cause for 75% of cyber breach events by starting with a culture of security-forward thinking; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Tools and technology provisioning offering: We provide technology-agnostic solutions catering to a client’s existing products and enhances the cyber defense system by making carefully selected additions without bias and to fit their financial profile; 
+● | Data and privacy offering: This ensures that a client’s data security and privacy are properly managed to alleviate risks of data loss and breach; 
+● | Regulations and compliance offering: We evaluate a client’s policies and procedures and implement the appropriate compliance framework based on the latest industry regulations and obligations; and 
+● | SOC services: We offer SOC-as-a-service, which is a subscription-based service that manages and monitors client’s logs, devices, clouds, network and assets for possible cyber threats. This service provides the clients with the knowledge and skills necessary to combat cybersecurity threats. 
+
+Consulting Services
+ 
+Our consulting services include a wide array of tailored solutions for organizations of all sizes. Our in-depth industry expertise allows us to act as the trusted advisor of our clients to help them lower their risk profile, minimize cost impact to organizations and meet regulatory compliance demands. We specialize in:
+
+● | Cybersecurity consulting: Bringing the culture of cybersecurity to a client’s leadership team and penetrating throughout the organization is a critical first step of building any cybersecurity system. Through our consulting service, we dive in both at the cultural and technical aspects of cybersecurity within the organization. We help our clients build effective policies and best practices, design or enhance a cybersecurity system and train the executive management team so that the culture at the top is set to facilitate diligent implementation of cybersecurity awareness. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Compliance auditing: We provide auditing services under several compliance frameworks as follows: 
+
+
+○ | Service Organization 2 (“SOC 2”) – This is an auditing procedure that focuses on a business’ non-financial reporting controls related to security, availability, processing, integrity, confidentiality, and privacy of a system; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+○ | Payment Card Industry Data Security Standard (“PCI DSS”) – This is a standard administered by the Payment Card Industry Security Standards Council; 
+○ | Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) and The Health Information Technology for Economic and Clinical Health Act of 2009 (“HITECH”) – These are laws regulated by the Department of Health and Human Services (“HHS”) to secure the privacy and confidentiality of protected health information (“PHI”); 
+○ | HITRUST CSF – This is a comprehensive security framework (“CSF”) developed by the Health Information Trust Alliance (“HITRUST”) in collaboration with healthcare, technology and information security leaders, to create, access, store and exchange sensitive and/or regulated data; and 
+○ | The National Institute of Standards and Technology (“NIST”) – This was formally known as the National Bureau of Standards, which is a federal agency that promotes and maintains measurement standards while encouraging and assisting industry and science to develop and use these standards. 
+
+
+● | Gap and risk assessment: We perform security risk gap analysis and advanced threat intelligence and analytics to identify potential areas of security risk and monitor potential breaches on a frequent basis. Evaluating all aspects of the business from executive management, finance, legal, human resources, compliance, operations and then IT. This is to ensure the organization has a holistic understanding of their company’s security posture. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Penetration testing: We offer network and application-level penetration testing performed through industry tools and verified by certified security experts. At the network level, we conduct network scans for clients at pre-defined intervals based on their preference. Subsequent automatic scans are performed at the same IP address. We also make further attempts to exploit any vulnerability found by the network scan to eliminate false positives. At the application level, we utilize techniques such as parameter tampering, cookie poisoning, session hijacking, user privilege escalation, credential manipulation, forceful browsing, backdoors and debug options, configuration subversion, input validation bypass, SQL injection, and cross-site scripting to assess the application for known vulnerabilities. 
+
+
+6
+-
+
+Growth Strategy
+ 
+Cybersecurity service and consulting firms operate on various forms of business models. Cerberus Sentinel does not sell product; we promote a cybersecurity culture. Our growth strategy will focus on external acquisition and internal scalability to drive that culture within our clients’ organizations. Therefore, our revenue streams mainly come from service and consulting fees. As the cybersecurity market grows over years, we continue to see an increasing number of players entering the market with different sets of qualifications. However, organizations facing cybersecurity issues also usually lack the expertise to identify the right service provider or do not have the capital resources to hire a qualified CISO. We believe that this is where our growth opportunity lies since the lack of expertise leads to information asymmetry which causes additional noise in the cybersecurity marketplace and exposes organizations to greater risks if found issues are not mitigated with the right group of experts. Furthermore, the industry is in need of highly qualified technology professionals in the cybersecurity field. A limited pool of talent results in increasing compensation and cost to retain such talent which in turn compromises companies’ bottom-line profitability and then increases the need to work externally with a partner such as Cerberus Sentinel. We believe that cybersecurity threats worsen with time. With the cost of cybercrime estimated   to reach $6 trillion globally in 2021, there is a significant demand for skilled cybersecurity professionals to combat these threats and manage cyber defenses. The New York Times estimates that there will be approximately 3.5 million open cybersecurity jobs across the globe in 2021.
+ 
+Our external acquisition strategy targets engineer-owned cybersecurity firms in the top thirty U.S. markets with existing revenue in the range of $2 million to $15 million and profit margin of at least 15% to 25%, although there could be opportunities beyond the larger end of this range. We expect each acquisition to be strategic and accretive, and we expect to obtain direct access to a pool of ready-to-deploy and seasoned cybersecurity talent and enhanced access to a larger client base geographically.
+ 
+Our internal scalability strategy focuses on exploring and capitalizing on synergies with the acquired companies. With strategic acquisitions, on the topline, we expect to provide a broadened service offering which translates into more diverse revenue streams and a larger client base. We also anticipate that we will be able to broaden our geographical sales coverage and reduce client acquisition costs. We also intend to synergize best practices across the platform which will enhance client experience and client loyalty. On the bottom line, we plan to centralize general and administrative support functions in one location which we expect to improve net margins across service lines. We believe that this will allow our management to focus on sales initiatives and accelerate internal operations scalability. We believe that our acquisition strategy will allow us to realize annual savings on centralized operations, generate additional revenue from upselling to existing clients, and add revenue from new clients.
+ 
+Acquisitions During 2020 and 2019
+ 
+On December 16, 2020, we entered into the Alpine Merger Agreement pursuant to which Alpine became a wholly owned subsidiary of the Company. All units representing membership interests of Alpine issued and outstanding were converted into 900,000 shares of our common stock. Alpine provides tailored cybersecurity solutions that meet clients’ objectives and reduce cyberattack risk. Alpine’s flagship services include CISO-as-a-Service, Penetration Testing, and Private Cybersecurity Training. Alpine has broad experience and capabilities and focuses on the following areas: cybersecurity assessment and testing for medical device manufacturers, healthcare cybersecurity, and private certification training, such as CEH, CISSP, and Security+. Alpine is based in O’Fallon, Illinois.
+
+7
+-
+
+
+Effective August 1, 2020, we entered into a Stock Purchase Agreement with Clear Skies, pursuant to which Clear Skies became a wholly owned subsidiary of the Company (the “Clear Skies Acquisition”). Under the terms of the Clear Skies Acquisition, all issued and outstanding equity securities in Clear Skies were exchanged for an aggregate of 2,330,000 shares of our common stock. Clear Skies is an information technology consulting firm specializing in identifying security vulnerabilities by extensive testing of their clients. This can be used for exposing security loopholes in the client’s systems and is a process that is crucial to safeguard important data. One such extensive test is Penetration Testing, or a Pen Test, which refers to the simulated cyber-attack that is made to exploit a data system at a certain point to detect the exploitable vulnerabilities within a client’s system security. After a vulnerability is found that could possibly be used to exploit the system to gain access to the client’s data, Clear Skies then creates mediation or remedies or immediate corrective measures for resolving vulnerability. Clear Skies also performs remediation, future cybersecurity road mapping and proactive planning with their clients to protect clients from possible future exposures. Clear Skies is based in Alpharetta, Georgia and has a regional office in Stuart, Florida.
+ 
+Effective May 25, 2020, we entered into a Stock Purchase Agreement pursuant to which Techville became a wholly owned subsidiary of the Company (the “Techville Acquisition”). Under the terms of the Techville Acquisition, all issued and outstanding common stock of Techville was exchanged for an aggregate of 3,392,271 shares of our common stock. Techville is an information technology consulting firm specializing in automated managed services for businesses through various product and service offerings including Tech Connect Pro, Tech Connect Cloud Services, Tech Connect Drive and Tech Connect Security. Techville operates from three offices located in Algonquin, Illinois, Mesa, Arizona and New Braunfels, Texas. Techville’s staff of 12 people consists of a multi-disciplinary group with expertise in engineering, operations and sales. Techville’s client-base of over 50 companies spans a range of industries from behavioral health, manufacturing, communications and financial services.
+ 
+Effective October 1, 2019, we entered into an Agreement and Plan of Merger (the “TalaTek Merger Agreement”) pursuant to which TalaTek became a wholly owned subsidiary of the Company. Under the TalaTek Merger Agreement, all issued and outstanding units representing membership interests in TalaTek were converted into an aggregate of 6,200,000 shares of our common stock. TalaTek provides complete integrated enterprise risk management services by leveraging their specialized combination of methodologies, processes and technology, collectively known as Enterprise Compliance Management Solution (“ECMS”). ECMS enables efficient and repeatable risk, compliance and information security management, facilitating continuous improvement and empowering clients to make better informed risk decisions. These services are currently provided primarily to the public sector.
+ 
+Implications of Being an Emerging Growth Company
+ 
+We are an “emerging growth company,” as that term is used in the Jumpstart Our Business Startups Act of 2012, or “JOBS Act.” An emerging growth company may take advantage of specified reduced reporting and other burdens that are otherwise applicable generally to public companies, and we have elected to comply with these reduced reporting and other burdens. These provisions include:
+
+● | A requirement to have only two years of audited financial statements and only two years of related “Management’s Discussion and Analysis of Financial Condition and Results of Operations”; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Exemption from the auditor attestation requirement in the assessment of the emerging growth company’s internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act of 2002; and 
+● | Reduced disclosure about the emerging growth company’s executive compensation arrangements and an exemption from various stockholder voting requirements with respect to executive compensation arrangements. 
+
+ 
+We could remain an emerging growth company until the earliest of (i) the last day of the first fiscal year in which our annual gross revenues exceed $1.07 billion, (ii) the last day of the fiscal year following the fifth anniversary of the date of the first sale of common stock under a registration statement under the Securities Act of 1933, (iii) the date that we become a “large accelerated filer” as defined in Rule 12b-2 under the Exchange Act, which would occur if the market value of our common stock that is held by non-affiliates exceeds $700 million as of the last business day of our most recently completed second fiscal quarter, or (iv) the date on which we have issued more than $1 billion in non-convertible debt during the preceding three year period. The foregoing amounts are subject to adjustment for inflation.
+ 
+
+8
+-
+
+
+In addition, Section 107 of the JOBS Act provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act and Section 13(a) of the Exchange Act for complying with new or revised accounting standards that have different effective dates for public and private companies until those standards apply to private companies. We have elected to take advantage of the extended transition period for complying with the revised accounting standards. As a result, our financial statements may not be comparable to companies that comply with public company effective dates.
+ 
+Competition in the Cybersecurity Market
+ 
+The cybersecurity market is highly fragmented. In the top quartile, the market is dominated by several major global companies such as Mandiant, IBM Corporation, Cisco Systems, AVG Technologies, Broadcom and Dell. The rest of the market is highly competitive without dominant players. We face direct competition from all small-to-medium-sized cybersecurity service providers nationwide given the broad service scope we currently provide. Many competitors provide cloud-based services which means our competition is not restricted by regions. It is critical for our executive management team to identify and attract strategic acquisition targets in order to strengthen our competitive advantage as a cybersecurity consolidator, which we believe brings higher service quality, more diverse service scope, and broader geographical coverage at a lower cost.
+ 
+Intellectual Property
+ 
+We intend to take appropriate steps to protect our intellectual property. We have registered the trademark “Cyber security is a culture, not a product,” which has been approved with an official registration date of October 29, 2019.
+Government Regulation
+ 
+The Company is not aware of any specific regulations that govern cybersecurity firms or the areas in which the Company operates. While there are a few federal cybersecurity regulations, they govern industries that the Company serves and exist to focus on specific industries.
+ 
+The three main cybersecurity regulations are HIPAA, the 1999 Gramm-Leach-Bliley Act, and the 2002 Homeland Security Act, which included the Federal Information Security Management Act (“FISMA”). The three regulations mandate that healthcare organizations, financial institutions and federal agencies protect their systems and information. FISMA, which applies to every government agency, requires the development and implementation of mandatory policies, principles, standards, and guidelines on information security. However, the regulations do not address numerous computer related industries, such as internet service providers and software companies. Furthermore, the regulations do not specify what cybersecurity measures must be implemented and require only a “reasonable” level of security.
+ 
+In addition, the National Cyber Security Division is another regulatory body that is a division of the Office of Cyber Security & Communications within the United States Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency. The major attack this year targeted at SolarWinds has become a focal point for adhering to industry standard in compliance. From a regulatory compliance standpoint, data loss or exposure in the network opens a company up to potentially heavy fines resulting from violations of data privacy laws, including the European Union’s General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), or the Health Insurance Portability and Accountability Act (HIPAA).
+ 
+COVID-19 Response
+ 
+On March 13, 2020, the United States declared a national emergency in response to the COVID-19 pandemic. Subsequently, states enacted stay-at-home orders to slow the spread of the virus that causes COVID-19, and reduce the burden on the U.S. health care system. In response to COVID-19, our senior leadership assessed the impact across our entire team and no additional measures were deemed necessary to take. Our objective was to ensure the health, safety and well-being of our employees, customers, and the communities we service. We believe that our response to COVID-19 and financial performance in 2020 was a direct result of the dedication and strength of our team members and our strong culture.
+
+9
+-
+
+Human Capital Initiative
+ 
+We are a trusted cybersecurity expert providing safe, efficient, and sustainable services to our existing and new communities. Our success is the direct result of the dedication and strength of our team and promotes equity, diversity, integrity, inclusion, reliability and accountability. We believe that a combination of diverse team members and an inclusive culture contributes to our success. Each member is a valued part of our team bringing a diverse perspective to help grow business and achieve our goals. Our tradition of serving employees, customers and investors is at the core of our culture.
+Employees
+ 
+As of December 31, 2020, we had 61 employees. In addition, we utilize independent contractors for projects of short duration or where specialized knowledge, or experience is needed for a complex project. We are not dependent on any independent contractor, and we believe adequate replacements would be available in the event any such contractor becomes unavailable to us. We believe our relations with our employees is good.
+Transfer Agent
+ 
+Our stock transfer agent is Securities Transfer Corporation, located at 2901 N. Dallas Parkway, Plano, Texas 75093. Its telephone number is (469) 633-0101, and its website is www.stctransfer.com.
+ 
+Corporate and Available Information
+ 
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports will be available free of charge through our website (http://cerberussentinel.com) as soon as practicable after such material is electronically filed with, or furnished to, the SEC. Except as otherwise stated in these documents, the information contained on our website or available by hyperlink from our website is not incorporated by reference into this report or any other documents we file, with or furnish to, the SEC.
