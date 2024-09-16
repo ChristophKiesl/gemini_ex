@@ -1,0 +1,588 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+
+
+Key Information
+
+In this Annual Report unless otherwise indicated or the context otherwise requires, (1) the terms “we,” “us,” “our,” “the Company” and “Intelsat” refer to Intelsat S.A., and its subsidiaries on a consolidated basis, (2) the term “Intelsat Holdings” refers to our indirect subsidiary, Intelsat Holdings S.A., (3) the term “Intelsat Investments” refers to Intelsat Investments S.A., Intelsat Holdings’ direct wholly-owned subsidiary, (4) the term “Intelsat Luxembourg” refers to Intelsat (Luxembourg) S.A., Intelsat Investments’ direct wholly-owned subsidiary, (5) the term "Intelsat Envision" refers to Intelsat Envision Holdings LLC, Intelsat Luxembourg's direct wholly-owned subsidiary, (6) the terms “Intelsat Connect” and “ICF” refer to Intelsat Connect Finance S.A., Intelsat Envision’s direct wholly-owned subsidiary, (7) the term “Intelsat Jackson” refers to Intelsat Jackson Holdings S.A., Intelsat Connect’s direct wholly-owned subsidiary, and (8) the term “Intelsat” refers to specific Intelsat-satellites. We refer to Intelsat General Communications LLC, one of our subsidiaries, as “Intelsat General.” In this Annual Report, unless the context otherwise requires, all references to transponder capacity or demand refer to transponder capacity or demand in the C-band and Ku-band only.
+Business Overview
+Overview
+We operate one of the world’s largest satellite services businesses, providing a critical layer in the global communications infrastructure.
+As the foundational architects of satellite technology, Intelsat operates the largest, most advanced satellite fleet and connectivity infrastructure in the world. We apply our unparalleled expertise and global scale to reliably and seamlessly connect people, devices and networks in even the most challenging and remote locations. We provide diversified communications services to the world’s leading media companies, fixed and wireless telecommunications operators, data networking service providers for enterprise and mobile applications in the air and on the seas, multinational corporations and Internet Service Providers (“ISPs”). We are also the leading provider of commercial satellite communication services to the U.S. government and other select military organizations and their contractors. Our network solutions are a critical component of our customers’ infrastructures and business models. Generally, our customers need the specialized connectivity that satellites provide so long as they are in business or pursuing their mission. In recent years, mobility services providers have contracted for services on our fleet that support broadband connections for passengers on commercial flights, cruise ships and commercial shipping, connectivity that in some cases is only available through our network. In addition, our satellite neighborhoods provide our media customers with efficient and reliable broadcast distribution that maximizes audience reach, a technical and economic benefit that is difficult for terrestrial services to match. In developing regions, our satellite solutions often provide higher reliability than is available from local terrestrial telecommunications services and allow our wireless and enterprise customers to reach geographies that they would otherwise be unable to serve.
+In the future, we expect our network to be an integral part of machine-to-machine networks, especially those requiring massive software updates best delivered via broadcast, such as networks connecting cars and other vehicles. As we invest in new constellations, such as our Intelsat Epic high-throughput satellite ("HTS") platform, partner on new earth observation technology, and invest in new ground technologies, such as electronic antennas and standards-based modems, we are creating a portfolio of solutions that will be interoperable with other telecommunications technologies and seamlessly integrated with other telecommunications solutions to address the immense connectivity requirements of a fully-connected and converged landscape.
+We hold the largest collection of rights to well-placed orbital slots in the most valuable C- and Ku-band spectrums. From these locations, our satellites offer services in the established regions historically using the most satellite capacity, as well as the higher growth oceanic regions, supporting mobility services, and emerging regions, where approximately 73% of our capacity is currently focused.
+We believe our global scale, high-performing network, leadership position and valuable customer relationships enable us to benefit from growing demand for reliable broadband connectivity, resulting from trends such as:
+
+• | Global distribution of television entertainment and news programming to fixed and mobile devices;
+
+
+• | Completion and extension of international, national and regional data networks, fixed and wireless, notably in emerging and developed regions, and the upgrade of those networks to 3G/4G/5G as content is increasingly consumed on mobile devices;
+
+
+• | Universal access to broadband connectivity through fixed and mobile networks for consumers, corporations, government and other organizations;
+
+
+• | Increasing deployment of in-flight and on-board broadband access for consumer and business applications in the commercial, business aviation and maritime sectors;
+
+
+• | Requirements for cost-efficient space-based network solutions for fixed and mobile government and military applications; and
+
+
+• | Global demand for services which enable connected devices, such as machine-to-machine communications and the Internet of Things (“IoT”), particularly with respect to connected car applications.
+
+We believe that we have the largest, most reliable and most technologically advanced commercial communications network in the world. Our global communications system featured a fleet of 54 geosynchronous satellites as of December 31, 2019, covering more than 99% of the world’s populated regions. Our satellites primarily provide services in the C- and Ku-band frequencies, which form the largest part of the fixed satellite services ("FSS") sector.
+Our next generation fleet of five HTS, known as Intelsat Epic, is designed specifically to reduce cost of service by optimizing performance and efficiency to the user. With Intelsat Epic, we are offering our commercial customers broadband services that allow them to innovate, in turn transforming their businesses and expanding the territories and applications that they can profitably serve. Our new Intelsat Epic fleet is designed to commercial-grade standards. This allows us to offer committed information rates for our service provider customers, as compared to satellite networks designed primarily to provide consumer “best effort”-grade services.
+Our satellite capacity is complemented by our IntelsatOne terrestrial network and a growing suite of managed services optimized to the requirements of attractive vertical applications, including the enterprise, maritime and commercial and government aeronautical sectors. Recently we introduced fully-managed services under the Intelsat Flex brand for enterprise and commercial and government mobility applications. We also introduced Mobile Reach managed services for the telecommunications sector. Our managed services combine satellite services with network management, access to our terrestrial network comprised of leased fiber optic cable, access to Internet points of presence (“PoPs”), as well as multiplexed video and data platforms. Our satellite-based networking solutions offer distinct technical and economic benefits to our target customers and provide a number of advantages over terrestrial communications systems, including the following:
+
+
+• | Fast, scalable, secure and high-performance infrastructure deployments;
+
+
+• | Superior end-to-end network availability as compared to the availability of terrestrial networks, due to fewer potential points of failure;
+
+
+• | Highly reliable bandwidth and consistent application performance, as satellite beams effectively blanket service regions;
+
+
+• | Ability to extend beyond terrestrial network end points or to provide an alternative path to terrestrial infrastructure;
+
+
+• | Efficient content distribution through the ability to broadcast high quality signals from a single location to many locations simultaneously;
+
+
+• | Maximizing potential distribution of television programming, video neighborhoods, or capacity at orbital locations with a large number of consumer dishes or cable headend dishes pointed to them; and
+
+
+• | Rapidly deployable communications infrastructure for disaster recovery.
+
+We believe that our hybrid satellite-terrestrial network, combined with the world’s largest collection of FSS spectrum rights, is a unique and valuable asset.
+Our network architecture is flexible and, coupled with our global scale, provides strong capital and operating efficiency. In certain circumstances we are able to re-deploy capacity, moving satellites or repositioning beams to capture demand. In early 2019, the final first generation HTS, Horizons 3e, was placed into service. Our technology has utility across a number of requirements with minimal customization to address diverse applications.
+We have a reputation for operational and engineering excellence, built on our experience of over 50 years in the communications sector. Our network delivered 99.999% network availability to our customers on our operational satellites in 2019. We operate our global network from a fully-integrated, centralized satellite operations facility, with regional sales and marketing offices located close to our customers. The operational flexibility of our network is an important element of our differentiation and our ability to grow.
+As of December 31, 2019, our contracted backlog, which is our expected future revenue under existing customer contracts, was approximately $7.0 billion, roughly three and a half times our 2019 annual revenue. For the year ended December 31, 2019, we generated revenue of $2.1 billion and net loss attributable to Intelsat S.A. of $913.6 million. Our Adjusted EBITDA, which consists of EBITDA as adjusted to exclude or include certain unusual items, certain other operating expense items and certain other adjustments, was $1.5 billion, or 72% of revenue, for the year ended December 31, 2019.
+In 2019, our financial results reflected the loss of our Intelsat 29e satellite in April 2019, as well as lower volume of services due to non-renewals of certain contracts. The effect of lower prices in 2019 was muted as compared to prior years. Overall, we believe we benefit from a number of characteristics that allow us to effectively manage our business despite these competitive and geo-economic pressures:
+
+
+• | Significant long-term contracted backlog, providing a foundation for predictable revenue streams;
+
+
+• | Entry into service of our next generation Intelsat Epic platform that was designed to support new services representing $4.4 billion of potential incremental growth by 2024 from expanded enterprise, wireless infrastructure, mobility, IoT and government applications;
+
+
+• | High operating leverage, which has allowed us to generate an average Adjusted EBITDA margin of 76% in the past three years; and
+
+
+• | A stable, efficient and sustainable tax profile for our global business.
+
+We believe that our leadership position in our attractive sector, global scale, efficient operating and financial profile, diversified customer sets and sizeable contracted backlog, together with the growing worldwide demand for reliable broadband connectivity everywhere at all times, provide us with a platform for long-term success.
+Our Sector
+Satellite services are an integral and growing part of the global communications infrastructure. Through unique capabilities, such as the ability to effectively blanket service regions, to offer point-to-multipoint distribution and to provide a flexible architecture, satellite services complement, and for certain applications are preferable to, terrestrial telecommunications services, including fiber and wireless technologies. The FSS sector, excluding all consumer broadband, is expected to generate revenues of approximately $11.7 billion in 2020, and transponder service revenue is expected to grow by a compound annual growth rate (“CAGR”) of 2.7% from 2019 to 2024 according to a study issued in 2019 by Northern Sky Research ("NSR"), a leading international market research and consulting firm specializing in satellite and wireless technology and applications.
+In recent years, the addressable market for FSS has expanded to include mobile applications because of satellite’s ability to provide the broadband access required by high bandwidth mobile platforms, such as for consumer broadband services on commercial ships and aircraft, as well as military mobility applications, including unmanned aerial vehicles. 
+Satellite services provide secure bandwidth capacity ideal for global in-theater communications since military operations often occur in locations without reliable communications infrastructure. According to a study by NSR, global revenue from FSS used for government and military applications is expected to grow at a CAGR of 6.7% from 2019 to 2024.
+Our sector is noted for having favorable operating characteristics, including long-term contracts, high renewal rates and strong cash flows. The fundamentals of the sector are attractive, given the global need for connectivity everywhere and explosion of global content. The expected growth in demand for satellite-based solutions, combined with the high operating margins which are characteristic of the sector, provides a resilient business model.
+There is a finite number of geostationary orbital slots in which FSS satellites can be located, and many orbital locations are already occupied by operational satellites pursuant to complex regulatory processes involving many international and national governmental bodies. These satellites typically are operated under coordination agreements designed to avoid interference with other operators’ satellites. See—Regulation below for a more detailed discussion of regulatory processes relating to the operation of satellites.
+A resurgence of interest in low earth orbit ("LEO") and mid-earth orbit constellations is resulting in the potential for new satellite-based solutions that will complement and, in some cases, compete with our services. We believe that the ability of our geostationary orbit ("GEO") satellites to offer highly efficient point-to-multipoint services, and to concentrate throughput over areas of highest demand, provides us with competitive benefits that will be sustained even as new services come to market.
+Today, there are only four FSS operators, including us, providing global services, which is important as multinationals and governments seek a one-stop solution for obtaining global connectivity. In addition, there are a number of operators with 
+fewer satellites that provide regional and/or national services. We currently hold the largest number of rights to orbital slots in the most valuable C- and Ku-band spectrums.
+We believe a number of fundamental trends in our sector are creating increasing demand for satellite services:
+
+
+• | Connectivity and broadband access are essential elements of infrastructure supporting the rapid economic growth of developing nations. Globally dispersed organizations and regional businesses often turn to satellite-based infrastructure to provide better access, reliability and control of broadband services. Penetration of broadband connectivity in less developed regions has been growing rapidly and is expected to continue. Over the past 10 years, broadband penetration, including satellite connectivity, in the East Asia & Pacific Ocean regions grew at a 13% CAGR, in the Latin America & Caribbean region at a 11% CAGR, in the Middle East & North Africa regions at a 21% CAGR, and in Sub-Saharan Africa at a 18% CAGR according to the World Bank.
+
+
+• | Wireless infrastructure in the global race to 5G represents a potentially generational opportunity for satellite technology. Wireless telecommunications companies often use satellite-based solutions to extend networks into areas where geographic or low population density makes it economically unfeasible to deploy other technology. Further deployments of wireless telecom infrastructure and the migration from 2G to 3G, 4G and 5G networks, which adds content and data to basic voice communications, create demand for satellite bandwidth. We believe that the emergence of 5G networks will result in a new growth vector for satellite connectivity. Satellite technology is uniquely responsive to the 5G requirement of ubiquitous coverage and fast deployments. We believe satellite systems will complement terrestrial networks and enable reliable and consistent global 5G user experience in a cost-effective manner. In 2018, 3GPP, the telecommunications standard development organization, approved work item studies to incorporate satellite systems in 5G standards to demonstrate key satellites attributes, including broadcasting, multicasting, and ubiquity and global mobile connectivity. According to the Global System for Mobile Communications Association, 4G & 5G mobile connections are expected to increase from 43% to 74% of total connections for the period from 2018 to 2025.
+
+
+• | Mobility applications, such as maritime communications and aeronautical broadband services for commercial and government applications, are fueling demand for mobile connectivity. Commercial applications, such as broadband services for consumer air flights and cruise ships, as well as broadband requirements from the maritime commercial shipping and oil and gas sectors, provide increased demand for satellite-based services. The increasing demand for global broadband connectivity on commercial airlines is a key driver of satellite connectivity and services. 80% of North American aircraft provide in-flight entertainment and Wi-Fi services, while about 17% of European, African, Asian-Pacific and South American aircraft were connected in 2019, according to Valour Consultancy and Boeing. Global satellite services revenue related to demand for broadband mobility applications from land, aeronautical and maritime is expected to grow at a CAGR of 13% for the period from 2019 to 2024, according to NSR.
+
+
+• | Globalization of economic activities is increasing the geographic expansion of corporations and the communications networks that support them, while creating new audiences for content. Globalization also increases the communications requirements for governments supporting embassy and military applications.
+
+
+• | The emergence of new content consumers resulting from economic growth in developing regions leads to increased demand for free-to-air and pay-TV content. According to NSR, the highest expected growth in television channels is from developing regions, including Latin America at a CAGR of 1.8%, the Middle East and North Africa at 2.7%, Sub-Saharan Africa at 4.1%, and Asia-Pacific at 2.3% for the period from 2019 to 2024, respectively.
+
+
+• | Proliferation of formats and new sources of entertainment content result in increased bandwidth requirements, as content owners seek to maximize distribution to multiple viewing audiences across multiple technologies. HDTV, the introduction of ultra-high definition (“UHD”) television, internet distribution of traditional television programming known as “Over the Top” or “OTT”, and video to mobile devices are all examples of the expanding format and distribution requirements of media programmers, the implementation of which varies greatly from developed to emerging regions. In its 2019 study, NSR forecasted that the aggregate number of standard definition (“SD”), high definition (“HD”), and UHD television channels distributed worldwide for cable, broadcast and direct-to-home ("DTH") is expected to grow at a CAGR of 2% for the period from 2019 to 2024.
+
+
+• | Connected Devices and vehicles, such as those contemplated by machine-to-machine communications, the IoT and other future technology trends, will require ubiquitous coverage that might be best provided by satellite technology for certain applications in certain regions, and also for applications where ubiquitous, global access is required, such as enabling software downloads for connected cars marketed by the automotive sector or for the operations of connected vehicles, such as in agriculture applications. This represents an important potential source of longer-term demand.
+
+In total, GEO FSS transponder service revenue (excluding consumer broadband) is expected to grow at a CAGR of 2.7% for the period from 2019 to 2024, according to NSR.
+Our Customer Sets and Growing Applications
+We focus on business-to-business services that indirectly enable enterprise, government and consumer applications through our customers. Our customer contracts offer four different service types: transponder services, managed services, channel services and mobile satellite services and other. See Item 7—Management's Discussion and Analysis—Revenue for further discussion of our service types. Characteristics of our customer sets are summarized below:
+
+Customer Set | Representative Customers | | Year | AnnualRevenue(1) (2) | | % of 2019TotalRevenue(2) | | % of 2019TotalBacklog(1) (2) | Backlog to2019RevenueMultiple
+Media | AT&T, MultiChoice, The Walt Disney Company, Discovery Communications, Telefonica, Sentech, Corporacion de Radio Television del Norte | | 2017 | $ | 910 | | | | 
+2018(3) | $ | 938 | | | | | | 
+2019 | $ | 883 | | 43 | % | | 61 | % | 4.8x 
+Network Services | Marlink, KVH Industries, Speedcast, Global Eagle, Gogo, Verizon, SoftBank, Orange, Telecom Italia, Ministry of Transport and Communications of Myanmar | | 2017 | $ | 852 | | | | 
+2018(4) | $ | 798 | | | | | | 
+2019 | $ | 770 | | 37 | % | | 25 | % | 2.3x 
+Government | Australian Defence Force, U.S. Department of Defense, U.S. Department of State, Leonardo | | 2017 | $ | 353 | | | | 
+2018(5) | $ | 392 | | | | | | 
+2019 | $ | 378 | | 18 | % | | 11 | % | 2.0x 
+
+
+(1) | Dollars in millions; backlog as of December 31, 2019.
+
+
+(2) | Does not include satellite-related services and other.
+
+
+(3) | Includes $67 million of ASC 606 adjustments.
+
+
+(4) | Includes $3 million of ASC 606 adjustments.
+
+
+(5) | Includes $33 million of ASC 606 adjustments.
+
+We provide satellite capacity and related communications services for the transmission of video, data and voice signals. Our customer contracts cover on- and off-network capacity with primarily three different service types:
+On-Network:
+
+
+• | Transponder services
+
+
+• | Managed services
+
+Off-Network:
+
+
+• | Transponder services
+
+
+• | Mobile satellite services and other
+
+We also perform satellite-related consulting services and technical services for various third parties, such as operating satellites for other satellite owners. We no longer proactively market a fourth service, known as channel services, although we still earn modest revenues from this type of on-network service.
+Media
+Media customers are our largest customer set and accounted for 43% of our revenue for the year ended December 31, 2019 and $4.3 billion of our contracted backlog as of December 31, 2019. Our business generated from the media sector is generally characterized by non-cancellable, long-term contracts with terms of up to 15 years with premier customers, including national and global broadcasters, content providers and distributors, television programmers and DTH platform operators.
+We are the world’s largest provider of satellite capacity for media services, according to Euroconsult, with a 19% global share. We have delivered television programming to the world since the launch of our first satellite, Early Bird, in 1965. We provide satellite capacity for the transmission of entertainment, news, sports and educational programming for over 300 broadcasters, content providers and DTH platform operators worldwide. We have well-established relationships with our media customers, and in some cases, have distributed their content on our satellites for over 30 years.
+Broadcasters, content providers and television programmers seek efficient distribution of their content to make it easily obtainable by affiliates, cable operators and DTH platforms; satellites’ point-to-multipoint capability is difficult to replicate via terrestrial alternatives. Our strong cable distribution neighborhoods offer media customers high penetration of regional and national audiences.
+Broadcasters, content providers and television programmers also select us because our global capabilities enable the distribution or retrieval of content to or from virtually any point on earth. For instance, we regularly provide fully integrated global distribution networks for content providers that need to distribute their products across multiple continents. DTH platform operators use our services because of our attractive orbital locations and because the scale and flexibility of our fleet can improve speed to market and lower their operating risk, as we have multiple satellites serving every region.
+We believe that we enjoy a strong reputation for delivering the high network reliability required to serve the demanding media sector. As our media customers add additional distribution platforms and adopt new business models, such as OTT internet-delivered content, our goal is to deliver value beyond our cost-efficient linear distribution solutions to include cloud-based services that streamline multi-format content delivery.
+Our fully integrated satellite, fiber and teleport facilities provide enhanced quality control for programmers. In addition to basic satellite services, we offer bundled, value-added services under our IntelsatOne brand that include managed fiber services, digital encoding of video channels and up-linking and down-linking services to and from our satellites and teleport facilities. Our IntelsatOne bundled services address programmers’ interests in delivering content to multiple distribution channels, such as television and Internet, and their needs for launching programs to new regions in a cost-efficient manner.
+Highlights of our media business include the following:
+
+
+• | Our fleet hosts 34 premium video neighborhoods, offering programmers superior audience penetration, with eight serving North America, nine serving Latin America, seven serving Africa and the Middle East, six serving Asia and four serving Europe;
+
+
+• | We are a leading provider of services used in global content distribution to media customers, according to Euroconsult. Our top 10 video distribution customers buy services on our network, on average, across three geographic regions, demonstrating the value provided by the global reach of our network;
+
+
+• | We believe that we are the leading provider of satellite service capacity for the distribution of cable television programming in North America, with thousands of cable headends pointed to our satellites. Our Galaxy 13 satellite provided the first HD neighborhood in North America, and today, our Galaxy fleet distributes over 380 HD channels; globally, we distribute over 5,500 TV channels, including approximately 1,600 HD channels;
+
+
+• | We are a leading provider of satellite services for DTH providers, supporting 29 DTH platforms around the world with over 50 million subscribers, including DIRECTV in Latin America, Telefonica in Brazil, MultiChoice in Africa, and Canal+ in multiple regions;
+
+
+• | We are a leading provider of services used in video contribution managed occasional use services, supporting coverage of major events for news and sports organizations, according to Euroconsult. For instance, we have carried programming on a global basis for every Olympiad since 1968; and
+
+
+• | In its 2019 study, NSR forecasted that the number of SD, HD, and UHD television channels distributed worldwide for cable, broadcast and DTH is expected to grow at a CAGR of 2% for the period from 2019 to 2024. According to NSR, the highest expected growth in television channels is from developing regions, including Latin America at a CAGR of 1.8%, the Middle East and North Africa at 2.7%, Sub-Saharan Africa at 4.1%, and Asia-Pacific at 2.3% for the period from 2019 to 2024, respectively.
+
+In 2019, several non-renewals and contract adjustments, the largest of which were in the Latin America, North America and Europe regions, caused our media business to underperform our expectations for the year. In 2020, we expect continuing pressure on our media business. Broadly, our global media customers increasingly seek to economize due to the need to support expanding infrastructure requirements. We expect customers to use compression, the elimination of distribution of standard definition feeds, and reduced commitments for contribution and ad hoc requirements, which will result in reduced volume for our business. In time, we expect some incremental demand for capacity to support the new 4K format, also known as UHD, which could offset some of the reductions in demand related to compression.
+Network Services
+Network services is our second largest customer set and accounted for 37% of our revenue for the year ended December 31, 2019 and $1.8 billion of our contracted backlog as of December 31, 2019. Our business generated from the network services sector is generally characterized by non-cancellable contracts, up to five years in length, with many of the world’s leading communications providers. This includes fixed and wireless telecommunications companies, such as global carriers and regional and national providers in emerging regions, corporate network service providers, such as very-small-aperture terminal ("VSAT") services providers to vertical markets including banks, value-added services providers, such as those serving the aeronautical and maritime industries, as well as multinational corporations and other organizations operating globally.
+According to Euroconsult, we are the world’s largest provider of satellite capacity for network services, with a 27% global share. Our satellite services, comprised of satellite capacity, and terrestrial network comprised of leased fiber, teleports and data networking platforms, enable the transmission of video and data to and from virtually any point on the surface of the earth. Basic communications and broadband connectivity in developed and emerging regions are meaningful contributors to economic growth. We provide an essential element of the communications infrastructure, enabling the rapid expansion of wireless services that support businesses, communities and governments in many emerging regions.
+Our network services offerings are an essential component of our customers’ services, providing backbone infrastructure, expanded service areas and connectivity where reliability or geography is a challenge. We believe that we are a preferred provider because of our global service capability and our expertise in delivering services with enterprise-grade network availability and efficient network control.
+Furthermore, as mobile communications have become essential to global networking and internet use, our satellite solutions, such as those provided by the Intelsat Epic platform, are being used for mobility applications. This includes services ranging from maritime enterprise VSAT data services to consumer broadband connectivity for cruise ships. In addition to maritime applications, Intelsat’s satellite solutions are used by service providers to deliver broadband connectivity for in-flight entertainment and Wi-Fi services for the aeronautical industry.
+Our managed services provide regional shared data networking platforms at our teleports that are connected to approximately 40 of our satellites, with network transmissions managed by our operations team. In 2018, we introduced new platform as a service (PaaS) cloud-based offerings under the AgileCore brand, combining our satellite services with shared data platforms and our fiber network. As a result, our customers can quickly establish highly reliable services across multiple regions, yet operate them on a centralized basis. Our satellite-based solutions allow customers to rapidly expand their service territories, flexibly customize the access speed and capabilities for their existing networks and efficiently address new customer and end-user requirements. Since 2017, we have offered fully-managed services, called Flex, which address commercial and government aeronautical, maritime and land mobile applications.
+Our leading position in network services has been pressured by new capacity from other satellite operators and improved access to fiber links, changing the competitive environment in certain regions and resulting in lower prices, although the rate of declines in pricing has slowed in the past two years. Intelsat Epic satellites provide differentiated inventory to help offset these recent trends, targeting wireless infrastructure, mobility and enterprise applications. In 2018, we successfully added new distribution channels in the maritime, business jet and wireless infrastructure verticals. As the volume of services sold on our Intelsat Epic fleet increases over time, we believe that the level of business activity in this sector will stabilize.
+Highlights of our network services business include the following:
+
+
+• | Our largest network services customer type is enterprise networking. We are the world’s largest provider of satellite capacity for satellite-based private data networks, including VSAT networks, according to Euroconsult;
+
+
+• | The fastest growing customer type in our network services business is mobility services for the aeronautical and maritime sectors. We believe we hold a leading share of the aeronautical broadband services powering in-flight passenger connectivity. FSS revenue growth related to capacity demand for broadband aeronautical services is expected to grow from approximately $300 million to just over $1 billion annually, for the period from 2019 to 2024, at a CAGR of 28% according to Euroconsult. In addition, Euroconsult forecasts growth in FSS aeronautical terminals (excluding mobile satellite services ("MSS") and air-to-ground technology) at a CAGR of 17% for the period from 2019 to 2024;
+
+
+• | We are the leader in the provision of FSS bandwidth for maritime broadband connectivity. 14% of our 2019 total Company revenues were derived from commercial mobility services, the largest segment of which was maritime. The number of FSS VSATs related to capacity demand for maritime broadband services (excluding MSS) is expected to grow at a CAGR of 12% for the period from 2019 to 2024 according to Euroconsult. Of the world’s largest cruise vessels, Intelsat’s services are incorporated in the broadband infrastructure for a majority of ships, in substantially all cases as the exclusive or primary source of satellite services;
+
+
+• | Infrastructure for wireless operator services represents our third largest network services customer type. We believe we are the leading provider of satellite capacity for cellular backhaul applications in emerging regions, connecting cellular towers to the global telecommunications network, a global sector expected to generate over $900 million in revenue in 2020, according to NSR. Approximately 85 of our customers use our satellite-based backhaul services as a core component of their network infrastructure due to unreliable or non-existent terrestrial infrastructure. Our cellular backhaul customers include five of the top ten mobile groups worldwide, which serve a fifth of the world’s subscribers, excluding China;
+
+
+• | Approximately 130 value-added network operators use our IntelsatOne broadband hybrid infrastructure to deliver their regional and global services. Applications for these services include corporate networks for multinationals, internet access and broadband for maritime and commercial aeronautical applications. C-, Ku- and Ka-band and HTS revenue from capacity demand for mobility applications is expected to grow at a CAGR of 13.5% for the period from 2019 to 2024, according to NSR; and
+
+
+• | The fixed enterprise VSAT sector (excluding all non-GEO HTS bandwidth) is expected to generate capacity revenues of approximately $2.7 billion in 2020, and capacity revenues are expected to grow at a CAGR of 7% from 2019 to 2024, according to NSR.
+
+Government
+We are the leading provider of commercial satellite services to the government sector, according to NSR, with a 24% share of military and government use of commercial satellite capacity worldwide. With more than 50 years of experience serving this customer set, we have built a reputation as a trusted partner for the provision of highly customized, secure and mission critical satellite-based solutions. The government sector accounted for 18% of our revenue for the year ended December 31, 2019 and $738 million of our contracted backlog as of December 31, 2019.
+Our satellite communication services business generated from the U.S. government sector is generally characterized by single year contracts that are cancellable by the customer upon payment of termination for convenience charges, and include annual options to renew for periods of up to four additional years. In addition to communication services, our backlog includes some longer-term services, such as hosted payloads, which are characterized by contracts with originally contracted service periods extending up to the 15-year life of the satellite, cancellable upon payment of termination penalties defined by the respective contracts.
+Our customer base includes the U.S. government’s military and civilian agencies, global government militaries, and commercial customers serving the defense sector. We consider each party within the U.S. Department of Defense and other U.S. government agencies that has the ability to initiate a purchase requisition and select a contractor to provide services to be a separate customer, although such party may not be the party that awards us the contract for the services.
+We attribute our strength in serving U.S. military and government users to our global infrastructure of satellites, including the addition of the high-performance Intelsat Epic fleet, and our IntelsatOne network of teleports and fiber that complement the U.S. government’s own communications networks. Our fleet provides flexible, secure and resilient global network capacity, and critical surge capabilities. Our Intelsat Epic satellites provide high-throughput and performance that is highly attractive for aeronautical surveillance applications, offering HD video from small antennas, enabling use of a smaller airframe. In some instances, we provide our U.S. government customers managed, end-to-end secure networks, combining our resources in space and on the ground, for fixed and mobile applications.
+In responding to certain unique customer requirements, we also procure and integrate satellite services provided by other satellite operators, either to supplement our capacity or to obtain capacity in frequencies not available on our fleet, such as L-band, X-band and other spectrums not available on our network. These off-network services are generally low risk in nature, typically with the terms and conditions of the third-party capacity and services we procure matched to contractual commitments from our customer. We are an attractive supplier to the government sector because of our ability to leverage not only our assets but also other space-based solutions, providing a single contracting source for multiple, integrated technologies.
+Highlights of our government business include the following:
+
+
+• | Our government business is fully engaged in the Intelsat managed services strategy, simplifying the use of high-throughput services. In 2019, we introduced FlexGround, a global end-to-end managed service providing cost-effective, high-performance connectivity for small land mobility applications, including airline checkable manpack terminals. FlexGround leverages the Intelsat Epic HTS network, which has high-powered spot beams, enabling high data rate services to small antennas. Operating in the Ku-band, these terminals are designed to be set up and connected in minutes by non-technical users operating in remote environs, enabling communications across a wide spectrum of scenarios.
+
+
+• | The reliability and scale of our fleet and planned launches of new and replacement satellites allow us to address changing demand for satellite coverage and to provide mission-critical communications capabilities. For example, in 2019, we were awarded a key supplier contract by DRS Technologies to support their $977 million eight-year award to provide the United States Special Operations Command with worldwide satellite communications and support. We are providing significant on-net capacity on our newest satellites, as well as off-network capacity.
+
+
+• | The U.S. government and military is one of the largest users of commercial satellites for U.S. government and military applications on a global basis. In 2019, we served approximately 80 customers consisting of U.S. government customers, resellers to U.S. government customers or integrators.
+
+
+• | According to a study by NSR, global revenue from FSS used for U.S. government and military applications is expected to grow at a CAGR of 6.7% for the period from 2019 to 2024.
+
+Overall, business activity in this customer set reflects the current tempo of our end-customers’ operations and the budgetary constraints of the U.S. government; visibility into the U.S. government’s planned contract awards remains low and the pace of new business and subsequent awards remains flat.
+Over the mid-term, we believe our reputation as a provider of secure solutions, our global fleet including our new high-performance Intelsat Epic platform and affiliated FlexAir managed service, our well-established customer relationships, our ability to provide turn-key services and our demonstrated willingness to reposition or procure capacity to support specific requirements position us to successfully compete for commercial satellite solutions for bandwidth-intensive military and civilian applications. We expect our government business to benefit over time from the increasing demands for mobility services from the U.S. government for aeronautical and ground mobile requirements. 
+Our Diverse Business
+Our revenue and backlog diversity spans customer sets and applications, as discussed above, as well as geographic regions and satellites. We believe our diversity allows us to recognize trends to capture new growth opportunities, and gain experience that can be transferred to customers in different regions. For further details regarding geographic distribution of our revenue, see Note 3—Revenue to our consolidated financial statements included in Item 8—Financial Statements and Supplementary Data of this Annual Report.
+We believe we are the sector leader by transponder share in three of the geographic regions covered by our network. We are generally ranked first or second in the regions identified by industry analysts as those that either purchase the most satellite capacity or are regions with high growth prospects, such as North America and the Asia-Pacific.
+The scale of our fleet can also reduce the financial impact of satellite failures and protect against service interruption. No single satellite generated more than 7% of our revenue and no single customer accounted for more than 15% of our revenue for the year ended December 31, 2019.
+The following chart shows the geographic diversity of our contracted backlog as of December 31, 2019 by region and service sector, based upon the billing address of the customer.
+
+The majority of our on-network revenue aligns to emerging regions, based upon the position of our satellites and beams. The following chart shows the breakdown of our on-network revenue by the region in which the service was delivered as of December 31, 2019.
+Our Strategy: Transforming Our Business and Our Sector
+We are transforming our business and sector, investing in and deploying innovative new technologies that will change the types of applications that we can serve and increase our share of the global demand for broadband connectivity everywhere—for all communities and for all devices.
+Our strategy is built around four competitive advantages that strengthen our ability to reach our goals: 
+
+• | Our global footprint, which is essential given that the fastest growing applications, such as mobility and upcoming 5G deployments, require ubiquitous, consistent network performance;
+
+
+• | Operating scale, with service delivery in approximately 200 countries and territories, which is important to new opportunities, such as connected car, machine-to-machine, land mobility and government applications, where service providers will look for global access. We believe the ability to serve these and other applications on a global basis creates new satellite-based communication solutions with multi-billion dollar revenue potential;
+
+
+• | Our innovative technology, especially our high-throughput fleet that is already in-orbit, and that we will continue to evolve with satellites and other technologies that complement the high performance capabilities of our global network, provides our customers first-to-market advantage and experience; and
+
+
+• | Our portfolio of spectrum rights, which provides unmatched flexibility and agility as we look at new opportunities.
+
+Our strategy is to seek revenue growth with the following actions:
+
+• | Drive stability in our core business;
+
+
+• | Selectively invest, employ a disciplined yield management approach and emphasize the development of strong distribution channels for our four primary customer sets of broadband, mobility, media and government;
+
+
+• | Scale our differentiated managed service offerings in targeted growth verticals in broadband, mobility, media and government, leveraging the global footprint, higher performance and better economics of our Intelsat Epic fleet and the flexibility of our innovative terrestrial network;
+
+
+• | Complete targeted investments and partnerships in differentiated space and ground infrastructure to develop a standards-based ecosystem that will provide a seamless interface with the broader telecommunications ecosystem; and
+
+
+• | Seek partnerships and investments for vertical expansion in the growing mobility sector and in adjacent space-based businesses to position for longer-term growth.
+
+We believe that developing differentiated managed services and investing in related software- and standards-based technology will allow us to increase our relevance within the broader telecommunications landscape, unlocking opportunities that are essential to providing global broadband. 
+Our new services and technologies will also open new sectors that are much larger, and growing much faster, than the sectors we support today. Examples include:
+
+• | Providing network infrastructure for 2G/3G/4G/5G wireless in developing regions;
+
+
+• | Providing signal ubiquity in support of 5G services globally;
+
+
+• | Providing flexible broadband services for enterprise networks and for commercial and government-related aeronautical, maritime and other mobile applications, and using our high-throughput platform and global footprint to provide differentiated services;
+
+
+• | Optimizing content distribution networks to support cloud-based media applications, UHD, OTT programming and other multiscreen viewing applications; and
+
+
+• | Providing ubiquitous broadband for global deployment of connected devices, such as the connected car, and the continuing formation of the IoT.
+
+Our strategy with respect to capital investment and spectrum is expected to lead to longer-term outcomes, achieving the transformation of our business as we take the following actions:
+
+• | Lower overall capital intensity and improve cost effectiveness through innovation emphasis on software-defined infrastructure and encourage a standards-based ecosystem built on widely adopted technologies, including the 3GPP standards. We will enhance our space and terrestrial infrastructure with platforms that are software-defined and less expensive to manufacture resulting in faster deployments and mission flexibility; and
+
+
+• | Maximize the value of our spectrum rights. Leverage our sizeable portfolio of spectrum rights in the C-, Ku- and Ka-bands that provides the foundation of our ability to provide communications services over 99% of the Earth’s populated regions. Continue to participate in the FCC C-band proceeding, proposing solutions that address the need
+
+for C-band spectrum in the U.S. to fuel adoption of 5G, while also protecting and maintaining the essential services we provide in the mid-band today.
+In advancing our spectrum rights strategy, we have worked since 2017 with other satellite operators and collaborated with customer groups, associations and other stakeholders to propose a market-based solution to a Notice of Proposed Rule Making (“NPRM”) issued by the FCC. The NPRM explored clearing spectrum currently licensed to satellite operators in order to accommodate the deployment of 5G wireless services in the United States. The proposal put forth by Intelsat and certain other satellite operators supported the FCC’s stated goals of clearing a large portion of spectrum quickly, while also protecting incumbent services.
+On November 18, 2019, the FCC announced a decision to pursue a public auction of the C-band spectrum currently licensed to Intelsat and other satellite operators, a change from the private market solution for which Intelsat had been advocating over the past two years.
+Subsequent to year-end 2019, on February 7, 2020, the FCC issued its draft order in the C-band proceeding. The draft order sets forth proposed acceleration incentive payments to certain C-band satellite operators of $9.7 billion, of which Intelsat would receive $4.85 billion, payable in two tranches over a period of 42 months. The draft order also outlines a cost reimbursement framework that would apply to the various stakeholders in the proceeding, as well as technical specifications and other elements.
+Our near-term focus is on successfully improving the draft order proposed by the FCC while preserving all of our rights. There can be no assurance that the FCC will accept any of our proposed changes to the order. The next major event in this proceeding is the vote of the FCC on a final order, which is currently scheduled to occur on February 28, 2020. The final order could be issued later that day.
+Competition
+We compete in the communications market for the provision of video, data and voice connectivity worldwide. Communications services are provided using various communications technologies, including satellite networks, which provide services as a substitute for, or as a complement to, the capabilities of terrestrial networks. We also face competition from suppliers of terrestrial communications capacity.
+We operate on a global scale. Our competition includes national, regional and global providers of traditional and high-throughput FSS. We also compete with providers of MSS for broadband services delivered for aeronautical and maritime applications.
+We also compete with providers of terrestrial fiber optic cable capacity on certain routes and networks, principally for point-to-point services. The primary use of fiber optic cable is carrying high-volume communications traffic from point-to-point, and fiber capacity is available at substantially lower prices than satellite capacity once operational. Consequently, the growth in fiber optic cable capacity has led voice, data and video contribution customers that require service between major city hubs to migrate from satellite to fiber optic cable. 
+In recent years, increased availability of fiber in metropolitan regions of developing countries, and the oversupply of satellite services in certain regions, have resulted in increased competition in some of the regions we serve. The effect of these two trends has been significant price reductions for both fiber and satellite connectivity, primarily impacting our commercial and government data applications. As a result, Intelsat’s revenues have been reduced as services were terminated by customers moving to fiber alternatives, and also as contracts were renewed at lower prices. 
+Sales, Marketing and Distribution Channels
+We strive to maintain a close working relationship with our customers. Our primary sales and marketing operations are located in the United Kingdom and the United States. In addition, we have established local sales and marketing support offices in the following countries around the world:
+
+•Australia | •Kenya 
+•Brazil | •Russia 
+•China | •Senegal 
+•France | •Singapore 
+•Germany | •South Africa 
+•India | •United Arab Emirates
+•Israel | •Japan 
+
+By establishing local offices closer to our customers and staffing those offices with experienced personnel, we believe that we are able to provide flexible and responsive service and technical support to our customers. Our sales and marketing organization reflects our corporate focus on our three principal customer sets of network services, media and government. Our sales team includes technical marketing and sales engineering application expertise and a sales approach focused on creating integrated solutions for our customers’ communications requirements.
+We use a range of direct and wholesale distribution methods to sell our services, depending upon the region, the vertical application, regulatory requirements and customer application.
+Our Network
+Our global network is currently comprised of 53 satellites following the January 2020 deorbiting of IS-805, as well as ground facilities, including teleports, access to internet PoPs and leased fiber that support our commercial services and the operation and control of our satellites.
+Our customers depend on our global communications network and our operational and engineering leadership. Highlights of our network include:
+
+• | Prime orbital locations, reflecting a valuable portfolio of coordinated fixed satellite spectrum rights;
+
+
+• | Highly reliable services, including transponder availability of 99.999% on all operational satellites for the year ended December 31, 2019;
+
+
+• | Flexibility to relocate satellites to other orbital locations as we manage fleet replacement, demand patterns change or in response to new customer requirements;
+
+
+• | Design features and steerable beams on many of our satellites enable us to reconfigure capacity to provide different areas of coverage; and
+
+
+• | Resilience, with multiple satellites serving each region, allows for improved restoration alternatives should a satellite anomaly occur.
+
+As we design our new satellites, we work closely with our strategic customers to incorporate technology and service coverage that provide them with a cost-effective platform for their respective requirements.
+The table below provides a summary of our satellite fleet as of December 31, 2019, except where noted.
+ 
+Satellite | Manufacturer | OrbitalLocation | Launch Date | Estimated End ofService Life (1)
+Station Kept Satellites: | | | | 
+Intelsat 26 | BSS (2) | 63.65°E | Feb-97 | 2022 
+Galaxy 25 | SSL (3) | 32.9°E | May-97 | 2023 
+Intelsat 5 | BSS | 137°W | Aug-97 | 2024 
+Intelsat 805 | LM (4) | 169.1°E | Jun-98 | 2020 
+Galaxy 11 | BSS | 93.1°W | Dec-99 | 2024 
+Intelsat 9 | BSS | DRIFT | Jul-00 | 2022 
+Intelsat 12 | SSL | 64.25°E | Oct-00 | 2021 
+Intelsat 1R | BSS | 157.1°E | Nov-00 | 2023 
+Intelsat 10 | BSS | 47.5°E | May-01 | 2026 
+Intelsat 901 | SSL | DRIFT | Jun-01 | 2024 
+
+
+Satellite | Manufacturer | OrbitalLocation | Launch Date | Estimated End ofService Life (1)
+Intelsat 902 | SSL | DRIFT | Aug-01 | 2024 
+Intelsat 904 | SSL | 29.5°W | Feb-02 | 2025 
+Intelsat 903 | SSL | 31.5°W | Mar-02 | 2030 
+Intelsat 905 | SSL | 24.5°W | Jun-02 | 2032 
+Galaxy 3C | BSS | 95.05°W | Jun-02 | 2023 
+Intelsat 906 | SSL | 64.15°E | Sep-02 | 2020 
+Intelsat 907 | SSL | 27.5°W | Feb-03 | 2020 
+Galaxy 12 | NGIS(5) | 129°W | Apr-03 | 2025 
+Galaxy 23 (6) | SSL | 121°W | Aug-03 | 2023 
+Galaxy 13/Horizons 1 (7) | BSS | 127°W | Oct-03 | 2025 
+Intelsat 1002 (8) | Airbus | 1°W | Jun-04 | 2021 
+Galaxy 28 | SSL | 89°W | Jun-05 | 2023 
+Galaxy 14 | NGIS | 125°W | Aug-05 | 2021 
+Galaxy 15 | NGIS | 133°W | Oct-05 | 2024 
+Galaxy 16 | SSL | 99°W | Jun-06 | 2027 
+Galaxy 17 | Thales (9) | 91°W | May-07 | 2024 
+Intelsat 11 | NGIS | 42.99°W | Oct-07 | 2022 
+Horizons 2 (10) | NGIS | 84.85°E | Dec-07 | 2024 
+Galaxy 18 | SSL | 123°W | May-08 | 2028 
+Intelsat 25 | SSL | 31.5°W | Jul-08 | 2024 
+Galaxy 19 | SSL | 97°W | Sep-08 | 2028 
+Intelsat 14 | SSL | 45°W | Nov-09 | 2027 
+Intelsat 15 | NGIS | 85.15°E | Nov-09 | 2027 
+Intelsat 16 | NGIS | 76.2°W | Feb-10 | 2028 
+Intelsat 17 | SSL | 66°E | Nov-10 | 2027 
+Intelsat 28 (11) | NGIS | 32.8°E | Apr-11 | 2025 
+Intelsat 18 | NGIS | 180°E | Oct-11 | 2028 
+Intelsat 22 (12) | BSS | 72.1°E | Mar-12 | 2028 
+Intelsat 19 | SSL | 166°E | Jun-12 | 2028 
+Intelsat 20 | SSL | 68.5°E | Aug-12 | 2030 
+Intelsat 21 | BSS | 58°W | Aug-12 | 2030 
+Intelsat 23 | NGIS | 53°W | Oct-12 | 2030 
+Intelsat 30 | SSL | 95.05°W | Oct-14 | 2032 
+Intelsat 34 | SSL | 55.5°W | Aug-15 | 2033 
+Intelsat 31 | SSL | 95.05°W | Jun-16 | 2034 
+Intelsat 36 | SSL | 68.5°E | Aug-16 | 2032 
+Intelsat 33e | BSS | 60°E | Aug-16 | 2028 
+Intelsat 35e | BSS | 34.5°W | Jul-17 | 2033 
+Intelsat 37e | BSS | 18°W | Sep-17 | 2030 
+Horizons 3e (13) | BSS | 169°E | Sep-18 | 2036 
+Intelsat 39 | SSL | 61.95°E | Aug-19 | 2037 
+Payload Hosted on Third-Party Satellites: | | | | 
+Intelsat 1W (14) | Thales | 0.8°W | Oct-09 | 2025 
+Intelsat 32e (15) | Airbus | 43.0°W | Feb-17 | 2033 
+Intelsat 38 (16) | SSL | 45.1°E | Sep-18 | 2036 
+
+
+(1) | Engineering estimates of the service life as of December 31, 2019 as determined by remaining fuel levels, consumption rates and other considerations (including power) and assuming no relocation of the satellite. Such estimates are subject to change based upon a number of factors, including updated operating data from manufacturers.
+
+
+(2) | Boeing Satellite Systems, Inc. ("BSS"), formerly Hughes Aircraft Company.
+
+
+(3) | Space Systems/Loral, LLC (“SSL”).
+
+
+(4) | Lockheed Martin Corporation ("LM").
+
+
+(5) | Northrop Grumman Innovation Systems ("NGIS").
+
+
+(6) | EchoStar Communications Corporation owns all of this satellite’s Ku-band transponders and a portion of the common elements of the satellite.
+
+
+(7) | Horizons Satellite Holdings LLC (“Horizons Holdings”), a joint venture with JSAT International, Inc. (“JSAT”), owns and operates the Ku-band payload on this satellite. We are the exclusive owner of the C-band payload.
+
+
+(8) | Telenor owns 18 Ku-band transponders (measured in equivalent 36 MHz transponders) on this satellite. EADS Astrium was renamed AIRBUS Defence & Space.
+
+
+(9) | Thales Alenia Space ("Thales").
+
+
+(10) | Horizons Holdings owns the payload on this satellite and we operate the payload for the joint venture.
+
+
+(11) | Intelsat 28 was formerly known as Intelsat New Dawn.
+
+
+(12) | Intelsat 22 includes an ultra high-frequency payload owned by the Australian Defence Force.
+
+
+(13) | Horizons-3 Satellite LLC, a joint venture with JSAT, owns and operates this satellite. Horizons 3e entered into service in Q1 2019.
+
+
+(14) | Intelsat 1W refers to a Ku-band payload on Thor 6, a satellite operated by Telenor.
+
+
+(15) | Intelsat 32e refers to a HTS Ku-band payload we operate on a satellite also known as Sky Brasil 1.
+
+
+(16) | Intelsat 38 refers to a Ku-band payload on Azerspace-2, a satellite operated by Azercosmos. Intelsat 38 entered into service in Q1 2019.
+
+Satellite Systems
+There are three primary types of commercial communications satellite systems: LEO systems, medium-earth orbit systems and GEO systems. All of our satellites are geosynchronous satellites and are located approximately 22,200 miles, or 35,800 kilometers, above the equator. These satellites can receive radio frequency communications from an origination point, relay those signals over great distances and distribute those signals to a single receiver or multiple receivers within the coverage areas of the satellites’ transmission beams.
+Geosynchronous satellites send these signals using various parts of the radio frequency spectrum. The spectrum available for use at each orbital location includes the following frequency bands in which most commercial satellite services are offered today: 
+
+• | C-band-low power, broad beams requiring use of relatively larger antennae, valued as spectrum least susceptible to transmission impairments such as rain;
+
+
+• | Ku-band-high power, narrow to medium size beams facilitating use of smaller antennae favored by businesses; and
+
+
+• | Ka-band-very high power, very narrow beams facilitating use of very small transmit/receive antennae, but somewhat less reliable due to high transmission weather-related impairments. The Ka-band is utilized for various applications, including consumer broadband services.
+
+Substantially all of the station-kept satellites in our fleet are designed to provide capacity using the C- and/or Ku-bands of this spectrum.
+A geosynchronous satellite is referred to as geostationary, or station-kept, when it is operated within an assigned orbital control, or station-keeping box, which is defined by a specific range of latitudes and longitudes. Geostationary satellites revolve around the earth with a speed that corresponds to that of the earth’s rotation and appear to remain above a fixed point on the earth’s surface at all times. Geosynchronous satellites that are not station-kept are in inclined orbit. The daily north-south motion of a satellite in inclined orbit exceeds the specified range of latitudes of its assigned station-keeping box, and the satellite appears to oscillate slowly, moving above and below the equator every day. An operator will typically operate a satellite in inclined orbit toward the end of its service life because the operator is able to save significant amounts of fuel by not controlling the north-south position of the satellite and is thereby able to substantially extend the service life of the satellite. The types of services and customers that can access an inclined orbit satellite have traditionally been limited due to the movement of the satellite relative to a fixed ground antenna. However, recent technological innovations now allow the use of inclined orbit capacity for certain applications. As a result, we anticipate demand for inclined orbit capacity may increase over the next few years if these applications are successfully introduced. As of December 31, 2019, 15 of our satellites were operating in an inclined orbit, with most continuing to earn revenue beyond our original estimated life for each of these satellites.
+In-Orbit Satellites
+We believe that our strong operational performance is due primarily to our satellite procurement and operations philosophy. Our operations and engineering staff is involved from the design through the decommissioning of each satellite that 
+we procure. Our staff works at the manufacturers’ and launchers’ sites to monitor progress, allowing us to maintain close technical collaboration with our contractors during the process of designing, manufacturing and launching a satellite. We continue our engineering involvement throughout the operating lifetime of each satellite. Extensive monitoring of earth station operations, around-the-clock satellite control and network operations support ensure our consistent operational quality, as well as timely corrections when problems occur. In addition, we have in place contingency plans for technical problems that may occur during the lifetime of a satellite.
+These features also contribute to the resilience of our network, which enables us to ensure the continuity of service that is important for our customers and to retain revenue in the event that we need to move customers to alternative capacity. The design flexibility of some of our satellites enables us to meet customer demand and respond to changing market conditions.
+As of December 31, 2019, we had approximately 1,805 station-kept transponders on our traditional wide beam fleet, for which the average fill rate was 79%. The HTS Intelsat Epic transponder unit count was approximately 1,220, reflecting an increase from 2018 as a result of the entry into service of Horizons 3e.
+The design life of a satellite is the length of time that the satellite’s hardware is designed by the manufacturer to remain operational under normal operating conditions. In contrast, a satellite’s orbital maneuver life is the length of time the satellite has enough fuel to remain operational. A satellite’s service life is based upon fuel levels and other considerations, including power. Satellites launched in the recent past are generally expected to remain in service for the lesser of maneuver life and 16 years. Satellites typically have enough fuel to maintain between 16 and 18 years of station-kept operations. The average remaining service life of our satellites was approximately 7.7 years as of December 31, 2019, weighted on the basis of nominally available capacity for the station-kept satellites we own.
+Satellites on Order
+As of December 31, 2019, we had one satellite under contract for construction and launch.
+
+Satellite | Manufacturer | Role | EarliestLaunch Date | ExpectedLaunchProvider
+Galaxy 30 | NGIS | Next generation North American video distribution platform | 2020 | Arianespace 
+
+Future Satellites
+We would expect to replace other existing satellites, as necessary, with satellites that meet customer needs and that have a compelling economic rationale. We periodically conduct evaluations to determine the current and projected strategic and economic value of our existing and any planned satellites and to guide us in redeploying satellite resources as appropriate. In early 2020, Intelsat selected SSL to manufacture Intelsat 40e, a next generation Intelsat Epic geostationary communications satellite that is scheduled to launch in 2022.
+Network Operations and Current Ground Facilities
+We control and operate each of our satellites and manage the communications services for which each satellite is used from the time of its initial deployment through the end of its operational life, and we believe that our technical skill in performing these critical operations differentiates us from our competition. We provide most of these services from our satellite operations centers in McLean, Virginia and Long Beach, California, and our customer service center in Ellenwood, Georgia. In the event of a natural disaster or other situation disabling one of the facilities, each satellite operations center has the functional ability to provide instantaneous restoration of services on behalf of the other, demonstrating the efficiency and effectiveness of our network. Utilizing state of the art satellite command and control hardware and software, our satellite operations centers analyze telemetry from our satellites in order to monitor their status and track their location.
+Our satellite operations centers use a network of ground facilities to perform their functions. This network includes 15 earth stations that provide tracking, telemetry and commanding (“TT&C”) services for our satellites and various other earth stations worldwide. Through our ground facilities, we constantly monitor signal quality, protect bandwidth from piracy or other interference and maintain customer installed equipment.
+Our customer service center located in Ellenwood, Georgia includes a Radio Frequency Operations Center, a Managed Services Operations Center and an Intelsat Secured Operations Center. This facility is responsible for managing the communications services that we provide to our customers and is the first point of contact for customers needing assistance in 
+using our network. We also maintain a back-up operations facility and data center a relatively short distance from our McLean, Virginia facility in Hagerstown, Maryland. This facility provides back-up emergency operational services in the event that our Ellenwood, Georgia customer service center experiences an interruption.
+We have invested heavily in our fully integrated IntelsatOne terrestrial network which complements our satellite network. Our network includes teleport, leased fiber and network performance monitoring systems and enables us to provide end-to-end managed solutions to our customers. In addition to leased fiber connecting high-density routes, our ground network also features strategically located PoPs, which are drop-off points for our customers’ traffic that are close to major interconnection hubs for telecommunications applications, video transmissions and trunking to the internet backbone. Our terrestrial network is an all-IP network environment that results in improved ground support of high bandwidth applications such as HD video. The network architecture allows us to converge our media and network services terrestrial network infrastructures, resulting in reduced costs, and provides opportunities for generating additional revenue from existing and new customers by bundling combinations of media and network services products that can be offered through a single access circuit into our network.
+Capacity Sparing and Backup and General Satellite Risk Management
+As part of our satellite risk management, we continually evaluate, and design plans to mitigate, the areas of greatest risk within our fleet, especially for those satellites with known technical risks. We believe that the availability of spare transponder services capacity, together with the overlapping coverage areas of our satellites and flexible satellite design features described in—Our Network—Satellite Systems above, are important aspects of our ability to provide reliable service to our customers. In addition, these factors could help us to mitigate the financial impact to our operations attributable to the occurrence of a major satellite anomaly, including the loss of a satellite. Although we do not maintain backup for all of our transponder services operating capacity, we generally maintain some form of backup capacity for each satellite designated as being in primary operating service. Our restoration backup capacity may include any one or more of the following:
+
+• | designated reserve transponders on the satellite or other on-board backup systems or designed-in redundancies;
+
+
+• | an in-orbit spare satellite; or
+
+
+• | interim restoration capacity on other satellites.
+
+In addition, we provide some capacity on a preemptible basis and could preempt the use of this capacity to provide backup capacity in the event of a loss of a satellite.
+We typically obtain launch insurance for our satellites before launch and will decide whether or not to obtain such insurance taking into consideration launch insurance rates, terms of available coverage and alternative risk management strategies, including the availability of backup satellites and transponders in the event of a launch failure. Launch insurance coverage is typically in an amount equal to the fully capitalized cost of the satellite, which generally includes the construction costs, the portion of the insurance premium related to launch, the cost of the launch services and capitalized interest (but may exclude any unpaid incentive payments to the manufacturer).
+As of December 31, 2019, five of the satellites in our fleet were covered by in-orbit insurance. In-orbit insurance coverage may initially be for an amount comparable to launch insurance levels, generally decreases over time and is typically based on the declining book value of the satellite. We do not currently insure against lost revenue in the event of a total or partial loss of a satellite.
+Satellite Health and Technology
+Our satellite fleet is diversified by manufacturer and satellite type, and is generally healthy, with 99.999% transponder availability on all operational satellites during the year ended December 31, 2019. We have experienced some technical problems with our current fleet but have been able to minimize the impact of these problems on our customers, our operations and our business in recent years. Many of these problems have been component failures and anomalies that have had little long-term impact to date on the overall transponder availability in our satellite fleet. All of our satellites have been designed to accommodate an anticipated rate of equipment failures with adequate redundancy to meet or exceed their orbital design lives, and to date, this redundancy design scheme has proven effective. After each anomaly we have generally restored services for our customers on the affected satellite, provided alternative capacity on other satellites in our fleet, or provided capacity that we purchased from other satellite operators.
+Significant Anomalies
+On January 14, 2005, our Intelsat 804 satellite experienced a sudden and unexpected electrical power system anomaly that resulted in the total loss of the satellite. Intelsat 804 was a Lockheed Martin 7000 series (the “LM 7000 series”) satellite, and as of December 31, 2019 we operated one other satellite in the LM 7000 series, Intelsat 805, which was decommissioned in early 2020.
+On April 5, 2010, our Galaxy 15 satellite experienced an anomaly resulting in our inability to command the satellite. Galaxy 15 is a Star-2 satellite manufactured by Orbital Sciences Corporation. On December 23, 2010, we recovered command of the spacecraft and we have since uploaded flight software code to protect against future anomalies of this type. As of December 31, 2019, Galaxy 15 continued to provide normal service.
+On April 22, 2011, our Intelsat 28 satellite, formerly known as the Intelsat New Dawn satellite, was launched into orbit. Subsequent to the launch, the satellite experienced an anomaly during the deployment of its west antenna reflector, which controls communications in the C-band frequency. The anomaly had not been experienced previously on other STAR satellites manufactured by Orbital Sciences Corporation, including those in our fleet. The New Dawn joint venture filed a partial loss claim with its insurers relating to the C-band antenna reflector anomaly and all of the insurance proceeds from the partial loss claim were received in 2011. The Ku-band antenna reflector deployed and that portion of the satellite is operating as planned, entering service in June 2011. A Failure Review Board established to determine the cause of the anomaly completed its investigation in July 2011 and concluded that the deployment anomaly of the C-band reflector was most likely due to a malfunction of the reflector sunshield. As a result, the sunshield interfered with the ejection release mechanism, and prevented the deployment of the C-band antenna. The Failure Review Board also recommended corrective actions for Orbital Sciences Corporation satellites not yet launched to prevent reoccurrence of the anomaly. Appropriate corrective actions were implemented on Intelsat 18, which was successfully launched in October 2011, and on Intelsat 23, which was launched in October 2012.
+During launch operations of Intelsat 19 on June 1, 2012, the satellite experienced damage to its south solar array. Although both solar arrays are deployed, the power available to the satellite is less than is required to operate 100% of the payload capacity. An Independent Oversight Board (“IOB”) was formed by SSL and Sea Launch to investigate the solar array deployment anomaly. The IOB concluded that the anomaly occurred before the spacecraft separated from the launch vehicle, during the ascent phase of the launch, and originated in one of the satellite’s two solar array wings due to a rare combination of factors in the panel fabrication and was unrelated to the launch vehicle. While the satellite is operational, the anomaly resulted in structural and electrical damage to one solar array wing, which reduced the amount of power available for payload operation. Additionally, we filed a partial loss claim with our insurers relating to the solar array anomaly. We received $84.8 million of insurance proceeds related to the claim in 2013. As planned, Intelsat 19 replaced Intelsat 8 at 166°E, in August 2012.
+On February 1, 2013, the launch vehicle for our Intelsat 27 satellite failed shortly after liftoff and the satellite was completely destroyed. A Failure Review Board was established and subsequently concluded that the launch failed due to the mechanical failure of one of the first stage engine’s thrust control components. The satellite and launch vehicle were fully insured, and we received $406.2 million of insurance proceeds in 2013.
+During orbit raising of Intelsat 33e in September 2016, the satellite experienced a malfunction of the main satellite thruster. Orbit raising was subsequently completed using a different set of satellite thrusters. The anomaly resulted in a delay of approximately three months in reaching the geostationary orbit, as well as a reduction in the projected lifetime of the satellite. Intelsat 33e entered service in January 2017. In addition, in February 2017, measurements indicated higher than expected fuel use while performing stationkeeping maneuvers. There is no evidence of any impact to the communications payload. A Failure Review Board completed its investigation of the primary thruster failure and the fuel use anomalies and identified several design, build and screening improvements that are being implemented by the satellite manufacturer for future satellites using the same engine. In addition, the manufacturer has adapted its propellant estimation software for both anomalies, which we take into account in making our end of life prediction. We filed a loss claim with our insurers in March 2017 relating to the reduction of life. As of December 31, 2018, we settled with all insurers and received total collection and settlement payments of $70 million in cash. 
+In April 2019, the Intelsat 29e satellite (in service since 2016) experienced an anomaly that resulted in a total loss of the satellite. A Failure Review Board comprised of the satellite’s manufacturer, Boeing Satellite Systems, Inc., the Company and external independent experts was convened to complete a comprehensive analysis of the cause of the anomaly. The board concluded that the anomaly was either caused by a harness flaw in conjunction with an electrostatic discharge event related to solar weather activity, or the impact of a micrometeoroid. As we have other similar spacecraft on-orbit of the same Boeing series, we extended the investigation by conducting a thorough analysis of other Boeing-manufactured satellites in our fleet. 
+Based on our findings, we believe that the Intelsat 29e anomaly is an isolated incident and that other similar spacecraft are at a very low risk of experiencing the same sequence of events. We are also incorporating information gleaned from the investigation into future design and manufacturing plans to mitigate the conditions that may have caused the incident. 
+Other Anomalies
+We have also identified four other types of common anomalies among the satellite models in our fleet, which have had an operational impact in the past and could, if they materialize, have an impact in the future. These are:
+
+• | failure of the on-board satellite control processor ("SCP") in Boeing 601 (“BSS 601”) satellites;
+
+
+• | failure of the on-board Xenon-Ion Propulsion System ("XIPS") used to maintain the in-orbit position of Boeing 601 High Power Series (“BSS 601 HP”) satellites;
+
+
+• | accelerated solar array degradation in early Boeing 702 High Power Series (“BSS 702 HP”) satellites; and
+
+
+• | failure of gyroscopes on certain SSL satellites.
+
+SCP Failures. Many of our satellites use an on-board SCP to provide automatic on-board control of many operational functions. SCPs are a critical component in the operation of such satellites. Each such satellite has a backup SCP, which is available in the event of a failure of the primary SCP. Certain BSS 601 satellites have experienced SCP failures. The risk of SCP failure appears to decline as these satellites age.
+As of December 31, 2019, we operated one BSS 601 satellite, Intelsat 26. This satellite was identified as having heightened susceptibility to the SCP problem. Intelsat 26 has been in continuous operation since 1997. Both primary and backup SCPs on this satellite are monitored regularly and remain fully functional. Accordingly, we believe it is unlikely that additional SCP failures will occur. Intelsat 26 is currently planned to be decommissioned in 2022. 
+BSS 601 HP XIPS. The BSS 601 HP satellite uses XIPS as its primary propulsion system. There are two separate XIPS on each satellite, each one of which is capable of maintaining the satellite in its orbital position. The BSS 601 HP satellite also has a completely independent chemical propulsion system as a backup to the XIPS. As a result, the failure of a XIPS on a BSS 601 HP satellite typically would have no effect on the satellite’s performance or its operating life. However, the failure of both XIPS would require the use of the backup chemical propulsion system, which could result in a shorter operating life for the satellite depending on the amount of chemical fuel remaining. XIPS failures do not typically result in a catastrophic failure of the satellite or affect the communications capability of the satellite.
+As of December 31, 2019, we operated four BSS 601 HP satellites, Intelsat 5, Intelsat 9, and Intelsat 10, which are now in inclined orbit, and Galaxy 13/Horizons 1. Galaxy 13/Horizons 1 has one XIPS thruster available as its primary propulsion system. Intelsat 5, Intelsat 9 and Intelsat 10 have experienced the failure of both XIPS and are operating on their backup chemical propulsion systems. Intelsat 5 was redeployed in 2012 following its replacement by Intelsat 8, which was subsequently replaced by Intelsat 19. Also in 2012, Intelsat 9 and Intelsat 10 were redeployed following their replacements by Intelsat 21 and Intelsat 20, respectively. No assurance can be given that we will not have further XIPS failures that result in shortened satellite lives. We have decommissioned three satellites that had experienced failure of both XIPS. Intelsat 6B was replaced by Intelsat 11 during the first quarter of 2008, Galaxy 10R was replaced by Galaxy 18 during the second quarter of 2008, and Galaxy 4R was decommissioned in March 2009.
+BSS 702 HP Solar Arrays. All of our satellites have solar arrays that power their operating systems and transponders and recharge the batteries used when solar power is not available. Solar array performance typically degrades over time in a predictable manner. Additional power margins and other operational flexibility are designed into satellites to allow for such degradation without loss of performance or operating life. Certain BSS 702 HP satellites have experienced greater than anticipated degradation of their solar arrays resulting from the design of the solar arrays. Such degradation, if continued, will likely result in a shortened operating life of a satellite or the need to reduce the use of the communications payload.
+As of December 31, 2019, we operated three BSS 702 HP satellites, two of which are affected by accelerated solar array degradation, Galaxy 11 and Intelsat 1R. Service to customers has not been affected, and we expect that both of these satellites will continue to serve customers until we replace or supplement them with new satellites. Along with the manufacturer, we continually monitor the problem to determine its cause and its expected effect. Due to this continued degradation, Galaxy 11 was redeployed following its replacement by Intelsat 34. Intelsat 1R was redeployed following its replacement by Intelsat 14. The third BSS 702 HP satellite that we operated as of December 31, 2019, Galaxy 3C, was launched after the solar array anomaly was identified, and it has a substantially different solar array design intended to eliminate the problem. This satellite has been in service since September 2002 and has not experienced similar degradation problems.
+SSL gyroscopes. Some of our satellites use gyroscopes to provide 3-axes attitude information during orbit inclination maneuvers. Certain SSL satellites use gyroscopes that have been identified as having a higher probability of failing. There are four gyroscopes on each of these SSL satellites, three of which are needed for normal operation, and the fourth is a spare. The failure of a single gyroscope on a given satellite would have no effect on the satellite’s performance or its operating life. A failure of two or more gyroscopes on a given satellite would require us to use an alternative method for inclination control. This alternative method would likely result in a reduction in the remaining life of the satellite. As of December 31, 2019, we operated 11 SSL satellites that use these gyroscopes, seven of which are in inclined orbit. While in inclined orbit, inclination maneuvers are no longer required. 
+Regulation
+As an operator of a privately-owned global satellite system, we are subject to U.S. government regulation, regulation by foreign national telecommunications authorities and the International Telecommunication Union ("ITU") frequency coordination process and regulations.
+U.S. Government Regulation
+FCC Regulation. The majority of the satellites in our current constellation are licensed and regulated by the FCC. We have final or temporary FCC authorization for all of our U.S.-licensed operating satellites. The special temporary authorizations (“STAs”) in effect relating to our satellites cover various time periods, and thus the number held at any given time varies. In some cases, we have sought STAs because we needed temporary operational authority while we are awaiting grant of identical permanent authority. In others, we sought STAs because the activity was temporary in nature, and thus no permanent authority was needed. Historically, we have been able to obtain the STAs that we have needed on a timely basis. FCC satellite licenses have a fifteen-year term. At the end of a license term, we can request an extension to continue operating a satellite. In addition, our FCC satellite licenses that relate to use of those orbital locations and associated frequencies that were transferred to the United States at the time of our privatization in July 2001 are conditioned on our remaining a signatory to the Public Services Agreement among the International Telecommunications Satellite Organization ("ITSO"), Intelsat, Ltd. and certain of our subsidiaries (the "Public Services Agreement"). Furthermore, any transfer of these licenses by us to a successor-in-interest is only permitted if such successor-in-interest has undertaken to perform our obligations under the Public Services Agreement. Some of our authorizations contain waivers of technical regulations. Many of our technical waivers were required when our satellites were initially licensed by the United States at privatization in 2001 because, as satellites previously operated by an intergovernmental entity, they had not been built in compliance with certain U.S. regulations. Since privatization, several replacement satellites for satellites licensed at privatization also have needed technical waivers as they are technically similar to the satellites they are replacing.
+Changes to our satellite system generally require prior FCC approval. From time to time, we have pending applications for permanent or temporary changes in orbital locations, frequencies and technical design. From time to time, we also file applications for replacement or additional satellites. Replacement satellite applications are eligible for streamlined processing if they seek authority for the same orbital location, frequency bands and coverage area as an existing satellite and will be brought into use at approximately the same time, but no later than, the existing satellite is retired. The FCC processes satellite applications for new orbital locations or frequencies on a first come, first served basis. The FCC requires licensees of new, non-replacement, geostationary satellites to post a bond and to comply with a milestone to launch and operate the satellite within five years of the license grant. The bond starts at $1 million and increases, pro rata, in proportion to the time that has elapsed since the license was granted to the time of the launch and operate milestone. At the end of the five-year period, the bond amount will be $3 million. A satellite licensee that does not satisfy the launch and operate milestone will lose its license and must forfeit the bond absent circumstances warranting a milestone extension under the FCC’s rules and policies. An operator that elects to relinquish its license prior to the five-year launch and operate milestone will forfeit the amount of accrued bond as of the date the license is relinquished. We hold other FCC licenses, including earth station licenses associated with technical facilities located in several states and licenses for terminals. We must pay FCC filing fees in connection with our space station and earth station applications, and we must also pay annual regulatory fees to the FCC. Violations of the FCC’s rules can result in various sanctions including fines, loss of authorizations or the denial of applications for new authorizations or the renewal of existing authorizations.
+One of our subsidiaries holds a Section 214 authorization. However, we currently do not sell services as a common carrier. Therefore, we are not subject to rate regulation or the obligation not to discriminate among customers.
+U.S. Export Control Requirements and Sanctions Regulation. Intelsat must comply with U.S. export control and trade sanctions laws and regulations as follows:
+The Export Administration Act/International Emergency Economic Powers Act, implemented by the Export Administration Regulations (“EAR”) and administered by the U.S. Department of Commerce’s Bureau of Industry and Security (“BIS”), regulates exports of dual-use controlled items, which includes commercial communications satellites, associated ground equipment, related software, and technology. The EAR also controls dual-use equipment exported to earth stations in our ground network located outside of the United States and to customers as needed. Intelsat uses EAR approved licensing exceptions for many of our export-controlled programs, and EAR licenses as required. It is our practice to obtain all licenses necessary, or correctly document the license exception authorized, for the furnishing of original or spare equipment for the operation of our TT&C ground stations, other network stations, and customer locations in a timely manner to facilitate the shipment of this equipment when needed.
+The Arms Export Control Act, implemented by the International Traffic in Arms Regulations (“ITAR”) and administered by the U.S. Department of State’s Directorate of Defense Trade Controls, regulates the export of items on the U.S. Munitions List, including the export of certain satellites and/or payloads with defined military and/or government end use capabilities and characteristics, certain associated hardware, defense services, and technical information relating to satellites to non-U.S. persons (including satellite manufacturers, component suppliers, launch services providers, insurers, customers, Intelsat employees, and other non-U.S. persons). A small portion of Intelsat’s controlled technology remains under ITAR. Intelsat does not currently have any active ITAR licenses. 
+Certain of Intelsat’s contracts for consulting, manufacture, launch, and insurance of Intelsat’s and third-party satellites involve the export to non-U.S. persons of technology and/or hardware; currently these exports are regulated under the EAR. We do not currently need any ITAR authorizations to fulfill our obligations under contracts with non-U.S. entities.
+Trade sanctions laws and regulations administered by the U.S. Department of Treasury’s Office of Foreign Assets Control regulate the provision of services to certain countries subject to U.S. trade sanctions. As required, Intelsat holds the authorizations needed to provide satellite capacity and related administrative services to U.S.-sanctioned countries.
+U.S. Department of Defense Security Clearances. To participate in classified U.S. government programs, we entered into a proxy agreement with the U.S. government that allows one of our subsidiaries to obtain security clearances from the U.S. Department of Defense as required under the national security laws and regulations of the United States. Such a proxy agreement is required to insulate the subsidiary performing this work from inappropriate foreign influence and control by Intelsat S.A., a Luxembourg company with significant non-U.S. investments and employees. Security clearances are subject to ongoing scrutiny by the issuing agency, as well as renewal every five years. Intelsat must maintain the security clearances obtained from the U.S. Department of Defense, or else lose the ability to perform our obligations under any classified U.S. government contracts to which our subsidiary is a party. Under those circumstances, the U.S. government would have the right to terminate our contracts requiring access to classified information and we would not be able to enter into new classified contracts. Compliance with the proxy agreement is regularly monitored by the U.S. Department of Defense and reviewed at least annually, and if we materially violate the terms of the proxy agreement, the subsidiary holding the security clearances may be suspended or debarred from performing any U.S. government contracts, whether classified or unclassified. Our current proxy agreement is subject to extension every five years with the agreement of the U.S. Department of Defense.
+Regulation by Non-U.S. National Telecommunications Authorities
+U.K. Regulation. The United Kingdom is the licensing jurisdiction for the Intelsat 12 and Intelsat 26 satellites. Satellite operators in the United Kingdom are regulated by the U.K. Office of Communications (“Ofcom”) and the U.K. Space Agency (“UKSA”). Additionally, Ofcom regulates the use of certain spectrum and orbital resources associated with some of our satellites. Specifically, the following satellites were operated under the regulation of Ofcom for the year ended December 31, 2019: Intelsat 33e, Intelsat 37e, and Intelsat 1R. 
+Papua New Guinea Regulation. The National Information & Communications Technology Authority of Papua New Guinea (“NICTA”) regulates the use of certain spectrum and orbital resources associated with some of our satellites. Specifically, the following satellites were operated under the regulation of NICTA for all or part of the year ended December 31, 2019: Galaxy 23, Intelsat 26, Intelsat 30, Intelsat 31, Intelsat 33e, Intelsat 36 and Intelsat 39. We are required to pay annual fees to NICTA in connection with the spectrum and orbital resources utilized by these satellites, as well as for other satellite network filings we have the right to use. In 2003, the FCC added the C-band payload of the Galaxy 23 satellite, which is licensed by NICTA, to its “Permitted Space Station List,” enabling use of the payload to provide non-DTH services in the United States.
+German Regulation. We hold licenses from the Federal Network Agency ("Bundesnetzagentur" or "BNetzA") for several earth stations in Germany, as well as authorizations to use spectrum and orbital resources associated with the operation of the 
+Intelsat 10, Intelsat 38, and Intelsat 904 satellites and with future satellites. We are required to pay annual fees to BNetzA in connection with the spectrum and orbital resources utilized by these satellites, as well as for other satellite network filings we have the right to use.
+Australian Regulation. We hold licenses from the Australian Communications and Media Authority (“ACMA”) for several earth stations in Australia, as well as a Nominated Carrier Declaration.
+Japanese Regulation. We hold licenses from the Ministry of Internal Affairs and Communications for several earth stations in Japan, terminals, as well as carrier registrations. We and JSAT are the sole members of Horizons Holdings, and in 2002 the Japanese telecommunications ministry authorized Horizons Holdings to operate the Ku-band payload on the Galaxy 13/Horizons 1 satellite. In 2003, the FCC added this Ku-band payload to its “Permitted Space Station List,” enabling Horizons Holdings to use the payload to provide non-DTH services in the United States. In May 2004, the FCC expanded this authority to include one-way DTH services. We are the exclusive owner of the C-band payload on Galaxy 13/Horizons 1, which the FCC has licensed us to operate.
+Other National Telecommunications Authorities. As a provider of satellite capacity and services, we are also subject to the national communications and broadcasting laws and regulations of many other countries in which we operate. In addition, in some cases our ability to operate a satellite in a non-U.S. jurisdiction also arises from a contractual arrangement with a third party. Some countries require us to obtain a license or other form of written authorization from the regulator prior to offering satellite capacity services, operating terminals or providing managed services. We have obtained these licenses or written authorizations, or are in the process of doing so, in all countries that have required us to obtain them. As satellites are launched or relocated, we determine whether such licenses or written authorizations are required and, if so, we obtain them. Most countries allow authorized telecommunications providers to own their own transmission facilities and to purchase satellite capacity without restriction, facilitating customer access to our services. Other countries maintain strict monopoly regimes or otherwise regulate the provision of our services. In order to provide services in these countries, we may need to negotiate an operating agreement with a monopoly entity that covers the types of services to be offered by each party, the contractual terms for service and each party’s rates. As we have developed our ground network and expanded our service offerings, we have been required to obtain additional licenses and authorizations. To date, we believe that we have identified and complied with all of the regulatory requirements applicable to us in connection with our ground network and expanded services.
+The International Telecommunication Union Frequency Coordination Process and Associated Regulations
+Only nation states have full standing as ITU members. Therefore, we must rely on governments to represent our interests before the ITU, including obtaining new rights to use orbital locations and resolving disputes relating to the ITU’s regulations. We primarily rely upon the United States, the United Kingdom, Germany, and Papua New Guinea to file for orbital slots at the ITU. Our use of orbital locations is subject to the frequency coordination and recording process of the ITU. In order to protect satellite networks from harmful radio frequency interference from other satellite networks, the ITU maintains a Master International Frequency Register (“MIFR”) of radio frequency assignments and their associated orbital locations. Each ITU notifying administration is required by treaty to give notice of, coordinate and record its proposed use of radio frequency assignments and associated orbital locations with the ITU’s Radiocommunication Bureau.
+When a frequency assignment is recorded in the MIFR, the ITU publishes this information so that all potential users of frequencies and orbital locations are aware of the need to protect the recorded assignments associated with a given orbital location from subsequent or nonconforming interfering uses by member states of the ITU. The ITU’s Radio Regulations do not contain mandatory dispute resolution or enforcement mechanisms. Rather, the ITU relies on technical rules as a basis for coordination and consultations between member states for matters related to spectrum disputes. Given the lack of enforcement mechanisms within the ITU treaty, neither the ITU specifically, nor international law generally, provide clear remedies if this voluntary process fails. 
+In the U.S. regulatory process, an operator may submit an ITU satellite network filing to the FCC for forwarding to the ITU prior to the operator filing a complete FCC license application. Submission of such an ITU filing will reserve for the operator a place in the FCC’s first come, first served licensing queue provided the operator posts a $500,000 bond. If the operator fails within two years to file a complete FCC license application for the orbital location, frequencies and polarization proposed in the ITU satellite network filing, the bond will be forfeited.
+Environmental Matters
+Intelsat aims to provide leadership in the identification and promotion of sustainable practices and services that reduce the company’s environmental impact, educate and engage staff and create a more environmentally sustainable organization. Our 
+operations are subject to various laws and regulations relating to the protection of the environment, including those governing the management, storage and disposal of hazardous materials and the cleanup of contamination should it arise. As an owner or operator of property and in connection with current and historical operations at some of our sites, we could incur significant costs, including cleanup costs, fines, sanctions and third-party claims, as a result of violations of or liabilities under environmental laws and regulations. For instance, some of our operations require continuous power supply, and, as a result, current and past operations at our teleports and other technical facilities include fuel storage and batteries for back-up power generators. We believe, however, that our operations are in substantial compliance with applicable environmental laws and regulations. Moreover, Intelsat’s properties generally operate pursuant to a Conditional Use Permit. In order to obtain such a permit, Intelsat must demonstrate compliance with all applicable environmental laws and must maintain programs to prevent or minimize damage to public health, safety and the environment, from, for example, a release or threatened release of hazardous materials, including but not limited to ground water, air, offsets and storage. Intelsat also complies with community right-to-know laws and has undertaken compliance with International Organization for Standardization (ISO) 45001:2018, which specifies requirements for an occupational health and safety management system, and is seeking certification at this time. 
+Employees
+As of December 31, 2019, we had 1,195 full-time regular employees. These employees consisted of:
+
+
+• | 611 employees in engineering, operations and related information systems;
+
+
+• | 193 employees in finance, legal and other administrative functions;
+
+
+• | 305 employees in sales, marketing and strategy; and
+
+
+• | 86 employees in support of government sales and marketing.
+
+We believe that our relations with our employees are good. None of our employees is represented by a union or covered by a collective bargaining agreement.
+History and Development of the Company
+The Company
+Our legal and commercial name is Intelsat S.A. The Company was organized as a public limited liability company (société anonyme) under the laws of the Grand-Duchy of Luxembourg on July 8, 2011. Our principal executive office is located at 4, rue Albert Borschette, L-1246, Luxembourg, telephone number +352 27 84 1600. The Company is registered with the Luxembourg Registre de Commerce et des Sociétés under number B162135.
+Our History
+Intelsat, Ltd., a Bermuda company, was the successor entity to the International Telecommunications Satellite Organization (the “IGO”). The IGO was a public intergovernmental organization created on an interim basis by its initial member states in 1964 and formally established in February 1973 upon entry into force of an intergovernmental agreement. The member states that were party to the treaty governing the IGO designated certain entities to market and use the IGO’s communications system within their territories and to hold investment share in the IGO.
+The Privatization
+In November 2000, the IGO’s Assembly of Parties unanimously approved our management’s specific plan for our privatization and set the date of privatization for July 18, 2001. On July 18, 2001, substantially all of the assets and liabilities of the IGO were transferred to Intelsat, Ltd., which was domiciled as a Bermuda company.
+The IGO, referred to post-privatization as the International Telecommunications Satellite Organization (“ITSO”), was established and was to exist as an intergovernmental organization for a period of at least 12 years after July 18, 2001, and then could be terminated by a decision of a governing body of ITSO called the Assembly of Parties. The Assembly of Parties voted in 2012 to continue ITSO until at least 2021. Pursuant to a Public Services Agreement among ITSO and Intelsat, Ltd. and certain of our subsidiaries, we have an obligation to provide our services in a manner consistent with the core principles of global coverage and connectivity, lifeline connectivity and non-discriminatory access, and ITSO monitors our implementation of this obligation.
+The Luxembourg Migration
+On December 15, 2009, Intelsat, Ltd. and certain of its parent holding companies and subsidiaries migrated their jurisdiction of organization from Bermuda to Luxembourg (the “Migration”). As a result of the Migration, our headquarters are located in Luxembourg. 
+The Initial Public Offering
+On April 23, 2013, we completed our initial public offering, in which we issued 22,222,222 common shares, and a concurrent public offering, in which we issued 3,450,000 5.75% Series A mandatory convertible junior non-voting preferred shares (the “Series A Preferred Shares”), at public offering prices of $18.00 and $50.00 per share, respectively (the initial public offering together with the concurrent public offering, the “IPO”). In May 2016, all of the outstanding Series A Preferred Shares were converted in accordance with their terms into common shares.
+Available Information
+We file annual, quarterly, and current reports, proxy statements, and other documents with the SEC under the Securities Exchange Act of 1934, as amended. You may obtain any reports, proxy and information statements, and other information that we file electronically with the SEC at www.sec.gov.
+You also may view and download copies of our SEC filings free of charge at our website, www.intelsat.com, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. The information contained on, or that can be accessed through, our website will not be deemed to be incorporated by reference in, and is not considered part of, this Annual Report on Form 10‑K. Investors should also note that we use our website, as well as SEC filings, press releases, and public conference calls, to announce financial information and other material developments regarding our business. We use these channels, as well as social media, to communicate with investors and members of the public about our business. It is possible that the information that we post on our social media channels could be deemed material information. We encourage investors, the media and others interested in our Company to review the information that we post on our social media channels.

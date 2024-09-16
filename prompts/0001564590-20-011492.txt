@@ -1,0 +1,870 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business. 
+Overview
+ We are a clinical-stage biopharmaceutical company designing and developing novel small molecule, targeted oncology therapies to address key limitations of existing therapies and improve the lives of patients. Our internally developed and wholly owned pipeline of next-generation tyrosine kinase inhibitors (TKIs) targets numerous genetic drivers of cancer in both TKI-naïve and TKI-pretreated patients. The pervasive challenges of intrinsic and acquired treatment resistance often limit the response rate and durability of existing therapies. One of these challenges is the emergence of solvent front mutations, which are a common cause of acquired resistance to currently approved therapies for ROS1, TRK and ALK kinases, and a reported emerging cause of acquired resistance to one of the current investigational RET inhibitors. We have developed a macrocycle platform enabling us to design proprietary small, compact TKIs with rigid three-dimensional structures that potentially bind to their targets with greater precision and affinity than other kinase inhibitors. We believe the TKIs generated from our drug discovery platform have the potential to be best-in-class.
+Our lead drug candidate, repotrectinib, is being evaluated in an ongoing Phase 1/2 trial called TRIDENT-1 for the treatment of patients with ROS1+ advanced NSCLC and patients with NTRK+ advanced solid tumors. We initiated the multi-cohort Phase 2 registrational portion of TRIDENT-1 in June 2019 and we anticipate reporting early interim data from initial patients from some of the registrational cohorts within the Phase 2 portion of TRIDENT-1 in the second half of 2020. We plan to conduct the Phase 2 portion of the trial in approximately 100 sites in the United States, Europe and Asia-Pacific regions, and to enroll a total of approximately 320 patients.  The Phase 2 portion of TRIDENT-1 is a registrational trial for potential approval in ROS1+ advanced NSCLC and NTRK+ advanced solid tumors.  We also commenced a Phase 1/2 study of repotrectinib in pediatric and young adult patients with ALK+, ROS1+, or TRK+ advanced solid tumors in November 2019.
+ In addition to repotrectinib, our pipeline includes two clinical-stage multi-targeted kinase inhibitors, TPX-0022 (a novel MET/CSF1R/SRC inhibitor) and TPX-0046 (a novel RET/SRC inhibitor), and a preclinical ALK inhibitor, TPX-0131, which is entering IND-enabling studies. We initiated our Phase 1 clinical trial of TPX-0022 in patients with advanced solid tumors harboring genetic alterations in MET in July 2019. The Phase 1 trial is designed to evaluate the overall safety profile, pharmacokinetics and preliminary efficacy of TPX-0022 and includes a dose-escalation portion starting at 20 mg daily, or QD, followed by dose expansion cohorts with a targeted enrollment of 120 patients at sites in the United States, Europe, and Asia-Pacific regions. The dose expansion cohorts are planned to enroll MET therapy-naïve and MET therapy-pretreated NSCLC patients with MET exon 14 skipping mutations; patients with MET-amplified NSCLC, hepatocellular, gastric or gastroesophageal cancer; and patients with other solid tumors harboring MET kinase domain mutations or MET fusions. We anticipate reporting early interim data from initial patients treated with TPX-0022 in this Phase 1 trial in the second half of 2020.
+ We initiated our Phase 1/2 clinical trial of TPX-0046 in patients with advanced solid tumors harboring RET genetic alterations in the fourth quarter of 2019. The trial is designed to enroll TKI-naïve and TKI-pretreated patients with RET-altered non-small-cell lung, thyroid, and other advanced cancers in multiple cohorts to assess safety, tolerability, pharmacokinetics and preliminary clinical activity of TPX-0046, with a targeted enrollment of approximately 50 patients in the Phase 1 dose escalation portion, and approximately 300 patients in the Phase 2 expansion portion at sites in the United States, Europe and Asia-Pacific regions. The study design allows intra-patient dose escalation based on tolerability in both RET TKI- naïve and TKI-pretreated patients within the Phase 1 portion of the study.
+2
+
+As we advance our clinical programs with site activations and patient enrollment across our three clinical stage drug candidates, we are in close contact with our CROs and clinical sites as we navigate and assess the impact of COVID-19 on our studies and current timelines.
+ Our fourth drug candidate, TPX-0131 is a next-generation preclinical ALK inhibitor. TPX-0131 has been designed with a compact macrocyclic structure and in preclinical studies has been shown to potently inhibit wildtype ALK and numerous ALK mutations, in particular the clinically observed G1202R solvent front mutation and G1202R/L1196M compound mutation.  Pending successful completion of IND-enabling studies, we anticipate submitting an IND for TPX-0131 in early 2021.
+ Our Strategy 
+ Our strategy is to focus on the design, development and commercialization of novel TKIs to address unmet medical needs, with the potential to be best-in-class and to address treatment resistance. Key elements of our strategy include: 
+
+• | Rapidly develop and commercialize our lead drug candidate, repotrectinib, for the treatment of patients with ROS1+ advanced NSCLC and NTRK+ advanced solid tumors, including those with central nervous system (CNS) disease or CNS metastases. Currently there are no U.S. Food and Drug Administration (FDA)-approved TKIs that can overcome solvent front mutations arising in the ROS1 or TRK kinases, and a high unmet medical need exists due to treatment resistance. In TKI-naïve patients, we believe repotrectinib has the potential to be the best-in-class ROS1 inhibitor and TRK inhibitor based on our preclinical data and preliminary clinical data from TRIDENT-1.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Expand the market opportunity for repotrectinib by pursuing combination therapies. We believe our preliminary safety data and antitumor activity from TRIDENT-1 support pursuing combination therapies. Preclinical studies have shown that repotrectinib inhibits JAK2, SRC, and FAK, which leads to modulation of Signal Transducer and Activator of Transcription 3 (STAT3) signaling, one of the major signaling pathways for both intrinsic and acquired treatment resistance. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Leverage our extensive expertise and macrocycle platform to develop and expand our pipeline candidates as single agent therapies and/or in combinations. In addition to repotrectinib, we are developing a pipeline of highly potent drug candidates based on our macrocycle platform that we believe can be best-in-class kinase inhibitors and address areas of unmet medical need. We intend to develop our current and future pipeline candidates as single agent therapies as well as in combinations. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Evaluate strategic opportunities to accelerate development timelines and enhance the commercial potential of our drug candidates. We have worldwide rights to all of our drug candidates. We will evaluate partnerships and other strategic opportunities that could increase the value of our programs and allow us to leverage the expertise of collaborators. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Establish capabilities to effectively commercialize our drug candidates. We intend to build a targeted, specialty sales force in North America to support the commercialization of repotrectinib and our other drug candidates, if approved. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Overview of Kinases and Current Limitations of Kinase Inhibitors 
+ Kinases are enzymes that respond to external stimuli to modulate numerous activities of cells, such as proliferation, survival and migration. ATP is utilized by kinases for phosphorylation, which triggers a signaling process. This phosphorylation process changes a kinase from an inactive conformation (unphosphorylated kinase) to an active conformation (phosphorylated kinase). A kinase often undergoes substitutions of its original amino acids by other amino acids, also known as a mutation. Kinases maintain a controlled equilibrium between the active and inactive conformations, but activating mutations shift the kinase to favor the active conformation, which can lead to aberrant cell proliferation and thus the development of certain cancers. Aberrant activation of a kinase can also occur if the kinase gene, such as ROS1, NTRK or ALK, undergoes a genomic rearrangement resulting in fusion to another gene, leading to the constitutive phosphorylation of the fusion kinase and the development of certain cancers. 
+ Kinase inhibitors are designed to occupy the ATP binding site, thereby preventing the binding of ATP. Most conventional kinase inhibitors are much larger than ATP and have extra motifs that extend beyond the ATP pocket of the kinase in order to enable the kinase to have a stronger interaction with the compound than with ATP. During treatment with 
+ 3
+
+conventional TKIs, an acquired mutation in the kinase domain often occurs. These mutations change the surface of the kinase and block the occupancy of oversized TKIs at the ATP binding site without impacting the binding of ATP. Two or more mutations in the same protein are referred to as compound mutations.
+ 
+Based on the orientation of the extra motif, kinase inhibitors can be grouped into two types: 
+  
+• | Type I kinase inhibitors, such as Xalkori (crizotinib), which often have the extra motif extending to the kinase’s open solvent front area. The most common treatment acquired resistance to these inhibitors are solvent front mutations.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Type II kinase inhibitors, such as Gleevec (imatinib), which have the extra motif extending to the back pocket of the kinase. The most common treatment acquired resistance to these inhibitors are gatekeeper mutations.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ TKIs have become an important class of cancer therapies due to their ability to interrupt deregulated kinase signaling that leads to unchecked cell growth and tumor progression. Since 2001, the FDA has approved nearly 40 TKIs for the treatment of cancers. In 2017, TKIs represented approximately $20 billion in worldwide drug sales. Despite the success of this drug class, there remains a significant opportunity for a new generation of TKIs that address the shortcomings of current therapies. These shortcomings include the inability to achieve a response or limited durability of response caused by intrinsic or acquired resistance, and toxicities that limit dosage levels and duration of treatment. Many conventional kinase inhibitors are oversized, with bulky side groups and limited chemical structure diversity, and some are associated with safety issues such as QT prolongation (abnormal electrocardiography) and hepatotoxicity (liver damage). Further, the same class of kinase inhibitors often share many binding similarities and therefore often cannot be sequentially administered to effectively overcome common treatment resistant mutations. 
+ Our Approach 
+ To overcome key limitations of most current TKI therapies and emerging resistance, we are using our macrocycle platform to develop a new generation of orally available proprietary TKIs that we believe will have the ability to maintain or enhance inhibition of the targeted kinase in both TKI-naïve and TKI-pretreated patients.  Our strategy is to design small (low molecular weight), compact TKIs with rigid three-dimensional macrocyclic structures that bind inside the ATP pocket of the target kinase. By binding completely inside the ATP pocket, our TKIs can bind to solvent front mutated kinases that sterically exclude conventional TKIs. In addition to potentially addressing resistance that has developed from prior lines of TKI therapy, we believe our TKIs may also prevent or delay the emergence of new resistant mutations. Furthermore, unlike conventional, flat, two-dimensional kinase inhibitor structures, we believe a rigid three-dimensional structure enables our TKIs to target the selected kinases in a highly potent, precise and efficient manner, which provides a base for a favorable kinase selectivity profile. The figure below depicts the binding of conventional oversized TKIs to the ATP pocket in the kinase, the development of resistant mutations (solvent front, gatekeeper), and the binding features of our small, compact TKIs. Our kinase inhibitors bind within the ATP pocket and do not have extra motifs extending beyond the pocket. The 
+ 4
+
+compact design of our TKIs enables them to avoid steric interference from acquired mutations, such as solvent front mutations, and allows for potential activity with our kinase inhibitors despite the presence of a resistant mutation.
+ 
+
+Our pipeline candidates will be studied as single agents and in combinations that are supported by strong biologic rationale for synergy between the combined agents, while focusing on key areas of unmet medical need including acquired treatment resistance. The figure below depicts the structure of repotrectinib compared to certain approved and investigational TKIs, overlaid on the structure of ATP. The extra motif present in conventional TKIs at the solvent front area may result in the development of solvent front mutations, as illustrated below.
+ 
+
+SFM: area that may result in solvent front mutations 
+ MW: molecular weight
+5
+
+Our Pipeline 
+ We are leveraging our macrocycle platform to design a pipeline of highly potent proprietary TKI drug candidates that are structurally different from many existing kinase inhibitors. We believe our TKIs have the potential to be best-in-class and may address the key issues of emerging treatment resistance and toxicities that limit duration of treatment. Our platform allows us to rapidly identify new drug candidates for development. We have global development and commercialization rights to our drug candidates, including our lead drug candidate, repotrectinib.   The following chart summarizes our product pipeline.
+Turning Point Therapeutics Pipeline 
+ 
+
+ 
+1 | Not required for Phase 2 registrational clinical trials
+--+--------------------------------------------------------
+
+ 
+The table below reflects biomarker prevalence of the mutations targeted across the indications related to our current pipeline and the corresponding estimated number of patients in the United States, United Kingdom, France, Germany, Spain and Italy (EU5). 
+ 
+ 
+ | 2018 Estimated Annual Number of Patients
+-----------------------+-----------------------------------------
+ | Repotrectinib | TPX-0022 | TPX-0046 | TPX-0131 
+ | Advanced NSCLC | Other Advanced Solid Tumors (1) | Gastric | Advanced NSCLC | EGFR Mutated TKI-Resistant Advanced NSCLC(2) | Advanced NSCLC | Thyroid (3) | Advanced NSCLC
+U.S. Patients (4), (5) | 160,000 | 520,000 | 17,500 | 160,000 | 12,800 | 160,000 | 11,250 | 160,000 
+EU5 Patients (4) | 117,000 | 557,900 | 36,680 | 117,000 | 6,230 | 117,000 | 11,030 | 117,000 
+Biomarker | 2% | 0.5% | 4% | 3% | 12.5% | 2% | 16% | 7% 
+Prevalence (6) | (ROS1) | (NTRK) | (MET) | (MET Exon 14) | (MET Amplified) | (RET) | (RET) | (ALK) 
+
+
+(1) | Reflects other solid tumor indications including Brain, Breast, Colon, Melanoma, NSCLC, Pancreas, Sarcoma, and Thyroid, excluding ROS1+ and ALK+ for NSCLC
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Does not include first line EGFR mutated advanced NSCLC patients; Assumes ~20%, 15%, 11%, 14%, 17% and 12% EGFR mutation prevalence for U.S., France, Germany, Italy, Spain and the U.K., respectively
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Includes papillary and medullary thyroid tumors
+----+------------------------------------------------
+
+
+(4) | Estimates include Stage III unresectable and metastatic patient populations, adjusted for treatable population and those that are tested for the targeted biomarkers. Assumes 85% biomarker testing rate
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | Based on SEER 2015 five-year diagnosed prevalence, grown at 0.7% in line with U.S. population growth
+----+-----------------------------------------------------------------------------------------------------
+
+
+(6) | Estimates based on publications and physician and payor interviews in the United States
+----+----------------------------------------------------------------------------------------
+
+ 6
+
+Repotrectinib 
+ We are developing our lead drug candidate, repotrectinib, an orally administered TKI, for the treatment of both TKI-naïve and TKI-pretreated patients with ROS1+ advanced NSCLC and NTRK+ advanced solid tumors. As of the July 22, 2019 data cut-off date, preliminary data from a total of 93 patients in the Phase 1 portion of TRIDENT-1 demonstrated clinical proof-of-concept in evaluable patients with ROS1+ advanced NSCLC (n=40) and NTRK+ advanced solid tumors (n=5) at well-tolerated dose levels.  
+ We previously completed an End of Phase 1 meeting with the FDA to gain regulatory clarity related to our TRIDENT-1 Phase 2 design and we received the FDA’s acceptance of our recommended Phase 2 dose in late July 2019.  We initiated the multi-cohort Phase 2 registrational portion of TRIDENT-1 in June 2019 and approximately 40% of our planned clinical trial sites are now active. Additionally, the FDA has granted repotrectinib fast t
+rack designation for the treatment of ROS1+ advanced NSCLC patients who have been previously treated with one prior line of platinum-based chemotherapy and one prior line of a ROS1 TKI.
+ Mechanism of Action 
+ Repotrectinib is a small (low molecular weight), macrocyclic TKI of ROS1, TRK, and ALK. Repotrectinib was designed to efficiently bind with the active kinase conformation and avoid steric interference from a variety of clinically resistant mutations, especially the solvent front and gatekeeper mutations of the ROS1 and TRK kinases. Repotrectinib has a rigid, three-dimensional structure and is smaller than currently approved or investigational ROS1, TRK and ALK inhibitors. The rigid, three-dimensional structure enables repotrectinib to precisely and efficiently bind to its oncogenic targets with a desirable selectivity profile. We have screened repotrectinib against approximately 400 kinases which indicated repotrectinib is a selective multi-targeted kinase inhibitor that is highly potent against ROS1, TRK, and ALK, and inhibits JAK2, SRC and FAK, as depicted below.
+ 
+
+Kinome illustration reproduced courtesy of Cell Signaling Technology, Inc. (CSTI) (www.cellsignal.com). Each branch of the dendogram represents an individual human kinase. The foregoing website is maintained by CSTI
+ The selectivity index (SI) is defined as the kinase IC50 value divided by the lowest IC50 value (0.071 nM) from the inhibition against the ROS1 kinase and is depicted by the size of the circles in the figure above. The largest circle is for ROS1 with SI = 1, followed by kinases with 1< SI <10 (TRKA, TRKB and TRKC), 10< SI <20 (ALK, JAK2, and SRC family member FYN), and 20< SI <250 (SRC family members LYN, YES1, FGR and SRC; TXK, ARK5, DDR1 and FAK). Based on the selectivity profile, we believe repotrectinib will be able to target ROS1 and TRK family members with high potency, and target JAK2, some SRC family members and FAK with moderate potency. According to a 2015 review article, selective multi-targeted kinase inhibitors with a favorable safety profile may be more suitable for cancer treatment, which we believe is due to their activity against redundant signaling pathways mediated by different kinases. Repotrectinib inhibits JAK2, SRC and FAK leading to the modulation of STAT3 signaling, one of the major signaling pathways that is common for both intrinsic and acquired resistance. We believe the inhibition of JAK2, SRC and FAK may lead to a longer duration of response for patients treated with repotrectinib. 
+ 7
+
+Market Opportunity 
+ An estimated 1.8 million people were projected to die of lung cancer in 2018, the leading cause of cancer-related death globally. Metastatic NSCLC and advanced solid tumors are serious diseases for which the five-year survival rates range from 5-30% and 3-38%, respectively. While currently approved TKIs have improved the five-year survival rates, there remains a significant opportunity for a new generation of TKIs that address the shortcomings of current therapies. These shortcomings include:
+
+• | the inability to achieve a response, or limited durability of response, caused by intrinsic or acquired resistance;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | toxicities that limit dosage levels and duration of treatment; and
+--+-------------------------------------------------------------------
+
+
+• | an inability to combine with other anti-cancer agents because of cumulative toxicities.
+--+----------------------------------------------------------------------------------------
+
+ There are currently two approved TKIs for each of the TKI naïve patient populations targeted by our lead drug candidate, repotrectinib and no approved TKIs for the TKI pre-treated patient populations. Xalkori (crizotinib) and Rozlytrek (entrectinib) are approved for TKI naïve patients with metastatic ROS1+ NSCLC, and Vitravki (larotrectinib) and Rozyltrek (entrectinib) have received accelerated approval for TKI naïve patients with metastatic solid tumors that have an NTRK gene fusion (NTRK+ advanced solid tumors) without a known acquired resistant mutation. Each of these currently approved TKIs has shown treatment resistance, including emerging resistant mutations, and toxicities that can limit duration of treatment.
+ Key limitations of crizotinib are its limited activity within the CNS and its overall safety profile. In addition, key limitations of entrectinib for ROS1+ NSCLC patients include that it has shown to be ineffective in patients who had systemic progression with prior crizotinib treatment and its overall safety profile. Additionally, Grade 3 or Grade 4 
+ALT or AST elevations have been reported following treatment with many TKIs including crizotinib, entrectinib and larotrectinib. 
+ There continues to be a growing number of acquired resistant mutation
+s in patients previously treated with TKIs. Many of the currently approved or investigational ROS1, TRK, ALK, and RET kinase inhibitors have an extra chemical group, or motif, extending to the solvent front that leaves them susceptible to solvent front mutations. The most common solvent front mutation in the ROS1 kinase, G2032R, was reported in 2017 from a single institution in 41% of biopsy specimens from patients who experienced progressive disease while taking crizotinib. In addition, emerging solvent front mutations, such as TRKA G595R, TRKC G623R and TRKC G623E, have been reported in NTRK+ solid tumors after treatment with larotrectinib and entrectinib. Currently, there are no FDA-approved TKIs that can overcome solvent front mutations for the ROS1 or T
+RK kinases. Lorlatinib is currently the only FDA-approved TKI targeting the ALK kinase that has demonstrated clinical activity against the solvent front mutation ALK G1202R.  Additionally, recent literature supports the emergence of solvent front mutations in G810X (C/S/R) with one of the investigational RET inhibitors.  Given the incidence of these resistant mutations, there continues to be a high unmet medical need to develop novel therapies that can overcome intrinsic and acquired resistance, such as the development of solvent front mutations.
+ TRIDENT-1 Phase 1/2 Trial 
+ The Phase 1, dose escalation portion of TRIDENT-1, included three parts: 
+  
+• | Phase 1a (completed, n=44);
+--+----------------------------
+
+
+• | Phase 1b (completed, n=28); and
+--+--------------------------------
+
+
+• | Phase 1c (completed, n=21).
+--+----------------------------
+
+ Repotrectinib was administered in continuous 28-day cycles across multiple dose levels, as set forth in the table below. In Phase 1a, repotrectinib was given under defined fasting conditions. In Phase 1b, the first dose of repotrectinib was given with either a high-fat, high-calorie meal or under defined fasting conditions and then switched to the opposite on the second dose with repotrectinib given either under defined fasting conditions or with a high-fat, high-calorie meal to evaluate the effect of food on the pharmacokinetics of repotrectinib. After the second dose, all other doses were given under defined fasting conditions. In Phase 1c, repotrectinib was given continuously with a standard meal. In parallel, a midazolam drug-drug interaction (DDI) study is ongoing and will enroll six patients at our Phase 2 dose of repotrectinib. Enrollment has been 
+ 8
+
+completed in Phase 1a, 1b and 1c and is ongoing in the midazolam DDI study. A total of 23 patients were still on treatment as of the July 22, 2019 data-cut off.
+
+
+ 
+ | Dose | | Patients (n)
+--------------------------------------------------------------+-----------------------------------------------------------------------+----+-------------
+Phase 1a Completed Enrollment (Fasted Dosing) | 40 mg QD | | 6 
+80 mg QD | | 6 
+160 mg QD | | 8 
+240 mg QD | | 10
+160 mg BID | | 12
+200 mg BID | | 2 
+Phase 1b Completed Enrollment (Single Dose with Food) | 40 mg QD | | 7 
+80 mg QD | | 6 
+160 mg QD | | 15
+Phase 1c Completed Enrollment (Dosing Continuously with Food) | 120 mg QD 160 mg QD 160 mg QD for one week, 160 mg BID thereafter | | 3 6 12 
+
+ 
+As of the July 22, 2019 data cut-off, of the 12 patients treated in the last dosing cohort (160 mg QD for one week followed by 160 mg BID), one patient had only one post baseline scan and therefore could not be classified as a confirmed responder at the time of the data cut-off. In addition, six of the 12 patients were not evaluable for response in the efficacy evaluable population by Blinded Independent Central Review (BICR). This included two TKI pretreated patients with ROS1+ advanced NSCLC and one TKI naïve TRK+ patient with advanced thyroid cancer who had yet to have a post baseline scan, one ROS1+ gastric cancer patient, and two ROS1+ NSCLC patients (one TKI naïve; one TKI pretreated) who discontinued treatment prior to a post baseline scan. The Phase 1 portion of TRIDENT-1 is nearing completion pending completion of enrollment in the midazolam DDI portion of the study. 
+ The primary objective of the Phase 1 portion of TRIDENT-1 was to determine the maximum tolerated dose (MTD), and a recommended Phase 2 dose of repotrectinib. The safety endpoints of the Phase 1 portion included evaluating the DLTs and adverse events. The secondary endpoint of the Phase 1 portion was confirmed objective response rate (ORR) by BICR, using RECIST v1.1. 
+ Key inclusion criteria include: histologically or cytologically confirmed diagnosis of locally advanced or metastatic solid tumors, including non-Hodgkin Lymphoma (Stage IV, as classified by AJCC v.7) that harbor an ALK, ROS1, NTRK1, NTRK2, or NTRK3 gene fusion determined by local testing; Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1 (able to conduct full (0) or light (1) daily activities); Age ≥ 18; prior chemotherapy and/or immunotherapy permitted; at least one measurable target lesion (including central nervous system only) according to RECIST v1.1. Key exclusion criteria include: symptomatic brain metastases; major cardiovascular history in the past six months; or history of prolonged QTc interval. 
+ Solid tumors are measured by CT or MRI scan, as assessed according to RECIST v1.1, at baseline, at the end of the second cycle, after every two cycles up to cycle 18, and then every three cycles up to cycle 36. If an initial response is determined, confirmation of response requires a subsequent CT or MRI scan, generally four weeks later. 
+ As of the July 22, 2019 data cut-off, a total of 93 patients were treated across nine dose cohorts ranging from 40 mg QD to 240 mg QD, 160 mg BID and 200 mg BID, and additional Phase 1c cohorts of 120 mg QD, 160 mg QD, and 160 mg QD with dose escalation to 160 mg BID after 7 days of treatment if no DLTs were observed with repotrectinib given continuously with food. Median age was 54.0 years old (range 18 to 79, 21.5% were 65 years old and over), and 67.7% had ECOG Performance Status of 1. A significant majority (83%) of patients with advanced solid tumors were diagnosed with NSCLC. Other patients with the diagnosis of glioblastoma, renal cell carcinoma, liver cancer, soft tissue sarcoma, melanoma, salivary gland, gallbladder, thyroid, head and neck, uterine, and inflammatory myofibroblastic cancer were also enrolled. All patients with advanced solid tumors had received prior TKIs or chemotherapy treatment without any enrollment restrictions regarding the number of prior therapies. The following table summarizes the disease characteristics of the patients in the Phase 1 portion of TRIDENT-1 as of the July 22, 2019 data cut-off. 
+ 9
+
+
+ 
+Disease Characteristics 
+-----------------------------------------------
+Overall Patient Population | n=93(1) 
+Number of Patients with Baseline CNS Metastases | n=37(2) (40%) 
+ | # of Prior TKIs Median (Min, Max) | # of Prior Lines of Chemotherapy Median (Min, Max)
+ROS1+ Advanced Solid Tumors (n=52) | 1 (0, 3) | 1 (0, 8) 
+NTRK+ Advanced Solid Tumors (n=10) | 0 (0, 2) | 1 (0, 2) 
+ALK+ Advanced Solid Tumors (n=31) | 2 (0, 4) | 1 (0, 6) 
+
+
+(1) | Overall patient population includes: 52 (56%) ROS1+ patients; 10 (11%) NTRK+ patients; and 31 (33%) ALK+ patients
+----+------------------------------------------------------------------------------------------------------------------
+
+
+(2) | 50% (20/40) for ROS1+ advanced NSCLC patients by investigators’ assessments including measurable and non-measurable CNS metastases
+----+-----------------------------------------------------------------------------------------------------------------------------------
+
+ The protocol-defined analysis populations were: 
+  
+• | Safety Analysis Population (n=93): Includes all patients who received at least one dose of repotrectinib; and
+--+--------------------------------------------------------------------------------------------------------------
+
+
+• | BICR Evaluable Population (n=70): Includes all patients who received at least one dose of repotrectinib; had a baseline tumor assessment with measurable disease; and had at least one post-baseline tumor assessment.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Patient numbers within each of these populations are shown in the following table. 
+ 
+ 
+ | ROS1+ | | NTRK+ | | ALK+ | Total
+--------------------------------------+-------+----+-------+----+------+------
+Safety Analysis Population | | 52 | | 10 | | 31 | 93
+Response Evaluation Population (BICR) | | 43 | | 5 | | 22 | 70
+Advanced NSCLC | | 40 | | 1 | | 19 | 60
+Other Advanced Solid Tumors | | 3 | | 4 | | 3 | 10
+
+Preliminary Clinical Data From TRIDENT-1 
+ In September 2019, we reported preliminary safety, tolerability and efficacy data with repotrectinib in patients with ROS1+ advanced NSCLC. As of the July 22, 2019 data cut-off, a total of 93 patients had been dosed, 23 patients were still on treatment, and the MTD had not been reached. Of the 93 patients, 40 of 52 with ROS1+ advanced NSCLC and five of 10 with NTRK+ advanced solid tumors were evaluable by BICR. All patients received at least one dose of repotrectinib across nine dose cohorts ranging from 40 mg QD to 200 mg BID. 
+ The median age of these 40 ROS1+ advanced NSCLC evaluable patients was 57.0 years (range, 30 to 79), 65% were female, and 53% were Asian. CNS metastases were reported in 20 (50%) at baseline. The median number of prior ROS1 TKIs in the 29 (73%) pretreated patients was one (range, one to three). Of the 29 patients, 18 were treated with one prior TKI (of which 12 were treated with crizotinib), seven were treated with two prior TKIs, and four were treated with three prior TKIs. There were 34 (85%) patients treated with at least one prior chemotherapy. 
+ The clinical efficacy data summarized below focuses on the results from the ROS1+ advanced NSCLC patient population and the smaller population of evaluable NTRK+ advanced solid tumor patients. 
+ The median follow-up time for the 40 patients with ROS1+ advanced NSCLC on study was 19.2 months (20.1 months in TKI-naïve; and 7.3 months in TKI-pretreated). All responses observed in this patient population were confirmed partial responses (PR) by RECIST v1.1 (one patient had a confirmatory scan after 23 days). The median time to response for the 40 patients with ROS1+ advanced NSCLC was 1.7 months (range, 1.5 – 7.0 months) (1.7 months in TKI-naïve; and 1.6 months in TKI-pretreated). 
+ TKI-naïve ROS1+ advanced NSCLC evaluable population (n=11) 
+ In the TKI-naïve ROS1+ advanced NSCLC evaluable population (11/11 evaluable), 11 patients were treated across six dose escalation cohorts. All patients in this population had prior chemotherapy (ranging from one to three lines of chemotherapy). The confirmed ORR by BICR was 91% (10/11) (95% CI, 59 to 100) across all six dose levels, with six of seven (86%) patients achieving a confirmed PR at our Phase 2 dose of 160 mg QD or above, which includes one patient who initially started repotrectinib at 120 mg QD but escalated to 160 mg QD before responding 21 days later. 
+ 10
+
+The median duration of response for the 10 confirmed responders was not mature to report, with five of 10 (50%) responding patients remaining in response at 3.7+, 14.8+, 16.4+, 17.6+, and 23.3+ months at the time of the data cut-off. Of the five patients no longer in response, four had events of progressive disease, and one patient was censored off treatment prior to progression. The probability of DOR of greater than 18 months was 65% (based on Kaplan-Meier estimation). 
+ Of the 11 TKI-naïve patients, three patients had measurable CNS metastases, and of the three patients, the confirmed IC-ORR was 100% (3/3) (95% CI, 29 to 100), with all three patients with measurable CNS metastases also achieving a confirmed extracranial response. Of these three patients, two remained in a response 14.8+ and 17.6+ months at the time of the data cut-off and one patient progressed at 23.1 months but remained on treatment for 25.7+ months at the time of the data cut-off. The CBR, including those who achieved stable disease for at least two cycles or a confirmed partial or complete response, was 100% (11/11) (95% CI, 72 to 100), as shown below.
+ 
+
+--At and below dashed -30% line represents a response, at and above dashed 20% line represents PD, and the area between the two dashed lines represents stable disease of target lesions 
+ TKI-pretreated ROS1+ advanced NSCLC evaluable population (n=29, which includes patients with up to three prior TKIs) 
+ In the TKI-pretreated ROS1+ advanced NSCLC evaluable population, the confirmed ORR among patients treated with one or two prior TKIs was 36% (9/25) (95% CI, 18 to 57). Twenty-three of 29 patients (79%) had prior chemotherapy either before or after their ROS1 TKI and prior to starting repotrectinib. Eighteen of 29 patients (62%) had one prior TKI, 12 (67%) of which had crizotinib as their only prior TKI. 
+ 
+11
+
+Across all dose levels, in TKI-pretreated ROS1+ advanced NSCLC patients treated with one prior TKI, the confirmed ORR was 39% (7/18) (95% CI, 17 to 64). At our Phase 2 dose of 160 mg QD or above, 55% (6/11) of patients previously treated with one prior ROS1 TKI achieved a confirmed PR as shown below. Additionally, 57% (4/7) of patients previously treated with one prior platinum-based chemotherapy regimen and one prior ROS1 TKI at our Phase 2 dose of 160 mg QD or above achieved a confirmed PR.
+
+
+--At and below dashed -30% line represents a response, at and above dashed 20% line represents PD, and the area between the two dashed lines represents stable disease of target lesions 
+ 
+12
+
+Of the seven patients treated with two prior TKIs, two (29%) (95% CI, four to 71) achieved a confirmed PR, with both patients treated at 160 mg QD and above and were remaining in response for 3.7+ months at the time of the data cut-off. One of the two responders achieved a complete response (CR) that was yet to confirm and was classified as a confirmed PR. In addition to the two new confirmed responders, one additional patient treated at 160 mg QD initially who dose escalated to 160 mg BID only had one post baseline scan at the time of the data cut-off, which showed a CR and was classified as being in stable disease until a confirmatory scan was performed. Given there are no approved TKIs for patients previously treated with crizotinib or entrectinib, let alone two prior TKIs, this is clinically meaningful despite the small sample size. 
+ 
+
+--At and below dashed -30% line represents a response, at and above dashed 20% line represents PD, and the area between the two dashed lines represents stable disease of target lesions 
+ Four heavily pretreated patients received three prior ROS1 TKIs with two patients who achieved stable disease and remained on treatment at 3.6+ and 21.6+ months. These patients are not eligible for the ongoing TRIDENT-1 Phase 2 registrational study. 
+ At the time of the data cut-off, of the nine responders within the ROS1+ TKI pretreated patient population, two patients had DORs of 4.4 and 13.0 months and despite progression, remained on treatment for 21.2 and 22.0 months, respectively. Two patients were censored early despite remaining in response at the time of discontinuing treatment (one due to clinical progression and one due to withdrawal of consent). The remaining five patients have DORs ranging from 3.7+ months to 11.1 months and remained on treatment ranging from 5.5+ months to 19.3+ months. 
+ 
+Four out of five TKI-pretreated patients with measurable CNS disease at baseline were treated with one prior TKI and the confirmed IC-ORR in these patients was 75% (3/4) (95% CI, 19 to 99), with 80% (4/5) of patients treated with any number of prior TKIs showing tumor regressions. The CBR in ROS1 TKI-pretreated ROS1+ advanced NSCLC patients treated with one prior TKI was 78% (14/18) (95% CI, 52 to 94), which is clinically meaningful for patients with limited treatment options. 
+ 13
+
+In the 29 TKI-pretreated ROS1+ advanced NSCLC evaluable patients, 23 were pretreated with crizotinib. Seven of the 23 (30%) evaluable patients who were crizotinib-pretreated were found to have the common ROS1 G2032R solvent front mutation. Tumor regressions were observed in all seven crizotinib-pretreated patients who had a ROS1 G2032R solvent front mutation. Three of the seven (43%) patients with the ROS1 G2032R solvent font mutation achieved a confirmed PR, each of whom, were treated at 160 mg QD or higher. 
+  
+• | One of the two patients was previously treated with crizotinib for 13 months and achieved stable disease as the best response while on crizotinib. While on repotrectinib, this patient achieved a confirmed PR and had a DOR of 4.4 months and remained on treatment for 21.2 months.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The second patient was previously treated with crizotinib for over 20 months (best response unknown) and achieved a confirmed PR while on repotrectinib and had a DOR of 5.5+ months and remains on treatment at 7.6+ months at the time of the data cut-off.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The third patient who achieved a confirmed PR was treated with two prior TKIs and, while on repotrectinib, had a DOR of 3.7+ months and remained on treatment for 5.6+ months at the time of the data cut-off.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Given the preliminary antitumor activity of repotrectinib in ROS1+ advanced NSCLC patients and the lack of approved ROS1 targeted therapies in ROS1 TKI-pretreated patients, we believe repotrectinib represents a potential therapeutic option, especially for those patients who have a difficult-to-treat ROS1 G2032R solvent front mutation as shown below. 
+ 
+
+--At and below dashed -30% line represents a response, at and above dashed 20% line represents PD, and the area between the two dashed lines represents stable disease of target lesions 
+ 14
+
+Duration of Treatment with Repotrectinib in ROS1+ Advanced NSCLC Patients 
+ Of the 40 evaluable patients with ROS1+ advanced NSCLC who received treatment with repotrectinib, 45% (18/40) remained on treatment as of the July 22, 2019 data cut-off. The primary reason for treatment discontinuation was radiologic or clinical disease progression (18 patients). Two patients discontinued repotrectinib due to an adverse event; one was a DLT of Grade 3 hypoxia and dyspnea at a dose of 160 mg BID and the other was a patient with ROS1+ NSCLC initially treated at 120 mg QD who escalated to 160 mg BID due to disease progression 30 days prior to the event of Grade 5 treatment emergent adverse event (TEAE) of respiratory failure reported as related to disease progression and not treatment related. We believe that the duration of treatment for the ROS1+ advanced NSCLC patient population, which is shown in the chart below, is supportive of the overall tolerability of repotrectinib given the duration of treatment for many patients (both those who have not yet progressed, and those who have continued repotrectinib after progression). 
+ 
+
+As of January 6, 2020, seven of 11 (64%) TKI-naïve and seven of 29 (24%) TKI-pretreated patients remained on treatment. All seven TKI-naïve patients have been on treatment for greater than 14 months, including five of seven for greater than 24 months and two of seven for greater than 30 months. All seven TKI-pretreated patients have been on treatment for greater than seven months, including five of seven for greater than 10 months and two of seven for greater than 24 months.
+ 15
+
+Interim Safety Results 
+ As of the July 22, 2019 data cut-off, repotrectinib continued to be generally well tolerated. The majority of TEAEs were Grade 1 or Grade 2. The following table shows the most common TEAEs (related and unrelated to treatment) occurring in >10% of patients in the total of 93 treated patients, as well as the infrequent Grade 3 treatment related AEs (TRAEs). The most common TEAE reported was dizziness in 54 patients of whom 43 (80%) reported the event at a maximum of Grade 1. There were no reported cases of Grade 4 TRAEs. 
+
+ | TEAES | TRAEs 
+----------------------------------+------------------+--------------
+Most common (>10%) (n=93) | All Grades n (%) | Grade 3 n (%) | Grade 41 n (%) | Grade 3 n (%) | Grade 4 n (%) | 
+Dizziness | 54 (58.1) | 3 (3.2) | | 3 (3.2) | | —
+Dysgeusia | 45 (48.4) | | | | | 
+Anemia | 28 (30.1) | 11 (11.8) | | 3 (3.2) | | 
+Constipation | 28 (30.1) | | | | | 
+Fatigue | 28 (30.1) | 2 (2.2) | | | | 
+Dyspnea (shortness of breath) | 27 (29.0) | 5 (5.4) | 1 (1.1) | 1 (1.1) | | 
+Paresthesia | 27 (29.0) | | | | | 
+Nausea | 21 (22.6) | 2 (2.2) | | | | 
+Cough | 18 (19.4) | | | | | 
+Pyrexia (fever) | 17 (18.3) | | | | | 
+Headache | 15 (16.1) | 1 (1.1) | | | | 
+Vomiting | 13 (14.0) | | | | | 
+Ataxia | 12 (12.9) | | | | | 
+Myalgia | 11 (11.8) | | | | | 
+Upper respiratory tract infection | 11 (11.8) | | | | | 
+Abdominal pain | 10 (10.8) | | | | | 
+Muscular weakness | 10 (10.8) | 1 (1.1) | | | | 
+Pain in extremity | 10 (10.8) | 1 (1.1) | | | | 
+
+
+1 | Additional Grade 4 TEAEs: cerebrovascular accident, influenza, hyperkalemia, bacterial pneumonia, sepsis (n=1 each), respiratory failure (n=2); none were determined to be related to treatment.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+≠ | Grade 5 TEAEs: respiratory failure (n=2), pneumonia, sepsis, sudden death (n=1 each); only the case of sudden death was determined to be possibly related to treatment by Sponsor.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ There have been four DLT events: Grade 2 dizziness (n=1 at 160 mg BID), Grade 3 dizziness (n=2; 1 at 160 mg BID and 1 at 240 mg QD), and Grade 3 dyspnea and hypoxia (breathing difficulty) (n=1 at 160 mg BID). No cases of dizziness have led to treatment discontinuation. There have been no Grade 3 or Grade 4 ALT or AST elevations (elevated ALT and AST levels indicate liver damage).
+  There has been one Grade 5 TEAE which the investigator determined to be unrelated to study treatment, but which we classified as possibly related to study treatment.  The event involved a patient with ALK+ NSCLC and a past medical history of diabetes, obesity and hypertension who was dosed at 240 mg QD of repotrectinib and experienced a Grade 5 event of sudden death on day 10 of cycle 1. This event occurred in August 2017.
+ 16
+
+In addition, the table below outlines the overall dose modifications of repotrectinib for both TEAEs and TRAEs, and includes permanent drug discontinuation, dose reductions, and dose interruptions, due to AEs (related and unrelated to treatment) as well as information on Serious Adverse Events (SAEs) in the 93 total treated patients as of the data cut-off. Overall, there is a very low incidence of dose modifications or serious adverse events that have been reported and classified as related to repotrectinib, which is another indication of its overall tolerability.
+
+ 
+ | (n=93) 
+------------------------------------------------------------------+-----------
+Number of Patients with Treatment-Emergent Adverse Events (n (%)) | 
+• Leading to Discontinuation of Study Drug | 12 (12.9) 
+• Leading to Dose Reduction | 12 (12.9) 
+• Leading to Drug Interruption | 18 (19.4) 
+Number of Patients with Treatment-Related Adverse Events | 
+• Leading to Discontinuation of Study Drug | 3 (3.2) 
+• Leading to Dose Reduction | 11 (11.8) 
+• Leading to Drug Interruption | 5 (5.4) 
+Number of Patients with Treatment-Emergent Serious Adverse Events | 33 (35.5) 
+Number of Patients with Treatment-Related Serious Adverse Events | 3 (3.2) 
+
+Preliminary Efficacy Data in Patients with NTRK+ Advanced Solid Tumors Assessed by BICR 
+ Within the Phase 1 portion of TRIDENT-1, the data for the NTRK+ advanced solid tumor patient population is limited, yet among the three evaluable NTRK+, TRK TKI-pretreated patients, a confirmed PR with a duration of response of 9.8 months was observed in one patient who was diagnosed with advanced salivary gland cancer, and was treated with multiple prior TKIs including crizotinib and entrectinib and developed a TRKC G623E solvent front mutation prior to treatment with repotrectinib. The patient remained on repotrectinib treatment for 17.9 months, and then discontinued treatment due to disease progression and subsequently received additional chemotherapy with no response. In January 2019, the patient began receiving repotrectinib again on a compassionate use basis and as of August 2019 was in an unconfirmed PR per RECIST v1.1 and has remained on repotrectinib for 7.2+ months as of August 13, 2019. 
+ The data within the NTRK+ solid tumor patient population that had not received prior TRK TKIs is limited to two evaluable patients: one who had glioblastoma and achieved stable disease as the best response, and since the last data cut-off in March 2019, a TKI naive TRK+ patient with advanced thyroid cancer treated at 160 mg QD who achieved a confirmed PR with a duration of 3.8+ months and who remained on treatment for 5.5+ months at the time of the July 22, 2019 data cut-off. One additional patient with angiosarcoma who had a dramatic initial response on skin lesions but was not evaluable for response due to death from sepsis (not related to treatment) within the second cycle. 
+ Preliminary Efficacy Data in ALK+ Patients Assessed by BICR 
+ Of the 22 heavily pretreated evaluable ALK+ patients, six achieved stable disease as their best response and no PRs were observed. Based on the lack of responses at the evaluated dose levels, we will not enroll ALK+ NSCLC patients in the Phase 2 portion of TRIDENT-1.
+ Repotrectinib Clinical Development Plan 
+ TRIDENT-1 Phase 1/2 Clinical Trial 
+ Repotrectinib is being evaluated in TRIDENT-1, our ongoing Phase 1/2 clinical trial for the treatment of patients with ROS1+ advanced NSCLC and NTRK+ advanced solid tumors. We initiated the clinical trial in February 2017 at four sites in the United States and three sites in South Korea. A total of 93 patients were enrolled as of the July 22, 2019 data cut-off date. The FDA granted an orphan drug designation in June 2017 for the development of repotrectinib in metastatic NSCLC with adenocarcinoma histology and fast track designation in December 2019 for the treatment of ROS1+ advanced NSCLC patients who have been previously treated with one prior line of platinum-based chemotherapy and one prior line of a ROS1 TKI. 
+ 17
+
+The Phase 2 portion of TRIDENT-1 is our single-arm clinical trial in approximately 320 total patients to support the registration of repotrectinib in patients with ROS1+ advanced NSCLC and NTRK+ advanced solid tumors. The trial is evaluating repotrectinib as a single agent at the recommended Phase 2 dose and is enrolling patients across six patient expansion cohorts with ROS1+ advanced NSCLC (EXP-1, EXP-2, EXP-3 and EXP-4), and NTRK+ advanced solid tumors (EXP-5 and EXP-6). The trial design for the Phase 2 portion of TRIDENT-1 is illustrated in the following figure.
+
+
+EXP-1, and EXP-5 will enroll patients who have not been previously treated with a TKI, whereas EXP-2, EXP-3, EXP-4 and EXP-6 will enroll patients who have been previously treated with one or two TKIs. Patients in EXP-2 and EXP-3 need to have had 1 prior platinum-based chemotherapy while patients in EXP-4 will not have had prior chemotherapy.  All patients in the Phase 2 portion of TRIDENT-1 will receive repotrectinib orally at a starting dose of 160 mg QD for the first 14 days of treatment, after which the dose may be increased to 160 mg BID based on patient tolerability, for 28 consecutive days in repeated four-week cycles. 
+ The primary objective is to determine the confirmed ORR based on BICR as assessed by RECIST v1.1. Patients will be evaluated by either CT or MRI every two cycles and responses will be confirmed approximately four weeks after initial response determination. A CT or MRI scan will be performed at the end of treatment. Patients are able to continue treatment after documented disease progression, provided the patient is deriving clinical benefit. Patients discontinuing study treatment will enter the survival follow-up period and remain on trial until death, loss of follow-up, or withdrawal of consent, whichever occurs first. The key secondary objectives of the trial include intracranial tumor response and duration of response. In December 2018, we completed an End of Phase 1 Meeting with the FDA during which we received feedback on TRIDENT-1 and guidance on the design of the Phase 2 portion: 
+  
+• | EXP-1. The current single-arm design could support either accelerated or standard approval. A minimum duration of follow up of at least 12 months from the onset of response for all responding patients would be required to support standard approval.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | EXP-2 and EXP-3. The current single-arm design could support accelerated approval in the context of available therapy at the time of submission.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | EXP-4. This cohort has been revised since the End of Phase 1 Meeting with the FDA, but will be an exploratory cohort.
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+• | EXP-5 and EXP-6. The current single-arm design could support approval with a minimum of five distinct tumor types evaluated. A minimum duration of follow up of at least 12 months from the onset of response for all responding patients would be required.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Potential approval by the FDA will be based on the totality of the evidence related to ORR and duration of response, as well as overall risk-benefit assessment. 
+ We have developed a prototype companion diagnostic that is being used as a clinical trial assay to confirm the presence of ROS1+ or NTRK+ gene fusions in patients enrolled in the Phase 2 portion of TRIDENT-1.  We received investigational device exemption from the FDA for our clinical trial assay, in May 2019, which allows its use as an investigational device in the Phase 2 portion of TRIDENT-1 and supports a potential future pre-market approval (PMA) application to the FDA. We are also enrolling patients into the Phase 2 portion of TRIDENT-1 based on the results of select laboratory developed tests (LDTs) and other tests used by the clinical sites
+ 18
+
+Pediatric Strategy 
+ Beyond TRIDENT-1, we are conducting an open-label Phase 1/2 single arm, multi-center, dose-escalation, safety and pharmacokinetics clinical trial of repotrectinib in pediatric and young adult patients with ALK+, ROS1+, or NTRK+ advanced solid tumors. The Phase 1 portion of this trial is a dose finding study in patients aged 4 years to 11 years old. The Phase 2 portion is designed to enroll patients into 3 separate cohorts based on the identified oncogenic driver and prior treatment, (1) NTRK+ TKI-naïve, (2) NTRK+ TKI-pretreated and (3) Other NTRK, ALK, ROS1 genetic alterations not otherwise specified. 
+ Combination Strategy 
+ We believe our preliminary safety data and antitumor activity from TRIDENT-1 support pursuing combination therapies for repotrectinib. Preclinical studies have shown that repotrectinib inhibits JAK2, SRC, and FAK, which leads to modulation of Signal Transducer and Activator of Transcription 3 (STAT3) signaling, one of the major signaling pathways for both intrinsic and acquired treatment resistance.  We are currently evaluating multiple potential combination regimens for repotrectinib based on preclinical findings that we plan to report in the first half of 2020.  
+Key Preclinical Data for Repotrectinib 
+ Repotrectinib demonstrated high potency against fusion ROS1 and emerging resistant mutations 
+ ROS1 fusion genes have been identified as oncogenic drivers in many malignancies, especially NSCLC. Crizotinib and entrectinib are the only approved treatments for metastatic ROS1+ NSCLC. The efficacy of crizotinib varies among different types of ROS1 fusion partners in patients with metastatic ROS1+ NSCLC. The most common fusion, CD74-ROS1, is associated with a higher rate of brain metastases and shorter overall survival. Unfortunately, the emergence of drug resistance to crizotinib and other ROS1-targeted investigational TKIs represents a major treatment limitation. The most common solvent front mutation in the ROS1 kinase, G2032R, was reported in 2017 from a single institution in 41% of biopsy specimens from patients who experienced progressive disease while taking crizotinib. The ROS1 L2026M gatekeeper mutation has also been reported. 
+ 
+The activity of repotrectinib against multiple ROS1 fusions and corresponding resistant mutations was evaluated using our in-house engineered Ba/F3 cell lines, as shown in the table below. Overall, repotrectinib demonstrated a strong inhibition profile, as reflected by low IC50 values, against wild-type and mutant ROS1 fusions when compared to many other ROS1 TKIs. IC50 represents the concentration needed to inhibit 50% of the activity of targeted tumor cells, with lower numbers reflecting higher potency. These data support the belief that repotrectinib can potentially be a best-in-class ROS1 TKI that effectively targets fusion and mutated fusion ROS1 kinases. 
+ 
+ 
+ | Ba/F3 Cell Proliferation Assay IC50 (nM) | 
+--------------+------------------------------------------+-----
+ | No Kinase Domain Mutation | | ROS1 G2032R | | | ROS1 L2026M | 
+Inhibitor(1) | CD74- ROS1 | | SDC4- ROS1 | | | EZR- ROS1 | | | TPM3- ROS1 | | CD74- ROS1 | | | SDC4- ROS1 | | | EZR- ROS1 | | TPM3- ROS1 | | | EZR- ROS1 | | | TPM3- ROS1
+Repotrectinib | <0.2 | | | 0.2 | | | <0.1 | | | <0.1 | | | 3.3 | | | | 3 | | | 5 | | | | 16.3 | | <0.2 | | <0.1 | 
+Crizotinib | | 14.6 | | | 19.6 | | | | 19.4 | | | 31.1 | | | | 266.2 | | | 4,661 | | | | 660 | | | 500.6 | | | 95.6 | | 236.2
+Lorlatinib | | 0.2 | | | 0.3 | | | | 0.2 | | | 0.3 | | | | 160.7 | | | 352.9 | | | | 190.5 | | | 434.9 | | | 1.6 | | 1.9 
+Entrectinib | | 10.5 | | ND | | | | 1.5 | | | 9.4 | | | | 1,813 | | | ND | | | 2,947 | | | | 1,093 | | 13.3 | | | 40.7 
+Ceritinib | | 42.8 | | | 59.8 | | | | 33.1 | | | 105 | | | | 1,391 | | | 1,883 | | | | 885.8 | | | 543.7 | | | 12.6 | | 66.5 
+Brigatinib | | 21 | | | 38.7 | | | | 25.8 | | | 61 | | | | 1,172 | | | 1,473 | | | | 360.6 | | | 3,000 | | | 24.4 | | 41.3 
+Cabozantinib | | 0.5 | | | 3 | | | | 0.4 | | | 4.5 | | | | 11.3 | | | 169.4 | | | | 39.5 | | | 60.7 | | | 3.4 | | 12.6 
+Ensartinib | | 39.5 | | ND | | | | 118.6 | | | 433.1 | | | | 371.8 | | | ND | | | 1,757 | | | | 4,814 | | 543.3 | | | 1,463
+
+ 
+ND: Not determined 
+  
+(1) | Other than repotrectinib, data based on evaluation of comparable proxy chemical reagent purchased from commercial sources rather than obtained from the pharmaceutical company developing the kinase inhibitor
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+19
+
+In addition, in xenograft tumor model studies, repotrectinib resulted in tumor regression in tumors carrying ROS1 fusion genes with or without a solvent front mutations, as depicted in the following figures.
+
+ 
+Antitumor effect of repotrectinib in a patient-derived xenograft model of lung cancer with the CD74-ROS1 fusion gene | Antitumor effect of repotrectinib in a Ba/F3 cell-derived xenograft model with the CD74-ROS1 fusion gene | Antitumor effect of repotrectinib in a Ba/F3 cell-derived xenograft model with the CD74- ROS1 G2032R mutation
+
+ 
+Repotrectinib demonstrated high potency against TRK resistant mutations
+ Oncogenic TRKA/B/C fusions are identified in multiple cancer types in adults and children. While TRK inhibitors have demonstrated significant efficacy in patients with these cancers, acquired resistant mutations can occur. Next-generation TRK inhibitors targeting both wildtype and mutant TRK fusions can address this unmet need. Repotrectinib was designed to potently inhibit wildtype TRKs and overcome resistant mutations. We compared the anti-proliferative activity of first-generation (larotrectinib/entrectinib) and next-generation (LOXO-195) TRK TKIs to repotrectinib in repeat preclinical studies using our in-house engineered Ba/F3 cells expressing wildtype or mutated TRKs, as shown in the table below. In Ba/F3 cells with NTRK fusion genes, repotrectinib was more potent than both larotrectinib and LOXO-195 against wildtype, solvent front mutations, gatekeeper mutations, and the compound mutation TRKA G595R/F589L (the simultaneous presence of two or more mutations in the same TRK kinase can often lead to resistance and is more difficult to treat). 
+ 
+ 
+ | Ba/F3 Cell Proliferation Assay IC50 (nM) | 
+-----------------+------------------------------------------+-----
+ | LMNA-TRKA | | ETV6-TRKB | | | ETV6-TRKC
+TRK Inhibitor(1) | WT | | G595R | | | G667C | | F589L | | G595R/ F589L | | WT | | | G639R | | WT | | G623R | | G623E | | | F617I
+Repotrectinib | <0.1 | | | 0.2 | | | 9.2 | | <0.2 | | | 13.7 | | | <0.1 | | | 1.7 | | <0.2 | | | 1.0 | | | 0.6 | <0.2 | 
+LOXO-195 | | 4.6 | | | 15.1 | | | 94.9 | | | 26.5 | | | 480.8 | | | 1.4 | | | 20.8 | | | 4.0 | | | 23.9 | | 36.1 | | 40.9
+Larotrectinib | | 18.9 | | | 2,817 | | | 1,863 | | | 597 | | >10000 | | | 28.2 | | | 2,500 | | | 41.4 | | | 7,500 | | 1,486 | | 4,000 | 
+Entrectinib | | 0.4 | | | 711 | | | 186.7 | | <0.2 | | | 1,774 | | | 0.6 | | | 1,577 | | | 0.8 | | | 1,670 | | 1,500 | | 54.9 | 
+
+ 
+WT: Wildtype 
+  
+(1) | Other than repotrectinib, data based on evaluation of each corresponding proxy chemical compound purchased from commercial sources rather than from the pharmaceutical company commercializing or developing the respective TRK inhibitor
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+20
+
+As shown in the figures below, in xenograft tumor models, repotrectinib led to a change in tumor volume in tumors carrying wildtype or mutated TRK fusions and demonstrated greater antitumor activity than entrectinib and LOXO-195 at the same dose level. The difference in the change in tumor volume obtained with 15 mg/kg BID of repotrectinib versus entrectinib at the same dose level was statistically significant (p = 0.01) in the model carrying the wildtype LMNA-TRKA fusion (upper right figure). The change in tumor volume obtained with 30 mg/kg BID of repotrectinib versus LOXO-195 at the same dose level was also statistically significant in the models carrying mutated LMNA-TRKA fusion with the solvent front mutation TRKA G595R or gatekeeper/solvent front compound mutation TRKA F589L/G595R, as shown below (p=0.03, bottom left figure; and p=0.003, bottom right figure).
+ 
+ 
+Antitumor effect of repotrectinib in a patient-derived xenograft model with the ETV6-NTRK3 fusion gene | Antitumor effect of repotrectinib and entrectinib in an NIH3T3 cell-derived xenograft model with the LMNA-TRKA fusion 
+Antitumor effect of repotrectinib and LOXO-195 in an NIH3T3 cell-derived xenograft model with the LMNA-TRKA fusion harboring the G595R solvent front mutation | Antitumor effect of repotrectinib and LOXO-195 in an NIH3T3 cell-derived xenograft model with the LMNA-TRKA fusion harboring the F589L/G595R compound mutation
+
+ 
+Other than repotrectinib, data based on evaluation of each corresponding proxy chemical compound purchased from commercial sources rather than from the pharmaceutical company developing the respective kinase inhibitor 
+ TPX-0022—A Novel MET/CSF1R/SRC Inhibitor 
+ TPX-0022 is a multi-targeted (see table below) orally bioavailable Type I TKI with a novel three-dimensional macrocyclic structure that is being developed as a MET, CSF1R, and SRC inhibitor. TPX-0022 is currently being evaluated in an ongoing Phase 1 study in patients with advanced solid tumors harboring genetic alterations in MET, which was initiated in July 2019. The study is a standard dose-escalation design, starting at 20 mg daily, to determine the maximum tolerated dose, overall safety profile, and preliminary efficacy of TPX-0022. Upon determination of the recommended Phase 2 dose, the study would then evaluate multiple dose expansion cohorts for a targeted enrollment of approximately 120 patients.
+ 
+MET is a receptor tyrosine kinase. Hepatocyte growth factor (HGF) is the high-affinity natural ligand of MET. MET alterations, including point mutations, amplifications, fusions, exon 14 skipping, and the generation of HGF-MET autocrine loops have been reported in many cancers. MET amplification has been detected in up to 20% of NSCLC patients with EGFR mutations who acquired resistance to Iressa (gefitinib), Tarceva (erlotinib) or Tagrisso (osimertinib) treatment. In addition, autocrine and paracrine upregulation of HGF can limit the likelihood of response and duration of response achieved with the current investigational MET inhibitors in the clinic. 
+ SRC and STAT3 can act cooperatively as upstream regulators of HGF expression, resulting in establishment of an HGF autocrine/paracrine loop, signal amplification, and an invasive phenotype. SRC inhibition may have the potential to reduce or abolish the upregulation of HGF via the modulation of STAT3 signaling. 
+ 21
+
+Targeting CSF1R (colony stimulating factor 1 receptor) leads to the modulation of tumor associated macrophages (TAMs), which is a promising therapeutic strategy for TPX-0022 as a single agent or in combination with standard of care chemotherapy and immunotherapy in various solid tumors. Macrophages are cells in the immune system that generally detect and destroy diseased cells. TAMs, however, are macrophages that have a tumor-promoting function based on their capacity to secrete growth factors and suppress the immune system. Survival of TAMs is mediated by signaling through CSF1R. 
+ As shown by the low IC50 values in the table below, TPX-0022 can potently inhibit MET, SRC and CSF1R in enzymatic and cell-based assays. 
+ 
+ 
+ | Enzymatic IC50 (nM) | | Cell Proliferation IC50 (nM) | 
+-------------+---------------------+------+------------------------------+---
+Inhibitor(1) | MET | | SRC | | | CSF1R | | MKN45 (MET) | | | SNU5 (MET) | | Ba/ F3 ETV6- CSF1R | 
+TPX-0022 | | 0.14 | | | 0.12 | | | 0.71 | | | <0.2 | | <0.2 | | | 14
+Capmatinib | | 0.20 | | ND | | | ND | | <0.2 | | | <0.2 | | ND 
+Crizotinib | | 4.0 | | ND | | | ND | | | 10.5 | | | 2.8 | | ND | 
+PLX-3397 | ND | | ND | | | ND | | ND | | | ND | | | 581
+
+ 
+ND: Not determined 
+  
+(1) | Other than TPX-0022, data based on evaluation of each corresponding proxy chemical compound purchased from commercial sources rather than from the pharmaceutical company commercializing or developing the respective kinase inhibitor
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ The kinase selectivity profile of TPX-0022 was evaluated against 157 kinases and the IC50s were determined against the hits from the kinase selectivity screen. The kinases with IC50 values less than 10 nM are listed below. 
+ 
+ 
+Enzyme | IC50 (nM) | 
+---------+-----------+------
+TRKB | | 0.085
+TRKC | | 0.13 
+TRKA | | 2.56 
+LCK | | 2.87 
+RAF1 | | 2.87 
+ABL2/AGR | | 3.75 
+LYN | | 7.56 
+YES/YES1 | | 9.81 
+
+ 
+22
+
+In the cancer cell line- and patient-derived xenograft tumor models from gastric (MKN45 model), lung (LU2503 model) and liver (LI0612 model) cancers harboring MET amplification or MET exon 14 skipping mutations, TPX-0022 demonstrated antitumor activity and inhibition of MET phosphorylation in treated mice, as illustrated in the figures below. 
+ 
+ 
+Antitumor effect of TPX-0022 in the LI0612 patient-derived xenograft tumor model of hepatocellular carcinoma with MET gene amplification | Antitumor effect of TPX-0022 in the MKN45 cell-derived xenograft tumor model of gastric cancer with MET gene amplification
+
+
+Antitumor effect of TPX-0022 in the LU2503 patient-derived xenograft tumor model of lung cancer with MET gene amplification and Exon 14 deletion | Inhibition of MET phosphorylation by TPX-0022 in the MKN45 cell-derived xenograft tumor model of gastric cancer with MET gene amplification
+
+ 
+Increased levels of circulating CSF1 have been detected in many different human cancers and during treatment with a CSF1R inhibitor. Currently, there are multiple investigational small molecule CSF1R inhibitors, most of which are Type II TKIs that stabilize the kinase in the inactive conformation. PLX-3397, the most advanced CSF1R inhibitor in development, is one such Type II TKI. We observed in preclinical studies that increased levels of CSF1 reduced the potency of PLX-3397, which we believe may be due to a relative reduction of the presence of an inactive conformation of CSF1R. However, TPX-0022, a Type I TKI, continued to show potency in the presence of CSF1, as shown in the table below, which we believe may result in better antitumor activity. 
+ 
+ 
+ | | Cell Proliferation IC50 (nM) | 
+------------+--------------+------------------------------+----
+Inhibitor | CSF1 (ng/mL) | 0 | | 0.3 | | | 1.0(1) | | 3.0 | 10.0 | | 30.0 | | | 100
+TPX-0022 | | | 0.3 | | | 3 | | | 11.6 | | 78.2 | | | 84.1 | | | 180.8 | | 174.5
+PLX-3397(2) | | <0.1 | | | 2 | | | 146.4 | | 212.5 | | | 379.7 | | | 594.7 | | 702.3 | 
+
+
+(1) | A 1 ng/mL concentration mimics typical conditions in advanced tumors
+----+---------------------------------------------------------------------
+
+
+(2) | Data based on evaluation of corresponding proxy chemical compound purchased from a commercial source rather than from the pharmaceutical company commercializing or developing the inhibitor
+----+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+23
+
+As shown in the figure below, in preclinical MC38 syngeneic tumors in C57BL/6 mice, we have demonstrated potent CSF1R inhibitory activity of TPX-0022, which modulates TAMs and promotes a pro-inflammatory anti-tumor microenvironment. 
+ 
+
+
+TPX-0046—A Novel RET/SRC Inhibitor 
+ TPX-0046 is a multi-targeted (see table below) orally bioavailable, Type I TKI with a novel three-dimensional macrocyclic structure that is being developed as a RET and SRC kinase inhibitor. We initiated a Phase 1/2 clinical trial of TPX-0046 in patients with advanced solid tumors harboring RET genetic alterations in the fourth quarter of 2019.  The trial will evaluate both RET TKI-pretreated and TKI-naïve patient populations.
+ RET is a receptor tyrosine kinase (RTK). Constitutive activation of RET through gain-of-function mutations, amplifications and fusions have been found in multiple tumor types, including lung cancer, thyroid cancer and colon cancer. To date, two investigational RET inhibitors, pralsetinib (BLU-667) and selpercatinib (LOXO-292), have shown efficacy in patients with RET fusion positive NSCLC and thyroid cancer (medullary and papillary). In addition, multi-targeted TKIs that inhibit RET have been approved by the FDA in thyroid cancer. Recently, solvent front mutations have been reported as resistant mechanisms to selpercatinib in the clinic, and in our ongoing Phase 1 study we have treated multiple patients with solvent front mutations who were previously treated with selpercatinib or pralsetinib. Due to its novel macrocyclic structure, we believe TPX-0046 has the ability to demonstrate clinical activity in both treatment-naïve patients and in patients that develop solvent front mutations. In addition, TPX-0046 has minimal activity against VEGFR kinases, the inhibition of which is often associated with cardiovascular toxicities such as hypertension. 
+ The inhibition of the SRC kinase has the potential to reduce the recruitment of multiple receptor tyrosine kinases involved in bypass resistance and therefore increase the therapeutic effect seen with RET inhibitors. In addition, SRC family kinases (SFKs) regulate MTC cellular proliferation in vitro and mediate growth signals by increasing DNA synthesis and decreasing apoptosis (programmed cell death). Therefore, a dual inhibitor of RET and SRC represents a novel therapeutic strategy to target abnormal RET signaling in cancers.
+ The broad spectrum of inhibition by TPX-0046 against wildtype and mutated RETs in enzyme-based assays compared with proxy chemical compounds for BLU-667 and LOXO-292 in the same testing panel are summarized in the table below. Overall, TPX-0046 showed comparable or stronger potency against wildtype RET and many mutated RETs, except gatekeeper mutations V804M, V804L, and V804E. 
+ 
+ 
+RET Enzyme | TPX-0046 IC50 (nM) | | BLU-667a IC50 (nM) | | LOXO-292a IC50 (nM) | RET Enzyme | TPX-0046 IC50 (nM) | | BLU-667a IC50 (nM) | | LOXO -292a IC50 (nM) | 
+------------+--------------------+-----+--------------------+-----+---------------------+------------+--------------------+----------------+--------------------+-----+----------------------+----
+RET-NCOA4 | | 0.7 | | 1.5 | | 1.6 | | RET (G691S) | | 1.8 | | | 2.5 | | 3.1
+RET-CCDC6 | | 0.5 | | 0.8 | | 0.9 | | RET (S904A) | | 0.9 | | | 1.2 | | 1.6
+RET-PRKAR1A | | 0.4 | | 0.8 | | 0.9 | | RET (L790F) | | 0.4 | | | 0.5 | | 0.4
+RET | | 1.0 | | 1.7 | | 1.9 | | RET (M918T) | | 0.3 | | | 0.5 | | 0.4
+RET (V778I) | | 0.1 | | 0.3 | | 0.4 | | RET (Y806H) | | 2.6 | | | 3.7 | | 3.5
+RET (Y791F) | | 0.4 | | 0.8 | | 0.8 | | RET (R813Q) | | 1.7 | | | 2.5 | | 2.6
+RET (S891A) | | 0.2 | | 0.6 | | 0.8 | | RET (A883F) | | 1.2 | | | 1.1 | | 1.2
+RET (R749T) | | 0.8 | | 1.0 | | 1.1 | | RET (V804M)(1) | | 8.1 | | | 2.8 | | 4.6
+RET (S904F) | | 0.5 | | 0.6 | | 0.7 | | RET (V804L)(1) | | 6.2 | | | 0.8 | | 0.9
+RET (E762Q) | | 1.0 | | 1.6 | | 1.8 | | RET (V804E)(1) | >1000 | | | 8.4 | | 15.1 | 
+
+
+(1) | Gatekeeper mutation
+----+--------------------
+
+
+a | Data for BLU-667 and LOXO-292 based on evaluation of each corresponding proxy chemical compound purchased from commercial sources rather than from the pharmaceutical companies developing the respective kinase inhibitor
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 24
+
+The kinase selectivity profile of TPX-0046 was initially evaluated against 157 kinases and later evaluated against 374 kinases. The IC50s values presented below were determined against the hits from both kinase selectivity screens. The kinases with IC50 values less than 10 nM determined as an average of separate studies, are summarized in the table below.
+
+ 
+Enzyme | IC50 (nM) | 
+---------+-----------+-----
+PEAK1 | | 0.4 
+c-Src | | 0.98
+ABL2/ARG | | 1.4 
+TXK | | 1.69
+TRKC | | 1.76
+FYN | | 1.94
+FGFR2 | | 1.96
+LYN | | 2.03
+MUSK | | 2.4 
+YES/YES1 | | 2.64
+HCK | | 2.71
+FGR | | 3.1 
+FLT3 | | 3.2 
+BMX/ETK | | 3.31
+TRKB | | 3.35
+DDR1 | | 4.3 
+LCK | | 4.4 
+BTK | | 4.65
+TIE2/TEK | | 5.6 
+JAK2 | | 7.67
+TRKA | | 7.77
+FGFR1 | | 9.75
+
+ 
+In addition, the activity against other selected RTKs are summarized below which indicate TPX-0046 has minimal activity against VEGFR1/2/3. 
+ 
+ 
+Enzyme | IC50 (nM) | 
+------------+-----------+-------
+c-Kit | >1000 | 
+c-MET | >1000 | 
+EGFR | >1000 | 
+FLT1/VEGFR1 | >1000 | 
+KDR/VEGFR2 | >1000 | 
+FLT4/VEGFR3 | | 513.30
+IGF1R | >1000 | 
+PDGFRa | >1000 | 
+PDGFRb | >1000 | 
+
+ 
+25
+
+TPX-0046 has also been evaluated in our in-house engineered Ba/F3 cell lines, as well as in commercially available TT and LC2/ad cell lines. In these cell-based assays, the approved RET inhibitor cabozantinib was used as a comparator. TPX-0046 potently inhibited the growth of Ba/F3 cells with the KIF5B-RET fusion gene, TT cells with the C634W mutation and LC2/ad cells with the CCDC6-RET fusion gene, as summarized in the table below. TPX-0046 also potently inhibited the proliferation of our in-house engineered Ba/F3 cells with the mutated KIF5B-RET fusion gene harboring the solvent front mutation RET G810R, but had less activity against the mutated KIF5B-RET fusion gene harboring the gatekeeper mutation RET V804M. Recently, solvent front mutations have been reported as resistant mechanisms to selpercatinib in the clinic. Currently there are no FDA-approved RET TKIs that can address resistance that may arise after selpercatinib or pralsetinib.
+
+ 
+ | Cell Proliferation IC50 (nM) | 
+----------------+------------------------------+----
+Inhibitor | Ba/F3 KIF5B-RET WT | | Ba/F3 KIF5B-RET G810R (Solvent front mutation) | | TT(1) (RET C634W) | LC2/ad(2) (CCDC6- RET) | Ba/F3 KIF5B-RET V804M (Gatekeeper mutation) | 
+TPX-0046 | | 1.2 | | 15.3 | | 0.9 | | 1 | 444 
+Cabozantinib(3) | | 142 | | 1,344 | | 399 | | 500 | 3,400
+
+
+(1) | TT is a stable cancer cell line derived from a human medullary thyroid carcinoma with a C634W mutation
+----+-------------------------------------------------------------------------------------------------------
+
+
+(2) | LC2/ad is a stable cancer cell line derived from a human lung adenocarcinoma with the CCDC6-RET fusion gene
+----+------------------------------------------------------------------------------------------------------------
+
+
+(3) | Data based on evaluation of corresponding proxy chemical compound purchased from a commercial source rather than from the pharmaceutical company commercializing or developing the kinase inhibitor
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We have evaluated in a separate experiment the antiproliferation activities of TPX-0046 and proxy chemical compounds for LOXO-292 and BLU-667 in Ba/F3 cells expressing KIF5B-RET, KIF5B-RET V804M, KIF5B-RET Y806N, KIF5B-RET G810S or KIF5B-RET G810R. The results against the same cell lines by TPX-0046 may vary slightly among different experiments within acceptable experimental variations. Consistent with the RET enzymatic data, TPX-0046 generally showed comparable or stronger potency as compared to the proxy chemical compounds for pralsetinib (BLU-667) and selpercatinib (LOXO-292) in the Ba/F3 KIF5B-RET cell proliferation assay against wildtype RET and many mutated RETs, and less potency against the gatekeeper mutation RET V804M. A recent published preclinical study found the RET Y806N hinge mutation as a common resistance mutation to cabozantinib, lenvatinib and vandetanib. All three molecules (TPX-0046, as well as proxy compounds for LOXO-292 and BLU-667) showed potency against RET Y806N. As it relates to solvent front mutations and specifically G810S or G810R, we believe the ability of RET inhibitors to overcome these mutations will vary based on the size of the RET inhibitor’s structural motif at the solvent front area and its interference with the amino acid residues with the solvent front.  A recent published study reported that RET G810 solvent front mutations represent the first described recurrent mechanism of resistance to selective RET inhibition with selpercatinib in the clinic. TPX-0046 is shown to be the most potent compound in Ba/F3 KIF5B-RET G810/R/S cell proliferation assays, whereas proxy chemical compounds for BLU-667 and LOXO-292 are shown to have minimal activity against the solvent front mutation RET G810R. The results are summarized below. 
+ 
+ 
+ | Cell Proliferation IC50 (nM)
+----------+-----------------------------
+Inhibitor | Ba/F3 KIF5B-RET WT | Ba/F3 KIF5B-RET G810R (Solvent front mutation) | Ba/F3 KIF5B-RET G810S (Solvent front mutation) | Ba/F3 KIF5B-RET Y806N (Hinge mutation) | Ba/F3 KIF5B-RET V804M (Gatekeeper mutation)
+TPX-0046 | 0.4 | 16.9 | 0.4 | 10.6 | 533 
+LOXO-292 | 0.2 | 568 | 72.9 | 16.3 | 23.4 
+BLU-667 | 0.7 | 749 | 6.9 | 27.9 | 1.1 
+
+ 
+Data for BLU-667 and LOXO-292 based on evaluation of each corresponding proxy chemical compound purchased from commercial sources rather than from the pharmaceutical companies developing the respective kinase inhibitor. IC50 values for WT, G810R and V804M are from at least 3 independent experiments.  The IC50 values for G810S and Y806N are from 1 to 2 independent experiments and include at least three independent replicates. 
+ As demonstrated by both the enzyme-based and the cell-based assay data above, TPX-0046 has shown strong potency against wildtype and many mutated RETs, although TPX-0046 is not as potent against RET gatekeeper mutations when compared to wildtype and the solvent front mutation G810R. 
+ 26
+
+In addition, TPX-0046 has shown dose-dependent inhibition of tumor growth in cancer cell- and patient-derived tumor models, as shown in the figures below. 
+ 
+ 
+Antitumor effect of TPX-0046 in the CR1520 patient-derived xenograft model of colorectal cancer with the NCOA4-RET fusion gene | Antitumor effect of TPX-0046 in a Ba/F3 cell-derived xenograft tumor model with the KIF5B-RET fusion harboring the G810R mutation
+Antitumor effect of TPX-0046 in a TT cell-derived xenograft tumor model of medullary thyroid carcinoma with the RET C634W mutation | Antitumor effect in a Ba/F3 cell-derived xenograft tumor model of lung cancer with the KIF5B-RET fusion gene 
+
+ 
+To further support the activity of TPX-0046 against the solvent front mutation G810R, we evaluated TPX-0046 and the proxy chemical compounds LOXO-292 and BLU-667 in a Ba/F3 KIF5B-RET G810R cell-derived tumor model. Consistent with the in vitro cellular and enzymatic data, TPX-0046 has strong activity against the G810R mutation with complete tumor regression in 9 out of 10 mice when dosed at 10 mg/kg twice a day while BLU-667 and LOXO-292 had minimal tumor growth inhibition at the same dose level by percent of tumor growth inhibition. 
+ TPX-0131 – A Next-Generation ALK Inhibitor 
+ TPX-0131 is a next-generation ALK inhibitor which is currently entering IND-enabling studies.  TPX-0131 has been designed with a compact macrocyclic structure and in preclinical studies has been shown to potently inhibit wildtype ALK and numerous ALK mutations, in particular the clinically observed G1202R solvent front
+ mutation and G1202R/L1196M compound mutation.  Pending successful completion of IND-enabling studies, we anticipate submitting an IND for TPX-0131 in early 2021.
+ Clinically significant ALK gene fusions are oncogenic drivers and have been found in a number of human cancers, especially in NSCLC. ALK-driven tumors are estimated to represent up to 7 percent of driver oncogenes in NSCLC.  Currently, there are five FDA approved ALK inhibitors available for the treatment of ALK+ NSCLC. Sequential therapy with a next-generation selective ALK inhibitors with increased potency and effectiveness against ALK resistance mutations is a key strategy for treating ALK+ NSCLC patients. The most common solvent front mutation ALK G1202R confers resistance to the current approved ALK inhibitors with one study showing the prevalence of this specific solvent front mutation in approximately 40% of patients treated with a prior ALK inhibitor who developed a resistant mutation. Lorlatinib is the only approved ALK inhibitor that has demonstrated clinical efficacy in ALK+ NSCLC patients who developed the ALK G1202R mutation from a prior ALK TKI. More recently, compound mutations have been reported in patients after treatment with two or three ALK TKIs. One such example is the compound mutation ALK G1202R/L1196M, which confers resistance to currently approved therapies, including lorlatinib.  
+ 
+27
+
+TPX-0131 showed comparable or stronger potency against wildtype ALK and many mutated forms of ALK in Ba/F3 cell proliferation assays against proxy chemical compounds for other ALK inhibitors as summarized below.
+ 
+ 
+ | Ba/F3 Cell Proliferation IC50 (nM)
+-----------+-----------------------------------
+Inhibitor | ALK WT | ALK G1202R | ALK G1202R/ L1196M | ALK G1202R/ L1198F | ALK G1202R/ C1156Y | ALK L1196M/ L1198F
+TPX-0131 | <1.0 | 0.2 | <2.0 | <0.2 | <0.2 | <0.2 
+alectinib | 2.8 | 10000 | >10000 | 1787 | 2171 | 837 
+brigatinib | 16 | 176 | 1152 | 1578 | 925 | 134 
+ceritinib | 5.1 | 265 | 1298 | 1681 | 1395 | 624 
+lorlatinib | 1.3 | 58 | 4087 | 921 | 435 | 462 
+crizotinib | 44.8 | 369 | 764 | 135 | 898 | 112 
+
+ 
+Other than TPX-0131, data based on evaluation of each corresponding proxy chemical compound purchased from commercial sources rather than from the pharmaceutical company commercializing or developing the respective kinase inhibitor.
+ 
+Commercial Operations 
+ For repotrectinib, we intend to establish our own commercial and marketing organization in the United States and to selectively establish partnerships in markets outside the United States. We intend to build a specialist sales force to target physicians who are high prescribers of treatments for solid tumors. We expect that the sales force will be supported by sales management, internal sales support, an internal marketing group and distribution support. Additionally, we expect that the sales and marketing teams will manage relationships with key accounts such as managed care organizations, group purchasing organizations, hospital systems, physician group networks, and government accounts. To develop the appropriate commercial infrastructure, we expect to invest significant amounts of financial and management resources, some of which will be committed prior to approval of repotrectinib, which we may never obtain. 
+ For our other drug candidates, we intend to retain commercialization rights in the United States and leverage our commercial and marketing organization for repotrectinib, assuming we obtain regulatory approval in the United States. For certain drug candidates, we will consider entering into relationships with strategic partners that enable the expansion of the ongoing clinical development, while retaining significant value for our stockholders. These pharmaceutical company partnerships could focus on specific patient populations and their caregivers, on regional development, or on distribution and sales. 
+ Manufacturing and Supply
+ We do not own or operate, and currently have no plans to establish, any manufacturing facilities. We currently rely, and expect to continue to rely for the foreseeable future, on third parties for the manufacture of our drug candidates for preclinical and clinical testing, as well as for commercial manufacture of any drugs that we may commercialize. To date, we have obtained active pharmaceutical ingredients (APIs) and clinical drug supply for repotrectinib and our other drug candidates for our preclinical and ongoing and planned Phase 1 and Phase 2 testing from third-party manufacturers. We obtain our supplies from these manufacturers on a purchase order basis and do not have long-term supply arrangements in place. We do not currently have arrangements in place for redundant supply for APIs and drug product. For all of our drug candidates, we intend to identify and qualify additional manufacturers to provide the APIs and drug product prior to submission of a new drug application to the FDA or other marketing authorization applications to other regulatory authorities. 
+ All our drug candidates are compounds of low molecular weight, generally called small molecules. They can be manufactured from readily available starting materials in reliable and reproducible synthetic processes that are amenable to scale-up and do not require specialized equipment in the manufacturing process. We expect to continue to develop drug candidates that can be produced cost-effectively at contract manufacturing facilities. We generally expect to rely on third parties for the manufacture of any companion diagnostics we may develop. 
+ 28
+
+Competition 
+ The pharmaceutical and biotechnology industries are characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary drugs. We compete in the segments of the pharmaceutical, biotechnology and other related markets that address inhibition of kinases in cancer. While we believe that our technology, development experience and scientific knowledge provide us with competitive advantages, we face potential competition from many different sources, including major pharmaceutical, specialty pharmaceutical and biotechnology companies, academic institutions and governmental agencies and public and private research institutions. Any drug candidates that we successfully develop and commercialize will compete with existing drugs and new drugs that may become available in the future. 
+ Many of the companies against which we are competing or against which we may compete in the future have significantly greater financial resources and expertise in research and development, manufacturing, preclinical testing, conducting clinical trials, obtaining regulatory approvals and marketing approved drugs than we do. Mergers and acquisitions in the pharmaceutical, biotechnology and diagnostic industries may result in even more resources being concentrated among a smaller number of our competitors. Smaller or early-stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel and establishing clinical trial sites and patient enrollment in clinical trials, as well as in acquiring technologies complementary to, or necessary for, our programs. 
+ We could see a reduction or elimination in our commercial opportunity if our competitors develop and commercialize drugs that are safer, more effective, have fewer or less severe side effects, are more convenient to administer, are less expensive or with a more favorable label than repotrectinib or any other drugs that we may develop. Our competitors also may obtain FDA or other regulatory approval for their drugs more rapidly than we may obtain approval for ours, which could result in our competitors establishing a strong market position before we are able to enter the market. The key competitive factors affecting the success of all of our drug candidates, if approved, are likely to be their efficacy, safety, convenience, price, the effectiveness of companion diagnostics, the level of generic competition and the availability of reimbursement from government and other third-party payors. 
+ Repotrectinib Competition
+ If we are successful in developing repotrectinib, we expect that repotrectinib will compete against approved drugs, including: crizotinib, which is marketed by Pfizer Inc. under the name Xalkori for the treatment of ROS1+ and ALK+ NSCLC, entrectinib, which is marketed by F. Hoffman La Roche AG under the name Rozlytrek, for the treatment of ROS1+ NSCLC and TRK+ solid tumors; and larotrectinib, which is marketed by Bayer AG under the trade name Vitrakvi, for the treatment of TRK+ solid tumors. We also expect that repotrectinib will compete against other compounds which are currently in late-stage clinical development, including TKIs in Phase 2, or later, for the treatment of ROS1+ NSCLC at companies including Pfizer Inc. (lorlatinib), Novartis Pharmaceuticals Corporation (ceritinib), Betta Pharmaceuticals Co., Ltd. (ensartinib), Exelixis, Inc. (cabozantinib), and AnHeart Therapeutics Company (taletrectinib) and for the treatment of TRK+ solid tumors at companies including Bayer AG (LOXO-195) Exelixis, Inc. (cabozantinib) and AnHeart Therapeutics Company (taletrectinib). 
+ TPX-0022 Competition
+ There are currently no approved drugs targeting MET alterations. If we are successful in developing TPX-0022, our MET/CSF1R/SRC inhibitor, we expect TPX-0022 will compete against Xalkori (crizotinib) and other compounds which are in phase 2 or later clinical development for the treatment of MET+ tumors at companies including Novartis Pharmaceutical Corporation (capmatinib), AstraZeneca (savolitinib), Merck KGaA (tepotinib), and Exelixis, Inc. (cabozantinib). 
+TPX-0046 Competition
+ Although there are currently no approved drugs selectively targeting RET, there are two multi-targeted inhibitors that do target RET, namely cabozantinib which is marketed by Exelixis, Inc under the name Cometriq and vandetanib, which is marketed by Sanofi Genzyme under the name Caprelsa, both for the treatment of progressive medullary thyroid cancer (MTC).  In addition to these agents, we expect that TPX-0046, would compete against other investigational compounds in last stage clinical development at companies including Blueprint Medicines (pralsetinib) and Eli Lilly and Company (selpercatinib).
+ 29
+
+Intellectual Property
+ We strive to protect the proprietary technologies that we believe are important to our business, including pursuing, obtaining and maintaining patent protection intended to cover the composition of matter of our drug candidates, including repotrectinib, their methods of use, related technologies and other inventions that are important to our business. In addition to patent protection, we also rely on trade secrets to protect aspects of our business that are not amenable to, or that we do not consider appropriate for, patent protection. 
+ Our commercial success depends in part upon our ability to obtain and maintain patent and other proprietary protection for our drug candidates and other commercially important technologies, inventions and know-how related to our business, defend and enforce our intellectual property, in particular, our patent rights, preserve the confidentiality of our trade secrets and operate without infringing the valid and enforceable intellectual property and proprietary rights of third parties. 
+ The patent positions for biotechnology and pharmaceutical companies like us are generally uncertain and can involve complex legal, scientific and factual issues. We cannot predict whether the patent applications we are currently pursuing will issue as patents in any particular jurisdiction or whether the claims of any issued patents will provide sufficient proprietary protection from competitors. In addition, the coverage claimed in a patent application can be significantly reduced before a patent is issued, and its scope can be reinterpreted and even challenged after issuance. Moreover, many jurisdictions permit third parties to challenge issued patents in administrative proceedings, which may result in further narrowing or even cancellation of patent claims. As a result, we cannot guarantee that any of our drug candidates will be protected or remain protectable by enforceable patents. Moreover, any patents that we hold may be challenged, circumvented or invalidated by third parties. For more information regarding the risks related to our intellectual property, please see “Risk Factors—Risks Related to Our Intellectual Property.” 
+ As of February 15, 2020, we owned two issued patents in the United States directed to repotrectinib and two issued patents in the U.S. directed to structurally related compounds, one of which is also directed towards TPX-0022 and structurally related compounds, as well as issued patents in Australia, China, Columbia, Eurasia, Europe, Japan and Mexico with composition of matter claims directed to repotrectinib, TPX-0022, structurally related compounds and/or their use in the treatment of certain diseases, including cancer. These issued patents are expected to expire between January 2035 and July 2036 depending on the patent and country, without taking into account any possible patent term extension, where applicable. As of February 15, 2020, we also had approximately 
+96 pending patent applications directed to repotrectinib and its use in the North America, Europe, Asia and other global regions which, if issued, are expected to expire at dates ranging between January 2035 and January 2038, without taking potential patent term extensions into account. As of February 15, 2020, we also had approximately 56 pending patent applications directed to TPX-0022 and its use in North America, South America, Europe, Asia, and other global regions which, if issued, are expected to expire at dates ranging between January 2035 and July 2038, without taking potential patent term extensions into account. In addition, we have pending patent applications directed to composition of matter for TPX-0046 and TPX-0131 and structurally related compounds and their use in treating diseases, including cancer, which if issued are expected to expire at dates ranging between 2038 and 2040, without taking potential patent term extensions into account.
+ The term of individual patents depends upon the legal term of the patents in the countries in which they are obtained. In most countries in which we file, the patent term is 20 years from the earliest date of filing a non-provisional patent application. 
+ In the United States, the term of a patent covering an FDA-approved drug may, in certain cases, be eligible for a patent term extension under the Hatch-Waxman Act as compensation for the loss of patent term during the FDA regulatory review process. The period of extension may be up to five years, but cannot extend the remaining term of a patent beyond a total of 14 years from the date of product approval. Only one patent applicable to an approved drug is eligible for extension and only those claims covering the approved drug, a method for using it, or a method for manufacturing it may be extended. Similar provisions are available in Europe and in certain other jurisdictions to extend the term of a patent that covers an approved drug. It is possible that issued U.S. patents covering repotrectinib and TPX-0022, and patents for TPX-0046 and novel ALK inhibitors, if issued, may or will be entitled to patent term extensions. If our drug candidates receive FDA approval, we intend to apply for patent term extensions, if available, to extend the term of patents that cover the approved drug candidates. We also intend to seek patent term extensions in any jurisdictions where they are available; however, there is no guarantee that the applicable authorities, including the FDA, will agree with our assessment of whether such extensions should be granted, and even if granted, the length of such extensions. 
+ 30
+
+In addition to patent protection, we also rely on trade secret protection for our proprietary information that is not amenable to, or that we do not consider appropriate for, patent protection, including certain aspect of our manufacturing processes. However, trade secrets can be difficult to protect. Although we take steps to protect our proprietary information, including restricting access to our confidential information, as well as entering into non-disclosure and confidentiality agreements with our employees, consultants, independent contractors, advisors, contract manufacturers, CROs, hospitals, independent treatment centers, suppliers, collaborators and other third parties, such parties may breach such agreements and disclose our proprietary information including our trade secrets, and we may not be able to obtain adequate remedies for such breaches. In addition, third parties may independently develop the same or similar proprietary information or may otherwise gain access to our proprietary information. As a result, we may be unable to meaningfully protect our trade secrets and proprietary information. For more information regarding the risks related to our intellectual property please see “Risk Factors—Risks Related to Our Intellectual Property.” 
+ Government Regulation 
+ The FDA and other regulatory authorities at federal, state, and local levels, as well as in foreign countries, extensively regulate, among other things, the research, development, testing, manufacture, quality control, import, export, safety, effectiveness, labeling, packaging, storage, distribution, record keeping, approval, advertising, promotion, marketing, post-approval monitoring, and post-approval reporting of drug products such as those we are developing. We, along with third-party contractors, will be required to navigate the various preclinical, clinical and commercial approval requirements of the governing regulatory agencies of the countries in which we wish to conduct studies or seek approval or licensure of our product candidates. 
+ The process required by the FDA before drug product candidates may be marketed in the United States generally involves the following: 
+ 
+ 
+• | completion of preclinical laboratory tests and animal studies performed in accordance with the FDA’s current Good Laboratory Practices (GLP), regulation;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | submission to the FDA of an IND, which must become effective before clinical trials may begin and must be updated annually or when significant changes are made;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | approval by an independent Institutional Review Board, or IRB, or ethics committee at each clinical site before the trial is commenced;
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | performance of adequate and well-controlled human clinical trials to establish the safety and efficacy of the proposed drug product candidate for its intended purpose;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | preparation of and submission to the FDA of an NDA after completion of all pivotal clinical trials;
+--+----------------------------------------------------------------------------------------------------
+
+
+• | satisfactory completion of an FDA Advisory Committee review, if applicable;
+--+----------------------------------------------------------------------------
+
+
+• | a determination by the FDA within 60 days of its receipt of an NDA to file the application for review;
+--+-------------------------------------------------------------------------------------------------------
+
+
+• | satisfactory completion of an FDA pre-approval inspection of the manufacturing facility or facilities at which the proposed product is produced to assess compliance with cGMP, and of selected clinical investigation sites to assess compliance with Good Clinical Practices, or GCP; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | FDA review and approval of the NDA to permit commercial marketing of the product for particular indications for use in the United States.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+Preclinical and Clinical Development 
+ Prior to beginning the first clinical trial with a product candidate, we must submit an IND to the FDA. An IND is a request for authorization from the FDA to administer an investigational new drug product to humans. The central focus of an IND submission is on the general investigational plan and the protocol(s) for clinical studies. The IND also includes results of animal and in vitro studies assessing the toxicology, pharmacokinetics, pharmacology, and pharmacodynamic characteristics of the product; chemistry, manufacturing, and controls information; and any available human data or literature to support the use of the investigational product. An IND must become effective before human clinical trials may begin. The IND automatically becomes effective 30 days after receipt by the FDA, unless the FDA, within the 30-day time period, raises safety concerns or questions about the proposed clinical trial. In such a case, the IND may be placed on clinical hold and the IND sponsor and the FDA must resolve any outstanding concerns or questions before the clinical trial can begin. Submission of an IND therefore may or may not result in FDA authorization to begin a clinical trial. 
+ 31
+
+Clinical trials involve the administration of the investigational product to human subjects under the supervision of qualified investigators in accordance with GCPs, which include the requirement that all research subjects provide their informed consent for their participation in any clinical study. Clinical trials are conducted under protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated. A separate submission to the existing IND must be made for each successive clinical trial conducted during product development and for any subsequent protocol amendments. Furthermore, an independent IRB for each site proposing to conduct the clinical trial must review and approve the plan for any clinical trial and its informed consent form before the clinical trial begins at that site, and must monitor the study until completed. Regulatory authorities, the IRB or the sponsor may suspend a clinical trial at any time on various grounds, including a finding that the subjects are being exposed to an unacceptable health risk or that the trial is unlikely to meet its stated objectives. Some studies also include oversight by an independent group of qualified experts organized by the clinical study sponsor, known as a data safety monitoring board, which provides authorization for whether or not a study may move forward at designated check points based on access to certain data from the study and may halt the clinical trial if it determines that there is an unacceptable safety risk for subjects or other grounds, such as no demonstration of efficacy. There are also requirements governing the reporting of ongoing clinical studies and clinical study results to public registries.
+ For purposes of NDA approval, human clinical trials are typically conducted in three sequential phases that may overlap. 
+ 
+ 
+• | Phase 1—The investigational product is initially introduced into healthy human subjects or patients with the target disease or condition. These studies are designed to test the safety, dosage tolerance, absorption, metabolism and distribution of the investigational product in humans, the side effects associated with increasing doses, and, if possible, to gain early evidence on effectiveness.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 2—The investigational product is administered to a limited patient population with a specified disease or condition to evaluate the preliminary efficacy, optimal dosages and dosing schedule and to identify possible adverse side effects and safety risks. Multiple Phase 2 clinical trials may be conducted to obtain information prior to beginning larger and more expensive Phase 3 clinical trials.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Phase 3—The investigational product is administered to an expanded patient population to further evaluate dosage, to provide statistically significant evidence of clinical efficacy and to further test for safety, generally at multiple geographically dispersed clinical trial sites. These clinical trials are intended to establish the overall risk/benefit ratio of the investigational product and to provide an adequate basis for product approval.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ A registrational trial is a clinical trial that adequately meets regulatory agency requirements for the evaluation of a drug candidate’s efficacy and safety such that it can be used to justify the approval of the drug. Generally, registrational trials are Phase 3 trials but may be Phase 2 trials if the trial design provides a reliable assessment of clinical benefit, particularly in situations where there is an unmet medical need. 
+ In some cases, the FDA may require, or companies may voluntarily pursue, additional clinical trials after a product is approved to gain more information about the product. These so-called Phase 4 studies may be made a condition to approval of the NDA. Concurrent with clinical trials, companies may complete additional animal studies and develop additional information about the characteristics of the product candidate, and must finalize a process for manufacturing the product in commercial quantities in accordance with cGMP requirements. The manufacturing process must be capable of consistently producing quality batches of the product candidate and, among other things, must develop methods for testing the final product. Additionally, appropriate packaging must be selected and tested and stability studies must be conducted to demonstrate that the product candidate does not undergo unacceptable deterioration over its shelf life. 
+ NDA Submission and Review 
+ Assuming successful completion of all required testing in accordance with all applicable regulatory requirements, the results of product development, nonclinical studies and clinical trials are submitted to the FDA as part of an NDA requesting approval to market the product for one or more indications. The NDA must include all relevant data available from pertinent preclinical and clinical studies, including negative or ambiguous results as well as positive findings, together with detailed information relating to the product’s chemistry, manufacturing, controls, and proposed labeling, among other things. A determination by the FDA within 60 days of the receipt of an NDA to file the application for review for its completeness is initiated at the time of submission. If the FDA determines there is significance to the missing or incomplete information in the context of the proposed drug product, the proposed indication(s), and the amount of time needed to address any given deficiency, it can issue a refusal-to-file letter. The submission of an NDA requires payment of a substantial application user fee to FDA, unless a waiver or exemption applies. 
+ 32
+
+Once an NDA has been submitted, the FDA’s goal is to review standard applications within ten months after it accepts the application for filing, or, if the application qualifies for priority review, six months after the FDA accepts the application for filing. In both standard and priority reviews, the review process is often significantly extended by FDA requests for additional information or clarification. The FDA reviews an NDA to determine, among other things, whether a product is safe and effective. The FDA may convene an advisory committee to provide clinical insight on application review questions. Before approving an NDA, the FDA will typically inspect the facility or facilities where the product is manufactured. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. Additionally, before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP. If the FDA determines that the application, manufacturing process or manufacturing facilities are not acceptable, it will outline the deficiencies in the submission and often will request additional testing or information. Notwithstanding the submission of any requested additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. 
+ After the FDA evaluates an NDA and conducts inspections of manufacturing facilities where the product will be produced, the FDA may issue an approval letter or a Complete Response letter. An approval letter authorizes commercial marketing of the product with specific prescribing information for specific indications. A Complete Response letter will describe all of the deficiencies that the FDA has identified in the NDA. In issuing the Complete Response letter, the FDA may recommend actions that the applicant might take to place the NDA in condition for approval, including requests for additional information or clarification. The FDA may delay or refuse approval of an NDA if applicable regulatory criteria are not satisfied, require additional testing or information and/or require post-marketing testing and surveillance to monitor safety or efficacy of a product. 
+ If regulatory approval of a product is granted, such approval will be granted for particular indications and may entail limitations on the indicated uses for which such product may be marketed. For example, the FDA may approve the NDA with a Risk Evaluation and Mitigation Strategy, or REMS, to ensure the benefits of the product outweigh its risks. A REMS is a safety strategy to manage a known or potential serious risk associated with a product and to enable patients to have continued access to such medicines by managing their safe use, and could include medication guides, physician communication plans, or elements to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. The FDA also may condition approval on, among other things, changes to proposed labeling or the development of adequate controls and specifications. Once approved, the FDA may withdraw the product approval if compliance with pre- and post-marketing requirements is not maintained or if problems occur after the product reaches the marketplace. The FDA may require one or more Phase 4 post-market studies and surveillance to further assess and monitor the product’s safety and effectiveness after commercialization, and may limit further marketing of the product based on the results of these post-marketing studies.
+ Expedited Development and Review Programs 
+ The FDA offers a number of expedited development and review programs for qualifying product candidates. The fast track program is intended to expedite or facilitate the process for reviewing new products that meet certain criteria. Specifically, new products are eligible for fast track designation if they are intended to treat a serious or life-threatening disease or condition and demonstrate the potential to address unmet medical needs for the disease or condition. Fast track designation applies to the combination of the product and the specific indication for which it is being studied. The sponsor of a fast track product has opportunities for frequent interactions with the review team during product development and, once an NDA is submitted, the product may be eligible for priority review. A fast track product may also be eligible for rolling review, where the FDA may consider for review sections of the NDA on a rolling basis before the complete application is submitted, if the sponsor provides a schedule for the submission of the sections of the NDA, the FDA agrees to accept sections of the NDA and determines that the schedule is acceptable, and the sponsor pays any required user fees upon submission of the first section of the NDA. 
+ A product intended to treat a serious or life-threatening disease or condition may also be eligible for breakthrough therapy designation to expedite its development and review. A product can receive breakthrough therapy designation if preliminary clinical evidence indicates that the product may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. The designation includes all of the fast track program features, as well as more intensive FDA interaction and guidance beginning as early as Phase 1 and an organizational commitment to expedite the development and review of the product, including involvement of senior managers. 
+ 33
+
+Any product is eligible for priority review if it has the potential to provide a significant improvement in the treatment, diagnosis or prevention of a serious disease or condition compared to marketed products. For products containing new molecular entities, priority review designation means the FDA’s goal is to take action on the marketing application within six months of the 60-day filing date (compared with ten months under standard review). 
+ Additionally, products studied for their safety and effectiveness in treating serious or life-threatening diseases or conditions may receive accelerated approval upon a determination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. As a condition of accelerated approval, the FDA will generally require the sponsor to perform adequate and well-controlled post-marketing clinical studies to verify and describe the anticipated effect on irreversible morbidity or mortality or other clinical benefit. In addition, the FDA currently requires, as a condition for accelerated approval, pre-approval of promotional materials, which could adversely impact the timing of the commercial launch of the product. 
+ Orphan Drug Designation 
+ Under the Orphan Drug Act, the FDA may grant orphan designation to a drug or biologic intended to treat a rare disease or condition, which is a disease or condition that affects fewer than 200,000 individuals in the United States, or more than 200,000 individuals in the United States for which there is no reasonable expectation that the cost of developing and making available in the United States a drug or biologic for this type of disease or condition will be recovered from sales in the United States for that drug or biologic. Orphan drug designation must be requested before submitting an NDA. After the FDA grants orphan drug designation, the generic identity of the therapeutic agent and its potential orphan use are disclosed publicly by the FDA. The orphan drug designation does not convey any advantage in, or shorten the duration of, the regulatory review or approval process. 
+ If a product that has orphan drug designation subsequently receives the first FDA approval for the disease for which it has such designation, the product is entitled to orphan drug exclusive approval (or exclusivity), which means that the FDA may not approve any other applications, including a full NDA, to market the same drug for the same indication for seven years, except in limited circumstances, such as a showing of clinical superiority to the product with orphan drug exclusivity. Orphan drug exclusivity does not prevent the FDA from approving a different drug or biologic for the same disease or condition, or the same drug or biologic for a different disease or condition. Among the other benefits of orphan drug designation are tax credits for certain research and a waiver of the application user fee. 
+ A designated orphan drug may not receive orphan drug exclusivity if it is approved for a use that is broader than the indication for which it received orphan designation. In addition, exclusive marketing rights in the United States may be lost if the FDA later determines that the request for designation was materially defective or if the manufacturer is unable to assure sufficient quantities of the product to meet the needs of patients with the rare disease or condition. 
+ Post-Approval Requirements 
+ Any products manufactured or distributed by us pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to record-keeping, reporting of adverse experiences, periodic reporting, product sampling and distribution, and advertising and promotion of the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims, are subject to prior FDA review and approval. There also are continuing user fee requirements, under which FDA assesses an annual program fee for each product identified in an approved NDA. Drug manufacturers and their subcontractors are required to register their establishments with the FDA and certain state agencies, and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with cGMP, which impose certain procedural and documentation requirements upon us and our third-party manufacturers. Changes to the manufacturing process are strictly regulated, and, depending on the significance of the change, may require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting requirements upon us and any third-party manufacturers that we may decide to use. Accordingly, manufacturers must continue to expend time, money and effort in the area of production and quality control to maintain compliance with cGMP and other aspects of regulatory compliance. 
+ 34
+
+The FDA may withdraw approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information; imposition of post-market studies or clinical studies to assess new safety risks; or imposition of distribution restrictions or other restrictions under a REMS program. Other potential consequences include, among other things: 
+ 
+ 
+• | restrictions on the marketing or manufacturing of a product, complete withdrawal of the product from the market or product recalls;
+--+------------------------------------------------------------------------------------------------------------------------------------
+• | fines, warning letters or holds on post-approval clinical studies; 
+
+
+• | refusal of the FDA to approve pending applications or supplements to approved applications, or suspension or revocation of existing product approvals;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | product seizure or detention, or refusal of the FDA to permit the import or export of products; or
+--+---------------------------------------------------------------------------------------------------
+
+
+• | injunctions or the imposition of civil or criminal penalties.
+--+--------------------------------------------------------------
+
+ The FDA closely regulates the marketing, labeling, advertising and promotion of biologics and drugs. A company can make only those claims relating to safety and efficacy, purity and potency that are approved by the FDA and in accordance with the provisions of the approved label. However, companies may share truthful and not misleading information that is otherwise consistent with a product’s FDA approved labeling. The FDA and other agencies actively enforce the laws and regulations prohibiting the promotion of off-label uses. Failure to comply with these requirements can result in, among other things, adverse publicity, warning letters, corrective advertising and potential civil and criminal penalties. Physicians may prescribe legally available products for uses that are not described in the product’s labeling and that differ from those tested by us and approved by the FDA. Such off-label uses are common across medical specialties. Physicians may believe that such off-label uses are the best treatment for patients in varied circumstances. The FDA does not regulate the behavior of physicians in their choice of treatments. The FDA does, however, restrict manufacturer’s communications on the subject of off-label use of their products. 
+ FDA Regulation of Companion Diagnostics 
+ A therapeutic product may rely upon an in vitro companion diagnostic for use in selecting the patients that will be more likely to respond to that therapy. If an in vitro diagnostic is essential to the safe and effective use of the therapeutic product, then the FDA generally will require approval or clearance of the diagnostic at the same time that the FDA approves the therapeutic product. According to FDA guidance, a companion diagnostic device used to make treatment decisions in clinical trials of a drug generally will be considered an investigational device unless it is employed for an intended use for which the device is already approved or cleared. If used to make critical treatment decisions, such as patient selection, the diagnostic device generally will be considered a significant risk device under the FDA’s Investigational Device Exemption, or IDE, regulations. Thus, the sponsor of the diagnostic device will be required to comply with the IDE regulations. According to the guidance, if a diagnostic device and a drug are to be studied together to support their respective approvals, both products can be studied in the same investigational trial, if the trial meets both the requirements of the IDE regulations and the IND regulations. The guidance provides that depending on the details of the trial plan and subjects, a sponsor may seek to submit an IND alone, or both an IND and an IDE. 
+ Pursuing FDA approval of an in vitro companion diagnostic would require either a pre-market notification, also called 510(k) clearance, or a pre-market approval, or PMA, for that diagnostic. The review of companion diagnostics involves coordination of review with the FDA’s Center for Devices and Radiological Health. 
+ The PMA process, including the gathering of clinical and nonclinical data and the submission to and review by the FDA, can take several years or longer. The applicant must prepare and provide the FDA with reasonable assurance of the device’s safety and effectiveness, including information about the device and its components regarding, among other things, device design, manufacturing and labeling. PMA applications are subject to an application fee. In addition, PMAs for devices must generally include the results from extensive preclinical and adequate and well-controlled clinical trials to establish the safety and effectiveness of the device for each indication for which FDA approval is sought. In particular, for a diagnostic, the applicant must demonstrate that the diagnostic produces reproducible results. As part of the PMA review, the FDA will typically inspect the manufacturer’s facilities for compliance with the Quality System Regulation, or QSR, which imposes elaborate testing, control, documentation and other quality assurance requirements. 
+ 35
+
+U.S. Patent Term Restoration and Marketing Exclusivity 
+ Depending upon the timing, duration and specifics of the FDA approval of our drug candidates, some of our U.S. patents may be eligible for limited patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984, commonly referred to as the Hatch-Waxman Amendments. The Hatch-Waxman Amendments permit a patent restoration term of up to five years beyond the normal expiration of the patent, limited to the approved indication (or any additional indications approved during the period of extension), as compensation for patent term lost during product development and the FDA regulatory review process. However, patent term restoration cannot extend the remaining term of a patent beyond a total of 14 years from the product’s approval date. The patent term restoration period is generally one-half the time between the effective date of an IND and the submission date of an NDA plus the time between the submission date of an NDA and the approval of that application. Only one patent applicable to an approved drug is eligible for extension and only those claims covering the approved drug, a method for using it, or a method for manufacturing it may be extended and the application for the extension must be submitted prior to the expiration of the patent. The USPTO, in consultation with the FDA, reviews and approves the application for any patent term extension or restoration. In the future, we intend to apply for restoration of patent term for one of our currently owned patents, and if eligible for such restoration, to add patent term beyond its current expiration date, depending on the expected length of the clinical trials and other factors involved in the filing of the relevant NDA. 
+ Marketing exclusivity provisions under the United States Federal Food, Drug, and Cosmetic Act (FDCA) can also delay the submission or the approval of certain marketing applications for competing products. The FDCA provides a five-year period of non-patent marketing exclusivity within the United States to the first applicant to obtain approval of an NDA for a new chemical entity. A drug is a new chemical entity if the FDA has not previously approved any other new drug containing the same active moiety, which is the molecule or ion responsible for the action of the drug substance. During the exclusivity period, the FDA may not accept for review an abbreviated new drug application, or ANDA, or a 505(b)(2) NDA submitted by another company for another drug based on the same active moiety, regardless of whether the drug is intended for the same indication as the original innovator drug or for another indication. However, an application may be submitted after four years if it contains a certification of patent invalidity or non-infringement to one of the patents listed with the FDA by the innovator NDA holder. The FDCA also provides three years of marketing exclusivity for an NDA, or supplement to an existing NDA, if new clinical investigations, other than bioavailability studies, that were conducted or sponsored by the applicant are deemed by the FDA to be essential to the approval of the application, for example new indications, dosages or strengths of an existing drug. This three-year exclusivity covers only the modification for which the drug received approval on the basis of the new clinical investigations and does not prohibit the FDA from approving ANDAs or 505(b)(2) applications for drugs containing the active agent for the original indication or condition of use. Five-year and three-year exclusivity will not delay the submission or approval of a full NDA. However, an applicant submitting a full NDA would be required to conduct or obtain a right of reference to all of the preclinical studies and adequate and well-controlled clinical trials necessary to demonstrate safety and effectiveness. Orphan drug exclusivity, as described below, may offer a seven-year period of marketing exclusivity, except in certain circumstances. Pediatric exclusivity is another type of regulatory market exclusivity in the United States. Pediatric exclusivity, if granted, adds six months to existing exclusivity periods and patent terms. This six-month exclusivity, which runs from the end of other exclusivity protection or patent term, may be granted based on the voluntary completion of a pediatric trial in accordance with an FDA-issued “Written Request” for such a trial. 
+ 
+European Drug Development 
+ In Europe, our future drugs will also be subject to extensive regulatory requirements. As in the United States, medicinal products can only be marketed if a marketing authorization from the competent regulatory agencies has been obtained. 
+ Similar to the United States, the various phases of preclinical and clinical research in Europe are subject to significant regulatory controls. Although the EU Clinical Trials Directive 2001/20/EC has sought to harmonize the European Union clinical trials regulatory framework, setting out common rules for the control and authorization of clinical trials in the European Union, the European Union Member States have transposed and applied the provisions of the Directive differently. This has led to significant variations in the member state regimes. Under the current regime, before a clinical trial can be initiated it must be approved in each of the European Union countries where the trial is to be conducted by two distinct bodies: the National Competent Authority, or NCA, and one or more Ethics Committees, or ECs. Under the current regime all suspected unexpected serious adverse reactions to the investigated drug that occur during the clinical trial have to be reported to the NCA and ECs of the Member State where they occurred. 
+ 36
+
+In 2014, a new Clinical Trials Regulation 536/2014, replacing the current Directive, was adopted. The new Regulation will become directly applicable in all EU Member States (without national implementation) once the EU Portal and Database are fully functional. It is expected that the Regulation will apply in 2020. The new Regulation seeks to simplify and streamline the approval of clinical trials in the European Union. For example, the sponsor shall submit a single application for approval of a clinical trial via the EU Portal. As part of the application process, the sponsor shall propose a reporting Member State, who will coordinate the validation and evaluation of the application. The reporting Member State shall consult and coordinate with the other concerned Member States. If an application is rejected, it can be amended and resubmitted through the EU Portal. If an approval is issued, the sponsor can start the clinical trial in all concerned Member States. However, a concerned Member State can in limited circumstances declare an “opt-out” from an approval. In such a case, the clinical trial cannot be conducted in that Member State. The Regulation also aims to streamline and simplify the rules on safety reporting, and introduces enhanced transparency requirements such as mandatory submission of a summary of the clinical trial results to the EU Database. 
+ European Drug Review and Approval 
+ In the European Economic Area, or EEA, which is comprised of the 27 Member States of the European Union plus Norway, Iceland and Liechtenstein, medicinal products can only be commercialized after obtaining a Marketing Authorization, or MA. There are two types of marketing authorizations: 
+ The Community MA, which is issued by the European Commission through the Centralized Procedure, based on the opinion of the Committee for Medicinal Products for Human Use, or CHMP, of the EMA and which is valid throughout the entire territory of the EEA. The Centralized Procedure is mandatory for certain types of drugs, such as medicines derived from biotechnology, such as genetic engineering, orphan medicinal drugs, advanced-therapy medicines such as gene-therapy, somatic cell-therapy or tissue-engineered medicines, and medicinal drugs containing a new active substance indicated for the treatment of HIV/AIDS, cancer, neurodegenerative disorders, diabetes, auto-immune and other immune dysfunctions, and viral diseases. The Centralized Procedure is optional for drugs containing a new active substance not yet authorized in the EEA, for drugs that constitute a significant therapeutic, scientific or technical innovation or which are in the interest of public health in the European Union. 
+ National MAs, which are issued by the competent authorities of the Member States of the EEA and only cover their respective territory, are available for drugs not falling within the mandatory scope of the Centralized Procedure. Where a drug has already been authorized for marketing in a Member State of the EEA, this National MA can be recognized in other Member States through the Mutual Recognition Procedure. If the drug has not received a National MA in any Member State at the time of application, it can be approved simultaneously in various Member States through the Decentralized Procedure. Under the Decentralized Procedure an identical dossier is submitted to the competent authorities of each of the Member States in which the MA is sought, one of which is selected by the applicant as the Reference Member State, or RMS. The competent authority of the RMS prepares a draft assessment report, a draft summary of the drug characteristics, or SPC, and a draft of the labeling and package leaflet, which are sent to the other Member States (referred to as the Concerned Member States, or CMS) for their approval. If the CMS raise no objections, based on a potential serious risk to public health, to the assessment, SPC, labeling, or packaging proposed by the RMS, the drug is subsequently granted a national MA in all the Member States (i.e. in the RMS and the CMS). 
+ Under the above described procedures, before granting the MA, the EMA or the competent authorities of the Member States of the EEA make an assessment of the risk-benefit balance of the drug on the basis of scientific criteria concerning its quality, safety and efficacy. 
+ European Data and Marketing Exclusivity 
+ In Europe, new active substances, qualify for eight years of data exclusivity upon marketing authorization and an additional two years of market exclusivity. This data exclusivity, if granted, prevents regulatory authorities in the European Union from referencing the innovator’s data to assess a generic application for eight years, after which generic marketing authorization can be submitted, and the innovator’s data may be referenced, but not approved for two years. The overall ten-year period will be extended to a maximum of 11 years if, during the first eight years of those ten years, the marketing authorization holder obtains an authorization for one or more new therapeutic indications which, during the scientific evaluation prior to their authorization, are held to bring a significant clinical benefit in comparison with existing therapies. 
+ 
+37
+
+Brexit and the Regulatory Framework in the United Kingdom
+On June 23, 2016, the electorate in the United Kingdom, or UK, voted in favor of leaving the EU, commonly referred to as “Brexit” and the United Kingdom officially withdrew from the EU on January 31, 2020.  The United Kingdom and the EU are currently in a transition period during which the United Kingdom and the EU are negotiating additional arrangements, including their future trading arrangement.  The United Kingdom has stated that it wants the transition period to expire, and the future trading terms to be agreed, by December 31, 2020.   
+ Since the regulatory framework for pharmaceutical products in the United Kingdom covering quality, safety and efficacy of pharmaceutical products, clinical trials, marketing authorization, commercial sales and distribution of pharmaceutical products is derived from EU directives and regulations, immediately following Brexit, it is expected that the United Kingdom’s regulatory regime will remain aligned with EU regulations. It remains to be seen how, if at all, Brexit will impact regulatory requirements for product candidates and products in the United Kingdom. In the longer term, Brexit could materially impact the future regulatory regime which applies to products and the approval of product candidates in the United Kingdom.
+ European Union General Data Protection Regulation 
+ In addition to EU regulations related to the approval and commercialization of our products, we may be subject to the EU’s General Data Protection Regulation (GDPR). The GDPR went into effect on May 25, 2018. The GDPR introduced new data protection requirements in the European Union, as well as potential fines for noncompliant companies of up to the greater of €20 million or 4% of annual global revenue. The regulation imposes numerous new requirements for the collection, use and disclosure of personal information, including more stringent requirements relating to consent and the information that must be shared with data subjects about how their personal information is used, the obligation to notify regulators and affected individuals of personal data breaches, extensive new internal privacy governance obligations and obligations to honor expanded rights of individuals in relation to their personal information (e.g., the right to access, correct and delete their data). In addition, the GDPR includes restrictions on cross-border data transfer. The GDPR will increase our responsibility and liability in relation to personal data that we process, and we may be required to put in place additional mechanisms to ensure compliance with the new EU data protection rules. Further, the United Kingdom’s withdrawal from the EU, often referred to as Brexit, has created uncertainty with regard to data protection regulation in the United Kingdom. In particular, it is unclear whether the United Kingdom will enact data protection legislation equivalent to the GDPR and how data transfers to and from the United Kingdom will be regulated. 
+ 
+Rest of the World Regulation 
+ For other countries outside of the European Union and the United States, such as certain countries in Eastern Europe, Latin America or Asia, the requirements governing the conduct of clinical trials, drug licensing, pricing and reimbursement vary from country to country. In all cases the clinical trials must be conducted in accordance with GCP requirements and the applicable regulatory requirements and the ethical principles that have their origin in the Declaration of Helsinki. 
+ If we fail to comply with applicable foreign regulatory requirements, we may be subject to, among other things, fines, suspension or withdrawal of regulatory approvals, product recalls, seizure of products, operating restrictions and criminal prosecution. 
+ Coverage and Reimbursement 
+ Sales of our drugs will depend, in part, on the extent to which our drugs will be covered by third-party payors, such as government health programs, commercial insurance and managed healthcare organizations. These third-party payors are increasingly reducing reimbursements for medical drugs and services. Additionally, the containment of healthcare costs has become a priority of federal and state governments, and the prices of drugs have been a focus in this effort. The U.S. government, state legislatures and foreign governments have shown significant interest in implementing cost-containment programs, including price controls, restrictions on reimbursement and requirements for substitution of generic drugs. 
+ There may be significant delays in obtaining coverage and reimbursement for newly approved drugs, and coverage may be more limited than the purposes for which the drug is approved by the FDA or similar regulatory authorities outside of the United States. Moreover, eligibility for coverage and reimbursement does not imply that a drug will be paid for in all cases or at a rate that covers our costs, including research, development, intellectual property, manufacture, sale and distribution expenses. Interim reimbursement levels for new drugs, if applicable, may also not be sufficient to cover our costs and may not be made permanent. Reimbursement rates may vary according to the use of the drug and the clinical setting in which it is used, may be based on reimbursement levels already set for lower cost drugs and may be incorporated into existing payments for other services. Net prices for drugs may be reduced by mandatory discounts or rebates required by government healthcare programs or private payors and by any future relaxation of laws that presently restrict imports of drugs from countries where they may be sold at lower prices than in the United States. Third-party payors often rely upon Medicare coverage policy and payment limitations in setting their own reimbursement policies, but also have their own methods and approval process apart from Medicare determinations. 
+ 38
+
+We plan to develop, either by ourselves or with collaborators, in vitro companion diagnostic tests for our drug candidates for certain indications. We, or our collaborators, will be required to obtain coverage and reimbursement for these tests separate and apart from the coverage and reimbursement we seek for our product candidates, once approved. 
+ In addition, in some foreign countries, the proposed pricing for a drug must be approved before it may be lawfully marketed. The requirements governing drug pricing vary widely from country to country. For example, the European Union provides options for its member states to restrict the range of medicinal drugs for which their national health insurance systems provide reimbursement and to control the prices of medicinal drugs for human use. A member state may approve a specific price for the medicinal drug or it may instead adopt a system of direct or indirect controls on the profitability of the company placing the medicinal drug on the market. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical drugs will allow favorable reimbursement and pricing arrangements for any of our drugs. Historically, drugs launched in the European Union do not follow price structures of the United States and generally tend to be significantly lower. 
+ 
+Healthcare Reform 
+ In the United States and some foreign jurisdictions, there have been a number of legislative and regulatory changes and proposed changes regarding the healthcare system that could prevent or delay marketing approval of drug candidates, restrict or regulate post-approval activities and affect a biopharmaceutical company’s ability to profitably sell any approved drugs. 
+ The Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (MMA) established the Medicare Part D program to provide a voluntary prescription drug benefit to Medicare beneficiaries. Under Part D, Medicare beneficiaries may enroll in prescription drug plans offered by private entities that provide coverage of outpatient prescription drugs. Unlike Medicare Part A and B, Part D coverage is not standardized. Part D prescription drug plan sponsors are not required to pay for all covered Part D drugs, and each drug plan can develop its own drug formulary that identifies which drugs it will cover and at what tier or level. However, Part D prescription drug formularies must include drugs within each therapeutic category and class of covered Part D drugs, though not necessarily all the drugs in each category or class. Any formulary used by a Part D prescription drug plan must be developed and reviewed by a pharmacy and therapeutic committee. Government payment for some of the costs of prescription drugs may increase demand for drugs for which we obtain marketing approval. However, any negotiated prices for our drugs covered by a Part D prescription drug plan will likely be lower than the prices we might otherwise obtain. Moreover, while the MMA applies only to drug benefits for Medicare beneficiaries, private third-party payors often follow Medicare coverage policy and payment limitations in setting their own payment rates. Any reduction in payment that results from the MMA may result in a similar reduction in payments from non-governmental third-party payors. 
+ The American Recovery and Reinvestment Act of 2009 provides funding for the federal government to compare the effectiveness of different treatments for the same illness. The plan for the research was published in 2012 by the U.S. Department of Health and Human Services (HHS), the Agency for Healthcare Research and Quality and the National Institutes for Health, and periodic reports on the status of the research and related expenditures are made to Congress. Although the results of the comparative effectiveness studies are not intended to mandate coverage policies for public or private third-party payors, it is not clear what effect, if any, the research will have on the sales of our drug candidates, if any such drug or the condition that they are intended to treat are the subject of a trial. It is also possible that comparative effectiveness research demonstrating benefits in a competitor’s drug could adversely affect the sales of our drug candidate. If third-party payors do not consider our drugs to be cost-effective compared to other available therapies, they may not cover our drugs after approval as a benefit under their plans or, if they do, the level of payment may not be sufficient to allow us to sell our drugs on a profitable basis. 
+ The Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act of 2010 (collectively, the ACA) enacted in March 2010, has had a significant impact on the healthcare industry. The ACA expanded coverage for the uninsured while at the same time containing overall healthcare costs. With regard to pharmaceutical products, the ACA, among other things, addressed a new methodology by which rebates owed by manufacturers under the Medicaid Drug Rebate Program are calculated for drugs that are inhaled, infused, instilled, implanted or injected, increased the minimum Medicaid rebates owed by manufacturers under the Medicaid Drug Rebate Program and extended the rebate program to individuals enrolled in Medicaid managed care organizations, established annual fees and taxes on manufacturers of certain branded prescription drugs, and a new Medicare Part D coverage gap discount program, in which manufacturers must now agree to offer 70% point-of-sale discounts off negotiated prices of applicable brand drugs to eligible beneficiaries during their coverage gap period, as a condition for the manufacturer’s outpatient drugs to be covered under Medicare Part D. 
+ 39
+
+There remain judicial and Congressional challenges as well as efforts by the current U.S. President’s administration to repeal or replace certain aspects of the ACA. Since January 2017, the current U.S. President has signed two Executive Orders and other directives designed to delay the implementation of certain provisions of the ACA or otherwise circumvent some of the requirements for health insurance mandated by the ACA. Concurrently, Congress has considered legislation that would repeal or repeal and replace all or part of the ACA. While Congress has not passed comprehensive repeal legislation, it has enacted laws that modify certain provisions of the ACA such as removing penalties, starting January 1, 2019, for not complying with the ACA’s individual mandate to carry health insurance, delaying the implementation of certain ACA-mandated fees, and increasing the point-of-sale discount that is owed by pharmaceutical manufacturers who participate in Medicare Part D. In addition, the 2020 federal spending package permanently eliminated, effective January 1, 2020, the ACA-mandated “Cadillac” tax on high-cost employer-sponsored health coverage and medical device tax and, effective January 1, 2021, also eliminates the health insurer tax. On December 14, 2018, a U.S. District Court Judge in the Northern District of Texas (Texas District Court Judge), ruled that the individual mandate is a critical and inseverable feature of the ACA, and therefore, because it was repealed as part of legislation enacted in 2017, informally titled the Tax Cuts and Jobs Act, the remaining provisions of the ACA are invalid as well. Additionally, on December 18, 2019, the U.S. Court of Appeals for the 5th Circuit upheld the District Court ruling that the individual mandate was unconstitutional and remanded the case back to the District Court to determine whether the remaining provisions of the ACA are invalid as well. It is unclear how this decision, future decisions, subsequent appeals, and other efforts to repeal and replace the ACA will impact the ACA.
+In addition, other legislative changes have been proposed and adopted in the United States since the ACA was enacted. On August 2, 2011, the Budget Control Act of 2011, among other things, created measures for spending reductions by Congress. A Joint Select Committee on Deficit Reduction, tasked with recommending a targeted deficit reduction of at least $1.2 trillion for the years 2013 through 2021, was unable to reach required goals, thereby triggering the legislation’s automatic reduction to several government programs. This includes aggregate reductions to Medicare payments to providers of up to 2% per fiscal year, started in April 2013, and, due to subsequent legislative amendments, will stay in effect through 2029 unless additional Congressional action is taken. On January 2, 2013, the then-U.S. President signed into law the American Taxpayer Relief Act of 2012, or the ATRA, which, among other things, also reduced Medicare payments to several providers, including hospitals, imaging centers and cancer treatment centers, and increased the statute of limitations period for the government to recover overpayments to providers from three to five years. 
+ Further, there has been heightened governmental scrutiny recently over the manner in which drug manufacturers set prices for their marketed products, which has resulted in several Congressional inquiries and proposed and enacted federal and state legislation designed to, among other things, bring more transparency to product pricing, review the relationship between pricing and manufacturer patient programs, and reform government program reimbursement methodologies for drug products. At the federal level, the current U.S. President’s administration’s budget proposal for fiscal year 2021 includes a $135 billion allowance to support legislative proposals seeking to reduce drug prices, increase competition, lower out-of-pocket drug costs for patients, and increase patient access to lower-cost generic and biosimilar drugs.  Additionally, the current U.S. President’s administration released a “Blueprint” to lower drug prices and reduce out of pocket costs of drugs that contains additional proposals to increase manufacturer competition, increase the negotiating power of certain federal healthcare programs, incentivize manufacturers to lower the list price of their products and reduce the out of pocket costs of drug products paid by consumers. HHS has solicited feedback on some of these measures and has implemented others under its existing authority. For example, in May 2019, CMS issued a final rule to allow Medicare Advantage plans the option to use step therapy for Part B drugs beginning January 1, 2020. This final rule codified CMS’s policy change that was effective January 1, 2019. Although some of these and other measures may require additional authorization to become effective, Congress and the current U.S. President’s administration have each indicated that it will continue to seek new legislative and/or administrative measures to control drug costs. At the state level, legislatures have increasingly passed legislation and implemented regulations designed to control pharmaceutical and biological product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing. 
+ Other Healthcare Laws 
+ We may also be subject to healthcare regulation and enforcement by the federal government and the states and foreign governments where we may market our drug candidates, if approved. These laws include, without limitation, state and federal anti-kickback, fraud and abuse, false claims, privacy and security and physician sunshine laws and regulations. 
+ 40
+
+The federal Anti-Kickback Statute prohibits, among other things, any person from knowingly and willfully offering, soliciting, receiving or paying remuneration, directly or indirectly, to induce either the referral of an individual, for an item or service or the purchasing or ordering of a good or service, for which payment may be made under federal healthcare programs such as the Medicare and Medicaid programs. The federal Anti-Kickback Statute is subject to evolving interpretations. In the past, the government has enforced the federal Anti-Kickback Statute to reach large settlements with healthcare companies based on sham consulting and other financial arrangements with physicians. A person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. In addition, the government may assert that a claim including items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the False Claims Act. The majority of states also have anti-kickback laws, which establish similar prohibitions and in some cases may apply to items or services reimbursed by any third-party payor, including commercial insurers. 
+ Additionally, the federal civil and criminal false claims laws, including the False Claims Act, and civil monetary penalties law, prohibits knowingly presenting or causing the presentation of a false, fictitious or fraudulent claim for payment to the U.S. government. Actions under the False Claims Act may be brought by the Attorney General or as a qui tam action by a private individual in the name of the government. The federal government is using the False Claims Act, and the accompanying threat of significant liability, in its investigation and prosecution of pharmaceutical and biotechnology companies throughout the U.S., for example, in connection with the promotion of products for unapproved uses and other sales and marketing practices. The government has obtained multi-million and multi-billion dollar settlements under the False Claims Act in addition to individual criminal convictions under applicable criminal statutes. Given the significant size of actual and potential settlements, it is expected that the government will continue to devote substantial resources to investigating healthcare providers’ and manufacturers’ compliance with applicable fraud and abuse laws. 
+ The federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) also created additional federal civil and criminal penalties for, among other actions, knowingly and willfully executing, or attempting to execute, a scheme to defraud any healthcare benefit program, including private third-party payors, knowingly and willfully embezzling or stealing from a healthcare benefit program, willfully obstructing a criminal investigation of a healthcare offense, and knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false, fictitious or fraudulent statement in connection with the delivery of or payment for healthcare benefits, items or services. Similar to the federal Anti-Kickback Statute, a person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. 
+ 
+Many states have similar health care fraud and abuse laws that may differ from each other and federal law in significant ways, thus complicating compliance efforts. For example, states have anti-kickback and false claims laws that may be broader in scope than analogous federal laws and may apply regardless of payer. 
+ 
+There has also been a recent trend of increased federal and state regulation of payments made to physicians and other healthcare providers. The ACA, through the Physician Payments Sunshine Act, imposes new reporting requirements on drug manufacturers for payments made by them to physicians, as defined by such law, and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. Drug manufacturers are required to submit annual reports to the government and these reports are posted on a website maintained by CMS. Certain states also mandate implementation of compliance programs, impose restrictions on drug manufacturer marketing practices, require the registration of pharmaceutical sales representatives and/or require tracking and reporting of gifts, compensation and other remuneration to physicians. 
+ We may also be subject to data privacy and security requirements that may impact the way in which we conduct research and operate our business. HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act, or HITECH, and their respective implementing regulations, including the final omnibus rule published on January 25, 2013, impose obligations, including mandatory contractual terms, with respect to safeguarding the privacy, security and transmission of individually identifiable health information on covered entities, including certain healthcare providers, health plans, and healthcare clearinghouses, as well as individuals and entities that provide services on behalf of a covered entity that involve individually identifiable health information, known as business associates. In addition, we may be directly subject to certain state laws concerning privacy and data security. For example, California recently enacted the California Consumer Privacy Act (CPPA), which creates new individual privacy rights for California consumers (as defined in the law) and places increased privacy and security obligations on entities handling certain personal data of consumers or households. The CCPA requires covered companies to provide new disclosure to consumers about such companies’ data collection, use and sharing practices, provides such consumers new ways to opt-out of certain sales or transfers of personal information, and provides consumers with additional causes of action. The CCPA went into effect on January 1, 2020, and the California Attorney General may bring enforcement actions for violations beginning July 1, 2020. The may impact our business activities and exemplifies the vulnerability of our business to the evolving regulatory environment related to personal data and protected health information. Existing state laws governing the privacy and security of personally identifiable information, and, in some states, health information, impose differing requirements, thus complicating our compliance efforts. 
+ 41
+
+If our operations are found to be in violation of any of the federal and state laws described above or any other governmental regulations that apply to us, we may be subject to significant civil, criminal, and administrative penalties, damages, fines, disgorgement, imprisonment, and exclusion from participation in federal healthcare programs, such as Medicare and Medicaid.
+ Employees 
+ As of December 31, 2019, we had 95 total employees, 87 of whom were full-time employees, 43 of whom hold Ph.D., Pharm.D. or M.D. degrees. Of these employees, 73 were engaged in research and development activities and 22 were engaged in general and administrative activities. Our employees are not represented by labor unions or covered by collective bargaining agreements. 
+Corporate and Other Information
+ We were incorporated in Delaware in October 8, 2013 as TP Therapeutics, Inc. and we subsequently changed our name to Turning Point Therapeutics, Inc. in November 2018. Our principal executive offices are located at 10628 Science Center Drive, Ste. 200, San Diego, California, and our telephone number is (858) 926-5251. Our corporate website address is www.tptherapeutics.com and we regularly post copies of our press releases as well as additional information about us on our website. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (Exchange Act), are available free of charge on our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities Exchange Commission (SEC). Information contained on or accessible through our website is not a part of this Annual Report, and the inclusion of our website address in this Annual Report is an inactive textual reference only.

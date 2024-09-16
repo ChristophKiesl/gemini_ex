@@ -1,0 +1,302 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+Overview
+​
+Tabula Rasa HealthCare, Inc. is a leader in providing medication safety technology and services that enable prescribers and pharmacists to engage patients, optimize medication regimens, improve patient outcomes, reduce hospitalizations, and lower healthcare costs. We deliver our solutions through technology-enabled products and services for medication risk management, which includes bundled prescription fulfillment and reminder packaging services for certain client populations with complex prescription needs. Many of our products and services are built around our novel and proprietary Medication Risk Mitigation Matrix, or MRM Matrix, which enables optimization of a patient's medication regimen, personalized medication selection, dosage levels, and time-of-day administration, and reduction of the total medication burden by eliminating unnecessary prescriptions. We believe we offer the first prospective clinical approach to medication risk management, which is designed to increase patient safety and promote adherence to a patient's personalized medication regimen.
+​
+We also provide health plan management services and pharmacy cost management services, which help our clients to properly characterize patient acuity (severity of health condition), optimize and reconcile the associated payments for care, assure vendor compliance with contracted terms and document clinical interactions. 
+​
+At the end of 2017 we were serving 170 healthcare organizations and over 4,600 pharmacies. At the end of 2018 we were serving 224 healthcare organizations and over 4,600 pharmacies. As of December 31, 2019, this number had grown to 237 healthcare organizations and over 16,900 pharmacies. The increase in the number of pharmacies in 2019 was primarily due to the PrescribeWellness acquisition.
+​
+For the year ended December 31, 2019, our revenue was $284.7 million and we incurred a net loss of $32.4 million and earned Adjusted EBITDA of $37.9 million. See "Management's Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Financial Measures — Adjusted EBITDA" for our definition of Adjusted EBITDA, why we present Adjusted EBITDA and a reconciliation of net income (loss) to Adjusted EBITDA. We had an annual revenue retention rate of 98% and client retention rate of 91% in 2019. See "Management's Discussion and Analysis of Financial Condition and Results of Operations — Key Business Metrics" for our definitions of revenue retention rate and client retention rate.
+​
+Our Strategy
+​
+Further Penetrate the Programs of All-Inclusive Care for the Elderly Market
+​
+We are the market leader in providing medication risk management to Programs of All-Inclusive Care for the Elderly, or PACE, a Centers for Medicare & Medicaid Services, or CMS, sponsored program through which participating healthcare organizations provide fully integrated healthcare services on an at-risk basis for elderly adults, most of whom are dually eligible for Medicare and Medicaid. Our medication risk management PACE clients cover approximately 25% of the total PACE enrollees nationwide. 
+​
+We believe that we have a significant opportunity to continue to grow within the PACE market and we expect our PACE clients to continue to grow to cover more eligible lives. Recently the National PACE Association launched PACE 2.0, an initiative designed to facilitate the acceleration of growth in the number of PACE enrollees. The goal is to have approximately four times as many people enrolled in the program by 2028, which would require the annual national growth rate to approximately double.
+​
+We have recently organized our PACE offerings under the CareVention HealthCare brand which offers a comprehensive set of solutions to our clients, including medication management services and fulfillment, risk adjustment services, third party administrator services and electronic health records software. Working with our scalable solutions can help PACE organizations to operate more effectively and expand rapidly.
+​
+Continue Expansion into the Payer and At-Risk Provider Markets
+​
+We believe that the growth of government healthcare programs and the shift to value-based care models are creating opportunities for many organizations to capture growing portions of the expanding healthcare market. Accordingly, we are actively targeting at-risk, value-based markets, including managed care organizations, physician 
+
+5
+
+
+
+
+provider groups, and self-insured companies.
+​
+On January 1, 2017, we launched our Enhanced Medication Therapy Management, or EMTM, program, with a large, regional Medicare Part D Prescription Drug Plan, or Regional PDP, participating in the CMS EMTM pilot. We are using our MRM Matrix to perform medication risk stratification and to facilitate medication safety reviews for patients with complex medication regimens, providing an innovative, alternative approach to pharmacotherapy to the highest risk of members of this Regional PDP. CMS reported the results of the first two years of the pilot and we exceeded the benchmark set by CMS for targeted savings in medical expenditures. 
+​
+We recognized that success in the EMTM program would position us well to service more of the Medicare Part D market. We began looking for an avenue to accelerate our penetration into the market and in September of 2017, we acquired SinfoníaRx, or SRx, and became the leading provider of Medication Therapy Management, or MTM, services to Medicare Part D plans. SRx currently services approximately 400 health plans and 10.5 million Medicare lives. We expect all Part D plans will eventually have to conform to new MTM requirements resulting from the CMS EMTM pilot program, and we believe that through our participation in the pilot, we are one of a few healthcare organizations well positioned to help Part D plans covert to these new standards.
+​
+We intend to leverage our expertise and experience from our existing clients to expand to other at-risk providers and payers through increased investment in our sales force and marketing efforts.
+​
+Continue to Innovate and Expand Platform Offerings to Meet Evolving Market Needs
+​
+We believe our investments in human capital, technology and services capabilities position us to continue to pursue rapid innovation and expand our medication risk management solutions and other platform offerings to the broader healthcare marketplace. For example, we have developed and launched a high-throughput medication risk stratification technology for identification of high-risk patients in need of clinical intervention, and recently added patient communication capabilities to better engage the patients we serve.
+​
+Most recently, in order to expand our MRM Matrix solution, we acquired DoseMe, the developer of DoseMeRx, an advanced precision dosing tool to help physicians and pharmacists more accurately dose patients’ high-risk parenteral medications based on individual needs. Integrating the DoseMeRx platform with our MRM Matrix provides a more comprehensive tool to address markets where there is a high prevalence of intravenously administered medications.
+​
+Selectively Pursue Strategic Acquisitions and Partnerships
+​
+Since our founding in 2009, we have successfully completed and integrated eleven acquisitions, which have significantly expanded our market footprint, enhanced our medication risk management offerings and added valuable complementary services that can be sold into our existing customer base. We plan to continue to acquire assets and businesses and may enter into strategic partnerships that strengthen or expand our service offerings, capabilities and geographic reach and facilitate our entry into new markets. Our acquisition strategy is driven by our commitment to serving client needs, and we are continuously assessing the market for potential opportunities. 
+​
+For example, in September 2017, we acquired the SRx business, a provider of MTM technology and services for Medicare, Medicaid, and commercial health plans. We believe the SRx client base is an ideal place to begin to market our medication risk management services to the Medicare market. In 2019, we completed our acquisition of PrescribeWellness, a provider of cloud-based patient engagement solutions to approximately 12,000 pharmacies. We believe these pharmacies will not only provide a venue for local clinical interventions, but also represent a market in need of our MedWise platform. 
+​
+Our Software and Services
+​
+Our Software
+​
+Our cloud-based software applications are designed to assist prescribers and pharmacists with patient engagement, identification of high risk patients, clinical decision support, documentation of clinical interactions, ordering medications and lab tests, and care management. 
+
+6
+
+
+
+
+​
+Our personalized medication risk management services can be based on our MRM Matrix technology. For each patient, the personalized MRM Matrix incorporates personal medical history data inputs, summarizes the aggregate risk of the medications the patient is taking based on proprietary algorithms and provides clinical alerts, including for the risk of cognitive impairment, sedation, and an unintentional overdose. This MRM Matrix can be utilized by prescribers independently or analyzed by our pharmacists, to optimize each patient's medication regimen. Elements of the MRM Matrix is currently available in the EireneRx, MedWise, TruChart, PACElogic and PrescribeWellness platforms.
+​
+EireneRx
+​
+EireneRx is our cloud-based medication decision-support and e-prescribing platform, which includes an order entry module used by healthcare organizations to access patient medication-related information and utilize our personalized proprietary MRM Matrix at the point-of-prescribing. EireneRx provides a single version of a patient's medication profile, enabling prescribers and our pharmacists to collaborate on a patient's medication management in real time. The EireneRx platform provides a dashboard report that shows the results of the MRM Matrix. EireneRx provides secure instant messaging, which our pharmacists use to answer questions and make recommendations to prescribers. EireneRx is integrated with our prescription fulfillment pharmacies and also capable of sending prescriptions to substantially all pharmacies in the United States.
+​
+MedWise
+​
+MedWise software provides the medication decision support components of EireneRx, primarily our MRM Matrix, for clients seeking to manage their medication risk and improve medication outcomes and patient relationships by enhancing their existing programs or systems. MedWise can be integrated with a variety of e-prescribing modules, EHRs, pharmacy management systems, clinical systems, case management platforms and other clinical databases. We believe MedWise is broadly applicable to all healthcare organizations that employ clinicians who prescribe medications and to those with pharmacists or other clinicians that provide support to prescribers. We are currently working with managed care organizations that are utilizing MedWise to improve medication therapy outcomes, and we are targeting a broad range of at-risk providers, healthcare systems, hospitals, and pharmacies.
+​
+RxCompanion
+​
+RxCompanion is a highly scalable cloud-based MTM software platform designed to aid in the identification and resolution of medication and other health related problems. Through a patient-centric approach to population health, RxCompanion utilizes demographic data, pharmacy claims, medical claims and other health information to identify patients at risk. The potential problems, identified using hundreds of proprietary clinical algorithms, are triaged based on urgency and complexity and resolved through telephonic consultations, face-to-face consultations, or video-based consultations with MTM providers using the RxCompanion application. 
+​
+TruChart
+​
+TruChart is an electronic health record, or EHR, system for PACE organizations.  Our comprehensive, web-based solution covers end-to-end functionality in one seamless solution built to manage care coordination, enrollments, authorizations, utilization management, scheduling, claims payment, interfaces, and reporting. TruChart allows tracking of measurable outcomes in defined time frames, complete assessments for initial, episodic, and re-assessments across disciplines, access to longitudinal views of cognitive and risk assessments, and utilization of population views of acuity level to stratify high-risk participants.  
+​
+PACElogic
+​
+PACElogic delivers neatly organized, real-time sharable workflows covering all aspects of a PACE organization and other small health plan’s operations. The features include EHR; customer relationship management; claims adjudication; electronic data interchange; care management; coordination, and planning; integration with community-based providers; and all Federal and State required reporting. Clinical and non-clinical data is brought together into a unified health plan management system.
+​
+
+7
+
+
+
+
+DoseMeRx
+​
+DoseMeRx is unique decision support software that leverages clinically validated pharmacokinetic drug models, patient characteristics, drug concentrations and genotype to guide dose optimization. It is the world’s first precision dosing tool designed for clinical practice that uses Bayesian dosing methods. DoseMeRx works by digitally constructing a virtual model of a patient’s individual pharmacokinetics. The virtual patient model is built within seconds and then DoseMeRx calculates an accurate individualized dose to reach the therapeutic target. This model can also be used to simulate potential outcomes of different dosing regimens to ensure the best possible advice for every patient.
+​
+PrescribeWellness
+​
+PrescribeWellness patient engagement software identifies which customers need to visit their pharmacy and schedules a text message, email, or call recorded in their local pharmacist’s voice. The software’s task-based workflow helps staff fill orders, anticipate demand and highlight what additional care a customer might need.
+​
+Our Services
+​
+Our clinical pharmacist collaboration service, prescription fulfillment and reminder packaging service, health plan management services including risk adjustment and third party administrator services, and pharmacy cost management service are designed to improve patient experiences and outcomes and contain costs. The revenue models under these service contracts typically include a fee assessed for each medication review, payments on a per-member per-month basis, payments on a subscription basis, and charges and dispensing fees for medication fulfillment.
+​
+Clinical Pharmacist Collaboration
+​
+We have teams of clinical pharmacists dedicated to performing both medication safety reviews, or MSRs, as well as comprehensive medication reviews, or CMRs. These reviews involve communication with prescribers as well as patients. The clinical pharmacist recommendations can include guidance based on the clinical application of pharmacogenomic test results, an assessment of the MRM Matrix and the individual patient's medical history. Our clinical pharmacists provide these personalized medication recommendations through real-time digital and verbal communications. Available 24/7, 365 days per year, this service supports the medication risk management clinical decision making process with medication safety recommendations including avenues to enhance adherence when appropriate.
+​
+Prescription Fulfillment and Reminder Packaging
+​
+We operate three prescription fulfillment pharmacies strategically located to efficiently distribute medications nationwide for our clients. Informed by each patient's personalized MRM Matrix, we package medications, synchronize fills, and aggregate doses by day and time-of-day to increase the ease of adherence by patients to their optimized medication regimens. Using robotic dispensing machines, our scalable, high-performance systems allow for an array of medication packaging options, including multi-dose deep-well cards and multi-dose pouches.
+​
+Health Plan Management
+​
+Long-term optimization of risk adjustment outcomes is complex and, for many organizations, significantly affects financial performance. We take a prospective approach to risk adjustment, going beyond the typical strategy of providing retrospective reviews and claims data analysis. We specialize in helping clients optimize processes and systems to capture timely, complete and accurate data. Through these services, we help PACE and other healthcare organizations remain compliant with regulations, make reliable comparisons to internal and external benchmarks and identify high-volume/high-cost issues for quality program initiatives.
+​
+We provide third party administrator services that optimize a health plan’s financial management functions and fulfill regulatory requirements. Our expertise in health plan management, particularly in PACE, enables our clients to focus on delivering high-quality care to their members. Our services include enrollment management, accounts receivable, claims adjudication, risk adjustment data submission, encounter data processing and submission and Medicare Part D data submission.
+​
+
+8
+
+
+
+
+Pharmacy Cost Management
+​
+We design, implement and manage pharmacy cost-containment strategies for post-acute care facilities. Pharmacy cost management services help our clients reduce risk, increase compliance and optimize spending. Our analytics provide real-time reporting, simplify drug-spend data and are designed to create contract transparency for our clients. By simplifying and adding oversight to the adjudication process, we help clients avoid risks associated with managing pharmacy costs by preventing overpayments and ensuring appropriate reimbursements.
+​
+Our Clients
+​
+Our clients are typically at-risk healthcare organizations, primarily PACE organizations, managed-care organizations, including government and commercial plans, pharmacies and other provider groups. We have strong and long-standing relationships with our clients, in many cases providing services under multi-year contracts. At the end of 2017 we were serving 170 healthcare organizations and over 4,600 pharmacies. At the end of 2018 we were serving 224 healthcare organizations and over 4,600 pharmacies. As of December 31, 2019, this number had grown to 237 healthcare organizations and over 16,900 pharmacies. The growth in pharmacies is attributed to the PrescribeWellness acquisition in 2019.
+​
+Our annual revenue retention rate was 98%, 99%, and 99% for 2019, 2018, and 2017, respectively, and our client retention rate was 91%, 96% and 95% for 2019, 2018 and 2017, respectively, which we believe reflects strong client satisfaction with our solutions. The decline in client retention is the direct result of including the PrescribeWellness customer base in our calculation. While PrescribeWellness has a higher churn than the rest of our business, due to the nature of the contracts, it is low compared to many SaaS businesses
+​
+PACE Organizations
+​
+PACE, a federal and state collaboration, is one growing model serving the dual-eligible patient population that focuses on preventing institutional-based placement. PACE embodies many of the characteristics and trends affecting the healthcare industry as a whole. Our proof of concept was to provide medication risk management technology and services to PACE organizations, which are responsible for elderly patients who typically have complex medication regimens. Over the past eight years, we have become the market-leader in providing PACE with medication risk management. Our PACE clients utilizing our medication risk management services cover approximately 25% of the total PACE enrollees nationwide. In addition to personalized medication management, we also provide health plan management services to PACE organizations.
+​
+Managed Care Organizations
+​
+Since 2004, the number of beneficiaries enrolled in Medicare Advantage, or MA, plans has more than quadrupled from 5.3 million to 22.4 million in 2019 and is expected to grow to 38 million by 2025. Additionally, in 2017 there were over 54 million people enrolled in a managed Medicaid plan. Many of the health plans we currently contract with have multiple lines of business spanning Medicare, Medicaid and commercial. We currently provide MTM, third party administrative services as well as risk adjustment to these markets, and we believe our solutions are broadly applicable throughout the managed care landscape, including to self-funded employer groups.
+​
+At-Risk Provider Groups
+​
+We contract with at-risk provider groups across the country for care transitions support and comprehensive medication management services.  We risk-stratify patient cohorts for these groups and identify patients at risk for an ADE. We then collaborate with these groups on interventions to mitigate that risk. These interventions are performed by our clinical teams or in some cases by employees of the at-risk provider.
+​
+
+9
+
+
+
+
+Intellectual Property
+​
+We create, own and maintain various intellectual property assets which, in the aggregate, are of material importance to our business. Our intellectual property assets include: one patent and twelve pending patent applications related to our innovations, products and services; trademarks related to our brands, products and services; copyrights in software, documentation, content and databases; and trade secrets relating to data processing, statistical methodologies, data security and other aspects of our business. We are licensed to use certain technology and other intellectual property rights owned and controlled by others, and, similarly, other companies are licensed on a non-exclusive basis to use certain technology and other intellectual property rights owned and controlled by us.
+
+We rely on patent, copyright, trademark and trade secret laws as well as confidentiality agreements, licenses and other agreements with employees, consultants, vendors and clients. We also seek to control access to and distribution of our proprietary software, confidential information and know-how, technology and other intellectual property. We have one issued patent for our medication management system and method, which is U.S. Pat. No. 8,392,220, issued on March 5, 2013. This issued patent expires on November 8, 2031. We also have five patent applications pending in the United States. The first application, Application No. 14/579,283, filed on December 22, 2014 relates to medication risk mitigation systems and methods. The second application, Application No. 15/008,555, filed on January 28, 2016, relates to medication risk mitigation matrix systems and methods. The third application, Application No. 16/026,686, filed on July 3, 2018, relates to medication regimens and associated methods. The fourth application, Application No. 16,302,824, filed on November 19, 2018, relates to methods of treatment having reduced drug-related toxicity and methods of identifying the likelihood of patient harm arising from prescribed medications. This application also has related foreign counterpart applications in Canada, China, Japan, Hong Kong, Mexico and Europe. The fifth application, Application No. PCT/US2018/058405 filed on Oct 31, 2018 is related to population-based medication risk stratification and personalized medication risk scoring. We also have a pending design patent application, Application No. 29/643,059, filed on April 4, 2018, related to a user interface for medication analysis. This application also has a related foreign counterpart application in Europe. We own four copyright registrations in connection with the following software: EireneRx, PACElogic, Mobile Workforce Manager, and Enterprise Services. 
+​
+We own and use trademarks in connection with products and services, including both unregistered common law marks and issued trademark registrations in the United States. Our material trademarks, service marks and other marks include: EireneRx®, Medication Risk Mitigation by CareKinesis®, MedWise Advisor®, NiaRx®, CareVentions™, Tabula Rasa HealthCare®, SinfoníaRx®, SinfoníaRx Medication Management®, Medliance®, Capstone Performance System®, Medication Risk Mitigation™, Medication Risk Mitigation Matrix™, Peak PACE Solutions™, Mediture®, TruChart®, Cognify™, PACElogic™, DoseMe™, and DoseMeRx™.
+​
+Our Competitive Landscape
+​
+We compete with a broad and diverse set of businesses. We believe the competitive landscape is highly fragmented with no single competitor offering similarly expansive capabilities and solution offerings in medication risk management. Our competitive advantage is largely based on our analytical capabilities, healthcare industry expertise, breadth and depth of services, intellectual property, the size and quality of our underlying datasets and benchmarks, ease of use, reputation, innovation, security, price, reliability and client service. Our primary competitive challenge is to demonstrate to our existing and potential clients the value of utilizing our platforms rather than developing or assembling their own alternative capabilities or utilizing providers who offer a subset of our services. However, we believe that the combination of our competitive strengths and successful culture of innovation, including our industry-leading analytics, the real-world-tested nature of our platforms and subject matter expertise of our associates, make it time and cost prohibitive for our clients or competitors to replace or replicate all that we offer without facing material risk.
+​
+Current industry players providing medication risk management service offerings include large and small healthcare data analytics and consulting companies, community and long-term care pharmacies, national pharmacy providers, health plans, genomic testing labs and healthcare information technology companies, among others. Many of our competitors' solutions are regulatory-driven, retrospective in nature and offer no intervention at the point of care. The services offered by these organizations may include e-prescribing and EHRs utilizing single drug-to-drug interaction analysis, lab-based genomic evaluation, basic risk stratification solutions and other prevailing approaches to medication therapy management. Many health plans attempt to address non-adherence through outreach efforts, which often require in-house or third-party consultants and have low success rates. Some healthcare information technology providers offer risk adjustment and pharmacy cost management services, but lack the comprehensive solutions we provide. Many 
+
+10
+
+
+
+
+genomic testing labs lack the ability to apply patient test results in a useful way at the point of care. Post-acute providers typically employ pharmacist consultants to review prescription regimens every 30 days, which is retrospective in nature and generally less effective in improving patient outcomes. Furthermore, typical prescription fulfillment models are reimbursed on a fee-for-service basis and are incentivized based on prescription dispensing volumes. Our clients partner with us in order to prospectively address adverse drug events, or ADEs, lower healthcare costs and improve overall health outcomes, which often involves utilizing our software to optimize prescription regimens.
+​
+While we believe that no competitor provides the breadth of our suite of solutions, we nevertheless compete with other companies’ specific products or solutions and markets or care settings. We expect that competition will continue to increase as a result of consolidation in both the information technology and healthcare industries. The anticipated growth in healthcare spending, the shift to value-based payment models, the rise of consumerism and changes in government regulation may draw increasing attention to healthcare data and analytics, and new competitors, such as management consultants, technology companies and start-ups may enter the market, and we may face increased competition from these sources.
+​
+Healthcare Regulatory Environment
+​
+We operate in a highly regulated industry and our business operations must comply with a number of complex and evolving federal and state agency requirements. While we believe we comply in all material respects with applicable healthcare laws and regulations, these laws can vary significantly from jurisdiction to jurisdiction, and the state and federal interpretation of existing laws and regulations, and their enforcement, may change from time to time. Additionally, a state or federal government enforcement body may disagree that we are in material compliance with applicable healthcare laws and regulations. Federal and state legislatures also may enact various legislative proposals that could materially impact certain aspects of our business.
+​
+A non-exhaustive list of federal and state statutes, regulations, sub-regulatory guidance and contractual provisions that may apply to our business activities include:
+​
+Healthcare Legislation
+​
+In 2010, Congress passed major health reform legislation, mostly through the Affordable Care Act (ACA). Generally, the ACA was designed to expand coverage for the uninsured while containing overall healthcare costs. Following passage, the U.S. government has issued numerous rules and regulations to implement the provisions of the Act. While not all of these rules, regulations, and reforms affect our business directly, many continue to affect the coverage and plan designs that are or will be provided by many of our clients.
+​
+The Trump Administration and the United States Congress, which now is divided with Democrats controlling the House and Republicans controlling the Senate, are considering a number of competing legislative and regulatory proposals which could, if passed into law, impact the healthcare system, the ACA, and/or the Medicare and Medicaid programs. Congress may take up legislation to reduce prescription drug costs, increase price transparency for consumers, restrict the sale of certain classes of drugs, and reform medication management practices, among others. While not all of the potential legislation, if enacted, would affect our business directly, many could impact some or many of our business arrangements directly or indirectly. In addition, regulatory agencies have separately proposed price transparency rules for hospitals and insurers which, while not impacting our business directly, could change the way we interact with these entities. Given that legislative and regulatory change is still being formulated, we cannot predict with any certainty the outcome of any future legislation or regulation.
+​
+A recent decision from the U.S. Court of Appeals for the Fifth Circuit, in Texas v. Azar, upheld the district court’s determination that the ACA’s “individual mandate” was unconstitutional. The action, brought by various state attorneys general, alleges the U.S. Congress invalidated the ACA when it zeroed out the tax-based shared responsibility payment, commonly known as the “individual mandate,” under the Tax Cuts and Jobs Act of 2017 (Pub. L. 115-97). The case was remanded back to the district court for further proceedings and has not invalidated the ACA in Texas or elsewhere in the nation. As such, we cannot predict with any certainty how future litigation in this matter could affect our business. The environment regarding the provisions of the ACA has somewhat stabilized, but specific outcomes are difficult to predict. The timeframe for conclusion and final outcome of this litigation is uncertain given the possibility of appeal to the U.S. Supreme Court. However, if Supreme Court declines to hear or upholds the unconstitutionality of the ACA, it could have a materially adverse effect on future business and operating results.
+
+11
+
+
+
+
+​
+On October 24, 2018, President Trump signed legislation into law aimed at curbing the opioid crisis in the U.S. The Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act (Pub. L. 115-271), or SUPPORT Act, includes provisions that address law enforcement, public health, and coverage under the Medicare and Medicaid programs. Broad in scope, the legislation increases federal oversight of the production and distribution of opioids, bolsters fraud prevention safeguards, enhances oversight of prescription opioids, expands coverage of opioid addiction treatment services, and authorizes consumer education and provider training programs aimed at preventing and treating opioid use disorders. 
+​
+Given the focus on addressing the opioid epidemic and the repeated call by the Administration to improve transparency in drug pricing and oversight, the legislative environment surrounding prescription drug is in flux. While not all legislative reforms affect our business directly, many continue to affect the coverage and plan designs that are or will be provided by many of our clients.
+​
+On October 10, 2018, two pieces of legislation were enacted to enhance drug price transparency. The Know the Lowest Price Act (Pub. L. 115-262) and the Patient Right to Know Drug Prices Act (Pub. L. 115-263) each prevent various parties from instituting “gag” orders or clauses against pharmacists and pharmacies, which heretofore may have prevented a pharmacist from disclosing the lowest available price of a drug to a consumer. These laws may have a financial impact on various stakeholders due to pressures to develop more competitive pricing. It is not clear how these changes might affect our business.
+​
+PACE Organizations
+​
+Our partnership with PACE organizations is a significant source of our current revenue stream. The PACE program is a unique, comprehensive managed care benefit for certain frail elderly individuals, most of whom are dually eligible for Medicare and Medicaid benefits, provided by a not-for-profit or public entity. The PACE program features a comprehensive medical and social service delivery system using an interdisciplinary team approach in an adult day health center that is supplemented by in-home and referral services in accordance with participants' needs. Financing for the program is capped, which allows providers to deliver all services participants need rather than only those reimbursable under Medicare and Medicaid fee-for-service plans. PACE is a program under Medicare, and states can elect to provide PACE services to Medicaid program beneficiaries as an optional Medicaid benefit. The PACE program becomes the sole source of Medicaid and Medicare benefits for PACE participants.
+​
+As PACE organization contractors, we are subject to numerous contractual obligations imposed by our partner organizations and to various audit and certification requirements.
+​
+HIPAA Healthcare Fraud Provisions
+​
+HIPAA also created additional federal criminal statutes regarding fraud. Specifically, the HIPAA healthcare fraud statute prohibits, among other things, knowingly and willfully executing or attempting to execute a scheme to defraud any healthcare benefit program, or to obtain by false or fraudulent pretenses any of the money or property owned by a healthcare benefit program, knowingly and willfully embezzling or stealing from a healthcare benefit program, and willfully obstructing a criminal investigation of a healthcare offense. The HIPAA healthcare fraud statutes also prohibit, among other things, concealing a material fact or making a materially false statement in connection with the delivery of or payment for healthcare benefits, items or services. The ACA amended the intent standard for certain healthcare fraud statutes under HIPAA, like the federal Anti-Kickback Statute, such that a person or entity no longer needs to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. Those found to have aided in a violation of these prohibitions are deemed by statute to have committed the offense and are punishable as a principal offender. More recently, the Bipartisan Budget Act of 2018 (H.R. 1892) enhanced the penalties associated with Anti-Kickback Statute violates.
+​
+State and Federal Data Privacy and Security Laws
+​
+We process, collect, use and disclose individual patient data for patients directly or for our clients and therefore, are subject to various laws protecting privacy and security of the patient information. Certain segments of our company qualify as a "Covered Entity" under HIPAA, and others qualify as a "Business Associate" to our partners who are Covered Entities and as such we are required to comply with HIPAA and the HITECH Act, as implemented through 
+
+12
+
+
+
+
+regulations promulgated thereunder by HHS, including the HIPAA Omnibus Final Rule, the HIPAA Privacy Rule and the HIPAA Security Rule. HIPAA generally requires Covered Entities and their Business Associates to adopt certain safeguards to ensure the privacy and security of protected health information, or PHI, and to limit uses and disclosures of such PHI to those permissible under the law. When Covered Entities utilize Business Associates to provide services, pursuant to which the Business Associate may access the Covered Entity's PHI, the parties must enter into a Business Associate Agreement through which the Business Associate must contractually agree to safeguard PHI in certain ways and to notify the Covered Entity of improper uses or disclosures of PHI.
+​
+Covered Entities and Business Associates are required to have written policies and procedures addressing HIPAA compliance and must designate a Security Officer to oversee the development and implementation of the policies and procedures related to the safeguards to protect privacy of electronic PHI. Covered Entities must also designate a Privacy Officer, although the Privacy Officer and the Security Officer may be the same person. As part of their security policies and procedures, Covered Entities and Business Associates are required to conduct periodic risk assessments to identify vulnerabilities to electronic PHI. Additionally, Covered Entities and Business Associates are required to train all employees on their HIPAA policies and procedures. Further, in the event of a breach of PHI as defined by HIPAA, Covered Entities must notify affected individuals, HHS and sometimes the media, and take steps to mitigate damage, and they may be subject to fines and penalties. HIPAA violations can result in significant civil monetary penalties and/or imprisonment for up to ten years depending on the facts surrounding the violation.
+​
+Many states also have similar data privacy and security laws that track federal requirements or impose different and/or more stringent conditions for use and disclosure of PHI. Failure to comply with these laws may also result in the imposition of significant civil and/or criminal penalties. The California Consumer Privacy Act of 2018, or the CCPA, imposes rules governing how businesses handle personal data of California residents. Companies that do business in California are, as of January 1, 2020, required to disclose the types of data they collect, the purpose for the data collection, how the data will be used, as well as expand organizational responsibilities pertaining to individual rights, accountability, and governance. Other states are considering legislation similar to the CCPA, which could expand our data protection obligations.
+​
+Federal and State Oversight of Medical Devices, Genomic Testing, Drugs, and Controlled Substances 
+​
+Some technologies and software applications used in connection with healthcare analytics and genomic testing and analysis are considered medical devices and are subject to regulation by the Food and Drug Administration, or the FDA. The 21st Century Cures Act (Pub. L. 114-255), enacted in December 2016, included certain changes to the Federal Food, Drug, and Cosmetic Act to exempt certain medical-related software from FDA regulation. In December 2017, FDA issued a draft guidance document describing FDA’s proposed interpretation of the exemption under the 21st Century Cures Act for clinical decision support, or CDS, software. FDA issued a revised draft of this clinical decision support software guidance document in September 2019. Although we believe that our technologies and software are not subject to active FDA regulation, there is a risk that the FDA could disagree. There is also a risk that FDA could final finalize its guidance for clinical decision support software in such a way that it excludes our software and technologies from the scope of the CDS software exemption under the 21st Century Cures Act. If the FDA determines that any of our current or future services, technologies or software applications are regulated by the FDA as medical devices, we would become subject to various statutes, regulations and policies enforced by the FDA and other governmental authorities, including both pre-market and post-market requirements, and we would need to bring the affected services, technologies, and/or software into compliance with such requirements. FDA could also require that we cease marketing and/or recall the affected services, technologies, and software unless and until we bring them into compliance with FDA’s requirements.
+​
+Clinical laboratories that perform human genomic testing are subject to oversight by CMS and state regulators.  The laboratories that we partner with for genomic testing must comply with the relevant federal and state laws and regulations applicable to clinical laboratories and genomic testing, including the Eliminating Kickbacks in Recovery Act of 2018 (EKRA).
+​
+The Drug Enforcement Administration, or DEA, the FDA, and state regulators, such as state boards of pharmacy, regulate drug and controlled substance packaging, repackaging, purchasing, handling, storage, distribution, security, and dispensing activities. Our prescription fulfillment pharmacies must comply with the applicable FDA, DEA, and state statutes, regulations, and policies. In addition, our prescription fulfillment pharmacies may be subject to periodic audits by state regulators, the DEA, and/or the FDA to assess our compliance with these requirements. 
+
+13
+
+
+
+
+​
+Noncompliance with applicable federal or state requirements, as described above, can result in an enforcement action that could substantially harm our business.
+​
+Anti-Kickback Laws
+​
+The federal Anti-Kickback Statute, or AKS, makes it unlawful for individuals or entities, among other things, to knowingly and willfully solicit, offer, receive or pay any kickback, bribe or other remuneration, directly or indirectly, overtly or covertly, in cash or in kind, in exchange for or to induce or reward the referral of an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under a federal healthcare program, or the purchase, lease or order, or arranging for or recommending purchasing, leasing or ordering, any good, facility, service or item for which payment may be made in whole or in part under a federal healthcare program. Penalties for violations include criminal penalties and civil sanctions such as fines, imprisonment and possible exclusion from federal healthcare programs. More recently, the Bipartisan Budget Act of 2018 (H.R. 1892) enhanced the penalties associated with Anti-Kickback Statute violates.
+​
+The federal AKS is an intent-based statute, but following amendment from the ACA, a person or entity no longer needs to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. Further, the failure of an arrangement to satisfy all elements of an AKS safe harbor will not necessarily make it illegal, but it may subject that arrangement to increased scrutiny by enforcement authorities. The federal AKS is applicable to us as operators of specialty pharmacies, contractors to health plans and providers, as well as contractors to various federal healthcare program payers. When our compensation arrangements implicate the AKS and/or state anti-kickback laws we evaluate whether we believe they fall within one of the safe harbors. If not, we consider the factors to identify the intent behind such arrangements and the relative risk of fraud and abuse. We also design business models that seek to reduce the risk that any such arrangements might be viewed as abusive and trigger AKS scrutiny or claims.
+​
+In addition to the federal AKS, many states have anti-kickback prohibitions that may apply to arrangements and claims involving healthcare items or services reimbursed by non-governmental third-party payers.
+​
+Federal and State Self-Referral Laws
+​
+The federal physician self-referral law, often referred to as the Stark Law, with limited exceptions, prohibits physicians from referring Medicare Program or Medicaid patients to an entity for the provision of certain designated health services, among them outpatient prescription medications, if the physician or a member of such physician's immediate family has a direct or indirect financial relationship (including an ownership or investment interest or a compensation arrangement) with the entity. The Stark Law also prohibits the entity from billing Medicare or Medicaid for such designated health services. A referral that does not fall within a statutory exception is strictly prohibited by the Stark Law. A violation of the Stark Law is punishable by civil sanctions, including overpayment liability, significant fines and exclusion from participation in Medicare and Medicaid Programs.
+​
+We evaluate when these physician (or immediate family member) financial arrangements are created to strive to ensure we do not enter into a prohibited financial relationship and design structures that satisfy exceptions under the Stark Law.
+​
+Our business may implicate federal and state physician self-referral laws to the extent our pharmacy, a designated health services entity, has financial arrangements in the form of ownership, investment or compensation with referring physicians or a referring physician's immediate family member. No physician has an ownership or investment interest in our business, but our pharmacy may have compensation arrangements with physicians who serve on its Clinical Advisory Panel and who order designated health services for patients enrolled in a PACE program. If any such compensation arrangements exist, we believe such compensation arrangements fall within an exception to the physician self-referral prohibition.
+​
+A number of states have statutes and regulations that prohibit the same general types of conduct as those prohibited by the Stark Law, but some have even broader application, extending beyond Medicare and Medicaid Programs and including commercial and self-payers.
+​
+
+14
+
+
+
+
+Federal and State False Claims Acts
+​
+The federal false claims and civil monetary penalties laws, including the civil False Claims Act, impose criminal and civil liability on individuals and entities that, among other things, knowingly submit, or cause to be submitted, false or fraudulent claims for payment to the federal government or knowingly make, or cause to be made, a false statement in order to have a false claim paid. The civil False Claims Act provides for treble damages and mandatory and significant minimum penalties per false claim or statement ($10,781.40 to $21,562.80 per false claim). The qui tam or whistleblower provisions of the civil False Claims Act permit a private individual to bring actions on behalf of the federal government alleging that the defendant has submitted a false claim to the federal government, and to share in any monetary recovery. Our future activities relating to the manner in which we sell and market our services may be subject to scrutiny under these laws. False Claims Act qui tam lawsuits in healthcare are common, although the government often declines to pursue such actions following investigation. Analogous state false claims laws also may apply to our sales or marketing arrangements and claims involving healthcare items or services reimbursed by non-governmental third party payers.
+​
+Other State Laws
+​
+The vast majority, if not all states have laws regulating licensure, registration and certification of pharmacies, pharmacists, pharmacy technicians and other pharmacy personnel. We are licensed in all states that require such licensure in which we do business and believe that we substantially comply with all state licensing laws applicable to our business. Where required by law, we also have pharmacists licensed in all states in which we dispense. If we violate state pharmacy licensure laws or engage in conduct prohibited under our license, we could be subject to enforcement action, including but not limited to suspension or loss of such pharmacy license
+​
+The DEA, as well as some similar state agencies, requires our pharmacy locations to individually register in order to handle controlled substances, including prescription pharmaceuticals. Federal and various state laws also regulate specific labeling, reporting and record-keeping aspects related to controlled substances. We maintain DEA registrations for each of our facilities that require such registration and follow procedures intended to comply with all applicable federal and state requirements regarding dispensing controlled substances.
+​
+Employees
+​
+As of December 31, 2019, we had 1,286 employees. None of our employees are represented by labor unions or subject to collective bargaining agreements and substantially all of our employees currently work in the United States. We consider our employee relations to be good.
+​
+Corporate Information
+​
+We were incorporated in Delaware in May 2014. We completed our initial public offering in October 2016 and our common stock is listed on The Nasdaq Global Market under the symbol “TRHC.” Our principal executive offices are located at 228 Strawbridge Drive, Suite 100, Moorestown, NJ 08057, and our telephone number is (866) 648-2767. 
+​
+Information about Segment and Geographic Revenue
+​
+We manage our operations and allocate resources as a single reportable segment. Substantially all of our revenue is recognized in the United States and substantially all of our assets are located in the United States.
+​
+Available Information
+​
+We file our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to those reports with the SEC. You may obtain copies of these documents by accessing the SEC's website at www.sec.gov. In addition, as soon as reasonably practicable after such materials are furnished to the SEC, we make copies of these documents available to the public free of charge through our website. Our website address is www.trhc.com. 
+​
+
+15
+
+
+
+
+The contents of the websites referred to herein are not incorporated into this filing. Further, our references to the URLs for these websites are intended to be inactive textual references only.
+Financial Information
+ For required financial information related to our operations, please refer to our consolidated financial statements, including the notes thereto, included with this Annual Report on Form 10-K. 
+​

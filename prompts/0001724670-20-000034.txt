@@ -1,0 +1,239 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Our Company
+Perspecta is a leading provider of end-to-end enterprise information technology (“IT”), mission, and operations-related services across the United States (“U.S.”) federal government as well as to certain state and local government agencies.
+Perspecta provides government customers with highly differentiated offerings and capabilities, offering compelling scale, a promising financial profile, an extensive intellectual property portfolio, and unparalleled knowledge in areas that are directly aligned with government priorities. Perspecta has evolved from some of the most iconic firms in government services market with a proud legacy of service to customers for more than 50 years.
+On May 31, 2018, Perspecta Inc. became an independent company through the consummation of the spin-off of the DXC U.S. Public Sector (“USPS”) business (the “Spin-Off”), and mergers with Vencore HC and KGS HC (the “Mergers”). To effect the Spin-Off, DXC distributed all of the shares of Perspecta common stock on a pro rata basis to the record holders of DXC common stock (the “Distribution”). On June 1, 2018, Perspecta began trading on the New York Stock Exchange under the ticker symbol “PRSP.”
+On July 31, 2019, Perspecta acquired all of the equity interests of Knight Point Systems, LLC (“Knight Point”). Knight Point delivers end-to-end managed services and solutions focused on modernizing IT systems, protecting critical networks and driving digital transformation to improve customer transparency and operational efficiency. Knight Point leverages a portfolio of intellectual property to solve complex customer challenges in cloud, cybersecurity and agile development and operations (“DevOps”) environments.
+Our Offerings
+With offerings in mission services, digital transformation and enterprise operations, our team of nearly 14,000 engineers, analysts, investigators and architects create repeatable, differentiated solutions aligned to our customers' goals. Our end-to-end portfolio of service offerings and solutions are supported by a strong engine of innovation in Perspecta Labs Inc. (“Perspecta Labs”), and a broad partner network. Our ten offering families consist of:
+
+• | Application services. We develop, modernize, transform and manage customers’ enterprise application portfolios enabling a shift of IT spend from maintenance and operations to innovation. Our customers experience accelerated time-to-mission benefits by applying agile DevOps frameworks, accelerators, and other reusable components.
+
+
+• | Analytics and data services. We offer an analytic services portfolio and robust partner ecosystem which enables our customers to gain rapid insights that accelerate their digital transformation journey and to make critical decisions to enable business and mission outcomes defensible with data-driven analysis.
+
+3
+
+
+• | Applied research. We deliver research, engineering, consulting and technology solutions that drive market innovation. Primary research areas include cybersecurity, cloud, quantum computing, network configuration and data analytics capabilities.
+
+
+• | Cybersecurity. We bring transformative cyber expertise and mission-enabled solutions to the forefront of operations. Our security solutions predict attacks, proactively respond to threats, ensure compliance and protect data, applications, infrastructure and endpoints.
+
+
+• | Cloud computing and infrastructure services. We help customers maximize their private cloud, public cloud and legacy infrastructure, in order to transform, optimize, and secure their hybrid environments.
+
+
+• | Digital strategy and transformation. We accelerate customers’ digital transformation and business results through innovative approaches to transforming legacy technologies, processes and applications.
+
+
+• | Digital workplace. We provide a user-focused digital workplace environment to enable government organizations to accomplish their missions with secure devices, productivity and collaboration tools, and workplace support.
+
+
+• | Integrated Solutions. Our industry-specific solutions enable organizations to quickly integrate technology, transform their operations and develop new ways of doing business.
+
+
+• | Investigative services. We provide identification and authentication validation to government organizations through investigative and risk mitigation services. We also help the government identify and eliminate fraud, waste, and abuse through integrated data analysis, medical claims review, and investigation services.
+
+
+• | Systems engineering and integration. We help customers design, manage and integrate complex systems throughout the project life cycle to ensure enterprises are successful, affordable and reliable.
+
+Long Standing Relationships with Industry and Customers
+We support the toughest problems throughout the U.S. public sector such as protecting networks from cyber threats, enabling a trusted workforce to handle sensitive information, delivering student financial aid, and ensuring the integrity of government health care payments. Using our market-leading enterprise offerings and solutions, we help our government customers implement modern collaborative workplaces, hybrid cloud platforms and integrated digital systems of engagement with their enterprise management systems. By delivering these modern enterprise solutions, often while ensuring interoperability with mission critical legacy systems, we help our government customers better realize the benefits of technology, which will ultimately enable them to fulfill their mission objectives and achieve business outcomes.
+We believe that our sophisticated solutions and proprietary processes and tools, developed over decades-long support of our customers’ missions, promote our longstanding relationships with our customers, some of which span over 50 years.
+We categorize our customers into two reporting segments that engage in business activities from which revenue is recognized and expenses are incurred, and for which discrete financial information is available. These operating results are regularly reviewed by our chief operating decision maker, who is our Chief Executive Officer (“CEO”). Our reportable segments are:
+
+• | Defense and Intelligence, which provides services to the Department of Defense (“DoD”), intelligence community, branches of the U.S. Armed Forces, and other DoD agencies; and
+
+
+• | Civilian and Health Care, which provides services to the Department of Homeland Security (“DHS”), Department of Justice (“DOJ”), Department of Health and Human Services (“HHS”), as well as other federal civilian and state and local government agencies.
+
+In fiscal year 2020, 94% of our $4.50 billion in revenue was from the U.S. federal government, and we serve as the prime contractor on 94% of our contracts, as measured by annual revenue. Although rarely exercised, a significant portion of each segment’s contracts are subject to termination at the election of the government.
+Defense and Intelligence Segment
+We provide a broad array of services for our Defense and Intelligence customers, including enterprise IT for massive DoD networks, model-based systems engineering and integration to support classified missions, applied research and development for defense and intelligence laboratories, and investigative support for personal security clearances. Example customer engagements include:
+
+• | U.S. Navy. We provide the U.S. Navy with innovative solutions to secure its intranet, the largest in the world, by implementing a broad range of integrated security solutions to improve depth and secure posture, and network security and authentication for secure network access across all devices. Through our multifaceted security
+
+4
+
+solution, the U.S. Navy’s intranet successfully detects over 300 million threats and prevents over 2.5 billion unauthorized intrusion attempts per year.
+
+• | Defense Information Systems Agency (“DISA”). We partnered with DISA to transform key applications and services to drive efficiencies, improve security and capture costs savings. Through the integration of our offerings, DISA is able to provide integrated, interoperable and assured infrastructure capabilities, applications and services to its users across the software development lifecycle, engineering and technical support.
+
+
+• | U.S. federal government. We are partnering with a client in the U.S. federal government to develop a DevOps environment, providing IT and engineering services for software residing on the government’s secure version of Amazon Web Services (“AWS”). The program scope includes identifying, prioritizing, integrating, and testing new and modified software and components to satisfy the architectural vision of the enterprise of the software services platform. Through the contract, our government client has enjoyed an exponential growth in the user base and the number of software services offerings to the enterprise community, and as a result, realized savings in project schedules and cost across many contracts within the enterprise.
+
+Revenue generated from Defense and Intelligence segment customers was $3.10 billion, or approximately 69% of our revenue in fiscal year 2020 as compared to $2.59 billion, or approximately 64% of our revenue in fiscal year 2019. Our key Defense and Intelligence customers include the U.S. Army, U.S. Navy, U.S. Marine Corps, U.S. Air Force, and the Joint Combatant Commands. In fiscal year 2020, customers that generated more than 10% of Defense and Intelligence segment revenue include the U.S. Navy, the National Reconnaissance Office and the Defense Counterintelligence and Security Agency. 
+Civilian and Health Care Segment
+Our work spans the full breadth of civilian and health care agencies across the U.S. federal government as well as selected state and local governments, including homeland security, financial services, law enforcement, education, and enterprise IT. Example customer engagements include:
+
+• | Centers for Medicare and Medicaid Services (“CMS”). As a result of the implementation of the Affordable Care Act, uninsured Americans were able to purchase health insurance through the Federal Health Insurance Marketplace (healthcare.gov), which we helped CMS and the U.S. government develop. More than 18 million people used the healthcare.gov website from November 1 to December 15, 2017, including 700,000 users on the Spanish-language website. Despite the high usage, website reliability and security were never compromised.
+
+
+• | County of San Diego. To help San Diego County probation officers more efficiently manage their caseloads, we developed the Probation Utility and Mobile Applications, which has provided on-demand access to cases and the ability to enter contact notes in the field. We rationalized and modernized hundreds of applications in a heterogeneous applications infrastructure across a distributed management structure, transforming the applications environment to enable the county to achieve its IT vision of “anytime, anywhere” service.
+
+Revenue generated from Civilian and Health Care segment customers was $1.40 billion, or approximately 31% of our revenue in fiscal year 2020 as compared to $1.44 billion, or approximately 36% of our revenue in fiscal year 2019. In fiscal year 2020, CMS, DHS and the County of San Diego each generated more than 10% of Civilian and Health Care segment revenue.
+Business Environment and Competitive Landscape
+Market Dynamics
+We believe the future of the U.S. public sector is sustained change enabled by new technologies, increased prioritization of research and development and the demand for empowered citizens and employees. Organizations are expected to deliver services that range from simple and flexible citizen-focused solutions that support their daily interactions with state and federal agencies, to complex, enterprise systems and mission solutions that aid in supporting our country’s critical defense and intelligence needs. Organizations must be able to offer advanced research and development initiatives that target evolving technologies and expand the U.S.’ lead in myriad essential capabilities such as cybersecurity and artificial intelligence.
+To adapt to these changing needs, government agencies are developing an ecosystem of partners and value-added service providers who can collaborate with industry on new technologies, and creating connected environments through 
+5
+
+digital platforms. They are also overhauling processes through digital transformation and gaining control over their vast IT estate to become more effective and efficient in supporting programs.
+At the center of this shift is a rapid migration from government-owned and developed custom IT systems, to standardized, service-delivered platforms and utilities. In this environment, we believe a limited number of key digital platforms will become dominant, such as Microsoft Azure, Office 365 and Microsoft Dynamics, AWS and ServiceNow, Inc. (“ServiceNow”).
+Competitive Landscape
+Our market for providing services and solutions to the U.S. public sector is highly competitive and fragmented, favoring companies with innovative capabilities, deep domain expertise, proven delivery and competitive cost structures. The competitive landscape continues to evolve, as many of our competitors are leveraging mergers and acquisitions to create additional scale, add capabilities or gain access to new customers. Simultaneously, we are seeing increased pressure for many customers to utilize small businesses. Despite these challenges, we believe we are well suited to compete given our deep customer insight and the breadth of our enterprise IT and mission-support. Given that we provide services across the U.S. public sector marketplace, we regularly compete and partner with a broad array of companies including:
+
+• | Pure-play U.S. government service providers that are highly specialized firms with exceptional mission knowledge, customer intimacy or specific intellectual property (“IP”) that can make them major competitors in the markets that they serve. Some of our competitors in this category include Leidos Holdings, Inc., Booz Allen Hamilton Inc., CACI International Inc., Science Applications International Corporation and ManTech International Corporation.
+
+
+• | IT and professional services arms of large aerospace and defense contractors that are capable of competing across our entire market, possessing the reputation and ability to compete on large deals with any U.S. government agency and the financial strength to manage and execute large-scale programs. Some of the large defense contractors we regularly compete with include Lockheed Martin Corporation, Northrop Grumman Corporation, General Dynamics, Raytheon Company, and The Boeing Company.
+
+
+• | Diversified commercial consulting, technology and outsourcing service providers that are successful with commercial customers, and leverage those commercial qualifications and references to compete broadly across the public sector market. Some of our competitors in this category include subsidiaries of International Business Machines Corporation, Deloitte LLP, AT&T Inc., Verizon Communications Inc., Dell Inc., Accenture plc, NTT Data Corp, and CGI Group Inc.
+
+
+• | Small businesses that generally provide services to the U.S. government pursuant to requirements and socioeconomic incentive programs designed to create entrepreneurial opportunities for small business owners. These can include businesses identified to receive a “fair proportion” of government contracts through the Small Business Act such as small disadvantaged businesses, woman owned small businesses, HUBZone businesses and service disabled veteran owned small businesses.
+
+
+• | Commercial IT vendors have recently emerged as players in the U.S. government market. These vendors include AWS, Microsoft Azure, Google Inc., Salesforce.com, Inc., ServiceNow and other cloud providers. We typically do not compete directly with these firms. Rather, we often compete with other systems integrators that leverage these vendors as a core part of their solution on a specific business opportunity.
+
+Our ability to compete successfully in the market is predicated on the combination of deep customer relationships, innovative technical capabilities, a highly skilled workforce and the relentless commitment to solving our customers’ most pressing mission challenges.
+Employees
+As a service company providing enterprise solutions, our employees are our most valuable and important asset. As of March 31, 2020, we had nearly 14,000 full-time and part-time employees led by an experienced team of senior executives with a long history of supporting the U.S. public sector. 
+Approximately 19% of our employees are military veterans. Approximately 75% of our employees hold some form of security clearance or background investigation certification. Approximately 25% of our employees hold Top Secret and/or Sensitive Compartmented Information level clearance, which typically requires the completion of a polygraph.
+6
+
+Intellectual Property
+Our services and solutions are not generally dependent upon patent protection, although we anticipate we will selectively seek certain patent protections, and we own or hold licenses under more than 270 patents and patent applications. Our largely proprietary IP portfolio, comprising products, technical services, consulting, methodologies, and know-how, are protected using non-disclosure agreements and contractual arrangements, as well as one or more of the following: trade secret, patent, copyright or trademark protections.
+For our work under U.S. federal government funded contracts and subcontracts, the U.S. federal government obtains certain rights to data, software and related information developed under such contracts or subcontracts. These rights may allow the U.S. federal government to disclose such data, software and related information to third parties.
+Intellectual Property Arrangements with DXC
+Pursuant to the Separation and Distribution Agreement (the “SDA”) and the Intellectual Property Matters Agreement (“IPMA”) entered into between us and DXC on May 31, 2018, DXC retained ownership of substantially all proprietary IP owned by DXC and USPS at the time of the Distribution and used by us. Pursuant to the IPMA, DXC grants us a perpetual, royalty-free, non-assignable license to certain know-how owned by DXC that we used to run our business prior to the Spin-Off. In addition, DXC grants us a perpetual, royalty-free, non-assignable license to certain software used in the conduct of the Perspecta business (including binaries, APIs, libraries, scripts, patches, configuration files, examples and documentation). Upon termination or expiration of the IPMA, we will only be entitled to access and use the then-current versions of the licensed products in our possession. The foregoing licenses granted to us will be restricted to use solely in connection with U.S. government and certain state and local government customers, and will be exclusive with respect to the federal government market for a period of five years, and non-exclusive with respect to certain U.S. state and local government customers. In addition, any improvements we make to such IP or derivative works of such IP that we develop during the five-year term of the agreement will be assigned to DXC and licensed back to us subject to the same limitations on use. Any additional rights to use other DXC products, improvements or proprietary rights will be negotiated by the parties in good faith on commercially reasonable arm’s-length terms.
+Pursuant to the IPMA, we grant to DXC a perpetual, royalty-free, transferrable, assignable license to know-how owned by us as of the Spin-Off. Further, we grant to DXC a perpetual, royalty-free, fully paid-up, non-assignable license to any IP acquired or developed by us within six months following the Spin-Off (other than IP rights acquired from Vencore HC or KGS HC). During the first five years following the Distribution, the foregoing licenses granted by us will be restricted to use solely in connection with private sector customers on an exclusive basis and certain U.S. state and local government customers on a non-exclusive basis.
+In addition to the foregoing licenses, we grant DXC a non-transferrable, non-assignable license for the five years following the Distribution to access, use, copy, make improvements and sublicense certain IP we obtained from our acquisition of Vencore HC or KGS HC. The foregoing license is exclusive with respect to DXC’s private sector business and non-exclusive for all other fields. Such license is royalty-free to the extent DXC does not commercially exploit the IP of Vencore HC or KGS HC, and will otherwise be subject to a commercially reasonable royalty, to be negotiated in good faith, for commercial exploitation. Further, we agreed to negotiate in good faith the terms and conditions of a license or services agreement relating to or permitting use by DXC of Perspecta Labs as acquired from Vencore HC and our existing security and digital protection service offerings, in each case on commercially reasonable arm’s-length terms in DXC’s private sector field. Further, during the five years following the Distribution, DXC will have the first right to participate in the event Perspecta Labs wishes to pursue research and development which has potential applicability in the DXC private sector field. Perspecta Labs must notify DXC of such opportunities and DXC has the right to elect to enter a collaborative development and commercialization effort with Perspecta Labs.
+All licenses granted to us by DXC will not extend to any acquiring party of our business, and will be limited to the Perspecta entities that are subsidiaries prior to such acquisition. If either we or DXC divest any portion of our businesses or acquire a new business, the licenses granted under the IPMA may follow such divested business or extend to such newly acquired business, provided the licensed party adheres to all restrictions on the relevant license, notably the relevant licensed fields of each party.
+DXC will indemnify Perspecta from all losses incurred by Perspecta as a direct result of any third-party claim that Perspecta’s use of any improvements to the products licensed by DXC under the IPMA infringes or misappropriates any U.S. copyright, trademark or trade secret, except to the extent resulting from Perspecta’s modification, adaptation, failure 
+7
+
+to update, or third-party components. Perspecta will indemnify DXC from all losses incurred by DXC as a direct result of any third-party claim relating to Perspecta’s use of the products licensed by DXC, or arising from DXC’s use of Perspecta’s improvements to the licensed products, except to the extent resulting from DXC’s modification, adaptation, failure to update, or third-party components.
+Regulatory Matters
+As a U.S. government contractor, Perspecta’s business is heavily regulated and, as a result, our need for compliance awareness and business and employee support is significant. Specifically, Perspecta’s industry is governed by various laws and regulations, including but not limited to laws and regulations relating to: the formation, administration, and performance of contracts; the security and control of information and information systems; international trade compliance; human trafficking; and the mandatory disclosure of “credible evidence” of a violation of certain criminal laws receipt of significant overpayments, or violations of the civil False Claims Act. In addition, U.S. government contractors are generally subject to other federal and state laws and regulations, including:
+
+• | the Federal Acquisition Regulation (“FAR”), agency supplements to the FAR, and related regulations, which regulate the formation, administration, and performance of U.S. federal government contracts;
+
+
+• | the False Claims Act, which allows the government and whistleblowers filing on behalf of the government to pursue treble damages, civil penalties and sanctions for the provision of false or fraudulent claims to the U.S. federal government.
+
+
+• | the Truth in Negotiations Act, which requires certification and disclosure of cost and pricing data in connection with the negotiation of certain contracts, modifications, or task orders;
+
+
+• | the Procurement Integrity Act, which regulates access to competitor bid and proposal information, as well as certain internal government procurement sensitive information, and regulates our ability to provide compensation to certain former government procurement officials;
+
+
+• | laws and regulations restricting the ability of employees of the U.S. government to accept gifts or gratuities from a contractor;
+
+
+• | post-government employment laws and regulations, which restrict the ability of a contractor to recruit and hire current employees of the U.S. government and deploy former employees of the U.S. government;
+
+
+• | laws, regulations, and executive orders requiring the safeguarding of and restricting the use and dissemination of information classified for national security purposes or determined to be “controlled unclassified information,” “covered defense information,” or “for official use only”;
+
+
+• | laws and regulations relating to the export of certain products, services, and technical data, including requirements regarding any applicable licensing of our employees involved in such work;
+
+
+• | laws, regulations, and executive orders regulating the handling, use, and dissemination of personally identifiable information in the course of performing a U.S. government contract;
+
+
+• | laws, regulations, and executive orders governing organizational conflicts of interest that may prevent us from bidding for or restrict our ability to compete for certain U.S. government contracts because of the work that we currently perform for the U.S. government;
+
+
+• | laws, regulations, and executive orders that mandate compliance with requirements to protect the government from risks related to our supply chain;
+
+
+• | laws, regulations, and mandatory contract provisions providing protections to employees or subcontractors seeking to report alleged fraud, waste, and abuse related to a government contract;
+
+
+• | the DoD’s “Contractor Business Systems Rule,” which authorizes DoD agencies to withhold a portion of our payments if we are determined to have a significant deficiency in any of our accounting, cost estimating, purchasing, earned value management, material management and accounting, or property management systems; and
+
+
+• | the Cost Accounting Standards and the Cost Principles, which impose accounting requirements that govern our right to reimbursement under certain cost-based U.S. government contracts and require consistency of accounting practices over time.
+
+We are also subject to oversight by the U.S. Office of Federal Contract Compliance Programs (“OFCCP”) for federal contract and affirmative action compliance, including the following areas:
+
+• | affirmative action plans;
+
+
+• | applicant tracking;
+
+
+• | compliance training;
+
+
+• | customized affirmative action databases and forms;
+
+8
+
+
+• | glass ceiling and compensation audits;
+
+
+• | desk and on-site audits;
+
+
+• | conciliation agreements;
+
+
+• | disability accessibility for applicants and employees;
+
+
+• | diversity initiatives;
+
+
+• | equal employment opportunity compliance;
+
+
+• | employment eligibility verification (known as “E-Verify”);
+
+
+• | internal affirmative action audits;
+
+
+• | internet recruiting and hiring processes;
+
+
+• | OFCCP administrative enforcement actions;
+
+
+• | record-keeping requirements; and
+
+
+• | Sarbanes-Oxley Act of 2002 compliance.
+
+The U.S. federal government routinely revises its procurement practices and adopts new contract statutes, rules and regulations. In order to anticipate compliance with changes to laws and regulations, we participate in industry-wide associations that represent the industry perspectives on proposed regulations to the government, monitor proposed regulatory changes to adapt our policies and processes to accommodate the changes when they become effective, maintain compliance staff in our corporate departments, and conduct awareness and training for affected employees, such as our contracts staff and government compliance team.
+The U.S. federal government has a broad range of tools available to enforce its procurement law and policies. These include debarring or suspending a particular contractor, certain of its operations and/ or individual employees from future government business. Individuals, on behalf of the federal government, may also bring qui tam suits against us for any alleged fraud related to payments under a U.S. federal government contract or program.
+Seasonality
+The U.S. federal government’s fiscal year ends on September 30th of each year. It is not uncommon for U.S. federal government agencies to award extra tasks or complete other contract actions in the weeks before the end of its fiscal year in order to avoid the loss of unexpended fiscal year funds. We have historically experienced increased bid and proposal costs in the months leading up to the U.S. federal government’s fiscal year end as we pursue new contract opportunities shortly before the U.S. federal government fiscal year end. We also experience some seasonality effects from the timing of the fiscal year end close for state and local governments, which in many instances are different than the U.S. federal government fiscal year end. In general, we tend to experience an increase in revenue in our first and fourth fiscal quarters from our state and local government customers as the first half of the calendar year is when funds are generally allocated to specific projects. Finally, we also tend to generate less revenue and profit from our labor services during our third fiscal quarter as a result of higher leave-taking during the holiday season.
+Available Information
+We use our corporate website, https://perspecta.com, as a routine channel for distribution of important information, including detailed company information, financial news, Securities and Exchange Commission (“SEC”) filings, Annual Reports, historical stock information and links to webcasts. Perspecta’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, all amendments to those reports, and the Proxy Statements for our Annual Meetings of Shareholders will be made available, free of charge, on our corporate website as soon as reasonably practicable after such reports have been filed with or furnished to the SEC.
+Our corporate governance guidelines, Board of Directors’ committee charters (including the charters of the Audit Committee, Human Resources and Compensation Committee and Nominating/Corporate Governance Committee) and code of business conduct and ethics entitled “The Standard” are also available on our website. The information on our website is not incorporated by reference into, and is not a part of, this Annual Report on Form 10-K. The SEC maintains a website (https://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.
+9
+
+Information About Our Executive Officers
+The following table presents information concerning the individuals who serve as our executive officers, and their titles, including a brief summary of the business experience of each of them.
+
+Name | Age | Year First Appointed as Officer | Position Held With the Registrant as of the Filing Date 
+Mr. John M. Curtis | 63 | 2018 | President, Chief Executive Officer and Director 
+Mr. John P. Kavanaugh | 58 | 2018 | Senior Vice President and Chief Financial Officer 
+Mr. James L. Gallagher | 53 | 2018 | Senior Vice President, General Counsel and Secretary 
+Ms. Tammy M. Heller | 47 | 2018 | Senior Vice President and Chief Human Resources Officer 
+Mr. William G. Luebke | 53 | 2018 | Senior Vice President, Principal Accounting Officer and Controller
+
+John M. Curtis has served as our President, Chief Executive Officer and as a Director on our Board of Directors since May 2018. From July 2013 until the completion of the Spin-Off and Mergers, Mr. Curtis was the President and Chief Executive Officer of Vencore, Inc., a private defense contractor.
+John P. Kavanaugh has served as our Senior Vice President and Chief Financial Officer since May 2018. Mr. Kavanaugh was previously the Vice President of Finance for the Americas Region of DXC, a multinational information technology services provider, since April 2017. Mr. Kavanaugh previously served as the Vice President of Finance for the Americas Region of Computer Sciences Corporation (“CSC”), a multinational information technology services and professional services provider, from January 2015 to April 2017.
+James L. Gallagher has served as our Senior Vice President, General Counsel and Secretary since May 2018. Mr. Gallagher was previously the Vice President and Deputy General Counsel for the USPS Region of DXC since April 2017. From November 2015 to March 2017, Mr. Gallagher served as Vice President and Associate General Counsel for the U.S. Public Sector business at HPE, a multinational enterprise information technology company, and held that same role at Hewlett-Packard Company, a multinational information technology company, from 2013 to October 2017.
+Tammy M. Heller has served as our Senior Vice President and Chief Human Resources Officer since May 2018. From 2014 to March 2018, Ms. Heller was the Vice President of Global Human Resources at CGI Group Inc., a global IT consulting, systems integration, outsourcing, and solutions company.
+William G. Luebke has served as our Senior Vice President, Principal Accounting Officer and Controller since May 2018. Mr. Luebke served from December 2015 to March 2018 as Vice President, Controller and Principal Accounting Officer of CSRA Inc., an information technology services government contractor. Mr. Luebke previously served as Head of Global Internal Audit and Enterprise Risk Management at CSC from August 2013 to November 2015.

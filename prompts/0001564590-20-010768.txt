@@ -1,0 +1,171 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+--------+---------
+
+Overview
+ CTG was incorporated in Buffalo, New York on March 11, 1966, and its corporate headquarters are located at 800 Delaware Avenue, Buffalo, New York 14209 (716-882-8000). CTG is an information and technology solutions company with operations in North America, Western Europe, and India. CTG’s 2019 employees and billable subcontractors total approximately 3,950 people worldwide. During 2019, the Company had ten operating subsidiaries: Computer Task Group of Canada, Inc., providing services in Canada; Computer Task Group Belgium N.V., CTG ITS S.A., Computer Task Group IT Solutions, S.A., Computer Task Group Luxembourg PSF S.A., Computer Task Group (U.K.) Limited, CTG Health Solutions N.V., Soft Company SAS (“Soft Company”), and Tech-IT PSF S.A. (“Tech-IT”), each primarily providing services in Europe; and Computer Task Information Technology Private Services Limited, providing services in India. The parent corporation, CTG, Inc., primarily performs services in North America.
+ The Company primarily operates in one industry segment, providing information and technology services to its clients. These services include information and technology-related solutions, including supplemental staffing as a solution. With solution services, we generally take responsibility for the deliverables and some level of project and staff management, and services may include high-end advisory or business-related consulting. When providing staffing services, including managed staffing, staff augmentation, and volume staffing, we typically supply personnel to our clients who then, in turn, take their direction from the clients’ managers. 
+ 
+Services
+ CTG provides a range of innovative solutions across industries that address our clients’ most pressing information, technology, and business challenges. The Company’s consultants make technology work for its clients and deliver real business value. CTG primarily serves the following industries: healthcare and life sciences, manufacturing, energy, financial services, government, technology, and telecommunications. The services provided typically encompass the IT 
+ 3
+
+business solution life cycle, including phases for planning, developing, implementing, managing, and ultimately maintaining the IT solution. A typical client is an organization with large, complex information and data processing requirements.
+ CTG’s flexible offerings can be delivered using one or more of four delivery approaches, allowing the Company to meet each client’s unique needs. The following describes the typical services provided via each delivery approach:
+  
+• | Strategy: CTG’s strategic consulting engagements deliver customized recommendations and plans that address business and IT challenges and maximize benefit realization. Consultants apply business, information, and technology insights to guide clients through business challenges via effective use of technology, from IT strategy and system selection, to workflow process design.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Solutions: CTG’s information and technology solutions include engagements with a fixed duration and deliverables that achieve value-based outcomes. These solutions include the implementation, maintenance, and optimization of software applications, the development and deployment of customized software and solutions designed to fit the needs of a specific client or market, comprehensive testing solutions that help CTG’s clients assess, develop, improve, implement, and automate testing programs, and the design and distribution of complex technology components.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Services: CTG’s services deliver ongoing support with service-level responsibility for a range of IT functions to ensure system availability and high client satisfaction. CTG provides multi-tier expertise for the management of mission-critical enterprise IT functions, including help/service desk; infrastructure maintenance; application management, support and testing; and, technical and business monitoring.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Staffing: CTG’s staffing services address a range of information and technology resource needs, from filling specific talent gaps to managing high-volume staffing programs. CTG recruits, retains, and manages IT talent for its clients, which are primarily large technology service providers and other companies with multiple locations and a significant need for high-volume professional IT resources.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ IT solutions and IT and other staffing revenue as a percentage of consolidated revenue for the three years ended December 31, 2019, 2018, and 2017 is as follows:
+ 
+ 
+ | 2019 | | | 2018 | | 2017
+----------------------+------+-----+---+------+-----+-----
+IT solutions | | 36 | % | | 31 | % | 30 | %
+IT and other staffing | | 64 | % | | 69 | % | 70 | %
+Total | | 100 | % | | 100 | % | 100 | %
+
+Capabilities
+ CTG’s range of global offerings span six service areas that, collectively, address many of its clients’ most pressing information, technology, and business challenges. CTG’s capabilities ensure that its clients are utilizing the right information technology to meet their business needs, maximizing the value from their IT systems, and operating in the most efficient and effective manner. All offerings are supported by proven program and project management processes, tools, and industry-best practices that ensure the reliability, transparency, and accountability that the Company’s clients have come to expect.
+ CTG provides solutions in the following areas:
+  
+• | Business Solutions and Consulting: Helps CTG’s clients gain a sustainable advantage by providing comprehensive solutions that combine strategic advisory services, technical expertise, industry-specific knowledge, and the ability to implement recommendations. Services include strategy, assessments, and business requirements; benefits realization; performance improvement; and customized technology solutions.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Application Solutions: Provides clients with a full range of offerings designed to maximize enterprise software and application investment value, efficiency, and effectiveness in support of each client’s unique strategic objectives. Services include development; performance management; deployment, implementation, and integration; upgrades and optimization; hosting, support, and management; and, application support and service desk.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Testing: Ensures new and legacy technologies are rigorously verified to meet business requirements, industry standards, and government regulations. CTG delivers full testing programs for clients or can help clients with individual service offerings, including testing advisory consulting; performance testing; test methodology and process; test automation; test tool implementation; and test training and certifications.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 4
+
+ 
+• | Information Management: Designed to support today’s intelligence and connected enterprise and provide CTG’s clients with the ability to better manage, and derive greater value from, data with services that include business process; data management; collaboration and document control; analytics and visualization; and solutions designed to address the regulatory compliance requirements of some of the industries and markets that CTG serves, such as good practice quality guidelines and regulations (GxP), General Data Protection Regulation (GDPR), and the lawful disclosure of data and information to law enforcement agencies from telecommunication providers.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Infrastructure, Operations, and Support: Ensure the right processes, people, and technology are in place to support business goals and make technology work for CTG’s clients in order to safeguard business continuity and help ensure the clients' infrastructure, operations, and technologies keep pace with organizational growth. Services include help desk/service desk (Tier 1); technology selection; technology lifecycle management; IT services management (ITSM) process improvement; disaster recovery and business continuity; and, organizational project and change management.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | IT Consulting and Staffing: Provide clients with reliable services and professional technical talent in a consistent, efficient, and cost-effective manner. CTG addresses a variety of talent requirements and fulfills a range of technical and professional roles, including project managers, engineers, developers, business and technical analysts, database administrators, testers, DevOps, and more.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vertical Markets
+ The Company promotes a majority of its services through five vertical market focus areas: technology service providers, manufacturing, healthcare (which includes services provided to healthcare providers, health insurers (payers), and life sciences companies), financial services, and energy. The remainder of CTG’s revenue is derived from general markets.
+ CTG’s revenue by vertical market as a percentage of consolidated revenue for the three years ended December 31, 2019, 2018, and 2017 is as follows:
+ 
+ 
+ | 2019 | | | 2018 | | 2017
+-----------------------------+------+-------+---+------+-------+-----
+Technology service providers | | 32.2 | % | | 32.4 | % | 33.1 | %
+Manufacturing | | 16.8 | % | | 19.5 | % | 24.3 | %
+Healthcare | | 16.6 | % | | 16.2 | % | 16.8 | %
+Financial services | | 13.8 | % | | 15.2 | % | 9.1 | %
+Energy | | 5.2 | % | | 4.7 | % | 5.0 | %
+General markets | | 15.4 | % | | 12.0 | % | 11.7 | %
+Total | | 100.0 | % | | 100.0 | % | 100.0 | %
+
+ 
+Revenue for the Company's technology service providers vertical market as a percentage of consolidated revenue decreased slightly in 2019 as compared with 2018 due to a change in business mix as the Company focused on selling its IT solutions services, which are not included in this vertical market. The revenue as a percentage of consolidated revenue decreased for 2018 as compared with 2017 due to a change in business mix and a decrease in demand from this vertical market. 
+ The revenue in our manufacturing vertical market is primarily generated from several large staffing clients, including Lenovo (through SDI as a vendor manager for Lenovo) which is our second largest client. Revenue from Lenovo and other large clients decreased in 2019 as compared with 2018, and in 2018 as compared with 2017, due to a decrease in demand from these clients for the Company’s services.
+ In 2019, the demand from our healthcare clients increased at a rate that was slightly above the overall revenue increase for the Company, which caused the percentage of total revenue to increase. This increase was a reversal in trend as compared with a reduction in 2018 as revenue fell due to the completion of electronic health records (EHR) and related projects that was not offset through new engagements.
+ Revenue for the Company’s financial services vertical market as a percentage of consolidated revenue decreased in 2019 as compared to 2018 due to lower demand from these clients throughout our European operations. Revenue in this vertical market significantly increased in 2018 as compared with 2017 due to the addition of Soft Company in February 2018, which provides a large portion of its services to the financial services market. 
+ 5
+
+Revenue for the Company's energy vertical market increased as a percentage of consolidated revenue in 2019 due to strong demand for our services in this market. The revenue for the Company's energy vertical market decreased as a percentage of consolidated revenue in 2018 as compared with 2017 given the revenue increase in this vertical market was less than the growth in other vertical markets.
+ For the year ended December 31, 2019, CTG provided its services to 519 clients in North America and Europe. In North America, the Company operates in the United States and Canada, with greater than 99% of 2019 North American revenue generated in the United States. In Europe, the Company operates in Belgium, Luxembourg, France, and the United Kingdom. Of total 2019 consolidated revenue of $394.2 million, approximately 61% was generated in North America and 39% in Europe. One client, IBM, accounted for greater than 10% of CTG’s consolidated revenue in 2019.
+ Revenue Recognition and Backlog
+ The Company recognizes revenue when control of the promised good or service is transferred to clients, in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. For time-and-material contracts, revenue is recognized as hours are incurred and costs are expended. For contracts with progress billing schedules, primarily monthly, revenue is recognized as services are rendered to the client. Revenue for fixed-price contracts is recognized over time using an input-based approach. Over time revenue recognition best portrays the Company’s performance in transferring control of the goods or services to the client. On most fixed price contracts, revenue recognition is supported through contractual clauses that require the client to pay for work performed to date, including cost plus a reasonable profit margin, for goods or services that have no alternative use to the Company. On certain contracts, revenue recognition is supported through contractual clauses that indicate the client controls the asset, or work in process, as the Company creates or enhances the asset. On a given project, actual salary and indirect labor costs incurred are measured and compared with the total estimate of costs of such items at the completion of the project. Revenue is recognized based upon the percentage-of-completion calculation of total incurred costs to total estimated costs. The Company infrequently works on fixed-price projects that include significant amounts of material or other non-labor related costs that could distort the percent complete within a percentage-of-completion calculation. The Company’s estimate of the total labor costs it expects to incur over the term of the contract is based on the nature of the project and our experience on similar projects, and includes management judgments and estimates that affect the amount of revenue recognized on fixed-price contracts in any accounting period.  Losses on fixed-price projects are recorded when identified.
+ The Company’s revenue from contracts accounted for under time-and-material, progress billing, and percentage-of-completion methods as a percentage of consolidated revenue for the three years ended December 31, 2019, 2018, and 2017 is as follows:
+ 
+ 
+ | 2019 | | | 2018 | | 2017
+-------------------------+------+-------+---+------+-------+-----
+Time-and-material | | 79.6 | % | | 84.7 | % | 85.9 | %
+Progress billing | | 10.2 | % | | 10.5 | % | 10.8 | %
+Percentage-of-completion | | 10.2 | % | | 4.8 | % | 3.3 | %
+Total | | 100.0 | % | | 100.0 | % | 100.0 | %
+
+ 
+As of December 31, 2019 and 2018, the backlog for fixed-price and all managed-support contracts was approximately $53.6 million and $52.0 million, respectively. Approximately 58% or $31.0 million of the December 31, 2019 backlog is expected to be earned in 2020. Approximately 53% of the $52.0 million of backlog at December 31, 2018, or $27.4 million, was earned in 2019. Revenue is subject to slight seasonal variations, with a minor slowdown and a decrease in billable resource utilization in months of high vacation and legal holidays (July, August, and December). Backlog does not tend to be seasonal; however, it does fluctuate based upon the timing of entry into long-term contracts.
+ Competition
+ The IT services market, for both information and technology solutions and IT and professional staffing services, is highly competitive. The market is also highly fragmented with many providers and no single competitor maintaining clear market leadership. Competition varies by location, the type of service, and the client to whom services are provided. The Company’s competition comes from four major channels: large national or international companies, including major accounting and consulting firms and large companies headquartered in India; hardware vendors and suppliers of packaged software systems; small local firms or individuals specializing in specific programming services or applications; and from a client’s internal IT staff. CTG competes against all four of these channels for its share of the market. The Company believes that to compete successfully it is necessary to have a local geographic presence, offer appropriate IT solutions, provide skilled professional resources, and price its services competitively.
+ 6
+
+Intellectual Property
+ The Company has registered its symbol and logo with the U.S. Patent and Trademark Office and has taken steps to preserve its rights in other countries where it operates. We regard patents, trademarks, copyrights and other intellectual property as important to our success, and we rely on them in the United States and foreign countries to protect our investments in products and technology. Our patents expire at various times, but we believe that the loss or expiration of any individual patent would not materially affect our business. We, like any other company, may be subject to claims of alleged infringement of the patents, trademarks and other intellectual property rights of third parties from time to time in the ordinary course of business. CTG has entered into agreements with various software and hardware vendors from time to time in the normal course of business, and has capitalized certain costs under software development projects.
+Employees
+ CTG’s business depends on the Company’s ability to attract and retain qualified professional staff to provide services to its clients. The Company has a structured recruiting organization that works with its clients to meet their requirements by recruiting, retaining, and providing high quality, motivated staff. As the Company works with a number of subcontractors with Soft Company, which was acquired on February 15, 2018, the Company now includes subcontractors in its total headcount, which equals approximately 3,950 employees worldwide, with approximately 2,650 in the United States and Canada and 1,300 in Europe. Of these employees, approximately 3,550 are IT professionals and 400 are individuals who work in sales, recruiting, delivery, administrative and support positions. The Company believes that its relationship with its employees is good and supported by the Company’s 2019 recognition as a Great Place to Work® in North America, Belgium, and Luxembourg. No employees are covered by a collective bargaining agreement or are represented by a labor union. CTG is an equal opportunity employer.
+Financial Information About Geographic Areas
+ The following table sets forth certain financial information relating to the performance of the Company for the three years ended December 31, 2019, 2018, and 2017. This information should be read in conjunction with the audited consolidated financial statements and notes thereto included in Item 8, “Financial Statements and Supplementary Data” included in this report.
+
+ | 2019 | | 2018 | | | 2017
+-----------------------------------+------+---------+------+---+---------+-----
+(amounts in thousands) | | | | | | | | 
+Revenue from External Clients: | | | | | | | | 
+United States | $ | 241,038 | | $ | 232,178 | | $ | 219,886
+Luxembourg (2) | | 64,852 | | | 44,660 | | | 36,954 
+Belgium (1) | | 52,468 | | | 48,585 | | | 39,347 
+Other countries | | 35,812 | | | 33,346 | | | 5,023 
+Total foreign revenue | | 153,132 | | | 126,591 | | | 81,324 
+Total revenue | $ | 394,170 | | $ | 358,769 | | $ | 301,210
+Operating Income (loss): | | | | | | | | 
+United States (5) | $ | 733 | | $ | (3,083 | ) | $ | 221 
+Luxembourg (2) | | 2,363 | | | 1,731 | | | 2,841 
+France (4) | | 1,346 | | | 1,129 | | | — 
+United Kingdom (3) | | 1,199 | | | 671 | | | 596 
+Belgium (1) | | 1,159 | | | 1,528 | | | 439 
+Other countries | | 112 | | | 104 | | | 71 
+Total foreign operating income (5) | | 6,179 | | | 5,163 | | | 3,947 
+Total operating income | $ | 6,912 | | $ | 2,080 | | $ | 4,168 
+Total Assets: | | | | | | | | 
+United States | $ | 54,043 | | $ | 39,488 | | $ | 83,499 
+Luxembourg (2) | | 42,943 | | | 26,355 | | | 22,478 
+Belgium (1) | | 30,159 | | | 27,128 | | | 18,410 
+France (4) | | 26,500 | | | 27,425 | | | 2,360 
+Other countries | | 5,061 | | | 3,725 | | | 888 
+Total foreign assets | | 104,663 | | | 84,633 | | | 44,136 
+Total assets | $ | 158,706 | | $ | 124,121 | | $ | 127,635
+
+ 7
+
+ 
+(1) | Revenue, operating income, and assets for our Belgium operations have been disclosed separately as they exceed 10% of the consolidated balances in at least one of the years presented.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Revenue, operating income, and assets for our Luxembourg operations have been disclosed separately as they exceed 10% of the consolidated balance in at least one of the years presented.
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Operating income for our United Kingdom operations has been disclosed separately as it exceeds 10% of the consolidated balance in at least one of the years presented.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | Operating income and assets for our France operations have been disclosed separately as they exceed 10% of the consolidated balance in at least one of the years presented.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | During 2019 and 2018, the Company allocated corporate support costs primarily for management, finance and information technology services from the United States to our foreign operations to reflect costs that are recorded in the United States but support our foreign operations. These allocations totaled $1.6 million and $0.9 million in 2019 and 2018, respectively, and are not reflected in these operating income (loss) totals. 
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Available Company Information
+ The Company’s annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (Exchange Act), and reports pertaining to the Company filed under Section 16 of the Exchange Act are available without charge on the Company’s website at www.ctg.com as soon as reasonably practicable after the Company electronically files the information with, or furnishes it to, the SEC. The SEC’s website, www.sec.gov, contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The Company’s code of ethics (Code of Conduct), committee charters and governance policies (including a fraud and insider trading policy) are also available without charge on the Company’s website at http://investors.ctg.com/corporate-governance. If applicable, the Company intends to disclose future amendments to, or waivers from, certain provisions of the Code of Conduct on the Company's website or in a current report on Form 8-K.

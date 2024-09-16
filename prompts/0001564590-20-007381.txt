@@ -1,0 +1,429 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business. 
+Overview 
+ We offer end-to-end solutions for next-generation centralized, distributed and virtualized architectures for cable broadband, fixed-line broadband and wireless networks. Our products enable service provider customers to cost-effectively deliver broadband services to their consumer and enterprise customers.  Our converged, software-centric network core products help our customers to dynamically increase network speed, add needed bandwidth capacity, reduce latency, and deliver new services to their subscribers, all with reduced network complexity and lower total cost of ownership than comparable hardware-based, siloed network infrastructure broadband solutions. Our LTE and 5G indoor and outdoor radio products and access device management software help our customers address the need to densify their networks as they meet the need for growing subscriber demand for downstream and upstream bandwidth.
+ We have a history of innovation and being the first to market with novel products at each generational shift in network technology. For example:
+  
+• | We believe we pioneered the use of a software-centric approach to leverage the programmability of field programmable gate arrays, or FPGAs, and general-purpose processors for use in the cable industry.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In the cable market we believe we were the first to provide a solution enabling cable service providers to deliver Internet Protocol, or IP, voice, digital video and data over a single port, which enables cable service providers to deliver multi-gigabit speeds to their subscribers.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In the wireless market, we introduced our Apex Pebble, a residential femtocell, which helps to provide a faster and more reliable data experience for mobile users. We believe the device offers the innovation of an untethered Wi-Fi backhaul option in addition to the standard Ethernet connection that is required in traditional femtocells. This allows a user to place the device anywhere in his or her home where Wi-Fi is available without running or connecting additional cables to a home router.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our Apex Strand-mount Microcell provides wireless service providers with an additional installation option using an integrated DOCSIS modem, which provides input power and backhaul/fronthaul connectivity and helps to resolve the siting, power, and backhaul issues that accompany large-scale small cell deployments.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our Apex 5G Mini Macro is a high-powered 4T4R (4 transmit/4 receive) radio designed to meet coverage and capacity challenges in dense urban and suburban areas where large numbers of 5G NR, a new radio access technology developed by the 3rd Generation Partnership Project, or 3GPP, for the 5G mobile network, and LTE devices are present. Unlike macro-radio solutions mounted on traditional tower sites, the Apex 5G Mini Macro can be deployed cost-effectively at the street level, such as on utility poles, roof tops and lamp posts, thereby reducing costs associated with a traditional macro site. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We believe that we are the first to deliver a virtualized Broadband Network Gateway, or BNG, that enables a multi-tenant solution at the network edge using low-cost, white box merchant silicon hardware.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We offer scalable solutions that can meet the evolving bandwidth needs of our customers and their subscribers. Our first installation in a service provider’s network frequently involves deploying our broadband products in only a portion of the provider’s network and with only a fraction of the capacity of our products enabled at the time of initial installation. Over time, our customers have generally expanded the use of our solutions to other areas of their networks to increase network capacity. Capacity expansions are accomplished either by deploying additional systems, line cards, or the sale of additional channels through the use of software. Sales of software-based capacity expansions generate higher gross margins than hardware-based deployments. 
+ Our solutions are commercially deployed in over 70 countries by more than 475 customers, including regional service providers as well as some of the world’s largest Tier 1 broadband service providers, serving millions of subscribers. Our principal customers include Charter/Time Warner Cable, Rogers, Videotron, Sprint, Verizon, AT&T, Bell Canada, Cable One and Mediacom in North America; Televisa/IZZI Mexico, Megacable Mexico, Cablevision Argentina, Net Brazil, America Móvil and Claro Colombia in Latin America; Liberty Global, Vodafone and DNA Oyj in Europe; and NBN, SCSK Corporation, Jupiter Communications, Beijing Gehua CATV Networks and China Mobile in Asia-Pacific.
+ Our revenue for the years ended December 31, 2019, 2018 and 2017 was $282.3 million, $297.1 million and $351.6 million, respectively. Our net (loss) income for the years ended December 31, 2019, 2018 and 2017 was ($48.2) million, $73.0 million and $88.5 million, respectively. As of December 31, 2019, 2018 and 2017, our total assets were $444.3 million, $474.6 million and $469.7 million, respectively.
+ 4
+
+Industry Background
+ Annual Increase in Demand for Downstream and Upstream Bandwidth 
+ Demand for both downstream and upstream bandwidth from consumers and enterprises has grown substantially and is expected to continue to increase. Key drivers of increased bandwidth demand include: 
+
+• | more users with more connected devices and applications;
+--+---------------------------------------------------------
+
+
+• | more time spent online by users;
+--+---------------------------------
+
+
+• | increased use of bandwidth-intensive streaming media services, such as Amazon Prime Video, Netflix, Hulu and YouTube; cloud applications, such as iCloud, Office 365/OneDrive, and Dropbox; and augmented and virtual reality applications;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Internet of Things, or IoT, solutions, as already seen in connected homes, business and industries; connected devices such as Amazon Alexa or Google Assistant; machine-to-machine connectivity; car connectivity and smart cities;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | growth in online, interactive gaming;
+--+--------------------------------------
+
+
+• | backhaul requirements of wireless service providers, including new entrants into the wireless space such as multiple system operators, or MSOs;
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | the rise of data consumption by enterprises with strict latency requirements on mission-critical and public safety-related applications; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | increasing shift away from asymmetric broadband services towards symmetrical, in part driven by the need for greater uplink bandwidth from home or office to the cloud.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Increasing Convergence of Service Offerings 
+ Convergence is allowing consumers and enterprises to enjoy increased choice among broadband service providers.  So-called “triple-play” and “quadruple-play” service offerings are being provided by cable service providers such as Charter and Comcast and diversified telecommunications companies such as AT&T and Verizon. Mobile-only network operators such as Sprint and T-Mobile are offering higher bandwidth wireless connectivity and, as a result, cable and fixed communications service providers are experiencing increased “cord cutting” as subscribers opt for mobile only voice and broadband services. To respond to increased competition, broadband service providers across all access technologies are facing increasing pressure to maintain high bandwidth availability over multiple converged access technologies, while developing differentiated service offerings with higher levels of performance at lower cost to consumers and enterprises.
+Network Infrastructure Convergence for Greater Service Agility and Lower Total Cost of Ownership
+ Historically, broadband service providers have deployed hardware-centric, separate systems within their fixed broadband networks for video and data services and have operated discrete and siloed networks for fixed, Wi-Fi and mobile services. This traditional model requires service providers to maintain separate network infrastructure and personnel for each service. Operating hardware-centric, siloed network infrastructure for each service category is costly as it involves material space, power and personnel requirements.  Moreover, hardware-centric networks can be expensive to update or replace. As network capacity and coverage have increased, the diversity of service offerings has grown, and technology upgrade cycles have become shorter, the need for cost-efficient network infrastructure and convergence is increasing. 
+New Infrastructure Technology Initiatives
+ As broadband service providers look to address these industry developments, they are undertaking three key technology initiatives to help build next-generation networks:
+  
+• | Densification. Increasing demand for bandwidth and user expectations for ubiquitous, seamless and reliable connectivity require the addition of more access points for users to connect to broadband networks, also known as network densification. As a result, broadband service providers across all access technologies are shifting from centralized to more distributed architectures. Densification requires extending network connectivity and distributing access aggregation solutions closer to end users. For cable operators this entails deploying more access aggregation nodes and reducing the size of service groups per node. For wireless operators, particularly in 5G, this will lead to an emphasis on small-, versus traditional macro-, cells in new network deployments. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 5
+
+ 
+• | Network Convergence. Traditionally service providers have deployed separate, siloed networks to deliver both fixed (cable, fiber or copper) and mobile broadband to their subscribers. To meet the demands of next generation networks, service providers are focused on converging siloed fixed and mobile core networks into a single converged 5G Core. The 5G Core will be the heart of the network and act as an anchor point for multi-access technologies. It will need to deliver a seamless service experience across fixed and wireless access technologies. 3GPP, the global wireless standards body, has defined a new 5G Core architecture that supports service delivery over wireless, fixed or converged networks. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Virtualization. The introduction of network virtualization is a fundamental change in the way broadband service providers will deliver critical network functions. In virtual networks, software-enabled architectures are decoupled from underlying server hardware for increased efficiency, upgradability, configuration flexibility, service agility and scalability that are not feasible with proprietary hardware-based solutions. Once the networks have been virtualized, a service-based architecture that supports scalable network slicing can be launched. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Market Opportunity 
+ We believe that our products are well-suited to address these trends and accordingly present us with a significant market opportunity across all access technologies. Historically, we have generated the significant majority of our revenue from the cable market with our converged cable access platform, or CCAP. In 2019, we became more diversified via expansion of our target markets to include wireless and fixed-line broadband solutions.  We expect to continue to generate revenue in the future from growth in the cable market and increased revenue from sales of both wireless and fixed-line broadband solutions to new and existing customers. We believe there is an opportunity for us to take new market share as fixed and wireless networks continue to converge.
+Key Benefits of Our Solutions
+ Highly Flexible, Service-Oriented, Software-Centric Architecture
+ Our software-centric, multi-service broadband platform, Axyom, is at the heart of all of our core network infrastructure products.  We engineered our platform from the ground-up to be high performance, flexible and adaptable, and to allow our customers to seamlessly address the growing demand for bandwidth and connectivity and the competitive need for service agility. Axyom also enables our customers to efficiently manage their networks and provide their subscribers with additional services across all access technologies. 
+ Our software-centric architecture enables us to efficiently virtualize core network and access functions, allowing these functions to be decoupled from underlying network hardware. As a result, our software-centric architecture allows for increased efficiency, upgradability, configuration flexibility, service agility and scalability, while increasing the potential service life of the underlying hardware. Our software-centric architecture allows us to leverage the programmability of FPGAs and general-purpose processors in our solutions.
+ Our Axyom platform provides us with the flexibility to adapt to changing industry standards and customer needs. We designed our Axyom software platform using what we refer to as Network Function Virtualization 2.0, or NFV 2.0, principles.  These allow us to provide and control each needed network function through a distinct segment of software, which can be integrated or combined in a building block-style fashion with the segments of software responsible for each other network function. This allows us to offer network architectures that can be efficiently tailored to meet each customer’s specific requirements, both as they exist at the time of initial implementation and as they evolve over time. When possible, we also seek to implement new features and enhanced customization through the use of FPGAs, which can be reprogrammed in the field as service needs evolve. This software-centric approach enables our customers, in turn, to commercialize new features faster than they could with hardware-centric solutions.
+ Common Platform Capabilities to Address the Needs of Both Fixed and Wireless Networks 
+ Our software-centric, multi-service platform enables a broad range of network services for fixed and wireless networks, allowing for the delivery of diverse consumer and enterprise applications. Both fixed and wireless networks share a common set of core and access network functions that e
+nable network services, such as subscriber management, session management, transport security, access aggregation and radio frequency, or RF, management. Our Axyom software architecture allows each of these network functions to be provided and controlled by a distinct segment of software, which can be integrated or combined together in a building block-style fashion with the segments of software responsible for each other network function. This allows us to offer network architectures that can be efficiently tailored to meet each customer’s specific requirements, both as they exist at the time of initial implementation and as they evolve over time. 
+ 6
+
+End-to-End Products on a Converged Core and Multi-Access Intelligent Edge
+ We believe that we are the only network infrastructure equipment supplier offering a full end-to-end portfolio of all-access broadband network solutions that extend from a truly cloud-native, converged network core to the customer premises. Our products help broadband service providers deploy more capacity at the network edge, closer to where end users and devices are accessing the network, thereby increasing available bandwidth and reducing latency to improve quality of service. In addition, our converged network core supports wireline and wireless access and avoids overlapping functions within the network.  It therefore reduces long-term capital expenditures or operating expenses.  Our convergence solutions may also enable operators to more consistently deliver services and execute policy across different access types.
+ Ability to Upgrade Networks Remotely with Rapid, Seamless Addition of Bandwidth Capacity
+ Our programmable architecture is designed to enable rapid and seamless expansion of network capacity with the purchase of additional softw
+are licenses.  This approach helps broadband service providers respond flexibly to increased customer demands with rapid bandwidth and service provisioning.
+ Additionally, our programmable architecture allows us to deploy technology updates to our customers remotely without the expense, disruption or network downtime caused by hardware replacements or field visits by personnel, while minimizing network downtime. We can remotely turn on additional features or capacity in order to scale our solutions to meet the needs of our customers as they look to broaden the use and capabilities of our products.  Similarly, we are often able to troubleshoot and assist our customers with technical issues through seamless software updates.
+Reduced Network Complexity and Lower Total Cost of Ownership
+ Our converged software platform allows broadband service providers to significantly reduce the complexity, footprint requirements, and costs of their networks by reducing parallel and otherwise redundant network architecture. The large capacity increases that our solutions enable, and the ability of our solutions to deliver broadband services over a converged core mean fewer pieces of equipment in the network, and lower energy usage, operating costs and capital expenditures.
+Our Growth Strategy 
+ The key elements of our growth strategy are: 
+ Continue to Innovate and Extend Technology Leadership Through R&D Investment 
+ We believe that we offer market-leading broadband infrastructure products today. We intend to continue to enhance our existing products and develop new products in both our current and adjacent markets. For example, we have invested in and launched distributed access architecture solutions to allow our cable customers to densify their networks, providing higher bandwidth, which enhances user experience.  Additionally, we have been investing in, and recently begun recognizing revenue from, our core and access products for 4G/LTE and 5G wireless networks.
+Further Penetrate Existing Customers 
+ Our customers often deploy our products in a specific region or for a specific application, which may only account for a portion of their overall network infrastructure needs. We plan to expand our footprint within the networks of existing customers as they realize the technological and financial benefits of our solutions, as well as sell our new products to them as they offer new broadband services to their subscribers.
+Expand our Customer Base by Expanding the Breadth of Solutions Sold to Customers
+ We intend to sell additional products and solutions to our growing installed base of broadband service providers, particularly as they increasingly offer converged services to their subscribers. We have invested in developing a virtualized platform that allows us to rapidly provide new applications and services to our customers. While we initially focused on providing solutions for cable service providers due to our founders’ experience in the cable industry, the commonalities between fixed and wireless network architectures have allowed us to expand our solutions into the wireless market as cable service providers have increasingly sought to add wireless capabilities to their service offerings. Our wireless solutions have been purchased by several customers, including Tier 1 mobile network operators such as Sprint and China Mobile. 
+ 7
+
+Invest in Our Platform through Selective Acquisitions 
+ We may selectively pursue acquisitions that enhance our existing platform capabilities and are consistent with our overall growth strategy. For example, on July 1, 2019, we acquired NetComm Wireless Limited for cash consideration of approximately $162.0 million Australian dollars, or AUD ($112.7
+ million United States dollars, or USD, based on an exchange rate of USD $0.700 per AUD $1.00 on July 1, 2019). This acquisition enables us to expand our customer base, enhance our global footprint, extend our product portfolio to the far edge of the network, and further diversify our revenue sources.
+ Products and Technology 
+ We offer end-to-end physical, virtual and distributed infrastructure and customer premise network solutions that enable our customers to provide fixed and wireless broadband services to consumers and enterprises.
+Axyom Software Platform 
+ Our software-centric, multi-service product portfolio is built on our Axyom software, which enables a broad range of core and access network functions for fixed and wireless networks. These networks share a common set of core and access network functions that enable network services such as subscriber management, session management, transport security and RF management. Our Axyom software architecture allows each of these network functions to be provided and controlled, integrated or combined together, in a building block-style fashion with the segments of software responsible for each other network function. This allows us to offer network architectures that can be efficiently and rapidly tailored to meet each customer’s specific requirements, both as they exist at the time of initial implementation and as they evolve over time. The commonalities between new fixed and wireless network architectures have allowed us to leverage our existing Axyom software and to expand our solutions into the wireless and fixed communications markets.
+ 8
+
+
+
+Our Axyom software platform is central to our multi-service, ultra-broadband delivery architecture, integrating multiple core and access network functions. Axyom is 5G-ready and is designed to provide high performance, programmability, scalability and flexibility. We designed Axyom using network function virtualization 2.0, or NFV 2.0, principles, which allow us to provide and control each needed network function through a distinct segment of software, which can be integrated or combined together in a building block-style fashion with the segments of software responsible for each other network function.  Axyom has predominantly been integrated into our physical products to date and is increasingly being deployed in virtual environments.
+ Our Axyom software platform performs several critical network services: 
+  
+• | Subscriber Management. Enables dynamic management of subscriber authentication, provisioning, policy enforcement and allocation of network resources based on specific end-user service requirements to enhance quality of service.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Session Management. Intelligently manages application layer data streams to enable service creation and delivery and enhance quality of service.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | RF Management. Efficiently manages RF signal generation (modulation/demodulation) while reducing noise to increase available RF spectrum and maximize data throughput over the network link in both fixed and wireless applications.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Access Aggregation. Manages and combines high volume data streams, regardless of connection type, including fixed broadband, Wi-Fi, LTE and 5G.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Security. Enables end-to-end secure connectivity between users, devices and networks without sacrificing performance.
+--+----------------------------------------------------------------------------------------------------------------------
+
+ Axyom can be deployed on a centralized basis on one of our hardware chassis, over distributed network hardware or as a virtualized solution, allowing operators to place network functions where they choose, whether close to the network edge or at a centralized location or data center.
+ Cable
+ Our solutions for cable service providers can be deployed in a centralized, distributed or virtual environment. While centralized deployments allow our customers to deploy all critical CCAP functions in a single location, distributed and virtual deployments enable our customers to densify the access network by distributing access deeper into the network, away from existing data centers. 
+ 9
+
+Centralized Deployment
+ Integrated CCAP – C100G and C40G
+  
+• | Our C100G CCAP combines cable modem termination system, or CMTS, functionality that enables IP data transport from data centers to end-users over cable networks, including voice over IP, or VoIP, and edge-quadrature amplitude modulation, or Edge-QAM, functionality to enable video delivery over cable networks in one integrated chassis. We believe our C100G CCAP was the first solution offering full CCAP functionality, allowing the delivery of voice, video and data on a single platform. Our C100G CCAP also features high downstream speeds of up to 10 gigabits per second, high upstream channel capacity, and low space and energy consumption requirements. Using our C100G CCAP, our customers whose networks are configured for DOCSIS 3.0 can adopt DOCSIS 3.1 through either a software upgrade or a simple line card addition, while continuing to service their end customers who use DOCSIS 3.0 modems. We are also able to increase capacity for our C100G CCAP through channel expansions, which are delivered via software-enabled increases in bandwidth capacity, regardless of whether it is configured for DOCSIS 3.0 or 3.1. We believe that our software-centric approach will enable us to seamlessly provide our customers with future updates as standards evolve. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | In addition to our C100G CCAP, we also offer our C40G CCAP, that provides per rack unit performance comparable to that of our C100G CCAP, but in a smaller form factor.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our CCAP enables three key applications over a single cable network:
+--+---------------------------------------------------------------------
+
+
+o | DOCSIS Core. Provides high-speed delivery of IP data for broadband connectivity services, including VoIP.
+--+----------------------------------------------------------------------------------------------------------
+
+
+o | Video Core. Delivers high speed video processing, including for HD and 4K.
+--+---------------------------------------------------------------------------
+
+
+o | Intelligent Routing. Intelligently manages network traffic to optimize service quality.
+--+----------------------------------------------------------------------------------------
+
+ Distributed Deployment
+ 
+• | Distributed Access Architectures, or DAAs, offer a new approach for service providers that are looking to increase capacity in their networks. Our family of DAA solutions is designed to help service providers push capacity to the edge to improve the services their subscribers enjoy, extract more value from existing investments, and maintain smooth operations in the transition from centralized to distributed access architectures.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our family of DAA solutions includes:
+--+--------------------------------------
+
+
+o | Physical or virtual CCAP cores that deliver full CCAP, full spectrum DOCSIS 3.1 support, and are compliant with CableLabs’ interoperability standards.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | The CCAP Service Card, or CSC, deployable in our C100G or C40G chassis, which provides the complete DOCSIS and Edge-QAM MAC, or media access control, functions as well as traffic aggregation for the DAA nodes or shelves.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A range of DAA node and shelf form factors that perform complete DOCSIS and EQAM PHY or MAC/PHY functions. Our remote PHY, or R-PHY, solutions for cable networks retain software-driven network control and intelligence functions at the network core while placing physical layer functions remotely in a fiber node and the network edge. Our remote MAC/PHY, or R-MAC/PHY, solution for cable networks offers the capabilities of our R-PHY solution while also moving media access control functions from the network core to remotely deployed R-MAC/PHY nodes. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | 10G Ethernet transport between the CCAP core and the DA nodes.
+--+---------------------------------------------------------------
+
+Virtual Deployment
+  
+• | Service providers are adopting virtualized versions of network functions and adding software-defined networking control and orchestration to enable faster service creation and more nimble response to changes in service and bandwidth demand. In cable access networks, this trend is accompanied by fiber deep strategies which push required ultra-broadband bandwidth closer to subscribers. Our Distributed Access Architecture solutions and the Axyom virtual converged cable access platform, or vCCAP, create a secure, scalable, high-performance next generation cable access network.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 10
+
+ 
+• | The Axyom vCCAP provides all the features of our C100G CCAP on commercial-off-the-shelf, or COTS, servers in a flexible architecture that enables independent scaling of control and data planes. Built on the Axyom modular software framework, our vCCAP is built for the cloud from the ground up and enables high performance and deployment flexibility in edge or core environments. Our virtual solutions also enable migration from physical network functions, or PNFs, to virtual network functions, or VNFs, with a common management interface to both.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bandwidth Capacity Expansion
+  
+• | Software. Our customers can add additional bandwidth capacity to their CCAP products by purchasing perpetual software license upgrades. In addition, our software platform permits additional features to be provisioned remotely, as compared to hardware-centric solutions, which require wholesale hardware replacements. As new standards and services evolve, and broadband networks become increasingly virtualized, we expect we will be able to deliver additional capabilities as software-only updates. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Line cards. Additional bandwidth capacity may also be purchased in the form of our upstream and downstream line cards. Our line card expansion options allow our customers to rapidly add new service interfaces and physical connection capacity without the need for chassis replacements. In addition, our expansion cards can cost-effectively enable support for our distributed access solutions utilizing the same C100G CCAP chassis. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Wireless
+ Network Core
+  
+• | Virtual Evolved Packet Core (EPC). Virtualizing the LTE EPC allows service providers to reduce network operating costs, improve network efficiency, and deploy new services faster. Our vEPC is built from the ground up, optimized for virtualized environments, and implements control and user plane separation, or CUPS. It can be deployed stand alone or in conjunction with our other core network products, such as our Security and Small Cell Gateways. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | 5G Core. Our 5G core, converged to support fixed and wireless networks, is built to help service providers implement the shift from a single, one-size-fits-all core network toward a core that provides different logical networks (or “slices”) for different traffic requirements to support new use cases, including IoT, Enhanced Mobile Broadband, and Mission Critical Services. Our 5G core delivers several important features including: 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | higher Gbps per vCPU;
+--+----------------------
+
+
+o | a solution deployable in containers with virtual machines, or VMs, or bare metal;
+--+----------------------------------------------------------------------------------
+
+
+o | location-independent placement of the control and user plane in a CUPS architecture;
+--+-------------------------------------------------------------------------------------
+
+
+o | a smooth migration from 4G to 5G with efficient internal messaging between 4G and 5G network components; and
+--+-------------------------------------------------------------------------------------------------------------
+
+
+o | network slicing in a service-based architecture.
+--+-------------------------------------------------
+
+
+• | Other elements of our core infrastructure network products include our Security Gateway, which enables secure encrypted access for subscribers roaming between trusted and untrusted networks, while providing high levels of density and performance, and our Wireless Gateway, which enables routing and security functions as well as traffic management, to provide secure connectivity for wireless endpoints and enable broadband services such as LTE over Wi-Fi, including Wi-Fi calling.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 11
+
+Small Cell solutions
+  
+• | Apex family of Small Cells. Our portfolio of indoor and outdoor Apex small cell solutions consists of remotely deployable access points that provide cellular connectivity services at the network edge in conjunction with transport security functions to address coverage and capacity challenges. These solutions allow broadband service providers to more cost-effectively densify their networks while simultaneously improving coverage and enhancing throughput. Our small cell portfolio includes our:
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Lifestyle residential small cell, the Apex Pebble, which uses the user’s broadband connection rather than a cell tower connection to provide wireless service in areas outside of the operator’s coverage areas. We believe that our Apex Pebble offers unique features that include: 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+▪ | attractive design that is intended to drive better acceptance by subscribers and thereby provide better RF coverage than utilitarian-looking small cells that are likely to be hidden away in places that reduce RF propagation; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+▪ | untethered Wi-Fi backhaul option, versus the ethernet backhaul requirement in comparable traditional femtocells, which allows a user to place the device anywhere in his or her home where Wi-Fi is available without running or connecting additional cables to a home router.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Apex enterprise small cell with 4G radio capability, which supports two LTE carriers, in a small form factor.
+--+--------------------------------------------------------------------------------------------------------------
+
+
+o | Apex Strand solution, designed for both MSOs and mobile network operators which supports two LTE carriers (licensed LTE bands or citizens band radio service, or CBRS), and takes advantage of existing hybrid-fiber cable, or HFC, strand to help solve the power, backhaul and siting issues that accompany large-scale small cell deployments.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Apex 5G Mini Macro, which offers support for licensed LTE/5G bands and eventually CBRS and C-Band, is designed for environments with a large number of subscribers or where a larger coverage area is required. Our 5G Mini Macro helps our wireless customers meet the coverage and capacity challenges in dense urban and suburban areas where large numbers of NR and LTE devices are present. Unlike macro-radio solutions, that are mounted on towers, the Apex 5G Mini Macro can be deployed cost-effectively at the street level, on utility poles, roof tops and lamp posts, thereby reducing the costs associated with a traditional macro site. The Apex 5G Mini Macro’s All-in-One package includes the baseband unit and the radio remote unit with flexible external antenna configurations. It also supports open radio access network defined interfaces for centralized and virtualized radio access network deployments. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Axyom Element Management System (AEMS). Our AEMS is designed to make small cell deployment and management more efficient. It includes key management tools that facilitate integration with existing networks and increase radio access network utilization, with zero-touch plug and play small cell deployment. We are currently looking to expand our AEMS to use cases beyond small cell deployment management, such as with our distributions point unit, or DPU, and fixed-wireless access solutions. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fixed Wireless Access
+  
+• | Our fixed wireless access products, which we added to our product set from our acquisition of NetComm, enable service providers to offer fixed, ultra-broadband services to their customers where the service provider does not own copper, fiber or coaxial cable to the customer premise. Connections are instead serviced by a 3GPP compliant wireless connection in a manner that optimizes overall network efficiency and provides a higher grade of broadband service than would typically be achieved via a typical mobile handset. Our fixed wireless products currently support 4G and, starting in 2020, are expected to support 5G, and can be delivered as a self-install indoor unit, or as a pro-install outdoor unit that is mounted to the side of the customer premise. Our portfolio is designed with a heavy emphasis on reducing the total cost of ownership for operators, achieved through class-leading hardware performance and build quality, which is further enhanced by our range of install accessories that optimize the installation process and overall install success rate. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 12
+
+Fixed-Line Broadband
+ Optical Access Solutions
+  
+• | In connection with all of our centralized and distributed deployment solutions, we offer a portfolio of PON solutions for centralized and distributed PON architectures that enable service providers to move fiber closer to the network edge and deliver a broader range of ultra-broadband services more efficiently and at higher speed. Our PON solutions include next generation 10G EPON, XGS‑PON and NG‑PON2 alternatives, including optical line terminals and optical network units. We also offer a DOCSIS Provisioning over Ethernet system for seamless integration of our PON solutions with existing DOCSIS network protocols. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Virtualized Broadband Network Gateway Router and Multiservice Router
+  
+• | Our Axyom virtualized broadband network gateway, or vBNG, router provides advanced subscriber management and routing capabilities in a cloud-native, virtualized solution. By separating the control and data plane functions, our vBNG enables elastic scaling and service agility, while allowing the service provider to put the control and data planes where they make most sense. Accordingly, our vBNG can be deployed in either centralized architectures (on the same server in the data center or central office) or distributed ones (at the network edge or node closer to the end user). Our vBNG is deployed as a service on our Axyom NFV Framework. It is convergence ready with built in AGF functions interfacing with our 5G core. We support data plane slicing based on service (converged/legacy) with dynamic control of the slice from the 5G core. At the 2019 Broadband World Forum, we demonstrated how our vBNG and 5G core could enable subscribers to use services seamlessly as they move between mobile and fixed connectivity. This solution won us the Broadband Forum Innovation Award for 5G in 2019. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | A dis-aggregated Multi-Service Router, or MSR, is included in our fixed line portfolio. The MSR is built on commercial off-the-shelf switching platforms that use merchant silicon. The MSR supports the BNG data plane on merchant silicon. It offers industry-leading throughput and capacity in one rack unit form factor. The MSR operates with the vBNG control plane separated on a server at some centralized location or integrated right within the switch CPU. Service providers therefore can pick and choose the type of data plane at each location based on scale and throughput needs. The MSR is also a full-fledged Provider Edge, or PE, router. It supports layer 2 multi-protocol layer switching and layer 3 virtual private networks with resource reservation protocol for traffic engineering and Fast Re-route, a technology to provide fast traffic recovery upon link or router failures for mission critical services. It also supports edge access functions. The MSR therefore offers the functionality of a BNG, PE Router, and Top-of-Rack switch all rolled into one. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our customers use Axyom vBNG to support their next-gen PON and multi-access edge computing deployments. We have demonstrated an end-to-end solution using our G.fast DPUs and 10G XGS-PON ONTs working with our XGS-PON OLT-A product connecting to a multi-tenant vBNG. This offers a smooth migration path for telecommunications providers from digital subscriber line technologies to G.fast to fiber-to-the-home, while maintaining the same vBNG edge functions. Multi-tenancy allows customers to slice the same hardware infrastructure at the edge to different access methods based on service needs.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Fiber-To-The-Distribution-Point (“FTTdp”)
+  
+• | Our FTTdp solutions, which we added to our product set from our acquisition of NetComm, allow service providers to connect the fiber running in the street or basement to the copper lead-ins at an end user’s premises. The solution consists of a DPU which is installed outside of the home or in the basement of a multi-dwelling unit and a Network Connection Device, or NCD, which is installed inside the home. Our DPUs are reverse powered from the NCD when there is no power source available at the location of the DPU and where installing local power is costly and time consuming for the service provider. FTTdp solutions offer a cost and time-effective means to provide a fiber-to-the-home experience to the end-user and the operator, reducing time delays and cost overruns where the fiber penetration into buildings becomes problematic. Our portfolio focuses on operator cost optimization, with solutions ranging from software through to accessories that enhance the installation process. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Residential Broadband
+  
+• | We sell residential broadband gateways for customer premises in the ANZ region. We added these devices to our product set from our acquisition of NetComm. These devices allow customers to connect to very high-speed digital subscriber line or asymmetric digital subscriber line services, or fiber services including fiber-to-the-node, -basement, and -home, services when available. Our fixed broadband devices range from entry level 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 13
+
+ 
+gateways to high-performance devices that support triple play services covering high-speed data transmission, multi HD/4K IPTV and over-the-top video streaming, as well as high quality VoIP phone calls. We combine the latest generations of Wi-Fi with our powerful CloudMesh portfolio of Wi-Fi mesh hardware, automated Wi-Fi optimization software and Wi-Fi analytics. These options ensure fast and reliable connections to multiple devices throughout the home and office, while also optimizing costs for the operator by reducing support call loading. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Machine-to-Machine (
+M2M) and Industrial Internet of Things (IIoT)
+  
+• | Our M2M and IIoT routers, which we added to our product set from our acquisition of NetComm, provide businesses and governments with networking products that are enabled for 3G and 4G/LTE data communication. They are designed for applications such as retail, transportation, health, metering digital signage, security, banking and mining. These solutions enable remote diagnostics, real-time monitoring, and wireless access via the Internet. Our products are designed to withstand harsh environmental conditions and extreme temperatures. Dual file-system management enhances solution reliability, while integrated open-source software development kits enable customers to customize our products for specific use cases. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Customers 
+ Our solutions are commercially deployed in over 70 countries by more than 475 customers, including some of the world’s largest Tier 1 broadband service providers, serving millions of subscribers: 
+
+• | in North America: Charter/Time Warner Cable, Rogers, Videotron, Sprint, Verizon, AT&T, Bell Canada, Cable One and Mediacom;
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+• | in Latin America: Televisa/IZZI Mexico, Megacable Mexico, Cablevision Argentina, Net Brazil, America Móvile and Claro Colombia;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+• | in Europe: Liberty Global, Vodafone, Telefonica and DNA Oyj; and
+--+-----------------------------------------------------------------
+
+
+• | in Asia-Pacific: SCSK Corporation, Jupiter Communications, Beijing Gehua CATV Networks, China Mobile and NBN.
+--+--------------------------------------------------------------------------------------------------------------
+
+Sales and Marketing 
+ We sell our products and services through our direct sales force and in partnership with our resellers and sales agents. Our sales force is supported by our sales engineering team, which has deep technical expertise and the capability for product presentations, product evaluations, trials and customer care. Each sales team is responsible for specific direct end-customer accounts and/or a geographic territory across the following regions: North America, Latin America, Asia-Pacific and Europe, Middle East and Africa. 
+ Our products typically have a long sales cycle, requiring detailed discussions with prospective customers about their network requirements and technology roadmaps. To help us succeed in a market characterized by long sales cycles, we have developed strong customer relationships, which in turn provide us with insight into how our products will be deployed in our customers’ networks. We involve product engineers in the sales process, enabling them to build relationships with customers that are valuable both during implementation and in post-sales customer support. These relationships also provide us with opportunities to leverage our familiarity with our customers’ needs to make additional sales following the initial sale. 
+ We also use resellers to market, sell and support our products and services, and we use sales agents to assist our direct global sales force with certain customers primarily located in the Latin America and Asia-Pacific regions. 
+ Our marketing activities consist primarily of technology conferences, web marketing, trade shows, seminars and events, public relations, analyst relations, demand generation and direct marketing to build our brand, increase customer awareness, communicate our product advantages and generate qualified leads for our field sales force and resellers and sales agents.
+ Competition 
+ The broadband service provider market is highly competitive and subject to rapidly changing technology trends and shifting customer needs.
+ 14
+
+We primarily compete with larger and more established companies in the broadband service provider market, such as Adtran, Cisco, CommScope, Ericsson, Huawei, Inseego, Nokia, and Samsung.
+ The principal factors upon which we compete are: 
+  
+• | product capabilities;
+--+----------------------
+
+
+• | performance;
+--+-------------
+
+
+• | scalability, flexibility and adaptability to new standards;
+--+------------------------------------------------------------
+
+
+• | ability to innovate;
+--+---------------------
+
+
+• | time to market;
+--+----------------
+
+
+• | customer support; and
+--+----------------------
+
+
+• | total cost of ownership relative to performance and features.
+--+--------------------------------------------------------------
+
+ We believe that we compete favorably with respect to these factors. Nevertheless, many of our competitors have substantial competitive advantages, including greater name recognition, longer operating histories, and substantially greater financial, technical, research and development or other resources than we do.
+ Research and Development 
+ Our research and development efforts are focused on developing new broadband products for the cable, fixed and wireless communications markets and enhancing our current products to meet the current and future needs of our customers. We aim to be first to market with deployable, innovative products.  We are willing to invest early in research and development and take technological risks to meet this goal. We also seek to enhance our technological innovation through our partnerships with industry standard-setting organizations and groups, such as CableLabs, 3GPP, and Wi-Fi Alliance. These efforts position us to be able to advance industry standards while evolving our solutions to meet such new standards. 
+Manufacturing 
+ We partner with multiple global contract manufacturing companies, to manufacture the hardware for our products using the designs, components and standards that we specify.  We conduct final assembly and quality assurance testing at our in-house and outsourced manufacturing facilities. We believe our combination of in-house and outsourced manufacturing capabilities, assembly and quality assurance testing allows us to maintain consistent and quality product for our customers. We also believe that this manufacturing model enables us to respond quickly to technological changes and supports our engineering goal of being first to market with deployable products. We believe our inventory management enables us to offer shorter times between order and delivery to our customers as compared to our competitors. 
+ Our use of multiple contract manufacturers allows us not to be substantially dependent on the availability of any single contract manufacturer. Our contract manufacturers purchase the materials and components for our products through a variety of major electronics suppliers. The majority of our materials and components for our solutions are generally available in adequate quantities from multiple suppliers.
+ Backlog 
+ We do not have any long-term purchase commitments from customers. Customers generally order products on an as-needed basis with short lead and delivery times on a per-purchase-order basis. We maintain substantial finished goods inventory to ensure that products can generally be shipped shortly after receipt of an order.
+ A portion of our customer shipments in any fiscal period relate to orders received in prior fiscal periods. As of December 31, 2019 and 2018, we had backlog of $52.0 million and $28.6 million, respectively. The increase in backlog over that period was due principally to additional NetComm backlog of $28.6 million. Of the amount of backlog as of December 31, 2019, we expect that approximately $51.5 million will be shipped within the following twelve months. However, because our customers utilize purchase orders containing non-binding purchase commitments and customers may cancel, change or reschedule orders without penalty at any time prior to shipment, we have no assurance that we will be able to convert our backlog into shipped orders.
+ 15
+
+Intellectual Property 
+ Our success depends to a significant degree upon our ability to protect our core technology and intellectual property. To accomplish this, we rely on a combination of trade secrets, patents, copyrights and trademarks, as well as contractual protections. To date, we have focused our efforts to protect our intellectual property primarily on trade secrets because the cable industry generally relies on non-patentable CableLabs standards and specifications that are jointly developed by market participants. 
+ We limit access to and use of our proprietary software, technology and other confidential information through the use of internal and external controls, including nondisclosure agreements with employees, consultants, customers and vendors and other measures for maintaining trade secret protection. We generally license our software to customers pursuant to agreements that impose restrictions on the customers’ ability to use the software, including prohibitions on reverse engineering and limitations on the use of copies. We also seek to avoid disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute nondisclosure and assignment of intellectual property agreements and by restricting access to our source code. 
+ We also incorporate a number of third-party software programs into our solutions pursuant to license agreements. Our software is not substantially dependent on any third-party software, although in some cases it utilizes open source code.
+ Employees 
+ We pride ourselves on our culture of innovation, which is driven by our management team of experienced executives and engineers with deep industry expertise. As of December 31, 2019, approximately 62% of our employees were engineers or had other technical backgrounds. With our talented and passionate engineering-led organization, we aim to be an industry visionary and are committed to delivering products based on next-generation technology before our competitors do. By providing customers with direct access to our engineers for product feedback and assistance, we believe our engineering expertise contributes to an enhanced customer experience.
+ As of December 31, 2019, we employed 997 full-time employees, of which 361 were located in the United States and 636 were located outside the United States. Our workforce as of December 31, 2019, consisted of 620 employees in engineering and research and development, 180 employees in sales and marketing, 89 employees in general and administrative, 73 employees in manufacturing and 35 employees in services and support. None of our employees are represented by unions. We consider our relationship with our employees to be good and have not experienced significant interruptions of operations due to labor disagreements.
+ Our Corporate Information
+ We were incorporated in the State of Delaware on February 28, 2003. Our principal executive offices are located at 100 Old River Road, Andover, Massachusetts 01810, and our telephone number at that address is (978) 688-6706.
+Available Information
+ We maintain an internet website at www.casa-systems.com and make available free of charge through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act of 1934, or the Exchange Act. We make these reports available through our website as soon as reasonably practicable after we electronically file such reports with, or furnish such reports to, the Securities and Exchange Commission, or the SEC. You can review our electronically filed reports and other information that we file with the SEC on the SEC’s web site at http://www.sec.gov. We also make available, free of charge on our website, the reports filed with the SEC by our executive officers, directors and 10% stockholders pursuant to Section 16 under the Exchange Act as soon as reasonably practicable after copies of those filings are provided to us by those persons. In addition, we regularly use our website to post information regarding our business, product development programs and governance, and we encourage investors to use our website, particularly the information in the section entitled “Investor Relations,” as a source of information about us.
+ The information on our website is not incorporated by reference into this Annual Report on Form 10-K and should not be considered to be a part of this Annual Report on Form 10-K. Our website address is included in this Annual Report on Form 10-K as an inactive technical reference only. 
+ 
+16
+

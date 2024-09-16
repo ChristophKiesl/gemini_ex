@@ -1,0 +1,335 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.    BUSINESS
+The Company
+We are a fully integrated, self-managed data center real estate investment trust ("REIT") that owns, operates and develops enterprise-class, carrier-neutral, multi-tenant and single-tenant data center properties. Founded in 2001, CyrusOne Inc. successfully completed an initial public offering and began trading on the NASDAQ Exchange on January 18, 2013. Our data centers are generally purpose-built facilities with redundant power and cooling. They are not network specific and enable customer connectivity to a range of telecommunication carriers. We provide mission-critical data center facilities that protect and ensure the continued operation of information technology ("IT") infrastructure for approximately 1,000 customers in 49 data centers, including two recovery centers, in the United States, United Kingdom, Germany and Singapore. 
+The following diagram depicts our ownership structure as of December 31, 2019:
+7
+
+Our Business
+We provide mission-critical data center real estate assets that protect and ensure the continued operation of IT infrastructure for our customers. We provide twenty-four hours-a-day, seven-days-a-week security guard monitoring with customizable security features. Our goal is to be the preferred global data center provider to the Fortune 1000, including the largest enterprises and providers of cloud services. As of December 31, 2019, our customers included 204 of the Fortune 1000, or other companies of equivalent size, representing approximately 77% of our annualized rent as of December 31, 2019. 
+Data centers are highly specialized and secure real estate assets that serve as centralized deployments of server, storage and network equipment. They are designed to provide the space, power, cooling and network connectivity necessary to efficiently operate mission-critical IT equipment. Telecommunications carriers typically provide network access into a data center through optical fiber. The demand for data center infrastructure is being driven by many factors, but most importantly by significant growth in data and increased demand for data processing and storage infrastructure. The market for data center facilities includes established “traditional” enterprises that are web-enabling their applications and business processes, as well as cloud-centric companies with sophisticated technology requirements.
+We cultivate long-term strategic relationships with our customers and provide them with solutions for their data center facilities and IT infrastructure requirements. The Company provides high-quality colocation with robust connectivity and the flexibility for customers to scale for future growth. Our offerings provide flexibility, reliability and security delivered through a tailored, customer service focused platform that is designed to foster long-term relationships. We focus on technology and large cloud computing customers that are expanding their data needs rapidly in the public and private cloud environments to provide them with solutions that address their current and future needs. Our facilities and construction design allow us to offer flexibility in density and power resiliency, and the opportunity for expansion as our customers' needs grow. The Company's network of 49 owned or leased data centers and investments with other colocation providers, enable us to provide our customers with solutions in America, Europe and Asia. The platform enables high-performance, low-cost data transfer and accessibility for customers.
+As a full-service provider of data center solutions, our primary revenue sources consist of colocation rent and power reimbursements from the lease of our data centers and services or products we provide to our customers including managed services, equipment sales, installation and other services. Colocation leases may include all or portions of a data center, where customers may also lease office space to support their colocation operations. Revenue is primarily based on power usage as well as square footage. Managed services are provided in certain contracts pursuant to contracts ranging from one to five years and include monitoring computer equipment, managing backups and storage, utilization reporting and other related ancillary information technology services using our equipment. Equipment sales, where title transfers to the customer, typically consist of servers, switches, networking equipment, cable infrastructure, cabinets and other miscellaneous technology communication equipment typically installed in our colocation facilities. Other services are generally one-time services and include installation of customer equipment, including products we sell to our tenants, performing customer system reboots, server cabinet and cage management, power monitoring, shipping and receiving, resolving technical issues, and other hands-on service requested by the customer. 
+Our Competitive Strengths
+Our ability to attract and retain the world’s largest customers is attributed to the following competitive strengths, which distinguish us from other data center operators and enable us to continue to grow our operations. 
+High Quality Customer Base. The high quality of our assets, combined with our reputation for serving the needs of large enterprises and cloud companies, has enabled us to focus on the Fortune 1000, or other companies of equivalent size, to build a quality customer base. We currently have over 1,000 customers from a broad spectrum of industries. Our revenue is generated by an enterprise customer base, as evidenced by the fact that as of December 31, 2019, 77% of our annualized rent comes from the Fortune 1000 or other companies of equivalent size. We serve a diversity of industries, including information technology, financial services, energy, oil and gas, mining, medical, research and consulting services, and consumer goods and services.
+For the year ended December 31, 2019, Microsoft Corporation represented 21% of our revenue.
+Strategically Located Portfolio. Our portfolio is located in several domestic and international markets possessing attractive characteristics for enterprise-focused data center operations. We have domestic properties in seven of the largest metropolitan areas in the U.S. (Northern Virginia, New York, Chicago, Houston, Phoenix, San Antonio and Dallas) and five of the largest metropolitan areas for Fortune 500 headquarters (New York, Houston, Dallas, Chicago and Cincinnati). We also have six properties in international markets including three in London, two in Frankfurt and one in Singapore. We have data centers under construction in Santa Clara, California, as well as Dublin, the Republic of Ireland and Amsterdam, The Netherlands. We believe cities with large populations or a large number of corporate headquarters are likely to produce incremental demand for IT infrastructure. In addition, being located 
+8
+
+close to our current and potential customers provides chief information officers ("CIOs") with additional confidence when outsourcing their data center infrastructure to us.
+Modern, High Quality, Flexible Facilities. Our portfolio includes highly efficient, reliable facilities with flexibility to customize customer solutions and accessibility to hundreds of connectivity providers. To optimize the delivery of power, our properties include modern engineering technologies designed to minimize unnecessary power usage and, in our newest facilities, we are able to provide power utilization efficiency ratios that we believe to be among the best in the multi-tenant data center industry. Fortune 1000 CIOs are frequently dividing their application stacks into various groups as some applications require 100% availability, while others may require significant power to support complex computing, or robust connectivity. Our facility design enables us to deliver different power densities and resiliencies to the same customer footprint, allowing customers to tailor solutions to meet their application needs. In addition, the National IX Platform, discussed below, provides access to hundreds of telecommunication and Internet carriers.
+Massively Modular® Construction Methods. Our Massively Modular® data center design principles allow us to efficiently stage construction on a large scale and deliver critical power and colocation square feet (CSF) in a timeframe that we believe is one of the best in the industry. We acquire or build a large powered shell capable of scaling with our customers’ power and colocation space needs. Once the building shell is ready, we can build individual data center halls in portions of the building space to meet the needs of customers on a modular basis. This modular data center hall construction can be completed in 12 to 16 weeks to meet our customers’ immediate needs. This short construction timeframe ensures a very high utilization of the assets and minimizes the time between our capital investment and the recognition of customer revenue, favorably impacting our return on investment while also translating into lower costs for our customers. Our design principles also allow us to add incremental equipment to increase power densities as our customers’ power needs increase, which provides our customers with a significant amount of flexibility to manage their IT demands. We believe this Massively Modular® approach allows us to respond to rapidly evolving customer needs, to commit capital toward the highest return projects and to develop state-of-the-art data center facilities.
+Significant Leasing Capability. Our focus on the customer, our ability to scale with their needs, and our operational excellence provide us with embedded future growth from our customer base. During 2019, we signed new leases representing $104.9 million in annualized revenue, with previously existing customers accounting for approximately 75% of this amount. Since December 31, 2018, we have increased our CSF by approximately 346,000 square feet or 9%, while maintaining a high percentage of CSF utilized of 85% and 88% as of December 31, 2019 and 2018, respectively.
+Significant, Attractive Expansion Opportunities. As of December 31, 2019, we had 1.9 million net rentable square feet (NRSF) of powered shell available for future development and approximately 499 acres of land that are available for future data center facility development, consisting of 476 acres in US markets and 23 in Europe. The powered shell available for future development in locations that are part of our domestic portfolio consist of approximately 572,000 NRSF in the Northeast (Raleigh-Durham, Northern Virginia and New York Metro), 909,000 NRSF in the Southwest (Texas and Phoenix) and 439,000 NRSF in the Midwest (Chicago and Cincinnati). Our current development properties and available acreage were selected based on extensive site selection criteria and the collective industry knowledge and experience of our management team, with a focus on markets with a strong presence of and high demand by Fortune 1000 companies and providers of cloud services. As a result, we believe that our development portfolio contains properties that are located in markets with attractive supply and demand conditions and that possess suitable physical characteristics to support data center infrastructure.
+Differentiated Reputation for Service. We believe that the decision CIOs make to outsource their data center infrastructure has material implications for their businesses and, as such, CIOs look to third-party data center providers that have a reputation for serving similar organizations and that are able to deliver a customized solution. We take a consultative approach to understanding the unique requirements of our customers, and our design principles allow us to deliver a customized data center solution to match their needs. We believe that this approach has helped fuel our growth. Our current customers are also often the source of new contracts, with referrals being an important source of new customers.
+Experienced Management Team. Our management team is comprised of individuals drawing on diverse knowledge and skill sets acquired through extensive experiences in the real estate, REITs, telecommunications, technology and mission-critical infrastructure industries.
+Balance Sheet Positioned to Fund Continued Growth. As of December 31, 2019, we had $1,153.2 million in available liquidity, including $1,076.8 million in borrowing capacity under our $3.0 billion unsecured credit facility. The credit facility consists of a $1.7 billion revolving credit facility ("$1.7 Billion Revolving Credit Facility"), which includes a $750.0 million multicurrency borrowing sublimit, a 5-year term loan with commitments totaling $1.0 billion ("2023 Term Loan") and a $300.0 million 7-year term loan ("2025 Term Loan") (collectively, the "$3.0 Billion Credit Facility"). The $3.0 Billion Credit Facility also includes an accordion feature providing for an aggregate increase in the revolving and term loan components to $3.8 billion, subject to certain conditions. We believe that we are appropriately capitalized with sufficient financial flexibility and capacity to fund our anticipated growth. 
+9
+
+Experienced Sales Force with Robust Partner Channel. We have an experienced sales force with a particular expertise in selling to large enterprises and providers of cloud services, which can require extensive consultation and drive long sales cycles as these enterprises make the initial outsourcing decision. As of December 31, 2019, we had 49 sales-related employees. We believe the depth, knowledge, and experience of our sales team differentiates us from other data center companies, and we are not as dependent on brokers to identify and acquire customers as some other companies in the industry. To complement our direct sales efforts, we have developed a robust network of partners, including value added resellers, systems integrators and hosting providers.
+Business and Growth Strategies
+Our objective is to grow our revenue and earnings, and maximize stockholder returns and cash flow, by continuing to expand our data center infrastructure outsourcing business.
+Increasing Revenue from Existing Customers and Properties. We have historically generated a significant portion of our revenue growth from our existing customers. We will continue to target our existing customers because we believe that many have significant data center infrastructure needs that have not yet been outsourced, and many will require additional data center space and power to support their growth and their increasing reliance on technology infrastructure in their operations. To address new demand, as of December 31, 2019, we have approximately 1.7 million NRSF currently available for lease. We also have approximately 1.7 million NRSF under development, as well as 1.9 million NRSF of additional powered shell space under roof available for future development and approximately 499 acres of land that are available for future data center facility development.
+Attracting and Retaining New Customers. Increasingly, enterprises are beginning to recognize the complexities of managing data center infrastructure in the midst of rapid technological development and innovation. We believe that these complexities, brought about by the rapidly increasing levels of Internet traffic and data, private and public cloud adoption, obsolete existing corporate data center infrastructure, increased power and cooling requirements and increased regulatory requirements, are all driving the need for companies to outsource their data center facility requirements. Consequently, this will significantly increase the percentage of companies that use third-party data center colocation services over the next several years. We believe that our high-quality assets and reputation for serving cloud providers and large enterprises have been, and will be, key differentiators for us in attracting customers that are outsourcing their data center infrastructure needs. 
+We acquire customers through a variety of channels. We have historically managed our sales process through a direct-to-the-customer model but also utilize third-party leasing agents and indirect leasing channels to expand our universe of potential new customers. Over the past few years, we have developed a robust network of partners in our indirect leasing channels, including value added resellers, systems integrators and hosting providers. These channels, in combination with our marketing strategies, have enabled us to build both a strong brand and outreach program to new customers. Throughout the life cycle of a customer’s lease with us, we maintain a disciplined approach to monitoring their experience, with the goal of providing the highest level of customer service. This personal attention fosters a strong relationship and trust with our customers, which lead to future growth and leasing renewals. 
+Expanding into New Markets. Our expansion strategy focuses on acquiring and developing new data centers, both domestically and internationally, in markets where our customers are located and in markets with a strong presence of and high demand by Fortune 1000 customers and providers of cloud services. We conduct extensive analysis to ensure an identified market displays strong data center fundamentals, independent of the demand presented by any particular customer. In addition, we consider markets where our existing customers want us to be located. We regularly meet with our customers to understand their business strategies and potential data center needs. We believe that this approach, combined with our Massively Modular® construction design, reduces the risk associated with expansion into new markets because it provides strong visibility into our leasing opportunities and helps to ensure targeted returns on new developments. When considering a new market, we take a disciplined approach in evaluating potential business, property and site acquisitions, including a site’s geographic attributes, availability of telecommunications and connectivity providers, access to power, and expected costs for development.
+Growing Interconnection Business. Our National IX Platform delivers interconnection across states and between metro-enabled sites within the CyrusOne facility footprint and beyond. The platform enables high-performance, low-cost data transfer and accessibility for our customers seeking to connect between CyrusOne facilities, from CyrusOne to their own private data center facility, or with one another via private peering, cross connects and/or public switching environments. Interconnection within a facility or on the National IX Platform allows our customers to share information and conduct commerce in a highly efficient manner not requiring a third-party intermediary, and at a fraction of the cost normally required to establish such a connection between two enterprises. The demand for interconnection creates additional rental and revenue growth opportunities for us, and we believe that customer interconnections increase our likelihood of customer retention by providing an environment not easily replicated by competitors. We act as a trusted neutral party that enterprises, carriers and content companies utilize to connect to each other.
+10
+
+Our Portfolio
+We own and operate 49 data centers, including two recovery centers, totaling 7.1 million NRSF; 85% of the CSF is leased and includes 797 megawatts ("MW") of power capacity. This includes 13 buildings where the Company leases such facilities. We are lessee of approximately 13% of our total operating NRSF as of December 31, 2019. Also included in our total NRSF, CSF and MW are pre-stabilized assets (which include data halls that have been in service for less than 24 months and are less than 85% leased) that have approximately 315,125 NRSF, 28% of the CSF is leased with capacity of 30 MW of power. 
+In addition, we have properties under development comprising approximately 1.7 million NRSF and 92 MW of power capacity. The estimated total costs to develop these properties is between $544.0 million and $634.0 million. The final cost to develop could change depending on the capital improvements required based on the lease contracts executed on such properties. We also have 499 acres of land available for future data center development. The following tables provide an overview of our operating and development properties as of December 31, 2019.
+11
+
+CyrusOne Inc.
+Data Center Portfolio
+As of December 31, 2019
+(unaudited)
+
+ | | | Operating Net Rentable Square Feet (NRSF)(a) | PoweredShell Availablefor Future Development(NRSF)(k) (000) | Available Critical Load Capacity (MW)(l)
+Stabilized Properties(b) | MetroArea | Annualized Rent(c) ($000) | Colocation Space (CSF)(d) (000) | CSF Occupied(e) | CSF Leased(f) | Office & Other(g) (000) | Office & Other Occupied(h) | SupportingInfrastructure(i) (000) | Total(j) (000) 
+Dallas - Carrollton | Dallas | $ | 84,063 | | 379 | | 81 | % | | % | | 46 | % | 133 | | 595 | | — | | 56
+Northern Virginia - Sterling V | Northern Virginia | 60,046 | | 383 | | 86 | % | 93 | % | 11 | 100 | % | 145 | | 539 | | 64 | | 66 | 
+Northern Virginia - Sterling VI | Northern Virginia | 47,424 | | 272 | | 88 | % | 91 | % | 35 | — | % | — | | 307 | | — | | 57 | 
+Northern Virginia - Sterling II | Northern Virginia | 35,498 | | 159 | | 100 | % | 100 | % | 9 | 100 | % | 55 | | 223 | | — | | 30 | 
+San Antonio III | San Antonio | 32,733 | | 132 | | 100 | % | 100 | % | 9 | 100 | % | 43 | | 184 | | — | | 24 | 
+Somerset I | New York Metro | 31,991 | | 108 | | 81 | % | 81 | % | 27 | 99 | % | 89 | | 224 | | 186 | | 16 | 
+Chicago - Aurora I | Chicago | 31,445 | | 113 | | 98 | % | 98 | % | 34 | 100 | % | 223 | | 371 | | 27 | | 71 | 
+Cincinnati - 7th Street*** | Cincinnati | 31,285 | | 197 | | 65 | % | 65 | % | 6 | 61 | % | 175 | | 378 | | 46 | | 16 | 
+Houston - Houston West I | Houston | 28,687 | | 112 | | 75 | % | 75 | % | 11 | 100 | % | 37 | | 161 | | 3 | | 28 | 
+Totowa - Madison** | New York Metro | 26,656 | | 51 | | 87 | % | 87 | % | 22 | 89 | % | 59 | | 133 | | — | | 6 | 
+Dallas - Lewisville* | Dallas | 26,527 | | 114 | | 81 | % | 81 | % | 11 | 63 | % | 54 | | 180 | | — | | 21 | 
+Cincinnati - North Cincinnati | Cincinnati | 24,910 | | 65 | | 99 | % | 99 | % | 45 | 79 | % | 53 | | 163 | | 65 | | 14 | 
+Phoenix - Chandler VI | Phoenix | 24,778 | | 148 | | 100 | % | 100 | % | 6 | 100 | % | 32 | | 187 | | 279 | | 24 | 
+Frankfurt I | Frankfurt | 22,280 | | 53 | | 97 | % | 97 | % | 8 | 91 | % | 57 | | 118 | | — | | 18 | 
+Houston - Houston West II | Houston | 21,190 | | 80 | | 75 | % | 75 | % | 4 | 88 | % | 55 | | 139 | | | | | 
+Austin III | Austin | 20,811 | | 62 | | 69 | % | 69 | % | 15 | 98 | % | 21 | | 98 | | 67 | | 9 | 
+San Antonio I | San Antonio | 20,258 | | 44 | | 99 | % | 99 | % | 6 | 83 | % | 46 | | 96 | | | | | 
+Phoenix - Chandler II | Phoenix | 20,145 | | 74 | | 100 | % | 100 | % | 6 | 53 | % | 26 | | 105 | | — | | 12 | 
+Wappingers Falls I** | New York Metro | 19,962 | | 37 | | 65 | % | 65 | % | 20 | 87 | % | 15 | | 72 | | — | | 3 | 
+Phoenix - Chandler I | Phoenix | 19,927 | | 74 | | 100 | % | 100 | % | 35 | 12 | % | 39 | | 147 | | 31 | | 16 | 
+Northern Virginia - Sterling III | Northern Virginia | 19,444 | | 79 | | 100 | % | 100 | % | 7 | 100 | % | 34 | | 120 | | — | | 15 | 
+Phoenix - Chandler III | Phoenix | 19,194 | | 68 | | 100 | % | 100 | % | 2 | — | % | 30 | | 101 | | — | | 14 | 
+Northern Virginia - Sterling I | Northern Virginia | 17,956 | | 78 | | 100 | % | 100 | % | 6 | 69 | % | 49 | | 132 | | — | | 12 | 
+Raleigh-Durham I | Raleigh-Durham | 17,945 | | 83 | | 88 | % | 95 | % | 13 | 93 | % | 82 | | 178 | | 235 | | 15 | 
+Northern Virginia - Sterling IV | Northern Virginia | 15,742 | | 81 | | 100 | % | 100 | % | 7 | 100 | % | 34 | | 122 | | — | | 15 | 
+Frankfurt II | Frankfurt | 15,616 | | 90 | | 100 | % | 100 | % | 9 | 100 | % | 72 | | 171 | | 10 | | 35 | 
+San Antonio II | San Antonio | 14,631 | | 64 | | 100 | % | 100 | % | 11 | 100 | % | 41 | | 117 | | — | | 12 | 
+Austin II | Austin | 14,621 | | 44 | | 89 | % | 92 | % | 2 | 100 | % | 22 | | 68 | | — | | 5 | 
+Phoenix - Chandler V | Phoenix | 14,025 | | 72 | | 100 | % | 100 | % | 1 | 95 | % | 16 | | 89 | | 94 | | 12 | 
+Houston - Galleria | Houston | 13,994 | | 63 | | 48 | % | 48 | % | 23 | 40 | % | 25 | | 112 | | — | | 14 | 
+Florence | Cincinnati | 13,661 | | 53 | | 99 | % | 99 | % | 47 | 87 | % | 40 | | 140 | | — | | 9 | 
+London I* | London | 12,083 | | 30 | | 100 | % | 100 | % | 12 | 56 | % | 58 | | 100 | | 9 | | 12 | 
+Phoenix - Chandler IV | Phoenix | 11,570 | | 73 | | 100 | % | 100 | % | 3 | 100 | % | 27 | | 103 | | — | | 12 | 
+Cincinnati - Hamilton* | Cincinnati | 11,104 | | 47 | | 73 | % | 73 | % | 1 | 100 | % | 35 | | 83 | | — | | 10 | 
+San Antonio IV | San Antonio | 10,823 | | 60 | | 100 | % | 100 | % | 12 | 100 | % | 27 | | 99 | | — | | 12 | 
+London II* | London | 9,989 | | 64 | | 100 | % | 100 | % | 10 | 100 | % | 93 | | 166 | | 4 | | 21 | 
+Houston - Houston West III | Houston | 6,947 | | 53 | | | % | | % | 10 | 100 | % | 32 | | 95 | | 209 | | 6 | 
+London - Great Bridgewater** | London | 6,808 | | 10 | | 96 | % | 96 | % | — | — | % | 1 | | 11 | | — | | 1 | 
+Stamford - Riverbend** | New York Metro | 6,053 | | 20 | | 23 | % | 23 | % | — | — | % | 8 | | 28 | | — | | 2 | 
+Cincinnati - Mason | Cincinnati | 5,212 | | 34 | | 100 | % | 100 | % | 26 | 98 | % | 17 | | 78 | | — | | 4 | 
+Chicago - Aurora II (DH #1) | Chicago | 4,760 | | 77 | | 47 | % | 49 | % | 45 | — | % | 14 | | 136 | | 272 | | 16 | 
+Norwalk I** | New York Metro | 4,692 | | 13 | | 100 | % | 100 | % | 4 | 65 | % | 41 | | 58 | | 87 | | 2 | 
+Chicago - Lombard | Chicago | 2,414 | | 14 | | 64 | % | 64 | % | 4 | 45 | % | 12 | | 30 | | 29 | | 3 | 
+Stamford - Omega** | New York Metro | 1,234 | | — | | — | % | — | % | 19 | 79 | % | 4 | | 22 | | — | | — | 
+
+12
+
+
+CyrusOne Inc. 
+Data Center Portfolio 
+As of December 31, 2019 
+(Unaudited) 
+ | | | Operating Net Rentable Square Feet (NRSF)(a) | PoweredShell Availablefor Future Development(NRSF)(k) (000) | Available Critical Load Capacity (MW)(l)
+ | MetroArea | Annualized Rent(c) ($000) | Colocation Space (CSF)(d) (000) | CSF Occupied(e) | CSF Leased(f) | Office & Other(g) (000) | Office & Other Occupied(h) | SupportingInfrastructure(i) (000) | Total(j) (000) 
+Totowa - Commerce** | New York Metro | $ | 666 | | — | | — | % | — | % | 20 | | 44 | % | 6 | | 26 | | — | | — | 
+Cincinnati - Blue Ash* | Cincinnati | 633 | | 6 | | 36 | % | 36 | % | 7 | | 100 | % | 2 | | 15 | | — | | 1 | 
+Singapore - Inter Business Park** | Singapore | 368 | | 3 | | 20 | % | 20 | % | — | | — | % | — | | 3 | | — | | 1 | 
+Stabilized Properties - Total | | $ | 902,801 | | 3,937 | | | % | | % | 705 | | 66 | % | $ | 2,178 | | 6,820 | | 1,739 | | 767
+Pre-Stabilized Properties(b) | | | | | | | | | | | 
+Northern Virginia - Sterling VIII | Northern Virginia | 8,805 | | 61 | | 37 | % | 37 | % | 4 | | — | % | 25 | | 90 | | — | | 6 | 
+Dallas - Carrollton (DH #7) | Dallas | 4,100 | | 48 | | 38 | % | 57 | % | — | | — | % | — | | 48 | | — | | 6 | 
+Dallas - Allen (DH #1) | Dallas | 1,056 | | 79 | | 9 | % | 9 | % | — | | — | % | 58 | | 137 | | 204 | | 6 | 
+London II* -(DH #3) | London | — | | 17 | | — | % | — | % | — | | — | % | $ | — | | 17 | | — | | | 
+London I* -(DH #1) | London | — | | | | — | % | — | % | — | | — | % | — | | 8 | | — | | 3 | 
+Somerset I (DH #14) | New York Metro | — | | 16 | | — | % | 40 | % | — | | — | % | — | | 16 | | — | | 2 | 
+All Properties - Total | | $ | 916,763 | | 4,165 | | 83 | % | 85 | % | 709 | | 66 | % | 2,261 | | 7,135 | | 1,942 | | 797 | 
+
+
+* | Indicates properties in which we hold a leasehold interest in the building shell and land. All data center infrastructure has been constructed by us and is owned by us.
+
+
+** | Indicates properties in which we hold a leasehold interest in the building shell, land, and all data center infrastructure.
+
+*** The information provided for the Cincinnati - 7th Street property includes data for two facilities, one of which we lease and one of which we own.    
+
+(a) | Represents the total square feet of a building under lease or available for lease based on engineers' drawings and estimates but does not include space held for development or space used by CyrusOne.
+
+
+(b) | Stabilized properties include data halls that have been in service for at least 24 months or are at least 85% leased. Pre-stabilized properties include data halls that have been in service for less than 24 months and are less than 85% leased.
+
+
+(c) | Represents monthly contractual rent (defined as cash rent including customer reimbursements for metered power) under existing customer leases as of December 31, 2019 multiplied by 12. For the month of December 2019, customer reimbursements were $137.6 million annualized and consisted of reimbursements by customers across all facilities with separately metered power. Customer reimbursements under leases with separately metered power vary from month-to-month based on factors such as our customers' utilization of power and the suppliers' pricing of power. From January 1, 2018 through December 31, 2019, customer reimbursements under leases with separately metered power constituted between 11.6% and 19.4% of annualized rent. After giving effect to abatements, free rent and other straight-line adjustments, our annualized effective rent as of December 31, 2019 was $906.7 million. Our annualized effective rent was lower than our annualized rent as of December 31, 2019 because our negative straight-line and other adjustments and amortization of deferred revenue exceeded our positive straight-line adjustments due to factors such as the timing of contractual rent escalations and customer payments for services.
+
+
+(d) | CSF represents the NRSF at an operating facility that is currently leased or readily available for lease as colocation space, where customers locate their servers and other IT equipment.
+
+
+(e) | Percent occupied is determined based on CSF billed to customers under signed leases as of December 31, 2019 divided by total CSF. Leases signed but that have not commenced billing as of December 31, 2019 are not included.
+
+
+(f) | Percent leased is calculated by dividing CSF under signed leases for colocation space (whether or not the lease has commenced billing) by total CSF.
+
+
+(g) | Represents the NRSF at an operating facility that is currently leased or readily available for lease as space other than CSF, which is typically office and other space.
+
+
+(h) | Percent occupied is determined based on Office & Other space being billed to customers under signed leases as of December 31, 2019 divided by total Office & Other space. Leases signed but not commenced as of December 31, 2019 are not included.
+
+
+(i) | Represents infrastructure support space, including mechanical, telecommunications and utility rooms, as well as building common areas.
+
+
+(j) | Represents the NRSF at an operating facility that is currently leased or readily available for lease. This excludes existing vacant space held for development.
+
+
+(k) | Represents space that is under roof that could be developed in the future for operating NRSF, rounded to the nearest 1,000.
+
+
+(l) | Critical load capacity represents the aggregate power available for lease and exclusive use by customers expressed in terms of megawatts. The capacity reported is for non-redundant megawatts, as we can develop flexible solutions to our customers at multiple resiliency levels. Does not sum to total due to rounding.
+
+13
+
+CyrusOne Inc.
+NRSF Under Development
+As of December 31, 2019
+(Dollars in millions)
+(unaudited)
+
+ | | | NRSF Under Development(a) | | Under Development Costs(b) 
+Facilities | MetropolitanArea | Estimated Completion Date | Colocation Space(CSF) (000) | Office & Other (000) | SupportingInfrastructure (000) | Powered Shell(c) (000) | Total (000) | Critical Load MW Capacity(d) | Actual toDate(e) | Estimated Costs toCompletion(f) | Total
+Northern Virginia - Sterling IX | Northern Virginia | 1Q'20 | — | | — | | — | | 307 | | 307 | — | $ | 46 | | $41-50 | $87-96 
+Amsterdam I | Amsterdam | 1Q'20 | 39 | | 28 | | 40 | | 194 | | 301 | 4.0 | 56 | | 9-20 | 65-76 
+Northern Virginia - Sterling VIII | Northern Virginia | 2Q'20 | 61 | | — | | — | | — | | 61 | 24.0 | 43 | | 65-77 | 108-120 
+London III | London | 2Q'20 | 20 | | 2 | | 45 | | 20 | | 87 | 6.0 | 19 | | 22-27 | 41-46 
+Raleigh-Durham I | Raleigh-Durham | 2Q'20 | 11 | | 3 | | — | | — | | 14 | 2.0 | 1 | | 9-11 | 10-12 
+Frankfurt III | Frankfurt | 3Q'20 | 101 | | 9 | | 109 | | 39 | | 258 | 35.0 | 28 | | 155-175 | 183-203 
+Northern Virginia - Sterling VII | Northern Virginia | 3Q'20 | — | | — | | — | | 167 | | 167 | — | 27 | | 64-73 | 91-100 
+San Antonio V | San Antonio | 3Q'20 | 67 | | 7 | | 21 | | 105 | | 199 | 9.0 | 21 | | 65-74 | 86-95 
+Council Bluffs I | Council Bluffs, IA | 3Q'20 | 42 | | 14 | | 18 | | 42 | | 115 | 6.0 | 1 | | 59-65 | 60-66 
+Dublin I | Dublin | 4Q'20 | 39 | | 10 | | 33 | | 113 | | 195 | 6.0 | 12 | | 55-62 | 67-74 
+Total | | | 380 | | 73 | | 265 | | 985 | | 1,704 | 92.0 | $ | 254 | | $544-634 | $798-888
+
+
+(a) | Represents NRSF at a facility for which activities have commenced or are expected to commence in the next 2 quarters to prepare the space for its intended use. Estimates and timing are subject to change. May not sum to total due to rounding.
+
+
+(b) | London development costs are GBP-denominated and shown as USD-equivalent using exchange rate of 1.32. Frankfurt and Amsterdam development costs are EUR-denominated and shown as USD-equivalent using exchange rate of 1.12 as of December 31, 2019.
+
+
+(c) | Represents NRSF under construction that, upon completion, will be powered shell available for future development into operating NRSF.
+
+
+(d) | Critical load capacity represents the aggregate power available for lease and exclusive use by customers expressed in terms of megawatts. The capacity reported is for non-redundant megawatts, as we can develop flexible solutions to our customers at multiple resiliency levels.
+
+
+(e) | Actual to date is the cash investment as of December 31, 2019. There may be accruals above this amount for work completed, for which cash has not yet been paid.
+
+
+(f) | Represents management’s estimate of the total costs required to complete the current NRSF under development. There may be an increase in costs if customers require greater power density.
+
+14
+
+Customer Diversification
+Our portfolio is currently leased to approximately 1,000 customers, many of which are leading global companies. The following table sets forth information regarding the 20 largest customers, including their affiliates, in our portfolio based on annualized rent as of December 31, 2019:
+CyrusOne Inc.
+Customer Sector Diversification(a)
+As of December 31, 2019
+(unaudited)
+ 
+ | Principal Customer Industry | Number ofLocations | AnnualizedRent(b) (000) | Percentage ofPortfolioAnnualizedRent(c) | WeightedAverageRemainingLease Term inMonths(d)
+1 | Information Technology | 11 | | $ | 188,006 | | 20.5 | % | 99.6
+2 | Information Technology | 11 | | 58,852 | | 6.4 | % | 30.9 | 
+3 | Information Technology | 5 | | 54,674 | | 6.0 | % | 55.5 | 
+4 | Information Technology | 7 | | 35,175 | | 3.8 | % | 51.4 | 
+5 | Information Technology | 7 | | 33,659 | | 3.7 | % | 41.4 | 
+6 | Information Technology | | | 20,186 | | 2.2 | % | 34.2 | 
+ | Financial Services | 1 | | 19,486 | | 2.1 | % | 135.0 | 
+8 | Healthcare | 2 | | 15,442 | | 1.7 | % | 96.0 | 
+9 | Research and Consulting Services | 3 | | 15,435 | | 1.7 | % | 24.8 | 
+10 | Information Technology | 4 | | 14,236 | | 1.6 | % | 44.6 | 
+11 | Industrials | 5 | | 11,182 | | 1.2 | % | 8.2 | 
+12 | Telecommunication Services | 2 | | 9,966 | | 1.1 | % | 21.4 | 
+13 | Information Technology | 3 | | 9,954 | | 1.1 | % | 54.9 | 
+14 | Financial Services | 2 | | 9,795 | | 1.1 | % | 47.0 | 
+15 | Telecommunication Services | 8 | | 9,637 | | 1.0 | % | 13.5 | 
+16 | Consumer Staples | 3 | | 9,230 | | 1.0 | % | 13.9 | 
+17 | Information Technology | 4 | | 8,735 | | 1.0 | % | 98.7 | 
+18 | Telecommunication Services | 1 | | 8,131 | | 0.9 | % | 94.3 | 
+19 | Information Technology | 1 | | 7,726 | | 0.8 | % | 12.0 | 
+20 | Financial Services | 1 | | 6,600 | | 0.7 | % | 5.0 | 
+ | | | $ | 546,108 | | 59.5 | % | 65.8 | 
+
+
+(a) | Customers and their affiliates are consolidated.
+
+
+(b) | Represents monthly contractual rent (defined as cash rent including customer reimbursements for metered power) under existing customer leases as of December 31, 2019, multiplied by 12. For the month of December 2019, customer reimbursements were $137.6 million annualized and consisted of reimbursements by customers across all facilities with separately metered power. Customer reimbursements under leases with separately metered power vary from month-to-month based on factors such as our customers' utilization of power and the suppliers' pricing of power. From January 1, 2018 through December 31, 2019, customer reimbursements under leases with separately metered power constituted between 11.6% and 19.4% of annualized rent. After giving effect to abatements, free rent and other straight-line adjustments, our annualized effective rent as of December 31, 2019 was $906.7 million. Our annualized effective rent was greater than our annualized rent as of December 31, 2019 because our positive straight-line and other adjustments and amortization of deferred revenue exceeded our negative straight-line adjustments due to factors such as the timing of contractual rent escalations and customer prepayments for services. 
+
+
+(c) | Represents the customer’s total annualized rent divided by the total annualized rent in the portfolio as of December 31, 2019, which was approximately $916.8 million.
+
+
+(d) | Weighted average based on customer’s percentage of total annualized rent expiring and is as of December 31, 2019, assuming that customers exercise no renewal options and exercise all early termination rights that require payment of less than 50% of the remaining rents. Early termination rights that require payment of 50% or more of the remaining lease payments are not assumed to be exercised because such payments approximate the profitability margin of leasing that space to the customer, such that we do not consider early termination to be economically detrimental to us.
+
+15
+
+Lease Distribution
+The following table sets forth information relating to the distribution of customer leases in the properties in our portfolio, based on NRSF under lease as of December 31, 2019:
+CyrusOne Inc.
+Lease Distribution
+As of December 31, 2019
+(unaudited)
+
+NRSF Under Lease(a) | Number ofCustomers(b) | Percentage ofAll Customers | TotalLeasedNRSF(c) (000) | Percentage ofPortfolioLeased NRSF | AnnualizedRent(d) (000) | Percentage ofAnnualized Rent
+0-999 | 639 | | 67 | % | 136 | | 3 | % | $ | 82,219 | | 9 | %
+1,000-2,499 | 120 | | 13 | % | 185 | | 3 | % | 45,014 | | 5 | % 
+2,500-4,999 | 72 | | 7 | % | 253 | | 5 | % | 47,890 | | 5 | % 
+5,000-9,999 | 48 | | 5 | % | 342 | | 6 | % | 55,093 | | 6 | % 
+10,000+ | 78 | | 8 | % | 4,563 | | 83 | % | 686,547 | | 75 | % 
+Total | 957 | | 100 | % | 5,480 | | 100 | % | $ | 916,763 | | 100 | %
+
+
+(a) | Represents all leases in our portfolio, including colocation, office and other leases.
+
+
+(b) | Represents the number of customers occupying data center, office and other space as of December 31, 2019. This may vary from total customer count as some customers may be under contract, but have yet to occupy space. 
+
+
+(c) | Represents the total square feet at a facility under lease and that has commenced billing, excluding space held for development or space used by CyrusOne. A customer’s leased NRSF is estimated based on such customer’s direct CSF or office and light-industrial space plus management’s estimate of infrastructure support space, including mechanical, telecommunications and utility rooms, as well as building common areas.
+
+
+(d) | Represents monthly contractual rent (defined as cash rent including customer reimbursements for metered power) under existing customer leases as of December 31, 2019, multiplied by 12. For the month of December 2019, customer reimbursements were $137.6 million annualized and consisted of reimbursements by customers across all facilities with separately metered power. Customer reimbursements under leases with separately metered power vary from month-to-month based on factors such as our customers' utilization of power and the suppliers' pricing of power. From January 1, 2018 through December 31, 2019, customer reimbursements under leases with separately metered power constituted between 11.6% and 19.4% of annualized rent. After giving effect to abatements, free rent and other straight-line adjustments, our annualized effective rent as of December 31, 2019 was $906.7 million. Our annualized effective rent was greater than our annualized rent as of December 31, 2019 because our positive straight-line and other adjustments and amortization of deferred revenue exceeded our negative straight-line adjustments due to factors such as the timing of contractual rent escalations and customer prepayments for services.
+
+16
+
+Lease Expiration
+The following table sets forth a summary schedule of the customer lease expirations for leases in place as of December 31, 2019, plus available space, for each of the 10 full calendar years beginning January 1, 2020, at the properties in our portfolio. 
+CyrusOne Inc.
+Lease Expirations
+As of December 31, 2019
+(unaudited)
+
+
+Year(a) | Number ofLeasesExpiring(b) | Total OperatingNRSF Expiring (000) | Percentage ofTotal NRSF | AnnualizedRent(c) (000) | Percentage ofAnnualized Rent | Annualized Rentat Expiration(d) (000) | Percentage ofAnnualized Rent at Expiration 
+Available | | 1,655 | | 23 | % | | | | 
+Month-to-Month | 894 | | 63 | | 1 | % | $ | 24,380 | | 3 | % | $ | 24,455 | | 2 | %
+2020 | 2,831 | | 763 | | 11 | % | 136,872 | | 15 | % | 137,902 | | 14 | %
+2021 | 2,219 | | 679 | | 9 | % | 142,498 | | 16 | % | 146,488 | | 15 | %
+2022 | 1,529 | | 603 | | 8 | % | 105,752 | | 11 | % | 111,609 | | 11 | %
+2023 | 387 | | 732 | | 10 | % | 113,445 | | 12 | % | 135,415 | | 14 | %
+2024 | 227 | | 488 | | 7 | % | 89,120 | | 10 | % | 101,475 | | 10 | %
+2025 | 62 | | 201 | | 3 | % | 30,374 | | 3 | % | 34,261 | | 3 | %
+2026 | 46 | | 623 | | | % | 94,092 | | | % | 101,536 | | 10 | %
+2027 | 25 | | 480 | | 7 | % | 81,591 | | 9 | % | 90,469 | | 9 | %
+2028 | 17 | | 277 | | 4 | % | 31,446 | | | % | 36,783 | | | %
+2029 | 7 | | 83 | | 1 | % | 6,154 | | 1 | % | 8,771 | | 1 | %
+2030 - Thereafter | 18 | | 487 | | 7 | % | 61,039 | | 7 | % | 70,840 | | 7 | %
+Total | 8,262 | | 7,135 | | 100 | % | $ | 916,763 | | 100 | % | $ | 1,000,004 | | 100 | %
+
+
+(a) | Leases that were auto-renewed prior to December 31, 2019 are shown in the calendar year in which their current auto-renewed term expires. Unless otherwise stated in the footnotes, the information set forth in the table assumes that customers exercise no renewal options and exercise all early termination rights that require payment of less than 50% of the remaining rents. Early termination rights that require payment of 50% or more of the remaining lease payments are not assumed to be exercised.
+
+
+(b) | Number of leases represents each agreement with a customer. A lease agreement could include multiple spaces and a customer could have multiple leases.
+
+
+(c) | Represents monthly contractual rent (defined as cash rent including customer reimbursements for metered power) under existing customer leases as of December 31, 2019, multiplied by 12. For the month of December 2019, customer reimbursements were $137.6 million annualized and consisted of reimbursements by customers across all facilities with separately metered power. Customer reimbursements under leases with separately metered power vary from month-to-month based on factors such as our customers' utilization of power and the suppliers' pricing of power. From January 1, 2018 through December 31, 2019, customer reimbursements under leases with separately metered power constituted between 11.6% and 19.4% of annualized rent. After giving effect to abatements, free rent and other straight-line adjustments, our annualized effective rent as of December 31, 2019 was $906.7 million. Our annualized effective rent was greater than our annualized rent as of December 31, 2019 because our positive straight-line and other adjustments and amortization of deferred revenue exceeded our negative straight-line adjustments due to factors such as the timing of contractual rent escalations and customer prepayments for services.
+
+
+(d) | Represents the final monthly contractual rent under existing customer leases that had commenced as of December 31, 2019, multiplied by 12.
+
+Regulation
+General
+Properties in our markets are subject to various laws, ordinances and regulations, including regulations relating to common areas. In addition to the regulations described below, we are subject to various federal, state and local regulations, such as state and local fire and life safety regulations. We believe that each of our properties has, or is expected to have when required, the necessary permits and approvals for us to operate our business.
+Americans With Disabilities Act
+Our properties must comply with Title III of the Americans with Disabilities Act of 1990, or the ADA, to the extent that such properties are “public accommodations” as defined by the ADA. The ADA may require removal of structural barriers to access by persons with disabilities in certain public areas of our properties where such removal is readily achievable. We believe that our properties are in substantial compliance with the ADA and that we will not be required to make substantial capital expenditures to address the requirements of the ADA. However, noncompliance with the ADA could result in imposition of fines or an award of damages to private litigants. The obligation to make readily achievable accommodations is an ongoing one, and we will continue to assess our properties and to make alterations as appropriate in this respect. 
+Environmental Matters
+We are subject to laws and regulations relating to the protection of the environment, the storage, management and disposal of hazardous materials, emissions to air and discharges to water, the cleanup of contaminated sites and health and safety matters. These include various regulations promulgated by the Environmental Protection Agency and other federal, state, and local regulatory agencies and legislative bodies relating to our operations, including those involving power generators, batteries, and fuel storage to support co-location infrastructure. While we believe that our operations are in substantial compliance with environmental, health, and human safety laws and regulations, as an owner or operator of property and in connection with the current and historical use of hazardous materials and other operations at its sites, we could incur significant costs, including fines, penalties and other sanctions, cleanup costs and third-party claims for property damages or personal injuries, as a result of violations of or liabilities under environmental laws and regulations. Fuel storage tanks are present at many of our properties, and if releases were to occur, we may be liable for the costs of cleaning up resulting contamination. Some of our sites also have a history of previous commercial operations, including past underground storage tanks. 
+Some of the properties may contain asbestos-containing building materials. Environmental laws require that asbestos-containing building materials be properly managed and maintained and may impose fines and penalties on building owners or operators for failure to comply with these requirements.  
+Environmental consultants have conducted Phase I or similar non-intrusive environmental site assessments on recently acquired properties and, if appropriate, additional environmental inquiries and assessments. Nonetheless, we may acquire or develop sites in the future with unknown environmental conditions from historical operations. Although we are not aware of any sites at which we currently have material remedial obligations, the imposition of remedial obligations as a result of spill or the discovery of contaminants in the future could result in significant additional costs to us.
+Our operations also require us to obtain permits and/or other governmental approvals and to develop response plans in connection with the use of our generators or other operations. These requirements could restrict our operations or delay the development of data centers in the future. In addition, from time to time, federal, state or local government regulators enact new or revise existing legislation or regulations that could affect us, either beneficially or adversely. As a result, we could incur significant costs in complying with environmental laws or regulations that are promulgated in the future.
+Insurance
+We carry comprehensive liability, fire, extended coverage, business interruption and rental loss insurance covering all of the properties in our portfolio under a blanket policy. In the opinion of our management, our policy specifications, limits and insurance carriers are appropriate given the relative risk of loss, the cost of coverage and industry practice. We cannot provide any assurance that the business interruption or property insurance we have will cover all losses that we may experience, that the insurance carrier will be solvent, that rates will remain commercially reasonable, that insurance carriers will not cancel our policies, or that the insurance carriers will pay all claims made by us. Certain circumstances, such as acts of war, are generally uninsurable under our policies. See also “Risk Factors-Risks Related to Our Business and Operations." Any losses to our properties that are not covered by insurance, or that exceed our policy coverage limits, could adversely affect our business, financial condition and results of operations.
+Competition
+We compete with numerous developers, owners and operators of technology-related real estate, many of which own properties similar to ours in the same markets in which our properties are located. If our competitors offer space at rental rates below current market rates or below the rental rates we currently charge our customers, or if our competitors offer space that tenants perceive to be superior to ours (based on factors such as available power, security considerations, location or connectivity), we may lose potential customers and we may be pressured to reduce our rental rates below those we currently charge in order to retain customers when our customers’ leases expire or incur costs to improve our properties. In addition, our customers have the option of building their own data center space which can also place pressure on our rental rates.
+As a developer of data center space and provider of interconnection services, we also compete for the services of key third-party providers of services, including engineers and contractors with expertise in the development of data centers. There is competition for the services of specialized contractors and other third-party providers required for the development of data centers, increasing the cost of engaging such providers and the risk of delays in completing our development projects. 
+In addition, we face competition from real estate developers in our sector and in other industries for the acquisition of additional properties suitable for the development of data centers. Such competition may reduce the number of properties available for acquisition, increase the price of these properties and reduce the demand for data center space in the markets we seek to serve.
+Employees
+As of December 31, 2019, we employ approximately 452 persons, including 52 international employees. None of these employees are represented by a labor union.
+Financial Information
+For financial information related to our operations, please refer to the financial statements including the notes thereto, included in this Form 10-K.
+How to Obtain Our SEC Filings
+We file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission (SEC). All reports we file with the SEC will be available free of charge via EDGAR through the SEC website at http://www.sec.gov. We make available our reports on Forms 10-K, 10-Q, and 8-K (as well as all amendments to these reports), and other information, free of charge, at the "Investors" section of our website at http://www.cyrusone.com. The information found on, or otherwise accessible through, our website is not incorporated by reference into, nor does it form a part of, this report or any other document that we file with the SEC.

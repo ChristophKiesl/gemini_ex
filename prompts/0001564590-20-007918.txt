@@ -1,0 +1,234 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+--------+----------
+
+Overview 
+ Quotient Technology Inc. is an industry leading digital marketing company, providing technology and services that power integrated digital promotions and media programs for consumer packaged goods (“CPG”s) brands and retailers. These programs are delivered across our network, including our flagship consumer brand Coupons.com and our retail partners’ properties. This network provides Quotient with proprietary and licensed data, including online behavior, purchase intent, and retailers’ in-store point-of-sale (“POS”) shopper data, to target shoppers with the most relevant digital promotions and ads. We also deliver digital promotions and media programs to third party publishing properties outside of our network. Customers and partners use Quotient to influence shoppers via digital channels, integrate marketing and merchandising programs, and leverage shopper data and insights to drive measurable sales results.
+ For our retail partners, we provide a digital platform, Quotient Retailer iQ (“Retailer iQ”), to directly engage with shoppers across their websites, mobile, ecommerce, and social channels. This platform is generally co-branded or white-labeled through retailers’ savings or loyalty programs and uses shopper data to deliver relevant digital promotions from brand marketers and retailers to shoppers. 
+ Our network is made up of three constituencies: 
+  
+• | Our clients consist of approximately 700 CPGs, representing approximately 2,000 brands, including many of the leading food, beverage, personal and household product manufacturers;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our retail partners, representing multiple classes of trade such as leading grocery retailers and drug, dollar, club, and mass merchandise channels, where the majority of CPG products are sold; and
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Millions of consumers visiting our websites, mobile properties, and social channels, as well as those of our CPG and retailer partners.
+--+----------------------------------------------------------------------------------------------------------------------------------------
+
+ Through these three groups, we have created a network effect, which we believe gives us a competitive advantage over both offline and online competitors. As our shopper audience increases, our platform becomes more valuable to CPGs and retailers, which, in turn, rely more heavily on our platform for their digital promotions and media. In addition, the breadth of coupon and advertising content offered from leading brands enables us to attract and retain more retailers and shoppers. As our network expands, we generate more shopper data and insights, which improve our ability to deliver more relevant and personalized promotions and media, and strengthens our measurement and data insights solutions.
+ We primarily generate revenue by providing digital promotions and media programs to our customers and partners. 
+ We generate revenue from promotion campaigns, in which CPGs pay us to deliver promotions to consumers through our network of publishers and retail partners. Using shopper data from our retail partners and our proprietary data and audience segments, we deliver targeted and/or personalized digital promotions to shoppers through our network, including our websites and mobile apps, as well as those of our publishers, retailers and other third-party properties. Each time a promotion is activated through our platform or, in some cases, redeemed, we are generally paid a fee. Activation of a digital promotion can include: saving it to a retailer loyalty account or printing it for physical redemption at a retailer. Campaigns are targeted to shoppers, and measured based on performance attributable to retail purchases in near real time.
+ Promotion revenues also include our Specialty Retail business, in which specialty stores including clothing, electronics, home improvement and many others offer coupon codes that we distribute. Each time a consumer makes a purchase using a coupon code, a transaction occurs and a distribution fee is generally paid. 
+ We also generate revenues from digital media, in which CPGs, retailers, and advertising agencies use our platform to deliver digital advertising. Using shopper data from our retail partners and our proprietary data and audience segments, we target audiences with digital ad campaigns. These ads are delivered to shoppers through our network, including our websites and mobile apps, as well as those of our publishers, retailers and other third-party properties. Campaigns are measured based on optimization and performance, attributing digital ad campaigns to retail purchases in near real time. Media solutions we offer include display, targeted media, social influencer, sponsored product search, and audiences. A growing portion of our media campaigns are purchased as an integrated campaign which combines media advertising and promotions in a single campaign. Our media solutions help serve our customers and partners’ needs as they shift more of their marketing dollars to digital channels that can be measured based on campaign performance and attributable sales. In the fourth quarter of 2019 we purchased Ubimo, a data and media activation platform to strengthen our media solution and accelerate the development of a self-service media platform. Through Ubimo, we also offer digital out of home media solutions. 
+ 4
+
+We generally pay a distribution fee to retailers and publishers for activation or redemption of a digital promotion, for media campaigns, and for use of data for targeting or measurement. We also pay a fee to third-party publishers for traffic acquisition, which consists of delivering campaigns on certain networks or properties. These distribution and third-party service fees are included in our cost of revenues. See Management’s Discussion and Analysis of Financial Condition and Results of Operations – “Non-GAAP Financial Measure and Key Operating Metrics” for more information.
+ During 2019, we generated revenues of $436.2 million, representing 13% growth over 2018, and a net loss of $37.1 million as compared to $28.3 million in 2018. See our Consolidated Financial Statements and accompanying notes for more information. For the year ended December 31, 2019, there was one customer that accounted for greater than 10% of our total revenues. For the years ended December 31, 2018 and 2017, there were no customers that accounted for more than 10% of our total revenues.
+ Our Industry
+ Retailers and CPGs are turning to data-driven digital marketing strategies to engage and influence shoppers to compete more effectively in today’s retail environment and drive sales. By shifting dollars from traditional offline channels to digital, brands and retailers can use shopper data and behaviors to target and deliver digital promotions and advertising with greater efficiency and return on investment. 
+ For decades, retailers and CPGs have worked together to drive sales, which in turn benefits both parties. CPGs sell their products to retailers, and retailers are responsible for selling those products directly to shoppers. To help retailers attract shoppers and ensure sales, CPGs spend over $225 billion annually in promotions, media, shopper marketing, trade and other in-store advertising. Historically, the vast majority of these dollars have been spent in offline channels such as free-standing inserts found in Sunday newspapers, direct mail, printed circulars, in-store aisle tags, end caps and TV. These traditional offline channels are becoming less effective as consumers spend more time online, particularly on mobile, giving way to the rising importance of using data to drive personalized and targeted, content to shoppers. To reach shoppers at the right time and place, CPGs are shifting dollars historically spent in offline channels to digital.
+ At the same time, traditional retailers are paving the path for this digital shift by investing in technology and creating digital strategies to better compete and drive sales.  This includes investment around loyalty strategies, ecommerce experiences, and data-driven advertising platforms. As retailers expand their digital capabilities, it creates greater opportunities for CPGs to shift marketing dollars from offline to digital.
+ Digital promotions, primarily funded by CPGs, have been found to be more effective and are redeemed at higher rates compared to traditional offline promotions. According to a 2018 mid-year industry report by NCH Marketing Services, Inc., digital coupons (including digital print and digital paperless coupons) represented approximately 1.7% of total U.S. CPG coupon distribution volume, but accounted for just over 20% of total U.S. CPG coupon redemptions. We believe that the ease of digital promotions, coupled with greater awareness of digital savings programs, is broadening the demographic reach and driving demand for digital promotions. 
+ Trade promotions, defined as promotions offered to drive additional sales directly from a particular retailer, are also funded by CPGs. Historically, trade promotions have been mass marketed through retailers in offline vehicles such as aisle tags and printed circulars. We believe CPGs will shift offline trade promotions to digital as retailers continue to increase their digital marketing activities and better use their shopper data. 
+ Advertising from shopper marketing, defined as advertising funded by the CPG to gain shopper awareness and drive sales within a specific retailer, is also shifting from traditional in-store and print advertising to digital, particularly to mobile. Shopper marketers are looking to reach shoppers across the right touchpoints at the right time. Additionally, portions of CPG brand advertising, which have historically been spent in traditional offline channels such as print and TV, are also expected to shift to digital channels. 
+ As the shift to digital coupon and digital advertising continues to grow, so does the importance placed on data to target audiences and measure campaign performance. Today, over 90% of grocery sales still occur in-store with shopper data residing offline, creating a particular need to attribute dollars spent in digital promotions and advertising directly to in-store sales. As a greater portion of grocery sales shift to online, retailers are investing in omni-channel strategies, technology, and solutions to meet shopper demands, compete effectively and drive sales. These investments are creating an increased number of digital touchpoints, using combined data from offline and online sales, for retailers and their CPGs to target shoppers with relevant promotions and digital marketing. As retailers add more omni-channel capabilities, it enables CPGs to shift more marketing dollars to digital.  
+ 5
+
+Our Platforms and Solutions 
+ We offer an industry leading digital platform providing technology and services that power integrated digital promotions and media programs for CPG brands and retailers. We do this through personalized and targeted promotions and media for the purpose of driving profitable sales and building shopper loyalty. Approximately 700 CPGs, representing approximately 2,000 brands, use our platform to manage and distribute digital promotions and advertising, target shopper audiences, and measure campaign performance and sales results.  
+ Through Quotient’s solutions, brands and retailers can integrate their marketing campaigns using national brand promotions, trade and loyalty rewards promotions, shopper marketing, brand media advertising, social and influencer marketing, and sponsored search. We also offer Quotient Audiences, which includes syndicated and custom audience segments, to be used for targeting and delivery of campaigns. Our solutions combine shopper insights, purchase data, and audience segments with broad distribution capabilities across mobile, web, social and ecommerce channels. Brands and retailers can develop and execute targeted marketing and promotional programs within days, while using campaign performance metrics to adjust programs in near real time. This differs from the long lead times typically required in traditional offline marketing and measurement vehicles. 
+ We have a broad distribution network that includes our owned and operated web and mobile properties, such as Coupons.com, and thousands of publishing and retail partner properties. Through this network, we distribute relevant and targeted promotions and media. 
+ We power Retailer iQ, our proprietary and core platform, used at top retailers in the grocery, drug, dollar, club and mass merchandise channels. Retailers integrate Retailer iQ into their points-of-sale (POS), or loyalty program, which serves as their digital marketing platform, creating a direct, digital relationship with millions of their shoppers. Through Retailer iQ, we use shopper data and insights to distribute personalized and targeted promotions and media, primarily funded by our CPG customers or retail partners, to help drive shopper loyalty and increase sales. Additional Retailer iQ solutions include personalized e-mails, targeted in-lane promotions at checkout, loyalty rewards, rebate offers, Retail Performance Media, digital grocery list, digital receipts, branding landing pages, and digital circular.
+ With the foundation of Retailer iQ integrated into retailers’ point of sale or loyalty programs, we’ve developed four proprietary platforms in which our go-to-market solutions fall under: Quotient Promotions Cloud, Quotient Media Cloud, Quotient Analytics Cloud and Quotient Audience Cloud.
+ Quotient Promotions Cloud
+ Quotient Promotions Cloud platform offers digital paperless and digital print promotions across our distribution network. With digital paperless, shoppers add promotions directly to retailer loyalty accounts for automatic digital redemption or use a mobile device to take a picture of a retailer receipt with the appropriate purchase for cash back redemption. With digital print, shoppers select promotions and print them from their desktop or mobile device to redeem in store. 
+ Through our platform, CPGs and retailers can reach shoppers on the web and on mobile devices by offering digital promotions through our extensive network which includes:
+  
+• | the Coupons.com website and our Coupons.com and Shopmium mobile applications;
+--+------------------------------------------------------------------------------
+
+
+• | CPG and retailer websites and mobile applications; and
+--+-------------------------------------------------------
+
+
+• | thousands of third-party publishing websites and mobile applications in our network.
+--+-------------------------------------------------------------------------------------
+
+ Quotient Promotions Cloud offers national digital promotions from CPG brands, and retail-specific promotions sourced from shopper marketers and retailers. Other products included in Quotient Promotions Cloud are in-lane targeted promotions at checkout, loyalty rewards promotions, and rebates. Promotions can be personalized and/or targeted to shoppers through a combination of data points, including shopper purchase and intent data, historical purchase transactions, promotion activations and redemptions, interests, online clicks and search behavior, demographics, and location data. These techniques enable us to optimize the delivery of promotions across the network and drive campaign performance. 
+ 6
+
+Quotient Media Cloud
+Quotient Media Cloud platform offers targeted advertising solutions, enabling brands and retailers to reach shoppers before, during and after their shopping cycles with digital media campaigns. Brands and advertisers can leverage our proprietary shopper data and audience segments to deliver targeted media ads across our network, including retail partners and Coupons.com, and across third-party publishers’ web, mobile and social channels outside our network. For example, we can target consumers on Facebook who have redeemed a promotion or purchased a product in a particular product category with advertising within that product category.
+ Our media solutions include execution and delivery of targeted media, creative services and audience segments through Quotient Audiences. 
+ In 2018, we added influencer marketing and sponsored search through the acquisitions of Ahalogy and Elevaate, respectively. Ahalogy brings social expertise and an extensive influencer network to our customers and partners. Their proprietary data and category trends help develop and create compelling influencer marketing campaigns, including new recipe ideas, creative new product uses and brand awareness to shoppers across paid social channels. With the acquisition of Elevaate, we expanded available media units within a retailer’s ecommerce experience with sponsored search solutions. With this additional technology, retailers can enhance their ecommerce experience while making it easy for shoppers to find the products they need and want. These added solutions also give brands and advertisers the ability to manage their digital budgets through a single strategic partner, reaching shoppers through paid search media and sponsored search directly on the retailers’ properties.   
+ For retailers, we power the Quotient Retail Performance Media (RPM) platform, giving retailers the technology to expand their digital media strategies and leverage their shopper data to drive sales. Through RPM, brand marketers can use specific retail data to target and deliver media directly to shoppers and measure direct sales results. Additionally, retailers deliver digital media campaigns through RPM. We distribute these targeted ads via retailer digital properties, our expansive network including Coupons.com properties, and other third-party publishing sites.   We also power Quotient Digital Circular, a personalized retail circular experience for shoppers, with targeted media units for brands to advertise their products and drive sales.
+ We also provide CPGs, retailers and other advertisers access to our Coupons.com audience, including our website and mobile properties, to market their brands, including premium media and advertising placements on our site, promoted positions within our coupon galleries and premium placement in our marketing efforts. 
+ Quotient Analytics Cloud  
+ Quotient Analytics Cloud provides campaign analytics and measured sales results to CPGs and retailers, attributing digital promotions and/or media campaigns to in-store and online purchases. Through Quotient Analytics, we combine purchase data from select retailers across the Quotient Retailer iQ network with online engagement and purchase-intent data from Quotient’s flagship brand, Coupons.com, and the Company’s thousands of publishing partners. Our campaign measurement tools also provide brands and retailers with flexibility to adjust their campaigns in mid-flight to drive greater efficiency with marketing dollars. As our platform, network and audience expands, the value of our data and analytics increases. We provide analytics and insights through Quotient Promo iQ and Quotient Media iQ.
+Quotient Audience Cloud
+ 
+In the beginning of January 2019, we introduced Quotient Audience Cloud whereby brand marketers can activate shopper audience segments to be used to deliver targeted media and measurement. The audience segments are derived from first party data and insights from Coupons.com properties, and shopper data from select Retailer iQ partners. The Audience Cloud platform offers syndicated shopper audiences, or custom audience segments, and may be used in conjunction with our Quotient Media Cloud advertising services or purchased separately either through us, or a licensed partner.
+ 7
+
+Growth Strategy 
+ We intend to grow our platform and our business through the following key strategies:
+ Increase revenues from CPGs already on our platform.    Based on our experience to date, we believe we have opportunities to continue increasing revenues from our existing CPG customer base through:
+  
+• | increasing our share of CPG spending on overall promotions and media;
+--+----------------------------------------------------------------------
+
+
+• | increasing the number of brands that are using our platform within each CPG;
+--+-----------------------------------------------------------------------------
+
+
+• | leveraging data to provide our customers and partners with more insight, including campaign performance, and to distribute more targeted promotions, media, and analytics across our retail partner properties, our network including our owned and operated properties, and third-party sites, and to expand our capabilities within Quotient Audience Cloud; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | maximizing consumer’s experiences across all products.
+--+-------------------------------------------------------
+
+ Grow our promotions business.      We plan to grow Quotient Promotions Cloud through increased consumer demand of promotions, and by increasing the number of promotions CPG brands offer on the platform. By bringing retailers and shoppers into our network, our ability to expand our targeted promotions and expand our audience reach grows, increasing our ability to more effectively engage consumers and drive sales. We plan to invest in Quotient Promotions Cloud, by expanding shopper adoption on Retailer iQ, and growing our solutions through national promotions, targeted digital paperless promotions, targeted in-lane promotions at checkout, and brand loyalty promotions.  We intend to continue to invest in technologies and product offerings that further integrate digital promotions and media, including selling these offerings together through packaged solutions, including Quotient Integrated Promotions.
+ Grow our media business.     We plan to grow Quotient Media Cloud, including Retail Performance Media, social influencer marketing, and search and sponsored product. We plan to continue to invest in our media solutions, expanding the use of our proprietary data as well as data from select exclusive retail partnerships, and by adding and expanding relationships, including national media buyers and publishers, new partnerships, verticals, and third parties such as media agencies.
+ Expand and grow Quotient Analytics and Quotient Audience. As our network, content pool and shopper audience expand, we believe that our platform will become more valuable, resulting in greater data, insights and shopper audience segments. We expect to introduce more robust, solutions to our customers and partners around campaign performance, analytics and insights, as well as around Quotient Audience Cloud. 
+ Grow our current customer base and add new industry segments.    We believe we have the opportunity to grow the number of brands and retailers that we serve, thereby increasing the value of our platform to all constituents. In addition, we intend to continue growing our business with other manufacturers and retailers in new industry segments such as convenience and specialty/franchise retail, restaurants and entertainment venues.
+ Grow shopper adoption and engagement of our digital offerings.    We plan to continue to innovate and invest across our platform, including Retailer iQ, Retail Performance Media, Quotient Analytics, mobile solutions, media and digital promotion offerings, Coupons.com mobile app, and our network. We plan to continue to create additional consumer touchpoints across the network by expanding our promotions and media solutions at retailer checkout and within ecommerce, in order to generate and increase shopper adoption, expand our audience network and leverage shopper data. We believe that CPG spending on digital promotions and marketing will continue to grow as point of sale, mobile channels and social media offer new opportunities to engage consumers on their path to purchase. 
+ Grow international operations.    Many CPGs and retailers on our platform have global operations and we believe that we can opportunistically grow our operations and offerings in existing international markets and partner with our existing clients to enter new geographies in which they operate. We also plan to leverage our existing presence in France through our mobile application Shopmium, a receipt-scanning, cash-back mobile application platform, to broaden our international opportunity beginning with the United Kingdom.
+ Selectively pursue strategic acquisitions.   We intend to continue pursuing selective acquisition and partnership opportunities that we believe can expand our business.
+ 8
+
+Fraud Prevention and Distribution Controls
+ Our platform includes a proprietary digital distribution management system to enable CPGs and retailers to securely control the number of coupons distributed by device. We have controls in place to limit the number of digital coupons that can be printed. Similar controls are in place for linking coupons to loyalty cards and other paperless solutions, which allows us to limit the number of coupons distributed and activated. In addition, each printed coupon carries a unique ID that is encrypted, enabling us to trace each coupon from print to redemption. All of our digital print coupons can be authenticated and validated using this unique code. This unique ID also can be used to detect counterfeit or altered coupons. Our platform allows us to systematically identify and respond to fraudulent and prohibited activities by restricting a device from printing coupons. 
+Sales and Marketing 
+ We have a team of dedicated, skilled specialists focused on CPGs and retailers. We believe that our sales, integration, promotions and media campaign management and analytics, customer success and support capabilities are difficult to replicate and a key reason for the growth of our business. Our sales activity is focused on expanding the number of brands within existing and new CPG customers that offer digital promotions and media through our platform as well as increasing the revenue from those brands currently using our platform. The team is also focused on expanding relationships within CPGs to include shopper marketing and digital media teams, where we believe there is a large opportunity for growth particularly in media. Additionally, we are focused on continuing to increase the size and breadth of our publishing and partner network. We are also seeking to partner with CPGs and other manufacturers and retailers in new industry segments such as convenience and specialty/franchise retail, restaurants and entertainment venues.
+ In addition to sales support during the campaign planning process, our sales representatives provide additional support to CPGs and retailers to ensure that their campaigns are launched and delivered within specified timeframes. Representatives assigned to specific customers review performance metrics and share feedback with the advertiser.
+ We are focused on managing our brand, increasing market awareness and generating new advertiser leads. In doing so, we often present at industry conferences, create custom events and invest in public relations. In addition, our marketing team advertises online, in print and in other forms of media, creates case studies, sponsors research, publishes marketing collateral and undertakes customer research studies.
+ Technology and Infrastructure 
+ Since inception, we have made significant investments and will continue to invest in developing our differentiated and proprietary platforms aimed at solving the problems of CPGs and retailers in ways that traditional solutions cannot. We are focused on offering solutions that provide measurable results. We have assembled a team of highly skilled engineers and computer scientists with deep expertise across a broad range of relevant disciplines. Key focus areas of our engineering team include: 
+  
+• | Scalable infrastructure. We use a combination of proprietary and open-source software to achieve a horizontally scalable, global, distributed and fault-tolerant architecture, with the goal of enabling us to ensure the continuity of our business, regardless of local disruptions. Our computational infrastructure currently processes millions of events per day and is designed in a way that enables us to add significant capacity to our platform as we scale our business without requiring any material design or architecture modifications. We use a combination of public and private cloud computing platforms. Our private cloud technology infrastructure is hosted across data centers in co-location facilities in California, Nevada, and Virginia. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Redundancy. Our production infrastructure utilizes a hot failover configuration which allows us to switch server loads, be it a single server or an entire data center, to the other data center within minutes. Data is continuously replicated between sites, and multiple copies at each site provide fast recovery whenever it is requested. Each data center has been designed to handle more than our entire server needs, which enables us to perform platform maintenance, business resumption and disaster recovery without any customer impact. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reporting. Our user interface provides flexible reporting and interactive visualization of the key drivers of success for each campaign. We use these reporting and visualization products internally to manage campaigns and provide campaign insights. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | AdTech. Our media delivery is largely powered by proprietary ad servers, creative and social platforms, workflow automation tools, and data management tools. We develop and use these platforms with a range of differentiated features that are specialized for the CPG and retail vertical. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Security. Our security policy adheres to established policies to ensure that all data, code, and production infrastructure are secure and protected. Our data centers are SSAE 16 Type II certified. We use our internal team and third parties to test, audit, and review our entire production environment to protect it. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 9
+
+Competition 
+ We compete against a variety of different businesses with respect to different aspects of our business, including: 
+  
+• | traditional offline coupon and discount services, as well as newspapers, magazines and other traditional media companies that provide coupon promotions and discounts on products and services in free standing inserts or other forms, including Valassis Communications, Inc., News America Marketing Interactive, Inc. and Catalina Marketing Corporation;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | providers of digital promotions such as Valassis’ Redplum.com, Catalina Marketing Corporation’s Cellfire, Inmar/You Technology, News America Marketing’s SmartSource; companies that offer cash back solutions such as iBotta, Inc., News America Marketing’s Checkout 51; and companies providing other e-commerce based services that allow consumers to obtain direct or indirect discounts on purchases; and companies that offer coupon codes such as RetailMeNot, Inc., Groupon, Inc., Exponential Interactive, Inc.’s TechBargains.com, Savings.com, Inc., Honey Science Corporation, which was recently acquired by PayPal Holdings, Inc., and Rakuten, Inc.; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | internet sites that are focused on specific communities or interests that offer promotions or discount arrangements related to such communities or interests;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | companies offering online and marketing services to retailers and CPGs, such as MyWebGrocer, Inc. and Flipp Corporation;
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+• | companies offering digital advertising technology, inventory, data, and services solutions for CPGs and retailers including Google, Facebook, The Trade Desk, Oracle, Criteo, Microsoft, and others; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | retailers marketing and offering their own digital promotions directly to consumers using their own websites, email newsletters and alerts, mobile applications and social media channels.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We believe the principal factors that generally determine a company’s competitive advantage in our market include the following: 
+  
+• | scale and effectiveness of reach in connecting CPGs and retailers to consumers in a digital manner, through web, mobile and other online properties;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | ability to attract consumers to use digital promotions and/or engage with digital media;
+--+-----------------------------------------------------------------------------------------
+
+
+• | platform security, scalability, reliability and availability;
+--+--------------------------------------------------------------
+
+
+• | our proprietary intent data and access to POS data from select retail partners;
+--+--------------------------------------------------------------------------------
+
+
+• | number of channels by which a company engages with consumers;
+--+--------------------------------------------------------------
+
+
+• | integration of products and solutions;
+--+---------------------------------------
+
+
+• | rapid deployment of products and services for customers;
+--+---------------------------------------------------------
+
+
+• | breadth, quality and relevance of the Company’s digital promotions, media and measurement;
+--+-------------------------------------------------------------------------------------------
+
+
+• | ability to deliver digital promotions that are widely available and easy to use in consumers’ preferred form;
+--+--------------------------------------------------------------------------------------------------------------
+
+
+• | integration with retailer applications;
+--+----------------------------------------
+
+
+• | brand recognition;
+--+-------------------
+
+
+• | quality of tools, reporting and analytics for planning, development, optimization and measurement of promotions and media; and
+--+-------------------------------------------------------------------------------------------------------------------------------
+
+
+• | breadth and expertise of the Company’s sales organization.
+--+-----------------------------------------------------------
+
+ While we believe we compete effectively with respect to the factors identified above, we may face increasing competition from larger or more established companies that seek to enter our market or from smaller companies that launch new products, solutions and services that could gain market acceptance.
+ Culture and Employees 
+ We are proud of our company culture and consider it to be one of our competitive strengths. Our culture helps drive our business and compete for talented employees in a highly competitive market. We seek to offer an environment that allows our employees to thrive and grow. 
+ 10
+
+As of December 31, 2019, we had 1,072 full-time employees, consisting of 517 employees in the United States and 555 employees internationally.
+Intellectual Property 
+ We protect our intellectual property by relying on federal, state, and common law rights in the United States and equivalent rights in other jurisdictions, as well as contractual restrictions. We control access to our proprietary technology and algorithms by entering into confidentiality and invention assignment agreements with our employees and contractors, and confidentiality agreements with third parties.
+ In addition to these contractual arrangements, we also rely on a combination of trade secrets, patents, copyrights, trademarks, service marks and domain names to protect our intellectual property. We pursue the registration of our copyrights, trademarks, service marks and domain names in the United States and in certain locations outside the United States. As of December 31, 2019, we hold or have exclusive rights to 34 active issued patents in the United States and 13 active patents that have been issued outside of the United States with terms expiring between 2020 and 2035. 
+ Circumstances outside our control could pose a threat to our intellectual property rights. For example, effective intellectual property protection may not be available in the United States or other countries in which we operate. Also, the efforts we have taken to protect our proprietary rights may not be sufficient or effective or may require significant expenditures and other resources to enforce. Any significant impairment of our intellectual property rights or unauthorized disclosure or use of our intellectual property could harm our business and our operating results, or ability to compete.
+ Companies in Internet-related and other industries may own large numbers of patents, copyrights and trademarks and may frequently request license agreements, threaten litigation or file suit against us based on allegations of infringement or other violations of intellectual property rights. We currently are, have been subject to in the past, and expect to face in the future, allegations that we have infringed the trademarks, copyrights, patents and other intellectual property rights of third parties, including our competitors and non-practicing entities. As we face increasing competition and as our business grows, we will likely face more claims of infringement.
+ Corporate Information
+ We were incorporated in California in May 1998 and reincorporated in Delaware in June 2009. We changed our name to Quotient Technology Inc. on October 20, 2015. Our corporate website address is www.quotient.com. Information contained on, or that can be accessed through, our website does not constitute part of this report and inclusions of our website address in this report are inactive textual references only. Quotient, the Quotient logo, the Coupons.com logo, the SavingStar logo, Elevaate, Quotient Retailer iQ, Quotient Analytics, Ahalogy, and Ubimo are trademarks or registered trademarks of Quotient Technology Inc. and its subsidiaries in the United States and other countries. Other marks are property of their respective owners.
+Available Information
+ We file annual, quarterly and other reports, proxy statements and other information with the Securities and Exchange Commission (SEC) under the Exchange Act. We also make available, free of charge on the investor relations portion of our website at investors.quotient.com, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after they are filed electronically with the SEC. The SEC also maintains an Internet website at http://www.sec.gov/ where you can obtain most of our SEC filings. You can also obtain paper copies of these reports, without charge, by contacting Investor Relations at (650) 605-4600 (option 7).
+ Webcasts of our earnings calls and certain events we participate in or host with members of the investment community are available on our investor relations website at www.quotient.com. Additionally, we announce investor information, including news and commentary about our business and financial performance, SEC filings, notices of investor events, and our press and earnings releases, on our investor relations website, as well as through press releases, SEC filings, public conference calls, our corporate blog and social media in order to achieve broad, non-exclusionary distribution of information to the public. We encourage our investors and others to review the information we make public in these locations as such information could be deemed to be material information. Please note that this list may be updated from time to time.  Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts. Further corporate governance information, including our corporate governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading “Governance.” The contents of our websites, blog, press releases, public conference calls and social media are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC (and the contents of other SEC filings are not incorporated by reference into this Annual Report on Form 10-K or any other report or document we file with the SEC except as required by law or to the extent we expressly incorporate such SEC filing into this Annual Form 10-K or other report or document we file with the SEC), and any references to our websites are intended to be inactive textual references only.
+ 11
+
+ 

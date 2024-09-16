@@ -1,0 +1,336 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business. 
+Overview
+ We are a leading global provider of next generation cloud security and risk management services for email and corporate information. Our integrated suite of proprietary cloud services protects customers of all sizes from the significant business and data security risks to which their email and other corporate systems expose them. Our Email Security 3.0 and Cyber Resilience Extension offerings are designed to protect customers from today’s rapidly changing security environment.  
+ The threat landscape and the resulting opportunity for disruption have evolved significantly over the last several years.  Organizations of all sizes are increasingly dependent on digital technology and corporate systems that often extend beyond the perimeter of the organization.  These systems typically do not operate in a stand-alone environment but instead are connected with and rely upon other systems, many of which are outside the control of the organization.  Finally, an everchanging and increasingly complex regulatory environment places significant compliance burdens on organizations and subjects them to harsh penalties in the event of failure. These evolving trends, dependencies, interdependencies and regulatory burdens, have only increased the potential impact of disruption caused by perennial risks, such as malicious action, human error and technological failure.
+ We developed our proprietary cloud architecture to offer customers a comprehensive cyber resilience strategy. Our Email Security 3.0 strategy addresses threats in three distinct zones: at the email perimeter (Zone 1); inside the network and the organization (Zone 2); and beyond the perimeter (Zone 3).  Our Cyber Resilience Extensions expand resilience to other critical elements of an organization’s digital infrastructure.  
+ Our primary offerings include the following features and functionality:
+  
+• | Email security, which provides a critical defense against hackers seeking to capture and exploit valuable organizational information and disrupt business operations. Email is a powerful attack vector and data leak concern.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continuity, which ensures employees can continue using email during unexpected and planned outages.
+--+----------------------------------------------------------------------------------------------------
+
+
+• | Archiving, which unifies email data to support e-discovery, forensic analysis, and compliance initiatives, while also giving employees fast access to their personal archive, which improves productivity.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Awareness training, which addresses security risks associated with the activities of employees by combining effective, modern, and engaging training techniques with predictive analytics. Employee errors are one of the leading causes of cybersecurity incidents. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Web security, which protects against malicious web activity and enables customers to block access to inappropriate websites.
+--+-----------------------------------------------------------------------------------------------------------------------------
+
+
+• | DMARC analyzer, which allows our customers to more effectively implement and manage complex domain-based message authentication reporting and conformance, or DMARC, deployments by providing greater visibility and improved governance across all email channels.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Brand exploit protection, which provides integrated brand protection that helps prevent attackers from tricking customers and partners with fake websites by detecting brand attacks in their early stages, blocking them before they can launch, and quickly remediating them if they have gone live.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Our historical focus has been email security.  Email is a critical tool for organizations of all sizes. Protecting and managing email has become more complicated due to expanding security and compliance requirements and the rapid increase in both the volume and the importance of the information transmitted via email. Organizations are increasingly at risk from security breaches of sensitive data as sophisticated email-based attacks or data leaks have become far more common than in the past. Additionally, organizations are not just using email for communication. Email archives are used as an active repository of vital corporate information needed to meet compliance and regulatory requirements and ensure employee productivity. As a result, email represents one of the highest concentrations of business risk that organizations face.
+ Traditional approaches to addressing these risks leave customers managing disparate point products from multiple vendors that are often difficult to use, costly to manage, and difficult to scale; that can fail to fully address advanced threats; and that limit the use of corporate information to enhance productivity. The resulting infrastructure complexity caused by disparate products and legacy architectures also makes it difficult to move more IT workloads to the cloud, which continues to be an increasing priority for organizations of all sizes.
+ 3
+
+
+Our offerings are delivered from an easy-to-use single platform, and our integrated services also simplify ongoing management and service deployment. As a result, our customers can decommission the often costly and complex point products and on-premises technology they have traditionally used to address these risks, which also makes it easier for them to move more of their IT workloads to the cloud.
+ We serve approximately 38,100 customers and protect millions of their employees around the world. Our services scale effectively to meet the needs of customers of all sizes. We sell our services through direct sales efforts and through our channel partners. Our sales model is designed to meet the needs of organizations of all sizes across a wide range of industries and in over 140 countries. For the fiscal years ended March 31, 2020, 2019 and 2018, our revenue was $427.0 million, $340.4 million and $261.9 million, respectively.
+ Our Growth Strategy
+ We will continue to invest in our cloud security, data, and risk management services. As more organizations move IT workloads such as email to the cloud, we believe we are well positioned to continue capitalizing on this growing opportunity globally.
+ Our growth strategy is focused on acquiring new customers, driving revenue growth from our existing customer base, developing our technology and releasing new services, actively investing in our channel partner network, continuing to strategically expand our geographic presence, and pursuing growth and technology through acquisitions.
+ Our Solutions
+ Our integrated suite of cloud services is designed to offer true cyber resilience for email and web and delivers comprehensive email risk management beyond the primary mail server. We protect customers and their data from the growing threat of email attacks through malware, spam, data leaks, and advanced threats such as phishing and impersonation attacks. Our continuity services ensure email and corporate information remain available in the event of a primary system failure or scheduled maintenance downtime. We also help organizations securely and cost effectively archive their growing email and file repositories to support employee productivity, compliance, and e-discovery. 
+ Our customers benefit from:
+  
+• | Comprehensive Email, Web, and Data Risk Management in a Single, Unified Cloud Service. Our services integrate a range of technologies into a comprehensive service that would otherwise require an array of individual devices or services from multiple vendors.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Best-of-Breed Security, Continuity, Awareness Training, and Archiving Services. We believe our customers should not have to compromise on the quality of their email and web security, continuity, archiving or awareness training services in order to benefit from integration.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Web Scale Performance for Organizations of All Sizes. Our cloud service is built to address the most demanding scale, performance, and availability requirements of large enterprises through a subscription-based cloud service that also puts these capabilities within reach of small and mid-market organizations. We meet demanding continuity service commitments with data centers that are replicated in each of our primary geographies and operate in active-active mode, enabling fast failover and fail-back as required.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Easy to Deploy and Manage. Our service is designed to be easy to deploy. Customers simply route their email traffic through our cloud and can be up and running in a matter of days and sometimes less. We then enable our customers to add or delete new services and manage all security and other policies centrally via a single web-based administration console that significantly simplifies the ongoing management of their email and data environment.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Highly Agile and Adaptable Service. We are continually improving our cloud architecture and services. Our common code base and multi-tenant cloud architecture enables us to perform maintenance updates and add new features or products without interruption to our customers. Continuous service development and multi-tenant rapid deployment also allows us to keep pace with emerging threats to protect customers and respond quickly to changing needs.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+4
+
+
+ 
+• | Facilitate the Movement of Additional Critical Workloads to the Cloud. For those customers that want to put more workloads into the cloud, our technology facilitates the migration of email by removing the complexity that has stalled many customers to date. Our interoperability with cloud-based email servers, such as Microsoft® Office® 365®, makes this easier to achieve and helps mitigate remaining concerns about the reliance of single-vendor security, data integrity, and continuity. Our data ingestion offering also allows customers to more easily migrate legacy data into our cloud archive to ensure it is a complete record of current and historic data.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Compelling Return on Investment. Our unified, cloud-based services enable our customers to decommission a range of legacy and disparate technologies that support their email server and data environment and recover these costs. We utilize hardware efficiently and share a single instance of operating software, as well as storage and processing hardware, securely across the whole customer base within each data center, allowing us to deliver cloud-scale economic and performance benefits to our customers.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Technology
+ We have developed a native cloud architecture, including our own proprietary software-as-a-service, or SaaS, operating system, known as Mime | OS™, and customer-facing services to address the specific risks and functional limitations of business email and data. 
+ We have a proven record of performing successfully at considerable scale and addressing rapidly growing customer demands. We process approximately 655 million emails per day and manage approximately 386 billion emails in total with our service. We archive approximately 85 petabytes of customer data and add approximately 132 terabytes of customer data per month.
+ Our Proprietary Native Cloud Architecture— Mime | OS™
+ We developed our proprietary operating system, Mime | OS™, for native cloud services. Mime | OS™ enables secure multi-tenancy and takes advantage of the cost and performance benefits of using industry-standard hardware and resource sharing specifically for the secure management of email and data. This enables us to provision efficiently and securely across our customer base, minimizing the impact of spare or over-provisioned processing and storage capacity and reducing the cost of providing our services.
+ Mime | OS™ comprises 20+ microservices that control the hardware, storage, indexing, processing, services, administrator, and user interface layers of our cloud environment. We designed it to enable us to scale our storage, processing, and services to meet large enterprise-level email and data demands, while retaining the cost and performance benefits of a native cloud environment.
+ Mime | OS™ also streamlines our customer application development and enables strong integration across our services. All of our customer applications and services, except DMARC Analyzer and Brand Exploit Protect, use Mime | OS™ to interact with our data stores and processing technology, as well as interoperate effectively with each other.
+ Continuous Development Methodology and Multi-Tenancy Advantage
+ As we enhance and expand our technology, we can update services centrally with little or no intervention required by the customer, as each customer shares the same core operating and application software. Improvements, upgrades, new products or patches are applied once and are available immediately across our whole service to all customers. That means we have only one up-to-date version of our service to maintain and support, as well as a common data store for all customers that simplifies management, support, and product development.
+ Our commitment to continual improvement in Mime | OS™, our customer applications, and our hardware infrastructure means we are constantly strengthening the performance of our service as we scale. Each week, we roll out upgrades and enhancements centrally that benefit our customers without the need for additional infrastructure investment on their part. 
+ Our Global Data Center Grid and Points of Presence
+ We operate eight highly available grids in fourteen locations around the world to deliver our services. This gives customers geographic and jurisdictional control over data location, which enables them to address data privacy concerns. Each grid is exclusive to a region and comprises two identical data centers that function in active-active mode in different locations and are built with N+1 resiliency to meet our continuity of service commitments. Because of this redundancy, we can switch operations from one data center to another to maintain our customers’ email and data services in the event of downtime or maintenance for one of the data centers. We have developed a modular approach to provisioning a new data center and can transition among data centers as needed in existing or new geographies.
+ 5
+
+
+Each of the above fourteen locations, along with an additional dedicated fifteenth location, also operate as an individual point of presence, or PoP, to deliver our Web Security services. These services are delivered to customers from the geographically closest PoP within their region. In the event of a PoP outage, customers are served from next closest PoP within their region to maintain continuity of service.
+ We use other third-party cloud hosting providers to support certain of our services, including DMARC Analyzer and Brand Exploit Protect.
+ Our Services
+ The offerings within the Mimecast Solution Framework, which include Email Security 3.0 and Cyber Resilience Extensions, including continuity, web security, and archiving, are designed to protect customer data and provide organizations with comprehensive risk management in a single, cloud-based, integrated service, which is licensed on a subscription basis.
+ 
+
+
+Our primary offerings include:
+  
+• | Mimecast Email Security 3.0 service protects against the delivery of malware, malicious URLs and attachments, spam, viruses, impersonation attacks, phishing, and spear-phishing attacks, including business email compromise, identity theft, extortion, fraud, and other emerging attacks, while also preventing data leaks and other internal threats. Our Email Security 3.0 offerings also include awareness training, which addresses security risks associated with the activities of employees by combining effective, modern, and engaging training techniques with predictive analytics, DMARC Analyzer, which allows our customers to more effectively implement and manage complex DMARC deployments, and Brand Exploit Protect, which provides integrated brand exploitation protection.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mimecast Mailbox Continuity service ensures employees can continue using email during unexpected and planned outages such as system maintenance, whether their email is managed in the cloud or on-premises.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mimecast Enterprise Information Archiving unifies email data to support e-discovery, forensic analysis, and compliance initiatives, and gives employees fast access to their personal archive via PC, Mac® and mobile apps.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mimecast Web Security service protects against malicious web activity initiated by user action or malware and blocks access to inappropriate websites based on acceptable use policies.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mimecast Email Security 3.0
+ Our Email Security 3.0 offering provides a comprehensive form of protection against email attacks by helping customers advance from perimeter email security to a comprehensive, more pervasive discipline. Our approach addresses threats in three distinct zones: at the email perimeter (Zone 1); inside the network and the organization (Zone 2); and beyond the perimeter (Zone 3).  
+ 6
+
+
+Zone 1: The Perimeter
+ Mimecast Secure Email Gateway provides a critical defense against hackers seeking to capture and exploit valuable organizational information and disrupt business operations. Our Mimecast Email Security services block spam, malware, malicious URLs, spear-phishing, and defined content from entering or exiting the organization. Further, these services provide administrators granular security and content policy control for inbound and outbound email traffic to help protect against cyber threats and data leaks. Integration into Microsoft Outlook® and via mobile apps provides employees the freedom to be self-sufficient and to manage their quarantines, personal blacklists, and many other aspects of their email security and management. Through our advanced data leak protection and content controls, organizations can prevent the inadvertent or malicious loss of sensitive corporate data. Policies using keywords, pattern matching, file hashes, and dictionaries actively scan all email communications, including file attachments, to stop data leakage and support compliance. Suspect emails can be blocked, quarantined for review by administrators, or sent securely.
+ We protect inbound and outbound email from malware, spam, advanced persistent threats, email denial of service and distributed denial of service, or DDoS, data leaks, and other security threats.
+ Inbound email is directed through Mimecast Email Security, which performs comprehensive security checks before the email is delivered to the customer’s email infrastructure. This prevents unwanted email from reaching the customer in the first place and cluttering their infrastructure, unlike on-premises services from competitors. Each day, we monitor approximately 1.2 billion messages and deliver, on average, less than 31% of those messages to the customer.
+ Outbound email sent from the customer also passes through our service and is checked before being sent on to prevent it from presenting a security threat to the recipient. Outbound email can also be encrypted and scanned by our comprehensive content controls to prevent confidential documents or data leaving the business. Data leak prevention is a key consideration for all organizations.
+ Customers can benefit from the following Mimecast Email Security services:
+  
+• | Targeted Threat Protection: Highly sophisticated targeted attacks, including spear-phishing, are using email to successfully infiltrate organizations, exploit users, and steal valuable intellectual property, customer data, and money.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | URL Protect addresses the threat from emails containing malicious links. It automatically checks hyperlinks each time they are clicked, preventing employees from visiting malicious websites regardless of what email client or device they are using. It also includes innovative user awareness capabilities so IT teams can raise the security awareness of employees as part of their daily email activities.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Attachment Protect reduces the threat from weaponized or malware-laden attachments used in spear-phishing and other advanced attacks. It includes pre-emptive sandboxing to automatically security check email attachments before they are delivered to employees. It also includes the option of an innovative safe file conversion capability that automatically converts attachments into a safe file format, neutralizing any chance of malware.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Impersonation Protect gives instant and comprehensive protection from malware-less social engineering attacks, often called CEO fraud, whaling, impersonation, or business email compromise. Impersonation Protect detects and prevents these types of attacks by identifying combinations of key indicators in an email to determine if the content is likely to be suspicious, even in the absence of a URL or attachment. Impersonation Protect blocks or flags suspicious email by using advanced scanning techniques to identify elements commonly used by criminals, including employee, domain, or reply-to names, and other keywords such as ‘wire transfer,’ ‘tax form’, or ‘urgent.’
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zone 2: Inside the Perimeter
+ Internal Email Protect, or IEP, allows customers to monitor, detect, and remediate security threats that originate from within their internal email systems. This capability provides for the scanning of attachments, URLs, and content in internally generated email. In addition, IEP includes the ability to automatically remediate infected email from a user’s inbox.
+ Mimecast Awareness Training allows our customers to address security risks associated with the activities of their employees. Mimecast Awareness Training addresses a customer’s vulnerability to human error by combining effective, modern, and engaging training techniques with predictive analytics. By leveraging advanced risk scoring, customers can deliver personalized training regimens or tailor system permissions and access for individual employees based on risky behavior and the likelihood of being targeted for attack.
+Zone 3: Beyond the Perimeter
+ DMARC Analyzer allows our customers to more effectively implement and manage complex DMARC deployments, providing greater visibility and improved governance across all email channels.  
+ 7
+
+
+Brand Exploit Protect provides customers with an integrated brand exploitation protection solution that helps prevent attackers from tricking customers and partners with fake websites by detecting brand attacks in their early stages, blocking them before they can launch, and quickly remediating them if they have gone live. 
+Cyber Resilience Extensions
+ Mimecast Enterprise Information Archiving
+ Our cloud archive consolidates into one store all inbound, outbound, and internal email, including attachments in a perpetual, indexed, and secure archive. Using our Mimecast Enterprise Information Archiving service, customers can also incorporate legacy data from additional archives into the same searchable store.
+ All data is encrypted and preserved within a Write Once Read Many, or WORM, state. Proprietary indexing and retrieval solutions allow customers to search individual mailboxes or the entire corporate archive. Our mobile, tablet, desktop, and web applications ensure that employees can search and make the best use of their entire corporate archive in a fast, reliable, and informative way. Intensive logging services cover the use of the archive, and roles and permissions govern what employees can see in the archive based on their role. Our purpose-built ingestion and export services support rapid high-volume extraction, scrubbing, and loading of significant quantities of data. Our archive solution retains metadata that arises from gateway and continuity operations and we preserve both received and altered variants of emails that pass through our secure email gateway. Retention options for customers range from individual retentions to data retained for an entire customer on a perpetual basis.
+ Customers can also purchase the following additional services as part of our Mimecast Enterprise Information Archiving offering:
+  
+• | Recoverability: Mimecast Sync & Recover, which works with Microsoft Exchange® and Microsoft Office® 365®, offers three key capabilities on top of the built-in tools provided by Mimecast Archiving, including Sync & Recover, Granular Retention Management, and Mailbox Storage, or Stubbing, Management. Sync & Recover delivers rapid and granular recovery of mailboxes, calendar items, and contacts lost through inadvertent or malicious deletion or corruption.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Archive Power Tools: This is a series of advanced archiving tools including:
+--+-----------------------------------------------------------------------------
+
+
+• | Mimecast Storage Management for Exchange: This enables active mailbox size management, so administrators can optimize email system performance, control costs, and support archive policy enforcement.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mailbox and Folder Tools for Exchange: In an email continuity event or when searching for archived content, access to folder structures and shared mailbox content is key to productivity. This tool makes it easy to replicate individual and shared mailbox folders.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Granular Retention Management: Mimecast Granular Retention Management enables IT teams to centrally apply policies to manage the retention of email content and related metadata.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Mimecast Compliance Protect: This feature helps customers in highly regulated industries comply with the significant record retention requirements of various regulatory agencies, such as the Securities and Exchange Commission, or the SEC, and the Financial Industry Regulatory Authority, Inc.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Our Mimecast Enterprise Information Archiving service also empowers IT and legal teams with self-service search, case review and legal hold tools to quickly and defensibly perform early case assessments and set case strategy earlier in the litigation process.
+ As email, file attachments, and associated critical metadata that identifies activity are sent or received, they can be saved in a secure, tamper-proof archive in the Mimecast cloud automatically and indefinitely. Our employee mobile and desktop search tools and administration console then allow for detailed investigation of the archive. Our Mimecast Enterprise Information Archiving service offers secure lifetime storage of email, files, and instant messaging conversations paid for on a per-employee basis and not on a data usage basis. Our search tools make it easy for legal and compliance staff and employees to quickly find data without the need to turn to the IT team. Finally, our archive can also include legacy data that would otherwise be held in additional storage. Using our Legacy Data Migration service, this data can be ingested over-the-wire or via encrypted physical drives sent from the customer to us.
+ Mimecast Business Continuity
+ Email continuity protects email and data against the threat of downtime as a result of system failure, natural disasters, planned maintenance, system upgrades, and migrations. Mimecast Mailbox Continuity significantly reduces the cost and complexity of mitigating these risks and provides uninterrupted access to live and historic email and calendar information. During an outage, our service provides real-time inbound, outbound, and internal email delivery. The continuity service can be activated and deactivated directly and instantly from the Mimecast console by administrators for the complete organization or for specific groups affected by 
+ 8
+
+
+limited outages. All outage events are fully logged. We also support email top-up services for customers who have to recover their Microsoft Exchange® environments from backups. The continuity service is capable of reliably and securely supporting customers during short or long-term continuity events. Integration with Microsoft Outlook®, a native app for Mac® users, and a full suite of mobile apps means employees have seamless access to their email in the event of a disruption or outage.
+ As all customer outbound and inbound email is directed to our servers, if a customer’s primary email service fails, Mimecast Mailbox Continuity takes over the delivery and sending of email in real time or at the request of the administrator, offering immediate fail-over and fail-back. When the primary service is re-established, the customer is reassured that there has been no loss of data and that the archive is maintained. 
+ Mimecast Web Security
+ As the workplace has changed and the how, when, and where of the way employees work has become increasingly flexible, users want to work anytime, anywhere, and on any device. The global COVID-19 pandemic has only increased the requirement that organizations accommodate a remote work force. As a result, the landscape for how our customers manage risk, from cloud applications and the use of unsanctioned IT systems to guest or public Wi-Fi networks, has become increasingly challenging. Email and the web are the sources of nearly all data security incidents and breaches that occur. Most organizations do not monitor domain name system, or DNS, activity, leaving them vulnerable to this communications path. The Mimecast Web Security service protects against malicious web activity initiated by user action or malware, ransomware and other malicious software, and blocks access to inappropriate websites, based on business polices. Our Mimecast Web Security Service adds strong security at the DNS layer of the web and is easy to implement and manage. When combined with the Mimecast Secure Email Gateway, organizations can use a single, cloud-based service that protects against the two dominant cyberattack vectors: email and the web. The combined solution is also built to leverage each customer’s existing configurations for directory synchronization, branding, role-based access control, and other core platform features to help reduce both set-up time and maintenance. 
+ When a user makes a request for a web-based resource (typically in a browser) by clicking a link or typing in an address, that request is then forwarded to the service for resolution and inspection or filtering. The service applies the customer’s acceptable use controls, as well as any bypass exceptions, and evaluates the site’s classification to determine if the site is safe or unsafe. Access to unsafe web resources is blocked, and the user is notified via a block page. Access to safe web resources is immediately allowed, with the IP address of the requested site being returned to the user’s browser so the content can be accessed. Access logs and associated reports generated by the service are available for review by a system administrator with the appropriate privileges.
+ Mimecast Secure Messaging
+ Email containing sensitive or confidential information requires appropriate security and control to prevent inadvertent or deliberate data leaks and to protect the information while in transit. Mimecast Secure Messaging is a secure and private channel to share sensitive information with external contacts via email without the need for additional client or desktop software. Sensitive information is kept within our cloud service, strengthening information security, data governance, and compliance without the added IT overhead and complexity of traditional email secure messaging or encryption solutions.
+Mimecast Privacy Pack
+ Mimecast’s Privacy Pack and Data Loss Prevention, or DLP, capabilities allow customers to set DLP policies at the gateway to help prevent breaches and protect against data exfiltration transmissions, while also applying policies inside an organization to help prevent careless, compromised, or malicious employees from sending information to people who should not receive it. Customers can also better support compliance efforts and enforce policies with our managed DLP dictionaries that identify key words related to such topics as protected health information under the Health Insurance Portability and Accountability Act of 1996, personally identifiable information, Payment Card Industry data security standards, and profanity.
+Mimecast Large File Send 
+ Employees can create security and compliance risks when they turn to file sharing services to overcome email size limits imposed by their email infrastructure. Mimecast Large File Send enables PC and Mac® users to send and receive large files directly from Microsoft Outlook® or a native Mac® app. It protects attachments in line with customer security and content policies by (i) using encryption, optional access keys, and custom expiration dates; (ii) supporting audit, e-discovery, and compliance by archiving all files and notifications according to email retention policies; and (iii) protecting email system performance from the burden of large file traffic.
+ 9
+
+
+Threat Intelligence and APIs
+ Our Threat Intelligence Dashboard displays cyber threat data specific to an organization by identifying users who pose the greatest cyber risk, providing recently observed indicators of exploitation, and showing detailed information about detected malware, including origins by region. This threat intelligence data is used to enhance our Email Security 3.0 protections across all three zones.  Our library of application programming interfaces, or APIs, enables integrations with third-party tools to further enhance the cyber threat information available through the dashboard.  
+ Service Bundles
+ Many of our customers take advantage of the ability to combine our services and capabilities into a unified service managed from a single administration console. Most customers purchase bundles from the outset, but some prefer to start with specific packages, then upgrade to additional products over time. Our service range continues to respond to the changing threat landscape and reflect customers’ requests for combinations of services across advanced security. Service bundles offer different combinations of core email and web security, continuity, archiving, awareness training and brand protection beyond the traditional security perimeter. 
+Mimecast Mobile and Desktop Apps
+ Mobile, PC and Mac® users get self-service access to security features, including spam reporting and managed sender lists, the ability to send and receive email during a primary email system outage, and access to their personal email archive to run searches on its content. Administrators can use granular permissions to activate functions for individual employees or groups of users, while centralized security and policy management means IT teams can retain control over default settings.
+Sales and Marketing
+ Our sales and marketing teams work together to build a strong sales pipeline, cultivate and retain customers, and drive market awareness of our current and future products and services.
+Sales
+ We sell our services through direct sales efforts and through our channel partners. Our sales model is designed to meet the needs of organizations of all sizes across a wide range of industries and in over 140 countries. Our sales team is based in offices in Boston, Chicago, Dallas, and San Francisco, United States; London, United Kingdom; Johannesburg and Cape Town, South Africa; Melbourne and Sydney, Australia; Amsterdam, the Netherlands; Dubai, UAE; and Munich, Germany. We maintain a highly-trained sales force of approximately 510 employees as of March 31, 2020, which is responsible for acquiring and developing new business.
+ We also have an experienced sales team focused on developing and strengthening our channel partner relationships. Many organizations work with third-party IT channel partners to meet their security, IT, and cloud service needs, so we have formed relationships with a variety of the leading partners to target large enterprises, mid-market, and small organizations. For large enterprises, we work with international partners including CDW and Dimension Data. In the mid-market, we work with leading national partners, including Softchoice, SHI, CDW, and Softcat. The small business market is primarily served by the reseller community and by managed service providers, who typically provide or host email services. 
+ Sales to our channel partners are generally subject to our standard, non-exclusive channel partner agreement, meaning our channel partners may offer customers the products of several different companies. These agreements are generally for a term of one year with a one-year renewal term and can be terminated by us or the channel partner. Payment to us from the channel partner is typically due within 30 calendar days of the date we issue an invoice for such sales. In our fiscal year ended March 31, 2020, while no individual channel partner accounted for 10% or more of our revenue, in the aggregate, our channel partners accounted for 75% of our revenue. We expect that sales to channel partners will continue to account for a substantial portion of our revenue for the foreseeable future.
+ Our sales cycle varies by size and sophistication of customer, the number of products purchased and the complexity of the project, ranging from several days for incremental sales to existing customers, to many months for sales to new customers or for large deployments with enterprise customers.
+ We plan to continue to invest in our sales organization to take advantage of a large market opportunity through both the growth of our direct sales organization and investment in our channel partners.
+ 10
+
+
+Marketing
+ Our marketing strategy is designed to meet the specific needs of each of our customer segments. We are focused on building the Mimecast brand and product awareness, increasing customer adoption of our products, communicating the advantages of our solution and its benefit to organizations, and generating leads for our channel partners and direct sales force. We also invest in public relations and thought leadership content to build our overall brand and visibility. We execute our marketing strategy by using a combination of internal marketing professionals and a network of global channel partners. We invest in field, channel, product and brand marketing, digital marketing, virtual conferences, and web-based seminar campaigns targeting key decision makers within our target customers. We additionally offer free trials and email security risk assessments, known as Email Security Risk Assessments, which provides prospective customers the ability to identify and understand the gaps in their existing email security strategy. 
+Customer Service and Support
+ We maintain our strong customer retention rate through the strength and quality of our products, our commitment to our customers’ success, and our award-winning global Customer Success and Support teams, which consist of approximately 380 employees dedicated to ensuring a superior experience for our customers. For each of the fiscal years ended March 31, 2020, 2019 and 2018, our customer retention rate has been consistently greater than 90%. We calculate our annual customer retention rate as the percentage of paying customers on the last day of the prior year who remain paying customers on the last day of the current year. We have designed a comprehensive monitoring methodology that measures and evaluates the interactions we have with our customers, from sales and on-boarding to support and renewal. 
+ Our Legacy Data Migration service helps solve the problems customers face when extracting data and getting it into the right format for importing to the cloud, which can be expensive, time-consuming, and require interactions with multiple vendors. In addition, we offer a full range of support services to our global customer base, including comprehensive online resources and email support with no outsourcing of support or account management to third parties. Our comprehensive education and consultancy offerings include administrator training and certification, end-user training, and e-discovery training for compliance teams, all of which are available in-person and online. Beyond customer support and training, we also provide a range of services that are designed to provide additional enablement to customers who require it, especially larger enterprises with more complex email infrastructure and legacy data. 
+ We offer a service level agreement as part of our standard contract that contains commitments regarding the delivery of email messages to and from our servers, the speed at which our archive can produce search results, and our ability to correctly identify and isolate spam and viruses. If we do not achieve these levels, the customer can request a credit. Payment of the credit will be made subject to verification of the problem. These credits are tiered according to the extent of the service issued. The amount of credits provided to customers to date has been immaterial in all historical periods.
+ Customers
+ As of March 31, 2020, we had approximately 38,100 customers and protected millions of their employees in over 140 countries. Our diverse global footprint is evidenced by the fact that in the fiscal year ended March 31, 2020, we generated 51% of our revenue from the United States, 29% from the United Kingdom, 12% from South Africa, and 8% from the rest of the world. Our customers range from large enterprises with over 500,000 employees to small organizations with less than 50 employees and represent a diverse set of industries. For example, in the fiscal year ended March 31, 2020, we generated 14% of our revenue from customers in the professional, scientific and technical services industry, 13% from customers in the finance and insurance industry, 9% from customers in the legal services industry, and 9% from customers in the manufacturing industry. Our business is not dependent on any single customer. No single customer represented more than 1% of our annual revenue in the fiscal years ended March 31, 2020, 2019 or 2018. See Item 6, “Selected Financial Data” in this Annual Report on Form 10-K for our definition of “customer.”
+ Research and Development
+ Our engineering, operations, product, and development teams work together to enhance our existing products, technology infrastructure, and the underlying Mime | OS™ cloud architecture, as well as develop our new product pipeline. Our research and development and product management teams interact with our customers and partners to address emerging market needs, counter developing threats, and drive innovation in risk management and data protection. We operate a continuous delivery model for improvements to our infrastructure and products to ensure customers benefit from regular updates in protection and functionality without the need for significant intervention on their part. Our research and development and product management efforts give prominence to services that enhance our unification commitment and allow customers to displace point solutions or on-premises products.
+ 
+11
+
+
+Intellectual Property
+ Our success is dependent, in part, on our ability to protect our proprietary technologies and other intellectual property rights. We primarily rely on a combination of trade secrets, copyrights, and trademarks, as well as contractual protections, to establish and protect our intellectual property rights. As of March 31, 2020, we had 18 patents issued and 13 patent applications pending in the United States. We also have 5 patents issued in non-U.S. jurisdictions. We intend to pursue additional patent protection to the extent that we believe it would be beneficial and cost effective.
+ We have registered “Mimecast” and certain other marks as trademarks in the United States and several other jurisdictions. We also have a number of registered and unregistered trademarks in the United States and certain other jurisdictions and will pursue additional trademark registrations to the extent we believe it would be beneficial and cost effective. We are the registered holder of a variety of domestic and international domain names that include “mimecast.com,” “mimecast.co.uk,” “mimecast.co.za,” and similar variations.
+ In addition to the protection provided by our intellectual property rights, as part of our confidentiality procedures, all of our employees and independent contractors are required to sign agreements acknowledging that all inventions, trade secrets, works of authorship, developments, and other processes generated by them on our behalf are our property, and they assign to us any ownership that they may claim in those works. We also generally enter into confidentiality agreements with our employees, consultants, partners, vendors, and customers, and generally limit access to and distribution of our proprietary information.
+ Despite our precautions, it may be possible for unauthorized third parties to copy our products and use information that we regard as proprietary to create products and services that compete with ours. Some contractual restrictions protecting against unauthorized use, copying, transfer, and disclosures of our products may be unenforceable under the laws of certain jurisdictions and foreign countries. In addition, the laws of some countries do not protect proprietary rights to as great of an extent as the laws of the United States, and many foreign countries do not enforce these laws as diligently as government agencies and private parties in the United States. Our exposure to unauthorized copying and use of our products and misappropriation of our proprietary information may increase as a result of our foreign operations.
+ We expect that software and other solutions in our industry may be increasingly subject to third-party infringement claims as the number of competitors grow and the functionality of products in different industry segments overlaps. Moreover, many of our competitors and other industry participants have been issued patents, or filed patent applications, and have asserted claims and related litigation regarding patent and other intellectual property rights. Third parties, including non-practicing patent entities, have from time to time claimed, are claiming, and could claim in the future, that our technologies infringe patents they now hold or might obtain or be issued in the future. See Part I, Item 1A, “Risk Factors — We are currently being sued, have been sued in the past and may in the future be sued by third parties for alleged infringement of their proprietary rights” and Part I, Item 3, “Legal Proceedings” in this Annual Report on Form 10-K.
+ Competition
+ Our market is large, highly competitive, fragmented, and subject to rapidly evolving technology and security threats, shifting customer needs, and frequent introductions of new products and services. We do not believe that any specific competitor offers the fully unified service and integrated technology that we do. However, we do compete with companies that offer products that target email, web and data security, awareness training, continuity, archiving, DMARC reporting, and digital brand protection, as well as large providers such as Google Inc. and Microsoft Corporation, who offer functions and tools as part of their core mailbox services that may be, or be perceived to be, similar to our offerings. 
+ Our current and potential future competitors include: 
+  
+• | Security: Barracuda Networks, Inc., Google, Microsoft Exchange Online Protection, Proofpoint, Inc., Symantec Corporation, Agari Data, Inc., and Cisco Systems Inc.;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Archiving: Dell EMC, Microsoft Office® 365®, Proofpoint, Inc., Veritas Technologies LLC, Smarsh Inc., and Barracuda;
+--+---------------------------------------------------------------------------------------------------------------------
+
+
+• | Awareness Training: KnowBe4, Inc., Cofense Inc., and Wombat Security, a division of Proofpoint, Inc.;
+--+------------------------------------------------------------------------------------------------------
+
+
+• | Web security: Cisco, Webroot Inc., TitanHQ’s Webtitan, SafeDNS, Inc., Akamai Technologies, Inc, Infoblox Inc., Forcepoint LLC, Trustwave Holdings, Inc., and Zscaler, Inc.;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | DMARC reporting: Agari, Valimail Inc., dmarcian, Inc., Ondemarc by Redsift Limited, and ReturnPath’s email fraud protection, a division of Proofpoint, Inc.; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Digital brand protection: RSA Security LLC, a division of Dell EMC, RiskIQ, Inc., and MarkMonitor Inc.
+--+-------------------------------------------------------------------------------------------------------
+
+ 12
+
+
+Some of our current and future competitors may have certain competitive advantages such as greater name recognition, longer operating history, larger market share, larger existing user base, and greater financial, technical, and other resources. Some competitors may be able to devote greater resources to the development, promotion, and sale of their products than we can to ours, which could allow them to respond more quickly than we can to new technologies, threats, and changes in customer needs. We cannot provide any assurance that our competitors will not offer or develop products or services that are superior to ours or achieve greater market acceptance.
+ The principal competitive factors in our market include, but are not limited to:
+  
+• | reliability and effectiveness in protecting, detecting, and responding to cyberattacks;
+--+----------------------------------------------------------------------------------------
+
+
+• | scalability and multi-tenancy of our system;
+--+---------------------------------------------
+
+
+• | breadth and unification of our services;
+--+-----------------------------------------
+
+
+• | cloud-only delivery;
+--+---------------------
+
+
+• | total cost of ownership;
+--+-------------------------
+
+
+• | speed, availability, and reliability;
+--+--------------------------------------
+
+
+• | integration into office productivity, desktop, and mobile tools;
+--+-----------------------------------------------------------------
+
+
+• | speed at which our services can be deployed;
+--+---------------------------------------------
+
+
+• | ease of user experience for IT administrators and employees; and
+--+-----------------------------------------------------------------
+
+
+• | superior customer service and commitment to customer success.
+--+--------------------------------------------------------------
+
+ We believe that we compete favorably based on these factors. Our ability to remain competitive will depend to a great extent upon our ongoing performance in the areas of product and cloud architecture development, core technical innovation, channel management, and customer support.
+ Employees
+ As of March 31, 2020, we had 1,800 employees and subcontractors, including 718 in sales and marketing, 408 in research and development, 384 in services and support and 290 in general and administrative. While we have operations in the United Kingdom, the United States, South Africa, Australia, Germany, and Israel, most of our employees are based in the United Kingdom and the United States. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We have never experienced a strike or similar work stoppage, and we consider our relations with our employees to be good.
+Corporate Information
+ Mimecast Limited was incorporated under the laws of the Bailiwick of Jersey with company number 119119 on July 28, 2015 as a public company limited by shares. On November 4, 2015, Mimecast Limited became the holding company of Mimecast UK Limited, a private limited company incorporated in 2003 under the laws of England and Wales and its subsidiaries by way of a share-for-share exchange in which the shareholders of Mimecast UK Limited exchanged their shares in Mimecast UK Limited for an identical number of shares of the same class in Mimecast Limited. Following the exchange, the historical consolidated financial statements of Mimecast UK Limited became the historical consolidated financial statements of Mimecast Limited. Mimecast Limited has 13 subsidiaries.  Our principal operating companies are Mimecast UK Limited, a company organized under the laws of England and Wales; Mimecast Services Ltd., a company organized under the laws of England and Wales; Mimecast North America, Inc., a Delaware, United States corporation; Mimecast South Africa (Pty) Ltd., a South African corporation; Mimecast Australia Pty. Ltd., an Australian corporation; and Mimecast Germany GmbH, a German corporation, each of which is a wholly-owned subsidiary of Mimecast Limited. Our principal executive office is located at 1 Finsbury Avenue, London, EC2M 2PF, United Kingdom.
+ Our ordinary shares are traded on The Nasdaq Global Select Market under the symbol “MIME.”
+ Geographic Information
+ For financial reporting purposes, total revenue, and property and equipment, net attributable to geographic areas are presented in Note 16, “Segment and Geographic Information”, to the consolidated financial statements, included elsewhere in this Annual Report on Form 10-K.
+ 13
+
+
+Available Information
+ We maintain an Internet website at www.mimecast.com. The information on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K and should not be considered to be a part of this Annual Report on Form 10-K. Our website address is included in this Annual Report on Form 10-K as inactive textual reference only. Our reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, including our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q and our Current Reports on Form 8-K, and amendments to those reports, are accessible through our website, free of charge, as soon as reasonably practicable after these reports are filed electronically with, or otherwise furnished to, the SEC. The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC, including us, at http://www.sec.gov. We also make available on our website the charters of our audit committee, compensation committee and nominating and corporate governance committee, as well as our corporate governance guidelines and our code of business conduct and ethics. You may request copies of our reports and the other documents referenced above, at no cost, by writing to or telephoning us as follows:
+Mimecast Limited
+ Attention: Investor Relations
+ 191 Spring Street
+ Lexington, Massachusetts 02421
+ Telephone: 617-393-7050
+ 14
+
+

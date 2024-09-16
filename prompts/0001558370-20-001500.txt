@@ -1,0 +1,835 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+---------+---------
+
+​
+Overview
+​
+We are a biopharmaceutical company focused on acquiring, developing and commercializing innovative anti-cancer agents in the United States, Europe and additional international markets. We target our development programs for the treatment of specific subsets of cancer populations, and simultaneously develop, with partners, for those indications that require them, diagnostic tools intended to direct a compound in development to the population that is most likely to benefit from its use.
+​
+Our marketed product Rubraca® (rucaparib), an oral small molecule inhibitor of poly ADP-ribose polymerase (“PARP”), is marketed in the United States for two indications specific to recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer. The initial indication received approval from the United States Food and Drug Administration (“FDA”) in December 2016 and covers the treatment of adult patients with deleterious BRCA (human genes associated with the repair of damaged DNA) mutation (germline and/or somatic)-associated epithelial ovarian, fallopian tube, or primary peritoneal cancer who have been treated with two or more chemotherapies and selected for therapy based on an FDA-approved companion diagnostic for Rubraca. In April 2018, the FDA also approved Rubraca for the maintenance 
+
+3
+
+
+
+
+treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy. The approval in this second, broader and earlier-line indication on a priority review timeline was based on positive data from the phase 3 ARIEL3 clinical trial. Diagnostic testing is not required for patients to be prescribed Rubraca in this maintenance treatment indication.
+​
+In May 2018, the European Commission granted a conditional marketing authorization for Rubraca as monotherapy treatment of adult patients with platinum-sensitive, relapsed or progressive, BRCA mutated (germline and/or somatic), high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer, who have been treated with two or more prior lines of platinum-based chemotherapy, and who are unable to tolerate further platinum-based chemotherapy. This conditional approval requires the completion of certain confirmatory post marketing commitments. In January 2019, the European Commission granted a variation to the marketing authorization to include the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy. With this approval, Rubraca is now authorized in the European Union (“EU”) for certain patients in the recurrent ovarian cancer maintenance setting regardless of their BRCA mutation status. Following successful reimbursement negotiations in each country, commercial launches of Rubraca are underway in each of Germany, England, Italy and France and planned in Spain shortly.
+​
+Additional 2019 Rubraca key regulatory and clinical developments include the following:
+
+
+● | In November 2019, we submitted the supplemental New Drug Application (“sNDA”) for Rubraca as a monotherapy treatment of adult patients with BRCA1/2-mutant recurrent, metastatic castrate-resistant prostate cancer. On January 15, 2020, we announced that the FDA accepted the sNDA and granted priority review status to the application with a Prescription Drug User Fee Act (“PDUFA”) date of May 15, 2020. We are actively preparing for the launch of Rubraca in prostate cancer in the U.S., which we will commence upon receipt of FDA approval.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We initiated the Phase 2 LODESTAR study in December 2019 to evaluate Rubraca in homologous recombination repair genes across tumor types. The study will evaluate rucaparib as monotherapy treatment in patients with recurrent solid tumors associated with a deleterious mutation in homologous recombination repair (“HRR”) genes. Based on our interactions with the FDA, this study may be registration-enabling for a targeted gene- and tumor-agnostic label, if data from the trial support an accelerated approval. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Beyond our initial labeled indication, we have a clinical development program underway to further evaluate Rubraca in a variety of solid tumor types, either as monotherapy or in combination with other agents, including several studies as part of our ongoing clinical collaboration with Bristol-Myers Squibb Company (“BMS”) to evaluate its immunotherapy OPDIVO® (nivolumab) in combination with Rubraca. We hold worldwide rights for Rubraca.
+​
+In addition to Rubraca, we have a second product candidate currently in clinical development. Lucitanib is an investigational, oral, potent inhibitor of the tyrosine kinase activity of vascular endothelial growth factor receptors 1 through 3 (“VEGFR1-3”), platelet-derived growth factor receptors alpha and beta (“PDGFR α/β”) and fibroblast growth factor receptors 1 through 3 (“FGFR1-3”). We believe that data for a drug similar to lucitanib that inhibits these same pathways – when combined with a PD-1 inhibitor – represent a scientific rationale for development of lucitanib in combination with a PD-1 inhibitor, and in February 2019, lucitanib was added to our clinical collaboration with BMS. Encouraging data of VEGF and PARP inhibitors in combination also supports the evaluation of lucitanib combined with Rubraca. Thus, currently enrolling Phase 1b/2 combination studies involving lucitanib consist of the Clovis-sponsored LIO-1 study of lucitanib in combination with nivolumab in advanced gynecologic cancers and other solid tumors and an arm of the Clovis-sponsored SEASTAR study evaluating lucitanib in combination with Rubraca in advanced solid tumors. In addition to the LIO-1 study, the BMS-sponsored Phase 1/2 study CheckMate 79X is planned to initiate in early 2020 to evaluate multiple combinations of nivolumab with other therapies, including an arm with lucitanib in patients with second-line non-small cell lung cancer. We hold the global (excluding China) development and commercialization rights for lucitanib.
+​
+In September 2019, we entered into a license and collaboration agreement with 3B Pharmaceuticals GmbH (“3BP”) to develop a peptide-targeted radionuclide therapy (“PTRT”) and imaging agent targeting fibroblast-activating protein alpha (“FAP”).
+​
+Following completion of preclinical work to support an investigational new drug application (“IND”) for the lead candidate under our license and collaboration agreement, designated internally as FAP-2286, we plan to conduct global 
+
+4
+
+
+
+
+clinical trials. We anticipate submitting the IND in the second half of 2020 to support an initial Phase 1 study to determine the dose and tolerability of FAP-2286 as a therapeutic agent. We hold U.S. and global rights to FAP-2286, excluding Europe (inclusive of Russia, Turkey and Israel), where 3BP retains rights. We also have agreed with 3BP to collaborate on a discovery program directed to up to three additional, undisclosed targets for peptide-targeted radionuclide therapy, to which we would obtain global rights for any resulting product candidates.
+​
+Clovis was founded in 2009. We have built our organization to support innovative oncology drug development for the treatment of specific subsets of cancer populations. To implement our strategy, we have assembled an experienced team with core competencies in global clinical and non-clinical development, regulatory operations and commercialization in oncology, as well as establishing collaborative relationships with companies specializing in companion diagnostic development.
+​
+Clinical Development Pipeline
+​
+We continue to evaluate the use of Rubraca for selected patient populations and, where appropriate, collaborate with partners for companion diagnostic development. We have focused our development strategy for Rubraca on indications where we believe patient populations exhibit higher frequencies of mutant BRCA tumors or tumors with other homologous recombination deficiencies (“HRD”), where PARP inhibitors have demonstrated clinical or pre-clinical activity in tumors. We are also developing lucitanib in combinations, including with Rubraca, based on encouraging data in clinical studies of other similar oncology compounds. FAP-2286 is currently the subject of IND-enabling preclinical studies and we plan to submit the IND in the second half of 2020. The following table summarizes the ongoing or planned Clovis- or partner-sponsored studies:
+
+​
+In certain of these trials, we or our partners may have access to interim data on a periodic or continuing basis that will not be made available publicly on the same timeframe as such data becomes available to us, or at all.
+
+5
+
+
+
+
+​
+Rubraca – a PARP Inhibitor
+​
+Overview
+​
+Rubraca (rucaparib) is an oral, small molecule inhibitor of PARP1, PARP2 and PARP3. We in-licensed Rubraca from Pfizer, Inc. in June 2011 and hold exclusive worldwide rights. Rubraca has received regulatory approvals in the United States and the EU for patients with recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+​
+In the United States, Rubraca is approved by the FDA for the treatment of adult patients with deleterious BRCA mutation (germline and/or somatic)-associated epithelial ovarian, fallopian tube, or primary peritoneal cancer who have been treated with two or more chemotherapies and selected for therapy based on an FDA-approved companion diagnostic for Rubraca. BRCA mutations are believed to occur in approximately 25 percent of women with ovarian cancer. In April 2018, the FDA granted a second approval for Rubraca for the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy, a broader and earlier-line indication. Diagnostic testing is not required for patients to be prescribed Rubraca in this maintenance treatment indication.
+​
+In the EU, the EMA granted a conditional marketing authorization for Rubraca in May 2018 as monotherapy treatment of adult patients with platinum-sensitive, relapsed or progressive, BRCA mutated (germline and/or somatic), high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer, who have been treated with two or more prior lines of platinum-based chemotherapy, and who are unable to tolerate further platinum-based chemotherapy. This conditional approval requires the completion of certain confirmatory post marketing commitments. In January 2019, the European Commission granted a variation to the marketing authorization to include the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy. With this approval, Rubraca is now authorized in the EU for certain patients in the recurrent ovarian cancer maintenance setting regardless of their BRCA mutation status. Following successful reimbursement negotiations in each country, commercial launches of Rubraca are underway in each of Germany, England, Italy and France and planned in Spain shortly.
+​
+The Role of PARP Inhibition in Cancer Therapy
+​
+Cells in the human body are under constant attack from agents that can cause damage to DNA, including sunlight and other forms of radiation, as well as DNA-binding chemicals that can cause changes in the composition of DNA. Cells have evolved multiple mechanisms to enable such DNA repair, and these mechanisms are complementary to each other, each driving repair of specific types of DNA damage. If a cell’s DNA damage repair system is overwhelmed, then the cell will die undergoing a form of suicide termed apoptosis. A fundamental principle of cancer therapy is to damage cells profoundly with radiation or DNA-binding drugs, such as alkylating agents or platinums, to induce apoptosis and, subsequently, cancer cell death. Multiple DNA repair mechanisms active in the cell may reduce the activity of these anti-cancer therapies.
+​
+The PARP family comprises 17 structurally related proteins that have been identified on the basis of sequence similarity. PARP1, PARP2, and PARP3 play a central role in DNA repair. They are rapidly recruited to the sites of DNA damage and catalyze the recruitment of additional proteins that initiate the repair of damaged DNA. The breast cancer 1 (BRCA1) and breast cancer 2 (BRCA2) genes also have important roles in DNA repair pathways such as homologous recombination. According to the National Cancer Institute, BRCA1 and BRCA2 mutations are associated with an increased risk of ovarian, breast, prostate, and pancreatic cancers.
+ ​
+Rubraca is an inhibitor of PARP enzymes, including PARP1, PARP2, and PARP3. PARP inhibitors have shown activity in BRCA1/2 mutant and homologous recombination (“HR”) repair deficient cancer cell lines through a mechanism known as synthetic lethality in which the loss of two genes/pathways is required for cell death. The inhibition/inactivation of repair pathways by administration of a PARP inhibitor in the context of an underlying genetic defect such as a BRCA mutation results in tumor cell death through accumulation of unrepaired DNA damage. 
+​
+Alterations in DNA repair genes other than BRCA1/2 have been observed in, and contribute to the hereditary risk of, ovarian, breast, prostate and pancreatic cancers. PARP inhibitors have shown evidence of nonclinical and clinical activity in tumors with alterations in non-BRCA HR genes. DNA repair deficiencies resulting from genetic and 
+
+6
+
+
+
+
+epigenetic alterations can result in a “BRCA-like” phenotype that may also render tumor cells sensitive to PARP inhibitors. One approach to identify patients with DNA repair deficiencies due to mechanisms other than a mutation in BRCA or other non-BRCA HR genes is to assess loss of heterozygosity (“LOH”), or the loss of one normal copy of a gene, which arises from error-prone DNA repair pathways when HR is compromised. 
+​
+On the basis of these scientific observations, we initially developed Rubraca in ovarian cancer patients with tumors having BRCA mutations or other HRD. These molecular markers also may be used to select patients with other tumors for treatment with Rubraca. Thus, in addition to ovarian trials, studies open for enrollment or under consideration to further evaluate Rubraca, either alone or in combination with other agents, include prostate, breast, pancreatic, bladder and gastroesophageal cancers.
+​
+Ovarian cancer
+​
+According to the American Cancer Society, an estimated more than 22,000 women will be diagnosed with ovarian cancer in the United States in 2020, and according to GLOBOCAN in 2018, an estimated 68,000 women in Europe are diagnosed each year with ovarian cancer, and ovarian cancer is among those cancers with the highest rate of deaths. Approximately 80 to 85 percent of ovarian cancer cases are not diagnosed, and therefore remain untreated, until the disease has spread to other parts of the body. Most women with ovarian cancer will relapse after surgery and/or chemotherapy. 
+​
+Rubraca’s approvals in the U.S. and the EU in the recurrent BRCA mutant ovarian cancer treatment setting were based on data from two multicenter, single-arm, open-label clinical trials, Study 10 (NCT01482715) and ARIEL2 (NCT01891344), in women with advanced BRCA-mutant ovarian cancer who had progressed after two or more prior chemotherapies. All patients received Rubraca orally 600 mg twice daily as monotherapy. Treatment continued until disease progression or unacceptable toxicity. The primary efficacy outcome measure of both studies was objective response rate (ORR) as assessed by the investigator according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1. Results from a blinded independent radiology review (“BICR”) were consistent.
+​
+The efficacy of Rubraca in the ovarian cancer maintenance treatment setting was investigated in ARIEL3 (NCT01968213), a double-blind, multicenter clinical trial in which 564 patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who were in response to platinum-based chemotherapy were randomized (2:1) to receive Rubraca tablets 600 mg orally twice daily (n=375) or placebo (n=189). Treatment was continued until disease progression or unacceptable toxicity. All patients had achieved a response (complete or partial) to their most recent platinum-based chemotherapy. Randomization was stratified by best response to last platinum (complete or partial), time to progression following the penultimate platinum therapy (6 to < 12 months and ≥ 12 months), and tumor biomarker status. The major efficacy outcome was investigator-assessed progression-free survival (“PFS”) evaluated according to RECISTv1.1. 
+​
+The primary efficacy analysis evaluated three prospectively defined molecular sub-groups in a step-down manner: 1) tumor BRCA mutant (“tBRCAmut”) patients, inclusive of germline and somatic BRCA mutations (n=196); 2) HRD patients, including tBRCAmut patients and BRCA wild-type with high LOH (n=354), and, finally, 3) the intent-to-treat population, or all patients treated in ARIEL3 (n=564). ARIEL3 demonstrated a statistically significant improvement in PFS for patients randomized to Rubraca as compared with placebo in all patients, and in the HRD and tBRCAmut subgroups. Median PFS in the tBRCAmut patients was 16.6 months (95% CI: 13.4–22.9) in the Rubraca group (n=130) versus 5.4 months (95% CI: 3.4–6.7) in the placebo group (n=66) (Hazard Ratio, or HR: 0.23 [95% CI: 0.16–0.34]; p<0.0001). Median PFS in the HRD patients was 13.6 months (95% CI: 10.9–16.2) in the Rubraca group (n=236) versus 5.4 months (95% CI: 5.1–5.6) in the placebo group (n=118) (HR: 0.32 [95% CI: 0.24–0.42]; p<0·0001). Median PFS in the intent-to-treat population was 10.8 months (95% CI: 8.3–11.4) in the Rubraca group (n=375) versus 5.4 months (95% CI: 5.3–5.5) in the placebo group (n=189) (HR: 0.36 [95% CI: 0.30–0.45]; p<0·0001). 
+​
+BICR results were consistent. In a pre-specified analysis of the key stand-alone secondary endpoint of progression-free survival assessed by BICR, PFS was also improved in the Rubraca group compared with placebo in all three populations. Median PFS in the tBRCAmut patients was 26.8 months (95% CI: 19.2 to not reached) in the Rubraca group versus 5.4 months (95% CI: 4.9–8.1) in the placebo group (HR: 0.20 [95% CI: 0.13–0.32]; p<0.0001). Median PFS in the HRD patients was 22.9 months (95% CI: 16.2 to not reported) in the Rubraca group versus 5.5 months (95% CI: 5.1–7.4) in the placebo group (HR: 0.34 [95% CI: 0.24–0.47]; p<0.0001). Median PFS in the intent-to-treat 
+
+7
+
+
+
+
+population was 13.7 months (95% CI: 11.0–19.1) versus 5.4 months (95% CI: 5.1–5.5) in the placebo group (HR: 0.35 [0.28–0.45]; p<0.0001).
+​
+Enrollment in ARIEL3 included one-third of patients who had achieved a complete response to their prior platinum-based therapy, and two-thirds of patients who had achieved a partial response to their prior platinum-based therapy. Of those with a partial response, 37% had measurable disease at the time of enrollment and were therefore evaluable for response. The confirmed overall response rate by investigator-assessed RECISTv1.1 in the tBRCAmut group treated with Rubraca was 37.5% (15/40), of these, 17.5% (7/40) were complete responses. This compared with 9% (2/23) in the placebo group (p=0.0055). No complete responses were seen in the tBRCAmut placebo group. RECIST responses were also observed in BRCA wild-type HRD-positive and BRCA wild-type HRD-negative subgroups. In a subsequent post hoc exploratory analysis of ARIEL3 data, a higher response rate was also seen in patients without measurable disease in both the tBRCAmut group and the intent to treat population (inclusive of BRCAmut patients) as compared to placebo. RECIST responses were not assessed by independent blinded review.
+​
+Safety data from ARIEL3 demonstrated consistency with prior Rubraca studies. Treatment emergent adverse events (“TEAEs”) in the ARIEL3 Rubraca group were generally managed with dose modifications and not associated with increased mortality or morbidity compared with the placebo group. The most common (occurring in ≥5% of patients) TEAEs of grade ≥3 reported in patients treated with Rubraca in the ARIEL3 study were anemia/decreased hemoglobin (21%), increase in ALT/AST (10%), neutropenia (7%), asthenia/fatigue (7%) and thrombocytopenia (5%). The discontinuation rate for TEAEs (excluding disease progression) was 15% for Rubraca-treated patients and 2% for the placebo arm. In ARIEL3, the rate of treatment-emergent myelodysplastic syndrome (“MDS”)/acute myeloid leukemia (“AML”) in the Rubraca arm was <1% (3/372), and no patients on the placebo arm experienced treatment-emergent MDS/AML. In approximately 1,100 patients treated with Rubraca, MDS/AML occurred in 10 patients (0.9%), including those in long term follow-up. Of these, 5 occurred during treatment or during the 28-day safety follow-up (0.5%). The duration of Rubraca treatment prior to the diagnosis of MDS/AML ranged from 1 month to approximately 28 months. The cases were typical of secondary MDS/cancer therapy-related AML; in all cases, patients had received previous platinum containing chemotherapy regimens and/or other DNA damaging agents.
+​
+At the time of the analysis of PFS, overall survival (OS) data were not mature (with 22% of events). The comprehensive dataset for ARIEL3 was presented at the 2017 European Society of Medical Oncology (“ESMO”) Congress in early September 2017 and subsequently published in The Lancet. The ARIEL3 dataset formed the basis for sNDA filed with the FDA as well as the marketing authorization variation filed with the EMA supporting the approval of Rubraca in the US in April 2018 and the EU in January 2019 respectively, as maintenance treatment in adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy.
+​
+The ARIEL4 confirmatory study (NCT 02855944) is a Phase 3 multicenter, randomized study of Rubraca versus chemotherapy enrolling relapsed ovarian cancer patients with BRCA mutations (inclusive of germline and/or somatic) who have failed two prior lines of therapy. The primary endpoint of the study is PFS. This study represents a post marketing commitment to support the conditional approval granted for the treatment indication in the EU, including ensuring that sufficient partially platinum-sensitive patients are enrolled in the trial. This may require enrollment of additional patients into the study, increasing its overall size and extending the time for enrollment.
+​
+The Phase 1 RUCA-J study has identified the recommended 600 mg BID dose of rucaparib in Japanese patients, which will enable development of a bridging strategy and potential inclusion of Japanese sites in planned or ongoing global studies. Enrollment is complete for this study.
+​
+Prostate cancer
+​
+The American Cancer Society estimates that approximately 192,000 men in the United States will be diagnosed with prostate cancer in 2020, and the GLOBOCAN Cancer Fact Sheets estimated that approximately 450,000 men in Europe were diagnosed with prostate cancer in 2018. Castrate-resistant prostate cancer has a high likelihood of developing metastases. Metastatic castrate-resistant prostate cancer (“mCRPC”) is an incurable disease, usually associated with poor prognosis. Approximately 43,000 men in the U.S. are expected to be diagnosed with mCRPC in 2020. According to the American Cancer Society, the five-year survival rate for mCRPC is approximately 30%. A number of publications have reported germline or somatic mutations in BRCA1 or BRCA2 are approximately 12 percent in mCRPC according to an 
+
+8
+
+
+
+
+article published in JCO Precision Oncology in 2017. These molecular markers may be used to select patients for treatment with a PARP inhibitor. 
+​
+The TRITON (Trial of Rucaparib in Prostate Indications) program in prostate cancer initiated in the second half of 2016, and currently includes two Clovis-sponsored potential registration studies. Enrollment is complete for TRITON2; TRITON3 continues to enroll patients.
+​
+The TRITON2 study (NCT02952534) is a Phase 2 single-arm study of Rubraca in men with mCRPC that enrolled patients with BRCA mutations (inclusive of germline and/or somatic) or other deleterious mutations in other homologous recombination repair genes. Patients in the TRITON2 study have received prior treatment with at least one androgen receptor (“AR”)-directed therapy and one previous line of taxane-based chemotherapy and were screened for a deleterious germline or somatic mutation in BRCA1, BRCA2 or one of 13 other pre-specified homologous recombination (“HR”) genes. Study participants are allocated into three cohorts based on the type of gene mutation and disease status, which is determined by genomic sequencing and RECIST criteria, respectively. Each cohort receives 600 mg Rubraca twice daily and are grouped based on the following criteria: A) mutation in either BRCA1, BRCA2 or ATM genes, with tumors that can be measured with visceral and/or nodal disease; B) mutation in either BRCA1, BRCA2 or ATM genes, with tumors that cannot be measured with visceral and/or nodal disease, or C) mutation in another HR gene associated with sensitivity to PARP inhibition, with or without measurable disease. The primary study endpoints include confirmed ORR per RECIST/PCWG3 in patients with measurable disease at baseline by independent review and PSA response in patients with no measurable disease at baseline. Secondary endpoints include overall survival (“OS”), clinical benefit rate, and safety and tolerability.
+​
+In November 2019, we submitted the sNDA for Rubraca as a monotherapy treatment of adult patients with BRCA1/2-mutant recurrent, metastatic castrate-resistant prostate cancer. On January 15, 2020, we announced that the FDA accepted the sNDA and granted priority review status to the application with a PDUFA date of May 15, 2020.
+​
+Rubraca was granted Breakthrough Therapy designation (“BTD”) for its development as a monotherapy treatment of adult patients with BRCA1/2-mutated mCRPC who have received at least one prior androgen receptor (AR)-directed therapy and taxane-based chemotherapy on October 1, 2018 by the FDA.
+​
+The TRITON3 study (NCT02975934), a Phase 3 comparative study in men with mCRPC enrolling BRCA mutant and ATM (both inclusive of germline and/or somatic) patients who have progressed on AR-targeted therapy and who have not yet received chemotherapy in the castrate-resistant setting. TRITON3 will compare Rubraca to physician’s choice of AR-targeted therapy or chemotherapy in these patients. The planned primary endpoint of the study is radiologic PFS. TRITON3 initiated during the first quarter of 2017, and this earlier-line comparative study could potentially serve as a confirmatory study in the advanced prostate setting should the sNDA currently under review for BRCA1/2-mutant recurrent mCRPC support an accelerated approval.
+​
+LODESTAR tumor-agnostic study 
+​
+The LODESTAR clinical study (NCT04171700) is a Phase 2 study evaluating rucaparib as monotherapy treatment in patients with recurrent solid tumors associated with a deleterious HRR gene mutation across a variety of tumor types. These gene mutations included in the primary cohort include BRCA1, BRCA2, PALB2, RAD51C, RAD51D, as well as several additional genes in an exploratory cohort. We anticipate that this study may potentially be registration-enabling for a targeted gene- and tumor-agnostic label. The study initiated in late 2019. 
+​
+Combination trials
+Our ongoing collaboration with BMS involves the evaluation of the combination of Rubraca with BMS’s immunotherapy Opdivo® (nivolumab) in multiple tumor types.
+We believe that a preclinical rationale supports the conduct of clinical trials of the combination of our PARP inhibitor Rubraca with immune checkpoint inhibitors such as the PD-1 inhibitor Opdivo. BRCA1 and BRCA2 and other HRD mutations are associated with increased tumor mutational burden, which may create additional tumor-specific antigens or “neoepitopes.” Increased tumor mutation burden has been shown to correlate with increased benefit from immune checkpoint blockade. In addition, cell death that is induced by a PARP inhibitor is considered immunogenic and stimulates a “STING-like” pathway due to fragmented DNA release into cytosol. In mice studies, rucaparib and an anti-
+
+9
+
+
+
+
+PD-1 antibody demonstrated anti-tumor activity in BRCA1 mutant ovarian tumors. The combination of rucaparib and either an anti-PD-L1 or anti-CTLA-4 antibody were equally compelling in preclinical studies.
+Three combination trials of Rubraca and Opdivo are currently underway sponsored by Clovis or BMS, and in February 2019, lucitanib was added to the clinical collaboration in combinations with Opdivo.
+ATHENA is the Clovis-sponsored four-arm first-line maintenance treatment study (NCT03522246) to evaluate Rubraca and Opdivo, Rubraca, Opdivo and placebo in an estimated 1,000 newly diagnosed patients with stage III/IV high-grade ovarian, fallopian tube, or primary peritoneal cancer who have completed platinum-based chemotherapy. The primary objectives are first, to determine if Rubraca extends PFS versus placebo, and second, to determine if the combination of Rubraca and Opdivo meaningfully extends PFS versus Rubraca monotherapy, or versus placebo. The ATHENA study, which initiated in 2018, is expected to complete enrollment in the second quarter of 2020, and evaluate Rubraca in terms of two key outcomes in a step-down manner: monotherapy versus placebo in the first-line maintenance setting in the HRD population, inclusive of BRCA, and in the all comers (intent-to-treat) population, and later, any potential advantage for the combination of Rubraca and Opdivo in the same patient populations. ATHENA is the first front-line switch maintenance study to evaluate a PARP inhibitor as monotherapy and in combination with an anti-PD-1 in one study design. We anticipate the results of the Rubraca monotherapy arm versus placebo in all study populations in the second half of 2021, and then a year or more later, the results of Rubraca plus Opdivo versus Rubraca in all study populations. Each of the analyses will first evaluate outcomes in the HRD population, inclusive of BRCA, and then step down to the entire intent-to-treat population.
+BMS is sponsoring CheckMate 9KD (NCT03338790), a Phase 2 three-arm study in mCRPC, evaluating Opdivo + Rubraca, Opdivo + docetaxel + prednisone, and Opdivo + enzalutamide, with the objective of determining how the combinations affects objective response rate and PSA response. The study is enrolling patients with biomarker negative or positive disease, and tumor tissue samples are being used to determine biomarker status. BMS initiated the study in the fourth quarter of 2017.
+BMS is also sponsoring FRACTION-GC (NCT02935634), a Phase 2 multi-arm study evaluating Opdivo in combination with other therapies in advanced gastric cancer. The trial includes, among other combinations, an evaluation of Opdivo + Rubraca, Yervoy + Rubraca and the triplet combination of Opdivo + Yervoy + Rubraca. This is the first sponsored study to explore this triplet combination, and it is now enrolling patients into the safety lead-in part of the Rubraca-containing portion of the study.
+Beyond the BMS clinical collaboration, the Clovis-sponsored SEASTAR Phase 1b/2 study (NCT03992131) is comprised of multiple single-arm rucaparib combination studies, including: 
+
+
+● | Rubraca with lucitanib, our investigational inhibitor of multiple tyrosine kinases including VEGFR, for the treatment of advanced solid tumors in the Phase 1b portion. This study is currently enrolling patients in the dose-finding portion of the study.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | As part of a clinical collaboration with Immunomedics, Rubraca with sacituzumab govitecan, Immunomedics’ lead antibody-drug conjugate product candidate. The safety cohort is currently enrolling patients, and decisions on any expansion cohorts will be made following review of safety data.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Pancreatic cancer
+​
+Interim results from an investigator-initiated Phase 2 trial of Rubraca as first-line maintenance therapy in platinum-sensitive patients with advanced pancreatic cancer reported at the American Association for Cancer Research (“AACR”) annual meeting in April 2019 suggest that first-line maintenance therapy with Rubraca following induction with platinum-based chemotherapy provides disease control with no new safety signals among patients with a pathogenic mutation in BRCA1, BRCA2 or PALB2. Based on these data as well as the earlier Clovis-sponsored RUCAPANC study, we plan to enroll patients with pancreatic cancer and selected genetic mutations in the LODESTAR pan-tumor study of rucaparib that initiated in late 2019.
+​
+Bladder cancer
+​
+In April 2019, we discontinued our Clovis-sponsored ATLAS Phase 2 open-label monotherapy clinical trial evaluating rucaparib in recurrent, metastatic bladder cancer. The decision was based on recommendations by an independent data monitoring committee (“DMC”) following its review of preliminary efficacy data for 62 patients 
+
+10
+
+
+
+
+enrolled and treated in the study, which demonstrated that the objective response rate in the intent-to-treat population did not meet the protocol-defined continuance criteria, and suggested that monotherapy treatment may not provide a meaningful clinical benefit in the all-comer patient population enrolled in the trial. Following the DMC’s recommendation to stop enrollment in the study, we terminated the ATLAS study early. We plan to enroll patients with advanced bladder cancer and selected genetic mutations in the LODESTAR pan-tumor study of rucaparib that initiated in late 2019. 
+​
+Companion Diagnostics
+​
+Two FDA-approved companion diagnostic tests are commercially available to select ovarian cancer patients for treatment with Rubraca. 
+​
+Foundation Medicine, Inc. (“Foundation”) markets its comprehensive companion diagnostic test for solid tumors, FoundationOne®CDx (“F1CDx”), a next generation sequencing-based in vitro diagnostic device for detection of substitutions, insertion and deletion alterations, and copy number alterations in 324 genes (including BRCA1/2), select gene rearrangements, as well as genomic signatures, including LOH, microsatellite instability and tumor mutational burden using tumor tissue specimens. F1CDx is approved as a companion diagnostic to select ovarian cancer patients with BRCA1/2 mutations for treatment with Rubraca.
+​
+BRACAnalysis™CDx, is a blood-based assay for the qualitative detection and classification of germline mutations in BRCA1/2 genes commercialized by Myriad Genetics Laboratories, Inc. BRACAnalysis CDx is approved as a companion diagnostic to select ovarian cancer patients with BRCA1/2 mutations for treatment with Rubraca.
+​
+In July 2019, we entered into an agreement with Foundation to collaborate on the development of a plasma-based companion diagnostic assay to select patients with deleterious BRCA1/2 mutations for treatment with Rubraca based on Foundation’s liquid biopsy platform, FoundationOne®Liquid.
+​
+Lucitanib – a VEGFR, PDGFR and FGFR Inhibitor
+​
+Lucitanib is an investigational, oral, potent inhibitor of the tyrosine kinase activity of vascular endothelial growth factor receptors 1 through 3 (“VEGFR1-3”), platelet-derived growth factor receptors alpha and beta (“PDGFR α/β”) and fibroblast growth factor receptors 1 through 3 (“FGFR1-3”). We believe that data for a drug similar to lucitanib that inhibits these same pathways – when combined with a PD-1 inhibitor – represent a scientific rationale for development of lucitanib in combination with a PD-1 inhibitor, and in February 2019, lucitanib was added to our clinical collaboration with BMS. Encouraging data of VEGF and PARP inhibitors in combination also supports the evaluation of lucitanib combined with Rubraca. Thus, currently enrolling Phase 1b/2 combination studies involving lucitanib consist of the Clovis-sponsored LIO-1 study (NCT04042116) of lucitanib in combination with nivolumab in advanced gynecologic cancers and other solid tumors and an arm of the Clovis-sponsored SEASTAR study evaluating lucitanib in combination with Rubraca in advanced solid tumors. We anticipate initial data from these studies to be presented at medical meetings in 2020. In addition to the LIO-1 study, the BMS-sponsored Phase 1/2 study CheckMate 79X is planned to initiate in early 2020 to evaluate multiple combinations with nivolumab, including an arm with lucitanib in patients with second-line non-small cell lung cancer.
+​
+The composition of matter patent for lucitanib expires in 2030 in the U.S. and 2028 in Europe, with up to five years patent term extension available. We hold the global (excluding China) development and commercialization rights for lucitanib.
+​
+VEGF, PDGF and FGF: The Role of these Tyrosine Kinase Inhibitors in Cancer
+​
+The VEGFs are a family of related extracellular proteins that normally regulate blood and lymphatic vessel development in humans. They act by binding to and activating VEGF receptors, which are cell surface proteins that transmit growth signals to specific cells that are involved in the development of new blood vessels. Certain VEGFs promote growth of multiple solid tumors by stimulating the formation of new blood vessels to feed the tumor and allow it to grow and metastasize. Tumors produce an excessive amount of VEGF. This results in excess VEGFR signaling and the formation of new blood vessels within the tumor. The VEGF ligands that induce angiogenesis are often present in a wide range of cancer indications, including a type of kidney cancer called renal cell carcinoma, a type of liver cancer called hepatocellular carcinoma, gastric cancer, head and neck cancers and other solid tumors.
+
+11
+
+
+
+
+​
+The PDGF family consists of five different isoforms of PDGF ligand that bind to and activate cellular responses through two different receptors (PDGFRα/ß). In tumors, PDGF signaling plays a diverse role in many aspects of tumor development promoting cell proliferation, invasion, migration and angiogenesis. Amplification and/or mutation of the gene encoding the PDGFRα receptor is observed in a wide range of cancers, including lung cancer, an aggressive form of brain cancer called glioblastoma and a cancer of the gastrointestinal tract known as gastrointestinal stromal tumors. Amplification of the PDGFRα gene results in excess production, or the over-expression, of PDGFRα protein on the surface of the tumor cell. The over-expression of PDGFRα on the tumor cell surface leads to an increased receptor signaling, which stimulates uncontrolled proliferation of some types of tumor cells. 
+​
+The FGFs are a family of related extracellular proteins that normally regulate cell proliferation and survival in humans. The FGF family consists of 22 ligands that exert their physiological effect on cells by binding to four FGFRs (FGFR1- 4). As with the PDGF family, some cancers display FGF/FGFR gene amplification/mutation resulting in continual activation of the FGFR signaling pathway leading to uncontrolled cell division. Tumors with a relatively high incidence of FGF aberrations, which include amplification of the FGFR1 gene and amplification of a region of chromosome 11q that contains several FGF ligands, include breast and lung cancers. In addition, FGFR gene amplification/mutation is also observed in a wide range of cancer indications including sarcoma, ovarian cancer, adenocarcinoma of the lung, bladder cancer, colorectal cancer and endometrial cancer.
+​
+As an inhibitor of VEGFR1-3, PDGFRα/ß and FGFR1-3 and given the role that each of these receptor kinases plays in tumor progression and metastasis formation, lucitanib has the potential benefit of targeting three relevant pro-angiogenic growth factors in targeted patient populations identified by molecular markers. Data from earlier studies suggest that lucitanib’s VEGF inhibition may be the primary driver of its activity, and both preclinical and clinical data provide a scientific rationale for further development on lucitanib in combination with other agents. 
+​
+Targeting angiogenesis and immune checkpoint pathways may have a synergistic effect on antitumor activity. Angiogenesis has been shown to be immunosuppressive within the tumor microenvironment, dampening anti-tumor immune responses, according to Nature Reviews in Clinical Oncology (Fukumara 2018). Immune effects of angiogenesis include modulation of T-cell infiltration into the tumor, inhibition of dendritic cell maturation, and the modulation of cell adhesion molecules and immune cell populations. Inhibition of angiogenesis by small molecule RTK inhibitors or monoclonal antibodies may reverse immunosuppression. These data suggest the clinical activity of PD-(L)1 inhibitors may be enhanced through the inhibition of angiogenesis by lucitanib. Clovis preclinical studies of multiple syngeneic tumor models have shown that lucitanib in combination with a PD-1 inhibitor delivers superior activity. In addition to the Clovis- and BMS-sponsored studies underway, multiple additional Phase 1-3 studies are examining the combination of angiogenesis and PD-(L)1 inhibitors in different indications.
+​
+Preclinical and clinical data support the potential activity of combining angiogenesis and PARP inhibition. According to Cancer Research (Bindra 2005, Chan 2008, Chan 2010) and Molecular and Cellular Biology (Bindra 2004), there is a link between PARP inhibition and suppression of angiogenesis: chronic hypoxia induces down-regulation of BRCA1 and RAD51 and decreases homologous recombination in cancer cells. Clovis preclinical data in an ovarian tumor BRCA1mut syngeneic model showed the combination of lucitanib and rucaparib is more active than monotherapy than either lucitanib or rucaparib as a single agent and showed similar anti-tumor activity to rucaparib in combination with another oral VEGFR inhibitor. Published clinical data for the combination of another oral VEGFR inhibitor and PARP inhibitor in development further demonstrate the potential activity of the combination.
+​
+FAP-2286 and Peptide-Targeted Radiopharmaceutical Therapy Discovery Program
+​
+FAP-2286 is a preclinical candidate discovered by 3BP under investigation as a peptide-targeted radionuclide therapy (“PTRT”) and imaging agent targeting fibroblast activation protein alpha (“FAP”). In September 2019, we acquired U.S. and global rights to FAP-2286, excluding Europe (inclusive of Russia, Turkey and Israel), where 3BP retains rights. We plan to file an IND application for FAP-2286 in the second half of 2020 to support a Phase 1 study to determine the dose and tolerability of FAP-2286 as a therapeutic agent, with expansion cohorts planned in multiple tumor types as part of a global development program. 
+​
+Patent applications are pending that claim FAP-2286 generically and specifically (including with respect to composition of matter) that, if issued, would have expiration dates in 2040. 
+​
+
+12
+
+
+
+
+We also have agreed with 3BP to collaborate on a discovery program directed to up to three additional, undisclosed targets for peptide-targeted radionuclide therapy, to which we would obtain global rights for any resulting product candidates.
+​
+The Role of Fibroblast Activation Protein Alpha as a Radiopharmaceutical Target
+​
+FAP is highly expressed in cancer-associated fibroblasts (“CAFs”) which are found in the majority of cancer types, potentially making it a suitable target across a wide array of solid tumors. FAP is highly expressed in many epithelial cancers, including more than 90 percent of breast, lung, colorectal and pancreatic carcinomas. CAFs are highly prevalent in the tumor microenvironment of many cancers and persist through all malignant stages of a tumor, from primary tumor to metastasis. FAP has limited expression on normal fibroblasts, reducing the potential for effects in normal tissue.
+​
+PTRT is an emerging class of drugs and it involves the injection of a small amount of radioactive material – a radionuclide – that is combined with a cancer-targeting peptide for use as a targeted pharmaceutical. The targeting peptide is able to recognize and bind to specific receptors on the cancel cells, and the intended result is to deliver a high dose of radiation to the tumor while sparing normal tissue because of its rapid systemic clearance. In order for the targeted radiopharmaceutical to be safe and efficacious, it must rapidly attach to cancer cells or in close vicinity to the cancer cells, be retained in or at the tumor site for a sufficient period of time that the radionuclide can have activity on the cancer cells, have minimal attachment to non-cancer cells, and then be rapidly cleared from the body.
+​
+Clinical studies of small molecule imaging agents targeting FAP have validated this target in a diverse number of cancer indications and support the further evaluation of peptide-targeted radionuclide therapy. FAP-targeted radiopharmaceuticals have at least two potential modes of anti-tumor activity: radiation crossfire, in which tumor cells are irradiated due to their close proximity to CAFs; and depletion of CAFs, disrupting the communication between the tumor cells and the tumor stroma. In addition, in certain tumor types, such as sarcoma and mesothelioma, FAP is expressed on the tumor cells themselves, and in those tumors, FAP-targeted radiopharmaceuticals may have a direct antitumor effect.
+​
+In addition, an evident biological rationale supports the combination of targeted radionuclide therapy with cancer therapies including PARP inhibitors and anti-PD-1/PDL-1 agents. While our initial development focus will be on monotherapy with FAP-2286, we may explore these types of combinations pre-clinically and clinically as well.
+​
+First Clinical Experience Reported from FAP-2286 Named Patient Use
+​
+Physicians in Germany and certain other countries may treat patients suffering from life-threatening diseases or disease leading to severe disability with experimental drugs if no other appropriate options are available under named-patient or similar programs. A physician may initiate treatment for specific patients until there is commercial product available and patients are encouraged to enroll in clinical trials where possible. Named patient programs are not clinical trials and the treating physician is solely responsible for, and makes all decisions independently, including dose and assessment of efficacy and safety, and the drug sponsor has no role in decisions.
+​
+In December 2019, Professor Dr. Richard P. Baum reported his initial independent clinical experience with FAP-2286 in named-patient use in ten patients at the International Centers for Precision Oncology (“ICPO”) Foundation Symposium in Bad Berka, Germany. At Prof. Dr. Baum’s clinic, FAP-2286 was linked to Gallium-68 as a tumor-imaging compound using PET/CT scanning and to Lutetium-177 as a therapeutic agent. While we were not provided the data behind his results and have not verified those results, we were encouraged by his presentation, and believe that his reported experience supports our pre-clinical and development plans.
+​
+As the early named patient use in Germany suggests, significant interest already exists within the academic community to explore the potential of FAP as an imaging and treatment target. We are evaluating opportunities to support investigator-initiated research proposals that could generate imaging data for FAP-2286 prior to the availability of any clinical data. Information from these independent projects could be useful to provide additional experience with FAP-2286 and better understand the characteristics of FAP expression in multiple tumor types.
+
+13
+
+
+
+
+​
+Competition
+​
+The development and commercialization of new drugs is intensely competitive, and we face competition from major pharmaceutical companies, biotechnology companies, universities and other research institutions worldwide. Our competitors may develop or market products or other novel technologies that are more effective, safer or less costly than any that have been or will be commercialized by us, or may obtain regulatory approval for their products more rapidly than we may obtain approval for ours.
+​
+The acquisition or licensing of pharmaceutical products is also very competitive. More established companies, which have acknowledged strategies to license or acquire products, may have competitive advantages over us, as may other emerging companies that take similar or different approaches to product acquisitions. Many of our competitors have substantially greater financial, technical and human resources than we have. Our competitors also compete with us in recruiting and retaining qualified scientific, management and commercial personnel as well as in establishing clinical trial sites and patient enrollment for clinical trials. 
+​
+Additional mergers and acquisitions in the pharmaceutical industry may result in even more resources being concentrated in our competitors. Competition may increase further because of advances made in the commercial applicability of technologies and greater availability of capital for investment in these fields. Our success will be based in part on our ability to build and actively manage a portfolio of drugs that addresses unmet medical needs and creates value in patient therapy.
+​
+Rubraca Competition
+​
+Lynparza®/olaparib (AstraZeneca UK Limited) was the first PARP inhibitor to market and has been approved in the US in the following indications:
+
+
+● | for the maintenance treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA-mutated (“gBRCAm” or “sBRCAm”) advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | for the treatment of adult patients who have deleterious or suspected deleterious gBRCAm advanced ovarian cancer who have been treated with three or more prior lines of chemotherapy;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | for the maintenance treatment of adult patients with recurrent epithelial, fallopian tube or primary peritoneal cancer, who are in a complete or partial response to platinum-based chemotherapy;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | in patients with deleterious or suspected deleterious gBRCAm, human epidermal growth factor receptor 2 (“HER2”)-negative metastatic breast cancer who have been treated with chemotherapy in the neoadjuvant, adjuvant, or metastatic setting; and
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | for the maintenance treatment of adult patients with deleterious or suspected deleterious gBRCAm metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of a first-line platinum-based chemotherapy regimen.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Lynparza is approved in the EU as monotherapy for the:
+
+
+● | maintenance treatment of adult patients with advanced (FIGO stages III and IV) BRCA1/2-mutated (germline and/or somatic) high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer who are in response (complete or partial) following completion of first-line platinum-based chemotherapy;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | maintenance treatment of adult patients with platinum-sensitive relapsed high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in response (complete or partial) to platinum-based chemotherapy; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | treatment of adult patients with germline BRCA1/2-mutations, who have HER2 negative locally advanced or metastatic breast cancer. Patients should have previously been treated with an anthracycline and a taxane in the (neo)adjuvant or metastatic setting unless patients were not suitable for these treatments. Patients with hormone receptor-positive breast cancer should also have progressed on or after prior endocrine therapy, or be considered unsuitable for endocrine therapy.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+14
+
+
+
+
+AstraZeneca and Merck & Co., Inc. have a global strategic oncology collaboration to co-develop and co-commercialize Lynparza for multiple cancer types. Lynparza is being investigated, alone and in combination with other agents, in multiple indications across several tumor types, including breast, prostate, and pancreatic cancers.
+​
+AstraZeneca has filed an sNDA for Lynparza in combination with bevacizumab, which has been granted priority review in the United States, for the maintenance treatment of patients with advanced ovarian cancer who are in complete or partial response to 1st-line platinum-based chemotherapy with bevacizumab. A PDUFA date is set for the second quarter of 2020.
+​
+In October 2019, the results of the PROFOUND Phase 3 trial were reported in men with metastatic castration-resistant prostate cancer (“mCRPC”) who have a homologous recombination repair gene mutation and have progressed on prior treatments with new hormonal anticancer treatments. Results from the trial showed a statistically-significant and clinically-meaningful improvement in the primary endpoint of radiographic progression-free survival (“rPFS”) with Lynparza vs. enzalutamide or abiraterone in men with mCRPC selected for BRCA1/2 or ATM gene mutations, a subpopulation of HRR gene mutations. AstraZeneca has filed an sNDA for second line mCRPC with HRR mutations based on data from the PROFOUND trial, and has been granted priority review, with a PDUFA date set for Q2 2020.
+​
+Zejula®/niraparib (GlaxoSmithKline plc) was the first PARP inhibitor approved for maintenance in the recurrent setting and is approved in the United States in the following indications:
+
+
+● | for the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | for the treatment of adult patients with advanced ovarian, fallopian tube, or primary peritoneal cancer who have been treated with three or more prior chemotherapy regimens and whose cancer is associated with homologous recombination deficiency (“HRD”) positive status defined by either:
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | a deleterious or suspected deleterious BRCA mutation, or
+--+---------------------------------------------------------
+
+
+o | genomic instability and who have progressed more than six months after response to the last platinum-based chemotherapy.
+--+-------------------------------------------------------------------------------------------------------------------------
+
+​
+In February 2020, GlaxoSmithKline announced acceptance of an sNDA with the FDA for first line maintenance treatment for women with platinum-responsive advanced ovarian cancer. The sNDA filing is based on data from the PRIMA trial. The sNDA is being reviewed under the Real-Time Oncology Review pilot program.
+​
+Zejula is approved in the EU as monotherapy for the maintenance treatment of adult patients with platinum-sensitive relapsed high grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in response (complete or partial) to platinum-based chemotherapy. 
+​
+Additional clinical investigations of Zejula in ovarian, breast and lung cancers are ongoing or planned. Janssen Pharmaceuticals has licensed rights to develop and commercialize niraparib specifically for patients with prostate cancer worldwide, except in Japan. Preliminary results announced in February and September 2019 for Janssen’s Phase 2 GALAHAD study evaluating niraparib in patients with mCRPC and DNA-repair pathway defects showed that approximately 40 percent of patients with a BRCA1/2 mutation demonstrated a RECIST response.
+​
+TALZENNA™/talazoparib (Pfizer Inc.) is approved in the US and EU for the treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative locally advanced or metastatic breast cancer.
+​
+There are several PARP inhibitors in clinical development including AbbVie Inc.’s veliparib and ABT-767, BeiGene, Ltd.’s pamiparib, Checkpoint Therapeutics Inc.’s CK-102, and Oncology Venture A/S’s 2X-121. While most PARP inhibitor development focuses on ovarian, breast and prostate cancers, additional efforts are aimed toward bladder, lung, and pancreatic cancers as well. 
+​
+In addition, combination approaches that include PARP inhibitors, including Lynparza and Zejula, with other anticancer agents are in various phases of clinical development across a variety of oncology indications. These combination therapies may result in future competitive pressure on Rubraca.
+​
+
+15
+
+
+
+
+Outside of the PARP class, Avastin®/bevacizumab is approved in the US in ovarian cancer for the following indications:
+
+
+● | epithelial ovarian, fallopian tube, or primary peritoneal cancer in combination with carboplatin and paclitaxel, followed by Avastin as a single agent, for Stage III or IV disease following initial surgical resection;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | epithelial ovarian, fallopian tube, or primary peritoneal cancer in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan for platinum-resistant recurrent disease who received no more than 2 prior chemotherapy regimens; and
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | epithelial ovarian, fallopian tube, or primary peritoneal cancer in combination with carboplatin and paclitaxel or carboplatin and gemcitabine, followed by Avastin as a single agent, for platinum-sensitive recurrent disease.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Additionally, Avastin®/bevacizumab is approved in the EU in ovarian cancer for the following indications:
+
+
+● | in combination with carboplatin and paclitaxel for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics (FIGO) stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents; and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Other out-of-class agents approved for use in advanced ovarian cancer include chemotherapeutic agents (e.g. platinum-based doublets, platinum monotherapy, non-platinum chemotherapy, etc.), Doxil® (Janssen Biotech, Inc.), and Hycamtin® (Novartis Pharmaceuticals Corporation). There are additional out-of-class agents in clinical development that may pose a future competitive threat to Rubraca.
+​
+Lucitanib Competition
+​
+Competitive threats to lucitanib include other inhibitors of VEGFR, PDGFR and FGFR, but most significantly Eisai Inc.’s Lenvima®/lenvatinib. Lenvima is approved for the following indications in the United States:
+
+
+● | for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer;
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | in combination with everolimus, for the treatment of patients with advanced renal cell carcinoma following one prior anti-angiogenic therapy;
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | for the first-line treatment of patients with unresectable hepatocellular carcinoma; and
+--+-----------------------------------------------------------------------------------------
+
+
+● | in combination with Merck & Co., Inc.’s PD-1 inhibitor Keytruda (pembrolizumab), for the treatment of patients with advanced endometrial carcinoma that is not microsatellite instability-high or mismatch repair deficient, who have disease progression following prior systemic therapy and are not candidates for curative surgery or radiation.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+In addition, Eisai and Merck have established a strategic collaboration for the worldwide co-development and co-commercialization of Lenvima, and have a broad clinical program underway to evaluate Lenvima, alone and in combination with Keytruda, in a wide variety of tumor types.
+​
+FAP-2286 Competition
+​
+Competitive threats to our product candidate FAP-2286 include those that are currently approved and widely available or are established as standards of care for the treatment of indications for which FAP-2286 may be developed, if the preclinical candidate advances into clinical development. At this preclinical stage, our development strategy for 
+
+16
+
+
+
+
+FAP-2286 is under evaluation, and specific competitive threats will be identified and taken into consideration as the program evolves.
+​
+More generally, there is an increasing commitment of resources in the pharmaceutical industry to emerging areas such as antibody drug conjugate therapies and radio-labeled therapeutics and screening agents, which may in the future compete in the indications for which we choose to develop FAP-2286. For example, in June 2019, Sofie Biosciences licensed rights including small molecule inhibitors of FAP for imaging and therapeutic use from University Medical Centre Heidelberg. In addition, other potential FAP-directed radionuclide therapeutics are in preclinical development by other parties.
+​
+Radionuclide therapeutics with targets other than FAP may compete with FAP-2286, should we develop FAP-2286 in the same tumor types. For example, in September 2017, Endocyte, Inc. licensed rights to develop and commercialize agents targeting prostate-specific membrane antigen, including the drug candidate 177Lu-PSMA-617, a radioligand therapeutic, from ABX GmbH. Endocyte was acquired by Novartis in 2018, and 177Lu-PSMA-617 is currently in a Phase 3 trial for the treatment of metastatic castration-resistant prostate cancer. In addition, other targeted radionuclide therapeutics are in earlier stage clinical development, including but not limited to 3BP-227 (Ipsen) which targets neurotensin receptor type 1, BAY2287411 (Bayer) which targets mesothelin, BAY2701439 (Bayer) which targets HER-2, and BAY 2315497 (Bayer) which targets PSMA.
+​
+Furthermore, universities and private and public research institutes are active in cancer research, the results of which may result in direct competition with FAP-2286 or our other product candidates. For example, the German Center of Cancer Research and University Medical Center Heidelberg, the owners of the patent rights to PSMA 617 (which were licensed to ABX and, in turn, to Novartis), may continue to engage in research relating to radioligand therapeutics.
+​
+License Agreements 
+​
+Pfizer Inc. 
+​
+In June 2011, we entered into a license agreement with Pfizer, Inc. (“Pfizer”) to obtain the exclusive global rights to develop and commercialize Rubraca. The exclusive rights are exclusive even as to Pfizer and include the right to grant sublicenses. Pursuant to the terms of the license agreement, we made a $7.0 million upfront payment to Pfizer and are required to make additional payments to Pfizer for the achievement of certain development and regulatory and sales milestones and royalties on sales as required by the license agreement. Prior to the FDA approval of Rubraca, we made milestone payments of $1.4 million, which were recognized as acquired in-process research and development expense. 
+​
+On August 30, 2016, we entered into a first amendment to the worldwide license agreement with Pfizer, which amends the June 2011 existing worldwide license agreement to permit us to defer payment of the milestone payments payable upon (i) FDA approval of an NDA for 1st Indication in US and (ii) EMA approval of an MAA for 1st Indication in the EU, to a date that is 18 months after the date of achievement of such milestones.
+​
+On December 19, 2016, Rubraca received its initial FDA approval. This approval resulted in a $0.75 million milestone payment to Pfizer as required by the license agreement, which was paid in the first quarter of 2017. This FDA approval also resulted in an obligation to pay a $20.0 million milestone payment, for which we exercised the option to defer payment by agreeing to pay $23.0 million within 18 months after the date of the FDA approval. We paid the $23.0 million milestone payment in June 2018. 
+​
+On April 6, 2018, Rubraca received a second FDA approval. This approval resulted in an obligation to pay a $15.0 million milestone payment, which we paid in April 2018.
+​
+In May 2018, Rubraca received its initial European Commission marketing authorization. This approval resulted in an obligation to pay a $20.0 million milestone payment, which we paid in June 2018.
+​
+In January 2019, Rubraca received a second European Commission approval. This approval resulted in an obligation to pay a $15.0 million milestone payment, which we paid in February 2019.
+​
+In June 2019, we paid a $0.75 million milestone payment due to the launch of Rubraca as maintenance therapy in Germany in March 2019.
+
+17
+
+
+
+
+​
+These milestone payments were recognized as intangible assets and are amortized over the estimated remaining useful life of Rubraca.
+​
+We are obligated under the license agreement to use commercially reasonable efforts to develop and commercialize Rubraca and we are responsible for all ongoing development and commercialization costs for Rubraca. We are required to make regulatory milestone payments to Pfizer of up to an additional $16.0 million in aggregate if specified clinical study objectives and regulatory filings, acceptances and approvals are achieved. In addition, we are obligated to make sales milestone payments to Pfizer if specified annual sales targets for Rubraca are met, which relate to annual sales targets of $250.0 million and above, which, in the aggregate, could amount to total milestone payments of $170.0 million, and tiered royalty payments at a mid-teen percentage rate on net sales, with standard provisions for royalty offsets to the extent we need to obtain any rights from third parties to commercialize Rubraca. 
+​
+The license agreement with Pfizer will remain in effect until the expiration of all of our royalty and sublicense revenue obligations to Pfizer, determined on a product-by-product and country-by-country basis, unless we elect to terminate the license agreement earlier. If we fail to meet our obligations under the agreement and are unable to cure such failure within specified time periods, Pfizer can terminate the agreement, resulting in a loss of our rights to Rubraca and an obligation to assign or license to Pfizer any intellectual property rights or other rights we may have in Rubraca, including our regulatory filings, regulatory approvals, patents and trademarks for Rubraca. 
+​
+AstraZeneca UK Limited
+​
+In April 2012, we entered into a license agreement with AstraZeneca UK Limited (“AstraZeneca”) to acquire exclusive rights associated with Rubraca under a family of patents and patent applications that claim methods of treating patients with PARP inhibitors in certain indications. The license enables the development and commercialization of Rubraca for the uses claimed by these patents. AstraZeneca receives royalties on net sales of Rubraca.
+​
+Advenchen Laboratories LLC 
+​
+In connection with our acquisition of EOS in November 2013, we gained rights to develop and commercialize lucitanib, an oral, selective tyrosine kinase inhibitor. As further described below, in October 2008, EOS entered into an exclusive license agreement with Advenchen Laboratories LLC (“Advenchen”) to develop and commercialize lucitanib on a global basis, excluding China.
+​
+We are obligated to pay Advenchen tiered royalties at percentage rates in the mid-single digits on net sales of lucitanib, based on the volume of annual net sales achieved. In addition, after giving effect to the first and second amendments to the license agreement, we are required to pay to Advenchen 25% of any consideration, excluding royalties, we receive from sublicensees, in lieu of the milestone obligations set forth in the agreement. We are obligated under the agreement to use commercially reasonable efforts to develop and commercialize at least one product candidate containing lucitanib, and we are also responsible for all remaining development and commercialization costs for lucitanib.
+
+The license agreement with Advenchen will remain in effect until the expiration of all our royalty obligations to Advenchen, determined on a product-by-product and country-by-country basis, unless we elect to terminate the agreement earlier. If we fail to meet our obligations under the agreement and are unable to cure such failure within specified time periods, Advenchen can terminate the agreement, resulting in a loss of our rights to lucitanib.
+​
+3B Pharmaceuticals GmbH (“3BP”)
+​
+In September 2019, we entered into a global license and collaboration agreement with 3BP to develop and commercialize a PTRT and imaging agent targeting FAP. The lead candidate, designated internally as FAP-2286, is being developed pursuant to a global development plan agreed to by the parties. We are responsible for the costs of all preclinical and clinical development activities described in the plan, including the costs for a limited number of 3BP full-time equivalents and external costs incurred during the preclinical development phase of the collaboration. Upon the signing of the license and collaboration agreement in September 2019, we made a $9.4 million upfront payment to 3BP, which we recognized as acquired in-process research and development expense.
+​
+
+18
+
+
+
+
+Pursuant to the terms of the FAP agreement, we are required to make additional payments to 3BP for annual technology access fees and upon the achievement of certain development and regulatory milestone events (or on certain dates, whichever occur earlier). We are also obligated to pay 3BP single- to low-double-digit royalties on net sales of the FAP-targeted therapeutic product and imaging agent, based on the volume of annual net sales achieved. In addition, 3BP is entitled to receive 34% of any consideration, excluding royalties on the therapeutic product, pursuant to any sublicenses we may grant.
+​
+We are obligated under the license and collaboration agreement to use diligent efforts to develop FAP-2286 and commercialize a FAP-targeted therapeutic product and imaging agent, and we are responsible for all commercialization costs in our territory. The agreement with 3BP will remain in effect until the expiration of our royalty obligations to 3BP, determined on a product-by-product and country-by-country basis, unless we elect to terminate the agreement earlier. If we fail to meet our obligations under the agreement and are unable to cure such failure within specified time periods, 3BP can terminate the agreement, resulting in a loss of our rights. 3BP also has the right to terminate the agreement under certain circumstances in connection with our change of control in which the acquiring party retains a product competitive with the FAP-targeted therapeutic product or, in the event marketing authorization has not yet been obtained, does not agree to the then-current global development plan.
+​
+In February 2020, we finalized the terms of a drug discovery collaboration agreement with 3BP to identify up to three additional, undisclosed targets for peptide-targeted radionuclide therapy, to which we will obtain global rights for any resulting product candidates. We are responsible for the costs of all preclinical and clinical development activities conducted under the discovery program, including the costs for a limited number of 3BP full-time equivalents and external costs incurred during the discovery and preclinical development phase for each collaboration target. The agreement was effective December 31, 2019, for which we incurred a $2.1 million technology access fee, which we accrued and recognized as a research and development expense.
+​
+Pursuant to the terms of the agreement, we are required to make additional payments to 3BP for annual technology access fees and upon the achievement of certain development and regulatory milestone events (or on certain dates, whichever occur earlier). We are also obligated to pay 3BP a 6% royalty on net sales of License Products (as defined in the agreement), based on the volume of quarterly net sales achieved.
+​
+We are obligated under the discovery collaboration agreement to use diligent efforts to develop and commercialize the product candidates, if any, that result from the discovery program, and we are responsible for all clinical development and commercialization costs. The agreement with 3BP will remain in effect until the expiration of our royalty obligations to 3BP, determined on a product-by-product and country-by-country basis, unless we elect to terminate the agreement earlier. If we fail to meet our obligations under the agreement and are unable to cure such failure within specified time periods, 3BP can terminate the agreement, resulting in a loss of our rights.
+​
+Government Regulation
+​
+Government authorities in the United States (including federal, state and local authorities) and in other countries, extensively regulate, among other things, the manufacturing, research and clinical development, marketing, labeling and packaging, storage, distribution, post-approval monitoring and reporting, advertising and promotion, pricing and export and import of pharmaceutical products. The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations require the expenditure of substantial time and financial resources. Moreover, failure to comply with applicable regulatory requirements may result in, among other things, warning letters, clinical holds, civil or criminal penalties, recall or seizure of products, injunction, disbarment, partial or total suspension of production or withdrawal of the product from the market.
+​
+U.S. Government Regulation 
+​
+In the United States, the FDA regulates drugs under the Federal Food, Drug and Cosmetic Act (“FDCA”) and its implementing regulations. Drugs are also subject to other federal, state and local statutes and regulations. The process required by the FDA before product candidates may be marketed in the United States generally involves the following: 
+
+
+● | completion of extensive non-clinical laboratory tests and non-clinical animal studies, all performed in accordance with the FDA’s Good Laboratory Practice regulations;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+19
+
+
+
+
+
+● | submission to the FDA of an IND which must become effective before human clinical trials may begin and must be updated at least annually;
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | performance of adequate and well-controlled human clinical trials to establish the safety and efficacy of the product candidate for each proposed indication;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | submission to the FDA of a marketing authorization application in the form of an NDA for the initial commercial sale of a product, or of a sNDA, for approval of a new indication if the product is already approved for another indication;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | satisfactory completion of an FDA pre-approval inspection of the manufacturing facilities at which the active pharmaceutical ingredient (“API”) and finished drug product are produced and tested to assess compliance with Current Good Manufacturing Practices (“cGMP”) and/or sites involved in clinical studies to assess compliance with Good Clinical Practices (“GCP”);
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | if FDA convenes an advisory committee, satisfactory completion of the advisory committee review; and
+--+-----------------------------------------------------------------------------------------------------
+
+
+● | FDA review and approval of the marketing authorization application and product prescribing information prior to any commercial marketing or sale of the drug for the intended use.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+An IND is a request for authorization from the FDA to administer a product candidate to humans. The central focus of an IND submission is on the general investigational plan and the protocol(s) for human studies. The IND also includes results of animal studies or other human studies, as appropriate, as well as manufacturing information, analytical data and any available clinical data or literature to support the use of the product candidate. An IND must become effective before human clinical trials may begin. An IND will automatically become effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to the proposed clinical trials, including concerns that human research subjects will be exposed to unreasonable health risks. In such a case, the IND may be placed on clinical hold requiring delay of a proposed clinical investigation, and the IND sponsor and the FDA must resolve any outstanding concerns or questions before clinical trials can begin. Accordingly, submission of an IND may or may not result in the FDA allowing clinical trials to commence. 
+​
+Clinical trials involve the administration of the drug candidate to human subjects under the supervision of qualified investigators in accordance with GCP, which include the requirement that all research subjects provide their informed consent for their participation in any clinical trial. Clinical trials are conducted under protocols detailing, among other things, the objectives of the study, the parameters to be used in monitoring safety and the efficacy criteria to be evaluated. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. Additionally, approval must also be obtained from an Institutional Review Board (“IRB”) for each medical center proposing to conduct the clinical trial before the trials may be initiated, and the IRB must monitor the study until completed. Clinical trials are subject to central registration and results reporting requirements, such as on www.clinicaltrials.gov.
+​
+The clinical investigation of a drug is generally divided into three phases. Although the phases are usually conducted sequentially, they may overlap or be combined. The three phases of an investigation are as follows: 
+
+
+● | Phase 1. Phase 1 includes the initial introduction of the product candidate into humans. Phase 1 clinical trials are typically closely monitored and may be conducted in patients with the target disease or condition or in healthy volunteers. These studies are designed to evaluate the safety, dosage tolerance, metabolism and pharmacologic actions of product candidate in humans, the side effects associated with increasing doses, and if possible, to gain early evidence on effectiveness. During Phase 1 clinical trials, sufficient information about the product candidate’s pharmacokinetics and pharmacological effects may be obtained to permit the design of well-controlled and scientifically valid Phase 2 clinical trials. The total number of participants included in Phase 1 clinical trials varies but is generally in the range of 20 to 80.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Phase 2. Phase 2 includes controlled clinical trials conducted to preliminarily or further evaluate the effectiveness of the product candidate for a particular indication(s) in patients with the disease or condition under study, to determine dosage tolerance and optimal dosage, and to identify possible adverse side effects and safety risks associated with the drug. Phase 2 clinical trials are typically well-controlled, closely monitored, and conducted in a limited patient population, usually involving no more than several hundred participants.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Phase 3. Phase 3 clinical trials are generally controlled clinical trials conducted in an expanded patient population generally at geographically dispersed clinical trial sites. They are performed after preliminary
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+20
+
+
+
+
+
+evidence suggesting effectiveness of the drug has been obtained and are intended to further evaluate dosage, clinical effectiveness and safety, to establish the overall benefit-risk relationship of the investigational drug product and to provide an adequate basis for product approval. Phase 3 clinical trials usually involve several hundred to several thousand participants.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+A pivotal study is a clinical study which adequately meets regulatory agency requirements for the evaluation of a drug candidate’s efficacy and safety such that it can be used to justify the approval of the product. Generally, pivotal studies are also Phase 3 studies but may be Phase 2 studies if the trial design provides a well-controlled and reliable assessment of clinical benefit, particularly in situations where there is an unmet medical need. 
+​
+The FDA, an IRB or the clinical trial sponsor may suspend or terminate a clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Additionally, some clinical trials are overseen by an independent group of qualified experts organized by the clinical trial sponsor, known as an Independent Data Monitoring Committee (“IDMC”). The IDMC receives special access to un-blinded data during the clinical trial and may halt the clinical trial if it determines that there is an unacceptable safety risk for subjects or other grounds, such as no demonstration of efficacy. We may also suspend or terminate a clinical trial based on evolving business objectives and/or competitive climate. 
+​
+Assuming successful completion of all required testing in accordance with all applicable regulatory requirements, detailed product development information is submitted to the FDA in the form of an NDA or sNDA requesting approval to market the product for one or more indications. 
+​
+The application includes all relevant data available from pertinent non-clinical and clinical trials, including negative or ambiguous results, as well as positive findings, together with detailed information relating to the product’s chemistry, manufacturing, controls and proposed labeling, among other things. Data can come from company-sponsored clinical trials intended to test the safety and effectiveness of a use of a product, or from a number of alternative sources, including studies initiated by investigators. To support marketing approval, the data submitted must be sufficient in quality and quantity to establish the safety and effectiveness of the product candidate to the satisfaction of the FDA. 
+​
+Once the marketing application submission has been accepted for filing, the FDA’s goal is to review applications within 10 months of acceptance for filing or, if the sponsor has been granted priority review designation, on the basis of an improvement in the treatments of a serious condition, six months from acceptance for filing. The review process is often significantly extended by FDA requests for additional information or clarification. The FDA may refer the application to an advisory committee for review, evaluation and recommendation as to whether the application should be approved. The FDA is not bound by the recommendation of an advisory committee, but it typically follows such recommendations. 
+​
+After the FDA evaluates the NDA or sNDA and conducts inspections of clinical research facilities and/or manufacturing facilities where the drug product and/or its API will be produced, it may issue an approval letter or a Complete Response Letter. An approval letter authorizes commercial marketing of the drug with specific prescribing information for specific indications. A Complete Response Letter indicates that the review cycle of the application is complete, and the application is not ready for approval. A Complete Response Letter may require additional clinical data and/or an additional pivotal Phase 3 clinical trial(s), and/or other significant, expensive and time-consuming requirements related to clinical trials, non-clinical studies or manufacturing. Even if such additional information is submitted, the FDA may ultimately decide that the application does not satisfy the criteria for approval. The FDA could also approve the NDA with a Risk Evaluation and Mitigation Strategies plan to mitigate risks, which could include medication guides, physician communication plans or elements to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. The FDA also may condition approval on, among other things, changes to proposed labeling, development of adequate controls and specifications or a commitment to conduct one or more post-market studies or clinical trials. Such post-market testing may include Phase IV clinical trials and surveillance to further assess and monitor the product’s safety and effectiveness after commercialization. Regulatory approval of oncology products often requires that patients in clinical trials be followed for long periods to determine the overall survival benefit of the drug. 
+​
+Products manufactured or distributed pursuant to FDA approvals are subject to continuing regulation by the FDA, including recordkeeping requirements and reporting of adverse experiences with the drug. Adverse event experience with the product must be reported to the FDA in a timely fashion and pharmacovigilance programs to proactively look 
+
+21
+
+
+
+
+for these adverse events are mandated by the FDA. Newly discovered or developed safety or effectiveness data may require changes to a product’s approved labeling, including the addition of new warnings and contraindications and also may require the implementation of other risk management measures. 
+​
+Drug manufacturers and their subcontractors are required to register their establishments with the FDA and certain state agencies and are subject to periodic unannounced inspections by the FDA and certain state agencies for quality and compliance, which impose certain procedural and documentation requirements upon us and our third-party manufacturers. Following such inspections, the FDA may issue notices on Form FDA 483 and Warning Letters that could cause us to modify certain activities. A Form FDA 483 notice, if issued at the conclusion of an FDA inspection, can list conditions the FDA investigators believe may have violated cGMP or other FDA regulations or guidance. Failure to adequately and promptly correct the observations(s) can result in further regulatory enforcement action. In addition to Form FDA 483 notices and Warning Letters, failure to comply with the statutory and regulatory requirements can subject a manufacturer to possible legal or regulatory action, such as suspension of manufacturing, seizure of product, injunctive action or possible civil penalties. In addition, changes to the manufacturing process are strictly regulated, and, depending on the significance of the change, may require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon us and any third-party manufacturers that we may decide to use. Accordingly, manufacturers must continue to expend time, money and effort in the area of production and quality control to maintain compliance with cGMP and other aspects of regulatory compliance. 
+​
+Government Regulation Outside of the United States
+​
+In addition to regulations in the United States, we are subject to a variety of regulations in other jurisdictions governing, among other things, clinical trials and any commercial sales and distribution of our products. The approval process and requirements governing the conduct of clinical trials, product licensing, pricing, and reimbursement vary greatly from country to country, and the time may be longer or shorter than that required for FDA approval.
+​
+Regardless of whether we hold FDA approval for a product, we must obtain the requisite approvals from regulatory authorities in foreign countries prior to the commencement of clinical trials or marketing of the product in those countries. Certain countries outside of the United States have a similar process that requires the submission of a clinical trial application much like the IND prior to the commencement of human clinical trials. In Europe, for example, a clinical trial application, (“CTA”) must be submitted to each country’s national health authority and an independent ethics committee, much like the FDA and IRB, respectively. Once the CTA is approved in accordance with a country’s requirements, clinical trial development may proceed. 
+​
+Medicines can be authorized in the EU by using either the centralized authorization procedure or national authorization procedures. Under the centralized procedure, marketing authorization applications are submitted to the EMA whose CHMP reviews the application and issues an opinion on it. The opinion is considered by the European Commission (“EC”) which is responsible for deciding applications. If the application is approved, the EC grants a single marketing authorization that is valid for all EU member states as well as Iceland, Liechtenstein and Norway. The centralized procedure is compulsory for human medicines that contain a new active substance indicated for the treatment of certain diseases, including cancer.
+​
+The national authorization procedures, the decentralized and mutual recognition procedures, are available for products for which the centralized procedure is not compulsory. Using the decentralized procedure, an applicant may apply for simultaneous authorization in more than one EU country of medicinal products that have not yet been authorized in any EU country and that do not fall within the mandatory scope of the centralized procedure. Under the mutual recognition procedure, a medicine is first authorized in one EU Member State, in accordance with the national procedures of that country. Following this, further marketing authorizations can be sought from other EU countries in a procedure whereby the countries concerned agree to recognize the validity of the original, national marketing authorization
+​
+
+22
+
+
+
+
+Available Special Regulatory Procedures 
+​
+Formal Meetings 
+​
+We are encouraged to engage and seek guidance from health authorities relating to the development and review of investigational drugs, as well as marketing applications. In the United States, there are different types of official meetings that may occur between us and the FDA. Each meeting type is subject to different procedures. Conclusions and agreements from each of these meetings are captured in the official final meeting minutes issued by the FDA. 
+​
+The EMA also provides the opportunity for dialogue with us. This is usually done in the form of Scientific Advice, which is given by the Scientific Advice Working Party of CHMP. A fee is incurred with each Scientific Advice meeting. 
+​
+Advice from either the FDA or EMA is typically provided based on questions concerning, for example, quality (chemistry, manufacturing and controls testing), nonclinical testing and clinical studies and pharmacovigilance plans and risk-management programs. Such advice is not legally binding on the sponsor. To obtain binding commitments from the FDA in the United States, Special Protocol Assessment (“SPA”) procedures are available. A SPA is an evaluation by the FDA of a protocol with the goal of reaching an agreement with the sponsor that the protocol design, clinical endpoints and statistical analyses are acceptable to support regulatory approval of the product candidate with respect to effectiveness in the indication studied. The FDA’s agreement to a SPA is binding upon the FDA except in limited circumstances, such as if the FDA identifies a substantial scientific issue essential to determining the safety or effectiveness of the product after clinical studies begin, or if the study sponsor fails to follow the protocol that was agreed upon with the FDA. There is no guarantee that a study will ultimately be adequate to support an approval even if the study is subject to a SPA. 
+​
+Orphan Drug Designation 
+​
+The FDA may grant orphan drug designation to drugs intended to treat a rare disease or condition that affects fewer than 200,000 individuals in the United States, or if it affects more than 200,000 individuals in the United States and there is no reasonable expectation that the cost of developing and making the drug for this type of disease or condition will be recovered from sales in the United States. In the EU, the EMA’s Committee for Orphan Medicinal Products grants orphan drug designation to promote the development of products that are intended for the diagnosis, prevention or treatment of life-threatening or chronically debilitating conditions affecting not more than five in 10,000 persons in the EU Community. Additionally, designation is granted for products intended for the diagnosis, prevention or treatment of a life-threatening, seriously debilitating or serious and chronic condition and when, without incentives, it is unlikely that sales of the drug in the EU would be sufficient to justify the necessary investment in developing the drug or biological product. 
+​
+In the United States, orphan drug designation entitles a party to financial incentives such as opportunities for grant funding towards clinical trial costs, tax advantages and user-fee waivers. In addition, if a product receives the first FDA approval for the indication for which it has orphan designation, the product is entitled to orphan drug exclusivity, which means the FDA may not approve any other application to market the same drug for the same indication for a period of seven years, except in limited circumstances, such as a showing of clinical superiority over the product with orphan exclusivity. 
+​
+In the EU, orphan drug designation also entitles a party to financial incentives such as reduction of fees or fee waivers and 10 years of market exclusivity is granted following drug or biological product approval. This period may be reduced to six years if the orphan drug designation criteria are no longer met, including where it is shown that the product is sufficiently profitable not to justify maintenance of market exclusivity. 
+​
+Orphan drug designation must be requested before submitting an application for marketing approval. Orphan drug designation does not convey any advantage in, or shorten the duration of, the regulatory review and approval process. 
+​
+Pediatric Development 
+​
+In the United States, the FDCA provides for an additional six months of marketing exclusivity for a drug if reports are filed of investigations studying the use of the drug product in a pediatric population in response to a written request from the FDA. Separate from this potential exclusivity benefit, NDAs must contain data (or a proposal for post-marketing 
+
+23
+
+
+
+
+activity) to assess the safety and effectiveness of an investigational drug product for the claimed indications in all relevant pediatric populations in order to support dosing and administration for each pediatric subpopulation for which the drug is safe and effective. The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults or full or partial waivers if certain criteria are met. Discussions about pediatric development plans can be discussed with the FDA at any time, but usually occur any time between the end-of-Phase II meeting and submission of the NDA. 
+​
+For the EMA, a Pediatric Investigation Plan, and/or a request for waiver or deferral, has to be agreed prior to submitting an initial marketing authorization application and prior to submitting a variation to an existing Marketing Authorization to add an additional indication. 
+​
+Breakthrough Therapy Designation in the United States
+​
+The U.S. Congress created the Breakthrough Therapy designation program as a result of the passage of the Food and Drug Administration Safety and Innovation Act of 2012. FDA may grant Breakthrough Therapy status to a drug intended for the treatment of a serious condition when preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints. The Breakthrough Therapy designation, which may be requested by a sponsor when filing or amending an IND, is intended to facilitate and expedite the development and FDA review of a product candidate. Specifically, the Breakthrough Therapy designation may entitle the sponsor to more frequent meetings with the FDA during drug development, intensive guidance on clinical trial design and expedited FDA review by a cross-disciplinary team comprised of senior managers. The designation does not guarantee a faster development or review time as compared to other drugs, however, nor does it assure that the drug will obtain ultimate marketing approval by the FDA. Once granted, the FDA may withdraw this designation at any time. 
+​
+Expedited Review and Approval in the United States 
+​
+The FDA has various programs, including Fast Track, priority review and accelerated approval, which are intended to expedite or simplify the process for reviewing drugs and biologics, and/or provide for the approval of a drug or biologic on the basis of a surrogate endpoint. Even if a drug qualifies for one or more of these programs, the FDA may later decide that the drug no longer meets the conditions for qualification or that the time period for FDA review or approval will be shortened. Generally, drugs that are eligible for these programs are those for serious or life-threatening conditions, those with the potential to address unmet medical needs and those that offer meaningful benefits over existing treatments. For example, based on results of the Phase 3 clinical trial(s) submitted in an NDA, upon the request of an applicant, the FDA may grant the NDA a priority review designation, which sets the target date for FDA action on the application at six months from the 60-day filing date, if the drug is a new molecular entity, rather than to the standard FDA review period of 10 months. Priority review is granted where preliminary estimates indicate that a product, if approved, has the potential to provide a safe and effective therapy where no satisfactory alternative therapy exists, or a significant improvement compared to marketed products is possible. Priority review designation does not change the scientific/medical standard for approval or the quality of evidence necessary to support approval.
+​
+Fast Track is a designation which is more similar to the Breakthrough Therapy designation, but is granted based on preliminary data including non-clinical or mechanistic data, and allows more frequent communication with FDA to expedite drug development
+​
+Accelerated approval provides for an earlier approval for a new drug that is intended to treat a serious or life-threatening disease or condition upon a determination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit and is better than available therapy. A surrogate endpoint is a laboratory measurement or physical sign used as an indirect or substitute measurement representing a clinically meaningful outcome. The FDA will also consider the severity, rarity or prevalence of the condition. As a condition of approval for drugs granted accelerated approval, one or more post-marketing confirmatory studies are required to confirm as predicted by the surrogate marker trial an effect on clinical benefit, which is defined as having a positive effect on how a patient feels, functions or survives. 
+​
+
+24
+
+
+
+
+Accelerated Review in the European Union
+​
+Under the Centralized Procedure in the EU, the maximum timeframe for the evaluation of a marketing authorization application is 210 days (excluding clock stops, when additional written or oral information is to be provided by the applicant in response to questions asked by the CHMP). Accelerated evaluation might be granted by the CHMP in exceptional cases, when a medicinal product is expected to be of a major public health interest, defined by three cumulative criteria: the seriousness of the disease (e.g. heavy disabling or life-threatening diseases) to be treated; the absence or insufficiency of an appropriate alternative therapeutic approach; and anticipation of high therapeutic benefit. In this circumstance, EMA ensures that the opinion of the CHMP is given within 150 days of submission of the MAA, excluding clock stops. 
+​
+Pharmaceutical Coverage, Pricing and Reimbursement
+​
+Significant uncertainty exists as to the coverage and reimbursement status of any drug products for which we obtain regulatory approval. In the United States and markets in other countries, sales of any products for which we receive regulatory approval for commercial sale depend in part on the availability of reimbursement from third-party payors. Third-party payors include government health administrative authorities, managed care providers, private health insurers and other organizations. The process for determining whether a payor will provide coverage for a drug product may be separate from the process for setting the price or reimbursement rate that the payor will pay for the drug product. Third-party payors may limit coverage to specific drug products on an approved list, or formulary, which might not include all of the FDA-approved drugs for a particular indication. Third-party payors are increasingly challenging the price and examining the medical necessity and cost-effectiveness of medical products and services, in addition to their safety and efficacy. We may need to conduct expensive pharmacoeconomic studies in order to demonstrate the medical necessity and cost effectiveness of our products, in addition to the costs required to obtain FDA approvals. The development of a product dossier and a Budget Impact Model may be helpful in assisting the payors in evaluating cost effectiveness. Our approved products may not be considered medically necessary or cost-effective. A payor’s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be established. Adequate third-party reimbursement may not be available to enable us to maintain price levels sufficient to realize an appropriate return on our investment in product development. Third-party payors may also impose price protection in their contracts with manufacturers to limit the manufacturer’s ability to increase price in exchange of providing equal access to the drug product vs. other competing drugs. 
+​
+There have been a number of federal and state proposals in recent years regarding the pricing of pharmaceutical products, government control and other changes to the healthcare system of the United States. The U.S. government enacted legislation providing a partial prescription drug benefit for Medicare beneficiaries. Government payment for some of the costs of prescription drugs may increase demand for any products for which we receive marketing approval; however, to obtain payments under this program, we are required to sell products to Medicare recipients through prescription drug plans operating pursuant to this legislation. These plans will likely negotiate discounted prices for our products. Additionally, the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act (collectively, the “Affordable Care Act”) was enacted in 2010 with a goal of reducing the cost of healthcare and substantially changing the way healthcare is financed by both government and private insurers. Among other cost containment measures, the Affordable Care Act established: 
+
+
+● | An annual, nondeductible fee on any entity that manufactures or imports certain branded prescription drugs and biologic agents;
+--+--------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A Medicare Part D coverage gap discount program, in which pharmaceutical manufacturers who wish to have their drugs covered under Part D must offer discounts to eligible beneficiaries during their coverage gap period (the “donut hole”); and
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A formula that increases the rebates a manufacturer must pay under the Medicaid Drug Rebate Program.
+--+-----------------------------------------------------------------------------------------------------
+
+​
+Since its enactment, there have been judicial and Congressional challenges to certain aspects of the Affordable Care Act. We expect that the current presidential administration and U.S. Congress will likely continue to seek to modify, repeal, or otherwise invalidate all, or certain provisions of, the Affordable Care Act. Most recently, the Tax Cuts and Jobs Act was enacted, which, among other things, removes penalties for not complying with Affordable Care Act’s individual mandate to carry health insurance. There is still uncertainty with respect to the impact President Trump’s administration and the U.S. Congress may have, if any, and any changes will likely take time to unfold, and could have 
+
+25
+
+
+
+
+an impact on coverage and reimbursement for healthcare items and services covered by plans that were authorized by the Affordable Care Act.
+​
+Recently there has been heightened governmental scrutiny over the manner in which manufacturers set prices for their marketed products, which has resulted in several Congressional inquiries and proposed bills designed to, among other things, reform government program reimbursement methodologies. Individual states in the United States have also become increasingly active in implementing regulations designed to control pharmaceutical product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing. We expect that federal, state and local governments in the United States will continue to consider legislation to limit the growth of healthcare costs, including the cost of prescription drugs. Future legislation could limit payments for pharmaceuticals such as our products.
+ ​
+Moreover, payment methodologies, including payment for companion diagnostics, have been subject to changes due to healthcare legislation and regulatory initiatives. For example, the Centers for Medicare and Medicaid Services(“CMS”) began bundling the Medicare payments for certain laboratory tests ordered while a patient received services in a hospital outpatient setting. Additionally, on April 1, 2014, the Protecting Access to Medicare Act of 2014, or PAMA, was signed into law, which, among other things, significantly alters the current payment methodology under the Clinical Laboratory Fee Schedule. Beginning on January 1, 2018, the Medicare payment rate for each clinical diagnostic lab test, with some exceptions, is equal to the weighted median private payer payment for the test, as calculated using data collected by applicable laboratories during the data collection period and reported to CMS during a specified data reporting period. Also under PAMA, CMS is required to adopt temporary billing codes to identify new clinical diagnostic laboratory tests and advanced diagnostic laboratory tests that do not already have unique diagnostic codes, and that have been cleared or approved by the FDA.
+​
+Different pricing and reimbursement schemes exist in other countries and vary widely from country to country. In the European Community, governments influence the price of pharmaceutical products through their pricing and reimbursement rules and control of national health care systems that fund a large part of the cost of those products to consumers. Some jurisdictions operate positive and negative list systems under which products may only be marketed once a reimbursement price has been agreed. To obtain reimbursement or pricing approval, some of these countries may require the completion of clinical trials that compare the cost-effectiveness of a particular product candidate to currently available therapies. Other member states allow companies to fix their own prices for medicines but monitor and control company profits. The downward pressure on health care costs in general, particularly prescription drugs, has become very intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert a commercial pressure on pricing within a country. There can be no assurance that any country that has price controls or reimbursement limitations for pharmaceutical products will allow favorable reimbursement and pricing arrangements for any of our products. Historically, products launched in the EU do not follow price structures of the United States and generally prices tend to be significantly lower.
+​
+The marketability of any products for which we receive regulatory approval for commercial sale may suffer if the government and third-party payors fail to provide adequate coverage and reimbursement. In addition, emphasis on reducing the rate of healthcare spending in the United States has increased, and we expect will continue to increase the pressure on pharmaceutical pricing. There has been particular and increasing legislative interest in the United States with respect to drug pricing practices, particularly with respect to drugs that have been subject to relatively large price increases over relatively short time periods. Certain independent charitable foundations operate programs that provide grants to defray medical expenses (including cost-sharing obligations for drug treatments and health insurance premiums) for patients who meet certain financial need criteria and suffer from specific chronic illnesses or rare disorders. There has been recent enforcement interest regarding donations by pharmaceutical manufacturers to such foundations on the bases that such donations were used in part to guide patients to those donors’ products or that the donors obtained data on how the donations were used, including how often donations correlate to the frequency of referrals to donors’ products. There have been several U.S. Congressional inquiries and proposed bills designed to, among other things, bring more transparency to drug pricing, review the relationship between pricing and manufacturer patient programs, and reform government program reimbursement methodologies for drugs. Coverage policies and third-party reimbursement rates may change at any time. Even if favorable coverage and reimbursement status is attained for one or more products for which we receive regulatory approval, less favorable coverage policies and reimbursement rates may be implemented in the future. The implementation of cost containment measures or other healthcare reforms may prevent us from being able to generate revenue, attain profitability or commercialize our products.
+
+26
+
+
+
+
+​
+Advertising and Promotion
+​
+The FDA and other U.S. federal regulatory agencies closely regulate the marketing and promotion of drugs through, among other things, the FDCA and the FDA’s implementing regulations and standards. The FDA’s review of marketing and promotional activities encompasses, but is not limited to, direct-to-consumer advertising, healthcare provider-directed advertising and promotion, sales representative communications to healthcare professionals, communications regarding unapproved or “off-label” uses, industry sponsored scientific and educational activities and promotional activities involving the internet. A product cannot be commercially promoted before it is approved. After approval, product promotion can include only those claims relating to safety and effectiveness that are consistent with the labeling approved by the FDA. FDA regulations also impose stringent restrictions on manufacturers’ communications regarding off-label uses. Failure to comply with applicable FDA requirements and restrictions regarding unapproved uses of a drug or for other violations of its advertising and labeling laws and regulations, may result in adverse publicity and enforcement action by the FDA, the Department of Justice or the Office of the Inspector General of the Department of Health and Human Services, as well as state authorities. A range of penalties are possible that could have significant commercial consequences, including product seizures, injunctions, administrative remedies, civil and/or criminal fines, agreements that materially restrict the manner in which a company promotes or distributes its products, or regulatory enforcement letters which may require corrective advertising or other corrective communications to healthcare professionals or consumers.
+​
+Other Healthcare Laws and Compliance Requirements
+​
+We are subject to various laws targeting fraud and abuse in the healthcare industry, including federal and state anti-kickback laws and false-claims laws. Violations of these laws can lead to civil and criminal penalties, including fines, imprisonment and administrative remedies such as exclusion from participation in federal healthcare programs. 
+​
+The federal Anti-Kickback Statute prohibits persons from knowingly and willfully soliciting, receiving, offering or paying remuneration, directly or indirectly, to induce either the referral of an individual, or the furnishing, recommending, or arranging for a good or service, for which payment may be made under a federal healthcare program, such as Medicare and Medicaid. The reach of the Anti-Kickback Statute was broadened by the Affordable Care Act, which, among other things, amended the intent requirement of the federal Anti-Kickback Statute and criminal healthcare fraud statutes contained within 42 U.S.C. § 1320a-7b. Pursuant to the statutory amendment, a person or entity no longer needs to have actual knowledge of the federal Anti-Kickback Statute or specific intent to violate it in order to have committed a violation. In addition, the government may assert that a claim submitted in violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes of the civil False Claims Act (discussed below) or the civil monetary penalties statute. Many states have adopted laws similar to the federal Anti-Kickback Statute, some of which apply to the referral of patients for healthcare items or services reimbursed by any source, not only the Medicare and Medicaid programs. 
+​
+The federal False Claims Act imposes liability on any person who, among other things, knowingly presents, or causes to be presented, a false or fraudulent claim for payment by a federal program, including federal healthcare programs. The “qui tam” provisions of the False Claims Act allow a private individual to bring civil actions on behalf of the federal government alleging that the defendant has submitted a false claim to the federal government, and to share in any monetary recovery. In addition, various states have enacted false claims laws analogous to the False Claims Act. Many of these state laws apply where a claim is submitted to any third-party payor and not merely a federal healthcare program. When an entity is determined to have violated the federal False Claims Act, it may be required to pay up to three times the actual damages sustained by the government, plus civil fines and penalties. 
+​
+In addition, a person who offers or transfers to a Medicare or Medicaid beneficiary any remuneration, including waivers of co-payments and deductible amounts (or any part thereof), that the person knows or should know is likely to influence the beneficiary’s selection of a particular provider, practitioner or supplier of Medicare or Medicaid-payable items or services, may be liable for civil monetary penalties of up to $20,000 for each wrongful act. Moreover, in certain cases, providers who routinely waive copayments and deductibles for Medicare and Medicaid beneficiaries can also be held liable under the federal Anti-kickback Statute and False Claims Act, which can impose additional penalties. One of the statutory exceptions to this prohibition is non-routine, unadvertised waivers of copayments or deductible amounts based on individualized determinations of financial need or exhaustion of reasonable collection efforts. The Office of Inspector General of the Department of Health and Human Services emphasizes, however, that this exception should 
+
+27
+
+
+
+
+only be used occasionally to address special financial needs of a particular patient. Although this prohibition applies only to federal healthcare program beneficiaries, the routine waivers of copayments and deductibles offered to patients covered by commercial payers may implicate applicable state laws related to, among other things, unlawful schemes to defraud, excessive fees for services, tortious interference with patient contracts and statutory or common law fraud. To the extent our patient assistance programs are found to be inconsistent with applicable laws, we may be required to restructure or discontinue such programs or be subject to significant penalties.
+​
+In addition to the laws described above, the Affordable Care Act also imposed new reporting requirements on drug manufacturers for payments made to physicians and teaching hospitals, as well as ownership and investment interests held by physicians and their immediate family members. Failure to submit required information to CMS may result in civil monetary penalties of up to an aggregate of $169,170 per year (or up to an aggregate of $1.128 million per year for “knowing failures”), for all payments, transfers of value, or ownership or investment interests that are not timely, accurately and completely reported in an annual submission. Applicable drug manufacturers are required to collect data for each calendar year and submit reports to CMS by March 31st of each subsequent calendar year. In addition, there is also an increasing number of state laws that require manufacturers to make reports to states on pricing and marketing information. These laws impose administrative and compliance burdens that may affect our sales, marketing, and other promotional activities.
+​
+For marketed products which are covered in the United States by the Medicaid program, we have various obligations, including government price calculation and reporting and rebate requirements which generally require products be offered at substantial rebates/discounts to Medicaid and certain purchasers (including “covered entities” purchasing under the 340B Drug Discount Program). We are also required to discount such products to authorized users of the Federal Supply Schedule of the General Services Administration, under which additional laws and requirements apply. These programs require submission of pricing data and calculation of discounts and rebates pursuant to complex statutory formulas, as well as the execution of government procurement contracts governed by the Federal Acquisition Regulations. The guidance governing such calculations is not always clear and may require significant investment in personnel, systems and resources in order to comply. Failure to properly calculate our prices, or offer required discounts or rebates could subject us to substantial penalties. 
+​
+One component of the rebate and discount calculations under the Medicaid and 340B programs is the “additional rebate”, a complex calculation which is based, in part, on the rate at which a branded drug’s price increases over time as compared to the rate of inflation (based on the CPI-U published by the United States Department of Labor). This calculation is based on the baseline pricing data for the first full quarter of sales associated with a branded drug’s NDA, and baseline data cannot generally be reset, even on transfer of the NDA to another manufacturer. This “additional rebate” calculation can, in some cases where price increases have been relatively high versus the first quarter of sales of the NDA, result in Medicaid rebates up to 100% of a drug’s “average manufacturer price” and 340B prices of one penny. Separately, subject to the control of Directive 89/105/EEC, pricing and reimbursement in the EU/EEA (“European Economic Area”) is governed by national rules and policies and may vary from Member State to Member State.
+​
+Also, the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) created several new federal crimes, including health care fraud and false statements relating to health care matters. Most healthcare providers who are expected to prescribe our products and from whom we obtain patient health information are subject to privacy and security requirements under HIPAA. Although we are not directly subject to HIPAA, we could be subject to criminal penalties if we knowingly obtain individually identifiable health information from a HIPAA-covered entity in a manner that is not authorized or permitted by HIPAA. Similar to the federal Anti-Kickback Statute, a person or entity does not need to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. 
+​
+The privacy and protection of consumer information remains a developing area and we continue to monitor legislative and regulatory developments both in the United States as well as Europe. For example, the California Consumer Privacy Act (“CCPA”) became effective on January 1, 2020 and, as enacted, requires us to make new disclosures to consumers about our data collection, use, and sharing practices. It also provides a new cause of action for data breaches. While the CCPA is subject to further rulemaking proceedings by the California Attorney General, the CCPA could create liability for us or increase our cost of doing business. Other countries also have, or are developing, laws governing the collection, use and transmission of personal information. For example, the EU Data Privacy Directive (95/46/EC), which was replaced on May 25, 2018 by the more restrictive General Data Protection Regulation (Regulation (EU) 2016/679) and the Swiss Federal Data Protection Act and Data Protection Ordinance, regulate the processing of personal data within the EU and between countries in the EU and countries outside of the EU, including 
+
+28
+
+
+
+
+the U.S. Failure to provide adequate privacy protections and maintain compliance with the EU-U.S. and Swiss-U.S Privacy Shield Frameworks, could jeopardize business transactions across borders and result in significant penalties. Similar to the impact of the CCPA, these laws could create liability for us or increase our cost of doing business.
+​
+Regulation of Diagnostic Tests 
+​
+In the United States, the FDCA and its implementing regulations, and other federal and state statutes and regulations govern, among other things, medical device design and development, non-clinical and clinical testing, premarket clearance or approval, registration and listing, manufacturing, labeling, storage, advertising and promotion, sales and distribution, export and import, and post-market surveillance. Diagnostic tests are classified as medical devices under the FDCA. Unless an exemption applies, diagnostic tests require marketing clearance or approval from the FDA prior to commercial distribution. The two primary types of FDA marketing authorization applicable to a medical device are premarket notification, also called 510(k) clearance, and premarket approval, or PMA approval. Because the diagnostic tests being developed by our third-party collaborators are of substantial importance in preventing impairment of human health, they are subject to the PMA approval process. 
+​
+PMA applications must be supported by valid scientific evidence, which typically requires extensive data, including technical, non-clinical, clinical and manufacturing data, to demonstrate to the FDA’s satisfaction the safety and effectiveness of the device. For diagnostic tests, a PMA application typically includes data regarding analytical and clinical validation studies. As part of its review of the PMA, the FDA will conduct a pre-approval inspection of the manufacturing facility or facilities to ensure compliance with the Quality System Regulation, or QSR, which requires manufacturers to follow design, testing, control, documentation and other quality assurance procedures. FDA review of an initial PMA application is required by statute to take between six to ten months, although the process typically takes longer, and may require several years to complete. If the FDA evaluations of both the PMA application and the manufacturing facilities are favorable, the FDA will either issue an approval letter or an approvable letter, which usually contains a number of conditions that must be met in order to secure the final approval of the PMA. If the FDA’s evaluation of the PMA or manufacturing facilities is not favorable, the FDA will deny approval of the PMA or issue a not approvable letter. A not approvable letter will outline the deficiencies in the application and, where practical, will identify what is necessary to make the PMA approvable. The FDA may also determine that additional clinical trials are necessary, in which case the PMA approval may be delayed for several months or years while the trials are conducted and then the data submitted in an amendment to the PMA. Once granted, PMA approval may be withdrawn by the FDA if compliance with post approval requirements, conditions of approval or other regulatory standards is not maintained, or problems are identified following initial marketing. 
+​
+We and our third-party collaborators who are developing companion diagnostics work cooperatively to generate the data required for submission with a PMA application, and remain in close contact with the Center for Devices and Radiological Health (“CDRH”) at the FDA to ensure that any changes in requirements are incorporated into the development plans. Meetings with the FDA with regard to our drug product candidates, as well as companion diagnostic product candidates, typically include representatives from the Center for Drug Evaluation and Research and CDRH when appropriate to ensure that the NDA and PMA submissions are coordinated to enable FDA to conduct a parallel review of both submissions. The FDA has issued guidance documents addressing the development and approval process for “In Vitro Companion Diagnostic Devices.” According to these guidance documents, for novel therapeutic products such as our product candidates, the PMA for a companion diagnostic device should generally be developed and approved or cleared contemporaneously with the therapeutic.
+​
+In the EEA, in vitro medical devices are required to conform to the essential requirements of the E.U. Directive on in vitro diagnostic medical devices (Directive No 98/79/EC, as amended). To demonstrate compliance with the essential requirements, the manufacturer must undergo a conformity assessment procedure. The conformity assessment varies according to the type of medical device and its classification. For low-risk devices, the conformity assessment can be carried out internally, but for higher risk devices it requires the intervention of an accredited EEA Notified Body. If successful, the conformity assessment concludes with the drawing up by the manufacturer of an EC Declaration of Conformity entitling the manufacturer to affix the CE mark to its products and to sell them throughout the EEA. The data generated for the U.S. registration will be sufficient to satisfy the regulatory requirements for the EU and other countries. 
+​
+
+29
+
+
+
+
+Patents and Proprietary Rights
+​
+The proprietary nature of, and protection for, our product candidates, processes and know-how are important to our business. Our success depends in part on our ability to protect the proprietary nature of our product candidates, technology, and know-how, to operate without infringing on the proprietary rights of others, and to prevent others from infringing our proprietary rights. We seek patent protection in the United States and internationally for our product candidates and other technology. Our policy is to patent or in-license the technology, inventions and improvements that we consider important to the development of our business. We also rely on trade secrets, know-how and continuing innovation to develop and maintain our competitive position. We cannot be sure that patents will be granted with respect to any of our pending patent applications or with respect to any patent applications filed by us in the future, nor can we be sure that any of our existing patents or any patents granted to us in the future will be commercially useful in protecting our technology.
+ ​
+In June 2011, we obtained an exclusive, worldwide license from Pfizer to develop and commercialize rucaparib. In April 2012, we obtained an exclusive license from AstraZeneca under a family of patents and patent applications which permits the development and commercialization of rucaparib for certain methods of treating patients with PARP inhibitors. We applied for patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984 (the “Hatch-Waxman Act”) for U.S. Patent 6,495,541 directed to the rucaparib composition of matter and requested patent term extension to the fourth quarter of 2023. We obtained a one-year interim patent term extension while our patent term extension application remains under review. Additionally, other patents and patent applications are directed to methods of making, methods of using, dosing regimens, various salt and polymorphic forms and formulations and have expiration dates through potentially 2035, including the rucaparib camsylate salt/polymorph patent family licensed from Pfizer, which expires in 2031 and a patent family directed to high dosage strength rucaparib tablets that expires in 2035. As of 2020, the rucaparib camsylate salt/polymorph patent is issued in 49 countries to date (including US and Europe), with applications pending in 9 countries, and the high dosage strength rucaparib tablets patent is issued in the U.S., pending in Europe and pending or issued in 15 other countries. Two oppositions were filed in the granted European counterpart of the rucaparib camsylate salt/polymorph patent on June 20, 2017. European oppositions are commonly filed against patents related to pharmaceutical products. The European Patent Office’s Opposition Division held an oral hearing on December 4, 2018, during which it upheld claims, narrowed from the originally granted patent, to certain crystalline forms of rucaparib camsylate, including, but not limited to, rucaparib S-camsylate Form A, the crystalline form in Rubraca. Clovis and one opponent, Hexal, appealed the written decision of the European Opposition Division and filed reply appeal briefs in early November 2019. All claims in the originally granted patent will remain in force until the Technical Board of Appeal issues its decision. The rucaparib camsylate salt/polymorph patent expires in 2031. We have filed for patent term extension under a supplementary protection certificate for Rubraca in the European counterpart of the rucaparib camsylate salt/polymorph patent and believe that extension could be available to 2033. Patents in our high dosage strength rucaparib tablets patent family issued in the United States, with claims that cover the commercial Rubraca product, including all commercial dosage strengths expire in 2035. Additionally, in Europe, regulatory exclusivity is available for ten years, plus one year for a new indication, therefore, we have regulatory exclusivity for Rubraca in Europe until 2028, and if an additional indication is approved, until 2029.
+​
+We obtained rights to lucitanib by acquiring EOS in November 2013, along with its license agreement with Advenchen. We have rights to develop and commercialize lucitanib on a global basis, excluding China. Composition of matter and method of use patent protection for lucitanib and a group of structurally-related compounds is issued in the U.S., Europe and Japan and is issued or pending in other jurisdictions. In the U.S., the composition of matter patent will expire in 2030, and in other jurisdictions, it expires in 2028. We believe that patent term extension could be available to extend our composition of matter patent up to five years beyond the scheduled expiration under the Hatch-Waxman Act in the U.S., and similar provisions in other jurisdictions. Additionally, patents directed to methods of manufacturing lucitanib are issued in the United States, Europe, Japan, and China. 
+​
+In September 2019, we acquired rights from 3BP, to develop and commercialize a peptide-targeted radionuclide therapy (“PTRT”) and imaging agent targeting fibroblast activation protein alpha (“FAP”), including FAP-2286. We hold global development rights, and U.S. and global commercialization rights, excluding Europe (inclusive of Russia, Turkey and Israel), where 3BP retains rights. Patent applications are pending that claim FAP-2286 generically and specifically (including with respect to composition of matter) that, if issued, would have expiration dates in 2040.
+​
+In addition, we intend to seek patent protection whenever available for any products or product candidates and related technology we acquire in the future. 
+
+30
+
+
+
+
+​
+The patent positions of pharmaceutical firms like us are generally uncertain and involve complex legal, scientific and factual questions. In addition, the coverage claimed in a patent application can be significantly reduced before the patent is issued. Consequently, we do not know whether any of the product candidates we acquire, or license will gain patent protection or, if any patents are issued, whether they will provide significant proprietary protection or will be challenged, circumvented or invalidated. Because patent applications in the United States and certain other jurisdictions are maintained in secrecy for 18 months, and since publication of discoveries in the scientific or patent literature often lags behind actual discoveries, until that time we cannot be certain that we were the first to file any patent application related to our product candidates. Moreover, we may have to participate in interference proceedings declared by the United States Patent and Trademark Office (“U.S. PTO”) to determine priority of invention or in opposition or other third-party proceedings in the U.S. or a foreign patent office, either of which could result in substantial cost to us, even if the eventual outcome is favorable to us. There can be no assurance that the patents, if issued, would be held valid by a court of competent jurisdiction. An adverse outcome in a third-party patent dispute could subject us to significant liabilities to third parties, require disputed rights to be licensed from third parties or require us to cease using specific compounds or technology. 
+​
+The term of individual patents depends upon the legal term of the patents in the countries in which they are obtained. In most countries in which we file, the patent term is 20 years from the earliest date of filing a non-provisional patent application. In the United States, a patent’s term may be lengthened by patent term adjustment, which compensates a patentee for administrative delays by the U.S. PTO in granting a patent or may be shortened if a patent is terminally disclaimed over another patent. 
+​
+The patent term of a patent that covers an FDA-approved drug may also be eligible for patent term extension, which permits patent term restoration as compensation for the patent term lost during the FDA regulatory review process. The Hatch-Waxman Act permits a patent term extension of up to five years beyond the expiration of the patent. The length of the patent term extension is related to the length of time the drug is under regulatory review. Patent extension cannot extend the remaining term of a patent beyond a total of 14 years from the date of product approval and only one patent applicable to an approved drug may be extended. Similar provisions are available in Europe and other non-U.S. jurisdictions to extend the term of a patent that covers an approved drug. In the future, if and when our pharmaceutical products receive FDA approval, we expect to apply for patent term extensions on patents covering those products. 
+​
+To protect our rights to any of our issued patents and proprietary information, we may need to litigate against infringing third parties, or avail ourselves of the courts or participate in hearings to determine the scope and validity of those patents or other proprietary rights. These types of proceedings are often costly and could be very time-consuming to us, and we cannot assure you that the deciding authorities will rule in our favor. An unfavorable decision could allow third parties to use our technology without being required to pay us licensing fees or may compel us to license needed technologies to a third-party. Such a decision could even result in the invalidation or a limitation in the scope of our patents or forfeiture of the rights associated with our patents or pending patent applications. To the extent prudent, we intend to bring litigation against third parties that we believe are infringing one or more of our patents.
+​
+In addition, we have sought and intend to continue seeking orphan drug status whenever it is available. If a product which has an orphan drug designation subsequently receives the first regulatory approval for the indication for which it has such designation, the product is entitled to orphan exclusivity, meaning that the applicable regulatory authority may not approve any other applications to market the same drug for the same indication, except in certain very limited circumstances, for a period of seven years in the United States and ten years in the EU. Orphan drug designation does not prevent competitors from developing or marketing different drugs for an indication. 
+​
+We also rely on trade secret protection for our confidential and proprietary information. No assurance can be given that others will not independently develop substantially equivalent proprietary information and techniques or otherwise gain access to our trade secrets or disclose such technology, or that we can meaningfully protect our trade secrets. However, we believe that the substantial costs and resources required to develop technological innovations will help us to protect the competitive advantage of our products. 
+​
+It is our policy to require our employees, consultants, outside scientific collaborators, sponsored researchers and other advisors to execute confidentiality agreements upon the commencement of employment or consulting relationships with us. These agreements provide that all confidential information developed or made known to the individual during the 
+
+31
+
+
+
+
+course of the individual’s relationship with us is to be kept confidential and not disclosed to third parties except in specific circumstances. In the case of employees, the agreements provide that all inventions conceived by the individual shall be our exclusive property. There can be no assurance, however, that these agreements will provide meaningful protection or adequate remedies for our trade secrets in the event of unauthorized use or disclosure of such information. 
+​
+Manufacturing
+​
+We currently contract with third parties for the manufacture of our product candidates for commercial use, or non-clinical studies and clinical trials and intend to do so in the future. We currently have long-term agreements with third-party contract manufacturing organizations (“CMOs”) for the production of the active ingredient and final product for Rubraca. We do not own or operate manufacturing facilities for the production of commercial and clinical quantities of our product candidates. We currently have no plans to build our own clinical or commercial scale manufacturing capabilities. To meet our projected needs for commercial manufacturing, we are working with our current third-party suppliers to ensure sufficient capacity to meet our manufacturing requirements. Although we rely on contract manufacturers, we have personnel with extensive manufacturing experience to oversee the relationships with our contract manufacturers.
+​
+We have developed the process for manufacturing Rubraca’s active pharmaceutical ingredient (“API”) to a degree sufficient to meet clinical demands and, as production capacity is increased as described below under “Lonza Agreement,” projected commercial requirements. Manufacturing of Rubraca API is being performed by Lonza Ltd (“Lonza”). Manufacturing operations for an advanced intermediate, which is the inventory prior to conversion to API, has been expanded to a second Lonza site during 2019. The Rubraca drug product formulation and manufacturing process to produce that formulation have been developed to a degree sufficient to meet clinical demands and projected commercial requirements. A single third-party CMO capable of both formulation development and drug product manufacturing is currently producing the Rubraca drug product.
+​
+To date, our third-party manufacturers have met our manufacturing requirements and we expect them to meet anticipated full-scale commercial demands.
+​
+Lonza Agreement - Rubraca
+​
+On October 3, 2016, we entered into an agreement with Lonza for the long-term manufacture and supply of the API for rucaparib. Under this agreement, Lonza is a non-exclusive manufacturer of the Rubraca API during the 10-year term of the agreement. Lonza constructed, in an existing Lonza facility, a production train that is exclusively dedicated to the manufacture of the Rubraca API. The dedicated production train provides manufacturing capacity to meet our currently anticipated needs for commercial supply of Rubraca API. We are obligated to make scheduled capital program fee payments toward capital equipment and other costs associated with the construction of the dedicated production train. Further, once the production train became operational in October 2018, we are obligated to pay a fixed facility fee each quarter for the duration of the Agreement, which expires on December 31, 2025, unless extended by mutual consent of the parties.
+​
+Either party may terminate the agreement due to a material breach of the agreement by the other party, subject to prior written notice and a cure period. We may terminate the agreement, subject to 90 days’ prior written notice, in the event Rubraca is withdrawn from the market for certain reasons. In the event of such a termination by us, or termination by Lonza due to material breach by us, we are obligated to compensate Lonza for any services rendered, or for which costs have been incurred by Lonza in anticipation of services to be provided to us, and to pay to Lonza the remaining amount of any capital program fees and quarterly fixed facility fees for the remainder of the term of the agreement. In the event we terminate the agreement due to material breach by Lonza, Lonza is obligated to repay all or a portion of the capital program fees previously paid by us.
+​
+Lucitanib
+​
+The API for lucitanib is currently being produced by Lonza. To date, the current production process has been sufficient to satisfy immediate clinical demands. We may undertake additional development work to further optimize the active pharmaceutical ingredient manufacturing process. The finished drug product for lucitanib is currently being manufactured at a CMO. The current product and process are sufficiently developed to meet immediate clinical 
+
+32
+
+
+
+
+demands. Additional scale-up work and/or additional production capacity will be necessary to support larger clinical development or commercialization requirements. 
+​
+Commercial Operations
+​
+Our commercial organizations in the U.S. and Europe are in place and supporting the commercial sale of Rubraca. We believe the oncology market for Rubraca is addressable with a targeted sales and marketing organization, with capabilities that include the management of key accounts such as managed care organizations, group-purchasing organizations, oncology group networks and government accounts. We sell Rubraca through a limited distribution network consisting of select number of specialty pharmacies and distributors. Healthcare providers prescribe Rubraca to patients and the specialty pharmacies and distributors dispense Rubraca directly to patients. We intend to continue promoting Rubraca ourselves for its current indications and any additional indications we may obtain in the future. We retain the rights to Rubraca in the rest of the world. 
+​
+Customers 
+​
+We are currently approved to sell Rubraca in the U.S. and the EU markets. We distribute our product principally through a limited number of specialty distributor and specialty pharmacy providers, collectively, our customers. Our customers subsequently sell our products to patients and health care providers. We do not believe the loss of one of these customers would significantly impact the ability to distribute our product as we expect that sales volume would be absorbed evenly by the remaining customers. Separately, we have arrangements with certain payors and other third parties that provide for government-mandated and privately-negotiated rebates, chargebacks and discounts.
+​
+Employees
+​
+As of February 14, 2020, we employed 484 full-time employees. None of our employees is represented by labor unions, and a very small number of international employees are covered by collective bargaining agreements. We consider our relationship with our employees to be good. 
+​
+About Clovis 
+​
+We were incorporated under the laws of the State of Delaware in April 2009 and completed our initial public offering of our common stock in November 2011. Our common stock is listed on the NASDAQ Global Select Market under the symbol “CLVS.” Our principal executive offices are located at 5500 Flatiron Parkway, Suite 100, Boulder, Colorado 80301, and our telephone number is (303) 625-5000. We maintain additional offices in San Francisco, California, Oakland, California, Cambridge, UK, London, UK, Milan, Italy and in several other locations in Europe. Our website address is www.clovisoncology.com. Our website and the information contained on, or that can be accessed through, the website will not be deemed to be incorporated by reference in, and are not considered part of, this report. 
+​
+Available Information 
+As a public company, we file reports and proxy statements with the Securities and Exchange Commission (“SEC”). These filings include our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and proxy statements on Schedule 14A, as well as any amendments to those reports and proxy statements, and are available free of charge through our website as soon as reasonably practicable after we file them with, or furnish them to, the SEC. Once at www.clovisoncology.com, go to Investors & News/SEC Filings to locate copies of such reports. The SEC also maintains a website at www.sec.gov that contains reports, proxy statements and other information regarding us and other issuers that file electronically with the SEC.
+
+

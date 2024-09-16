@@ -1,0 +1,120 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+  ITEM 1.  BUSINESS.
+  
+  Overview
+  
+ Technology is an increasingly essential feature of the modern life. Personal computers, printers, tablets, smartphones, digital cameras, connected entertainment systems, intelligent virtual assistants, home automation systems, and smart home appliances have become ubiquitous. Each year, these products become more feature-rich, offering many new capabilities. Consumers and small and medium-sized businesses (“SMBs”) now depend on such technology for “must-have” information, communication, and entertainment as well as for tasks and activities in their daily lives. As connected devices proliferate and their eco-systems become more complex, users are facing an increasing number of device-specific issues and interoperability challenges.
+  
+ The complexity of this environment not only creates challenges for the consumers and small businesses that use the technology, but also for the providers of the devices and connectivity that keeps them working. Customer support organizations increasingly face more difficult problems to solve, often including the need to support third-party products that is beyond their scope and ability. As a result, customer support organizations are increasingly compelled to use third-party expert agents, effective self-service tools, and integrated software and analytics to fundamentally transform how support is delivered.
+  
+ Moreover, consumers need assistance across the connected device lifecycle, including help with installing, maintaining, and troubleshooting their devices, addressing inter-operability issues, and even learning how to use new features. Consumers need support 24/7, available via desktop, laptop or mobile, and delivered through professionally-trained, expert agents and effective self-service tools. In addition, small businesses need on-demand Help Desk support and managed services to keep their businesses running smoothly.
+  
+  Support.com, Inc. is a full-spectrum leader in outsourced call center and direct-to-consumer and small business technical support solutions. With more than 20 years serving both businesses and consumers through white-labeled partnerships or direct solutions, Support.com has the expertise, tools and software to troubleshoot and support all the devices in the connected home, helping people get the most out of their technology.Support.com offers outsourced call center tech support services, cloud-based call center software, and premium tech support and anti-malware software for consumers and small businesses. Our skilled US-based workforce delivers high quality, turnkey support solutions, including presale and post-sale support across all devices in the connected home. Our customers include enterprise-level businesses, small businesses, and individual consumers.
+  
+ Support.com offers turnkey, outsourced support services for service providers, retailers, original equipment manufacturers (“OEMs”), and warranty providers, internet of things (“IoT”) solution providers, and other technology companies. Designed for both the consumer and SMB end-user markets, our programs include a range of services for connected devices, including pre-purchase concierge advice, device set-up and troubleshooting, inter-operability problem resolution, and virus and malware removal. We help businesses increase revenue, reduce costs, and delight their customers. Our programs offer integrated self-service tools and live agent access, enabling us to offer a lower-cost solution than models based entirely off of live agent interaction, and affording higher levels of customer satisfaction.
+  
+ Support.com’s enhanced direct-to-consumer and small business offering called TechSolutions enables people to get the most out of their technology, and small businesses to keep their businesses running smoothly. TechSolutions helps users solve a wide range of problems, including setup and troubleshooting, connectivity and interoperability problems, learning new features, and even choosing the right device for them. TechSolutions provides a fully-integrated, seamless tech support experience, featuring both a robust library of free, self-support tools (Guided Paths®) and stellar live support through the company’s Tech Pros who are accessible by phone, chat, or virtual house call, 24/7. Users can access a Tech Pro directly or escalate from a Guided Path without repeating steps, purchasing premium tech support on a subscription or incident basis.
+  
+   
+4
+
+
+  
+ 
+ Our Support.com Cloud offering is a software-as-a-service (“SaaS”) solution that enables companies to optimize support interactions with their customers using their own or third-party support personnel. The solution allows companies to more quickly resolve complex technology issues for their customers while providing effective self-service tools that reduce overall call volume, resulting in higher agent productivity and a dramatically improved customer experience.
+  
+  Our Technical Support Services Programs
+  
+ Support.com® support services are distributed through partners, using the partner’s brand or in referral programs using the Support.com® brand.  Partners include broadband providers, retailers, OEMs, software providers, internet services providers and warranty providers.  The services programs include access to our library of Guided Paths®; one-time services (“incidents”), subscriptions, and bundled components of broader offerings.
+  
+ For connected home technology and automation systems, we offer a complete range of services to help customers select, set up, configure and use new systems, including helping consumers personalize system settings to meet specific lifestyle needs.
+  
+ We offer a variety of troubleshooting, installation, set-up and enablement services for computers, peripherals, mobile devices and gaming systems and their connectivity. We identify, diagnose and repair technical problems, including issues associated with viruses, spyware, and other forms of malware, connectivity issues, and issues with software applications.  We create new user accounts, configure automatic system updates, remove unnecessary trial software, connect devices to the cloud, find and install applications, and synchronize data among devices. These services cover a wide variety of devices, regardless of manufacturer. Support is provided for devices including personal computer, laptops, tablets, mobile devices, gaming systems and other connected devices.  Our smartphone and tablet services include configuring mobile devices for wireless network (WiFi) access, setting up email, and educating customers on how to browse the Internet and install apps. We secure and repair problems with wireless networks. We configure, connect and establish secure connections among computers, the wireless network and supported devices.  We provide outsourced IT services to SMBs including technology assessments, equipment and service selection, procurement, installation, monitoring and ongoing support for customer’s networking, backup, mobile, telephony, server, software, license management and other technology needs.
+  
+ We deliver our services using our proprietary agent facing and consumer self-help diagnostic tools known as Guided Paths® and technology support specialists who work from their homes rather than in brick and mortar facilities. Our library of Guided Paths® is constantly growing and under refinement as the technology landscape continues to rapidly evolve.  Our technology specialists are recruited, tested, hired and trained on a virtual basis using proprietary methods and remote technology.
+  
+  Our Support.com Cloud Offering
+  
+ Support.com Cloud is a SaaS offering that provides significant levels of automation and analytics that enable companies to deliver superior customer support issue resolution while improving both the customer experience and operational performance. Based on insights from supporting millions of connected technology transactions annually, our software architecture is designed to enable problem resolution in a consistent manner by using proprietary, automated workflow while capturing rich data for service delivery optimization. Flexible architecture means that companies can take advantage of additional functionality as their business requirements change, and can add richer analytics, marketing and subscription management, and third-party applications to resolve issues.
+ Our End-User Software Products
+  
+ SUPERAntiSpyware® is a malware protection and removal software product available for personal computers and tablets. The software is licensed on an annual, subscription, or perpetual basis, and is sold direct to consumers and businesses, or through re-sellers.
+  
+   
+5
+
+
+  
+ 
+ 
+  Sales and Marketing
+  
+ Technology Support Services.   We sell our services through partners and direct to consumers or small businesses. Our partners include leading communication providers, retailers, warranty providers and technology companies. We acquire partners through our business development organization, and we support partners through our account management organization.  Our partnerships typically begin with a pilot phase and can take several weeks to more than a year to progress to a broader roll-out. We typically provide wholesale services to our partners on a per-incident, per-subscription or labor rate basis and our partners bundle our services with their own to their customers – consumers and SMBs.  In these partnerships, the services are generally sold under the partner’s brand. We also sell our services direct to consumers and small businesses using online and offline marketing channels, including but not limited to search engine optimization (SEO), social media, affiliate marketing, and content marketing.
+  
+ Support.com Cloud Offering.  We license Support.com Cloud applications separately from support services provided by our customer support specialists.  In such an arrangement, customers receive the right to use our cloud-based software in their own support organization, using a SaaS model under which customers pay us on a per-user or a per-session basis during the term of the arrangement. We also provide implementation services to customers, typically covering integration of our software with other customer’s systems. We charge for these services on a time-and-materials basis or as part of a fixed-fee package.
+  
+ We acquire Support.com Cloud customers through our direct sales channel, using Internet-based lead generation strategy, direct outreach, and brand awareness to drive demand. 
+  
+ End-User Software Products.  We license our end-user software products directly to customers and through re-sellers or partners. To date, a majority of our end-user software revenue has come through direct sales to customers. Online advertising allows customers to click through to our software offerings where they can order and download our products on demand. In addition to fully featured software products available for a license fee, a substantial percentage of our end-user software revenue arises from customers who download free trial versions of our software or free versions of our software with limited functionality before making a purchase decision.
+  
+  Engineering and IT
+  
+ We maintain dedicated engineering and IT teams in Sunnyvale, California, and Eugene, Oregon. Engineering and IT expense was $4.1 million in 2019 and $2.8 million in 2018.
+  
+ We develop, maintain, and continue to improve proprietary, market-leading, cloud-based technologies that are essential to our business. We focus our investment in engineering and IT across the following major areas: the creation and refinement of our Guided Paths® library; solutions for support interaction optimization; endpoint applications and other extensions to gather data to assist support interactions and allow remote support when necessary; business analytics and reporting; open application interfaces; and internal service delivery management tools.
+  
+ Our SaaS technology includes Guided Paths® automated workflows, remote control of customer devices, automated device and systems data collection, and business analytics.
+  
+ The service delivery management tools used by our agents for technology support services include our own Support.com cloud-based software capabilities and other contact center applications such as customer relationship management (“CRM”), ticketing, ordering, methods of payment, and telephony, which are all integrated into highly effective and efficient application for our technology specialists.
+  
+ For business analytics and reporting, we build and maintain a data warehouse that securely aggregates and restructures data from all of our applications to create a comprehensive view of the service delivery lifecycle, as well as data about the disposition of support interactions.  This rich data set provides visibility into sales conversion effectiveness, service delivery efficiency, service level performance, subscription utilization, partner program performance and many other aspects of running and optimizing our business.  Our partners also receive reports and analytic information from the warehouse for their programs on a regular basis via secure data feeds.
+  
+   
+6
+
+
+  
+ 
+ Open application interfaces of our Support.com Cloud enable integration with CRM, ticketing systems, and other contact center applications.
+  
+  Intellectual Property
+  
+ We own the registered trademarks SUPPORT.COM®, GUIDED PATHS®, PERSONAL TECHNOLOGY EXPERTS®, BUSINESS TECHNOLOGY EXPERTS® and NEXUS® in the United States for specified support services and software, and we have registrations and common law rights for several related trademarks in the U.S. and certain other countries. We own the domain name Support.com and additional other domain names. We also retain exclusive rights to our proprietary services technology, and our end user software products. In addition, we hold non-exclusive rights to sell and distribute certain other software products.
+  
+ We own two U.S. patents related to our business and have a number of pending patent applications covering certain advanced technology. Our issued patents include U.S. Patent No. 8,020,190 (“Enhanced Browser Security”) and U.S. Patent No. 6,754,707 (“Secure Computer Support System”). However, we do not know if our current patent applications or any future patent application will result in a patent being issued with the scope of the claims we seek, if at all. Also, we do not know whether any patents we have or may receive will be challenged or invalidated. It is difficult to monitor unauthorized use of technology, particularly in foreign countries where the laws may not protect our proprietary rights as fully as they do in the United States, and our competitors may develop technology that competes with ours but nevertheless does not infringe our intellectual property rights.
+  
+ We rely on a combination of copyright, trade secret, trademark and contractual protection to establish and protect our proprietary rights that are not protected by patents. We also enter into confidentiality agreements with our employees and consultants involved in product development. We generally require our employees, customers and potential business partners to enter into confidentiality agreements before we will disclose any sensitive aspects of our business. Also, we generally require employees and contractors to agree to assign and surrender to us any proprietary information, inventions or other intellectual property they generate while working for us in the scope of employment. These precautions, and our efforts to register and protect our intellectual property, may not prevent misappropriation or infringement of our intellectual property.
+  
+  Competition
+  
+ We are active in markets that are highly competitive and subject to rapid change. Although we do not believe there is one principal competitor for all aspects of our offerings, we do compete with a number of other vendors.
+  
+ With respect to partnerships for our technology support services, our competitors include companies focused on premium technology services, providers of electronics warranties, emerging IoT technology support providers, global business process outsourcing providers or contact centers focused on technical support and other companies who offer technical support through partners. We believe the principal competitive factors in our services market include: pricing; breadth and depth of service offerings; quality of the customer experience; proprietary technology; time to market; account management; vendor reputation; scale; and financial resources.
+  
+ With regard to our direct-to-consumer and SMB technical support services, our competitors include retailers, multiple system operators (MSOs)/internet service providers (ISPs), and smaller privately-held or local companies in the home installation, computer repair, or general tech support space. We believe the principal competitive factors in our premium tech support market include the breadth of service offering, value-based and flexible pricing, customer experience and service levels, and company reputation and heritage.
+    
+ With respect to licenses of our Support.com Cloud offering, our competitors include companies focused on service desk, knowledge management, remote support and IT process automation. We believe the principal competitive factors in our SaaS offering include breadth and depth of functionality; ease of implementation; performance; scalability; pricing; vendor reputation; financial resources; and customer support.  We believe that our Support.com Cloud offering can compete favorably because it provides an integrated solution that covers different areas of functionality required by customers.
+  
+   
+7
+
+
+  
+ 
+ In the market for our end-user software products, we face direct competition from software vendors, application providers, operating system providers, network equipment manufacturers, and other OEMs that may provide similar solutions and function in their products, and from individuals and groups who offer “free” and open source utilities online.
+  
+ The competitors in our markets for services and software can have some or all of the following competitive advantages: longer operating histories, greater economies of scale, greater financial resources, greater engineering and technical resources, greater sales and marketing resources, stronger strategic alliances and distribution channels, larger user bases, products with different functions and feature sets and greater brand recognition than we have. We expect new competitors to continue to enter the markets in which we operate.
+  
+ For additional information related to competition, see Item 1A, Risk Factors.
+  
+  Employees
+  
+ As of December 31, 2019, we had 1,231 employees, of whom 1,140 were work-from-home agents and 91 were corporate employees. In addition to our work-from-home employees, we also use contract labor.  None of our employees are covered by collective bargaining agreements.
+ Securities and Exchange Commission (“SEC”) Filings and Other Available Information
+  
+ We were incorporated in Delaware in December 1997. We file reports with the SEC, including without limitation annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”). The public may read and copy any materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at (202) 551-8090.  In addition, we are an electronic filer. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers, including us, that file electronically with the SEC at the website address located at www.sec.gov.
+  
+ Our telephone number is 650-556-9440 and our website address is www.support.com.  The information contained on our website does not form any part of this Annual Report on Form 10-K. However, we make available, free of charge through our website, our annual reports on Form 10-K, our quarterly reports on Form 10-Q and our current reports on Form 8-K filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 as soon as reasonably practicable after we electronically file this material with, or furnish it to, the SEC. In addition, we also make available on https://www.support.com/about-us/investor-relations/corporate-governance/our Code of Ethics and Business Conduct for Employees, Officers and Directors. This Code is also available in print without charge to any person who requests it emailing us at IR@Support.com.
+  
+ 
