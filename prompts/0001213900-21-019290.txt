@@ -1,0 +1,251 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+ 
+Coro Global Inc. is a Nevada corporation formed in 2005. Since 2018, we have been in the business of financial technology, also known as Fintech. From March 2018 to January 2020 the Company was known as Hash Labs Inc., a name chosen because of the advanced distributed ledger technology we license which is called hashgraph. Effective January 9, 2020, we changed our name to Coro Global Inc. to align our company name with our primary product.
+ 
+Our CORO Product Overview
+ 
+We have developed and commenced commercializing a financial technology product, CORO which uses advanced distributed ledger technology for improved security, speed, and reliability. CORO is a global money transmitter that allows customers to send, receive, and exchange currencies faster, cheaper and more securely, initially consisting of the ability to send, receive and exchange U.S. dollars and gold. Our mission through CORO is to democratize access to gold as sound money. CORO makes it simple, convenient and affordable to use gold as money. The CORO mobile app was completed and released in select U.S. markets in August 2020. Following the initial commercial release, CORO has expanded into new markets and is now licensed, approved and operating in 26 U.S. states plus the District of Columbia and Puerto Rico. CORO intends to expand the release of the app throughout the U.S. in 2021. The Company will also pursue money transmission licenses in foreign countries such as Mexico and Canada.
+ 
+We believe CORO is the world’s first global payment application that includes gold, the oldest and most trusted money. CORO technology facilitates money transmission and exchange with faster speeds, better security, and lower costs than existing options in the marketplace. An important component of the CORO payment system is our Financial Crime Risk Management (FCRM) solution. We have developed our FCRM platform, with integrated Anti-Money Laundering / Know Your Customer on boarding and transaction monitoring to provide a fully integrated compliance solution for CORO’s compliance department. The solution meets the rigorous demands of government regulators, while supporting our customers. The FCRM technology has been completed and is incorporated within the CORO mobile payment system.
+ 
+1
+
+ 
+
+CORO Money Transmitter Business
+ 
+CORO is a mobile application that allows customers to send and receive USD or XAU. CORO operates on a private permission network which increases the level of security and compliance.
+ 
+In order to use CORO, customers are required to pass an identity verification and stringent anti-money laundering/know-your customer check, to prevent bad actors from joining and assist in ensuring regulatory compliance. Our FCRM platform will manage on boarding, screening and monitoring of CORO’s customers.
+ 
+CORO provides its customers with the benefits of speed, security, transparency, and ease of use, as well as the opportunity to transact in dollars or gold on the fastest distributed ledger technology (DLT) on the market.
+ 
+We believe CORO is solving the following two important problems:
+ 
+
+● | The ability to send and receive currency faster, cheaper, more securely and across borders with ease. Current fees for sending payments from one country to another are in the double digits as a percentage of the amount being sent. CORO aims to lower the price of sending and receiving money, dramatically opening up financial services to a wider audience. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The ability to use gold as money has not existed in decades. Much like physical cash is disappearing because it became inconvenient to use in modern transactions, physical gold is also not convenient for everyday transactions. We believe CORO will solve this by allowing customers to send and receive gold as money. As a registered money service business and licensed money transmitter, Coro Corp. (the Company’s wholly owned subsidiary) will be required to maintain custody accounts for U.S. dollars (USD) and gold (XAU) on behalf of its customers. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+CORO maintains segregated custody accounts to facilitate the flow of funds. One custody account is maintained by the independent vaulting custodian for storage of users’ physical gold. The CORO users’ gold is fully insured at all times. The users’ gold account balances are represented in XAU, the International Organization of Standardization’s currency code for gold where 1 XAU is equal to 1 troy ounce of gold. A separate segregated custody account is a U.S. dollar account held at a FDIC insured U.S. Bank. U.S. dollar account balances are represented in USD, the International Organization of Standardization’s currency code for U.S. dollars.
+ 
+Customers who download the CORO app and pass the verification process are able to:
+ 
+
+● | Deposit USD into their CORO account. Under this process, customers fund their CORO USD account by entering their bank information in the mobile app and authorizing the transfer of the desired amount to our U.S. banking custodian by ACH.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Exchange USD for XAU. Under this process, customers are able to exchange USD into XAU at the current XAU to USD global exchange rate minus CORO’s transaction fees. CORO processes the exchange through its gold dealer and the independent gold vaulting custodian. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Exchange XAU into USD. Under this process customers are able to exchange XAU into USD at the current global XAU to USD exchange rate minus CORO’s transaction fees. CORO processes the exchange through its gold dealer and the independent gold custodian. USD received from the exchange is deposited back in CORO’s U.S. bank custody account held on behalf of the customer. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | XAU withdrawal. From time to time customers may wish to withdraw their gold from their CORO accounts. CORO’s customers will be able to select the amount for withdrawal, subject to a minimum of 1 XAU which equals 1 troy ounce of gold, and CORO will process the withdrawal through its gold dealer. The gold vaulting custodian will ship the physical gold directly to CORO’s customers. This feature is currently in development and expected to be released in the second half of 2021. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+2
+
+ 
+
+
+● | USD withdrawal. From time to time customers may wish to withdraw their U.S. dollars from their CORO account. Customers are able to connect a U.S. bank account to their CORO account. Customers are able to transfer any or all of their U.S. dollar funds in their CORO account back to their U.S. bank account at any time. This transfer is done by ACH and is transmitted by CORO’s U.S. bank custodian. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+We operate as a licensed money transmitter company by allowing users of our mobile app to send and receive monetary value currently in two formats: USD and XAU.
+ 
+CORO Process
+ 
+The CORO platform operates as follows:
+ 
+
+● | CORO’s distributed ledger tracks and records the movements of gold and USD between the users and increases the integrity of the system. The CORO users’ gold ownership is recorded on the ledger, which enhances the cyber security protecting the users’ account information and improves the ability to audit and demonstrate title of the users’ gold with the gold vaulting custodian. Both sender and receiver must enroll and complete an AML/KYC process to become users of the CORO app. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | To send USD, a user transmits from within the app to any other users of the CORO app. 
+--+------------------------------------------------------------------------------------------
+
+
+● | To send gold, if the user does not already have a XAU balance, a user first exchanges USD held in its CORO account into XAU. The user can then send XAU via the mobile app to other CORO users. CORO has engaged a gold dealer to provide gold to CORO users. When users exchange USD into gold, the gold dealer delivers the purchased amount of gold to an insured gold vaulting custodian. The corresponding USD is transmitted from the CORO custodial bank account to the gold dealer. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | CORO has arranged physical custody of the gold with an insured gold vault custodian. CORO manages administration and record keeping for transactions performed through the CORO app. CORO users and the gold vaulting custodian also have identical sets of the records so that in the event the Company or the app were to cease operations for any reason there is clear title documentation for CORO users to arrange delivery of their gold from the gold vaulting custodian. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Coro Corp. currently acts as agent for the user in the purchase, sale and custody of the gold through the CORO app. 
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | Physical gold purchased from the gold dealer and held by the gold vaulting custodian is a custodial asset for the user’s benefit in a “bailor / bailee” relationship. The CORO user (bailor) has ownership of the gold and the gold vaulting custodian (bailee) has authorized physical possession of the gold on the bailor’s behalf. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | If a user decides to withdraw gold, the user will be able to send an order to the gold dealer through the CORO app. The gold vaulting custodian will ship the gold to the user’s residence. This feature is currently in development and expected to be released in the second half of 2021. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | If a user decides to exchange XAU into USD, the user sends an order to the gold dealer through the CORO app and the gold vaulting custodian moves the physical gold from the allocated gold custodial account to the gold dealer. At the same time, the gold dealer generates a USD transfer to the user via CORO’s USD custodial bank account. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+3
+
+ 
+
+Legal rights
+ 
+CORO users will have direct ownership of their allocated gold as follows; such gold ownership will be effectuated contractually through bailment with the vault custodian. Bailment is the act of placing property in the custody and control of another, by an agreement in which the holder (bailee) is responsible for the safekeeping and return of the property. In bailment law, ownership and possession of the gold are split and they merge at the moment of delivery. CORO users have a bailor/bailee relationship with the custodian for the storage of their physical gold. CORO users (bailors) have ownership of the gold and the gold vault custodian (bailee) has authorized possession of the gold.
+ 
+CORO users will only buy allocated gold with direct ownership. Gold bars are allocated and identifiable for CORO users inside independent custody vault. The gold belongs to the users and is their absolute property. This is evidenced by:
+ 
+
+● | Customer gold is neither an asset nor liability on Coro Corp.’s balance sheet; 
+--+------------------------------------------------------------------------------------------------------------------------
+
+
+● | The gold vaulting custody agreement is under bailment; 
+--+------------------------------------------------------------------------------------------------
+
+
+● | Payment of a custody fee (which has previously been decisive in proving the bailor/bailee relationship in law); 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Users’ gold in custody is fully insured for theft or loss; 
+--+----------------------------------------------------------------------------------------------------
+
+
+● | Full allocation of CORO users’ property is documented each day by daily reconciliation and verified by the monthly custodial audit and quarterly independent 3rd-party audit; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | All transactions and users’ balances are recorded on a distributed ledger which improves accuracy, transparency and security; and 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | CORO users can monitor the total value and weight of gold they own on the CORO mobile app in real time. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CORO Gold Ownership
+ 
+When a CORO customer purchases gold through the CORO mobile payment application, the CORO user becomes the legal owner of the gold. CORO instantly routes gold purchase transactions through a gold dealer. Within the CORO app, customers’ U.S. dollars are exchanged for an equivalent amount of gold at the prevailing spot rate. CORO’s spot rate is derived from a number of gold market sources including but not limited to, our gold dealer the Chicago Mercantile Exchange, or CME and the LBMA. The CORO spot rate also includes our spread. Gold purchased by the customer is identified and evidenced by a serial number, or otherwise identified and evidenced with a specific identifier in accordance with the methods used by the auditors of the independent gold vaulting custodian, such as with SKUs/bar codes, and then allocated within CORO’s custody account with the independent gold vaulting custodian. The independent vaulting custodian maintains a bailment arrangement with CORO’s customers, so that the customers have direct ownership of their gold at all times. Our CORO customers’ gold is fully insured by the vaulting custodian. The vaulting custodian will have a daily record of each customer’s gold holdings. Allocated gold is, by definition, unencumbered. In the event of Coro Global Inc. or Coro Corp.’s dissolution or failure, CORO’s customers would not risk becoming creditors of the Company since their ownership of their gold is direct. Coro Corp. through the CORO app and the independent vaulting custodian maintain an inventory list of the allocated customer gold which is updated in real time and reconciled daily. The CORO user’s gold inventory will be physically counted weekly and audited by an independent auditor of the independent gold vaulting custodian on a quarterly basis. The customer’s gold ownership is also recorded, confirmed and evidenced on CORO’s accounting ledger and shared with the independent vaulting custodian. Coro Corp. and the gold vaulting custodian have the right of substitution within the allocated gold. Right of substitution means that when a customer withdraws their gold, Coro Corp. and the gold vaulting custodian may choose which gold to provide the customer, thus the serial number at purchase may be different than the serial number at withdrawal. Right of substitution makes the logistics of gold storage, deposit and withdrawal more pragmatic and is the primary method used for the independent safe custody of all commodities.
+ 
+4
+
+ 
+
+Government Regulation
+ 
+In the United States, money transmission activities are strictly regulated both at the federal level by FinCEN and at the state level by financial institution regulators. Registration with FinCEN is mandatory for all money transmitters and state regulators impose strict requirements to obtain and maintain a license to operate in their jurisdictions. In addition, state regulations covering money transmission provide enhanced protections for the consumers in case of fraud or bankruptcy and require regular examination and review of licensees’ activities.
+ 
+Coro Corp. is registered with and regulated by FinCEN, a bureau of the U.S. Department of the Treasury. FinCEN regulates Coro Corp. as both a money services business, or MSB, and a Dealer in Precious Metals. As a regulated financial institution, Coro Corp. must assess the money laundering risk involved in its transactions, and implement an anti-money laundering program to mitigate such risk. In addition, we must comply with recordkeeping, reporting, and transaction monitoring requirements under FinCEN regulations.
+ 
+As a registered money services business, Coro Corp. is required to be licensed in the states where it operates. Coro Corp. is in the process of obtaining individual money transmission licenses state-by-state in the jurisdictions where it plans to provide its services. To date, we have been licensed to operate CORO in the following U.S. states and jurisdictions Alabama, Alaska, Arkansas, Arizona, Delaware, Idaho, Iowa, Florida, Georgia, Massachusetts, Minnesota, Mississippi, Montana, New Hampshire, New Jersey, New Mexico, Ohio, Oklahoma, Oregon, Puerto Rico, Rhode Island, South Carolina, South Dakota, Virginia, Washington, Washington D.C., and Wisconsin. We have launched CORO in the above-mentioned U.S. states and jurisdictions.
+ 
+In addition to an application process that includes providing a detailed business plan and criminal and financial background check on all officers and controlling parties of the applying company, licensed money transmitters are subjected to strict requirements such as providing annual audited financial statements, filing quarterly reports, and maintaining at all times a minimum net worth and a surety bond approved by the state’s Commissioner. Due to its main office being located in the State of Florida, Coro Corp. filed an initial application for Money Transmitter license (FT2) with the Florida Office of Financial Regulations on October 4, 2019 and obtained its license on March 18, 2020. Since then, Coro Corp. has filed money transmitter license applications in 31 additional states, some of which are still under review by the respective state banking departments. We anticipate that we will receive nationwide money transmitter licensure to operate CORO by the end of 2021.
+ 
+The Commodity Futures Trading Commission (CFTC) does not regulate Coro Corp. because Coro Corp. only transacts with physical gold in the spot market when buying or selling gold for its customers. The Commodity Exchange Act (CEA) grants the CFTC exclusive jurisdiction over the regulation of futures contracts, option contracts and leverage contracts, but this authority specifically does not extend to “deferred” or “forward” delivery contracts which are essentially “cash transactions providing for later delivery of the underlying commodity.”
+ 
+To prevent fraud and illegal activities at our money transmission business, we do the following:
+ 
+
+● | Ensure that no accounts for prospective customers are activated until each new customer has undergone comprehensive AML/KYC screening; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Conduct routine security audits of our DLT environment; and 
+--+----------------------------------------------------------------
+
+
+● | Implement other security measures, as necessary, to further support our diligence in this regard. 
+--+------------------------------------------------------------------------------------------------------
+
+CORO Revenue Model
+ 
+Customers of the CORO product are or will be charged (i) a 0.5% annual custody and storage fee on their XAU balances, (ii) a 0.5% fee to exchange USD for XAU or exchange XAU for USD, (iii) a 0.5% fee for sending XAU to other CORO customers (which fee we waived through 2020 and may waive through the remainder of 2021) and (iv) a 0.5% fee to exchange XAU for delivery of physical gold (when we commence providing this service, which we have not yet done). We collect and charge or, with respect to the fee for sending XAU to other CORO customers and the fee delivery of physical gold, anticipate that we will collect and charge such fees from CORO customers.
+ 
+5
+
+ 
+
+CORO Business Milestones
+ 
+We began development of the CORO mobile application, database, infrastructure and the associated distributed private permissioned DLT network, in September of 2018. Following nearly two years of design, development and testing the CORO mobile application and DLT powered gold payment system was completed and released to the public on August 5, 2020. Having completed the commercial release of CORO, the Company has established new milestones for 2021. These milestones include: 1.) implementation of the digital marketing and customer acquisition program; 2.) continuously improving CORO app performance, functionality and user experience; and 3.) acceleration of the state money transmission licensure program in the U.S. to achieve nationwide licensure, as well as filing money transmission license applications with regulators in Mexico and Canada;
+ 
+We have relied and continue to rely upon both employees and contractors. CORO’s commercialization and continued enhancement is being led by David Dorr, the Founder and recently appointed CEO of the Company, and Brian Dorr, the Co-founder and recently appointed COO of the Company. They will continue the coordination of our technology development resources and team of consultants. We intend to increase our technology development team during 2021, as we continue to improve the functionality and performance of the CORO mobile application.
+ 
+As of March 23, 2021 the CORO app has had 9,092 downloads of which 1,641 have become verified users. There are 4,950 individuals on our waiting list in states where we are pending approval of our money transmission licenses. Upon our receipt of money transmission licenses in those states, these individuals will then have the opportunity to become verified users.
+ 
+Hashgraph License
+ 
+CORO is built on a new generation of DLT utilizing the Hashgraph consensus algorithm, (“Hashgraph”). We believe Hashgraph is superior to the current generation of DLT. Hashgraph is owned by Swirlds, Inc., (“Swirlds”). In July 2020, we entered into an amended and restated software license agreement with Swirlds to license Hashgraph.
+ 
+DLT is disrupting and transforming existing markets in multiple industries. However, we believe there are four fundamental obstacles to be overcome before DLT can be widely accepted and adopted across every industry and geography. These obstacles are:
+ 
+Performance: The technology is built on Hashgraph, which provides near-perfect efficiency in bandwidth usage and consequently can process upwards of 500,000 transactions per second. To put the speed of our network in perspective, Visa’s network handles an estimated 35,000 transactions per second.
+ 
+Security: Hashgraph achieves the highest standard for security in the field of distributed consensus: asynchronous Byzantine Fault Tolerance (aBFT). Other networks that use coordinators, leaders, or communication timeouts tend to be vulnerable to Distributed Denial of Service (DDoS) attacks against those vulnerable areas. Hashgraph is resilient to these types of attacks and achieves the theoretical limits of security. Achieving this level of security at scale is a fundamental advance in the field of distributed systems as it is the gold standard for security in this category.
+ 
+Regulatory Compliance: The Hashgraph technical framework includes an Opt-In Escrow Identity mechanism that gives customers a choice to bind verified identities to otherwise anonymous accounts, which is designed to provide governments with the oversight necessary to ensure regulatory compliance. This is optional, and each user will be able to decide what kinds of credentials, if any, to reveal.
+ 
+Hashgraph accomplishes being fair, fast, efficient, inexpensive, timestamped, and DDoS resistant.
+ 
+Our Hashgraph private-permissioned network provides the strongest foundation for CORO. We believe it will enable the CORO product to achieve unprecedented speed with fractional cost per transaction, all while maintaining or exceeding current bank-grade security.
+ 
+6
+
+ 
+
+Intellectual Property
+ 
+In addition to our right to the use of Hashgraph as discussed above, our intellectual property currently includes our trademark “CORO” for a mobile application for certain financial and computer software services. We have a pending trademark registration application for “CORO” in the United States and several additional countries.
+Marketing, Communications and Growth Strategy
+ 
+During the first half of 2020 we made a significant investment of time and resources in completion of a comprehensive growth strategy for marketing, communications and customer acquisition. Our strategy follows a growth marketing approach, with rapid experimentation across marketing channels and product development paths to determine the most effective and sustainable way to acquire and retain customers. Our go-to market strategy fuses data analysis and behavioral research to identify key customer segments. Under this strategy, user experience/user interface design optimization, highly targeted advertising, thought leadership, and PR tactics are implemented to acquire customers efficiently and build trust, which is our main brand pillar. Our growth plan was divided into 2 main stages – the pre-commercial launch stage and the post-launch stage. Our pre-launch stage was dedicated to garnering interest and enthusiasm from prospective CORO customers via digital marketing efforts. We have now embarked upon the post-launch stage, which is divided into traction, transition and growth sub-stages. During the traction sub-stage which we are now in, we are simply building momentum for growth.
+ 
+We are focusing on finding product/market fit and growing our brand. Finding product/market fit means that we are getting early users, gathering their feedback and optimizing our product based on that feedback. Once we see signs that our business has gained market share and mindshare from our target audience we will scale our efforts and move into the transition sub-stage. During the transition sub-stage, we will take the information we gathered during traction and build up towards growth mode.
+ 
+We will optimize and scale marketing channels that work for us. We will optimize customer acquisition costs and gain more insights into their lifetime value. We will also focus on scaling our marketing team. When we enter the growth sub-stage, we will be ready to deploy our growth engine and prove that it works. Our goal here will be to maximize our value proposition and achieve exponential growth.
+ 
+Using a combination of qualitative and quantitative methods, we conducted extensive research and discovery to set success metrics, recognize future growth initiatives, develop audience profiles, and assess the competition landscape and market conditions.
+ 
+Under our marketing and sales strategy, we have taken the following steps:
+ 
+
+● | Engaged specialized branding, media, web design, and digital marketing agencies to work in synchrony with the in-house marketing team; 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Designed a visual identity that can be easily activated across a variety of digital and media touchpoints; 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Developed a website to serve as an education resource for media, influencers and general public and as a point of entry for customers; and 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Developed integrated launch and growth marketing campaigns to reach key audiences for awareness and demand for the product. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Employees
+ 
+As of March 23, 2021, we have 2 full-time employees and retain approximately 16 consultants. We consider our relationship with our employees and consultants to be good.
+ 
+7
+
+ 
+
