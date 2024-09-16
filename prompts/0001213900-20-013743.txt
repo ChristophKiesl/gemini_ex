@@ -1,0 +1,737 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Description of Business.
+The Industry
+ 
+The biotechnology industry focuses on developing breakthrough products and technologies to combat various types of diseases through pre-clinical research, clinical development, and efficient industrial manufacturing process. Such industry is an important business sector in the world’s economies and plays a key role in human health. Biotechnology companies generally require large amounts of capital investment for their research & development activities. It may take up to tens of years to develop and commercialize a new drug or a new medical device.
+Business Overview
+ 
+We, Xynomic Pharmaceuticals Holdings, Inc. (the “Company” or “Group” or “Xynomic”) are a clinical stage biopharmaceutical company that discovers and develops innovative small molecule drug candidates for the treatment of cancer in humans.
+ 
+Our lead drug candidate is abexinostat, an orally dosed, hydroxamic acid-based small molecule histone deacetylase (“HDAC”) inhibitor. In February 2017, Xynomic Pharmaceuticals, Inc. (“Xynomic Pharma”) entered into a license agreement with Pharmacyclics LLC (“Pharmacyclics”), a subsidiary of AbbVie Inc. (“AbbVie”), for the worldwide exclusive rights to develop and commercialize abexinostat for all human and non-human diagnostic, prophylactic, and therapeutic uses.
+ 
+Abexinostat is a pan-HDAC inhibitor that inhibits HDACs 1, 2, 3, 6, and 10. HDAC enzymes can affect a number of cell functions, including the viability of cancer cells, by regulating the acetylation of both histone and non-histone substrates. Thus, HDACs have become a therapeutic target for various types of cancers. Prior to granting the license to Xynomic Pharma, our wholly owned subsidiary incorporated in Delaware, Pharmacyclics and its partners evaluated abexinostat in 18 Phase 1/2 clinical trials for lymphoma and solid tumors. As a result of the license, Xynomic Pharma has obtained exclusive rights to use the data generated in the 18 previously completed clinical trials. The data from many of these trials have also been published by the investigators in scientific journals.
+ 
+In December 2018, Xynomic Pharma entered into a license agreement with Boehringer Ingelheim for the worldwide exclusive rights to develop and commercialize XP-105 (also known as BI 860585) for all human and non-human diagnostic, prophylactic, and therapeutic uses. XP-105 is an orally bioavailable mTORC1/2 kinase inhibitor, which inhibits both raptor-mammalian target of rapamycin (“mTOR”) complex 1 (known as mTORC1) and rictor-mTOR complex 2 (known as mTORC2). Prior to this license, Boehringer Ingelheim International GmbH (“Boehringer Ingelheim” or “BII”) had completed one Phase 1 clinical trial for solid tumors. As a result of the license, Xynomic Pharma has obtained exclusive rights to use all the data generated in this Phase 1 clinical trial. Xynomic Pharma plans to initiate one clinical trial of XP-105 against breast cancer in 2020.
+ 
+On-Going Clinical Trials of Abexinostat
+ 
+At present Xynomic Pharma is enrolling patients in 6 clinical trials treating: (1) renal cell carcinoma (“RCC”), in combination with pazopanib, (2) follicular lymphoma (“FL”), as a monotherapy, in the U.S. and Europe, (3) mantle cell lymphoma (“MCL”) and diffuse large B–cell lymphoma (“DLBCL”), in combination with Imbruvica®, (4) multiple solid tumors, in combination with Keytruda®, (5) DLBCL, as a monotherapy, in China, and (6) FL, as a monotherapy, in China.
+ 
+1
+
+ 
+
+Abexinostat, in combination with Pazopanib, in Renal Cell Carcinoma (XYN-602)
+ 
+Xynomic Pharma is investigating abexinostat, in combination with pazopanib, in a Phase 3 trial as the first-line or second-line treatment of RCC, head-to-head against pazopanib as a monotherapy. RCC is the most common type of kidney cancer in adults (Source: Robert J. Motzer, Sam Bhayani, et al. (2017) Kidney Cancer, Version 2.2017. Journal of the National Comprehensive Cancer Network. 2017; 15(6): 804-834). This trial will enroll approximately 390 patients globally with locally advanced or metastatic RCC and will be conducted in the U.S., six European countries, China, and South Korea. Based on discussion of trial design with the FDA prior to study initiation in an end-of-Phase 2/Pre-Phase 3 Meeting held on March 16, 2018, Xynomic Pharma believes the trial has potential to support approval in the U.S. In March 2019 the U.S. FDA granted Fast Track designation to abexinostat, in combination with pazopanib, as a first- or second-line treatment of RCC. For further detail, see below in the section entitled “— Abexinostat — Ongoing Clinical Studies.”
+ 
+Abexinostat as a monotherapy in Follicular Lymphoma (XYN-601)
+ 
+Xynomic Pharma is conducting a Phase 2 trial to test abexinostat as a single agent, in patients with relapsed or refractory (“R/R”) FL, the second most common form of lymphoma in the U.S. and Europe (Source: https://www.cancer.net/cancer-types/lymphoma-non-hodgkin/subtypes). Designed as a single arm trial, this trial will enroll approximately 120 patients in the U.S. and Europe who have undergone at least three lines of therapy to test abexinostat as a fourth line monotherapy.
+ 
+Based on discussion of trial design with the FDA in a pre-IND meeting held on April 18, 2018, we believe the trial has potential to support accelerated approval in the U.S.
+ 
+Abexinostat, in combination with Imbruvica® (ibrutinib), in Relapsed/Refractory Mantle Cell Lymphoma (“r/r MCL”) or Relapsed/Refractory Diffuse Large B-cell Lymphoma (“r/r DLBCL”) (XYN-603)
+ 
+The third study is a Phase 1/2 clinical trial of abexinostat, in combination with Imbruvica®, in patients with r/r MCL or r/r DLBCL at Memorial Sloan Kettering Cancer Center (“MSKCC”). This trial will enroll approximately 40 patients to assess the safety and efficacy of the combination in patients with r/r MCL or r/r DLBCL. This trial will also explore the biologic predictors of response and resistance to dual B-cell receptor (BCR) and histone deacetylase (HDAC) inhibition. Janssen Biotech, Inc. (“Janssen”) is providing ibrutinib as part of the study, with Xynomic Pharma providing abexinostat and funding support for the trial being conducted at MSKCC. Researchers at MSKCC are testing whether the abexinostat/Imbruvica combo could potentially improve response rates and duration of responses in r/r MCL or r/r DLBCL patients, subject to the assessment upon the completion of the trial, which is expected to be completed by the fourth quarter of 2021. For further detail, see below in the section entitled “— Abexinostat — Ongoing Clinical Studies.”
+ 
+Abexinostat, in combination with Keytruda®, in Multiple Solid Tumors (XYN-604)
+ 
+The fourth study is a Phase 1b trial of abexinostat, in combination with Keytruda®, in patients with multiple solid tumors with prior progression on Keytruda® or other checkpoint inhibitor (“CPI”) treatments. In this trial, Xynomic Pharma will explore dose escalation/expansion of abexinostat in combination with Keytruda®. Xynomic Pharma plans to enroll approximately 42 patients in the U.S in this Phase 1b trial and expects to complete this trial by the first quarter of 2021.
+ 
+As of the date hereof, this trial is being conducted at University of California, San Francisco. The Company has obtained interim data from this study. For further detail, see below in the section entitled “— Abexinostat — Ongoing Clinical Studies.”
+ 
+2
+
+ 
+
+Abexinostat as a monotherapy in DLBCL in China (XYN-606)
+ 
+Xynomic Pharma is conducting a Phase 2 trial to test abexinostat, as a single agent, in patients with relapsed or refractory (“R/R”) DLBCL in China. This trial will enroll approximately 175 patients in China and is independent from the ongoing abexinostat/Imbruvica trial in the U.S. Designed as a single arm trial, this trial will enroll patients who have undergone at least two lines of therapy to test abexinostat as a third line monotherapy. Based on written communications Xynomic Pharma had with the CDE of the China National Medical Products Administration in September 2018, Xynomic believes that the data from this trial has potential to support approval in China. For further detail, see below in the section entitled “— Abexinostat — Ongoing Clinical Studies.”
+ 
+Abexinostat as a monotherapy in FL in China (XYN-605)
+ 
+Xynomic Pharma is conducting a Phase 2 trial to test abexinostat, as a single agent, in patients with R/R FL in China. This trial will enroll approximately 97 patients in China and is independent from the ongoing trial in the U.S. and Europe. Designed as a single arm trial, Xynomic Pharma’s Phase 2 trial will enroll patients who have undergone at least two lines of therapy to test abexinostat as a third line monotherapy. Based on written communications Xynomic Pharma had with the CDE in September 2018, Xynomic Pharma believes that the data from this trial has potential to support approval in China. For further detail, see below in the section entitled “— Abexinostat — Ongoing Clinical Studies.”
+ 
+Planned Clinical Trials with Abexinostat and XP-105
+ 
+Planned Clinical Trials with Abexinostat. Xynomic Pharma plans to initiate the following two clinical trials of abexinostat in 2020:
+
+
+
+● | a Phase 1b clinical trial of abexinostat, in combination with pazopanib, in patients with thyroid cancer, sarcoma, and ovarian cancer. This trial will enroll approximately 50 patients in the U.S. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | a Phase 1 clinical trial of abexinostat, in combination with Ibrance® (palbociclib) and fulvestrant, in patients with antiestrogen refractory ER+, HER2- breast cancer and gynecological metastatic tumors. This trial will enroll approximately 50 patients in the U.S.
+
+
+
+Planned Clinical Trials with XP-105. Xynomic Pharma is only two years behind competing drug candidates being developed by major multinational pharmaceuticals companies and plans to initiate a Phase 2 clinical trial soon. One will be a single arm Phase 2 trial, combining XP-105 with paclitaxel against breast cancer which we expect to initiate in 2020. This trial will be conducted primarily in China.
+  
+Pre-Clinical Programs
+ 
+In addition, Xynomic Pharma has several pre-clinical oncology drug candidates in its pipeline. Among these drug candidates, XP-102 (also known as BI 882370), a selective pan-RAF inhibitor to which Xynomic Pharma obtained a worldwide exclusive license from BII, is the closest to clinical testing.
+ 
+3
+
+ 
+
+Figure 1 — Xynomic Pharma’s Pipeline
+ 
+
+Xynomic Pharma has not completed any clinical trials since its inception.
+ 
+Corporate Structure and Information
+ 
+The corporate structure of the Company is illustrated as follows:
+ 
+
+
+Xynomic Pharmaceuticals, Inc. (“Xynomic Pharma”), a company established under the laws of the Delaware in 2016, is our primary operating entity and 100% owned by us.
+ 
+Xynomic Pharmaceuticals (Nanjing) Co., Ltd. (“Xynomic Najing”), a limited company established under the laws of PRC in 2017, engages in research and development of pharmaceuticals business and is 100% owned by Xynomic Pharma.
+ 
+Xynomic Pharmaceuticals (Zhongshan) Co., Ltd. (“Xynomic Zhongshan”), a limited company established under the laws of PRC in 2018, engages in research and development of pharmaceuticals business and is 100% owned by Xynomic Nanjing.
+ 
+Xynomic Pharmaceuticals (Shanghai) Co., Ltd. (“Xynomic Shanghai”), a limited company established under the laws of PRC in 2018, engages in research and development of pharmaceuticals business and is 100% owned by Xynomic Nanjing.
+ 
+The mailing address of our principal executive office is: Suite 3306, K. Wah Centre, 1010 Middle Huaihai Road, Shanghai 200031, China. 
+ 
+4
+
+ 
+
+Business Strategy
+ 
+Our business strategy has been designed to enable the Company to achieve its mission of developing and commercializing innovative drug products in the field of oncology. The key tenets of our strategy include the following:
+ 
+Build an oncology franchise to maximize value.    Oncology is our therapeutic focus. According to data published by EvaluatePharma®, oncology was the top therapy area in the global pharmaceutical market with sales of $93.7 billion in 2016, or 11.7% of the market (Source:http://info.evaluategroup.com/rs/607-YGS-364/images/wp16.pdf). This number is projected to grow to $192.2 billion in 2022, highlighting the rapid growth in this market. The strong and sustainable growth of the oncology market is mainly driven by three factors:
+ 
+
+● | cancer remains one of the leading causes of natural deaths worldwide; 
+--+--------------------------------------------------------------------------
+
+
+● | there is a high degree of unmet medical needs in oncology; and 
+--+-------------------------------------------------------------------
+
+
+● | oncology drugs that have obtained regulatory approval have demonstrated commercial success for numerous pharma companies. 
+--+------------------------------------------------------------------------------------------------------------------------------
+
+ 
+Capitalize on our expertise to develop a pipeline of small molecule, oral, targeted drug candidates. Our core scientific team has many years of experience in research, development and manufacturing of small molecule, oral, targeted drug candidates against cancer and other diseases. This expertise as our core strength will continue to be leveraged as we expand our pipeline. According to a 2015 IMS study, targeted therapies make up approximately 87% of the late-phase oncology pipelines under development worldwide. Thus, our focus on targeted drug candidates aligns with this global trend in oncology treatments. Oral dosage represents another recent trend in oncology medication as oral dosage has been shown to significantly improve patient compliance and quality of life.
+ 
+Strategically in-license global rights to late stage drug candidates. Our lead drug candidate abexinostat was licensed from Pharmacyclics. Prior to our acquisition of the global exclusive license, Pharmacyclics had tested abexinostat on approximately 600 patients globally and had assembled a large amount of potentially valuable clinical data on safety and efficacy, which, subject to the outcome of further clinical trials, potentially could enable Xynomic to launch the product in the U.S., China, EU and other key markets. Our ability to obtain global licenses on assets from multinational pharmaceutical companies such as AbbVie and BII is a result of our management’s extensive network within the global biopharmaceutical industry and deal making and deal execution expertise. We will continue to leverage this competitive advantage to access top-quality drug candidates for in-licensing and co-development opportunities, and potential future co-marketing partnerships.
+ 
+Build a strong internal research and development team to enrich the pipeline. In addition to our in-licensing strategy, we have built a team of researchers with expertise in epigenetics and kinase inhibition, which could enable us to potentially discover new mechanisms of action (“MOA”), potentially design innovative molecules around these MOAs, and potentially move promising molecules to clinical testing.
+ 
+Utilize global resources to lower cost and improve efficiency. With our presence in both the U.S. and China, we can potentially leverage high-quality, low-cost global resources to efficiently develop our pipeline. Xynomic keeps core competencies such as research, clinical development management and business development in house, while outsourcing commoditized activities such as small-molecule manufacturing and clinical study management to reputable vendors. This hybrid model potentially allows us to access efficient resources globally, manage investment in redundant infrastructure, and secure a more favorable return on investment. We have has established a vigorous vendor selection process to ensure that we receives the highest quality and compliance level at a reasonable cost. For instance, abexinostat’s active pharmaceutical ingredient (“API”) and finished dosage formulation are manufactured in Europe, whereas its pivotal clinical trials are managed by qualified multinational contract research organizations, or CROs.
+ 
+5
+
+ 
+
+Capture potential lower research and development costs, better access to patient pool and growing market in China. In addition to their years of professional training and industry experience in the U.S., our founders have significant personal and professional experience in China, the second largest pharmaceutical market in the world. Building on this, we are well positioned to capitalize on China, both as a potential market for our oncology drugs and a location for lower research and development costs and better access to patient pools. Pursuant to recent regulatory reform in China, China’s drug approval process has been enhanced to make it more similar to those of other developed countries. This will further allow us to potentially leverage our resources in China to develop products for the U.S. and the rest of the world.
+ 
+Market Opportunity
+ 
+The American Cancer Society estimates that approximately 1,735,350 million new cancer cases were diagnosed in the U.S. in 2018, and there were approximately 609,640 cancer deaths. According to a report published by Allied Market Research, the global market for cancer therapeutics was valued at $81.2 billion in 2016 and is projected to reach $178.9 billion by 2023, at a CAGR of 11.9% from 2017-2023. This growth will be driven by factors such as development of novel cancer therapeutics and an increase in cancer awareness and availability of oncology drugs in developing markets. Specifically, the global market size for FL is expected to reach $4.1 billion by 2023, for RCC, $4.7 billion, for certain solid tumors treated by Keytruda®, $8.0 billion, for breast cancer, $20.0 billion and for DLBCL, $14.4 billion. According to a September 2018 report by WHO’s International Agency for Research on Cancer, among females, breast cancer is the most commonly diagnosed cancer, whereas colorectal cancer is the 2nd among females and the 3rd among males. According to IMS and iHealthcareanalyst, drugs treating breast cancers and rectal cancers are expected to generate annual revenue of approximately $25.4 billion by 2023.
+Abexinostat
+
+Abexinostat is an innovative, orally dosed, broad spectrum, hydroxamic acid-based small molecule HDAC inhibitor. Studies published in medical journals have documented promising anti-tumor activity in vitro and in vivo. Clinical development of abexinostat began in July 2005. It has been evaluated by Pharmacyclics and its partners in a total of 18 Phase 1/2 clinical trials for lymphoma and solid tumors. Pursuant to a February 2017 license agreement with Pharmacyclics, we have obtained the exclusive worldwide rights to develop and commercialize abexinostat for all human and non-human diagnostic, prophylactic, and therapeutic uses. As a result of the license, we have obtained exclusive rights to use all the data generated in the previously completed clinical trials listed below in Figure 2. The data from many of these trials have also been published by the investigators in scientific journals.
+ 
+6
+
+ 
+
+Figure 2 – Summary of Completed Clinical Trials on Abexinostat
+ 
+
+
+Based on the results from these early studies, we believe that abexinostat may offer a more active and potentially less toxic treatment option for cancer with a wider therapeutic index. When used in combination with other cancer therapeutics, abexinostat may also have synergistic anti-tumor activity in tumor cells.
+ 
+Currently we are conducting six clinical trials treating: (1) renal cell carcinoma (“RCC”), in combination with pazopanib (XYN-602), (2) follicular lymphoma (“FL”), as a monotherapy, in the U.S. and Europe (XYN-601), (3) mantle cell lymphoma (“MCL”) and diffuse large B–cell lymphoma (“DLBCL”), in combination with Imbruvica® (XYN-603), (4) multiple solid tumors, in combination with Keytruda® (XYN-604), (5) DLBCL, as a monotherapy, in China (XYN-606), and (6) FL, as a monotherapy, in China (XYN-605).
+ 
+Background of HDAC Inhibitors
+ 
+Abexinostat is an oral inhibitor of HDAC enzymes, which are well-validated drug targets in various disease areas including cancer. These enzymes control several vital cellular processes, such as transcription, cell cycle progression, protein transport and degradation, and their activity is often dysregulated (namely, impaired) in cancer. Typically the major function of these enzymes is controlling gene expression, namely, whether genes are turned “on” or “off” via epigenetic mechanisms. In cancer, HDACs are often differentially expressed from normal cells, resulting in gene expression changes that favor a tumor’s ability to multiply, to avoid apoptosis (namely, programmed cell death) or to become resistant to chemotherapy. Treatment with HDAC inhibitors has been show to reverse these changes, resulting in cancer cell death in vitro (namely, in cultured cells) and tumor growth inhibition in vivo (namely, in animals) at non-toxic concentrations. The following diagram illustrates HDAC inhibitors’ mechanism of action.
+ 
+7
+
+ 
+
+Figure 3 – HDAC Inhibitors’ Mechanism of Action
+ 
+
+
+Multiple inhibitors of HDACs have been approved by the U.S. FDA for treatment of hematologic malignancies. It is believed that HDAC inhibitors induce histone hyperacetylation and can cause cell death. The first drug in this class to gain approval from FDA was Vorinostat (Zolinza®, Merck), which is approved to treat cutaneous T-cell lymphoma (“CTCL”) in patients that have failed two previous therapies. Another HDAC inhibitor, Romidepsin (Istodax®, Celgene) is approved to treat CTCL and peripheral T-cell lymphoma (“PTCL”). Additionally, belinostat (Beleodaq®, Spectrum) was approved in 2014 for the treatment of patients with R/R T-cell lymphoma and panobinostat (Farydak®, Novartis) was approved in 2015 for the treatment of multiple myeloma.
+ 
+In addition to overt anti-tumor activities described above, HDAC inhibitors are known to have the ability to reverse resistance to some cancer therapies such as vascular endothelial growth factor (“VEGF”) inhibitors and CPIs via epigenetic modification. Resistance to approved cancer therapies is a major problem in cancer treatment. Tumors can find ways to modify their genes to become resistant. One such process is called “epigenetics”, where genes are turned on and off, but the sequence of DNA is not altered. For certain cancers, a group of investigators at University of California San Francisco (“UCSF”) reported that adding an HDAC inhibitor to an approved cancer therapy can prevent or reverse such resistance. See “Abexinostat — On Going Clinical Studies of Abexinostat — Abexinostat, in combination with Pazopanib, in Renal Cell Carcinoma (XYN-602) — Preliminary Results of Combining Abexinostat and Pazopanib in RCC”. The underlying mechanism is complex and not fully understood, and it often varies depending on the cancer type. For example, when RCC and certain other solid tumors are treated with VEGF inhibitors such as pazopanib, resistance can be caused by, among other factors, hypoxia-driven, HDAC-mediated overexpression and post-translational stabilization of hypoxia-inducible factor (“HIF”)-1α. HDAC inhibitors can potentially downregulate HIF-1α and VEGF expression via epigenetic mechanism, thus recapturing response to pazopanib. When combined with CPIs, HDAC inhibitors have been shown to counteract the mechanisms of resistance to CPIs.
+ 
+8
+
+ 
+
+Key Findings of Prior Trials on Abexinostat
+ 
+Unique Pharmacokinetic Profile.
+ 
+In a Phase 1 trial sponsored by Servier (CL1-78454-001), abexinostat was rapidly absorbed following oral administration, and a maximal plasma concentration was achieved within 0.5 to 1 hour. The terminal elimination half-life, which is the time required for the body to eliminate half of the administered dose, was calculated to be approximately 4 hours. In other orally administered HDAC inhibitors, it takes similar or relatively longer time to achieve the maximal plasma concentration: about two hours for Vorinostat (Volinza®, Merck) and Panobinostat (Farydac®, Novartis) and about four hours for Chidamide (Epidaza®, Chipscreen). At the same time, the terminal elimination half-life was estimated to be approximately 37 hours for Panobinostat and approximately 17 hours for Chidamide, significantly longer than abexinostat’s approximately 4 hours of terminal elimination half-life (Vorinostat showed a shorter terminal elimination half-life of approximately 2 hours). Pharmacokinetic modeling suggested that optimal oral dosing schedule for abexinostat may be twice daily four hours apart. Based on these data, Xynomic plans to leverage pharmacokinetics profile of abexinostat, combined with its potential dosage regimen, and explore abexinostat’s potential as a less toxic treatment option for cancer.
+ 
+CL1-78454-001 was an open-label, non-randomized, dose-escalation, Phase 1 portion of a Phase 1/2 study. The Phase 2 portion of this Phase 1/2 study is known as PCYC-1401. The primary objective of the Phase 1 was to assess safety and tolerability, and determine the recommended Phase 2 dose and optimal administration schedule of abexinostat in patients with R/R B-cell lymphoma or chronic lymphocytic leukemia (“CLL”). Secondary objectives included pharmacokinetics, pharmacodynamics, and tumor response. Between February 2010 and June 2011, oral abexinostat 30, 45, or 60 mg/m2 was administered twice daily on 35 patients with R/R Hodgkin’s Lymphoma (“HL”) or Non-Hodgkin Lymphoma (“NHL”) (including FL and DLBCL) and CLL. Two dose-limiting toxicities occurred at 60 mg/m2 twice daily in each of the three dosing schedules (one Grade 3 febrile neutropenia; five Grade 4 thrombocytopenia). Grade 3 or above adverse events (“AEs”) included thrombocytopenia (31% Grade 3, and 26% Grade 4), which was found reversible after stop dosing. Grade 3 or above AEs are generally serious adverse events (“SAEs”).
+ 
+Preliminary Safety Data.
+ 
+Safety of a drug candidate is measured in terms of the frequency and severity of the occurrences of AEs in a clinical study. The number of treatment-emergent adverse events (“TEAEs”), includes all events emerging during the treatment that were either absent before the treatment or worsen relative to the state before the treatment. TEAEs may or may not related to the study drug.
+ 
+Depending on the severity of AEs, they are categorized into Grade 1 through 5. Grade 1 AEs are AEs with mild symptoms that do not need medical intervention. Grade 2 AEs are moderate AEs that require minimal, local or non-invasive intervention. Grade 3 AEs are severe or medically significant but not immediately life-threatening AEs either that require hospitalization or prolong existing hospitalization, or that are disabling, or that limit self-care abilities. Grade 4 AEs are AEs that result in life-threatening consequences and involve urgent intervention. Grade 5 AEs are deaths related to adverse events.
+ 
+Safety of a drug candidate is also characterized by occurrences of SAEs, which is defined as any AE that results in death; are life-threatening; requires hospitalization or prolongation of existing hospitalization; results in permanent or significant disability/dysfunction; results in congenital anomaly/birth defect, or leads to other important medical events. Grade 3 and above AEs are generally SAEs.
+ 
+Preliminary safety data from clinical trials PCYC-0403 and PCYC-1401 (measured in Grade 3 & 4 AE occurrence percentage among the trial subjects) are listed in the figure below.
+ 
+9
+
+ 
+
+PCYC-0403 was a Phase 1/2 multicenter, open-label, dose-escalation study of abexinostat sponsored by Pharmacyclics. The study enrolled 55 total patients, of which 25 patients with any lymphoma subtype participated in the Phase 1 portion of the study. The Phase 2 study included 16 patients with FL and 14 patients with MCL. Patients received abexinostat capsules orally twice daily (approximately 4–6 hours apart) at 30, 45, and 60 mg/m2. Two four-week dosing cycle schedules were used: 5 days per week for the first 3 weeks [Days 1–5, 8–12, 15–19]) and an alternative dosing schedule, 7 days every other week [Days 1–7, 15–21]). Treatment was continued until progressive disease or unacceptable toxicity. AEs or SAEs were reported in 11 subjects (36.7%) overall, in 6 subjects with FL and in 5 subjects with MCL. The TEAEs, which include AEs related to the study drug as well as other AEs emerging during the treatment, were nausea (60%), fatigue (60%), diarrhea (50%), thrombocytopenia (47%), cough (43%), vomiting (33%), constipation (33%), anemia (26.70%), headache (27%), edema peripheral (23%), neutropenia (23%), sinusitis (23%), decreased appetite (23%) and dyspepsia (23%). Grade 3 and above AEs include thrombocytopenia (20%), neutropenia (13%), anemia (3%), arthralgia (7%), fatigue (17%) and diarrhea (3%).
+ 
+PCYC-1401 was the Phase 2 portion of a Phase 1/2 study originally sponsored by Servier and later by Pharmacyclics. This Phase 2 study enrolled 100 patients with R/R NHL or CLL, including 18 FL patients, 17 DLBCL patients, 16 MCL patients, 18 T-CL patients, 15 MZL and other subtypes patients and 16 CLL/LL patients. Patients were given oral abexinostat at 80 mg twice a day four hours apart for 14 days of a 3-week cycle, and treatment was continued until progressive disease or unacceptable toxicity. TEAEs were reported in 98% of patients, which were thrombocytopenia (88%), diarrhea (47%), anemia (38%), nausea (36%), neutropenia (35%), asthenia (35%), decreased appetite (33%), vomiting (20%), constipation (14%), pyrexia (14%), fatigue (13%), muscle spasms (11%) and weight decreased (10%). It was reported that 88% patients experienced Grade 3 or above AEs, which were thrombocytopenia (80%), neutropenia (28%), anemia (22%), asthenia (6%), pneumonia (6%), hypokalemia (5%), febrile neutropenia (3%), abdominal pain (3%), diarrhea (3%) and renal failure chronic (3%).  There were 5 deaths in the study, but the investigators did not find any of them to be related to treatment.
+ 
+Figure 4 – Abexinostat and Approved HDACs† Grade 3 and 4 AE % 
+ 
+
+
+10
+
+ 
+
+Investigators in the PCYC-1401 Phase 2 study attributed the difference in the toxicity profiles of abexinostat between PCYC-0403 and PCYC-1401 to the differences in dosing schedules used. Abexinostat, when administered on a 2-weeks-on/1-week-off schedule in PCYC-1401, was associated with higher rates of Grade 3 or over hematologic events. In contrast, the 1-week-on / 1-week-off schedule used in PCYC-0403 was associated with lower rates of high-grade hematologic toxicities.
+ 
+Preliminary Efficacy Data. Preliminary efficacy of abexinostat were evaluated in the PCYC-1401 Phase 2 study and the PCYC-0403 Phase 2 study. The primary endpoint of the PCYC-0403 Phase 2 study and the primary endpoint of the PCYC-1401 Phase 2 study were both objective response rate (“ORR”), which is the proportion of patients in whom a complete response or a partial response, as defined by standard disease-specific criteria for the applicable disease category, is observed. In both trials, patients with NHL (including FL) were evaluated for clinical response with the International Working Group Revised Response Criteria for Malignant Lymphoma. Under such response criteria, “complete response” is defined as complete disappearance of all detectable clinical evidence of disease and disease-related symptoms and “partial response” is defined as regression (i.e. reduction) of measurable disease and no new sites, which includes requirements such as at least a 50% decrease in sum of the product of the diameters of up to six of the largest dominant nodes or nodal masses.
+ 
+Under the same response criteria, the PCYC-0403 Phase 2 trial showed 64% ORR in FL with a week-on-week-off dosing schedule (among 14 FL patients, 1 complete response (7%) and 8 partial responses (57%)). The PCYC-1401 Phase 2 trial showed a 56% ORR in FL with a 2-weeks-on-1-week-off dosing schedule (among 16 FL patients, 1 complete response (6%) and 8 partial responses (50%)). The PCYC-1401 Phase 2 study also showed 31% ORR in DLBCL (among 16 DLBCL patients, 1 complete response (6%) and 4 partial responses (25%)).
+ 
+Ongoing Clinical Studies of Abexinostat
+ 
+We are conducting six ongoing clinical trials and plans to start one additional trial in 2020. We pay for all the trials and supplies abexinostat free of charge. Janssen supplies Imbruvica used in the combination trial free of charge. For all potentially pivotal trials, we retain qualified Contract Research Organizations such as PPC to manage the operational details, including managing and interacting with hospitals and physicians. For non-pivotal trials, we manage the operational details and works directly with hospitals such as University of California at San Francisco and Memorial Sloan Kettering Cancer Center and the physicians.
+ 
+Abexinostat, in combination with Pazopanib, in Renal Cell Carcinoma (XYN-602)
+ 
+We are also investigating the use of abexinostat, in combination with pazopanib, to treat patients with RCC, which is the most common type of kidney cancer in adults. While pazopanib and other VEGF-targeting agents have shown significant clinical activity in multiple tumor types, resistance to pazopanib almost universally results. A team of investigators at UCSF conducted a Phase 1b open-label trial of abexinostat in combination with pazopanib in heavily pre-treated patients with RCC. In the trial, this combination therapy resulted in 10.5 months of median DOR, or duration of response, in patients who experienced pazopanib-refractory RCC.
+ 
+Pazopanib and Treatment Resistance. Pazopanib is a molecular targeted therapy for treating RCC, one of the standards of care currently available. Pazopanib belongs to a class of drugs known as VEGF tyrosine kinase inhibitor. It works by decreasing the blood supply to the cancer tumor to slow tumor growth. However, it is found that proangiogenic, VEGF-driven tumors adapt to the presence of angiogenesis inhibitors, thus functionally evading the therapeutic effect and leading to treatment resistance. Resistance to pazopanib after treatment is common.
+ 
+HDAC Inhibitors’ Synergistic Effect and Potential to Reverse Treatment Resistance. It has been found that combining pazopanib and HDAC inhibitors could have synergistic effect in inhibiting activities of a variety of VEGF-driven tumors. The addition of HDAC inhibitors to pazopanib-resistant cancer cell lines in cell biology studies and mouse models also showed effect in reversing resistance. One of the implicated mechanisms is that the overexpression is driven by hypoxia and mediated by HDAC. HIF-1α, a potent proangiogenic factor, could directly regulate VEGF expression and perform post-translational stabilization function. As a result, HDAC inhibition significantly downregulates HIF-1α protein expression in hypoxic conditions.
+ 
+11
+
+ 
+
+Rationale for Combining Abexinostat with Pazopanib. It has been hypothesized that HDAC inhibitors could enhance pazopanib’s activities and reversing pazopanib’s treatment resistance. In addition, abexinostat is a pan-HDAC inhibitor with favorable pharmacokinetic profile and no drug-drug interactions are expected when abexinostat is combined with pazopanib because abexinostat and pazopanib have different metabolic pathways (pazopanib predominantly via CYP3A4 and abexinostat via glucuronidation). A combination of the general observation in HDAC inhibitors and certain properties demonstrated by abexinostat led to the initiation of a Phase 1b trial of abexinostat plus pazopanib in patients with advanced solid tumor malignancies, with an expansion cohort in RCC.
+ 
+Preliminary Results of Combining Abexinostat and Pazopanib in RCC. The initial trial conducted by UCSF was designed as a Phase 1b, open-label, dose-escalation/expansion trial of abexinostat in combination with pazopanib. 51 patients with RCC were enrolled, including 30 with one or more lines of prior VEGF-targeting therapy. A key objective was to test the hypothesis that epigenetic modification with HDAC inhibition may provide the means to recapture response and reverse resistance to pazopanib in RCC and other solid tumor malignancies.
+ 
+In this study, patient treatment responses and disease progressions were evaluated in accordance with the Response Evaluation Criteria in Solid Tumors, Version 1.1 (the “RECIST”). Under the RECIST guideline:
+ 
+
+● | Complete Response, or CR, is defined as disappearance of all target lesions and any pathological lymph nodes (whether target or non-target) must have reduction in short axis to <10 mm. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Partial Response, or PR, means at least a 30% decrease in the sum of diameters of target lesions, taking as reference the baseline sum diameters. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Objective Response Rate, or ORR, is the proportion of patients with confirmed CR or confirmed PR. 
+--+------------------------------------------------------------------------------------------------------
+
+
+● | Progressive Disease (PD), or disease progression, means at least a 20% increase in the sum of diameters of target lesions, taking as reference the smallest sum on study (this includes the baseline sum if that is the smallest on study) as well as an absolute increase of at least 5 mm or the appearance of one or more new lesions. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Stable Disease (SD), or disease stabilization, means neither sufficient shrinkage to qualify for PR nor sufficient increase to qualify for disease progression. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Objective Response means confirmed CR or confirmed PR. 
+--+-----------------------------------------------------------
+
+
+● | Progression Free Survival, or PFS, is defined as the time from first study drug intake date to the earlier of the first date of radiological PD or death date (due to any reason)). 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Overall Survival (OS) is defined as the time from the date of first study drug intake to the date of death (due to any reason)). 
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Duration of Response (DOR) is defined as the time from the first date of objective response to first date of radiological PD. 
+--+----------------------------------------------------------------------------------------------------------------------------------
+
+ 
+12
+
+ 
+
+Of the 51 patients investigated, 43 had measurable diseases and were evaluable for response, five patients withdrew their consent for reasons other than progression before first tumor assessment, and three patients were removed as a result of dose-limiting toxicity in cycle one. Nine patients (21%) achieved objective tumor response: RCC (n = 6), thyroid cancer (n = 2), and mesothelioma (n = 1). Among the 10 patients who had experienced disease progression on prior pazopanib monotherapy, seven (70%) had tumor regressions while participating in the trial. Of 28 patients who were evaluable for response with prior progression on one or more VEGF-targeting therapies, 19 (68%) experienced tumor regressions on combination study treatment, including six patients (21%) with an objective tumor response. Patients had a median DOR of 9.1 months (range, 1.2 to ≥ 44 months) and clinical benefit rate, which is defined as the percentage of patients showed complete response and partial response plus stable disease over a six-month period over all patients was observed in 16 of 43 patients, or 37%. Overall, eight patients experienced disease stabilization or tumor response for >12 months, including five patients who remain on study treatment. The majority of patients with a response greater than six months had experienced disease progression on prior VEGF-targeting therapy. The figure below summarizes the ORR, clinical benefit rate, tumor regression rate (which is calculated as the percentage of patients whose tumors shrunk on treatments over all patients), and median DOR.
+ 
+Figure 5 – Preliminary Efficacy Data of Abexinostat-Pazopanib Combination
+  against VEGFi-Refractory Solid Tumors
+ 
+
+
+The preliminary results from the trial conducted by the UCSF investigators demonstrated a 27% ORR in the heavily pre-treated patients with RCC, compared to the 10% ORR reported for pazopanib (as a monotherapy), in treating treatment naive RCC patients (i.e. patients who have never received RCC treatment before). Note that this comparison is not based on a head-to-head trial, therefore the data derived from these separate clinical studies may not be comparable and would not form a basis for claiming superiority of abexinostat in marketing.
+ 
+Overall, 524 TEAEs were reported in 49 patients (96.1%). Fatigue was the most common AE reported (76.5% patients), followed by diarrhea (49% patients), anorexia (49% patients), and nausea (45.1% patients).
+ 
+Grade 3 and above AEs were fatigue (16%), thrombocytopenia (16%), neutropenia (10%), anemia (10%), diarrhea (10%), and elevated AST/ALT (4%) and hypertension (2%). There were no episodes of febrile neutropenia or clinically significant bleeding. There were no treatment-related Grade 5 AEs. There were five deaths, all of which were attributed to disease progression.
+ 
+13
+
+ 
+
+Long-term Follow-Up Data of the Phase 1b Trial. On June 1, 2019, we, along with University of California, San Francisco reported long-term follow-up data of the Phase 1b trial of abexinostat in combination with pazopanib. Five treatment-refractory patients achieved durable PRs lasting for > 2 years duration, and one previously pazopanib-refractory patient with RCC remains on treatment with ongoing PR for > 6 years. Higher HDAC2 expression was associated with prolonged progression-free survival (median PFS 5.9 vs. 3.5 months, log-rank p = 0.02). Induction of histone acetylation on abexinostat lead-in treatment was associated with subsequent time to progression (p= 0.002). On-treatment plasma VEGF levels were inversely correlated with PBMC histone acetylation (p = 0.02). The long-term follow-up data indicate that markedly durable responses with abexinostat+pazopanib are achievable, including in patients with pazopanib- and VEGF-refractory RCC and other solid tumor malignancies. Host factors including HDAC expression and acetylation status may identify those most likely to benefit.
+ 
+Possible Mechanistic Explanation. Mechanistically speaking, the putative mechanism of action via epigenetically mediated downregulation of HIF-1α and VEGF expression is supported by pharmacodynamic analyses. Downregulation of plasma VEGF levels—a direct transcriptional target of HIF-1α—was significantly correlated with induction of peripheral blood mononuclear cells histone acetylation, a validated biomarker of HDAC inhibition. HDAC2 is the central HDAC enzyme that directly regulates VEGF expression via binding to its promoter; inhibition of HDAC2 suppresses VEGF expression and angiogenesis. The differential mechanism of cellular localization and function may explain why expression of HDAC2, and not HDAC6, was strongly associated with durable treatment responses in this Phase 1b trial.
+ 
+Current Development Activities and Plan. In July 2018, we began enrolling patients in a Phase 3 trial to test abexinostat in combination with pazopanib as the first-line or second-line treatments of RCC, head-to-head against pazopanib as a monotherapy. Patients will receive pazopanib orally daily on Days 1 to 28 of each treatment cycle and will receive 80 mg of abexinostat or placebo by mouth twice daily (BID), 4 hours apart, on Days 1 to 4, 8 to 11, and 15 to 18 of every 28-day cycle. This Phase 3 trial, initiated on September 5, 2018, is designed as a global trial and will be conducted in the U.S., six European countries, China and South Korea. This trial will enroll approximately 390 patients globally with locally advanced or metastatic RCC. The trial objectives include measurements of progression free survival (“PFS”), as the primary endpoint, ORR, DOR and OS, and incidence and severity of AEs and other safety parameters. The first patient was dosed on October 10, 2018 and we expect to complete this trial by the second half of 2023. Based on discussion of trial design with the FDA prior to study initiation in an end-of-Phase 2/Pre-Phase 3 Meeting held on March 16, 2018, we believe the trial has potential to support approval in the U.S. In addition, we have been granted the Fast Track designation for RCC by the US FDA in March 2019. In 2019, with limited funding, Xynomic adjusted this trial’s execution to (1) give China higher priority due to faster patient recruitment, and (2) reduce patient recruitment rate in other regions. China portion of this trial is expected to be completed by the fourth quarter of 2021, with the possibility of filing an NDA in China in first quarter of 2022 while the trial is still ongoing in other regions. As of the date of this report, this trial is being managed by Xynomic with support from PPC, a Contract Research Organization.
+   
+14
+
+ 
+
+The following is a summary of major potentially pivotal trials, including abexinostat and its combination with pazopanib:
+ 
+Figure 6 –Major Potentially Pivotal Trials
+ 
+
+
+Abexinostat as a monotherapy in FL (XYN-601) 
+ 
+FL is the second most common subtype of non-Hodgkin’s lymphoma. HDAC plays important roles in tumor initiation, promotion, and progression. It has been shown that HDACs are significantly over-expressed in the tumor cells of FL. As an HDAC inhibitor, we believe that abexinostat has the ability to remodel the chromatin, thus enabling certain silenced genes (tumor suppressor genes, such as p53, p21, Bak) to become re-activated while simultaneously silencing certain oncogenes (such as HER2, Raf-1, VEGF, Telomerase). In this process, normal cells are generally not being affected. For this reason, we are testing whether abexinostat could be a suitable therapeutic agent against FL by inhibiting the over-expression of HDACs in the tumor cells of FL.
+ 
+In the PCYC-0403 Phase 2 study, a total of 30 patients were enrolled, 16 of which are patients with FL. The primary objective of this Phase 2 trial was ORR. Data from this trial involving showed durable complete and partial responses. Overall, ORR was 64% (9/14) for the 14 evaluable FL patients (or 56% (9/16) for intent-to-treat FL patients). These responses appear to be durable, with a 20.5 months median PFS. PFS, or progression free survival, means the time period from first study drug intake to tumor progression or death from any cause, as measured under the applicable response criteria, in this case, the International Working Group Revised Response Criteria for Malignant Lymphoma. Abexinostat was given orally twice daily at 45mg/m2 on a 4-week cycle for 7 days/week every other week, i.e. week-on-week-off.
+ 
+15
+
+ 
+
+Figure 7 – Significantly Improved Progression-Free Survival
+ 
+
+The PCYC-1401 Phase 2 trial used 2-weeks-on-1-week-off dosing. In this study, 16 patients with FL showed an ORR of 56%, measured under the same response criteria as used in the PCYC-0403 Phase 2 trial. The overall observed safety profile of all patients in the PCYC 1401 Phase 2 trial (2-weeks-on-1-week-off dosing) was not as good as the week-on-week-off trial in PCYC-0403 Phase 2 study. See “Abexinostat— Key Findings of Prior Trials on Abexinostat— Preliminary Safety Data.”
+ 
+Based on the clinical results from the two independent studies described above, in July 2018, we started enrolling patients in a Phase 2 trial to test abexinostat as a fourth-line monotherapy of FL. Designed as a single arm trial, this trial will enroll approximately 120 patients in the U.S. and Europe with R/R FL who have undergone at least three lines of therapy. Patients will receive 80 mg (4 × 20 mg tablets) abexinostat twice daily, orally, 4 hours apart for 7 days in a “one week on, one week off” schedule (on Days 1 to 7 and Days 15 to 21 of each 28-day cycle). Trial objectives include measurement of ORR, as the primary endpoint, DOR, PFS, OS, and incidence and severity of AEs and other safety parameters. Based on discussion of trial design with the FDA in a pre-IND meeting held on April 18, 2018, we believe the trial has potential to support accelerated approval in the U.S. This Phase 2 trial is being managed by us and is expected to be completed by 2024.
+ 
+Abexinostat, in combination with Imbruvica®, in R/R DLBCL or R/R MCL (XYN-603)
+ 
+Mantle Cell Lymphoma (MCL). MCL has an annual incidence of approximately 6,500 in G7 countries, according to DR/Decision Resources, LLC. Ibrutinib has been approved by the FDA for relapsed MCL and has response rates of 60-70% and median duration of response of 18 months. Abexinostat as a mono therapy has been shown to have response rate of 15.4% (7.7% complete response and 7.7% partial response) in r/r MCL patients. Researchers at MSKCC are testing whether abexinostat/Imbruvica combo could potentially improve response rates and duration of responses in r/r MCL patients, subject to the assessment upon the completion of the trial.
+ 
+Diffuse Large B-Cell Lymphoma (DLBCL). DLBCL is the most common aggressive non-Hodgkin’s lymphoma (NHL) subtype according to the Leukemia & Lymphoma Society (LLS). Researchers at MSKCC have shown preclinical data demonstrating that dual targeting of Bruton’s tyrosine kinase (BTK) in the BCR pathway with ibrutinib and inhibition of MyD88-driven NF-kB activation with a HDAC inhibitor lead to synergistic anti-lymphoma activity in MyD88 mutated, ABC-subtype DLBCL both in vitro and in vivo.
+ 
+16
+
+ 
+
+Rationale for Combining Abexinostat with Imbruvica®.Imbruvica® is an innovative BTK inhibitor. When Imbruvica® is used in combination with abexinostat, pre-clinical data have demonstrated that dual targeting of BTK in the BCR pathway with Imbruvica® and inhibition of MyD88-driven NF-kB activation with a HDAC inhibitor results in synergistic anti-lymphoma activity in MyD88 mutated, ABC-subtype DLBCL, both in vitro and in vivo.
+ 
+It is suggested that mechanistically, when Imbruvica® inhibits BTK in the BCR pathway, it leads to decreased NF-kB activation and, when the HDAC inhibitor inhibits STAT3, it leads to down-regulation of MyD88 expression, thereby decreasing TLR signaling and NF-kB activation, as illustrated in Figure 8 below.
+ 
+Figure 8 – Illustration of Mechanism of Action of the BTKi-HDACi Combo
+ 
+
+
+Source: Zhijian Liu et al., J Immunol 184: 244-54, 2010
+ 
+Current Development Activities and Plan.
+ 
+This trial is ongoing and is in partnership with Janssen and Memorial Sloan Kettering Cancer Center (“MSKCC”). This trial will enroll approximately 40 patients to assess the safety and efficacy of the combination in patients with r/r MCL or r/r DLBCL. The primary purposes of this trial are to determine dose limiting toxicities associated with this combination therapy, evaluate adverse and serious adverse drug reactions associated with this combination therapy, and obtain preliminary efficacy measures including ORR, DOR, PFS, and OS. This trial will also explore the biologic predictors of response and resistance to dual BCR and HDAC inhibition. Janssen is providing Imbruvica® as part of the collaboration, with us providing abexinostat and financial support for the trial. The trial is being conducted by investigators at MSKCC.
+ 
+17
+
+ 
+
+Abexinostat, in combination with Keytruda®, in Multiple Solid Tumors (XYN-604)
+ 
+We are also investigating abexinostat in combination with Keytruda®, a humanized antibody used in cancer immunotherapy, for the treatment of multiple solid tumors. Keytruda® is an IgG4 isotype antibody that blocks a protective mechanism of cancer cells, and allows the immune system to destroy those cancer cells.
+ 
+Immunotherapy. Immunotherapy is a type of cancer treatment that boosts the body’s immune system function to fight cancer. It uses substances made by the body or in a laboratory to improve or restore immune system function. Immunotherapy may work by stopping or slowing the growth of cancer cells or stopping cancer from spreading to other parts of the body or helping the immune system work better at destroying cancer cells. Normally, the immune system is capable of recognizing and eliminating tumor cells; tumors, however, are sometimes able to evade the immune response through alteration of regulatory checkpoint pathways. One of these pathways is driven by programmed cell death protein 1, or PD-1, a receptor that is expressed on immune T-cells. The immune system responds to the cancer by blocking these pathways with specific antibodies called immune CPIs. Once the immune system is able to find and respond to the cancer, it can stop or slow cancer growth.
+ 
+Rationale for Combining Abexinostat with Keytruda®. Keytruda® is a CPI, which blocks the PD-1 receptor signaling axis in patients with advanced solid tumors. Keytruda®, while effective, has significant limitations including low ORR (~20%) and drug resistance issues. Epigenetic modifying agents such as HDAC inhibitors have been reported to have the potential to counteract some of the mechanisms of resistance to CPI treatment. Among various changes observed in the microenvironment include up-regulation of PD-L1 expression, down-regulation of forehead box P3 regulatory T cells, induction of effector T cells expressing interferon-gamma, among other mechanisms.
+ 
+Current Development Activities and Plan. On July 25, 2018, we initiated a Phase 1b clinical trial of abexinostat, in combination with Keytruda®, in patients with multiple solid tumors. In this Phase 1b trial, dose escalation/expansion of abexinostat in combination with Keytruda® will be explored in patients with prior progression on Keytruda® or other CPI treatments. In dose escalation, two dose levels of abexinostat will be evaluated in combination with Keytruda®. Following determination of the maximally tolerated and recommended Phase 2 dose of abexinostat, dose expansion will proceed in two parallel cohorts (n = 15 patients each): (A) patients with primary resistance to prior anti-PD-1/PD-L1 treatment, defined as disease progression within six months of starting prior CPI treatment without an objective response, and (B) patients with acquired resistance, defined as treatment duration on prior CPI treatment for greater than six months with evidence of clinical benefit (tumor regression or disease stabilization) with subsequent disease progression. Standardized review of scans obtained before and during prior treatment with CPI will be used to assign cohort. Enrollment in the two patient cohorts will proceed in parallel. We plan to enroll approximately 42 patients in the U.S. On August 30, 2019, we reported encouraging interim data. A total of 7 patients with prior progression on anti-PD1/PD-L1 treatment were enrolled in the dose escalation portion of the study. Tumor types included melanoma (N = 3), urothelial carcinoma (N = 2), neuroendocrine carcinoma (N = 1), and esophageal squamous cell carcinoma (N = 1). The median number of lines of prior systemic therapy was 3. Median age of patient population was 61. In the two dose levels tested (abexinostat 30 mg/m2 and 45 mg/m2 on days 1-4, 8-11 in combination with pembrolizumab 200 mg IV on day 1), there were no dose-limiting toxicities. The maximally tolerated dose was not reached, and the recommended Phase 2 dose is abexinostat 45 mg/m2 BID on days 1-4, 8-11 of a 21 day cycle in conjunction with pembrolizumab 200 mg IV on day 1. There were no treatment-related grade ≥ 3 or serious adverse events. The most common Grade 1-2 adverse events were diarrhea (N = 3), rash (n = 2), thrombocytopenia (n = 1), and dysgeusia (n = 1). 2 out of 7 patients (29%) experienced stable disease for > 6 months. 1 of these 2 patients has pembrolizumab-refractory urothelial carcinoma and remains on treatment for 6+ months with ongoing 20% reduction in tumor size from baseline.
+ 
+18
+
+ 
+
+Abexinostat as a Monotherapy against R/R DLBCL in China (XYN-606)
+ 
+We are conducting a clinical trial using abexinostat as a monotherapy against R/R DLBCL in China. A Phase 2 trial conducted by Dr. Vincent Ribrag and others showed a 31% ORR when abexinostat was used as a single agent against DLBCL. Based on these data and the fact that DLBCL has a much higher prevalence in China than in the West, we decided to test abexinostat as a single agent against DLBCL in China. We plan to enroll approximately 144 patients who have been through two or more lines of treatment. This trial will have a single arm and will use ORR as the primary end point. Based on written communication we had with the CDE in September 2018, we believe that the data from this planned Phase 2 trial has potential to support approval in China. On July 24, 2019 we received approval from NMPA to start this pivotal clinical trial in China. This trial is ongoing. In addition to and before the planned data analysis upon completion of this trial, upon collecting data from the first 85 patients (expected to be completed by third quarter 2021), we will conduct an interim data analysis. Should the interim data demonstrate superior therapeutic effect over pre-determined benchmark, such analysis could potentially lead to an earlier submission of a New Drug Application to the CDE.
+ 
+Figure 9 – Abexinostat as a monotherapy against R/R DLBCL in China
+ 
+
+
+Abexinostat as a Monotherapy against R/R FL in China (XYN-605)
+ 
+We are conducting a clinical trial using abexinostat as a monotherapy against R/R FL in China. We test abexinostat in China using a slightly different approach since very few FL patients in China have been through three or more lines of treatment. Instead of testing patients who have been through three or more lines of treatment, we are conducting a trial on patients in China who have been through two or more lines of treatment. This trial will enroll approximately 81 patients and patient enrollment is expected to be completed by first quarter 2023. Based on written communication we had with the CDE in September 2018, we believe that the data from this Phase 2 trial has potential to support approval in China. On July 24, 2019 we received approval from NMPA to start this pivotal clinical trial in China. In addition to and before the planned data analysis upon completion of this trial, upon collecting data from the first 37 patients (expected to be completed by third quarter 2021), we will conduct an interim data analysis. Should the interim data demonstrate superior therapeutic effect over pre-determined benchmark, such analysis could potentially lead to an earlier submission of a New Drug Application to the CDE.
+ 
+19
+
+ 
+
+Figure 10 – Abexinostat as a monotherapy against R/R FL in China
+ 
+
+
+Planned Clinical Trials of Abexinostat
+ 
+In addition to the six ongoing clinical trials discussed above, we intend to initiate the following two clinical trials in 2020.
+ 
+Abexinostat, in combination with pazopanib, in patients with thyroid cancer, sarcoma, and ovarian cancer. This Phase 1b clinical trial is a continuation of the previous Phase 1b trial of abexinostat/pazopanib in patients with renal cell carcinoma. This continuation will further explore the epigenetic synergy of abexinostat, a HDAC inhibitor, and pazopanib, a VEGF inhibitor, in treating thyroid cancer, sarcoma, and ovarian cancer. This trial will enroll approximately 50 patients in the U.S.
+ 
+Abexinostat, in combination with Ibrance® (palbociclib) and fulvestrant, in patients with antiestrogen refractory ER+, HER2- breast cancer and gynecological metastatic tumors. Studies of genes and pathways affected by HDAC inhibitor treatment suggest a deregulation of CDK inhibitors, leading to the hypothesis that combinational therapeutic treatment of HDAC inhibitors with inhibitors of specific CDK such as Ibrance® may represent a new therapeutic approach to the treatment of breast cancer and gynecological tumors. This Phase 1 trial, estimated to be completed in approximately 3 years, will enroll approximately 50 patients in the U.S. to explore potential clinical benefits for breast cancer and gynecological tumors of synergistic relationships between HDAC and CDK inhibitors.
+ 
+XP-105 and Development Strategies for XP-105
+ 
+Background of mTOR Inhibitors
+ 
+mTOR, or mammalian target of rapamycin, is a serine/threonine-specific protein kinase. mTOR acts as a “master regulator” of human protein synthesis by integrating a number of signaling pathways. It helps normal cells sense nutrients and control cell proliferation and metabolism. However, in many forms of cancer, mTOR also reprograms cells to aberrantly divide, invade and metastasize.
+ 
+mTOR regulates cellular metabolism, growth, and proliferation by forming and signaling through two protein complexes, mTORC1 and mTORC2. The following figure illustrates different mTOR inhibitors’ mechanism of action.
+ 
+20
+
+ 
+
+Figure 11 – mTOR Inhibitors’ Mechanism of Action
+ 
+
+Source: Boehringer Ingelheim
+ 
+Mechanism of action of mTOR inhibitors. Abbreviations: IRS-1, insulin receptor substrate 1; PI3K, phosphatidylinositol-3-kinase; AKT, protein kinase B; mTOR, mammalian target of rapamycin; PTEN, phosphatase and tensin homologue; S6K1, S6 kinase 1; 4E-BP1, eIF4E-binding protein 1.
+ 
+The most established, first generation mTOR inhibitors are so-called “rapalogs” (rapamycin and its analogs), including temsirolimus (Torisel®, Pfizer) and everolimus (Afinitor®, Novartis), which have shown tumor responses and approved as treatments against certain tumor types. However, rapalogs only showed modest clinical activity against various tumors, which has been attributed to their partial inhibition of mTORC1 signaling, the lack of mTORC2 inhibition and/or rapid re-activation of pathway signaling (pAKT) via release of negative feedback.
+ 
+The second generation of mTOR inhibitors inhibit both mTORC1 and PI3K. The PI3K and mTORC1 dual inhibitors inhibit both upstream and downstream of Protein kinase B (PKB) (also known as AKT), thus avoiding the negative feedback loops that occur with rapalogs. This class of inhibitors displays generally more potent apoptotic activity than rapalogs, but safety and toxicity might be a potential drawback as off-target effects might occur.
+ 
+The third generation mTOR inhibitors, such as XP-105 (BI 860585), are those mTOR inhibitors that block the activities of both mTOR complexes (i.e. mTORC1 and mTORC2). In preclinical studies, these inhibitors displayed higher anti-proliferative and pro-apoptotic activity as well as more complete inhibition of mTORC1 outputs compared with rapalogs. The toxicity and safety is expected to be better than those of the 2nd generation of mTOR inhibitors. Compounds with dual inhibiting characteristics, such as XP-105, sapanisertib (codenamed INK128) and AZD-2014 have entered clinical trials as potential anti-tumor therapies.
+ 
+21
+
+ 
+
+Key Findings of Prior Trial
+ 
+Phase 1 Clinical Trial of XP-105. In September 2013, BII initiated a Phase 1 trial on XP-105 (the “NCT01938846 Trial”), aiming to determine the maximum tolerated dose (“MTD”) of XP-105 as a single agent or combined with exemestane or paclitaxel in patients with advanced solid tumors. This study had three treatment arms, all in 28-day cycles. In Arm A, XP-105 was tested as a single-agent on 41 patients at dosing levels from 5 to 300 mg/day. In Arm B, XP-105 in combination with fixed-dose exemestane at 25 mg/day was tested on 25 patients at dosing levels from 40 to 220 mg/day. In Arm C, XP-105 in combination with paclitaxel at 60 or 80 mg/m2/week was tested on 24 patients at dosing levels from 80 to 160 mg/day. MTD was defined as the highest dose at which less than one out of six patients experience a dose-limiting toxicity (DLT) during cycle 1. Platelet-rich plasma was used as a surrogate tissue for target engagement; lysates were analyzed via ELISA. Treatment was continued unless progressive disease or unacceptable toxicity. The disease control rate, including complete response, partial response plus stable disease, in Phase 1 are 58% in combination with paclitaxel, 28% in combination with exemestane, and 20% as monotherapy.
+ 
+Preliminary Safety Data. Preliminary safety data from the NCT01938846 Trial (measured in Grade and AE occurrence percentage among the trial subjects) for each of the three arms is listed in the figures below.
+ 
+Figure 12 – Arm A XP-105 as a Single Agent
+ Treatment Related AEs Summary (n = 41 patients)*
+ 
+
+
+* No treatment related Grade 5 AE was reported in Arm A
+ 
+22
+
+ 
+
+Figure 13 – Arm B XP-105 in Combination with Exemestane 
+ Treatment Related AEs Summary (n = 25 patients)*
+ 
+
+
+* No treatment related Grade 4 or 5 AEs were reported in Arm B.
+ 
+23
+
+ 
+
+Figure 14 – Arm C XP-105 in Combination with Paclitaxel 
+ Treatment Related AEs Summary (n = 24 patients)
+ 
+
+
+In Arm A, 5 patients (12.2%) had an AE leading to death, with none of the events considered related to the study treatment. 22 patients (53.7%) were reported with an SAE, the most frequent of which comprised malignant neoplasm progression (4 patients, 9.8%), central nervous system metastases (2 patients, 4.9%) and general physical health deterioration (2 patients, 4.9%). 13 patients (31.7%) were reported with AEs leading to treatment discontinuation. In Arm B, 4 patients (16.0%) had an AE leading to death, with none considered related to the study treatment. 10 patients (40.0%) were reported with an SAE, the most frequent of which comprised malignant neoplasm progression (2 patients, 8.0%). 9 patients (36.0%) were reported with AEs leading to treatment discontinuation. In Arm C, no patient had an AE leading to death. 13 patients (54.2%) were reported with an SAE, the most frequent of which comprised decreased appetite, dehydration and pulmonary embolism (each 2 patients, 8.3%). 13 patients (54.2%) were reported with AEs leading to treatment discontinuation.
+ 
+In this Phase 1 study, MTD was determined to be 220 mg/day for XP-105 monotherapy. At MTD, AEs were mostly mild or moderate and reversible, and consistent with the mode of action of the compound. MTD was also determined for the combination with exemestane or with paclitaxel. Preliminary PK analysis showed a dose proportional PK profile up to 220 mg, with no food effect or drug interaction with exemestane or paclitaxel.
+ 
+Preliminary Efficacy Data. In the NCT01938846 Trial, preliminary efficacy studies were conducted in varied tumor types with XP-105 as the single agent and in combination with other therapies in patients heavily pre-treated or progressing on rapalogs, using the Response Evaluation Criteria In Solid Tumors criteria, or RECIST, version 1.1. Complete or partial responses, as defined under the RECIST, were observed with the combinations in ER+ breast cancer (including a patient who progressed on mTORC1 inhibitor with IGF1-R mAb + exemestane), uterine carcinoma, and bladder cancer. In Arm A (X-105 as a single agent), disease control rate (i.e. the percentage of patients showed objective (complete or partial) response or disease stabilization) was 19.5% (no objective response, 8 stable diseases). In Arm B (X-105 combined with exemestane), disease control rate was 28.0% (4 partial responses, or 16.0%; 3 stable diseases, or 12.0%). In patients treated with XP-105 and paclitaxel (Arm C), objective response was reported for 5 patients (20.8%; 1 complete response and 4 partial responses); stable disease was reported for 9 patients (37.5%). In Arm C the median duration of objective response was 5.29 months (25th percentile 3.65 months, 75th percentile 9.30 months) and the median duration of disease control (objective response plus stable disease) was 7.46 months (25th percentile 7.10 months, 75th percentile 11.14 months).
+ 
+24
+
+ 
+
+Preliminary biomarker analysis (for target engagement) in platelet-rich plasma collected in the NCT01938846 Trial provided evidence that tolerable doses (i.e. 120-220 mg) of XP-105 may lead to inhibition of both mTORC1 and mTORC2 signaling. In the high dose group (120-220 mg) in Arm A, reduced pAKT/AKT and p4E-BP1/4E-BP1 ratios (up to ~50%) within 3 hours after dosing were observed and such reduced ratios lasted up to 24 hours; for the low dose group (5-80 mg), no strong trend for inhibition of pAKT and p4E-BP1 was observed. Patients in Arm B were given oral XP-105 combined with exemestane. Patients in Arm C were given oral XP-105 combined with paclitaxel. In both Arm B and C, a trend consistent with what was observed in Arm A for pAKT/AKT was observed in all analyzed dose groups; no similar trend for inhibition of p4E-BP1/4E-BP1 was observed.
+ 
+XP-105 Development Strategies
+ 
+XP-105 in Combination with Chemotherapy. Preclinical data generated by BII in tumor xenograft models showed that the combination of XP-105 with standard-of-care chemotherapeutic agents such as pegylated liposomal doxorubicin, paclitaxel, cisplatin, etoposide, topotecan and docetaxel could enhance tumor growth inhibition and induction of tumor regressions. In ovarian cancer, pre-clinical studies have shown that XP-105, together with pegylated liposomal doxorubicin, resulted in tumor regressions and prolongs growth control. Similarly, in small cell lung cancer, pre-clinical studies have shown that XP-105, combined with cisplatin/etoposide (first-line standard-of-care) or paclitaxel (second-line standard-of-care), resulted in tumor regressions.
+ 
+In Arm C of the NCT01938846 Trial where patients were treated with XP-105 and paclitaxel, a chemotherapy agent, objective response was reported for 5 patients (20.8%; 1 complete response and 4 partial responses); disease control was reported for 14 patients (58.3%). The median duration of objective response was 5.29 months (25th percentile 3.65 months, 75th percentile 9.30 months) and the median duration of disease control was 7.46 months (25th percentile 7.10 months, 75th percentile 11.14 months).
+ 
+Based on the pre-clinical studies and clinical trial data generated by BII, we plan to design and conduct a Phase 2 clinical trial of XP-105 in combination with paclitaxel to test the safety and efficacy of such combination in metastatic breast cancer patients. This trial will apply a dosage regimen based on the data from the NCT01938846 Trial.
+ 
+XP-105 in Combination with Targeted Agents. Pre-clinical studies conducted by BII demonstrated the combination potential of XP-105 with novel agents targeting endocrine signaling, cell cycle, integrin signaling, growth factor receptor signaling and angiogenesis. Certain combinations have shown enhanced effect in vitro and/or tumor growth inhibition and induction of tumor regressions in vivo. In a colorectal cancer model, pre-clinical studies have shown that XP-105, combined with XP-102 (formerly known as BI 882370), resulted in enhanced tumor growth control. In an HR+ breast cancer model, pre-clinical studies have shown that XP-105 together with letrozole (Aromatase inhibitor) or palbociclib (CDK4/6 inhibitor) resulted in tumor regressions and prolonged growth control. Similar pre-clinical studies have shown that XP-105, combined with BI 853520 (FAK inhibitor), resulted in enhanced tumor growth control in an ovarian cancer model.
+ 
+Based on the pre-clinical data generated by BII, we plan to design and conduct a Phase 1b clinical trial to assess the efficacy, safety, and tolerability of combination of XP-105/ XP-102 (formerly known as BI 882370) in advanced cancer patients harboring BRAF V600E mutation. This study will enroll patients with metastatic colorectal cancer with BRAF V600E mutation. If the results demonstrate that such combination is feasible, we will further test the efficacy, safety, and tolerability of triplet regimen of XP-105/XP-102/cetuximab in this patient population.
+ 
+25
+
+ 
+
+We will actively seek additional therapeutic opportunities for XP-105 in areas with unmet medical needs.
+ 
+As of the date of this Annual Report, we have not yet initiated any clinical studies of XP-105.
+ 
+Pre-Clinical Drug Candidates
+ 
+Our development pipeline also includes pre-clinical drug candidates: XP-102 (also known as BI 882370), XP-103 and XP-104.
+ 
+XP-102 (BI 882370)
+ 
+XP-102 is a second generation potent and selective pan-RAF inhibitor that binds to the DFG-out (inactive) conformation of the BRAF kinase. It is an oral small molecule drug candidate that we are developing for the potential treatment of colorectal cancer, melanoma, non-small cell lung cancer, hairy cell leukemia, and potentially other cancer types. We obtained patent ownership and worldwide exclusive licenses to XP-102 for all human and non-human diagnostic, prophylactic, and therapeutic uses, including therapeutic uses targeting hematological and solid tumors, from Boehringer Ingelheim.
+ 
+Background of BRAF Inhibitor. Hyperactivation of the MAPK signaling pathway due to increased transducer expression (based on focal gene amplification) or higher intrinsic activity (due to gain-of-function point mutations, deletions, or chromosomal rearrangements) contributes to the pathogenesis of a wide range of solid tumors as well as hematologic malignancies. Nevertheless, marketed first generation BRAF inhibitors such as vemurafenib and dabrafenib often lead to progression of skin lesions. Furthermore, majority of patients treated with combination therapy of RAF-MEK inhibitors still develop secondary resistance over the course of a few months of treatment.
+ 
+In contrast to dabrafenib, a marketed first generation BRAF inhibitor, X-ray crystallography has shown that XP-102 binds to the ATP binding site of the kinase positioned in the “DFG-out” conformation, enabling an aromatic T-stacking interaction that may contribute to the high cellular activity of XP-102. In addition, XP-102 was tested in multiple mouse models of BRAF-mutant colorectal cancer (“CRC”) and melanomas and at 25 mg/kg twice daily showed superior anti-tumor activity compared with dabrafenib, trametinib, or vemurafenib, a marketed BRAF inhibitor in both the Colo-205V600V/E model and HT-29V600V/E model. In a drug resistance model, XP-102 in combination with trametinib resulted in more pronounced regressions, and resistance was not observed during five weeks of second-line therapy. In terms of preliminary safety data, a pilot study in rats (up to 60 mg/kg daily for two weeks) did not uncover significant toxicity in terms of clinical chemistry, hematology, pathology, and toxicogenomics. These pre-clinical data indicate the potential feasibility of developing novel compounds that provide an improved therapeutic window compared with first-generation BRAF inhibitors, resulting in more pronounced and long-lasting pathway suppression and thus improved anti-tumor activity.
+ 
+Recent Pre-Investigaional New Drug (“IND”) Meeting with U.S. FDA for XP-102. On June 12, 2019, we held a pre-IND meeting with the U.S. FDA for the XP-102. The FDA addressed our questions related to chemistry, manufacturing, and controls (“CMC”), nonclinical and clinical protocol, and provided valuable advice on overall clinical development plan to advance XP-102. The FDA also provided advice on regulatory strategies that will support the XP-102 clinical development. We are on track to file this IND application in the first half of 2020 and expect to initiate Phase I clinical trial of XP-102 against colorectal cancer and lung cancer in the first quarter of 2021.
+ 
+XP-103
+ 
+Internally discovered by us, XP-103 is a dual inhibitor of tropomyosin receptor kinases, or TRK, and Fra-1 enzymes currently in lead optimization stage. The global patent of XP-103 has been filed in December 2018.
+ 
+26
+
+ 
+
+XP-104
+ 
+Internally discovered by us, XP-104 is a rearranged during transcription, or RET, inhibitor being investigated for use against multiple tumors, especially tumors that have developed resistance against other targeted therapies. We are in preparation to initiate animal studies.The global patent of XP-104 was filed in September 2018. The animal studies of XP-104 is under preparation and in discussion with contract research organizations. We plan to launch the animal studies of XP-104 in 2020.
+ 
+Intellectual Property
+ 
+Exclusive License Agreement with Pharmacyclics Relating to Abexinostat
+ 
+On February 23, 2017, Xynomic Pharma entered into a license agreement with Pharmacyclics LLC (“Pharmacyclics”), a subsidiary of AbbVie Inc. (“AbbVie”). Under this license agreement, we obtained an exclusive worldwide license or sublicense under certain patents and know-how to exploit, make, import, use, sell, research, develop, commercialize, register, manufacture, and export abexinostat. This worldwide exclusive license covers all human and non-human diagnostic, prophylactic, and therapeutic uses of abexinostat, including therapeutic uses targeting hematological and solid tumors. We also obtained the right to grant sublicenses to its affiliates and other third parties subject to Pharmacyclics’ prior written consent. In connection with the license, Pharmacyclics also assigned to us certain of its clinical supply agreements, which obligates us to supply abexinostat to patients who are continuing on previously started trials. Pursuant to the license agreement with Pharmacyclics, we have obtained the full worldwide decisional power with respect to development of the licensed products, while Pharmacyclics agreed to wind up and close all clinical trials it sponsored prior to the effective time of the license agreement. We are obligated to use commercially reasonable efforts to develop, obtain and maintain regulatory approvals for, and commercialize at least one licensed product for use in the United States and certain other major market countries. Pharmacyclics initially obtained the intellectual property rights to abexinostat per an assignment agreement dated April 7, 2006 by and between Pharmacyclics and Celera Genomics, a business unit of Applera Corporation (the “Celera Assignment Agreement”). We agree to meet obligations of Pharmacyclics under the Celera Assignment Agreement relating to the development, manufacture and commercialization of abexinostat (including reporting obligations) and prosecution, maintenance and enforcement of the Applera intellectual property covering abexinostat.
+ 
+Under the terms of the agreement with Pharmacyclics, we made an upfront payment of $3,500,000 to Pharmacyclics, in two installments: (i) first an amount equal to $2,000,000 within 10 business days after the effective date, and (ii) second, an amount equal to $1,500,000 within 60 business days of the effective date. We may be required to make milestone payments of up to $14,000,000 to Pharmacyclics for the achievement of certain development and regulatory milestone events. In addition, we will pay Pharmacyclics royalties at a percentage rate in the high-teens on the net sales of the licensed products in the licensed territory (namely, worldwide) during each calendar year during the royalty term. The royalty term commences from the first commercial sale and lasts until the expiration of the last-to-expire Pharmacyclics patent covering the licensed product or the exploitation thereof, on a product-by-product and country-by-country basis. The abexinostat tosylate composition of matter patent is expected to expire on March 3, 2034 in the United States, Europe, China, and Japan. The license agreement with Pharmacyclics will remain in effect until the expiration of the royalty term and may be early terminated by either party for the other party’s uncured material breach, bankruptcy, insolvency, or similar event. Pharmacyclics has the right to terminate the agreement if we challenge Pharmacyclics’ patents or fails our diligent obligations to develop or commercialize the licensed product pursuant to the license agreement with Pharmacyclics. In addition, we may terminate this agreement for convenience with advance written notice to Pharmacyclics. In the event this license agreement is terminated for any reason other than Pharmacyclics’ material breach, we will be responsible for continuing, at our cost for up to six months, to conduct clinical studies it conducts at the termination and transfer the control of the clinical studies to Pharmacyclics. If such transfer is expressly prohibited by a regulatory authority, we will continue to conduct such clinical studies to completion, at our cost.
+ 
+27
+
+ 
+
+Exclusive License Agreement with BII Relating to XP-105 (BI 860585)
+ 
+On December 20, 2018, Xynomic Pharma entered into a licensing agreement with Boehringer Ingelheim International GmbH (“Boehringer Ingelheim” or “BII”). Pursuant to the agreement with BII, BII (i) granted us a worldwide, exclusive, royalty-bearing, and non-transferrable license to certain licensed patents and the related know-how controlled by BII or its affiliates to develop, manufacture, use and commercialize the compound known as BI 860585, a Phase 2 ready mTORC1/2 inhibitor, and the products containing XP-105; and (ii) agreed to assign to us the licensed patents after BII receives certain milestone payment from us. The worldwide exclusive license covers the use of XP-105 in diagnosis, prevention or treatment of any and all diseases or conditions in human or animals. We are entitled to sublicense our rights to any of its affiliates or third parties upon prior notice to BII, except that sublicense to any third party with respect to the United States and China shall obtain prior written consent of BII (which shall not be unreasonably withheld). Under the agreement, BII retains an exclusive, cost-free, perpetual, worldwide, transferrable and sublicenseable (in multiple tiers) right to use the licensed patents and licensed know-how to the extent those are also necessary to exploit other compounds and products and not only specifically related to XP-105 and/or the licensed product.
+ 
+Under the agreement, we are obligated to use commercially reasonable efforts to achieve or cause the sublicensees to achieve certain development milestones and to commercialize the licensed products. BII committed not to develop (not including pre-clinical research activities) or commercialize any chemical entities covered under the licensed patents for any oncology indications worldwide during the term of the agreement without prior written consent of us. In the event that we commence clinical trials or commercializes any product that modulates the same target (mTOR) as our primary mechanism of action and are developed for the same indication as XP-105 or licensed product under the agreement, BII shall be entitled to take certain actions with respect to amending the license it has granted to us under the agreement with BII.
+ 
+Under the terms of the agreement with BII, we will make an upfront payment of $1,000,000 to BII. In addition, we may be required to make milestone payments up to $17,000,000 to BII for the achievement of certain development milestone events. We will pay to BII tiered royalties at percentage rates in high-teens up to 20%, subject to certain royalty reductions, on the global annual net sales of licensed products on a product-by-product and country-by-country basis during the royalty term. Royalty term commences from the first commercial sale of such licensed product in such country until the later of (i) the date on which such licensed product is no longer covered by a valid claim of the licensed patents, (ii) the expiration of regulatory exclusivity of the licensed product in such country in the indication, or (iii) the tenth anniversary of the first launch of the respective licensed product in the country in the indication (provided the licensed know-how is still proprietary, or such licensed know-how is no longer proprietary owing to a breach of our confidentiality obligations). The composition-of-matter patent is expected to expire on August 6, 2031 in the United States and on January 25, 2031 in China, Japan, Germany, France, United and certain other European countries.
+ 
+The agreement with BII will remain in effect until the expiration of the royalty term on a product-by-product and country-by-country basis and may be earlier terminated by either party for the other party’s uncured material breach. We have the right to terminate the agreement for convenience with prior written notice to BII. BII also has the right to terminate the agreement if we directly or indirectly challenges the validity of the licensed patents in the legal proceeding.
+ 
+28
+
+ 
+
+Exclusive License Agreement with BII Relating to BI 882370 
+ 
+On August 16, 2017, Xynomic Pharma entered into a patent assignment and licensing agreement with BII. Pursuant to the agreement with BII, BII (i) assigned to us its patents/patent applications covering XP-102, known as BI 882370, a 2nd-generation pan-RAF inhibitor; and (ii) granted us a worldwide, exclusive, royalty-bearing, and non-transferable license to all know-how controlled by BII or our affiliates necessary for, or specifically related to, the discovery, development, manufacture, commercialization, or use of XP-102 and any family compound. The worldwide exclusive license covers the use of XP-102 in diagnosis, prevention, or treatment of any and all diseases or condition in human or animals. We are entitled to sublicense its rights to any of our affiliates upon prior notice to BII and to sublicense the rights to any third party in the United States and China with prior written consent of BII (which shall not be unreasonably withheld). Under the agreement, BII retains an exclusive, cost-free, perpetual, worldwide, transferrable and sublicenseable (in multiple tiers) right to use the assigned patents and assigned invention solely for BII’s and its affiliates’ internal pre-clinical research purposes.
+ 
+We are obligated to use commercially reasonable efforts to achieve or cause its sublicensees to achieve certain pre-clinical and clinical development milestones and to commercialize the licensed products in the licensed field. In the event that we commence clinical trials or commercializes any product that modulates the same target (B-raf) as our primary mechanism of action and is developed for the same indication as the licensed product under the agreement, BII will be entitled to take certain actions with respect to amending the license it has granted to us under the agreement with BII.
+ 
+Under the terms of the patent assignment and licensing agreement with BII, we made an upfront payment of $300,000 to BII. In addition, we may be required to make milestone payments up to $17,700,000 to BII for the achievement of certain development milestone events. We will pay to BII tiered royalties in the high-teens up to 20%, subject to certain royalty reductions, on net sales of licensed products on a product-by-product and country-by-country basis, during the royalty term. Royalty term commences from the first commercial sale of such licensed product in such country until the later of (i) the date on which such licensed product is no longer covered by a valid claim of the assigned patents and assigned invention, (ii) the expiration of regulatory exclusivity of the licensed product in such country, or (iii) the tenth anniversary of the first launch of the respective licensed product in the country, provided the licensed know-how is still proprietary, or such licensed know-how is no longer proprietary owing to a breach of its confidentiality obligations. The abexinostat tosylate composition of matter patent is expected to expire on March 3, 2034 in the United States, Europe, China, and Japan.
+ 
+The patent assignment and licensing agreement with BII will remain in effect until the expiration of the royalty term on a product-by-product and country-by-country basis and may be earlier terminated by either party for the other party’s uncured material breach. We have the right to terminate the agreement for convenience with prior written notice to BII. BII also has the right to terminate the agreement if we directly or indirectly challenges the validity of the assigned patents in any legal proceeding.
+ 
+Patents and Other Intellectual Property
+
+We actively seek to aggressively protect the proprietary technology that is important to its business, including pursuing patents that cover our product candidates and compositions, their methods of use, and the processes for their manufacture, as well as any other relevant inventions and improvements that are commercially important to the development of our business. We also rely on trade secrets and other know-how that may be important to the development of our business.
+ 
+Our patent portfolio is composed of issued patents and patent applications in the major territories, including the U.S., Europe, Brazil, Japan, China, Canada, India, and Australia, and includes patents and patent applications that we own as well as licenses from other parties. These patents and patent applications cover various aspects of our product candidate pipeline.
+ 
+29
+
+ 
+
+For abexinostat, as of the date of this Annual Report, we have an exclusive license to 19 issued U.S. patents, three pending U.S. patent applications, 122 issued foreign patents, and 71 pending foreign patent applications. The Pharmacyclics license agreement related to abexinostat grants us exclusive, worldwide licenses under a portfolio of patents covering four broad areas: (1) directed to abexinostat, related compounds and processes for making compounds; pharmaceutical compositions and methods of treating diseases characterized by inhibition of hydroxamic acid-based small molecule histone deacetylase (“HDAC”) activities; (2) directed to salts, crystalline form of the salts and pharmaceutical compositions of abexinostat; methods of treating mammals in need of HDAC inhibition; (3) combination treatment of using HDAC inhibitors and other therapies; and (4) biomarkers for the identification of chemosensitivity. Two core families of patents covering abexinostat and crystalline form of abexinostat salts, respectively, have been granted in the U.S., China, Australia, Europe, Canada, Mexico, Japan, South Korea, New Zealand, Singapore, South Africa, Taiwan, Ukraine, India, and some other countries or areas. The duration of these patents is through 2024 (2025 in the U.S.) and 2034, respectively.
+ 
+For XP-105, as of the date of this Annual Report, we have an exclusive license to two issued U.S. patents and 91 issued foreign patents. The BII license agreement related to XP-105 grants us exclusive, worldwide licenses under a portfolio of patents covering XP-105, related compounds and pharmaceutical compositions. The patents covering XP-105 (BI 860585) have been granted in the United States, China, Japan, Germany, France, United Kingdom and certain other European countries, and the duration of the patents are through January 25, 2031 (August 6, 2031 in the United States).
+ 
+For XP-102, as of the date of this Annual Report, we own one issued U.S. patent and 4 issued foreign patents. The BII license agreement related to XP-102 grants us exclusive, worldwide licenses under a portfolio of patents covering XP-102, related compounds and pharmaceutical compositions. The patents covering XP-102 (BI 882370) have been granted in the U.S., France, Germany, Japan, and the United Kingdom, and the duration of the patent is through 2032. In addition, a Patent Cooperation Treaty (“PCT”) application directed at the crystalline form of salt of XP-102 has been filed on October 26, 2018, which will enter the National Phase by April 26, 2020.
+ 
+We have filed a basic compound patent application for XP-104 with China National Intellectual Property Administration, on the basis of which we plan to initiate a PCT application by end of 2020. We have filed a basic compound patent application for XP-103 with China National Intellectual Property Administration, on the basis of which we plan to initiate a PCT application by end of 2020.
+ 
+Wherever possible, we seek to protect its inventions by filing U.S. patents as well as foreign counterpart applications in select other countries. Because patent applications in the U.S. are maintained in secrecy for at least 18 months after the applications are filed, and since publication of discoveries in the scientific or patent literature often lags behind actual discoveries, it cannot be certain that we were the first to make the inventions covered by each of its issued or pending patent applications, or that we were the first to file for protection of inventions set forth in such patent applications. Our planned or potential products may be covered by third-party patents or other intellectual property rights, in which case continued development and marketing of its products would require a license. Required licenses may not be available to us on commercially acceptable terms, if at all. If we do not obtain these licenses, it could encounter delays in product introductions while it attempts to design around the patents, or it could find that the development, manufacture, or sale of products requiring such licenses are not possible.
+ 
+In addition to patent protection, we also rely on know-how, trade secrets, and the careful monitoring of proprietary information, all of which can be difficult to protect. We seek to protect some of its proprietary technology and processes by entering into confidentiality agreements with its employees, consultants, and contractors. These agreements may be breached, we may not have adequate remedies for any breach and our trade secrets may otherwise become known or be independently discovered by competitors. To the extent that our employees or our consultants or contractors use intellectual property owned by others in their work for us, disputes may also arise as to the rights in related or resulting know-how and inventions.
+ 
+30
+
+ 
+
+Operations
+ 
+Manufacturing and Supply: we do not own or operate, and currently has no plans to establish, any manufacturing facilities. We currently rely, and expects to continue to rely, on third parties for the manufacture of our drug candidates for pre-clinical and clinical testing, as well as for the commercial manufacture of any drugs that we may commercialize. To date, we have obtained API and drug substance for abexinostat for our clinical testing from one third-party manufacturer and drug product from another third-party manufacturer. These supply agreements have standard terms and we are typically invoiced based on time and material used. For XP-102, we source the API, drug substance, and drug product from the same third-party manufacturer. We obtain our supplies from these manufacturers on a purchase order basis and has long-term supply arrangements in place. We do not currently have arrangements in place for redundant supply for API, drug substance, or drug product. For all of its drug candidates, we intend to identify and qualify additional manufacturers to provide API, drug substance, and drug product prior to submission of a new drug application to the FDA, a marketing authorization application or “MMA” to the European Medicines Agency, and similar applications to regulatory agencies in other territories.
+ 
+All drug candidates in our current pipeline are compounds of low molecular weight, generally called small molecules. They can be manufactured in reliable and reproducible synthetic processes from readily available starting materials. The chemistry is amenable to scale-up and does not require unusual equipment in the manufacturing process. We plan to continue to develop drug candidates that can be produced cost-effectively at high quality contract manufacturing facilities.
+ 
+Safety and Risk Management: Our research and development center adopts the highest standard of safety to protect its staff. As to outsourced research and development, manufacturing, and clinical trials, we only work with reputable and pre-qualified contract research organizations (“CROs”) and contract manufacture organizations (“CMOs”) to ensure the safety of all personnel involved. Furthermore, to manage uncertainty and potential risk in clinical trials, we have carried all the required insurance for clinical trials, in addition to customary general corporate liability insurance.
+ 
+Competition
+ 
+Our industry is highly competitive and subject to rapid and significant technological change, with over 500 companies worldwide developing late-phase oncology drugs, according to a 2015 IMS study. Our potential competitors include large pharmaceutical and biotechnology companies and specialty pharmaceutical companies, academic institutions, government agencies, and research institutions. The market for oncology therapeutics is becoming increasingly competitive. Our products, however, upon approval, will be focused, at least initially, on specific oncology indications with high unmet medical need. Key competitive factors affecting the commercial success of our product candidates are likely to be efficacy, safety and tolerability profile, reliability and durability of response, convenience of dosing, and price and reimbursement.
+ 
+If abexinostat is approved to treat relapsed or refractory (“R/R”) follicular lymphoma (“FL”), abexinostat will compete with approved therapies including Gilead’s Zydelig® (a PI3 inhibitor), Bayer’s Aliqopa™, and Roche’s Gazyva® (an antibody). If abexinostat is approved to treat R/R diffuse large B-cell lymphoma (“DLBCL”), abexinostat will compete with Gilead’s Yescarta (a CAR-T therapy) and Novartis’ Kymriah® (a CAR-T therapy). If it is approved in first-line or second-line RCC, abexinostat, used in combination with pazopanib, will compete with Bristol-Myers Squibb’s Opdivo™/Yervoy® (a PD-1 inhibitor and a monoclonal antibody), Pfizer’s Sutent®, Novartis’ Afinitor® (a mTORC inhibitor), Roche’s Avastin® (a monoclonal antibody) in combination with interferon alfa, and Novartis’ Votrient® (generic name pazopanib, a VEGF inhibitor) as a single agent.
+ 
+If XP-105, combined with paclitaxel, is approved to treat breast cancer, it will compete with approved therapies including standard-of-care chemo therapies such as paclitaxel and targeted agents such as Novartis’ Afinitor® (a mTORC inhibitor) plus exemestane, Novartis’ Kisqali® (a CDK4/6 inhibitor), Roche’s Herceptin® (a monoclonal antibody), AstraZeneca’s Faslodex® (a selective estrogen receptor degrader), and Pfizer’s Ibrance® (a CDK4/6 inhibitor). The combination of XP-105 and paclitaxel is superior to our competitors.
+ 
+31
+
+ 
+
+Figure 14 – XP-105 Advantages
+ 
+
+We will develop XP-102, in combination with a marketed MEK inhibitor, to treat colorectal cancer (“CRC”) and melanoma, and if it is approved, it will compete with marketed combination RAF/MEK targeted therapy such as Daiichi-Sankyo and Roche’s Zelboraf® + Cotellic®, Novartis’ Tafinlar® + Mekinist®, and Array BioPharma’s Braftovi™ + Mektovi®.
+Properties
+ 
+Xynomic does not own any real estate. As of the date of this Annual Report, Xynomic has leased facilities for its Shanghai headquarters, regional offices, and research and development center, summarized in the table below. Xynomic believes that its existing facilities and other available properties will be sufficient for its needs for the foreseeable future.
+Figure 15 – Leased Facilities
+ 
+
+Site | Type of Facility | Size, Square Feet | | | Lease Expiration Date
+-------------------------------------------------+------------------+-------------------+-------+-----+----------------------
+Headquarters – Shanghai, China | Office | | 2,612 | | | 3/31/2022
+Research and Development Center, Shanghai, China | Lab/Office | | 5,597 | (1) | | 7/26/2021
+Beijing, China | Office | | 646 | | | 9/30/2020
+California, U.S. | Office | | 1,765 | | | 5/31/2025
+
+
+(1) | Consists of 3,983 square feet of lab and 1,614 square feet of office. 
+----+--------------------------------------------------------------------------
+
+ 
+32
+
+ 
+
+Employees
+ 
+As of the date of this Annual Report, we had 27 full-time and 8 part-time employees and consultants. Among the full-time staff, 9 are based in the U.S. and the rest are based in China. Xynomic’s employees are not represented by labor unions or covered by collective bargaining agreements. We consider our relationship with our employees to be good. All Xynomic’s executive officers have entered into an employment agreement or offer letter with Xynomic or its subsidiary.
+Employment Agreements 
+ 
+Xynomic Pharmaceuticals Holdings, Inc., or Xynomic, our holding company, has entered into employment agreements with our executive officer including Yinglin Mark Xu, its Chief Executive Officer and President, Wentao Janse Wu, its Chief Operating Officer, Sophia Paspal, its Chief Development Officer and Jinwei Coco Kou, its Chief Financial Officer and the Chief Accounting Officer. It has also entered into indemnification agreements with each of its executive officers.
+ 
+Xynomic has entered into a signed offer letter with James Jiayuan Tong, effective on May 15, 2019. Under the terms of the offer letter, Dr. Tong is employed as the Chief Strategy Officer and Executive Vice President of XYN, reporting to the Chief Executive Officer. Dr. Tong will receive an annual salary of $0 and is eligible to receive an annual discretional bonus.
+ 
+Xynomic has entered into an employment agreement with Yinglin Mark Xu, effective on April 22, 2019. Under the terms of the employment agreement, Mr. Xu is employed as the Chairman, Chief Executive Officer and President of Xynomic. Mr. Xu will receive an annual salary of $0 and is eligible to receive an annual discretional bonus. Xynomic or Mr. Xu may terminate the employment at any time for any or no reason upon giving written notice thirty (30) days in advance to the other party. Upon termination of the employment, Mr. Xu will be entitled only to payment of his regular salary pro-rated through the termination date. Under the employment agreement, Mr. Xu will be subject to non-competition and non-solicitation restrictions during his employment and for a period of twelve (12) months thereafter.
+ 
+Xynomic has entered into an employment agreement with Wentao Jason Wu, effective on January 1, 2019. Under the terms of the employment agreement, Dr. Wu is employed as the Chief Operating Officer of Xynomic, reporting to the Chief Executive Officer or such other person as Xynomic may designate. Dr. Wu will receive an annual salary of $160,008 and is eligible to receive an annual discretional bonus. Xynomic or Dr. Wu may terminate the employment at any time for any or no reason upon giving written notice thirty (30) days in advance to the other party. Upon termination of the employment, Dr. Wu will be entitled only to payment of his regular salary pro-rated through the termination date. Under the employment agreement, Dr. Wu will be subject to non-competition and non-solicitation restrictions during his employment and for a period of twelve (12) months thereafter.
+ 
+33
+
+ 
+
+Xynomic has entered into an employment agreement with Sophia Paspal, effective on January 16, 2019 and amended on July 1, 2019. Under the terms of the amended employment agreement, Dr. Paspal is employed as the Chief Development Officer of Xynomic, reporting to the Chief Operation Officer or such other person as Xynomic may designate. Dr. Paspal will receive an annual salary of $280,002, with a one-time signing on bonus of $25,000, subject to certain forfeitures as set forth in the employment agreement. During her employment, Dr. Paspal is eligible to receive an annual discretional bonus targeted at 30% of her base salary. Xynomic or Dr. Paspal may terminate the employment at any time for any or no reason upon giving written notice thirty (30) days in advance to the other party. Upon termination of the employment, Dr. Paspal will be entitled only to payment of her regular salary pro-rated through the termination date. In the event that Xynomic stops operations or is acquired by another company, Dr. Paspals is entitled to 6-month pay plus health insurance coverage. Under the employment agreement, Dr. Paspal will be subject to non-competition and non-solicitation restrictions during her employment and for a period of twelve (12) months thereafter.
+ 
+Xynomic has entered into an offer letter with Jinwei Coco Kou, effective on September 16, 2019. Under the terms of the offer letter, Ms. Kou is employed as the Chief Financial Officer and the Chief Accounting Officer of Xynomic. During her employment, Ms. Kou is eligible to receive an annual salary of $97,200 with a target annual bonus equal to 30% of the base salary. The offer letter also grants Ms. Kou an option, to be issued under the Xynomic’s 2018 Incentive Plan, to purchase an aggregate of 276,000 shares of the Xynomic at a price no less than the market price of the Xynomic’s common stock at issuance, subject to certain vesting schedule, and establishes other terms and conditions governing her service for the Xynomic.
+ 
+Dr. Niefang Yu is engaged by Xynomic Nanjing under the terms of a Cooperative Development Agreement for New Drugs, effective as of May 1, 2018. Under the terms of the agreement, Dr. Yu is employed on a part-time basis as a senior manager in charge of Xynomic’s research and development center located in Shanghai. Dr. Yu receives a monthly salary of RMB35,000. The agreement also provides for the future grant of an option to purchase shares of common stock from Xynomic, which has not yet been granted.
+ 
+Xynomic Zhongshan has entered into a labor contract with Bing Zhao, effective on March 1, 2019. Under the terms of the labor contract, Bing Zhao is employed as the Vice President of Xynomic Zhongshan in charge of Greater China Clinical and Regulatory Affairs for a term of three (3) years. Dr. Zhao will receive a monthly salary of RMB30,000. Prior to the expiration of the term, Dr. Zhao may terminate the employment for convenience upon thirty (30) days’ prior written notice and Xynomic Zhongshan may terminate Dr. Zhao’s employment under certain circumstances, as provided in applicable PRC labor laws. Under a non-competition agreement dated March 1, 2019, Dr. Zhao is subject to non-competition and non-solicitation restrictions during his employment and for a period of twenty-four (24) months thereafter; provided that he will receive reasonable compensations for the post-employment non-competition and non-solicitation restrictions.
+ 
+Each Named Executive Officer is also subject to general confidentiality obligations and obligations to assign proprietary property to Xynomic or a subsidiary of Xynomic in his or her respective confidentiality agreement, consulting agreement or employment agreement.
+ 
+Pursuant to the Merger Agreement, certain officers of Xynomic entered into a non-competition and non-solicitation agreement with Xynomic on May 15, 2019.
+ 
+Consummation of the Business Combination 
+ 
+On May 15, 2019, Bison Capital Acquisition Corp., our predecessor at that time (“Bison”), consummated the previously announced business combination (the “Business Combination”) following a special meeting of shareholders held on May 14, 2019 (the “Special Meeting”) where the shareholders of Bison, which, prior to the consummation of the Business Combination, domesticated as a Delaware corporation and, immediately thereafter known as “Xynomic Pharmaceuticals Holdings, Inc.”, considered and approved, among other matters, a proposal to adopt that certain Agreement and Plan of Merger (as amended, the “Merger Agreement”), dated as of September 12, 2018, entered into by and among by and among (i) Bison; (ii) Merger Sub (iii) Xynomic Pharmaceuticals, Inc., a Delaware corporation (“Xynomic Pharma”); and (iv) Yinglin Mark Xu (“Stockholder Representative”), solely in his capacity as the Stockholder Representative thereunder.
+ 
+Pursuant to the Merger Agreement, among other things, Merger Sub merged with and into Xynomic Pharma, with Xynomic Pharma continuing as the surviving entity and a wholly-owned subsidiary of the Company (the “Merger” and the “Surviving Company”). The merger became effective on May 15, 2019.
+ 
+On May 14, 2019, prior to the consummation of the Business Combination, Bison continued out of the British Virgin Islands and domesticated as a Delaware corporation. As a result, Bison is no longer a company incorporated in the British Virgin Islands.
+ 
+34
+
+ 
+
+At the Closing Date, pursuant to the Backstop Agreement dated May 1, 2019 entered into by and between Bison and Yinglin Mark Xu, Mr. Xu together with his assignee Bison Capital Holding Company Limited, purchased from the Company 755,873 shares of common stock at a price of $10.15 per share for a total consideration of $7,672,112). As a result of Backstop Subscription, Bison had at least $7,500,001 of net tangible assets remaining at the Closing after giving effect to the redemption of any Ordinary Shares by the public shareholders in connection with the Business Combination.
+ 
+At the Closing Date, each share of Xynomic Pharma common stock and preferred stock issued and outstanding prior to the Effective Time was automatically converted into the right to receive, on a pro rata basis, the aggregate Merger Consideration Shares (as defined in the Merger Agreement) ), and each option to purchase Xynomic Pharma stock that was outstanding immediately prior to the Effective Time was assumed by the Company and automatically converted into an option to purchase shares of common stock of the Company.
+ 
+As a result, the Company issued 42,860,772 common shares as aggregate Merger Consideration Shares to shareholders of Xynomic Pharma immediately prior to the closing (the “Sellers”) including 33,008,556 Closing Consideration Shares (as defined in the Merger Agreement) adjusted by an additional 9,852,216 Earnout Shares ( as defined in the Merger Agreement) as a result that Xynomic Pharma obtained a worldwide exclusive license to the Phase II-ready oncology drug identified in the Merger Agreement (XP-105) in December 2018 , prior to the Closing Date.
+
+
+Pursuant to the Merger Agreement, 1,285,822 shares were deposited into the Escrow Account to serve as security for, and the exclusive source of payment of, the Company’s indemnity rights under the Merger Agreement and any excess of the estimated Closing Merger Consideration over the final Closing Merger Consideration amount determined post-Closing.
+ 
+As a result of the Business Combination, the Sellers, as the former shareholders of Xynomic Pharma, became the controlling shareholders of the Company and Xynomic Pharma became a subsidiary of the Company. The Business Combination was accounted for as a “reverse acquisition” since, immediately following the consummation of the Merger (the “Closing”), the Sellers effectively controlled the post-combination Company. For accounting purposes, Xynomic Pharma was deemed to be the accounting acquirer in the Merger and, consequently, the Merger is treated as a recapitalization of Xynomic Pharma (i.e., a capital transaction involving the issuance of shares by the Company for the shares of Xynomic Pharma). Accordingly, the consolidated assets, liabilities and results of operations of Xynomic Pharma became the historical financial statements of the Company and its subsidiaries, and the Company’s assets, liabilities and results of operations were consolidated with Xynomic Pharma beginning at the Closing.
+ 
+Prior to the Business Combination, we were a “shell company” (as such term is defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended). As a result of the Business Combination, we have ceased to be a “shell company” and will continue the existing business operations of Xynomic Pharma as a publicly traded company under the name “Xynomic Pharmaceuticals Holdings, Inc.”
+ 
+Nasdaq Listing Compliance
+ 
+On May 15, 2019, we received written notice from the staff of The NASDAQ Stock Market LLC (“Nasdaq”) indicating that the Staff had determined to delist the Company’s securities from Nasdaq based upon the Company’s non-compliance with Nasdaq Listing Rules 5505(a)(3) and 5515(a)(4), which require a minimum of 300 round lot holders of common stock and 400 round lot holders of common stock purchase warrants for initial listing on The Nasdaq Capital Market. The Staff’s determination also cited the Company’s non-compliance with the minimum $5 million in stockholders’ equity requirement, as set forth in Nasdaq Listing Rule 5505(b)(1)(A).
+ 
+Upon request, a hearing before the Hearings Panel at Nasdaq (the “Panel”) was held on July 11, 2019. On July 15, 2019, we were notified in writing by the Panel that they denied our request for continued listing on Nasdaq based upon the Company’s non-compliance with Nasdaq Listing Rules 5505(a)(3), 5515(a)(4), and 5505(b)(1)(A). As a result, Nasdaq suspended trading in the Company’s securities effective at the open of business on Wednesday, July 17, 2019; and our shares subsequently commenced trading on the over-the-counter markets under the symbol “XYNO”.
+ 
+35
+
+ 
+
+Private Unit Offering
+ 
+On or about July 10, 2019, we entered into certain Securities Purchase Agreement (the “SPA”) with certain “accredited investors” as defined in Rule 501(a) of Regulation D as promulgated under the Securities Act (the “Purchasers”), pursuant to which we agreed to sell to such Purchasers an aggregate of approximate USD$10 million of units (the “Private Units”) of the Company, at a purchase price of USD$3.80 per Private Unit (subject to adjustment) (the “Private Unit Offering”). Each Private Unit consists of one share of Common Stock and one-half warrant (the “Private Unit Warrant”). Each whole Private Unit Warrant can be exercised to purchase one share of Common Stock at $7.00 per share and shall expire in three (3) years of the issuance, and have the rights and preference set forth in certain warrant agreement. Furthermore, the SPA provides, among other terms, a maximum offering in an aggregate of $15 million with the first closing of a minimum of $5 million upon delivery of the closing conditions set forth in the SPA, provided that no closing shall occur after September 30, 2019 subject to certain exception. As the date hereof, one investor committed to $2 million completed its necessary registration with PRC regulators in order to invest in the Company and the commitment of $8 million under the SPA has expired without extension.
+ 
+The Private Units, the shares of Common Stock underlying the Units (the “Private Unit Shares”), the Private Unit Warrants issued in the Offering, and shares of Common Stock issuable upon exercise of the Private Unit Warrants (the “Private Unit Warrant Shares”), are exempt from the registration requirements of the Securities Act, pursuant to Section 4(a)(2) of the Securities Act and/or Regulation D.
+ 
+The proceeds of this Private Unit Offering will be used for working capital and general corporate purposes.
+ 
+The SPA also contains customary representation and warranties of the Company and the Purchasers, indemnification obligations of the Company, termination provisions, and other obligations and rights of the parties. Additionally, we anticipate that the Purchasers will enter into a lock-up agreement at the closing pursuant to which that they would agree not to sell or otherwise transfer or dispose the Private Units, Private Unit Shares, Private Unit Warrants, or Private Unit Warrant Shares during the six-month period commencing on the earlier of the effective date of a registration statement in connection with the first follow-on public offering after the date of the SPA or the issuance date of the Units.
+ 
+On August 30, 2019, the parties agreed to amend and restate the SPA (as amended and restated, the “Amended and Restated SPA”) to grant the Purchasers demand registration rights in addition to the piggyback registration rights provided in the SPA.
+ 
+Pursuant to the Amended and Restated SPA, the holders of a majority of all of the existing Registrable Securities (as defined in the Amended and Restated SPA) may demand (1) at any time after the earlier of (i) one year after the date of the Amended and Restated SPA and (ii) one hundred eighty (180) days after the effective date of the registration statement for a public offering; or 2) at any time when the Company is eligible to use a Form S-3 registration statement, for registration under the Securities Act. The demand registration rights are subject to certain exceptions set forth in the Amended Agreement including that the Company shall not be obliged to effect more than two demand registration in any one-year period.
+ 
+36
+
+ 
+
+Other than the demand registration rights, the terms and conditions of the Amended and Restated SPA remain substantially the same as contained in the SPA.
+ 
+On March 26, 2020, Xynomic Pharmaceuticals, Inc., a wholly owned subsidiary of ours, received a deposit in the amount of RMB24,000,000 under a non-binding letter of intent (the “LOI”) that we entered into with a pharmaceuticals company in China on January 17, 2020. Pursuant to the LOI, the parties will collaborate on the marketing and sales, in China, of certain drugs within our pipeline. In addition, the other party will make equity investment in us upon the parties entering into definitive marketing and sales agreements. The deposit is restricted for the purpose of the LOI. If the parties reach agreements, the deposit will be used towards the investment from the other party. If the parties fail to reach definitive agreements before the expiration of the LOI which is 180 days from the date of the LOI, the deposit will be refunded within 7 business days upon request.
+ 
+Stockholders’ Approval for Potential Reverse Stock Split
+ 
+On August 26, 2019, we held a special stockholder meeting and received approval for authorizing the Company’s Board of Directors to, in its discretion, amend the Company’s Amended and Restated Certificate of Incorporation to effect a reverse stock split at a ratio no less than 1-for-1.5 and no greater than 1-for-5 at any time prior to August 27, 2020, with the exact ratio to be set within that range at the discretion of our Board of Directors without further approval or authorization of our stockholders (“Stock Split Proposal”). The Board of Directors may alternatively elect to abandon such proposed amendment and not effect the reverse stock split authorized by stockholders, in its sole discretion.
+Appointment of New Chief Financial Officer
+ 
+On September 16, 2019, the Board of Directors of the Company appointed Ms. Jinwei Coco Kou as the Chief Financial Officer and the Chief Accounting Officer of the Company, effective immediately. Conjunction with such appointment, on the same day, Mr. Yinglin Mark Xu resigned from his position as the Interim Chief Financial Officer, effective immediately. Mr. Xu’s resignation was not the result of any disagreement between the Company and him on any matter relating to the Company’s operations, policies or practices. Ms. Kou does not have a family relationship with any director or executive officer of the Company and has not been involved in any transaction with the Company during the past two years that would require disclosure under Item 404(a) of Regulation S-K. Ms. Kou has received an offer letter from the Company (the “Offer Letter”), which sets her annual compensation of $97,200 with a target annual bonus equal to 30% of the base salary. The Offer Letter also grants Ms. Kou an option, to be issued under the Company’s 2018 Incentive Plan, to purchase an aggregate of 276,000 shares of the Company at a price no less than the market price of the Company’s common stock at issuance, subject to certain vesting schedule, and establishes other terms and conditions governing her service for the Company.
+Implications of Our Being an “Emerging Growth Company”
+ 
+We qualify as an “emerging growth company” as defined in the Jumpstart Our Business Startups Act of 2012, or the JOBS Act, until the earlier of (1) the last day of the fiscal year (a) following June 23, 2022, the fifth anniversary of our IPO, (b) in which we have total annual gross revenue of at least $1.07 billion, (c) our non-convertible debt issued within a three year period exceeds $1 billion, or (d) if the market value of our shares that are held by non-affiliates exceeds $700 million on the last day of our second fiscal quarter. An “emerging growth company” may take advantage of reduced reporting requirements that are otherwise generally applicable to public companies. In particular, as an emerging growth company, we:
+
+● | are not required to provide a detailed narrative disclosure discussing our compensation principles, objectives and elements and analyzing how those elements fit with our principles and objectives, which is commonly referred to as “compensation discussion and analysis”; 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+37
+
+ 
+
+
+● | are not required to obtain an attestation and report from our auditors on our management’s assessment of our internal control over financial reporting pursuant to the Sarbanes-Oxley Act of 2002; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | are not required to obtain a non-binding advisory vote from our shareholders on executive compensation or golden parachute arrangements (commonly referred to as the “say-on-pay,” “say-on frequency” and “say-on-golden-parachute” votes); 
+● | are exempt from certain executive compensation disclosure provisions requiring a pay-for-performance graph and CEO pay ratio disclosure; 
+● | are eligible to claim longer phase-in periods for the adoption of new or revised financial accounting standards under §107 of the JOBS Act. 
+

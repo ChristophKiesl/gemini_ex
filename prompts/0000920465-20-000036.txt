@@ -1,0 +1,197 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+Overview
+La Jolla Pharmaceutical Company is dedicated to the development and commercialization of innovative therapies that improve outcomes in patients suffering from life-threatening diseases. In December 2017, GIAPREZATM (angiotensin II) was approved by the U.S. Food and Drug Administration (“FDA”) as a vasoconstrictor indicated to increase blood pressure in adults with septic or other distributive shock. GIAPREZA U.S. net sales were $23.1 million in 2019 compared to $10.1 million in 2018, an increase of 129%. In August 2019, GIAPREZA was approved by the European Commission (“EC”) for the treatment of refractory hypotension in adults with septic or other distributive shock who remain hypotensive despite adequate volume restitution and application of catecholamines and other available vasopressor therapies. LJPC-0118 (I.V. artesunate) is La Jolla’s investigational product for the treatment of severe malaria.
+Product Portfolio
+
+a U.S.: GIAPREZA is a vasoconstrictor to increase blood pressure in adults with septic or other distributive shock.European Union: GIAPREZA is indicated for the treatment of refractory hypotension in adults with septic or other distributive shock who remain hypotensive despite adequate volume restitution and application of catecholamines and other available vasopressor therapies.
+b This is a proposed indication. LJPC-0118 (I.V. artesunate) is investigational and not approved by any regulatory authority. 
+
+GIAPREZATM (angiotensin II)
+In December 2017, GIAPREZATM (angiotensin II) was approved by the FDA as a vasoconstrictor indicated to increase blood pressure in adults with septic or other distributive shock. GIAPREZA U.S. net sales were $23.1 million in 2019 compared to $10.1 million in 2018, an increase of 129%. In August 2019, GIAPREZA was approved by the EC for the treatment of refractory hypotension in adults with septic or other distributive shock who remain hypotensive despite adequate volume restitution and application of catecholamines and other available vasopressor therapies. GIAPREZA mimics the body’s endogenous angiotensin II peptide, which is central to the renin-angiotensin-aldosterone system, which in turn regulates blood pressure.
+2
+
+Distributive shock is the most common form of shock, as shown in the figure below.
+Types of Shocka
+
+
+a Vincent et al, New England Journal of Medicine 2013; 369(18):1726−1734
+
+3
+
+Distributive shock is a leading cause of death in hospitalized patients, and shock affects one-third of patients in the intensive care unit (“ICU”) (Sakr et al, Critical Care Medicine 2006; 34:589−597). The mortality rate of distributive shock exceeds that of most acute conditions requiring hospitalization, as shown in the figure below.
+Mortality Rate
+
+AMI=acute myocardial infraction; HF=heart failurea Based on the 28-day mortality rates of: (i) 35% from the vasopressin arm of Russell et al, New England Journal of Medicine 2008; 358:877-87; (ii) 49% from the norepinephrine arm of De Backer et al, New England Journal of Medicine 2010; 362:779-89; and (iii) 54% from the placebo arm (high-dose norepinephrine or equivalent) of Khanna et al, New England Journal of Medicine 2017; 377:419-430b 30-day mortality rate from Medicare.gov 
+
+
+4
+
+The renin-angiotensin-aldosterone system is one of three systems that work in harmony to regulate blood pressure, as shown in the figure below. GIAPREZA regulates blood pressure through the renin-angiotensin-aldosterone system. Other therapeutic options regulate blood pressure through the adrenal system and vasopressin system.
+In Healthy Individuals, Three Systems Work in Harmony to Regulate Blood Pressure
+5
+
+Angiotensin II is a powerful vasoconstrictor, acting on blood vessels to cause vasoconstriction and stimulating the release of aldosterone and vasopressin, which increase blood volume and blood pressure, as shown in the figure below.
+Renin-Angiotensin-Aldosterone Systema,b,c
+
+ACE=angiotensin-converting enzymea Image adapted from Chow et al, Anesthesia & Analgesia Practice 2018; 11(7):175−180b Hendry et al, Nursing Standard 2012; 27(11):35−40c Harrison-Bernard, Advances in Physiology Education 2009; 33: 270-274d Treschan et al, Anesthesiology 2006; 105:599−612
+
+6
+
+Annually in the U.S., approximately 100,000−150,000 patients fail to respond to current vasopressor options, as shown in the figure below.
+Response to Current Vasopressor Options
+
+a Annually in the U.S.b Year ended December 31, 2019 per Symphony Health Solutions c Estimate based on Russell et al, New England Journal of Medicine 2008; 358:877−87 and Asfar et al, New England Journal of Medicine 2014; 370:1583−93d Annual sales per Endo International plc SEC filings, divided by price per vial per Wolters Kluwer PriceRxe Estimate based on Dunser et al, Circulation 2003; 107:2313−2319 and Gordon et al, Critical Care Medicine 2014; 42(6):1325−1333f Year ended December 31, 2019 per Endo International plc SEC filingsg $179.79 per vial per Wolters Kluwer PriceRx, multiplied by 10 vials per patienth Estimate based on: 35.4% 28-day mortality rate in vasopressin arm of Russell et al, New England Journal of Medicine 2008; 358:877-87; 48.5% 28-day mortality rate in norepinephrine arm of De Backer et al, New England Journal of Medicine 2010; 362:779-789; and 54.6% non-responder rate on vasopressin from Sacha et al, Annals of Intensive Care 2018; 8:35
+
+7
+
+Angiotensin II for the Treatment of High-Output Shock (“ATHOS-3”)
+GIAPREZA was approved by the FDA and the EC based on the results of ATHOS-3, which were published in the New England Journal of Medicine in August 2017. Angiotensin II for the Treatment of High-Output Shock (“ATHOS-3”) was a multinational, randomized, double-blind study in which 321 adults with septic or other distributive shock who remained hypotensive despite fluid and vasopressor therapy received either GIAPREZA or placebo, both in addition to background standard of care therapy. The primary endpoint was mean arterial pressure (“MAP”) response, defined as a MAP of 75 mm Hg or higher or an increase in MAP from baseline of at least 10 mm Hg without an increase in the dose of background vasopressors at Hour 3. The ATHOS-3 study design is shown in the figure below.
+ATHOS-3 Study Designa
+
+MAP=mean arterial pressure; SoC=standard of carea Khanna et al, New England Journal of Medicine 2017; 377:419-430b SoC vasopressors included norepinephrine, epinephrine, dopamine and vasopressin
+
+8
+
+GIAPREZA significantly improved blood pressure response. Specifically, the primary endpoint was achieved by 70% of GIAPREZA-treated patients compared to 23% of placebo-treated patients (P-value <0.0001).
+Primary Endpoint: Mean Arterial Pressure (“MAP”) Responsea,b
+
+a GIAPREZA FDA prescribing informationb MAP response of >75 mm Hg or an increase from baseline of >10 mm Hg at Hour 3, without an increase in the dose of background vasopressors.
+
+9
+
+In addition, a positive survival trend was observed. Mortality through Day 28 was 46% on GIAPREZA and 54% on placebo (hazard ratio 0.78; 95% confidence interval 0.57−1.07).
+Positive Survival Trend Observeda,b
+
+b Curves from Khanna et al, New England Journal of Medicine 2017; 377:419-430; Mortality through Day 28 and Hazard Ratio (95% CI) from GIAPREZA FDA prescribing information
+
+The most common adverse reactions that were reported in greater than 10% of GIAPREZA-treated patients were thromboembolic events. Adverse reactions occurring in ≥4% of patients treated with GIAPREZA and ≥1.5% more often than in placebo-treated patients are shown in the following table.
+Adverse Reactions Occurring in ≥4% of Patients Treated with GIAPREZA and ≥1.5% More Often than 
+in Placebo-treated Patientsa
+
+a GIAPREZA FDA prescribing informationb Including arterial and venous thrombotic events
+
+10
+
+The percentage of patients experiencing ≥1 adverse event, the percentage of patients experiencing ≥1 serious adverse event and the percentage of patients discontinuing treatment due to an adverse event are shown in the following table.
+Percentage of Patients Experiencing ≥1 Adverse Event, ≥1 Serious Adverse Event and Discontinuing Treatment Due to an Adverse Eventa
+
+a Khanna et al, New England Journal of Medicine 2017; 377:419-430
+
+LJPC-0118 (I.V. artesunate)
+LJPC-0118 (I.V. artesunate) is La Jolla’s investigational product for the treatment of severe malaria. The active pharmaceutical ingredient in LJPC-0118, artesunate, was compared to quinine in patients with severe falciparum malaria infection in two randomized, active-controlled, clinical studies. In both studies, in-hospital mortality in the artesunate group was statistically significantly lower than in-hospital mortality in the quinine group. The FDA granted Breakthrough Therapy designation and Orphan Drug designation for LJPC-0118 for the treatment of malaria in April 2019 and July 2019, respectively. La Jolla filed a New Drug Application (“NDA”) with the FDA for LJPC-0118 for the treatment of severe malaria in the second half of 2019.
+Severe malaria is a serious and sometimes fatal disease caused by a parasite that commonly infects a certain type of mosquito. Symptoms include: fever, chills, sweating, hypoglycemia and shock. Severe malaria is often complicated by central nervous system infections that may lead to delirium, which may progress to coma. Infections usually occur a few weeks after being bitten. In 2013, an estimated 2 million cases of severe malaria occurred worldwide (World Health Organization), and, in 2018, an estimated 405,000 people died from malaria worldwide (World Health Organization). La Jolla may be eligible to receive a tropical disease Priority Review Voucher (“PRV”) for LJPC-0118, as malaria is defined as a disease qualifying for a tropical disease PRV under Section 524 of the U.S. Federal Food, Drug, and Cosmetic Act (“FDCA”).
+
+11
+
+Two pivotal, randomized, active-controlled studies compared artesunate to quinine in the treatment of severe malaria. 1,461 patients were randomized in the South East Asian Quinine Artesunate Malaria Trial (“SEAQUAMAT”) (Dondorp et al, Lancet 2005; 366: 717-25), and 5,425 patients were randomized in the African Quinine Artesunate Malaria Trial (“AQUAMAT”) (Dondorp et al, Lancet 2010; 376: 1647-57). In-hospital mortality was the primary endpoint in both studies. In both studies, in-hospital mortality in the artesunate group was statistically significantly lower than in-hospital mortality in the quinine group, as shown in the figures below.
+Primary Endpoint: In-hospital Mortality
+
+
+a Dondorp et al, Lancet 2005; 366: 717-25 b South East Asian Quinine Artesunate Malaria Trial c Dondorp et al, Lancet 2010; 376: 1647-57d African Quinine Artesunate Malaria Trial
+
+According to the U.S. Center for Disease Control (“CDC”), I.V. artesunate is now the first-line drug for the treatment of severe malaria in the U.S. following the discontinuation of I.V. quinidine and is the recommended World Health Organization first-line treatment for severe malaria, but is neither FDA-approved nor commercially available in the U.S. I.V. artesunate is available from the CDC under an expanded-access investigational new drug (“IND”) protocol for patients with severe malaria.
+LJPC-401 (synthetic human hepcidin)
+LJPC-401 (synthetic human hepcidin) is La Jolla’s investigational product for the potential treatment of conditions characterized by iron overload. In November 2019, La Jolla announced mixed results from two Phase 2 studies of LJPC-401. Based on these results, the development of LJPC-401 has been de-prioritized, and La Jolla does not expect to invest significant additional resources in this program.
+Sales and Marketing Organization
+La Jolla employs an experienced sales and marketing team dedicated to the commercialization of GIAPREZA. As of February 24, 2020, this team consists of 40 professionals, including 28 critical care specialists and 3 health systems account directors.
+Customers
+In 2019, 444 hospitals in the U.S. purchased GIAPREZA. Hospitals purchase our products through a network of specialty and wholesale distributors. We do not believe that the loss of one of these distributors would significantly impact our ability to distribute GIAPREZA, as we expect that sales volume would be absorbed by the remaining distributors. Due to the relatively short lead-time required to fill orders for GIAPREZA, backlog is not material to our business.
+12
+
+Competition
+Catecholamines (primarily norepinephrine), which are available as generics and inexpensive, are typically used first line to treat distributive shock, while Vasostrict® (Endo International plc) is typically used second line. In the randomized, Phase 3 study ATHOS-3, GIAPREZA demonstrated clinical benefit in patients who were not adequately responding to available vasopressors, including catecholamines and Vasostrict. GIAPREZA’s principal competition as a treatment in patients not adequately responding to available vasopressors is the use of these same vasopressors, particularly norepinephrine, at increased doses. If we are unable to successfully change treatment practices, the commercial prospects for GIAPREZA will be limited.
+Manufacturing
+We do not currently own or operate manufacturing facilities for the production of GIAPREZA or LJPC-0118. We rely on third-party manufacturers to produce GIAPREZA and LJPC-0118 and expect to continue to do so to meet our development and commercial needs.
+In all of our manufacturing agreements, we require that third-party contract manufacturers produce active pharmaceutical ingredients (“APIs”) and drug products in accordance with the FDA’s current Good Manufacturing Practices (“cGMPs”) and all other applicable laws and regulations. We maintain confidentiality agreements with potential and existing manufacturers in order to protect our proprietary rights related to GIAPREZA and LJPC-0118.
+The long-term commercial success of GIAPREZA will depend in part on the ability of our contract manufacturers to supply cGMP-compliant API and drug product without interruption.
+Regulatory Exclusivity
+
+GIAPREZA is a New Chemical Entity (“NCE”) approved by the FDA. In the U.S., NCEs approved by the FDA are eligible for market exclusivity under the FDCA, which can prevent the approval of generic versions of the NCE for 5 to 7.5 years from the date of the initial approval of the NCE. Specifically, the FDCA provides a 5-year period of marketing exclusivity within the U.S. to the applicant that gains approval of an NDA for an NCE. A drug is an NCE if the FDA has not previously approved any other new drug containing the same active moiety, which is the molecule or ion responsible for the action of the drug substance. During the exclusivity period, the FDA may not accept for review an Abbreviated New Drug Application (“ANDA”) or a 505(b)(2) NDA submitted by another company for another version of such drug where the applicant does not own or have a legal right of reference to all of the data required for approval. However, an application may be submitted 4 years after the NDA approval of the NCE if it contains a certification of patent invalidity or non-infringement. This certification will trigger an automatic stay in the approval of any generic competition until the earlier of: (a) 30 months from the certification; or (b) a court ruling of patent invalidity or non-infringement for the relevant patents. In the absence of a court ruling, the 30-month stay will be extended by such amount of time (if any) that is required for 7.5 years to have elapsed from the date of NDA approval of the NCE.
+Intellectual Property
+Patents and other proprietary rights are important to our business. As of December 31, 2019, we owned or had in-licensed 10 issued U.S. patents, 12 pending U.S. patent applications, 3 issued foreign patents and 45 pending foreign patent applications that cover GIAPREZA. The U.S. patents and patent applications expire between 2029 and 2040, and the foreign patents and patent applications expire between 2034 and 2040. The following table summarizes our issued patents and pending applications for GIAPREZA and our product candidates.
+
+ | United States | Foreign
+Description | Issued | Pending | Expiration | Issued | Pending | Expiration
+GIAPREZA | 10 | 12 | 2029−2040 | 3 | 45 | 2034−2040 
+Other | 19 | 16 | 2022−2040 | 30 | 66 | 2022−2040 
+
+We plan to file additional patent applications that, if issued, would provide further protection for GIAPREZA. Although we believe the bases for these patents and patent applications are sound, they are untested, and there is no assurance that they will not be successfully challenged. There can be no assurance that any patent previously 
+13
+
+issued will be of commercial value, that any patent applications will result in issued patents of commercial value or that our products will not be held to infringe patents held by others.
+Material Contracts
+In May 2018, we closed a $125.0 million royalty financing agreement (the “Royalty Agreement”) with HealthCare Royalty Partners (“HCR”). Under the terms of the Royalty Agreement, we received $125.0 million in exchange for tiered royalty payments on worldwide net sales of GIAPREZA. HCR is entitled to receive quarterly royalties on worldwide net sales of GIAPREZA beginning April 1, 2018. Quarterly payments to HCR under the Royalty Agreement start at a maximum royalty rate, with step-downs based on the achievement of annual net product sales thresholds. Through December 31, 2021, the royalty rate will be a maximum of 10%. Starting January 1, 2022, the maximum royalty rate may increase by 4% if an agreed-upon, cumulative net product sales threshold has not been met, and, starting January 1, 2024, the maximum royalty rate may increase by an additional 4% if a different agreed-upon, cumulative net product sales threshold has not been met. The Royalty Agreement is subject to maximum aggregate royalty payments to HCR of $225.0 million. The Royalty Agreement expires upon the first to occur of January 1, 2031 or when the maximum aggregate royalty payments have been made. The Royalty Agreement was entered into by our wholly-owned subsidiary, La Jolla Pharma, LLC, and HCR has no recourse under the Royalty Agreement against La Jolla Pharmaceutical Company or any assets other than GIAPREZA.
+
+In December 2014, we entered into a patent license agreement with George Washington University (“GW”), which was amended and restated on March 1, 2016 (the “GW License”) and subsequently assigned to La Jolla Pharma, LLC. Pursuant to the GW License, GW exclusively licensed to us certain intellectual property rights relating to GIAPREZA, including the exclusive rights to certain issued patents and patent applications covering GIAPREZA. Under the GW License, we are obligated to use commercially reasonable efforts to develop, commercialize, market and sell GIAPREZA. We have paid a one-time license initiation fee, annual maintenance fees, an amendment fee, additional payments following the achievement of certain development and regulatory milestones and royalties. As a result of the EC’s approval of GIAPREZA in August 2019, we made a milestone payment to GW in the amount of $0.5 million in the first quarter of 2020. We are obligated to pay a 6% royalty on net sales of GIAPREZA. The patents and patent applications covered by the GW License are expected to expire between 2029 and 2034, and the obligation to pay royalties under this agreement extends through the last-to-expire patent covering GIAPREZA.
+Government Regulation
+Pharmaceutical products, including GIAPREZA, are subject to extensive government regulation. In the U.S., the FDA regulates pharmaceutical products. FDA regulations govern the testing, research and development activities, manufacturing, quality, storage, advertising, promotion, labeling, sale and distribution of pharmaceutical products. Accordingly, there is a rigorous process for the approval of new drugs and ongoing oversight of marketed products. We may also be subject to foreign regulatory requirements governing clinical studies and drug products if products are tested or marketed abroad. The approval process outside of the U.S. varies from jurisdiction to jurisdiction and the time required may be longer or shorter than that required for FDA approval.
+Regulation in the U.S.
+
+The FDA testing and approval process requires substantial time, effort and financial resources. We cannot assure you that any of our product candidates will ever obtain approval. The FDA approval process for new drugs includes, without limitation:
+
+• | preclinical studies;
+
+
+• | submission in the U.S. of an IND for clinical studies conducted in the U.S.;
+
+
+• | adequate and well-controlled clinical studies to establish safety and efficacy of the product;
+
+
+• | review and approval of an NDA in the U.S.; and
+
+
+• | inspection of the facilities used in the manufacturing of the drug to assess compliance with the FDA’s cGMP regulations.
+
+Any products manufactured or distributed by us pursuant to FDA approvals are subject to continuing regulation by the FDA, including record-keeping requirements and reporting of adverse experiences with the drug. Drug manufacturers and their subcontractors are required to register their establishments with the FDA and certain 
+14
+
+state agencies and are subject to periodic unannounced inspections by the FDA and certain state agencies for compliance with cGMPs, which impose certain procedural and documentation requirements on us and our third-party manufacturers. Even after regulatory approval is obtained, under certain circumstances, such as later discovery of previously unknown safety risks, the FDA can withdraw approval or subject the drug to additional restrictions.
+
+The FDA closely regulates the marketing and promotion of drugs. Drugs may only be marketed in a manner consistent with their FDA-approved labeling. Approval may be subject to post-marketing surveillance and other record-keeping and reporting obligations. Product approvals may be withdrawn if compliance with regulatory standards is not maintained or if problems occur following initial marketing. 
+The failure to comply with FDA’s requirements can result in adverse publicity, warning letters, corrective advertising, restrictions on marketing or manufacturing, refusals to review pending product applications, refusals to permit the import or export of products, seizures, injunctions, and civil and criminal penalties.
+Tropical Disease Priority Review Voucher
+Under Section 524 of the FDCA, the FDA is authorized to award a tropical disease PRV to sponsors of applications for certain products for the prevention or treatment of certain tropical diseases. A tropical disease PRV may be used by the sponsor that obtains the tropical disease PRV or may be transferred to another sponsor that may use it to obtain Priority Review for a different application. A Priority Review designation means that the FDA’s goal is to take action on an NDA or a Biologics License Application (which need not relate to a tropical disease) within 6 months of its filing (compared to 10 months under standard review), which means that a tropical disease PRV can result in a reduction in FDA review time of up to 4 months. Without a PRV, Priority Review designation is for drugs that, if approved, would be significant improvements in the safety or effectiveness of the treatment or prevention of serious conditions. In order to be eligible for a tropical disease PRV, the application must: (i) be for a tropical disease as defined in Section 524 of the FDCA; (ii) be submitted under Section 505(b)(1) of the FDCA or Section 351 of the Public Health Service Act (“PHSA”); (iii) be for a product that contains no active ingredient that has been approved in any other application submitted under Section 505(b)(1) of the FDCA or Section 351 of the PHSA; and (iv) qualify for Priority Review.
+Third-party Payor Coverage and Reimbursement
+In the U.S. and most major foreign markets, drugs like GIAPREZA that are administered in the hospital must be purchased by the hospital and generally are not reimbursed by third-party payors. Hospitals instead are reimbursed for patient cases based on patients’ diagnosed conditions under the U.S. Medicare diagnosis-related group (“DRG”) system or other like systems for non-Medicare patients in the U.S. and in most major foreign markets. Adoption of new drugs that are administered in the hospital generally occurs more slowly than adoption of new drugs that are taken on an outpatient basis, which generally are paid for by third-party payors.
+U.S. Health Care Fraud and Abuse Laws and Compliance Requirements
+We are subject to various federal and state laws targeting fraud and abuse in the health care industry. These laws may impact, among other things, our sales and marketing efforts. In addition, we may be subject to patient privacy regulation by both the federal government and the states in which we conduct our business. The laws that may affect our ability to operate include:
+
+• | The federal Anti-Kickback Statute, which prohibits, among other things, persons from soliciting, receiving, offering or paying remuneration, directly or indirectly, in cash or in kind, to induce or reward, or in return for, either the referral of an individual for, or the purchase, order or recommendation of, an item or service reimbursable under a federal health care program, such as the Medicare and Medicaid programs. The term “remuneration” has been broadly interpreted to include anything of value, including for example gifts, cash payments, donations, the furnishing of supplies or equipment, waivers of payment, ownership interests, and providing any item, service or compensation for something other than fair market value.
+
+
+• | Federal false claims and civil monetary penalties laws, including the federal civil False Claims Act, which prohibits anyone from, among other things, knowingly presenting, or causing to be presented, for payment to federal programs (including Medicare and Medicaid) claims for items or services that are false or fraudulent. Although we may not submit claims directly to payors, manufacturers can be held liable under these laws in a variety of ways. These include: providing inaccurate billing or coding information to
+
+15
+
+customers; improperly promoting a product’s off-label use; violating the federal Anti-Kickback Statute; or misreporting pricing information to government programs.
+
+• | Provisions of the federal Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), which created new federal criminal statutes that prohibit, among other things, knowingly and willfully executing a scheme to defraud any health care benefit program or making false statements in connection with the delivery of or payment for health care benefits, items or services.
+
+
+• | The federal Physician Payment Sunshine Act requirements, under the Patient Protection and Affordable Care Act (“PPACA”), which require manufacturers of certain drugs and biologics to track and report to U.S. Centers for Medicare & Medicaid Services (“CMS”) payments and other transfers of value they make to U.S. physicians and teaching hospitals as well as physician ownership and investment interests in the manufacturer.
+
+
+• | Provisions of HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act and its implementing regulations (“HITECH”), which impose certain requirements relating to the privacy, security and transmission of individually identifiable health information.
+
+
+• | Section 1927 of the Social Security Act, which requires that manufacturers of drugs and biological products covered by Medicaid report pricing information to CMS on a monthly and quarterly basis, including the best price available to any customer of the manufacturer, with certain exceptions for government programs, and pay prescription rebates to state Medicaid programs based on a statutory formula derived from reported pricing information.
+
+
+• | State law equivalents of each of the above federal laws, such as the recently effective California Consumer Privacy Act, many of which differ from each other in significant ways and may not have the same effect, which complicates our compliance efforts.
+
+Regulation in Non-U.S. Jurisdictions
+
+In addition to regulations in the U.S., we may be subject to a variety of foreign regulations governing clinical studies and commercial sales and distribution of GIAPREZA or future products. For example, clinical studies conducted in the European Union must be done under a clinical trial application (“CTA”), which is usually supported by an Investigational Medicinal Product Dossier (“IMPD”), and the oversight of ethics committees. If we market GIAPREZA in foreign countries, we also will be subject to foreign regulatory requirements governing marketing approval for pharmaceutical products. The requirements governing the conduct of clinical studies, product approval, pricing and reimbursement vary widely from country to country. Whether or not FDA approval has been obtained, approval of a product by the regulatory authorities of foreign countries must be obtained before marketing the product in those countries. The approval process varies from country to country, and the time required for such approvals may differ substantially from that required for FDA approval. Foreign regulatory approval processes involve many of the risks associated with FDA marketing approval discussed above. There is no assurance that any FDA approval of any of our product candidates will result in similar foreign approvals or vice versa. The process for clinical studies in the European Union and other countries is similar, and studies are heavily scrutinized by the designated ethics committees and regulatory authorities. In addition, foreign regulations may include applicable post-marketing requirements, including safety surveillance, anti-fraud and abuse laws, and implementation of corporate compliance programs and reporting of payments or other transfers of value to health care professionals and entities.
+In Europe, the European Union General Data Protection Regulation (2016/679) (“GDPR”) contains provisions specifically directed at the processing of health information. The GDPR provides for potentially significant sanctions and contains extraterritoriality measures intended to bring non-EU companies under the regulation. In addition to the GDPR, individual countries in Europe and elsewhere in the world have enacted similar data privacy legislation. This legislation imposes increased compliance obligations and regulatory risk, including the potential for significant fines for noncompliance.
+16
+
+Other Laws and Regulations
+We are subject to a variety of financial disclosure and securities trading regulations as a public company in the U.S., including laws relating to the oversight activities of the U.S. Securities and Exchange Commission (“SEC”) and the regulations of the Nasdaq Capital Market, on which our shares of common stock are traded. We are also subject to various laws and regulations relating to safe working conditions, laboratory practices and the experimental use of animals.
+Employees
+As of February 24, 2020, we employed 91 employees, of which 90 were full time. None of our employees are covered by collective bargaining agreements.
+Corporate and Other Information
+The Company was incorporated in Delaware in 1989 and reincorporated in California in 2012. Our principal office is located at 4550 Towne Centre Court, San Diego, CA 92121, and our telephone number is (858) 207-4264. Shares of our common stock trade on the Nasdaq Capital Market under the symbol “LJPC.” Our website address is www.ljpc.com. Information contained on or accessible through our website is not a part of this Annual Report on Form 10-K, and the inclusion of our website address in this Annual Report on Form 10-K is an inactive textual reference only.
+We file electronically with the SEC our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. We make available on our website at www.ljpc.com, free of charge, copies of these reports as soon as reasonably practicable after filing or furnishing these reports with the SEC. The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.

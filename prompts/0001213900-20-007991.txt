@@ -1,0 +1,235 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS
+--------+---------
+
+Company History
+ 
+Helix TCS, Inc. was incorporated in Delaware on March 13, 2014. Pursuant to the acquisition of the assets of Helix TCS, LLC, as discussed below, we changed our name from Jubilee4 Gold, Inc. to Helix TCS, Inc. effective October 25, 2015.
+ 
+Effective October 25, 2015, we entered into an acquisition and exchange agreement (the “Acquisition Agreement”) with Helix TCS LLC (the “LLC”). We closed the transaction contemplated under the Acquisition Agreement (the “Acquisition”) on December 23, 2015 and Helix TCS, LLC was merged into and with Helix.
+ 
+Pursuant to the terms and conditions of the Acquisition Agreement, the owner of 100% of the issued and outstanding units of the LLC immediately prior to the closing of the Acquisition, exchanged their units for an aggregate of 22,225,000 shares of our common stock (post-reverse split) and all of our issued Class A Preferred Stock.
+ 
+Effective April 11, 2016, we acquired the assets of Revolutionary Software, LLC (“Revolutionary”). The acquisition occurred through two transactions, the first occurred on March 14, 2016 and the second occurred on April 11, 2016. The total consideration for the acquisition included payment in the form of $650,000 in cash and 2,395,000 shares of restricted common stock of the Company. A portion of the cash consideration was paid at each transaction closing and a portion was paid over time.
+ 
+On June 2, 2017, the Company entered into a Membership Interest Purchase Agreement (the “Agreement”) in which the Company purchased all issued and outstanding Units of Security Grade Protective Services, Ltd. (“Security Grade”), which was comprised of 800,000 Class A Units and 200,000 Class B Units. At closing, the Company delivered $800,000 in cash and 207,427 non-qualified stock options (the “Initial Stock Options”). Furthermore, provided that, within the first 60 days following the closing, no material customer identified in the Agreement terminates its contractual relationship with the Company and that all contracts with such material customers are in full force and effect without default or cancellation as of the 60th day following the closing, on the 61st day following the closing, the Company shall issue 207,427 additional stock options (the “Additional Stock Options”). The Company subsequently issued the 207,427 additional stock options on August 1, 2017 as well as a second cash payment of $800,000 pursuant to the original terms of the Agreement.
+ 
+On March 3, 2018, Helix TCS, Inc. and its wholly owned subsidiary, Helix Acquisition Sub, Inc. (“BioTrackTHC Merger Sub”), entered into an Agreement and Plan of Merger (the “BioTrackTHC Merger Agreement”) with Bio-Tech Medical Software, Inc. (“BioTrackTHC”) and Terence J. Ferraro, as the representative of the BioTrackTHC stockholders, pursuant to which BioTrackTHC Merger Sub merged with and into BioTrackTHC (the “BioTrackTHC Merger”).
+ 
+On June 1, 2018 (the “BioTrackTHC Closing Date”), in connection with closing the BioTrackTHC Merger, the Company issued 38,184,985 unregistered shares of its common stock to BioTrackTHC stockholders, of which 1,852,677 shares were held back to satisfy indemnification obligations in the BioTrackTHC Merger Agreement, if necessary. The Company also assumed the Bio-Tech Medical Software, Inc. 2014 Stock Incentive Plan (“BioTrackTHC Stock Plan”), pursuant to which options exercisable in the amount of 8,132,410 shares of common stock are outstanding. As a result, BioTrackTHC stockholders owned approximately 48% of the Company on a fully diluted basis as of the BioTrackTHC Closing Date.
+ 
+On August 3, 2018 (the “Engeni Closing Date”), the Company and its wholly owned subsidiary, Engeni Merger Sub, LLC (“Engeni Merger Sub”), entered into an Agreement and Plan of Merger (the “Engeni Merger Agreement”) with Engeni LLC (“Engeni US”), Engeni S.A (“Engeni SA”), Scott Zienkewicz, Nicolas Heller and Alberto Pardo Saleme (the “Engeni US members”), and Scott Zienkewicz, as the representative of the Engeni US members. Pursuant to the Engeni Merger Agreement, Engeni Merger Sub merged with and into Engeni US, with Engeni US surviving the merger as a wholly-owned subsidiary of the Company (the “Engeni Merger”).
+ 
+1
+
+ 
+
+On the Engeni Closing Date, in connection with closing the Engeni Merger Agreement, the Company issued 366,700 shares of Company common stock to Engeni US members. Furthermore, the Company subsequently issued Engeni US members 733,300 shares of Company common stock on April 2, 2019.
+ 
+On April 1, 2019 (“Tan Security Closing Date”), the Company entered into a Membership Interest and Stock Purchase Agreement (the “Tan Security Acquisition Agreement”) with Tan’s International Security and Tan’s International LLC (collectively, “Tan Security”). Pursuant to the Tan Security Acquisition Agreement, the Company purchased all membership interests and capital stock of Tan Security and collectively holds 100% of the interests of Tan Security (the “Tan Security Acquisition”).
+ 
+On February 5, 2019, the Company and its wholly owned subsidiary, Merger Sub, entered into an Agreement and Plan of Merger (the “Amercanex Merger Agreement”) with Green Tree International, Inc. (“GTI”) and Steve Janjic, as the representative of the GTI shareholders, pursuant to which Merger Sub merged with and into GTI (the “GTI Merger”).
+ 
+On September 10, 2019, the Company closed the GTI Merger and entered into an Addendum No. 1 to the Amercanex Merger Agreement acknowledging and approving certain events that occurred since signing as well as implementing various related amendments to the Amercanex Merger Agreement. In connection with closing the GTI Merger, the Company issued 16,765,727 unregistered shares of Company common stock to GTI shareholders, of which 4,140,274 shares were held back to satisfy indemnification obligations in the Americanex Merger Agreement, if necessary.
+  
+Overview 
+ 
+Helix TCS, Inc. provides critical infrastructure solutions to the legal cannabis industry. Our mission is to provide clients with the best-in-class critical infrastructure services through a single integrated platform which enables them to run their businesses more safely, efficiently, and profitably. As we increase our platform’s scale and scope, clients will be able to realize greater cost savings and operating advantages through our integrated end-to-end business solutions.
+ 
+2
+
+ 
+
+Commercial Services
+ 
+Technology Services
+ 
+Helix BioTrack 
+ 
+Helix BioTrack (formerly BioTrackTHC) has been rated as the largest retail seed-to-sale compliance software provider by market share, and continued to grow in 2019. The business has tracked over $18bn of legal cannabis transactions, and has expanded into Europe and Latin America, in addition to its 2,000+ client locations stateside, and 9 government contracts. BioTrack’s transactional and technological capabilities form the backbone of an integrated services platform that we have built over the last 48 months, and will continue to build and deploy in 2020. In any version of full legalization in the United States, seed-to-sale tracking in commercial locations will be the key compliance tool used by governments to regulate the extensive legal cannabis market.
+Helix Exchange
+ 
+Helix Exchange (formerly Amercanex) is a fully electronic, compliant and transparent exchange and is the technology leader for buying, selling and tracking wholesale cannabis and hemp transactions. The core function of this marketplace is to ensure fair and orderly transactions, as well as efficient dissemination of price information, for products bought and sold on Helix Exchange. Additionally, Helix Exchange seamlessly integrates with state and commercial tracking systems to provide automated end-to-end compliance.
+Helix Cannalytics
+ 
+Helix Cannalytics is a proprietary business intelligence and data analytics platform that allows users to easily view and dissect key business data points generated from within BioTrack and Helix Exchange. The Cannalytics model focuses on providing solutions for real-time critical business insights via client partnerships and customized data and analytics solutions centered around machine learning algorithms. Helix Cannalytics offers a comprehensive approach to presenting cannabis business data in a logical and easy to use format with fully-customized business intelligence solutions catered to the unique needs of licensed cannabis businesses.
+Helix Security
+ 
+Helix Security provides effective security solutions to cannabis businesses, including assessments and planning, security system design and implementation, asset protection, transport, and consulting services to help licensees meet state security requirements. All systems and services are guaranteed to meet individual state regulatory requirements and to achieve compliance.
+Security Systems/Physical Security
+ 
+We provide security system assessment services for our customers and licensed cannabis business operators. Our core existing products and services include the following:
+ 
+
+● | IP CCTV systems 
+--+---------------------------------------------------------
+
+
+● | 24/7 virtual monitoring 
+--+-----------------------------------------------------------------
+
+
+● | Cloud storage 
+--+-------------------------------------------------------
+
+
+● | Intrusion alarm systems 
+--+-----------------------------------------------------------------
+
+
+● | Perimeter alarm systems 
+--+-----------------------------------------------------------------
+
+
+● | Access control 
+--+--------------------------------------------------------
+
+
+● | Security consulting for license applications 
+--+--------------------------------------------------------------------------------------
+
+ 
+In 2015, we commenced offering armed and unarmed guards, as well as armed transport services to the cannabis industry in Colorado. As of 2018, we provide site risk assessments and consulting services as well. We have made significant investments in state security licenses and high-level training programs, which have generated positive results in customer acquisition and retention. We have expanded our market further in 2019 by signing new clients in California and Colorado, and forming strategic partnerships to facilitate the potential for national expansion.
+ 
+3
+
+ 
+
+Industry and Regulatory Background
+ 
+In the 1930’s, Congress made marijuana illegal on the federal level, and it was scheduled as a narcotic. In the 1960s and 1970s, as the popularity of marijuana use grew, states began to realize that they needed drug policies consistent with the community and consumer use of marijuana. Under the Federal Controlled Substances Act of 1970, marijuana is currently classified as a “Schedule I” controlled substance. The level of enforcement in states varies widely regarding marijuana.
+ 
+In 1996, Oregon and California passed legislation that legalized the possession and consumption of marijuana use for medical purposes. As of December 31, 2019, thirty-three states and the District of Columbia have legalized marijuana in one form or another. The Colorado, Washington, Oregon, and Alaska state policies to legalize recreational marijuana were not challenged by federal authorities, which was largely due to the guidance put forth in the August 29, 2013 memorandum from James Cole, the U.S. Deputy Attorney General, titled “Guidance Regarding Marijuana Enforcement” (the “Cole Memo”). This memorandum states that federal enforcement agencies are unlikely to enforce the Controlled Substances Act in states where marijuana has been legalized, and where the regulation and control is functional. As of December 31, 2019, eleven states and the District of Columbia have legalized recreational cannabis use.
+ 
+On the federal level, marijuana has been considered an illegal substance since 1930. This has caused various impediments to the marijuana industry, the most prominent of which is in banking. Although the U.S. Treasury has provided guidance intended to give banks the confidence that they can work with marijuana businesses in legal cannabis states, many banks are still reluctant to do so.
+ 
+According to a recent report, Legal Marijuana Market Size, Share & Trends Analysis Report By Type (Medical Cannabis, Recreational Cannabis), By Product Type, By Medical Application (Cancer, Mental Disorders), And Segment Forecasts, 2019 - 2025, “The global legal marijuana market size was estimated at USD 13.8 billion in 2018 and is projected to expand at a CAGR of 23.9% by 2025. Growing legalization in various countries is primarily driving the market. Furthermore, rising adoption of cannabis as a medical product for treating conditions, such as Parkinson’s disease, cancer, arthritis, and neurological disorders is also expected to fuel revenue growth in the forthcoming years.”
+ 
+Furthering the growth of the legal cannabis industry, The House Judiciary Committee has approved a bill that would decriminalize marijuana at the federal level. The Marijuana Opportunity Reinvestment and Expungement Act of 2019, or MORE Act, passed 24-10. The bill is now awaiting to be heard by the full House of Representatives.
+ 
+Upon successful legalization at a federal level, cannabis and hemp will be further scrutinized with additional complex regulatory compliance as markets emerge and interstate/international commerce become prevalent.
+ 
+Government Regulation
+ 
+Marijuana is categorized as a “Schedule I” controlled substance by the Drug Enforcement Agency and the United States Department of Justice. It is currently illegal to grow, possess, sell, purchase, and/or consume cannabis under Federal law. A Schedule I controlled substance is defined as a substance that has no currently accepted medicinal use in the United States, a lack of safety for use under medical supervision and a high potential for abuse. The Department of Justice also characterizes Schedule I controlled substances as the most dangerous drugs of all the drug schedules with potentially severe psychological and/or physical dependence.
+ 
+4
+
+ 
+
+Despite this, thirty-three states and the District of Columbia have passed state laws that permit doctors to prescribe cannabis for medicinal use. Additionally, eleven states, and the District of Columbia, have enacted laws that allow recreational adult use of cannabis. As a result of the foregoing, an unpredictable business environment has been created for cannabis companies that can legally operate under state laws but are nonetheless openly in violation of Federal laws. On August 29, 2013, United States Deputy Attorney General James Cole issued the Cole Memo to United States Attorneys guiding them to prioritize enforcement of Federal law away from the cannabis industry operating as permitted under state law, so long as:
+ 
+
+● | cannabis is not being distributed to minors and dispensaries are not located around schools and public buildings; 
+--+----------------------------------------------------------------------------------------------------------------------
+
+
+● | the proceeds from sales are not going to gangs, cartels or criminal enterprises; 
+--+-------------------------------------------------------------------------------------
+
+
+● | cannabis grown in states where it is legal is not being diverted to other states; 
+--+--------------------------------------------------------------------------------------
+
+
+● | cannabis-related businesses are not being used as a cover for sales of other illegal drugs or illegal activity; 
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+● | there is not any violence or use of fire-arms in the cultivation and sale of marijuana; 
+--+--------------------------------------------------------------------------------------------
+
+
+● | there is strict enforcement of drugged-driving laws and adequate prevention of adverse health consequences; and 
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+● | cannabis is not grown, used, or possessed on Federal properties. 
+--+---------------------------------------------------------------------
+
+ 
+In January 2018, the Trump administration rescinded the Obama-era directive of easing federal enforcement on legalized marijuana usage. The subsequent departure of Jeff Sessions as Attorney General has signaled to the industry a potential softening of the federal government’s stance, and the recent introduction of a banking bill that would allow the cannabis industry to obtain banking services if enacted into law would also be a positive step.
+ 
+The Market
+ 
+The market for Helix’ full suite of critical infrastructure services encompasses all licensed cannabis operators in locations where medical or recreational cannabis (both high potency THC strains of marijuana and hemp) has been legalized. As more states and countries begin the decriminalization and legalization process, new markets continue to emerge resulting in a natural expansion of our global reach.
+ 
+As with any emerging market, several companies within the industry achieve a higher level of success faster and are able to scale more rapidly than others. In the cannabis space, a handful of companies hold licenses and operate throughout multiple legal markets and are referred to as Multi-State Operators (MSOs).
+ 
+Within newly formed markets, MSOs apply for and are granted licenses allowing these companies to penetrate states that are initially rolling out their cannabis legalization plans.
+ 
+Another tactic used by MSOs to drive consolidation in the cannabis space is to purchase active licenses from established businesses or acquire the business itself (in some cases other MSOs). Mergers and acquisitions inside the cannabis industry are commonplace and show no signs of slowing in the near future.
+ 
+As more states continue towards the path of legalization, the next logical step in the expansion of the market lies in federal legalization. The conversation around this topic has been prominent in the current political conversations in Washington D.C. and several measures have already been passed lowering the threshold of federal government regulation on the industry.
+ 
+Once legalization does occur at the federal level, this will in turn create an opportunity for the U.S. market to expand globally in much the same way it has domestically but with the added benefits of both interstate and international trade.
+ 
+Helix currently operates in six other countries around the world including Canada, Jamaica, Colombia, New Zealand, Australia and the United Kingdom.
+ 
+Sales and Marketing Strategy
+ 
+As a leading provider of technology in the cannabis space it is imperative that Helix continue to develop and improve its service platforms to meet the ever-changing needs of the industry. While the legacy version of Helix BioTrack continues to be a highly sought-after business solution, Helix Technologies has been working diligently to develop a new and greatly enhanced version of the seed-to-sale tracking and dispensary point-of-sale platform.
+ 
+5
+
+ 
+
+To compliment both the legacy Helix BioTrack software as well as the new version, in the summer of 2019 Helix undertook the process of creating an in-depth data analytics and business intelligence platform, Helix Cannalytics. This platform puts the power of data to use for operators to gain more valued insights into their businesses resulting in the ability to make better informed decisions.
+ 
+Along with creating new products internally, Helix currently provides infrastructure solutions for multiple MSOs and as a result their expansion in new and existing markets. Through both organic and M&A avenues, Helix continues to see growth with little additional resources expended.
+ 
+With focusing our efforts on key organic growth strategies, Helix remains ready to expand its services should the opportunity arise. This is highlighted by the acquisition of the online wholesale cannabis exchange, Amercanex, in the fall of 2019, a little more than one year after acquiring BioTrackTHC.
+ 
+Helix’ multifaceted growth strategy has put the company in a prime position to continue to take, and take back, market share from our competition. According to the 2019 Mid-Year Report: Point of Sale Software in the Cannabis Industry by Cannabiz Media, “At the end of 2018, five vendors accounted for 80% of the cannabis market…” and of the five vendors, Helix BioTrack was ranked at the top, accounting for 24% of the total market share.
+ 
+In addition to expansion of both our customer base and market share, Helix has taken a concerted effort to focus on a lean, efficient growth and operations strategy. This includes the reorganization of our support department, realignment of key organizational management, and a planned company-wide rebrand to drive succinct marketing across all business lines by leveraging unified and synergistic brand messaging.
+ 
+By harnessing the industry reputation that Helix BioTrack has built since 2010, Helix will continue to target nascent and emerging state markets as the primary focus of our sales and marketing strategy in the legal marijuana sector for the immediate future. Additionally, the company will continue to sell and market our SaaS products to an emerging nationwide hemp program.
+ 
+In anticipation of federal cannabis legalization in the United States, Helix has undertaken preparations to position itself for the scale in both technology and operations that will be necessary to facilitate a global marketplace as well as an interstate and international exchange of goods. 
+ 
+Business Acquisitions
+ 
+During the second quarter of 2017, we greatly enhanced our core operations with the acquisition of Security Grade. Security Grade is a market leader in the security profession and provides a broad range of services, from security consulting to installation of surveillance technology. Consistent with our team of professionals, Security Grade employs specialists with extensive experience and exposure to all areas of security related services. This strategic acquisition will help field the growing demand in the Legal Cannabis Industry.
+ 
+On March 3, 2018, Helix TCS, Inc. and its wholly owned subsidiary, BioTrackTHC Merger Sub, entered into the BioTrackTHC Merger Agreement with BioTrackTHC and Terence J. Ferraro, as the representative of the BioTrackTHC stockholders, pursuant to which BioTrackTHC Merger Sub merged with and into BioTrackTHC.
+ 
+On August 3, 2018, the Company and its wholly owned subsidiary, Engeni Merger Sub, entered into an Agreement and Plan of Merger with Engeni US, Engeni SA, the Engeni US members, and Scott Zienkewicz, as the representative of the Engeni US members. Pursuant to the Engeni Merger Agreement, Engeni Merger Sub merged with and into Engeni US, with Engeni US surviving the merger as a wholly-owned subsidiary of the Company.
+ 
+On April 1, 2019, the Company entered into the Tan Security Acquisition Agreement with Tan Security. Pursuant to the Tan Security Acquisition Agreement, the Company purchased all membership interests and capital stock of Tan Security and collectively holds 100% of the interests of the Tan Security Acquisition.
+ 
+6
+
+ 
+
+On February 5, 2019, the Company and its wholly owned subsidiary, Merger Sub, entered into an the Amercanex Merger Agreement with GTI and Steve Janjic, as the representative of the GTI shareholders, pursuant to which Merger Sub merged with and into GTI (the “GTI Merger”).
+ 
+On September 10, 2019, the Company closed the GTI Merger and entered into an Addendum No. 1 to the Amercanex Merger Agreement acknowledging and approving certain events that occurred since signing as well as implementing various related amendments to the Amercanex Merger Agreement.
+ 
+Asset Acquisition
+ 
+During March and April 2016, we acquired the assets of Revolutionary. Revolutionary was the founder and operator of Cannabase which aspired to be a wholesale marketplace for the legal cannabis industry. The assets acquired were development stage software, web addresses, and certain trademarks. We have transformed certain intangible assets into business lines that were not explored by Revolutionary prior to the transaction. Revolutionary’s revenue was generated primarily from wholesale brokerage commissions from transactions that were facilitated by the Cannabase platform.
+ 
+Cannabase was a tradename used for an attempt to build an online community. There was virtually no revenue created prior to our acquisition of Revolutionary assets. The Company has and will continue to spend significant capital to attempt to develop this online community. The Company intends to do this by writing new software code, hiring salespeople, and opening into other states. Revolutionary was not scalable on a multi-regional basis due to it being limited to the legal cannabis industry which is operational in certain states. The revenues generated since the asset acquisition have been generated from an advertising business model that was not in effect at Revolutionary. Since only nominal revenues had been generated previous to the acquisition, the Company has had to, and will continue to, invest substantial capital to transform the software assets acquired for use in a new business model.
+ 
+We are currently in the process of developing advertising, consumer-focused, and data-related business lines using the intellectual property acquired. To achieve the new business plan, we expect it will continue to take significant management time, as well as substantial financial resources in software development, marketing, sales personnel, and technology expenditures.
+ 
+Competition
+ 
+Helix BioTrack has multiple competitors. Some are focused solely on government traceability systems. Some are focused solely on point-of-sale software. Some provide all aspects of commercial software. And one company competes with BioTrack in all verticals. As the industry continues to grow, and as more geographies legalize cannabis, we expect more competitors will emerge, while some of the smaller ones will likely cease doing business or be acquired.
+ 
+We have positioned ourselves as an innovative security firm with a recognizable brand that offers effective and consistent services. Our competition in the security services sector of the cannabis industry primarily includes a variety of smaller, local security companies. Many of our larger competitors have ceased operations in the past 18 months. We believe that Helix Security has the largest cannabis-focused security business in the state of Colorado. We believe that we can continue to compete successfully with these companies based on our favorable reputation for outstanding reliability, customer service, and value added. There is no assurance, however, that our ability to deliver services successfully will not be impacted by competition that currently exists or may arise in the future.
+ 
+Employees
+ 
+As of December 31, 2019, we employed 216 full time employees and 31 part time employees. We believe that the employer-employee relationships in our Company are positive. We have no labor union contracts.
+Available Information
+ 
+Our website address is https://helixtechnologies.com/. We do not intend our website address to be an active link or to otherwise incorporate by reference the contents of the website into this Report. The U.S. Securities and Exchange Commission (the “SEC”) maintains an Internet website (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC. 
+ 
+7
+
+ 
+

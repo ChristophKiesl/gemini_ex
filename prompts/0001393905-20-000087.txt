@@ -1,0 +1,120 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS.
+GENERAL
+ 
+We were incorporated under the laws of the State of Delaware on March 2, 2000, under the original name 411 Place.com Inc. On February 28, 2001, we changed our name to Artescope, Inc., on July 29, 2002, we changed our name to GlobeTrac Inc., on July 11, 2012, we changed our name to Poly Shield Technologies Inc. and on August 25, 2014, we changed our name to Triton Emission Solutions Inc.
+ 
+As of the date of this Annual Report on Form 10-K we have not been able to achieve profitable operations; our working capital deficit at December 31, 2019, was $18,098,411 and weve accumulated a deficit of $81,580,105. As of December 31, 2019, we owed a total of $11,621,004 to KF Business Ventures, LP (KFBV), a company controlled by the Chairman of our Board of Directors, under the terms of three separate loan agreements with KFBV, consisting of the full principal amount of all advances made to that date ($5,900,000) plus interest and late payment fees accrued thereon. As of the date of this Annual Report on Form 10-K, the loans are in default. Should KFBV serve us with default notice and request a payment of the amounts owed, we will not be able to continue as a going concern and may be required to file for bankruptcy. Should this happen our investors will most likely lose their investment.
+ 
+The financial statements included with this Form 10-K do not include any adjustments to the amounts and classification of assets and liabilities that may be necessary should the Company be unable to continue as a going concern. Management intends to seek renegotiation of the loans with KFBV, and to obtain additional funding by borrowing funds from its directors and officers, issuing promissory notes and/or a private placement of common stock.
+
+1
+
+
+BUSINESS OF TRITON EMISSION SOLUTIONS
+ 
+We are in the business of developing and marketing emission abatement technologies for the marine industry worldwide.
+ 
+Our main products are represented by the Njord Exhaust Gas Scrubber System (the Njord System) and the DSOX Fuel Purification System (the DSOX-20 or DSOX System). The main purpose of the Njord System is to clean the exhaust gases from excess sulfur following the internal combustion process within a ships engine, whereas the DSOX-20 is a pre-combustion de-sulfurization technology designed to remove alkali metals, such as sulfur and sodium, from heavy marine fuel.
+ 
+Both systems can work as stand-alone units or can be used in conjunction with one another to get the ultimate results. The fairly small size of Njord System and capability of it working in both open and closed loop modes makes the system versatile for installation on new builds as well as for retrofitting existing vessels. Its unique design does not require the addition of any chemicals and results in minimal back pressure, allowing for an extended longevity of a ships engine.
+ 
+A market for emission abatement technologies in the marine industry has emerged due to the introduction of more stringent regulations proposed by International Maritime Organization (IMO) in 2008, which came in force on July 1, 2010. These regulations govern sulfur and nitrogen emission levels in Emissions Control Areas (ECA). Currently there are two major ECAs in effect: a European ECA (which includes the Baltic Sea; the North East Atlantic, including the North Sea and waters to the Northwest adjacent to Southern Norway) and a North-American ECA (which includes a 200 mile zone adjacent to North America for specific waters in the Pacific, Atlantic and Gulf coasts of the United States and Canada; and selected waters in the Caribbean adjacent to Puerto Rico and the U.S. Virgin Islands). As of January 1, 2015, the sulfur emission limits for ships operating in both ECAs were lowered to 0.1% by mass, as compared to 1.0% by mass limit, which was in effect prior to that date. Outside of the ECAs, global sulfur fuel limits have been reduced from 4.50% to 3.50% in 2012, and to 0.50% in 2020.
+ 
+China has established a marine sulphur limit of 0.50% applicable to fuel used while at berth in specific ports in the Pearl River Delta Area, the Yangtze River Delta Area, and the Bohai Sea Area. In 2018, the 0.50% sulphur limit became applicable to all ports within these three areas in China. In 2019, the 0.50% sulphur limit became applicable to all operations with defined emission control area in the Pearl River Delta Area, Yangtze River Delta Area, and the Bohai Sea Area.
+ 
+In order to meet the regulations for sulphur limits, vessels can use any one of three different compliance options:
+ 
+·
+Switch to low-sulfur fuels; 
+ ·
+Convert engines to run on cleaner liquefied natural gas (LNG); or 
+ ·
+Install an exhaust gas scrubber or fuel purification system directly on a ship to decrease the amount of sulfur in regular heavy fuels. 
+ 
+All three of these options currently have their own significant disadvantages. First, current low-sulfur fuels are more expensive than standard fuels, resulting in significantly higher operational costs. Second, most ships and ship engines are not currently equipped for LNG, requiring high capital costs to retrofit current ships and engines to use LNG. Finally, the majority of existing exhaust scrubbers are cost-ineffective due to the amount of space they require. In addition, the size and added weight of existing scrubbers can affect the stability of a ship. Also, existing exhaust scrubbers require the addition of certain chemicals to control pH and neutralize sulphur oxide, which adds significant cost.
+ 
+Our DSOX System, when fully commissioned and verified, will provide a low-cost alternative to using high cost, low-sulfur fuels by allowing ship operators to clean the sulphur content from standard fuels prior to the combustion process in the ships engine. The DSOX Systems also incorporate our Bio-Scrubber technology, removing alkali metals from existing fuels, decreasing maintenance costs and increasing the useful life of existing engines.
+ 
+Our Njord Scrubber can be used in conjunction with our DSOX-20, which will allow to further reduce the sulfur content from exhaust gases, or installed as a standalone system, depending on the space allowed in a ships funnel.
+
+2
+
+
+
+Products and Technologies
+ 
+Bio Scrubber Technology Overview
+ 
+The Bio Scrubber is a patented system designed to significantly reduce the maintenance cost and premature failure of gas turbine engines by removing alkali metals that are usually present in fuel.
+ 
+Salt, calcium and other alkali metal substances in the fuel stock result in high temperature corrosion and premature failure in gas turbine engine components. During combustion in a gas turbine, sodium from the fuel creates high temperature corrosion of the hot-section components of the gas turbine, such as nozzle, guide vanes and rotor blades, resulting in accelerated oxidation. In some cases, this accelerated oxidation can reduce the operational life of a gas turbine by more than 50%.
+ 
+By removing alkali metals from the fuel, the Bio Scrubber not only prolongs the life of gas turbine engines, it also significantly reduces operating and maintenance costs.
+ 
+We acquired our patent application rights to the Bio Scrubber technology directly from Mr. Norling, our former President and Chief Technical Officer (CTO), and current major shareholder.
+ 
+DSOX Pre-Combustion Fuel Purification System Overview
+ 
+Our DSOX-20 System is a patented de-sulfurization technology which was designed to remove alkali metals, such as sulfur and sodium, from heavy marine fuel. The DSOX-20 is based on our patented Bio Scrubber platform, integrating it with additional new proprietary technologies that we acquired from Mr. Norling in March 2014. These additional technologies react with and release the sulfur in the heavy marine fuel, allowing for an even cleaner by-product.
+ 
+DSOX-20 can be installed on a ship without disruption to the ships operations as a completely independent fuel treatment system with its own fuel oil separators and fuel quality monitoring system.
+ 
+Njord Exhaust Gas Scrubber System Overview
+ 
+The main purpose and goal of the Njord System is to clean the exhaust gases from excess sulfur following the internal combustion process within ships engine.
+ 
+Njord System can be used as a standalone system installed inside a ships funnel or in conjunction with our DSOX-20. Its fairly small size and capability of working in both, open and closed loop modes makes the system versatile for installation on new builds as well as for retrofitting existing vessels. Its unique design does not require addition of any chemicals and results in a minimal back pressure allowing for an extended longevity of a ships engine.
+ 
+Key Product Markets
+ 
+Our DSOX and Njord Systems (collectively, the Emission Technologies) are mainly designed for use within the marine industry, although they can be adapted for use in many other land-based non-marine applications. Due to the relatively small size and light weight of our Emission Technologies, they can be installed on almost any type of marine vessel and can be customized to fit any size engine. Our Emission Technologies can be installed on a ship at any time during the normal operation. However, dry dock would still be preferable for seawater intake and overboard installations. In cases where dry dock is not an option, these installations can be done during dive operations while a ship is in service.
+ 
+With stringent emission standards of 0.5% sulfur in fuel that came into effect in Europe and worldwide as of January 1, 2020, it is expected that the scrubber market will encompass all ships spending extensive time in international waters as currently it is the most cost-effective solution to complying with the regulations.
+ 
+
+3
+
+
+
+Major Customers
+ 
+We have signed agreements with LMS Ship Management Inc. (LMS) and Magical Cruise Company, Limited (DCL) for installation of our DSOX Systems. In addition, we have entered into a binding term sheet agreement with Prestige Cruise Holdings, Inc. (Prestige). As of the date of this Annual Report of Form 10-K, the projects contemplated under the above contracts and the term sheet are suspended until we can source sufficient financing.
+Competition
+ 
+The requirement for reduced SOx levels has been enacted since January 1, 2015, and as such the market for emission abatement technologies, such as ours, has been growing rapidly. We are one of the smallest participants in the emission abatement technologies sector and do not represent a competitive presence in the industry.
+Distribution and Supply Methods
+ 
+We are planning to use third party suppliers, with whom we would have to enter into various agreements, for production, as well as installation of our DSOX Systems and other Emission Technologies.
+Patent Rights, License Agreements and Royalty Rights
+ 
+DSOX Technology Rights
+ 
+The technologies that form the basis of our DSOX Pre-Combustion Fuel Purification System are covered by certain patents.
+ 
+In 2013, Mr. Norling, our former director, President and CTO, assigned US and European patent applications covering the Bio Scrubber technology to us under the terms of his previous employment agreement with us.
+ 
+On March 10, 2014, pursuant to a Technology Transfer Agreement between us and Mr. Norling, Mr. Norling sold to us additional technology rights covering all technologies owned by him as of that date that relate to the abatement and reduction of emissions and exhausts from internal combustion engines through the pre-treatment of input fuels, the treatment of exhaust gases produced by such engines, or any combination thereof (collectively, the Norling Emission Technologies). These included all of Mr. Norlings right in two patent applications filed by Mr. Norling that relate to the removal of sulfur from diesel fuel. In consideration for these technologies, we agreed to release to Mr. Norling 54,000,000 shares of our common stock that were issued to Mr. Norling under his prior employment agreement with us and subject to escrow restrictions. Under the Technology Transfer Agreement, Mr. Norling acknowledged and agreed that he was not entitled to the release of any of these shares under his previous employment agreement and that the 54,000,000 shares were being released to Mr. Norling in consideration for the technology rights transferred to us. The remaining 100,000,000 shares of common stock previously issued to Mr. Norling under his prior employment agreement were subsequently surrendered and cancelled.
+ 
+In July 2014, we filed an additional patent application covering the process of using our DSOX-20 System in combination with an exhaust gas scrubber.
+ 
+On January 10, 2017, the United States Patent and Trademark Office granted us a patent No. US 9,540,571 B2 entitled In-Line System For De-Salting Diesel Oil Supplied To Gas Turbine Engines.
+ 
+On September 26, 2017, the United States Patent and Trademark Office granted us a patent No. US 9,771,523 B2 entitled Fuel Cleaning System and Method for a Ship.
+ 
+On January 30, 2018, the United States Patent and Trademark Office granted us a patent No. US 9,878,300 B2 entitled Removal of Contaminants from Bunker Oil Fuel.
+ 
+On February 12, 2019, the United States Patent and Trademark Office granted us a patent No. US 10,201,782 B2 entitled Exhaust Gas Scrubber.
+
+4
+
+
+
+Expenditures on Research and Development During the Last Two Fiscal Years
+ 
+During the years ended December 31, 2019 and 2018, we did not incur any expenses associated with the research and further development of our Emission Technologies.
+ 
+Number of Total Employees and Number of Full Time Employees
+ 
+As of the date of this Annual Report, we do not have any employees. We expect to continue to outsource consulting, legal and accounting services to third parties, as well as use services of external manufacturers, installers, marketing and distribution consultants, as we believe that the use of third-party services is most cost-effective for the current level of operations.

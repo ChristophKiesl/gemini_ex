@@ -1,0 +1,234 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+OVERVIEW
+ 
+We are a fiber broadband and managed IT services provider, offering technology and service enabled customer solutions to business and wholesale customers in and out of Alaska. We also provide telecommunication services to consumers in the most populated communities throughout the state. Our facilities-based communications network extends through the economically significant portions of Alaska and connects to the contiguous states via our two diverse undersea fiber optic cable systems. Our network is among the most expansive in Alaska and forms the foundation of service to our customers. We operate in a largely two-player terrestrial wireline market and we estimate our market share to be less than 25% statewide. However, our revenue performance relative to our largest competitor suggests that we are gaining market share in the markets we are serving. A third-party market study indicates that we have market share of close to 40% for “near net” opportunities, that is, within one mile of our fiber network.
+Operating Initiatives
+ 
+We are focused on being a customer centric fiber company. Everything we do is focused around our customer, meeting and exceeding their needs through the application of technology. We are focused on delivering an exceptional customer experience throughout the customer lifecycle. This forms the foundation of our sustained differentiation, creating unique value for our customers to grow our market share, expand business with existing customers and minimize churn.
+ 
+Our future investments and subsequent initiatives are focused on building and strengthening the business in three areas:
+ 
+
+● | Enhance and Augment our Network and Capabilities: This is what we do and is the basis of our offers, to lead the competition through innovation and leverage the latest technologies to meet our customer’s needs. Activities include investments to grow our fiber footprint, augmented with high speed fixed wireless technologies, as well as expanding our product capabilities that fully leverage our existing and growing fiber footprint. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | Accelerate the Growth of Managed IT Services: This is a fragmented market without a leader, a significant market size and a set of services that are both adjacent and synergistic with communications and networking services. We continue to invest in winning share and expanding our capabilities, enabling and accelerating our customers’ transition to cloud services. 
+● | Drive Operational Excellence: Invest in operational systems that fundamentally change the way we deliver services that both enhance the customer experience as well as increase efficiency and productivity, redefining processes throughout the entire customer lifecycle to create new operating models and efficiencies. Investments that update our operational support and billing systems provide the foundational platform to further leverage digital technologies and expand with investments in analytics and artificial intelligence.
+
+ 
+   5
+
+ 
+
+These investment areas are not standalone and, in fact, are synergistic. We look to maximize each of these with any initiative for the highest return.
+ 
+We recognize that everything we do is only possible through our people. Our employees are enablers that make any and all initiatives happen to serve our customers and earn their business. We will focus and make investments in employee engagement to maximize the realization of an exceptional customer experience and maximize the effectiveness of our investments.
+ 
+We will continue to evaluate strategic opportunities that address scale, geographic diversification, and return value to our shareholders.
+ 
+Our parent company, Alaska Communications Systems Group, Inc., was incorporated in 1998 under the laws of the state of Delaware. Our principal executive offices are located at 600 Telephone Avenue, Anchorage, Alaska 99503-6091. Our telephone number is (907) 297-3000 and our investor internet address is www.alsk.com. Our customer internet address is www.AlaskaCommunications.com.
+ 
+Markets, Services and Products
+ 
+We operate our business under a single reportable segment. We manage our revenues based on the sale of services and products to the three customer categories listed below.
+
+● | Business and Wholesale (broadband, voice and managed IT services)
+--+------------------------------------------------------------------
+
+
+● | Consumer (broadband and voice services)
+--+----------------------------------------
+
+
+● | Regulatory (access services, high cost support and carrier termination)
+--+------------------------------------------------------------------------
+
+ 
+The brand pillars supporting our products and services are reliability, customer service, trustworthiness and local presence. These are represented by the promise we make to our customers: “You can always expect to get the service as promised to you by an Alaska Communications’ representative. If you are not satisfied, we will work with you to provide a solution that meets your satisfaction.”
+ 
+See “Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations,” for a description of our products and services and a summary of service and product revenues generated by each of the above three customer categories.
+ 
+Network and Technology
+ 
+Alaska Communications provides communications and IT solutions that connect Alaskans as well as customers in the continental United States to the world.  This is based on an extensive facilities-based wireline telecommunications network in Alaska that we operate. We provide high-capacity data networking, internet connectivity, voice communications and IT Services.  Networking services include Ethernet and IP routed services as well as switched and dedicated voice services. In addition, we offer other value-added services such as network hosting, managed IT services and long-distance services. We continuously upgrade our network to provide higher levels of performance, higher bandwidth speeds, increased levels of security and additional value-added services to our customers. We operate 146,000 terrestrial and submarine fiber miles which serve as the backbone of our network as well as now serving 886 buildings with fiber.  Our networks are monitored for performance around the clock in redundant monitoring centers to provide a high level of reliability and performance. Our network is extensive within Alaska’s urban areas and connects our largest markets, including Anchorage, Fairbanks and Juneau with each other and the contiguous states as well as many rural areas. We have recently added Fixed Wireless technology to reach even more customers, bringing total homes and businesses passed to approximately 13,500 at the end of 2019. We expanded our Multi-Dwelling Unit (“MDU”) offering, adding 3,000 MDUs in 2019 that are fed using fiber or fixed wireless backhaul. 
+ 
+We own and operate two undersea fiber optic cable systems that diversely connect our Alaskan network to our facilities in Oregon and Washington. These facilities provide the most survivable service to and from Alaska, with key monitoring and disaster recovery capabilities for our customers. We also have usage rights on a third undersea fiber network connected to the lower-48.
+ 
+   6
+
+ 
+
+Our network in Oregon and Washington includes terrestrial transport components linking our landing stations to a Network Operations Control Center in Hillsboro, Oregon and collocation facilities in Portland, Oregon and Seattle, Washington. In addition, AKORN®, one of our undersea fiber optic cable systems, connects our Alaska network from Homer, Alaska to our facilities in Florence, Oregon along a diverse path within Alaska, the Pacific Northwest and undersea in the Pacific Ocean. Northstar, our other undersea fiber optic system, has cable landing facilities in Whittier, Juneau, and Valdez, Alaska, and Nedonna Beach, Oregon. Our subsea capacity including the AKORN® and Northstar systems provides a total of 7,800 route miles, or about 26,000 fiber miles, of submarine fiber. Together, these fiber optic cables provide extensive bandwidth as well as survivability protection designed to serve our own, as well as our most demanding customers’ critical communications requirements. In 2017, we upgraded the AKORN system to be able to support 100GB circuits for customers. Through our landing stations in Oregon, we also provide an at-the-ready landing point for other large fiber optic cables, and their operators, connecting the U.S. to networks in Asia and other parts of the world.
+ 
+In April 2015, we entered into an agreement to purchase a terrestrial fiber network on the North Slope of Alaska. This network allows us to provide broadband solutions to the oil and gas sector in a market that previously had no competition, and continue to advance our sales of managed IT services.
+ 
+In 2017, we began the development of a satellite earth station network and acquired C-band transponder space on Eutelsat’s E115WB satellite. In the fourth quarter of 2017, we began providing Internet backhaul connectivity to our first customer. We are continuing to expand the satellite service, adding customers throughout 2018 and 2019.
+ 
+Another Alaska carrier, Quintillion, has invested in a submarine network with landing stations in several northwest Alaska communities, including a terrestrial route from the North Slope to Fairbanks. The submarine network became operational in late 2017. We have acquired capacity on this system and deliver service to customers in this area, including a buildout of terrestrial fiber optic cable, in Utqiaġvik (formerly Barrow) to serve this new market. We are currently serving customers in Utqiaġvik, Nome, Kotzebue and Deadhorse.
+ 
+Competition
+ 
+Management estimates the Alaska wireline telecom and IT services market to be approximately $1.65 billion. This market is comprised of the IT services market of approximately $840 million, the broadband market of approximately $700 million and the voice market of approximately $110 million. Management estimates that over 85% of this market opportunity is from the business and wholesale customer segment. Based on a third-party market study management believes that approximately $250 million of the telecom opportunity is “near net,” that is, within one mile of our fiber infrastructure.
+ 
+We expect to experience continued growth in managed IT services over time by providing these services to our broadband customers as well as creating new customer relationships. We believe the competition for managed IT services is fragmented.
+ 
+We face strong competition in our markets from larger competitors with substantial resources. For traditional voice and broadband services, we compete with GCI and AT&T on a statewide basis, and smaller providers such as Matanuska Telephone Association, Inc. on a more localized basis.
+ 
+As the largest facilities based operator in Alaska, GCI is the dominant statewide provider of broadband, voice, wireless and video services. In the markets where we compete with GCI (broadband and voice), GCI has approximately 50% to 60% of market share across the consumer and business segments. GCI continues to expand its voice and data network, often taking advantage of subsidized government programs which create a monopoly for services in certain markets. AT&T’s primary focus is to be the provider of voice and broadband services to its nation-wide customers. AT&T tends to use its existing broadband network to serve these customers or it leases capacity from GCI or Alaska Communications to augment its existing network.
+ 
+Matanuska Telephone Association (“MTA”) is a COOP owned telephone and internet service provider operating in the Matanuska regional area of Alaska. MTA is in the process of building a terrestrial fiber from Alaska to Canada which will interconnect with Northwestel. This fiber will provide a diverse route out of Alaska.
+ 
+Overall competitive dynamics are significant, and our operating performance is impacted accordingly. For more information associated with the risks of our competitive environment see “Item 1A, Risk Factors.”
+ 
+   7
+
+ 
+
+Marketing
+ 
+Our marketing strategy relies on our understanding the Alaskan market, while increasingly using digital technologies to focus our marketing messages. We tailor our products and services based on understanding our customers’ needs, location, and type of service they desire. For business customers, we bundle our products and provide value added managed IT services using our local service delivery model and highly reliable network. For consumer customers, we focus on the product experience, interaction with the customer and price. Regarding pricing, we typically offer one flat rate price and no data usage caps for internet services, differentiating ourselves from GCI who charges for excess data usage or throttles bandwidth.
+Sales and Distribution Channels
+ 
+Our sales strategy combines primarily direct distribution channels to retain current customers and drive sales growth. In 2020, we will continue leveraging our direct sales channels’ focus on serving Business and Wholesale customers, our web and contact center channels for consumer customers, and expand our penetration of the military housing market for continued sustained performance. We are also continuing our efforts to improve customer service and move more consumer transactions to the web.
+Customer Base
+ 
+We generate our revenue through a diverse statewide customer base and there is no reliance on a single customer or small group of customers. Business and wholesale customers are our primary focus and they comprised 65% of our total revenue in 2019. Regulatory revenue represented 19% of the Company’s consolidated revenue in 2019.
+Seasonality
+ 
+We believe our revenue is impacted by seasonal factors. This is due to Alaska’s northern latitude and the resulting wide swing in available daylight and weather conditions between summer and winter months. These conditions, unique to Alaska, affect business, tourism and telecom use patterns in the state. Our spending patterns are also impacted by seasonality as we incur more capital spending and operating spending during the summer and early fall periods of the year, reflecting the heightened economic activity from the summer months and our own construction activities during this time period.
+Employees 
+ 
+As of December 31, 2019, we employed 569 regular full-time employees, 8 regular part-time employees and 4 temporary employees. Approximately 54% of our employees are represented by the International Brotherhood of Electrical Workers, Local 1547 (“IBEW”). Our Master Collective Bargaining Agreement (“CBA”) with the IBEW, which is effective through December 31, 2023, governs the terms and conditions of employment for all IBEW represented employees working for us in the state of Alaska. Management considers employee relations to be generally good.
+Regulation
+ 
+While a substantial amount of our revenue is derived from non-regulated or non-common carrier services, we continue to generate some revenue from services that are regulated. Given the breadth of the regulatory framework, the following summary of the regulatory environment in which our business operates does not describe all present and proposed federal, state and local legislation and regulations affecting the telecommunications industry in Alaska.
+Overview
+ 
+Some of the telecommunications services we provide are subject to federal, state and local regulation. These regulations govern, in part, our rates and the way we conduct our business. These requirements are subject to frequent change. Compliance is costly and limits our ability to respond to some of the demands of our increasingly competitive service markets.
+ 
+We generate revenue from these regulated services through regulated charges to our retail and wholesale customers, access and other charges to other carriers, and federal and state universal service support mechanisms for telecommunications and broadband services. These revenues are recorded throughout our customer categories.
+ 
+At the federal level, the FCC generally exercises jurisdiction over the interstate and international telecommunications services that regulated common carriers provide and their related communications facilities. 
+ 
+   8
+
+ 
+
+The Regulatory Commission of Alaska (“RCA”) generally exercises jurisdiction over a limited number of intrastate access telecommunications services that originate and terminate at points in Alaska.
+ 
+In this section, “Regulation”, we refer to our local exchange carrier (“LEC”) subsidiaries individually as follows:
+ 
+
+● | ACS of Anchorage, LLC (“ACSA”); 
+--+------------------------------------
+● | ACS of Alaska, LLC (“ACSAK”); 
+● | ACS of Fairbanks, LLC (“ACSF”); and
+● | ACS of the Northland, LLC (“ACSN”).
+
+Federal Regulation 
+ 
+We must comply with the Communications Act of 1934, as amended (the “Communications Act”) and regulations promulgated thereunder, which together require, among other things, that we offer regulated interstate telecommunications common carrier services at just, reasonable and non-discriminatory rates and terms. The Communications Act also requires us to offer competing carriers interconnection and non-discriminatory access to certain facilities and services designated as essential for local competition. Under the Communications Act we are eligible for support revenues to help defray the cost of providing services in rural, high cost areas, and to low-income consumers, schools and libraries, and rural health care providers. The FCC is continuing to propose changes in the size and scope of these mechanisms, and it is difficult to predict the impact such changes may have on our business.
+Rate Regulation
+ 
+Our LEC subsidiaries are regulated common carriers offering local voice and a limited set of telecommunications data services. In providing these regulated services, these subsidiaries are subject to competitive market forces, as well as rate-of-return regulations for intrastate services that originate and terminate in Alaska and price-cap rate regulation for interstate services regulated by the FCC. Because they face competition, our LEC subsidiaries may not be able to charge their maximum permitted rates under price-cap regulation or realize their authorized intrastate rate of return even where they are rate-of-return regulated. A broader range of data and information services are offered by our unregulated affiliates or as unregulated services by our regulated companies.
+Interconnection with Local Telephone Companies and Access to Other Facilities
+
+The Communications Act imposes a number of requirements on LECs. Generally, a LEC must: not prohibit or unreasonably restrict the resale of its services; provide for telephone number portability so customers may keep the same telephone number if they switch service providers; provide access to their poles, ducts, conduits and rights-of-way on a reasonable, non-discriminatory basis; and, when a call originates on its network, compensate other telephone companies for terminating or transporting the call (see the “Interstate Access” discussion below).
+ 
+All of our LEC subsidiaries are considered incumbent LECs (“ILECs”) and have additional obligations under the Communications Act.
+ 
+On August 2, 2019, the FCC issued an Order granting forbearance from enforcement of its previous requirements that ILECs unbundle two-wire and four-wire analog voice-grade copper loops. The Order also granted forbearance from enforcement of the requirement that each ILEC must offer for resale at wholesale rates any telecommunications service that the ILEC provides at retail to subscribers who are not telecommunications carriers. While the obligation to offer telecommunications services for resale remains in effect (as it does for all local exchange carriers, incumbent and competitive entrants alike), we will no longer be obligated to offer any particular wholesale discount on those services. Both grants of forbearance are subject to a two-part transition period. First, for a six-month period that began on August 2, 2019, we were required to continue to accept new orders for analog voice-grade copper loops and discounted wholesale services, in accordance with the previous rules. Second, we must continue to honor existing arrangements, including those put in place during that initial six-month period, for a three-year period that also began on August 2, 2019, to permit customers sufficient time to put alternative arrangements in place.
+ 
+In November 2019, the FCC proposed to forbear from most of the remaining ILEC UNE unbundling obligations that remain in effect. We filed comments supporting the proposed forbearance in February 2020, but the timing of any FCC decision in the proceeding is uncertain.
+ 
+   9
+
+ 
+
+Interstate Access Charges
+
+The FCC regulates the prices that ILECs charge for the use of their local telephone facilities in originating or terminating interstate calls.
+ 
+Special Access Pricing Flexibility and Business Data Services
+ 
+Rates for interstate telecommunications services offered by our ILEC subsidiaries are determined using price cap regulation, under which the rates vary from year to year based on mathematical formulae, and not based on changes to our costs, including both inter-carrier rates and retail end user rates.
+ 
+On April 20, 2017, the FCC adopted an Order updating its regulations governing “business data services,” which are those circuit-switched or packet-switched services that offer our dedicated point-to-point transmission of data at certain guaranteed speeds and service levels using high-capacity connections, including special access services. The FCC left in place the Phase I and Phase II pricing flexibility it granted to us in 2010 and granted further price deregulation of all business data services with transmission speeds above 45 Megabits per second. For legacy circuit-switched business data services with speeds at or below that level (DS-3 or below), the FCC adopted a new competitive market test, finding that price regulation is no longer required in counties (or county-equivalents, such as Alaskan boroughs) where the test is satisfied. We expect this FCC Order to support the Company’s ability to be market competitive for its business data services.
+ 
+On August 28, 2018, the United States Court of Appeals for the Eighth Circuit vacated portions of the FCC’s decision that ended prior regulation and tariffing of prices of legacy circuit-switched transport services offered by price cap carriers, like Alaska Communications, finding that the FCC had not provided sufficient advance notice of that aspect of its decision. On October 24, 2018, in order to provide the necessary notice in light of the Eighth Circuit’s decision, the FCC issued a detailed proposal to re-adopt that relief. In July 2019, the FCC re-adopted the majority of the forbearance relief that the Eighth Circuit had vacated, while leaving rate regulation in place on certain routes that the FCC believed to lack sufficient competition.
+ 
+Transformation Order
+ 
+Under a 2011 FCC order (the “Transformation Order”), our ILEC interstate and intrastate switched access rates and reciprocal compensation rates (“ICC rates”) are capped and terminated switched end-office rates were reduced to zero, in pursuit of the FCC’s goal that carriers will recover their costs from their end-users and, in some cases, universal service support mechanisms.
+Federal Universal Service Support
+ 
+The Communications Act requires the FCC to establish a universal service program to ensure that affordable, quality telecommunications services are available to all Americans. The Company has received universal support in several forms: (i) high cost support received by its ILEC subsidiaries for its wireline voice and broadband Internet access service business under the Connect America Fund; (ii) support for services that the Company provides to schools and libraries, provided through the federal schools and libraries universal service support mechanism (“E-Rate”); (iii) support from the federal Rural Health Care support mechanism, which supports communications services that enable telehealth and telemedicine services provided by eligible rural health care providers; and (iv) low income support under the FCC’s Lifeline program, which subsidizes telephone and broadband Internet access services for low-income consumers. These programs are administered under the direction of the FCC by the Universal Service Administrative Company (“USAC”).
+ 
+USF Contributions
+ 
+Under the Communications Act of 1934, as amended (the “Communications Act”) and FCC rules, telecommunications carriers and certain providers of telecommunications must contribute to the federal Universal Service Fund. These contributions are based on end-user revenues from interstate and international revenues from assessable services.
+ 
+   10
+
+ 
+
+Rural Health Care Universal Service Support Program
+ 
+The FCC’s Rural Health Care Universal Service Support Mechanism (the “RHC program”) provides funding to help make broadband telecommunications and Internet access services provided by the Company and other service providers affordable for eligible rural health care providers. It is comprised of two parts. The Telecommunications Program covers the difference between the “urban rate” for telecommunications services that rural healthcare providers use to deliver healthcare at rural locations, and the “rural rate” that they would otherwise be required to pay. The Healthcare Connect Fund covers 65 percent of the cost of a wider variety of broadband telecommunications, networking, and Internet access services and certain associated equipment. Rural Health Care revenues represented 6.1% of the Company’s consolidated revenue in 2019.
+ 
+The Company has participated in the RHC program since 2008. For the 2017 Funding Year, the FCC approved rural rates that were significantly reduced from the rates proposed by the Company. For Funding Years 2018 and 2019, we have similarly obtained the FCC’s approval for our rural rates, generally at levels consistent with the reduced rates approved by the FCC for Funding Year 2017. The multi-step process of obtaining FCC approval for rates and then subsequently obtaining funding commitment letters from USAC has introduced varying degrees of delay in the process of obtaining support for the services we deliver to rural health care providers.
+ 
+The FCC approved RHC rural rates for Funding Year 2018 in November 2018, after our request in September 2018 for the funding year beginning July 1, 2018. We began to receive funding commitment letters for the associated services for Funding Year 2018 in December 2018. Similarly, the FCC approved RHC rural rates for Funding Year 2019 in December 2019, after our request in November 2018 in advance of the funding year beginning July 1, 2019. We began to receive funding commitment letters for the associated services for Funding Year 2019 in February 2020. We also filed a request in January 2020 for approval of our RHC rural rates to be used for upcoming Funding Year 2020, which begins July 1, 2020.
+ 
+On August 1, 2019, the FCC adopted an order making comprehensive changes to the rules governing the competitive bidding process and the method for determining the urban and rural rates used to calculate the amount of Rural Health Care Telecommunications Program support payments for which a health care provider is eligible. The changes to the urban and rural rate rules do not take effect until Funding Year 2021, which will begin July 1, 2021, and USAC will need to conduct a lengthy implementation process before eligible rates and associated support levels can be known. Under the FCC’s Order, USAC must develop and publish a database by July 1, 2020, containing rates that will be used to set rural rates for Funding Year 2021 and beyond. The FCC’s Order divided Alaska into four geographic zones, and the rural rate in each zone will be capped at the median of the rural rates for similar services offered in that zone, as identified by USAC. We are unable to predict the impact the new rules will have, but the FCC’s Order gave USAC limited guidance and substantial discretion in identifying rates and determining how to group them within the database. If the rural rate caps established using the resulting median are too low, we may be unable to continue to serve rural health care customers in the most expensive portions of each rural zone. We are continuing to evaluate the impact of the funding cap constraints, ongoing uncertainty and unpredictability in the Rural Health Care Universal Service Support Mechanism, and the impact of the rule changes on our rural health care customers and revenues in light of these developments. On October 21, 2019, an appeal challenging the new method of setting rates for supported services was filed in the United States Court of Appeals for the District of Columbia Circuit, adding further uncertainty to the ultimate outcome of this proceeding. Similarly, the Company and several other parties have filed Petitions for Reconsideration of the FCC’s August 2019 Report and Order, seeking to mitigate the risks described above. At this time, we are unable to predict the outcome of the challenges to the FCC’s new Rural Health Care rules or the impact the new rules may have on our business, financial condition, results of operations and liquidity.
+ 
+USAC Audit of RHC Program Funding Requests
+ 
+In addition to the prospective changes to the RHC program discussed above, the FCC and USAC have undertaken reviews of current and past funding requests. In June 2017, the Company received a letter from USAC’s auditors inquiring about past funding requests, all of which were previously approved by USAC. After clarifying the request, the Company responded to the auditors with the requested information through the remainder of 2017 and mid-way into 2018. Late in 2018, the auditors asked the Company to comment on some preliminary audit findings, and the Company responded with a letter dated December 21, 2018. After more than a year without communications from the auditors, on February 24, 2020, the Company received a draft audit report from USAC that is described more fully in Note 20 “Commitments and Contingencies” in the Notes to Consolidated Financial Statements. The draft audit report alleges violations of the FCC’s rules for establishing rural rates and urban rates, the provisioning and billing of ineligible services and products, and violations of the FCC’s competitive bidding rules. The Company was invited to comment on this draft audit report, and we intend to seek correction of numerous factual errors we believe are contained in that report. In addition, the Company has had conversations with USAC’s auditors and we are compiling a list of proposed clarifications, corrections and modifications to the draft audit report. As a result of these conversations and comments to be submitted by the Company, USAC’s auditors may revise their findings, including the amounts they recommend USAC seek to recover. USAC’s auditors are expected to issue a final audit report incorporating the Company’s responses that will be sent to USAC’s Rural Health Care division to review and determine if corrective action would be appropriate. In the event that the Company disagrees with USAC’s final audit report, the Company can appeal that decision to USAC’s Rural Health Care division and/or the FCC. At this time, we cannot predict the contents of the USAC audit report, the outcome of the audit or the impact on our business, financial condition, results of operations and liquidity.
+ 
+   11
+
+ 
+
+FCC Inquiry into Company’s RHC Program Participation
+ 
+In addition, the Company received a Letter of Inquiry on March 18, 2018, from the FCC Enforcement Bureau requesting historical information regarding the Company’s participation in the FCC’s Rural Health Care program. In response, the Company produced voluminous records throughout 2018 and into the first quarter of 2019. On November 5, 2019, the Company received another letter from the FCC Enforcement Bureau requesting additional information, to which it responded on December 6, 2019. The Company is currently responding to an additional letter from the Enforcement Bureau dated January 22, 2020. As of the date of this Form 10-K, the FCC’s Enforcement Bureau has not asserted any claims or rule violations. The Company continues to work constructively with the FCC’s Enforcement Bureau to provide it the information it is seeking. At this time, we cannot predict the outcome of the FCC Enforcement Bureau’s inquiry or the impact it may have on our business, financial condition, results of operations and liquidity.
+ 
+Connect America Fund
+ 
+CAF Phase II
+ 
+On October 31, 2016, the FCC released its order adopting the Connect America Fund (“CAF”) Phase II (“CAF II”) for price cap carriers in Alaska. Alaska Communications is the only price cap carrier in Alaska and, under the CAF II order, we receive approximately $19.7 million annually.
+ 
+We are continuing to work toward meeting our CAF Phase II obligations in a capital-efficient manner, including the delivery of broadband Internet access services meeting CAF Phase II requirements using a fixed wireless platform.
+ 
+Lifeline
+ 
+Revenue generated from our lifeline customers represented less than 1% of our total revenue. The FCC’s Lifeline support mechanism today subsidizes the cost of voice services for low-income consumers, as well as broadband in CAF II locations.
+Satellite Services
+ 
+On February 16, 2018, the FCC granted our application for a license to operate a network of C-band satellite earth stations to be used to serve our customers that cannot be reached by terrestrial middle mile facilities. Under that license, we are authorized to use up to 144 MHz of C-band spectrum on Eutelsat’s satellite, E115WB, for a term of 15 years. We have steadily expanded this network to serve nearly 40 sites, primarily in rural and remote areas of the state. We expect this approach to provide us with greater predictability and stability in the availability and cost of long-haul transport connectivity to our customers that must be served by satellite.
+State Regulation
+ 
+Telecommunication companies are required to obtain certificates of public convenience and necessity from the RCA prior to operating as a public utility in Alaska. In addition, RCA approval is required if an entity acquires a controlling interest in any of our certificated subsidiaries, acquires a controlling interest in another intrastate utility or discontinues intrastate service. On August 29, 2019, Governor Dunleavy signed into law new legislation that eliminated the requirement for Alaska Communications to maintain RCA-filed tariffs for rates, terms, and conditions for legacy phone and networking services in Alaska, However, rates, terms, and conditions for basic residential local telephone service must, under the bill, be uniform within each study area. Alaska Communications implemented changes to tariffs, terms and conditions and other service related policies effective November 27, 2019.
+Alaska Universal Service Fund
+
+The Alaska Universal Service Fund (“AUSF”) complements the federal Universal Service Fund, but is focused on obligations to meet intrastate service obligations.
+ 
+In January 2018, the RCA opened a rulemaking to repeal the AUSF effective July 31, 2019 and sought comments and reply comments. A final order issued by the RCA on October 24, 2018 stopped short of repealing the AUSF but made changes to the distribution to be effective January 1, 2019, and capped contributions at 10% of intrastate telecommunications revenues. These changes resulted in shortfalls to carriers beginning in 2019.
+ 
+   12
+
+ 
+
+Website Access to Reports
+ 
+Our investor relations website Internet address is www.alsk.com. The information on our website is not incorporated by reference in this annual report on Form 10-K. We make available, free of charge, on our investor relations website, our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. These reports are available as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (“SEC”).
+Code of Ethics
+ 
+We post our code of business conduct and ethics entitled “Code of Ethics”, on our investor website at www.alsk.com. Our code of business conduct and ethics complies with Item 406 of SEC Regulation S-K and the rules of Nasdaq. We intend to disclose any changes to the code that affect the provisions required by Item 406 of Regulation S-K and any waivers of the code of ethics for our executive officers, senior financial officers or directors, on that website.
+Additional Business Information
+ 
+See “Item 1A, Risk Factors,” “Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and Note 3 “Joint Venture” and Note 19 “Business Segments” in the Notes to Consolidated Financial Statements for additional information, which is incorporated herein by reference.
+ 
