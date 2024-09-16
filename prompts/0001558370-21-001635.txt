@@ -1,0 +1,393 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+​
+Maxar is a partner and innovator in Earth Intelligence and Space Infrastructure. Maxar delivers value to government and commercial customers to help them monitor, understand and navigate our changing planet; deliver global broadband communications; and explore and advance the use of space. Our approach combines decades of deep mission understanding and a proven commercial and defense foundation to deploy solutions and deliver insights with speed, scale and cost effectiveness. Maxar’s stock trades on the New York Stock Exchange and Toronto Stock Exchange under the symbol “MAXR.”
+​
+Segments
+​
+Our Chief Operating Decision Maker (“CODM”) measures performance of our reportable segments based on revenue and Adjusted EBITDA. Our operating and reportable segments are: Earth Intelligence and Space Infrastructure. On April 8, 2020, the Company completed the sale of the MDA Business for an aggregate purchase price of $729 million (C$1.0 billion) (“MDA Transaction”). With the closing of the MDA Transaction, the MDA segment has been classified within Income (loss) from discontinued operations, net of tax in the Consolidated Statements of Operations and is no longer considered a reportable segment. All prior-period amounts have been adjusted to reflect the reportable segment change.
+​
+We serve our customers and organize our businesses through the following two reportable segments:
+
+• | Earth Intelligence—a global leader in high-resolution Earth imagery and other geospatial data sourced from our own advanced satellite constellation and third-party providers to our government and commercial customers, as well as a provider of advanced geospatial information, applications and analytic services to national security and commercial customers.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Space Infrastructure—a supplier of space-based infrastructure, robotics, subsystems and information solutions to government agencies and satellite operators.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The following is a description of our reportable segments. As part of the description, we include a discussion on some of the segment’s notable announcements and achievements in 2020. 
+
+Earth Intelligence
+​
+In the Earth Intelligence segment, we are a global leader in high resolution space-based Earth observation imagery products and analytics. We launched the world’s first high resolution commercial imaging satellite in 1999 and currently operate a four-satellite imaging constellation, providing us with 20 years and 125 petabytes of imagery over our history (referred to as our “ImageLibrary”) of the highest-resolution, commercially available imagery. Our imagery solutions provide customers with timely, accurate and mission-critical information about our changing planet and support a wide variety of government and commercial applications, including mission planning, mapping and analysis, environmental monitoring, disaster management, crop management, oil and gas exploration and infrastructure management. Our principal customers in the Earth Intelligence segment are U.S. and international government agencies (primarily defense and intelligence agencies), as well as a wide variety of commercial customers in multiple markets. We are a market leader in the commercial satellite Earth observation industry. 
+​
+We also provide geospatial services that combine imagery, analytic expertise and innovative technology to deliver intelligence solutions to customers. Our cleared developers, analysts and data scientists provide analytic solutions that accurately document change and enable geospatial modeling and analysis. Our primary customer of geospatial services is the U.S. government, but we also support intelligence requirements for other U.S. allied governments, global development organizations and commercial customers.
+ ​
+On July 1, 2020, the Company closed the acquisition of Vricon, Inc. (“Vricon”) by purchasing the remaining 50% ownership interest in Vricon (“Vricon Acquisition”), which was previously structured as a joint venture. Vricon is a global leader in satellite-derived 3D data for defense and intelligence markets, with software and products that enhance 
+
+3
+
+
+
+3D mapping, Earth intelligence data, military simulation and training and precision-guided munitions. Vricon was formed as a joint venture between Maxar and Saab AB in 2015 to combine patented Saab AB Intellectual Property with our commercial satellite imagery to build highly accurate, immersive 3D products at scale. The results of Vricon are now consolidated within the Earth Intelligence segment.
+​
+Customers can license our imagery and data archives or place custom orders to task our satellites for a specific area of interest. We process our imagery to varying levels according to our customers’ specifications and deliver our products using the distribution methods and subscription services that best suits our customers’ needs. We offer a number of imagery products, including:
+
+• | Orthorectified imagery—includes radiometric, geometric and topographic correction. Topographic correction accounts for terrain and projects images onto the Earth as they would be seen by the human eye.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Imagery basemaps—powered by our proprietary image processing techniques, our imagery basemaps deliver high-quality imagery through thousands of combined images that maximizes contrast, sharpness and clarity. We also sell products that deliver regular updates of images of 6,000 major metropolitan areas.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | 3D and Elevation products—elevation and terrain information is foundational to mapping and understanding the surface of our planet. We offer various models of the Earth’s surface (e.g., digital surface models, digital terrain models, 3D point clouds, etc.) derived from our 3D representation of the Earth.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Information products—new map features and information products are derived from our imagery archive using machine learning, often without additional manual processing.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | SecureWatch—a subscription offering that provides customers online access to an extensive imagery and geospatial intelligence platform and addresses a broad spectrum of uses. This includes supporting the U.S Government with Global Enhanced GEONIT Delivery (“G-EGD”).
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+We also provide certain customers the ability to directly task and receive imagery from our satellites within local and regional geographic boundaries of interest through our Direct Access Program (“DAP”). We sell these customers ground system infrastructure, enabling them to download and process imagery directly from our satellites and access to our satellite and maintenance services. The DAP is designed to meet the enhanced information and operational security needs of a select number of international defense and intelligence customers and certain commercial customers. Our Rapid Access Program offers customers access to our satellite constellation, while we own and manage the ground infrastructure.
+​
+We provide advanced geospatial information, applications and analytic services to national security and commercial customers through our imagery and other sources of geospatial data such as low-resolution satellite imagery, radar, weather and oceanographic data, elevation and social media. We deploy these services through various platforms, including Amazon Web Services. Our intellectual property portfolio, including U.S. and foreign patents, and Small Business Innovation Research (“SBIR”) Phase III data rights supports the unique technology we provide to our customers.
+​
+As of December 31, 2020, we operated a constellation of four in orbit and fully commissioned satellites: GeoEye-1, WorldView-1, WorldView-2 and WorldView-3. Our annual collection capacity is approximately 1.4 billion square kilometers. We have collected, and have available for use, approximately 125 petabytes in our ImageLibrary.
+​
+
+4
+
+
+
+The following table summarizes the primary characteristics of the in-orbit and fully-commissioned satellites in our constellation as of December 31, 2020:
+​
+​
+​
+
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ 
+------------+---+----------------+---+----------------------------------+---+--------------------------------------------------------------------+---+------------------------------
+Satellite | ​ | Launch Date | ​ | Expected End of Depreciable Life | ​ | Best Ground Resolution | ​ | Orbital Altitude (kilometers)
+WorldView-3 | ​ | August 2014 | ​ | Q1 2026 | ​ | 31-centimeters black and white, or color 1.24-meter multi-spectral | ​ | 618 
+WorldView-2 | ​ | October 2009 | ​ | Q4 2022 | ​ | 46-centimeters black and white, or color 1.84-meter multi-spectral | ​ | 770 
+WorldView-1 | ​ | September 2007 | ​ | Q4 2022 | ​ | 50-centimeters panchromatic | ​ | 496 
+GeoEye-1 | ​ | September 2008 | ​ | Q3 2022 | ​ | 41-centimeters black and white, or color 1.64-meter multi-spectral | ​ | 681 
+
+​
+Our satellites have advanced technical capabilities, such as size of collection area, collection speed, revisit time, resolution, accuracy and spectral diversity.
+​
+We procure insurance to protect us from the risks associated with our satellite operations, including the partial or total impairment of the functional capacity of the satellite. We insure satellites in our constellation to the extent that insurance is available at acceptable premiums. As of December 31, 2020, we maintained the following insurance coverage on our in-orbit and fully-commissioned satellite constellation:
+​
+
+​ | ​ | ​ | ​ | ​ | ​ 
+------------+---+-----------------+---+-----------------------+----
+Satellite | ​ | Policy Period | ​ | Coverage(in millions)
+WorldView-3 | ​ | 10/2020-10/2021 | ​ | $ | 255
+WorldView-2 | ​ | 10/2020-10/2021 | ​ | ​ | 220
+WorldView-1 | ​ | 10/2020-10/2021 | ​ | ​ | 220
+GeoEye-1 | ​ | 10/2020-10/2021 | ​ | ​ | 38 
+
+​
+During 2020, we announced the signing of multiple contracts with the U.S. National Geospatial-Intelligence Agency (“NGA”) to deliver land cover classification and change detection services through a combination of the Janus Geography program and the General Services Administration’s IT Schedule 70. In the second quarter of 2020, we announced that we were selected by the U.S. Department of Homeland Security (“DHS”) to develop an analytics system for characterizing and tracking the behavior of vehicles in multiple domains at scale and in near-real-time. We also announced the renewal of four contracts and expansion of a fifth contract in the second quarter of 2020—together valued at more than $120 million—with international defense and intelligence customers for uninterrupted access to our current satellite constellation. During the third quarter of 2020, we also received the annual exercise of the $300 million EnhancedView Contract (as defined below) option. Additionally, we announced that we have been selected by the U.S. Army Geospatial Center to deliver multiple highly portable, direct-downlink tactical ground systems, called the U.S. Army Remote Ground Terminal, that provide critical geospatial intelligence to users in remote locations. In the fourth quarter of 2020, we announced that we were selected by the U.S. Space Force to develop prototype mission data processing applications for the Future Operationally Resilient Ground Evolution Mission Data Processing (“FORGE 
+
+5
+
+
+
+MDP”) program located within the Cross-Mission Ground & Communications Enterprise at the Space & Missile Systems Center. Lastly, we were awarded a $39 million award for Phase 2 of the U.S. Army’s One World Terrain (“OWT”) prototype which utilizes our 3D and elevation products.
+​
+Our major existing and potential competitors for our Earth Intelligence business include commercial satellite imagery companies, state-owned imagery providers, aerial imagery companies, free sources of imagery, unmanned aerial vehicles and companies that provide geospatial analytic information and services to the U.S. government, including defense prime contractors. 
+​
+We compete on the basis of the technical capabilities of our satellites, such as size of collection area, collection speed, revisit time, resolution, accuracy and spectral diversity; satellite availability for tasked orders; the size, comprehensiveness and relevance of our ImageLibrary; distribution platform and tools that enable customers to easily access and integrate imagery; value-added services, including advanced imagery production and analysis; timeliness and ready availability of imagery products and services that can be deployed quickly and cost-effectively; and price.
+​
+Space Infrastructure
+​
+In the Space Infrastructure segment, we design, build, integrate and test solutions for space-based communications satellites, Earth observation, on-orbit servicing, robotic assembly and space exploration. We address a broad spectrum of needs for our customers, including mission systems engineering, product design, spacecraft manufacturing, assembly, integration and testing. We provide advanced, reliable and affordable spacecraft that enable our commercial customers to deliver valuable global services. We are successfully partnering with the U.S. government in new space opportunities leveraging our high-performance spacecraft subsystems. Our principal customers in the Space Infrastructure segment are commercial satellite operators and government agencies worldwide.
+​
+We have built and launched more than 285 spacecrafts with a combined approximate 2,750 years of on-orbit service. We have more than 30 years of experience in space robotics, having developed all five robotic arms on the Mars landers and rovers. 
+Our products include:
+
+• | Communications and imaging satellites and payloads;
+--+----------------------------------------------------
+
+
+• | Platforms for space exploration and hosting instruments for Earth science;
+--+---------------------------------------------------------------------------
+
+
+• | Space subsystems for power, propulsion and communication;
+--+----------------------------------------------------------
+
+
+• | Satellite ground systems and support services;
+--+-----------------------------------------------
+
+
+• | Space-based remote sensing-solutions;
+--+--------------------------------------
+
+
+• | Space robotics; and
+--+--------------------
+
+
+• | Defense systems.
+--+-----------------
+
+We have 90 Geosynchronous Equatorial Orbit (“GEO”) satellites currently in service with 99.9971% availability. Additionally, we have manufactured 26 low Earth orbit (“LEO”) satellites currently in service.
+​
+The Space Infrastructure manufacturing capability of satellite vehicles (commonly referred to as a “satellite bus” or a “bus”) consists of the heritage 1300 bus (which spans a broad capability ranging from 1300 kg to over 6500 kg) and a smaller bus (which spans a range of 500 kg to 1300 kg). The smaller bus involves a new modular architecture with mission-specific subsystems selectable from our wide range of heritage and newly-developed products, including those that will be flown on WorldView Legion and on OverHorizon.
+​
+The 1300 bus has three decades of on-orbit heritage and is highly versatile, serving a wide range of missions, orbits and customers. The 1300 bus is the world’s most popular GEO satellite, designed to accommodate evolutionary technology advances. It was one of the first spacecraft platforms to provide solar electric propulsion, or SEP, and has been used to demonstrate next-generation technologies including Q/V-band, photonics and a payload orbital delivery system, or 
+
+6
+
+
+
+PODS, that brings small free-flying spacecraft to GEO. The largest application class for which the 1300 bus has historically been utilized is commercial geostationary communication satellites and recently as a host for NASA payloads, such as TEMPO (defined below). Our 1300 bus is in use today for a broad range of television distribution services from smaller regional television satellites to the high-capacity, high-power satellites used by direct-to-home television distributors. A more recently emerging and growing application for commercial geostationary communication satellites is the delivery of data-centric applications (such as consumer broadband, in-flight communication, maritime and 4G/5G cellular backhaul) via high-capacity spot beam satellites commonly referred to as “high throughput satellites” (or “HTS”). We introduced the first HTS satellite in 2005, which used the 1300 bus.
+​
+To address the rising demand for smaller satellites and multiple-satellite LEO and medium Earth orbit (“MEO”) constellations used for imaging, sensing and communication applications, we are developing our modular satellite architecture, which will first be used for the next-generation WorldView Legion constellation for our Earth Intelligence business. We believe our modular satellite architecture will be effective for government and commercial applications that require a multiple-satellite constellation of identical satellites produced in a cost-efficient manner.
+​
+Our robotics technologies have been used on the Mars landers and rovers. We work with NASA on projects such as OSAM-1 (formerly Restore-L and the Space Infrastructure Dexterous Robot (“SPIDER”)), which will demonstrate on-orbit servicing, assembly and manufacturing. This technology promises to enable spacecraft that can build and reconfigure themselves on-orbit, advanced space telescopes and other infrastructure that never could have been launched within the confines of existing rocket fairings. As noted above, our robotic technologies also include developing all five robotic arms on the surface of Mars. To achieve further cost-effective scalability across a spectrum of mission applications, we are further developing our modular satellite architecture. We believe this architecture provides cost-effective customization using standard subsystems.
+​
+During 2020, we announced six geostationary communications satellites awarded by Intelsat. Five of these satellites will help Intelsat transition its existing media distribution and contribution services–uninterrupted–from the 3.7 to 4.0 gigahertz portion of the C-band, to the 4.0 to 4.2 gigahertz portion of the band, freeing up spectrum for 5G terrestrial wireless services. In addition to the five C-band satellites Intelsat has ordered from Maxar in 2020 to support their C-band spectrum transition, the company also contracted Maxar to manufacture its next-generation Intelsat 40e geostationary communications satellite. We will integrate NASA’s Tropospheric Emissions: Monitoring of Pollution (“TEMPO”) payload with the Intelsat 40e satellite. Expanding our civil space portfolio, we announced in the second quarter of 2020 that we were selected to support Dynetics, a wholly-owned subsidiary of Leidos, in designing and building a Human Landing System for NASA’s Artemis program, for which we are also developing the Power and Propulsion Element for the lunar Gateway. The Perseverance Rover was launched in the third quarter of 2020 and landed on Mars on February 18, 2021. Maxar built Perseverance’s Sample Handling Assembly (“SHA”) robotic arm and camera focus system, and it has more than 30 years of space robotics heritage, including five robotic arms for previous Mars missions.
+​
+Our principal customers in the Space Infrastructure segment are commercial satellite operators and government agencies worldwide.
+
+Our primary competitors for satellite manufacturing contracts are: The Boeing Company, Lockheed Martin Corporation and Northrop Grumman Corporation in the United States; Thales S.A. and Airbus Defence and Space, a subsidiary of the Airbus Group, in Europe; and Mitsubishi Electric Corporation in Japan. We sell in a highly competitive market. In addition, many of our competitors are larger and have greater resources. We may also face competition in the future from emerging low-cost competitors in India, Russia and China.
+​
+Discontinued Operations
+​
+On April 8, 2020, the Company completed the sale of the MDA Business to Neptune Acquisition Inc., a corporation existing under the laws of the Province of British Columbia and an affiliate of Northern Private Capital Ltd. (“MDA Purchaser”), for an aggregate purchase price of $729 million (C$1.0 billion) (“MDA Transaction”). The Company recognized an after-tax gain on disposal of discontinued operations of $317 million, net of $12 million in taxes, on the MDA Transaction for the year ended December 31, 2020.
+
+7
+
+
+
+The MDA Business developed and delivered advanced surveillance and intelligence solutions, defense and maritime systems, radar geospatial imagery, space robotics, satellite antennas and communication subsystems. Subsequent to the MDA Transaction, MDA continues to be a supplier of certain components and subsystems to us.
+​
+Industry Overview
+​
+Large and Growing Addressable Market
+​
+We believe that there is potential for growth among three key components of our addressable market: the U.S. government, other governments and commercial customers. For both the U.S. and other governments, drivers of growth include persistent global security threats, defense budgets, demand for high-quality imagery and value-added services and a focus on space as an investment. We believe that the U.S. government is interested in expanding the use of commercial alternatives to owned assets and that other governments present an opportunity for growth. We seek to align our products and services with the U.S. Department of Defense (“DoD”)’s National Defense Strategy needs, as well as growing international defense and intelligence demand. For civil customers, in particular NASA, growth is being driven by space exploration programs such as Artemis and Earth science projects. For commercial customers, drivers of growth include strong demand for imagery due to new use cases enabled by artificial intelligence and machine learning, space-based remote sensing, GEO replacement demand and LEO communications programs.
+​
+Diverse Solutions for Diverse End-Markets
+​
+While traditionally spending in space has been dominated by military defense programs and the communications industry, the proliferation of technology and cheaper access to space has led to a diversification in end-market users. Machine learning, artificial intelligence (“AI”) and “big data” have given rise to multiple use cases across industries, such as oil & gas, agriculture, transportation, insurance, finance and non-governmental organizations. Concurrently, geopolitical competition in space as a contested domain is leading to further investment by global militaries. We have evolved with this changing environment to serve a multitude of customers. 
+​
+Markets in Which We Operate
+​
+Our Earth Intelligence and Space Infrastructure segments operate in both the Earth Observation and Satellite Manufacturing markets. 
+​
+Earth Observation Market
+​
+The Earth Observation, or EO, market includes the collection and processing of optical and non-optical imagery data of the Earth from space. Specifically, the market is segmented into Data, Value-Added Services (“VAS”), Information Products and Big Data Analytics. The Data segment consists of raw imagery transmitted from the satellite to the ground station and products, such as stereo imaging and basic corrections (radiometric and geometric). VAS includes processing through layering or data fusion (such as traffic information and street names). Finally, Big Data Analytics includes several of the attributes of Information Products and extracts statistical information not apparent in the base data by analyzing a given area over a period while monitoring changes in environments.
+​
+The EO market serves customers in a variety of sectors, including defense & intelligence, energy & natural resources, industrials, managed living resources (such as agriculture and forestry), public authorities, services (such as finance, insurance, news and media) and weather. Providers generally compete on resolution, accuracy, revisit frequency, delivery (cloud versus traditional) and pricing.
+​
+Northern Sky Research forecasts the EO market is entering a period of growth, largely driven by increased demand for Information Products and Big Data Analytics with continued strength in the North American market and government & military end-markets. In their Satellite Based Earth Observation, 12th Edition report, Northern Sky Research projects that the EO market will grow from $3.4 billion in total revenue in 2019 to $8.1 billion in total revenue in 2029, an expected 9% compound annual growth rate (“CAGR”). Additionally, with the advancement of AI solutions to power EO data analysis, Northern Sky Research projects that Big Data will be the largest driver of growth in the EO market, led initially 
+
+8
+
+
+
+by a focus on defense & intelligence customers, with growing demand for data, solutions and insights. It is increasingly likely that value in the EO market will be driven by downstream services and AI-enabled data analytics.
+Satellite Manufacturing Market
+The satellite industry has undergone a significant change with the proliferation of LEO satellites. LEO satellites are cheaper to launch, have higher revisit rates enabled by the ability to afford larger constellation sizes and have less latency in their communications. LEO satellites tend to be smaller, with lighter payloads, as operators look to deploy multiple satellites on a given launch vehicle. Also, as space becomes increasingly contested, a shift is expected towards LEO constellations to enhance survivability of the constellation network. On the other hand, GEO satellites cover more area from a higher vantage point and tend to carry more advanced sensor or communication suites as operators generally want to maximize their use of an orbital slot. Due to their greater distance from earth; however, there is increased latency. MEO satellites attempt to blend the benefits of both LEO and GEO satellites. In addition to altitude class, satellites are classified by functions, such as communications or Earth observation.
+Euroconsult projects satellite demand will experience a four-fold increase over the next 10 years. While LEO and MEO are expected to account for the majority of the demand, Euroconsult expects an average of 12-13 GEO commercial satellite orders per year over the next 10 years. The total market for manufacturing and launch services is expected to reach $291 billion over the next decade, a 29% increase from the previous decade of $225 billion in revenue.
+​
+LEO proliferation is expected to greatly increase access to space, thus enabling new commercial customers across diversified industries including oil & gas, insurance, agriculture and asset management firms, as well as nonprofit organizations, to benefit from satellite imagery.
+​
+Government Investment in Space Programs 
+​
+With more than half of our revenues coming from U.S. government customers, we expect that our Space Infrastructure and Earth Intelligence segments will benefit from growing defense and space infrastructure budgets. The proliferation of space-based intelligence, surveillance and reconnaissance and communications is expected to drive increased government investments in the sector through the mid 2020s.
+​
+Global
+Euroconsult reports that government space budgets have reached $82.5 billion in 2020, the strongest growth year in over a decade and a 10% increase over 2019 figures. 
+United States
+In the United States, there is a concerted effort by the government to accelerate space investment. According to the Congressional Research Service, the President’s Fiscal Year 2021 budget requested $16.0 billion for the National Security Space (“NSS”). On December 20, 2019, with the enactment of the Fiscal Year 2020 National Defense Authorization Act, the U.S. Space Force (“USSF”) was established. The mission of the USSF is to organize, train and equip space forces in order to protect the U.S. and allied interests in space and to provide space capabilities to the joint force.
+The NSS budget generally excludes funding for the NRO and NGA. Specific funding levels for these organizations, which are long-term historical customers, are generally classified. However, the NRO and NGA are included in the funding for the National Intelligence Program (“NIP”). The aggregate funding for the NIP was $59.4 billion in FY 2018, $60.2 billion in FY 2019 and $62.7 billion in FY 2020. The NIP funding request for FY 2021 is $61.9 billion. Additionally, the aggregate funding for the Military Intelligence Program (“MIP”) was $22.1 billion in FY 2018, $21.5 billion in FY 2019 and $23.1 billion in FY 2020. The MIP funding request for FY 2021 is $23.1 billion.
+Furthermore, Congress appropriated $23.3 billion for NASA in FY 2021, an increase of 3% from FY 2020. The NASA budget further highlights an effort by the government to invest in space exploration and development, with $7.7 billion 
+
+9
+
+
+
+of the total allocated for deep space exploration systems and exploration technology. These include the key components of OSAM-1 and the Artemis program that will send astronauts to the Moon and beyond, including the Lunar Gateway and Human Landing System.
+​
+Growth Strategy
+Our vision is to hold market leading positions in each of the markets we serve. We aim to achieve this by applying innovative technologies and capabilities that provide value to our customers across their entire value chain, including components, subsystems, systems, data and services. Specific elements of our strategy across our two segments include:
+Earth Intelligence
+Driving revenue growth through improvements in our products—we seek to improve our Earth intelligence products with WorldView Legion by productizing technologies and derivative content developed in support of individual customer contracts, such as using more artificial intelligence and machine learning to extract features, detect objects and detect change in our satellite imagery and complementary content. WorldView Legion will be a fleet of six high performing satellites for which our Space Infrastructure segment is acting as prime contractor. With a first launch planned in the second half of 2021, we expect that WorldView Legion, in addition to our current constellation, will revisit rapidly changing areas more than 15 times per day, an increase from four times per day currently, which more than triples both our capacity to collect 30 cm imagery and our overall capacity in high-demand areas. The revisit rate and increase in capacity enables a clearer understanding of on-ground conditions, allowing for more real-time, actionable analysis to deliver insights on rapidly changing environments and populations, while providing for more frequent monitoring for defense and intelligence applications, enhanced emergency responsiveness and maritime surveillance, among other applications. WorldView Legion is planned to be compatible with our global infrastructure and access programs. We believe we provide imagery with five times the information content (tied to resolution) of our nearest competitor and over ten times the information content. Additionally ,we believe we provide imagery with better than three times the accuracy of the nearest smallsat competitor, and we believe that multiple is even greater in areas where we have leveraged our 3D and elevation capabilities. We believe we will be able to provide even greater quality imagery and with higher revisit rates upon deployment of our WorldView Legion constellation. We have developed technology used to enhance the quality and usability of imagery (e.g. eliminate atmospheric distortions, increase positional accuracy, improved interpretability, etc.), create information derivatives (e.g. road vectors, material types, land classification, etc.), fuse multiple types of content (internet of things, optical imagery, synthetic aperture radar imagery, vectors, social media, etc.), detect change, determine meaningful correlations between events and information in content analyzed, determine and model patterns of life and other geospatial processing technologies.  We believe that creating standard products using this technology will grow our product-based revenue with customers in the technology, defense and intelligence, civil government and global development organization sectors.
+​
+Expanding our relationship with the U.S. government—the U.S. government is the largest customer of our Earth Intelligence segment through the EnhancedView Follow-On (the “EnhancedView Contract”), Global-EGD and One World Terrain programs and various classified and unclassified contract vehicles. Demand for geospatial intelligence and services continues to grow given the geopolitical environment and the confluence of high-performance computing and machine learning algorithms that allow for insight to be extracted from ever greater levels of data being produced by EO sensors and national and commercial satellite assets. The U.S. government has expressed interest in increasingly relying on commercial partners to harness the rapid pace of commercial innovation more effectively, including the continued use of geospatial data given cost affordability and advances in technology that provide high quality imagery. We seek to grow our business with the U.S. government by leveraging the investments we have made across our capability set, including in machine learning and AI, and our strong record of historic performance.
+​
+Growing our installed base and penetration of international defense and intelligence customers—we currently provide service to U.S.-allied nations through our DAP, Rapid Access and SecureWatch products. These customers use our imagery in their civil and intelligence related missions. Our imagery and services are either complimentary to national assets owned by these countries, or in some cases defer the need for a country to own and operate national assets. We believe there are many prospective customers that have both the mission need and budget for our services which we seek to add to our installed base. We also seek to further penetrate existing customers through the provision of 
+
+10
+
+
+
+additional data and services. Lastly, we believe there are opportunities to provide our services to U.S.-allied nations who might seek a complement to national capabilities in geospatial analytics. Our strategy focuses on those countries that currently have deep and long-standing relationships with our Earth Intelligence segment and other close U.S. allies.
+​
+Growing with and expanding our installed base among commercial customers—we have over 400 commercial customers that use our data in their products and applications across a variety of industries including technology, telecom, transportation, mining and oil and gas. The confluence of high-performance computing and machine learning algorithms are allowing for insights to be extracted from ever greater levels of data, which in turn is driving innovation across our customer base. We expect this trend to continue, and we seek to grow with our existing customers as well as to grow our installed base by leveraging our market leading imagery capabilities. Furthermore, we believe our capabilities in machine learning, AI and products that allow greater insights to be more easily extracted from large amounts of geospatial data will position us to sell additional solutions and services to our commercial customers.
+​
+Providing products based on machine learning and artificial intelligence—we are developing our capabilities in machine learning and AI to extract greater insight from the geospatial data available to us and our customers. The most capable algorithms rely on expertise in machine learning and AI, as well as large volumes of data, both of which we have. We are also working on the productization of our capability set across geospatial analytics and services to facilitate the penetration of the U.S. government, international government and commercial markets. As part of this effort we are also integrating our products and capabilities into customer systems, serving key, highly time-dominant missions at the tactical edge.
+​
+Delivering 3D products to global defense, intelligence and commercial customers – through Vricon, we are expanding the market demand for global scale 3D products. 3D products allow decision makers to understand their operational environment in 3D – developing new insights that enable them to make better, faster decisions. We see a growing opportunity to sell 3D data and software products to the military and intelligence community to support virtual training environments and provide better information to the warfighter. U.S. defense and intelligence customers are seeking solutions to support intelligence fusion, maneuver and other mission requirements. We also see significant opportunity with our commercial customers as they look for more accurate geodata to improve their products. Additionally, we recently entered into license arrangements related to certain consumer applications. The current investment in 5G networks and Internet of Things provides a unique opportunity to deliver network operators a better data solution to improve their future networks. Additional use cases continue to grow as 3D products and precision data sets become better understood.
+​
+Space Infrastructure
+Driving revenue through improvement in our products and manufacturing and program capabilities— we are developing differentiated capabilities that are designed for future space exploration, including propulsion, power and robotics. We believe these elements will be critical to helping our customers operate in an increasingly contested space environment and in achieving successful space exploration missions. We are also developing our satellite architectures and manufacturing capabilities to assure that we can successfully fulfill both government and commercial customer requirements on future programs, including high volume / low mix and variable volume / high mix programs. We plan to team with providers of digital payload technology to enhance our offering if our customers express interest in it. We are also developing relationships across the supply chain to assure that we can seamlessly provide a broad-breadth of mission sets to our customers. Finally, we are working to transform our operations (e.g. location strategy, workforce shaping, technology and systems investment and CAS / FAR compliance) so that we can address a larger set of opportunities across our government and commercial customers.
+​
+Growing our U.S. and international civil exposure—we have a long history with civil space programs dating back to the Apollo missions. Current NASA programs include the Power Propulsion Element for the Lunar Gateway, OSAM-1 and Psyche TEMPO. We have also provided every robotic arm on NASA’s Mars rovers. We seek to leverage our investments and expertise in propulsion, power and robotics, as well as our strong legacy of performance, when pursuing further civil work in the U.S. and abroad.
+​
+
+11
+
+
+
+Deepening our penetration of U.S. national programs—to date, we have won several classified and unclassified study contracts with U.S. defense and intelligence customers. We seek to further penetrate these markets by utilizing our flexible satellite architectures, design and engineering capabilities and commercial business practices—all of which we believe can create compelling value propositions.
+​
+Providing flexible platforms to our commercial customers—we currently provide components, subsystems and system architectures to our customers for communications and EO satellites in LEO, MEO and GEO orbits. In communications, we offer flexible platforms across various architecture platforms and mission payloads from standard analog to high throughput, and we are investing in digital solutions. In EO, we also offer flexible solutions across various architecture platforms and mission payloads, including electro-optic. Our goal is to be positioned well to compete for future single satellite or full constellation build orders from our customers, across a wide range of the architectures, payloads or Earth orbit chosen to fulfill mission requirements.
+​
+Government Contracts and Regulations 
+​
+Our operations are heavily regulated under various federal, state, local and international laws. Our operations in the U.S. government market are subject to significant government regulation. We contract with numerous U.S. government agencies and entities, including branches of the U.S. military and NASA. We must comply with, and are affected by, laws and regulations relating to the formation, administration and performance of U.S. government and other governments’ contracts, including foreign governments. Additional information about the risks relating to government contracts and regulations appears in "Risk Factors" in Item 1A of this Annual Report on Form 10-K.
+​
+U.S. Government Contracts
+All of our reportable segments have contracts with various governmental entities, which are concentrated in a small number of primary contracts. The U.S. government may terminate or suspend our contracts, including the EnhancedView Contract with the U.S. government in our Earth Intelligence segment, at any time with or without cause. Additionally, any changes in the size, scope or term of the EnhancedView Contract could impact our satellite replenishment strategy and our ability to repay or refinance our long-term debt. Although our U.S. government contracts generally involve fixed annual minimum commitments, such commitments, along with all other contracts with the U.S. government, are subject to annual Congressional appropriations and the federal budget process, and as a result, the U.S. government may not continue to fund these contracts at current or anticipated levels.
+​
+Foreign and Domestic Operations
+​
+In the year ended December 31, 2020, approximately 18% of our revenue was derived from non-U.S. sales, and we intend to continue to pursue international contracts. International operations are subject to certain risks, such as: changes in domestic and foreign governmental regulations and licensing requirements; changes in relations between the U.S. and a particular foreign country; increases in tariffs and taxes and other trade barriers; foreign currency fluctuations; changes in political and economic stability; effects of austerity programs or similar significant budget reduction programs; potential preferences by prospective customers to purchase from local (non-U.S.) sources; and difficulties in obtaining or enforcing judgments in foreign jurisdictions.
+
+In addition, our international contracts may include industrial cooperation agreements requiring specific in-country purchases, investments, manufacturing agreements or other financial obligations, known as offset obligations, and provide for penalties in the event we fail to meet such requirements. 
+​
+Environmental Regulations
+​
+Our operations are regulated under various federal, state, local and international laws governing the environment, including laws governing the discharge of pollutants into the soil, air and water, the management and disposal of hazardous substances and wastes and the cleanup of contaminated sites. We have infrastructure in place to ensure that our operations are in compliance with all applicable environmental regulations. We do not believe that the costs of compliance with these laws and regulations will have a material adverse effect on our capital expenditures, operating 
+
+12
+
+
+
+results or competitive position. The imposition of more stringent standards or requirements under environmental laws or regulations or a determination that we are responsible for the release of hazardous substances at our sites could result in expenditures in excess of amounts currently estimated to be required for such matters. We have been designated, along with numerous other companies, as a potentially responsible party for the clean-up of several hazardous waste sites. Based on available information, we do not believe that any costs incurred in connection with such sites will have a material adverse effect on our financial condition, results of operations, capital expenditures or competitive position. There can be no assurance that additional environmental matters will not arise in the future, or that costs will not be incurred with respect to sites at which no problem is currently known.
+​
+Resources
+​
+Intellectual Property
+​
+We own a substantial intellectual property portfolio that includes many U.S. and foreign patents, as well as many U.S. and international trademarks, service marks, domain names and copyrights. We actively pursue internal development of intellectual property. In addition to our patent portfolio, we own other intellectual property such as unpatented trade secrets, know-how, data and software. Additionally, we rely on licenses of certain intellectual property to conduct our business operations, including certain proprietary rights to and from third parties. While our intellectual property rights in the aggregate are important to our operations, we do not believe that any particular trade secret, patent, trademark, copyright, license or other intellectual property right is of such importance that its loss, expiration or termination would have a material effect on our business.
+​
+Raw Materials
+​
+Our businesses are generally engaged in limited manufacturing activities and have minimal exposure to fluctuations in the supply of raw materials. For those businesses that manufacture and sell products and systems, most of the value that we provide is labor oriented, such as design, engineering, assembly and test activities. In manufacturing our products, we use our own production capabilities as well as a diverse base of third-party suppliers and subcontractors. Certain aspects of our manufacturing activities require relatively scarce raw materials; occasionally, we have experienced difficulty in our ability to procure raw materials, components, sub-assemblies and other supplies required in our manufacturing processes.
+​
+Research and Development
+​
+We have a history of investing in development of technological advancements in our field of aerospace. We have both internally and externally funded research and development projects. Our current and future business is dependent on developing new enhancements and technology that go into our existing and future products and services. Our annual research and development expenses from continuing operations were $15 million in 2020, $10 million in 2019 and $88 million in 2018. We intend to continue our focus on research and development and product and service enhancements as a key strategy for innovation and growth. One of our current areas of focus is our development of the WorldView Legion program, a capital project, and other new offerings within our Earth Intelligence segment, including 3D technology through our acquisition of Vricon. Our efforts will continue to be directed into fields that we believe offer the greatest opportunities for long-term growth and profitability. 
+Backlog 
+​
+A summary of our backlog is set forth in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations – Backlog” of this Annual Report on Form 10-K.
+
+Seasonality
+​
+We have not historically experienced material seasonality in our businesses. 
+​
+
+13
+
+
+
+Financial and Other Business Information
+​
+See Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Annual Report on Form 10-K for financial information, including revenues and earnings from operations, for each of our reportable segments. 
+​
+Human Capital 
+​
+We endeavor to cultivate a positive experience as we deliver on Maxar and customer missions by attracting, growing and engaging current and future Maxar team members; creating strong partnerships across the business; championing culture and fostering an inclusive and diverse environment; and impacting the broader community. We take great pride in our values:
+​
+​
+Behind the words are leaders, managers and team members who believe in our values and live by them. As of December 31, 2020, we employed 4,300 team members globally. 97% are U.S. based and 3% are international. Within the U.S. no team members are unionized, while in Europe a small number of team members are represented by a trade union. Additionally, Maxar employs a highly technical workforce, with 78% of our employees working in engineering or operations functions, and the remainder in our sales and general and administrative functions.
+​
+Attracting Talent
+​
+The success of Maxar’s business depends largely on our ability to attract, grow and engage a diverse population of talented technical and skilled team members at all levels. To succeed in highly competitive labor markets, and for skill sets that are scarce in the market, we have developed talent acquisition, team member engagement and total rewards strategies, to achieve and maintain a competitive position.
+​
+Total Rewards
+​
+Our rewards programs are designed to provide for competitive pay and benefits to all levels of team members. 
+​
+We strive to offer comprehensive benefits at a highly competitive cost-share to US team members, including health insurance, direct access round-the-clock access to doctors virtually and on-site, paid and unpaid leave, parental leave for all new parents for birth or adoption, retirement, life and disability programs, voluntary benefit options flexible to individual team member and family needs, tuition reimbursement, adoption reimbursement, pet insurance and enhanced mental and emotional health support.
+​
+In order to encourage our Value “We Act Like Owners”, we offer an Employee Stock Purchase Plan with a discount for team members in countries where it is practical to offer the program. We also offer short- and long-term incentive programs to eligible team members.
+Outside of the U.S., we provide benefits, retirement and time-off in countries where we have a meaningful population of team members, designed based upon, among other things, market-specific practices and culture alignment.
+​
+Engaging Talent
+​
+In order to more fully engage team members and understand their needs, we regularly seek team member feedback by conducting anonymous pulse surveys on a variety of topics, including strategy, understanding leadership effectiveness, communications clarity and other areas for improvements. In 2020 we had a specific focus on our company response to the COVID-19 pandemic and how team members were faring. For both ongoing and targeted pulse surveys the results 
+
+14
+
+
+
+are shared with leaders and team members, and our executive team analyzes areas for future focus and prioritization in response to the feedback to drive meaningful improvement in team member engagement.
+​
+We have identified certain human capital focus areas to promote engagement of team members, including providing competitive wages and benefits, providing opportunities for individual and leader development and promoting an inclusive work environment. 
+​
+Diversity, Inclusion and Belonging (DIB)
+​
+Our DIB efforts are led by a council of senior executives, and supported by diverse teams across the Company, supported by our Human Resources organization. We believe that our greatest strength comes from our team members. Through building a work environment where our team members feel respected and included, we unlock great potential, innovation and success. We are passionate and committed to creating an inclusive workplace that promotes and values diversity and belonging, not just because it is the right thing to do, but because we believe it makes Maxar stronger. “We Stay Curious” and focus on this journey where everyone can be their authentic self and do their best work. 
+​
+COVID-19 Response
+​
+Team member health and safety is core to our successful operations across all areas of our business including manufacturing and satellite operations environments and our work at customer sites. The Company has taken significant actions in 2020 to address risk factors associated with COVID-19 and business continuity:
+​
+
+● | We built a COVID-19 Response Team comprised of facilities, safety, security, HR, IT and business leaders, which has met regularly for the majority of 2020, and will continue into 2021
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | As a company deemed to be government essential, we moved quickly to a remote work stance for as many team members as possible, to ensure our facilities could remain open and safe for team members required to work on-site
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We provided PPE, on-site meals, detailed protocols and processes, security and temperature checks and signage and improved our HVAC systems
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We conducted several pulse surveys of our team members, with special focus on our COVID-19 response and opportunities for improvement to ensure we understood team member concerns and could proactively address those concerns
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our strategies provided resiliency for our team members, as we have not had to cut compensation or benefits during the COVID-19 period, and have enhanced support such as lunches provided for on-site employees, a stipend for equipment for employees working remote and additional leave support
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our strategies provided resiliency for our customers, as we have been able to keep our operations open
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | We focused on continuous communication and resources for team members, including open question and answer forums, health & safety updates, benefits and mental health, exposure notifications and travel information
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+We have adopted a significant structure and approach to guide future decisions when evaluating the status and readiness of facilities to reopen to more team members, and we will monitor and audit our locations and team member status to ensure we continue to operate safely for all stakeholders.
+​
+Available Information
+​
+Our website can be accessed at http://www.maxar.com. The website contains information about us and our operations. Through a link on the Investor Relations section of our website, copies of our filings with the U.S. Securities and Exchange Commission (“SEC”), including any Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, Proxy Statements and Forms 3, 4 and 5 filed on behalf of directors and executive officers and amendments to each of those reports and statements can be viewed and downloaded free of charge as soon as reasonably practicable after the reports have been filed or furnished with the SEC. The information on our website is not incorporated by reference and is not a part of this Annual Report on Form 10-K. Additionally, our reports, proxy and information statements and other information filed with the SEC are available on the SEC’s website at 
+
+15
+
+
+
+http://www.sec.gov or at the SEC Public Reference Room in Washington, D.C. Information regarding the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. Our reports, proxy and information statements and other information filed can also be found under our SEDAR profile at www.sedar.com.
+​

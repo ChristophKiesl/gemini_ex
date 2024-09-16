@@ -1,0 +1,1138 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business.
+Overview
+Medallia, Inc. was founded in 2001 to help the world’s largest companies understand and improve customer experiences at scale. In doing so, we created a new category of enterprise software, experience management. 
+Our SaaS (software-as-a-service) platform, the Medallia Experience Cloud, is built on modern technology and open architecture, utilizing artificial intelligence (AI) and machine learning to analyze massive amounts of data. We capture experience data from the expanding signal fields emitted by customers and employees on their daily journeys so that our customers can understand, analyze, and act upon omni-channel experiences. Medallia is the only platform that makes all other applications customer and employee aware. We utilize our proprietary in-memory analytics, dynamic organizational hierarchy management, and AI technology to analyze the structured and unstructured data at great scale with enterprise grade security and privacy deriving themes and predictive insights that drive action in live time. Using our technology, enterprises reduce churn, turn detractors into promoters and buyers, and create in-the-moment cross-sell and up-sell opportunities, providing high returns on investment.
+Our platform captures and analyzes over 7.5 billion experiences annually. Our products have high adoption rates and are used extensively from the front line to the C-Suite; over half of our customers have more than 1,000 employees using our platform. Our platform is deeply embedded in an enterprise’s tech stack, with enterprises integrating Medallia with more than 25 other business applications. We believe this is significantly higher adoption than other experience management solutions available in the market.
+We offer our platform through a SaaS business model. We use a “land-and-expand” model, whereby once customers have deployed our platform, they often increase the number of end-users through expansion to additional business units and geographies, and they also purchase more modules. We focus our selling efforts on both business leaders who are often making a strategic purchase of our platform with the potential for broad use throughout their enterprises, as well as functional leaders purchasing for their teams. We price our subscriptions based on the functionality and capacity needs of our customers. Subscription periods for our customers generally range from one to three years and we customarily invoice customers in advance in annual installments. 
+Our Products
+Our SaaS platform is a purpose-built early warning system for customer and employee retention, making systems and people across organizations customer-aware, enabling transformational business impact.
+Medallia Experience Cloud
+Our platform captures a myriad of signals, and by applying analytics and artificial intelligence on those signals allows our customers to separate the noise and identify key themes that impact their business. Through our dynamic organizational hierarchies, we route these insights to the right individuals to take action, so that our customers can improve customer, employee, patient and citizen experience throughout their organizations in live time. Key capabilities of our core platform include:
+•Proprietary technology provides for dynamic management of multiple hierarchies ensuring that every employee gets an accurate up-to-date view of the data tailored to their role and relevant to the interactions for their area of responsibility, even in the most complex matrixed organizations.
+•In addition to integrations with Adobe, Salesforce, ServiceNow, and many more, we have hundreds of connectors that make it easy to integrate signals and insights with external applications as well as application programming interfaces (APIs) and robust extract, transform, load (ETL) technology to ensure our customers can integrate any customer interaction signal data - including from legacy systems.
+•Self-service administration provides teams with the agility needed to independently administer programs while ensuring proper governance, scalability and security for complex organizations utilizing sandbox and changesets capabilities.
+•Enterprise grade platform based on modern architecture offering flexibility for both multi-tenancy and single-tenancy with automated deployments across both options as well as application security including single sign-on, multiple levels of encryption, fine grained authorization, privacy controls including data masking and field level encryption, and high levels of compliance including SOC 2 Type 2, ISO 27001, GDPR, FedRAMP, HIPPA, and more.
+Signal Capture
+Medallia has a broad set of native signal capture capabilities going beyond the survey to capture digital, messaging, voice, video, ideas, internet of things (IoT), behavioral and telemetry data. This enables Medallia customers to increase their understanding of the customer experience and drive business outcomes at key touchpoints and gain a true 360-degree view of the customer experience.
+Messaging. Enables customers, employees and enterprises to engage customers and employees on popular messaging platforms (e.g., SMS, text and WeChat) as experiences are unfolding. It provides in-the-moment feedback and creates compelling and adaptive interactions that go beyond traditional survey-based feedback collection. 
+Ideas/Ideation. Robust crowdsourcing platform, Crowdicity, helps companies use real-time ideation and collaboration to surface, develop and evaluate potential improvements to customer and employee experiences.
+Social. Captures and aggregates ratings and reviews across social networks and websites to manage social reputation, access competitor reviews and enables enterprises to monitor these channels and take action. Companies are also able to promote their brand in key review sites, including Google and Tripadvisor.
+Analytics, Insights and Artificial Intelligence 
+Our SaaS platform uses artificial intelligence and machine learning to analyze all signals captured by customers to drive actions in live time. Our robust capture of experience signals provides data volume to feed our models for intelligence from both unstructured and structured data.
+Theme Exploration. Native text analytics engine that utilizes Natural Language Processing and deep learning to analyze billions of touch points and unstructured text to uncover insights, trends, themes and actions without the need for manual tagging, providing high accuracy and precision across multiple verticals and languages, including automated theme detection, clustering and generation from data sets, AI and deep learning-based technologies.
+Predictive and Prescriptive Analytics. Uses machine learning to create statistical algorithms to uncover real-time insights, predict future customer outcomes and prescribe actions.
+Operationalize Customer Experience Reporting and Actions
+Our SaaS platform is used broadly across enterprises of all sizes to provide personalized insights on customer experience to the right people within the organization to take action. High levels of adoption are enabled by easy-to-use web and mobile applications and built-in workflows for critical customer recovery actions, as well as cross enterprise views that enable unification and consolidation across the largest global enterprises.
+Web Applications. With powerful role-based dashboards, live time insights, alerts and built-in workflow capabilities, these applications connect enterprises to customer and employee signals, allowing everyone from the front line to the C-suite to take targeted actions and improve experiences in live time.
+Mobile Applications. Puts the power of Medallia in the palm of every employee, particularly important for employees on the go. With high adoption, our mobile app empowers frontline employees and managers to facilitate swift and direct action. In addition, our Voices app is tailored for executives to view the direct feedback of customers and employees and take immediate action to drive cultural change.
+Product Suites
+Our product portfolio includes solution suites that are targeted at key buyers and use cases and leverage the full power of Medallia Experience Cloud. These solution suites include integrated offerings that can be sold stand alone, including Crowdicity, Decibel, LivingLens, Sense360Stella Connect, Voci, and Zingle, providing additional go-to-market options, accelerating our ability to land-and-expand and grow our mid-market business.
+Customer Engagement Suite
+Medallia’s Customer Engagement Suite goes beyond insights and analysis to affect experiences in the moment through engagement messaging and rich experience profiles.
+Engagement Messaging. Offers frictionless personalized service in real-time. Customers can request products and services in-the-moment as they experience a purchase, appointment, or trip. Zingle is integrated with key operational systems to provide seamless delivery and fulfillment of requests and uses AI to automate and route responses, improving time to delivery, increasing customer satisfaction, enabling upsell and cross opportunities, and reducing labor costs.
+CX Profiles and Journeys. Creates a rich outside-in experience profile for all identified customers providing a 360-degree timeline view of their experiences offering deeper insights into customer engagement in order to identify attrition risk as well as opportunities for upsell and cross-sell. Our journey analytics uncovers the actual paths customers take with their business - including where they break down - providing actionable intelligence to create better experiences for customers.
+Contact Center Suite
+The Medallia Contact Center Suite Integrates speech insights with multi-channel feedback at scale to prioritize, address, and rapidly respond to customer pain points and emerging issues. By understanding the behaviors and specific language of successful outcomes, companies can increase agent performance resulting in 
+increased cross-sell/upsell and reduced cost to serve, particularly impactful given the increase in virtual contact center environments.
+Speech Analytics. A real-time speech to text platform, that delivers a rich single view of the customer that powers an exceptional customer experience. Combines the power of Voci’s speech to text transcription technology with text analytics to capture and analyze contact center voice interactions in real time.
+Coaching and Performance Management. Agent-forward customer feedback and coaching platform that helps customer support teams to analyze and improve performance in real time, including self-coaching capabilities.
+Quality Assurance. Replace manual call evaluation to deliver advisor competency reports across all advisor call KPIs as individual agents, segmented into teams/competencies or across the entire agent workforce.
+Digital Suite
+The Medallia Digital Suite brings together customer feedback on their digital experiences with key behavioral, telemetry and contextual signals to solve key friction points in digital journeys.
+Digital Experience. Optimizes engagement across all digital channels, such as web and mobile applications, internet of things (IoT) platforms, and Alexa. Medallia Digital is designed to help deliver the right experiences across numerous digital channels through integrations into our customers’ digital technology stacks, combining experience and behavioral data enabling them to understand the “why” behind the “what.”
+Digital Analytics. Our digital session recording and analysis platform, Decibel, tracks and monitors all digital activity focused on optimizing the customer journey. Determines a Digital Experience Score (DXS) and identifies improvement opportunities to improve the customer journey, reduce drop-off and increase purchase conversion.
+Employee Experience Suite
+Our Employee Experience (EX) Suite captures structured and unstructured feedback in real time using voice, video, text, ideation and digital capabilities to provide a complete picture of workforce health along the entire employee journey, including sentiment around diversity and inclusion and effectiveness of tools and systems. Our platform enables companies to retain employees and become digitally resilient on a platform with scalability and security for organizations of all sizes included the most complex organizations.
+Traditional employee engagement solutions often miss out on ways to collect feedback in the course of an employee’s daily life. Our robust EX Suite is designed to address the demanding requirements of human resource professionals, such as minimum sample sizes and anonymity thresholds, data security and privacy, accessibility while also providing live time dashboards, native text analytics, advanced workflows and integrations with human capital management (HCM) and Learning Management Systems. In addition, capturing feedback and signals on an ongoing basis in the tools and systems employees are using in their work, yields highly actionable live-time data that can improve employee engagement immediately.
+Employee Pulse and Journeys. Our EX Suite understands and contextualizes experiences across the entire employee journey and uses employee feedback to identify opportunities and drive action to improve both the employee and customer experience.
+Employee Ideation. Using Crowdicity, our customers can engage employees in sharing their ideas and observations about process, tools, and employee and customer experience improvements right in the context of existing workflows and collaboration tools. This feedback is a rich source of data for employee experience improvement ideas for all parts of the business. Our studies have repeatedly shown that when employees have the opportunity to provide ideas and see their ideas acted on, it leads to higher employee retention and engagement.
+Digital Employee Experience. Understand in real-time employees’ perspectives, ideas, and suggestions on the technology they use day-to-day as well as their general experiences. Using Medallia Digital embedded on employee intranets and internal applications, organizations can proactively engage employees, especially around 
+key tasks or activities within these digital channels, to gain valuable insight into how effectively their technology stack is performing in providing employees with the information and resources they need to do their jobs well. This solution enables companies to effect internal digital transformation in an agile way informed by employee feedback.
+Insights Suite
+Medallia’s Insights Suite gives market researchers the power to incorporate rich signals into their research toolkit. In addition to robust self-service survey capabilities, we also offer unique capabilities such as: 
+Video. Using our native video platform, LivingLens, companies can capture video signals providing richer insight into customers and employees perceptions, wants and needs with capabilities that include automatic transcription, emotion, sentiment, object recognition and facial blurring. Our platform can also be used as a video asset management platform and easily produce show reels, providing a virtual research alternative to in-person focus groups.
+Benchmarking. Offers multiple ways to benchmark performance across customer feedback, social and other signals including a unique always-on, consumer and competitive intelligence platform, Sense360, providing buyer and non-buyer signals on foot traffic, conversion and share of wallet. 
+Acquisitions
+We acquire companies that enhance our ability to improve our existing platform and introduce new products, features and functionality to new and existing customers.
+•On February 19, 2020 we acquired LivingLens Enterprise Ltd. (LivingLens), a privately-held company, that provides a video feedback platform to humanize feedback and bring the voice of the customer and employee to life for $26.8 million in cash. 
+•On May 1, 2020 we acquired Voci Technologies, Inc. (Voci), a privately-held company, that delivers a rich single view of the customer that can power an exceptional customer experience for $59.6 million in cash.
+•On September 8, 2020 we acquired StellaServices Inc. (Stella Connect), a privately-held company, a customer feedback and quality management platform that helps customer support teams to analyze and improve performance in real time for $99.6 million in cash, subject to certain adjustments.
+•On September 14, 2020 we acquired Sense360 Inc. (Sense360), a privately-held company that provides always-on, consumer and competitive intelligence from buyer and non-buyer segments and answers pressing questions such as what is driving traffic, what are the growth opportunities in a specific market and which competitors are gaining share for $45.7 million in cash. 
+•On March 12, 2021, we acquired Decibel Group London Ltd. (Decibel), a leader in digital experience analytics for approximately $162.5 million in cash.
+Our Growth Strategy
+We intend to capitalize on our massive and growing market opportunity by executing on the following growth strategy:
+Extend our technological leadership. We have a strong history of innovation and offer a comprehensive platform that addresses customer and employee experiences for enterprises of all sizes across multiple industries. We intend to continue to invest in new products and features while extending our platform to bring the power of experience management to a broader range of enterprises, industries, geographies and use cases.
+Drive cross selling and upselling. We see significant opportunity to deepen our relationships with our existing customers. The mission-critical nature of our platform, and enterprise wide applicability and engagement drives additional upsell and cross sell within enterprises. Our platform has natural network effects that drive expansion across teams and departments. As a result, enterprises often grow their usage 
+of our platform from their initial use cases to numerous business units and expand to use additional products. Our fifteen modules provide substantial cross sell opportunity as on average three modules are used by our customers today with 35% of our customers using 4 or more modules.
+Drive sales to new customers. As we extend our technology leadership, we also plan to continue to invest in sales and marketing to grow the number of customers. We continue to expand our sales force to pursue large and mid-sized enterprises. In addition, we intend to continue to deepen our opportunity within existing verticals, and geographies. We plan to expand to other verticals and geographies.
+Broaden and deepen our partner ecosystem. Our partner ecosystem accelerates the usage and adoption of our platform extends our geographic coverage and provides additional implementation resources. We believe our relationship with Integrated Software vendors such as Adobe, Microsoft, Oracle, Salesforce, ServiceNow and Workday provide our customers with the broadest ecosystem of enterprise systems that integrate and interact to provide excellent customer and employee experiences. We intend to augment and deepen our relationships with our go-to-market partners as well as global and regional services partners.
+Continue international expansion. We intend to continue making investments in building our global sales and marketing, service delivery and customer support capabilities to grow our business outside of the United States while delivering the highest quality service to our customers around the world.
+Competition 
+We pioneered and lead the experience management market and believe that we provide the only comprehensive offering for experience management. We built a platform that addresses the complex experience management needs of enterprise-scale organizations and continue to expand those capabilities to new verticals and enterprises of all sizes. There are other companies that actively compete with us in particular segments of the experience management market. In addition, other established technology companies not currently focused on experience management may expand their services to compete with us. As a result, the competitive landscape is fragmented, rapidly evolving and highly competitive. We expect significant competition to continue, both from current competitors as well as new entrants into the market, some of which may become significant competitors in the future. 
+Our competitors fall into the following categories: 
+•in-house solutions or custom-development efforts; 
+•survey tools, such as Qualtrics and SurveyMonkey; 
+•contact center technology companies, such as Nice and Verint Systems; and 
+•full-service consulting firms, such as MaritzCX and Towers Watson.
+We believe that the principal competitive factors in our market are:
+•breadth of platform capabilities, features, quality, functionality, scalability and design;
+•scope of signal collection and use of AI to analyze product behavior;
+•ability for customers to generate insights and easily act;
+•security, privacy and compliance capabilities;
+•business impact, including speed and scale of ROI;
+•thought leadership, market vision and pace of product innovation;
+•strength of artificial intelligence and deep learning capabilities and predictive analytics;
+•size and relevance of dataset;
+•third party integrations and accessibility across software applications, operating systems and platforms;
+•size and sophistication of customer base across verticals and geographies;
+•user adoption and engagement;
+•quality of user experience, particularly in complex, changing and high-volume environments;
+•brand awareness and reputation; and
+•ease of implementation and flexible deployment options.
+We believe we compete favorably across these factors. However, we realize that many of our current and potential competitors have competitive advantages over us, including:
+•greater name and brand recognition;
+•deeper product development expertise;
+•greater market penetration;
+•larger and more established customer bases and relationships;
+•larger sales forces and more established partner networks;
+•larger marketing budgets; and
+•access to significantly greater financial, human, technical and other resources.
+Our larger competitors could move quickly to grow their competitive solutions, either through organic development or acquisitions. At the same time, we believe smaller competitors will continue to develop new solutions that could prove more effective than those offered by us, especially in specific market segments and narrow use cases. In order to continue to lead the experience management market, we will focus on expanding our platform capabilities, investing in our sales and marketing, professional services and partner capabilities, and delivering transformative business impact.
+Our Customers
+We measure and track the number of customers because our ability to attract new customers, grow our customer base and retain existing customers helps drive our success and is an important contributor to our revenue growth. We have successfully demonstrated a history of growing our customer base. We define the number of customers at the end of any particular period as the number of customers with active annual subscription agreements that run through the current or future period. In situations where a customer has multiple subsidiaries or divisions, each entity that is invoiced as a separate entity is treated as a separate customer.
+Sales and Marketing 
+As an award-winning SaaS platform that pioneered customer, employee, citizen and patient experience we invest substantially in our sales and marketing efforts. Our go-to-market approach is driven by the strength and innovation of our platform, as well as customer demand. We have purpose-built our platform to be equally effective for specific use cases and for holistic, enterprise-wide adoption of managing experiences. Our platform has natural network effects that drive expansion across teams and departments. As a result, enterprises often grow their usage of our platform from their initial use cases to numerous business units and expand to use additional products. 
+Our marketing efforts are focused on promoting our brand, generating awareness of our platform, supporting our community of customers and creating sales leads. The breadth of our platform allows us to market our products throughout an enterprise, and our marketing efforts seek to engage managers at every level. Our marketing initiatives include search marketing, programmatic display, video, emerging channels such as connected television and audio advertising, community, account based marketing, web personalisation, our city tours and our participation in industry and partner conferences, case studies and customer testimonials. 
+Our sales and marketing expenses were $225.4 million, $180.7 million, and $138.7 million for the years ended January 31, 2021, 2020 and 2019, respectively. For information about our sales and marketing expenses see "Management's Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations - Sales and Marketing Expenses" of this Annual Report on Form 10-K.
+Partners 
+We have a partner ecosystem that helps us market, deliver and extend our platform. We intend to grow this ecosystem to bring the benefits of our platform to more customers around the world. Our partner relationships include:
+•Systems integrators and implementation partners.  We have an emerging global network of systems integrators and implementation partners that help deliver our platform to various customers around the world. These include global system integrators as well as more specialized geographic and functional providers.
+•Software and technology partners. We work with leading platforms, such as, Adobe, Microsoft, Oracle, Salesforce, ServiceNow and Workday, to expand our opportunities, extend the benefits of our platform and take advantage of innovations in complementary technologies. These partnerships enable us and third parties to create integrations between applications and technologies, delivering increased value to customers. We also partner with a range of leading technology companies to extend the use cases of our platform. These include social networks, ratings and review sites, contact center providers, communication platforms and web analytics providers, among others.
+•Consulting partners.  We collaborate with a range of consulting partners to help drive outcomes for our customers. These include global management consulting firms that act as strategic advisors to senior executives in corporate, functional and process matters related to experience management. In addition, we work with a broad range of specialized consulting partners that focus on specific domains within experience management.
+Research and Development
+We have a research and development culture that rapidly and consistently delivers high-quality enhancements to the functionality, performance and usability of our platform. Our research and development organization is primarily responsible for design, development, testing and delivery of our platform and products. We focus our efforts on developing core technologies, as well as further enhancing the usability, functionality, reliability, performance and flexibility of our platform.
+We have a global workforce with research and development hubs in Argentina, California, Czech Republic, Israel and Virginia. We hire skilled engineers, data scientists and other talent from a variety of industries with expertise in developing mission-critical applications for global enterprises.
+As a company, we invest substantial resources in research and development. We have a well-defined technology roadmap to introduce new features and functionality to our platform that we believe will enhance our ability to generate revenue by broadening the appeal of our platform to potential new customers as well as introducing new opportunities for existing customers. We are also investing to enhance machine learning and other forms of artificial intelligence, as well as additional predictive analytics and optimization tools, to address the most complex challenges in the experience management market.
+Our research and development expenses were $117.8 million, $96.0 million and $86.3 million for the years ended January 31, 2021, 2020 and 2019, respectively. For information about our research and development expenses see "Management's Discussion and Analysis of Financial Condition and Results of Operations - Results of Operations - Research and Development Expenses" included elsewhere in this Annual Report on Form 10-K.
+Regulatory Matters 
+We are subject to a variety of laws in the United States and internationally, including laws regarding privacy, data protection, data security, data retention and consumer protection, accessibility, sending and storing of electronic messages (and related traffic data where applicable), intellectual property, human resource services, employment and labor laws, workplace safety, consumer protection laws, anti-bribery and anti-corruption laws, import and export controls, immigration laws, federal securities laws and tax regulations, all of which are 
+continuously evolving and developing. The manner in which existing laws and regulations are applied to SaaS businesses, and how they will relate to our business in particular, both in the United States and internationally, often are unclear. For example, we sometimes cannot be certain which laws will be deemed applicable to us given the global nature of our business, including with respect to such topics as data privacy and security, pricing, advertising, taxation, content regulation and intellectual property ownership and infringement.
+In addition, regulatory authorities around the world are considering a number of legislative and regulatory proposals concerning privacy, spam, data storage, data protection, data collection, data transfers, content regulation, cybersecurity, government access to personal information and private data, and other matters that may be applicable to our business. More countries are enacting and enforcing laws related to the appropriateness of content and enforcing those and other laws by blocking access to services that are found to be out of compliance. It is also likely that as our business grows and evolves, as an increasing portion of our business shifts to mobile, and as our solutions are used in a greater number of countries and by additional groups, we will become subject to laws and regulations in additional jurisdictions. For additional information, see the section titled “Risk Factors—Risks Related to Laws and Regulations—Our business is subject to a variety of U.S. and foreign laws, many of which are unsettled and still developing and which could subject us to claims or otherwise harm our business.” 
+Data Privacy and Security 
+We prioritize the trust of customers and place a strong emphasis on data privacy and security. Our security program is designed and implemented, throughout our company and our platform, to address the security and compliance requirements of our customers. 
+Our information systems and technical infrastructure are hosted within ISO27001, SSAE18 or SOC 2 accredited data centers and we have obtained third-party verification of our security programs across a number of industry standards, including SOC 2 Type 2, ISO 27001, ISO 27017, ISO 27018, and ISO 27701. Service Organization Controls (SOC), are standards established by the American Institute of Certified Public Accountants for reporting on internal control environments implemented within an organization. We have also achieved FedRAMP Moderate Authorization from the FedRAMP Joint Authorization Board to deliver services to U.S. federal government agencies. 
+We have a dedicated team of professionals that focus on application, network and system security, as well as security compliance, training and education and incident response. We build security into our Product Development Lifecycle (PDLC) at every stage of our development process. We maintain a documented vulnerability management program that includes periodic scans designed to identify security vulnerabilities on servers, workstations, network equipment and applications, and subsequent remediation of vulnerabilities. We also conduct regular internal and external penetration tests and remediate according to severity for any results found.
+We encrypt customer data in transit using secure transport layer security cryptographic protocols and encrypt data at rest as well. We use multi-factor authentication and other security controls in order to control access to our resources containing personal data or other confidential information. We offer solutions that meet the accessibility standards of WCAG 2.0 AA and Section 508 of the Americans with Disabilities Act, as applicable. 
+We design our platform, solutions and policies to facilitate compliance with evolving privacy and data security laws and regulations. We post on our website our privacy policy, and we maintain certain other policies and practices relating to data security and concerning our processing, use and disclosure of personal information. 
+Our publication of our privacy policy and other statements regarding privacy and security may subject us to investigation or enforcement actions by state and federal regulators if they are found to be deficient, lacking transparency, deceptive or misrepresentative of our practices. We also may be bound from time to time by contractual obligations, including model contract provisions approved by the European Commission relating to any category of personal data and business associate agreements that impose certain obligations and restrictions upon us relating to our handling of protected health information regulated by HIPAA. The privacy and data security laws and regulations to which we are subject, as well as their interpretation, are evolving and we expect them to continue to change over time. For example, the EU has adopted the GDPR, a far-reaching regulation governing data privacy 
+that, became effective in May 2018. The GDPR contains stringent requirements applicable to the handling of personal data and imposes penalties for non-compliance of up to the greater of €20,000,000 or 4% of worldwide revenue. Additionally, California enacted legislation, the California Consumer Privacy Act (CCPA), which became effective on January 1, 2020. The CCPA requires covered companies to, among other things, provide disclosures to California consumers and afford such consumers abilities to opt out of certain sales of personal information. Additionally, a new privacy law, the California Privacy Rights Act (“CPRA”), was approved by California voters in the November 3, 2020 election. The CPRA creates obligations relating to consumer data beginning on January 1, 2022, with implementing regulations expected on or before July 1, 2022, and enforcement beginning July 1, 2023. Further, in June 2016, the United Kingdom voted to leave the European Union, commonly referred to as Brexit, which resulted in the United Kingdom existing the European Union on January 31, 2020, subject to a transition period covering certain matters that ended on December 31, 2020. While an adequacy bridging provision was agreed to with the European Union to mitigate against disruption of data flows in the short term, it remains to be seen whether the European Commission will ratify an adequacy bridging provision decision with regard to data flows to the United Kingdom thereafter. Brexit could lead to further legislative and regulatory changes. The United Kingdom has implemented legislation that substantially implements the GDPR with penalties for noncompliance of up to the greater of 17.5 million GBP or four percent of worldwide revenue. Many aspects of the United Kingdom data protection laws and regulations remain unclear, including how the data protection laws and regulations will develop in the medium to longer term and how data transfers to and from the United Kingdom will be regulated. Some countries also are considering or have passed legislation implementing data protection requirements or requiring local storage and processing of data, or similar requirements, which could increase the cost and complexity of delivering our services. More generally, the various privacy and data security legal obligations that apply to us may evolve in a manner that relates to our practices or the features of our applications or platform. We may need to take additional measures to comply with the changes in our legal obligations and to maintain and improve our information security posture in an effort to avoid security incidents or breaches affecting personal information or other sensitive or proprietary data. 
+Intellectual Property 
+We believe that our intellectual property rights are valuable and important to our business. We rely on trademarks, patents, copyrights, trade secrets, license agreements, intellectual property assignment agreements, confidentiality procedures, non-disclosure agreements and employee non-disclosure and invention assignment agreements to establish and protect our proprietary rights. Though we rely in part upon these legal and contractual protections, we believe that factors such as the skills and ingenuity of our employees and the functionality and frequent enhancements to our platform and solutions are larger contributors to our success in the marketplace.
+As of January 31, 2021, we had 18 issued patents and 25 pending or provisional patent applications. These patents and patent applications seek to protect our proprietary inventions relevant to our business. 
+We have an ongoing trademark and service mark registration program pursuant to which we register our brand names and solution names, taglines and logos in the United States and other countries to the extent we determine appropriate and cost-effective. We also have common law rights in some unregistered trademarks that were established over years of use. In addition, we have registered domain names for websites that we use in our business, such as medallia.com, and similar variations.
+Human Capital Management
+We believe the strength of our workforce is one of the most significant contributors to our success. As of January 31, 2021, we had a total of 2,037 employees worldwide. Of our employees, 1,299 were in the United States and 738 were international employees.
+We are committed to a respectful, rewarding, diverse and inclusive work environment that allows our team members to develop and grow with Medallia. To act on that commitment, we structure our human capital management objectives around four pillars: Hire, Retain, Invest and Experience.
+Hire 
+One of our core values is cultivating a culture where everyone feels a sense of belonging. At Medallia, every experience matters. Everyone brings different life experiences to the table, and we embrace them all by seeking candidates from a wide range of backgrounds and experiences to join our team. 
+In addition, we believe that an equitable and inclusive environment composed of diverse teams produces more creative solutions, results in better and more innovative products, and is crucial to our efforts to attract and retain key talent. We are focused on building an inclusive culture and sustaining a diverse workforce through a variety of company initiatives, but it all starts with hiring and we believe representation matters. For example, in fiscal year 2021, our focus on inclusive hiring contributed to a 309% increase in Black and African American representation, a group that as of the end of the fiscal year made up 4.5% of our U.S. employee population. We are committed to further building our recruiting pipeline for Black talent. 
+Retain 
+To retain our workforce, we strive to offer competitive compensation and comprehensive benefits programs, utilizing compensation surveys and global benefits data to benchmark our packages in each of our locations. Our compensation program is designed to attract, reward and retain talented individuals who possess the skills necessary to support our business, contribute to our strategic goals and create long-term value for our stockholders. We provide our employees with competitive compensation packages that include base salary plus a bonus, commission or incentive plan, as well as regionally specific pension benefits, wellness benefits, access to our employee stock purchase plan where applicable, and equity awards to encourage performance and retention of our top talent. We offer volunteer time off and generous parental leave and family planning benefits.
+In 2017, we publicly committed to pay equity, meaning no statistically significant differences by gender or race for those doing substantially similar work. In fiscal year 2021, we maintained our commitment to pay equity and partnered with an outside vendor to analyze pay equity, globally by gender, as well as by race within the United States.
+We also recognize the vital importance of the well-being of our employees, especially in light of the new and evolving challenges of the COVID-19 pandemic. We support our employees’ health and safety in a number of ways, including by providing mental and physical wellness benefits, allowances to employees to cover certain remote work expenses, subsidized dependent care, and flexible working arrangements for our employees with caregiving obligations. Research has shown that the COVID-19 pandemic has had an outsized impact on women in the workforce, and we have provided new and additional support programs to assist. In tandem with these programs, Medallia offers fertility, pregnancy and postpartum care advocacy globally, supporting working parents and their mental health, and we partnered with experts to host exclusive webinars on balancing work and family during the pandemic. We are proud to report that our retention rate among female employees was 90% during fiscal year 2021, and in a recent internal survey, 89% of women reported feeling fully supported. 
+Medallia offers a comprehensive suite of global wellness benefits supporting mental and physical health as well as pathways to confidential counseling through our employee assistance program. These global programs are open to every employee, regardless of their location. We intend to increase our focus on our well-being benefits during fiscal year 2022 as we continue to grow our culture of health and wellness across Medallia. 
+Invest 
+We invest in our employees by providing education, training and feedback, and access to meaningful growth opportunities. To support the continued learning and professional development of our employees, we host regular town halls and an executive speaker series featuring experts on intersectional topics related to diversity, equity, leadership, inclusion and health. In addition to formal and informal on-the-job training, we offer a robust tuition assistance program for all eligible full-time employees that grants cash and/or equity reimbursement for professional certificate or degree programs related to an employee’s current or future job function. During fiscal year 2021, we also piloted a new quarterly check-in program facilitating the delivery of regular performance feedback, 
+which has now become part of our annual performance program. Career growth and development opportunities are available to all employees with internal promotions, transfers and stretch assignments. 
+Experience 
+We bolster our employee experience through a number of initiatives. We believe the employee experience belongs to everyone. By integrating Medallia’s Experience Platform across key moments in the employee lifecycle, every department is mobilized by getting the right insights to the right person so they can understand employee needs and launch new programs to support our employees based on that feedback. 
+Medallia founded its Diversity, Inclusion, and Belonging (DIBs) practice in March 2016. As a centralized resource serving all Medallians globally, the DIBs practice seeks to maximize workforce diversity, and promote a sense of inclusion and belonging among employees. 
+Medallia participates in the Human Rights Campaign Foundation’s Corporate Equality Index (CEI), a national benchmarking tool on corporate policies and practices pertinent to lesbian, gay, bisexual, transgender and queer employees. In 2018, 2019, 2020, and 2021 we earned a perfect score on the CEI and the honor of being named one of the Best Places to Work for LGBTQ Equality.
+In fiscal year 2021, we also increased funding and support for our nine Employee Resource Groups (ERGs). ERGs are essential to Medallia’s diversity and inclusion initiatives and are woven into the fabric of our culture. ERGs drive impactful community and culture building programming that attracts top talent and enriches our environment for Medallians. We recognize these contributions as extremely valuable. Our Medallian-led ERGs have significant impact, both internally and externally, and they are encouraged to give back to causes that matter to them. In fiscal year 2021, our ERGs donated over $20,000 to vitally important causes as part of our ERG Gift Matching program. In addition, Medallia donated $200,000 focused on supporting the Black community with donations to Black Girls CODE, Code2040, Black Girl Ventures and the Equal Justice Initiative. We also provide resources and training, such as anti-racism and managing unconscious bias training to employees at all levels to ensure that we are hiring, promoting and retaining diverse teams.
+Corporate Information
+We were incorporated in California in July 2000. We incorporated a wholly-owned subsidiary of Medallia, Inc. in Delaware in December 2009. In October 2010, we merged our California and Delaware corporations and the surviving entity was Medallia, Inc., a Delaware corporation. Our principal executive offices are located at 575 Market Street, Suite 1850, San Francisco, California 94105, and our telephone number is (650) 321-3000. We completed our initial public offering in July 2019, and our common stock is listed on the New York Stock Exchange under the symbol “MDLA.”
+Available Information
+Our website address is http://www.medallia.com/, and our investor relations website is located at http://investor.medallia.com/. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our investor relations website as soon as reasonably practicable after we file such material with the Securities Exchange Commission (SEC).
+Medallia investors and others should note that we announce material information to the public about our company, products and services and other issues through a variety of means, including our website, our investor relations website, press releases, SEC filings, and public conference calls, in order to achieve broad, non-exclusionary distribution of information to the public and for complying with our disclosure obligations under Regulation FD. We encourage our investors and others to review the information we make public in these locations as such information could be deemed to be material information. Please note that this information may be updated from time to time.
+The contents of any website referred to in this Annual Report on Form 10-K are not intended to be incorporated into this filing. Further, the Company’s references to the URLs for these websites are intended to be inactive textual references only.
+Item 1.     FINANCIAL STATEMENTS
+Medallia, Inc.
+Consolidated Balance Sheets
+(in thousands, except share and par value data)
+
+ | January 31, 2021 | | January 31, 2020
+Assets | | | 
+Current assets: | | | 
+Cash and cash equivalents | $ | 428,328 | | | $ | 226,866
+Marketable securities | 254,061 | | | 116,833 | 
+Trade and other receivables, net | 181,431 | | | 150,661 | 
+Deferred commissions, current | 31,107 | | | 22,455 | 
+Prepaid expenses and other current assets | 23,835 | | | 22,492 | 
+Total current assets | 918,762 | | | 539,307 | 
+Property and equipment, net | 40,668 | | | 34,879 | 
+Operating lease right-of-use assets | 39,050 | | | — | 
+Deferred commissions, noncurrent | 68,929 | | | 51,540 | 
+Goodwill | 262,942 | | | 79,324 | 
+Intangible assets, net | 60,623 | | | 21,306 | 
+Other noncurrent assets | 10,675 | | | 5,293 | 
+Total assets | $ | 1,401,649 | | | $ | 731,649
+Liabilities and stockholders' equity | | | 
+Current liabilities: | | | 
+Accounts payable | $ | 11,904 | | | $ | 3,608 
+Accrued expenses and other current liabilities | 39,756 | | | 20,268 | 
+Accrued compensation | 42,292 | | | 37,160 | 
+Deferred revenue, current | 293,231 | | | 263,115 | 
+Total current liabilities | 387,183 | | | 324,151 | 
+Convertible senior notes, net | 448,064 | | | — | 
+Deferred revenue, noncurrent | 1,396 | | | 1,407 | 
+Lease liability, noncurrent | 47,631 | | | — | 
+Other liabilities | 9,134 | | | 8,295 | 
+Total liabilities | 893,408 | | | 333,853 | 
+Commitments and contingencies (Note 10) | | | 
+Stockholders' equity: | | | 
+Common stock, $0.001 par value: 1,000,000,000 shares authorized as of January 31, 2021 and 2020; 154,995,819 shares and 132,346,402 shares issued and outstanding as of January 31, 2021 and 2020, respectively | 150 | | | 132 | 
+Additional paid-in capital | 1,136,534 | | | 878,843 | 
+Accumulated other comprehensive loss | 1,186 | | | (206) | 
+Accumulated deficit | (629,629) | | | (480,973) | 
+Total stockholders' equity | 508,241 | | | 397,796 | 
+Total liabilities and stockholders' equity | $ | 1,401,649 | | | $ | 731,649
+
+The accompanying notes are an integral part of these consolidated financial statements.
+Medallia, Inc.
+Consolidated Statements of Operations
+(in thousands, except per share data)
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019 | 
+Revenue: | | | | | | 
+Subscription | $ | 382,573 | | | $ | 312,168 | | $ | 246,797 
+Professional services | 94,648 | | | 90,295 | | | 66,845 | 
+Total revenue | 477,221 | | | 402,463 | | | 313,642 | 
+Cost of revenue: | | | | | | 
+Subscription | 80,376 | | | 61,369 | | | 47,948 | 
+Professional services | 90,308 | | | 83,820 | | | 67,953 | 
+Total cost of revenue | 170,684 | | | 145,189 | | | 115,901 | 
+Gross profit | 306,537 | | | 257,274 | | | 197,741 | 
+Operating expenses: | | | | | | 
+Research and development | 117,800 | | | 95,978 | | | 86,272 | 
+Sales and marketing | 225,414 | | | 180,711 | | | 138,674 | 
+General and administrative | 101,351 | | | 95,515 | | | 53,239 | 
+Total operating expenses | 444,565 | | | 372,204 | | | 278,185 | 
+Loss from operations | (138,028) | | | (114,930) | | | (80,444) | 
+Other income (expense), net | (10,550) | | | 3,129 | | | (11) | 
+Loss before provision for income taxes | (148,578) | | | (111,801) | | | (80,455) | 
+Provision for income taxes | 78 | | | 532 | | | 1,779 | 
+Net loss | $ | (148,656) | | | $ | (112,333) | | $ | (82,234)
+Net loss per share attributable to common stockholders, basic and diluted | $ | (1.03) | | | $ | (1.35) | | $ | (3.07) 
+Weighted-average shares used in computing net loss per share attributable to common stockholders, basic and diluted | 144,563 | | | 83,269 | | 26,770 | 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+Medallia, Inc.
+Consolidated Statements of Comprehensive Loss
+(in thousands)
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Net loss | $ | (148,656) | | | $ | (112,333) | | $ | (82,234)
+Other comprehensive income (loss), net of taxes: | | | | | 
+Foreign currency translation adjustment | 2,825 | | | 792 | | | (912)
+Change in unrealized gain on marketable securities | 3 | | | 22 | | | 12 
+Change in unrealized gain on cash flow hedges | (1,436) | | | 76 | | | 924 
+Other comprehensive income | 1,392 | | | 890 | | | 24 
+Comprehensive loss | $ | (147,264) | | | $ | (111,443) | | $ | (82,210)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+Medallia, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Operating activities | | | | | 
+Net loss | $ | (148,656) | | | $ | (112,333) | | $ | (82,234)
+Adjustments to reconcile net loss to net cash (provided by) used in operating activities: | | | | | 
+Depreciation and amortization | 29,047 | | | 15,611 | | | 13,856 
+Amortization of deferred commissions | 26,761 | | | 19,030 | | | 13,201 
+Non-cash lease expense | 11,827 | | | — | | | — 
+Stock-based compensation expense | 104,805 | | | 109,456 | | | 27,858 
+Gain on property and equipment, and lease termination | — | | | (13,783) | | | 3,398 
+Lease exit costs | 16,838 | | | — | | | — 
+Amortization of debt discount and issuance costs | 8,742 | | | — | | | — 
+Other | 1,832 | | | (698) | | | (417) 
+Changes in assets and liabilities: | | | | | 
+Trade and other receivables | (30,391) | | | (43,268) | | | (16,383)
+Deferred commissions | (52,802) | | | (41,424) | | | (27,218)
+Prepaid expenses and other current assets | 1,666 | | | (6,198) | | | 2,176 
+Other noncurrent assets | (1,864) | | | (252) | | | (218) 
+Accounts payable | 5,579 | | | 2,097 | | | 877 
+Deferred revenue | 24,665 | | | 49,749 | | | 42,935 
+Accrued expenses and other current liabilities | 6,973 | | | 20,282 | | | 6,809 
+Other noncurrent liabilities | (3,370) | | | 137 | | | 163 
+Net cash provided by (used in) operating activities | 1,652 | | | (1,594) | | | (15,197)
+Investing activities | | | | | 
+Purchases of property, equipment and other | (20,822) | | | (22,009) | | | (11,259)
+Purchase of marketable securities | (394,774) | | | (182,389) | | | (18,684)
+Maturities of marketable securities | 256,233 | | | 65,853 | | | 34,840 
+Proceeds from sale of marketable securities | 1,100 | | | 511 | | | 1,296 
+Acquisitions, net of cash acquired | (223,647) | | | (76,532) | | | — 
+Other | — | | | (1,500) | | | — 
+Net cash (used in) provided by investing activities | (381,910) | | | (216,066) | | | 6,193 
+Financing activities | | | | | 
+Proceeds from issuance of convertible senior notes, net of issuance costs | 558,237 | | | — | | | — 
+Purchase of capped calls related to convertible senior notes | (61,870) | | | — | | | — 
+Proceeds from initial public offering net of issuance costs, underwriters discounts and commissions, and concurrent private placement | — | | | 319,572 | | | — 
+Proceeds from Series F convertible preferred stock, net of issuance costs | — | | | 69,848 | | | — 
+Proceeds from revolving line of credit | 43,000 | | | — | | | — 
+Repayment of revolving line of credit | (43,000) | | | — | | | — 
+Proceeds from exercise of stock options | 78,595 | | | 34,009 | | | 12,093 
+Payments for employee taxes withheld upon vesting of restricted stock units | — | | | (17,907) | | | — 
+Proceeds from share purchase plan | 17,828 | | | — | | | — 
+Principal payments on financing leases | (4,937) | | | (3,540) | | | (708) 
+Repayment of debt assumed in acquisitions and other | (6,445) | | | (2,297) | | | — 
+Net cash provided by financing activities | 581,408 | | | 399,685 | | | 11,385 
+Effect of exchange rate changes on cash and cash equivalents | 312 | | | (35) | | | (204) 
+Net increase in cash and cash equivalents | 201,462 | | | 181,990 | | | 2,177 
+Cash and cash equivalents at beginning of period | 226,866 | | | 44,876 | | | 42,699 
+Cash and cash equivalents at end of period | $ | 428,328 | | | $ | 226,866 | | $ | 44,876 
+Supplemental disclosures of cash flow information | | | | | 
+Cash paid for interest | $ | 1,217 | | | $ | 637 | | $ | 134 
+Cash paid for income taxes | $ | 1,485 | | | $ | 1,563 | | $ | 2,352 
+Noncash investing and financing activities | | | | | 
+Other receivables related to stock option exercises | $ | 338 | | | $ | 331 | | $ | — 
+Vesting of early exercised stock options | $ | — | | | $ | 487 | | $ | 840 
+Accrued unpaid capital expenditures | $ | 6,106 | | | $ | 6,078 | | $ | 6,455 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+Medallia, Inc.
+Consolidated Statements of Stockholders' Equity (Deficit)
+(in thousands, except share data)
+
+ | ConvertiblePreferred Stock | Class ACommon Stock | | Class BCommon Stock | | Common Stock | | AdditionalPaid-InCapital | | AccumulatedOtherComprehensiveLoss | | AccumulatedDeficit | TotalStockholders'Equity (Deficit)
+ | Shares | Amount | | Shares | | Amount | | Shares | | Amount | | Shares | Amount | 
+Balance at January 31, 2018 | 72,394,601 | | $ | 72 | | | 24,637,801 | | | $ | 24 | | 3,000 | | $ | — | | — | | $ | — | | | $ | 322,300 | | $ | (1,120) | $ | (286,219) | $ | 35,057 
+Cumulative effect of the adoption of ASU 2016-09 | — | | — | | | — | | | — | | | — | | — | | — | | — | | 187 | | | — | | | (187) | | — 
+Exercise of employee stock options | — | | — | | | 5,067,450 | | | 6 | | | — | | — | | — | | — | | 11,891 | | | — | | | | 11,897 | 
+Repurchase of early exercised stock options | — | | — | | | (30,801) | | | — | | | — | | — | | — | | — | | — | | | — | | | | — | 
+Vesting of early exercised stock options | — | | — | | | — | | | — | | | — | | — | | — | | — | | 840 | | | — | | | | 840 | 
+Issuance of shares at end of escrow period in connection with prior period acquisitions | 88,008 | | — | | | 81,433 | | | — | | | — | | — | | — | | — | | — | | | — | | | | — | 
+Stock-based compensation | — | | — | | | — | | | — | | | — | | — | | — | | — | | 27,858 | | | — | | | | 27,858 | 
+Other comprehensive loss | — | | — | | | — | | | — | | | — | | — | | — | | — | | — | | | 24 | | | | 24 | 
+Net loss | — | | — | | | — | | | — | | | — | | — | | — | | — | | — | | | — | | | (82,234) | | (82,234) 
+Balance at January 31, 2019 | 72,482,609 | | $ | 72 | | | 29,755,883 | | | $ | 30 | | 3,000 | | $ | — | | — | | $ | — | | | $ | 363,076 | | $ | (1,096) | $ | (368,640) | $ | (6,558)
+Issuance of Series F Preferred shares, net of issuance costs | 4,666,666 | | 5 | | | — | | | — | | | — | | — | | — | | — | | 69,843 | | | — | | | — | | 69,848 
+Conversion of common stock | — | | — | | | (31,126,701) | | | (31) | | | (3,000) | | — | | 31,129,701 | | 31 | | — | | | — | | | — | | — 
+Conversion of preferred stock | (77,149,275) | | (77) | | | — | | | — | | | — | | — | | 77,149,275 | | 77 | | — | | | — | | | — | | — 
+Proceeds from Initial Public Offering, net of issuance and underwriter's discounts and commissions and concurrent private placement | — | | — | | | — | | | — | | | — | | — | | 16,680,000 | | 17 | | 319,555 | | | — | | | — | | 319,572 
+Warrant exercises | — | | — | | | — | | | — | | | — | | — | | 121,915 | | — | | — | | | — | | | — | | — 
+Exercise of employee stock options | — | | — | | | 1,370,818 | | | 1 | | | — | | — | | 6,601,952 | | 7 | | 34,332 | | | — | | | — | | 34,340 
+Repurchase of early exercised stock options | — | | — | | | — | | | — | | | — | | — | | (823) | | — | | — | | | — | | | — | | — 
+Vesting of early exercised stock options | — | | — | | | — | | | — | | | — | | — | | — | | — | | 487 | | | — | | | — | | 487 
+Release of restricted stock units | — | | — | | | — | | | — | | | — | | — | | 1,170,861 | | — | | — | | | — | | | — | | — 
+Shares repurchased of tax withholdings on release of restricted stock units | — | | — | | | — | | | — | | | — | | — | | (506,479) | | — | | (17,906) | | | — | | | — | | (17,906) 
+Stock-based compensation | — | | — | | | — | | | — | | | — | | — | | — | | — | | 109,456 | | | — | | | — | | 109,456 
+Other comprehensive loss | — | | — | | | — | | | — | | | — | | — | | — | | — | | — | | | 890 | | | — | | 890 
+Net loss | | — | | | — | | | — | | | — | | — | | — | | — | | — | | | — | | | (112,333) | | (112,333) | 
+Balance at January 31, 2020 | — | | $ | — | | | — | | | $ | — | | — | | $ | — | | 132,346,402 | | $ | 132 | | | $ | 878,843 | | $ | (206) | $ | (480,973) | $ | 397,796
+Exercise of employee stock options | — | | — | | | — | | | — | | | — | | — | | 16,782,477 | | 17 | | 78,268 | | | — | | | — | | 78,285 
+Release of restricted stock units | — | | — | | | — | | | — | | | — | | — | | 4,826,720 | | — | | — | | | — | | | — | | — 
+Issuance of shares from share purchase plan | — | | — | | | — | | | — | | | — | | — | | 1,040,220 | | 1 | | 17,826 | | | — | | | — | | 17,827 
+Stock-based compensation | — | | — | | | — | | | — | | | — | | — | | — | | — | | 104,805 | | | — | | | — | | 104,805 
+Equity component of convertible senior notes, net of issuance costs | — | | — | | | — | | | — | | | — | | — | | — | | — | | 118,662 | | | — | | | — | | 118,662 
+Purchase of capped calls related to convertible senior notes | — | | — | | | — | | | — | | | — | | — | | — | | — | | (61,870) | | | — | | | — | | (61,870) 
+Other comprehensive loss | — | | — | | | — | | | — | | | — | | — | | — | | — | | — | | | 1,392 | | | — | | 1,392 
+Net loss | — | | — | | | — | | | — | | | — | | — | | — | | — | | — | | | — | | | (148,656) | | (148,656)
+Balance at January 31, 2021 | — | | $ | — | | | — | | | $ | — | | — | | $ | — | | 154,995,819 | | $ | 150 | | | $ | 1,136,534 | | $ | 1,186 | $ | (629,629) | $ | 508,241
+
+The accompanying notes are an integral part of these consolidated financial statements.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+1. Description of Business and Summary of Significant Accounting Policies
+Description of Business
+Medallia, Inc. (the Company or Medallia) provides an enterprise Software-as-a-Service (SaaS) platform that utilizes deep learning-based artificial intelligence (AI) technology to analyze structured and unstructured data from signal fields across human, digital and Internet of Things (IoT) interactions at great scale to derive personalized and predictive insights. Medallia's customers include companies in various industries such as retail, technology, manufacturing, financial services, insurance and hospitality. Medallia is headquartered in San Francisco, California.
+Basis of Presentation and Consolidation
+The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP) and applicable rules and regulations of the Securities and Exchange Commission (SEC) regarding interim financial reporting. The consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. The Company has made certain reclassifications of prior year balances to conform to the current fiscal year presentation.
+The Company's fiscal year ends on January 31. References to fiscal 2021, for example, refer to the fiscal year ending January 31, 2021.
+Use of Estimates
+The preparation of these consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements and reported amounts of revenue and expenses during the periods covered by the consolidated financial statements and accompanying notes. Such estimates include, but are not limited to revenue recognition, stock-based compensation expense, including estimation of the grant date fair value of the common stock, allowance for credit losses, the fair value of the liability and equity components of the convertible senior notes, the assessment of the recoverability of identified intangible assets, impairment of right-of-use assets and contingencies. The Company bases its estimates on historical experience and on assumptions that it believes are reasonable. The Company assesses these estimates on a regular basis; however, actual results could materially differ from these estimates.
+JOBS Act Accounting Election 
+Effective January 31, 2021, the Company is no longer an emerging growth company (EGC) and has transitioned to a large accelerated filer status. As a result, the Company will adopt new or revised accounting pronouncements at dates applicable to public companies as further described in the section, "Impact of Recently Adopted Accounting Pronouncements." 
+Segment Information
+Operating segments are defined as components of an enterprise where separate financial information is evaluated regularly by the chief operating decision maker, which the Company has identified as being the chief executive officer, in deciding how to allocate resources and assessing performance. The Company operates in one operating segment. The Company's chief operating decision maker allocates resources and assesses performance at the consolidated level.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Revenue Recognition
+Revenue is recognized when promised goods or services are transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services.
+The Company determines revenue recognition through the following steps:
+•identification of the contract, or contracts, with a customer;
+•identification of the performance obligations in the contract;
+•determination of the transaction price;
+•allocation of the transaction price to the performance obligations in the contract; and
+•recognition of revenue when, or as, the Company satisfies a performance obligation.
+Subscription Revenue
+Subscription revenue is derived from customers accessing the Company's proprietary hosted cloud application. The Company's customers do not have the ability to take possession of the software operating the cloud application. The contracted subscription terms are typically one year to three years.
+The Company recognizes subscription revenue ratably over the subscription term, commencing on the date the service is provisioned.
+Professional Services Revenue
+Professional services revenue consists of managed services and implementation and other services. These services are distinct from subscription revenue.
+Managed services support our customers by providing a range of ongoing services including program design, launch, enhancement, expansion and analytics. Managed services are a stand-ready obligation to perform these services over the term of the arrangement and as a result, revenues are recognized ratably over the term of the arrangement.
+Implementation services consist primarily of initial design, integration and configuration services. Other professional services include projects that enable customers to gain insightful business information through data analysis, and the Company's institute training programs. 
+Implementation and other services revenue are recognized as services are performed.
+Contracts with Multiple Performance Obligations
+Most of the Company's contracts with customers contain multiple performance obligations. The Company's subscription services are sold for a broad range of amounts (the selling price is highly variable) and a representative standalone selling price (SSP) is not discernible from past transactions or other observable evidence. Standalone selling prices for professional services are estimated based upon observable transactions when those services are sold on a standalone basis. As a result, the SSP for subscription services included in a contract with multiple performance obligations is determined by applying a residual approach whereby performance obligations related to professional services within a contract are first allocated a portion of the transaction price based upon their respective SSPs, with the residual amount of transaction price allocated to subscription services.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with maturities of three months or less at the date of purchase to be cash equivalents. The Company's cash equivalents generally consist of money market funds. Cash and cash equivalents are recorded at cost, which approximates fair value.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Marketable Securities
+The Company's investments consist primarily of commercial paper, corporate bonds, municipal bonds, U.S. agency obligations and U.S. treasury securities. The Company typically invests in highly-rated securities, and its investment policy generally limits the amount of credit exposure to any one issuer. The Company's policy generally requires investments to be investment grade, with the primary objective of minimizing the potential risk of principal loss. The Company classifies investments as available-for-sale at the time of purchase and re-evaluates such classification as of each balance sheet date. Available-for-sale debt securities with an amortized cost basis in excess of the estimated fair value are assessed to determine what amount of that difference, if any, is caused by expected credit losses. Allowance for credit losses on available-for-debt securities are recognized as a charge in other income (expense), net on the Company's consolidated statements of operations and any remaining unrealized losses, net of taxes, are included in accumulated other comprehensive loss in accumulated deficit on the consolidated balance sheets. There were no impairment charges for any unrealized losses during the year ended January 31, 2021, 2020 and 2019.
+The Company determines gains or losses related to marketable securities on a specific identification method and records such gains or losses in other income (expense), net, in the consolidated statements of operations.
+Fair Value Measurements
+The Company applies fair value accounting for all financial assets and liabilities and nonfinancial assets and liabilities that are recognized or disclosed at fair value in the consolidated financial statements on a recurring basis. The Company defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities, which are required to be recorded at fair value, the Company considers the principal or most advantageous market in which it would transact and the market-based risk measurements or assumptions that market participants would use in pricing the asset or liability.
+Derivative Financial Instruments and Hedging Activities
+The Company uses derivative financial instruments to manage foreign currency risks. Derivative instruments are carried at fair value. Derivative assets are included in prepaid expenses and other current assets in the consolidated balance sheets. Derivative liabilities are included in accrued expenses and other current liabilities in the consolidated balance sheets. Gains and losses resulting from changes in fair value are accounted for depending on the use of the derivative and whether it is designated and qualifies for hedge accounting. For foreign currency forward contracts not designated as hedging instruments, which the Company uses to hedge a portion of its net outstanding monetary assets and liabilities, the gains or losses are recorded in other income (expense), net in the consolidated statements of operations in the period of change. For derivative instruments designated as a cash flow hedge, which the Company hedges certain customer contracts and certain operating expenses denominated in foreign currencies, the gains or losses are recorded in accumulated other comprehensive loss on the consolidated balance sheets and subsequently reclassified to the related revenue or operating expense line item in the consolidated statements of operations in the same period that the underlying revenue is earned or expenses are incurred.
+The Company is subject to netting agreements with certain counterparties of the foreign exchange contracts, under which it is permitted to net settle transactions of the same currency with a single net amount payable by one party to the other. It is the Company's policy to present the derivatives gross in the consolidated balance sheets. The Company's foreign currency forward contracts are not subject to any credit contingent features or collateral requirements and the Company does not believe it is subject to significant counterparty concentration risk given the short-term nature, volume, and size of the derivative contracts outstanding.
+Trade and Other Receivables and Allowance for Credit Losses
+Trade and other receivables are primarily comprised of trade receivables that are recorded at the invoice amount, net of an allowance for credit losses. We assess the allowance for credit losses on trade receivables by 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+taking into consideration forecasts of future economic conditions, information about past events, such as our historical trend of write-offs, and customer-specific circumstances, such as bankruptcies and disputes. The allowance for credit losses on trade receivables is recorded in general and administrative expenses on the Company's consolidated statements of operations. Other receivables represent unbilled receivables related to subscription and professional services contracts.
+As of January 31, 2021 and 2020, the allowance for credit losses was $4.0 million and $1.0 million, respectively.
+Concentrations of Credit Risk and Significant Customers
+Financial instruments that potentially subject the Company to concentrations of credit risk consist primarily of cash, cash equivalents, marketable securities and trade and other receivables. For cash, cash equivalents and marketable securities, the Company is exposed to credit risk in the event of default to the extent of the amounts recorded on the consolidated balance sheets. A majority of the cash balances are with U.S. banks and are insured to the extent defined by the Federal Deposit Insurance Corporation.
+The Company does not require collateral for trade receivables. No customer accounted for 10% or more of total revenues for the year ended January 31, 2021 and 2020. No customer accounted for 10% or more of trade and other receivables, net as of January 31, 2021 and 2020.
+Property and Equipment
+Property and equipment are stated at cost, less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful lives of three years for computer equipment and software and five years for all other asset categories except leasehold improvements, which are amortized over the shorter of the lease term or the expected useful life of the leasehold improvements. Equipment leased under finance leases is amortized over the shorter of the lease term or the asset's estimated useful life.
+Leases
+The Company determines if an arrangement is a lease at inception. The Company's lease agreements generally contain lease and non-lease components. Payments under its lease arrangements are primarily fixed. Non-lease components primarily include payments for maintenance and utilities. The Company combines fixed payments for non-lease components with lease payments and accounts for them together as a single lease component which increases the amount of the Company’s right-of-use (“ROU”) assets and lease liabilities.
+Certain lease agreements contain variable payments, which are expensed as incurred and not included in the ROU assets and lease liabilities.
+ROU assets and lease liabilities are recognized at the present value of the future lease payments at the lease commencement date. The interest rate used to determine the present value of the future lease payments is the Company's incremental borrowing rate, because the interest rate implicit in its leases is not readily determinable. The Company's incremental borrowing rate is estimated to approximate the interest rate on a collateralized basis with similar terms and payments, and in economic environments where the leased asset is located. The Company's lease terms include periods under options to extend or terminate the lease when it is reasonably certain that it will exercise that option. The Company generally uses the base, non-cancelable, lease term when determining the ROU assets and lease liabilities. ROU assets are adjusted for any prepaid lease payments and lease incentives.
+As of January 31, 2021, the current portion of the Company's operating lease liabilities is included in accrued expenses and other current liabilities and the long term portion is included in operating lease liabilities. Finance lease ROU assets are included in property and equipment, net. Finance lease liabilities are included in accrued expenses and other current liabilities or other long term liabilities.
+Lease expense is recognized on a straight-line basis over the lease term.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The ROU assets are assessed for impairment in accordance with the Company’s accounting policy for long-lived assets.
+Goodwill and Intangible Assets
+Goodwill represents the excess of the purchase price of an acquired business over the fair value of the underlying net tangible and intangible assets. Goodwill amounts are not amortized, but rather tested for impairment at least annually, and more frequently when changes in circumstances indicate that the carrying value may not be recoverable. The Company has determined that it operates its business as one reporting unit and the Company completes its annual impairment test in the fourth quarter. In the event that the Company determines that the fair value of the reporting unit is less than the reporting unit's carrying value, goodwill impairment charge will be incurred for the amount of the difference during the quarter in which the determination is made. The Company did not record any goodwill impairment charges in the years ended January 31, 2021, 2020 and 2019.
+Intangible assets with a finite life are amortized over their useful life.
+The Company evaluates intangible assets and long-lived assets for possible impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. Recoverability of these assets is measured by comparison of the carrying amount of each asset to the future undiscounted cash flows the asset is expected to generate. In the event that the Company determines that the fair value of an intangible asset is less than the carrying value, the Company will incur an impairment charge.
+Software Development Costs
+Software development costs include costs to develop software to be used to meet internal needs and applications used to deliver our services. The Company capitalizes development costs related to these software applications once the preliminary project stage is complete and it is probable that the project will be completed and the software will be used to perform the function intended. For the years ended January 31, 2021 and 2020, the Company capitalized software development costs of $1.8 million and $1.7 million, respectively, included in the consolidated balance sheets. Depreciation and amortization is computed using the straight-line method over an estimated useful life of five years.
+Costs related to preliminary project activities, including training and maintenance are expensed as incurred and recorded to research and development expenses.
+Research and Development
+Research and development expenditures are expensed as incurred.
+Business Combinations
+The Company includes the results of operations of the businesses that it acquires from the date of acquisition. The Company determines the fair value of the assets acquired and liabilities assumed based on its estimated fair values as of the respective date of acquisition. The excess purchase price over the fair values of identifiable assets and liabilities is recorded as goodwill. Determining the fair value of assets acquired and liabilities assumed requires management to use significant judgment and estimates including the selection of valuation methodologies, estimates of future revenue and cash flows, discount rates, and selection of comparable companies. The Company estimates the fair value are based on assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, not to exceed one year from the date of acquisition, the Company may record adjustments to the assets acquired and liabilities assumed, with a corresponding offset to goodwill. At the conclusion of the measurement period, any subsequent adjustments are reflected in the Company's consolidated statements of operations.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+When the Company grants equity to selling stockholders in connection with an acquisition, it evaluates whether the awards are compensatory. This evaluation includes whether stock award vesting is contingent on the continued employment of the selling stockholder beyond the acquisition date. If continued employment is required for stock awards to vest, the award is treated as compensation for post-acquisition services and is recognized as compensation expense.
+Transaction costs associated with business combinations are expensed as incurred and are included in general and administrative expenses in the Company's consolidated statements of operations.
+Convertible Senior Notes
+In September 2020 the Company issued 0.125% convertible senior notes due September 15, 2025 (the Notes), for an aggregate principal amount of $575.0 million to qualified institutional buyers. The Company accounts for these Notes as separate components of liability and equity. The carrying amount of the liability component was included in convertible senior notes, net in the consolidated balance sheets and was calculated by measuring the fair value of similar liabilities that do not have associated convertible features. The carrying amount of the equity component representing the conversion option was determined by deducting the fair value of the liability component from the par value of the Notes. This difference represents the debt discount that is amortized to interest expense over the term of the Notes using the effective interest rate method. The gross carrying amount of the equity component was included in additional paid-in capital in the consolidated balance sheets and is not remeasured as long as it continues to meet the conditions for equity classification.
+Stock- Based Compensation
+The Company measures equity instruments, including stock options, restricted stock units (RSUs), and shares of common stock to be issued under the 2019 Employee Stock Purchase Plan (ESPP) based on the estimated grant-date fair value of the award. The Company estimates the fair values of its stock options and shares issuable under its ESPP using the Black-Scholes-Merton option-pricing model. The Company estimates fair value of its restricted stock awards (RSU) based on the fair value of the underlying common stock. Forfeitures are accounted for as they occur.
+Determining the grant date fair value of stock options and ESPP using the Black-Scholes-Merton option-pricing model requires management to make assumptions and judgments, mostly related to the determination of the expected term, volatility, risk free interest rate and the expected dividend rate. If any of the assumptions used in the valuation models change significantly, stock-based compensation expense for future awards may differ materially compared with the awards granted previously.
+The Company uses the publicly quoted price as reported on the New York Stock Exchange as the fair value of its common stock.
+Income Taxes
+Deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between the tax bases of assets and liabilities and their financial statement carrying amounts, and consideration is given to operating losses and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The Company determines current tax expense, together with assessing temporary differences resulting from differences for financial reporting purposes and tax purposes for certain items, such as accruals and allowances not currently deductible for tax purposes. These temporary differences result in deferred tax assets and liabilities, which are included in the consolidated balance sheets. Accordingly, realization of the Company's deferred tax assets is dependent on future taxable income against which these deductions, losses, and credits can be utilized.
+The Company assesses the likelihood that its deferred tax assets will be recovered from future taxable income, and to the extent the Company believes that recovery is not likely, the Company establishes a valuation allowance. Given the Company's history of operating losses, the realization of its deferred tax assets is uncertain, 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+and therefore, the Company has a full valuation allowance on its deferred tax assets. The Company recognizes and measures uncertain tax positions using a two-step approach. The first step is to evaluate the tax position taken or expected to be taken in a tax return by determining if the weight of available evidence indicates that it is more likely than not that the tax position will be sustained upon audit, including resolution of any related appeals or litigation processes. For tax positions that are more likely than not to be sustained upon audit, the second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. Significant judgment is required to evaluate uncertain tax positions. The Company's evaluations are based upon a number of factors, including changes in facts or circumstances, changes in tax law and the Company's interpretation of the tax laws, correspondence with tax authorities during the course of audits, and effective settlement of audit issues. The Company recognizes interest accrued and penalties related to unrecognized tax benefits in the income tax provision.
+Contingencies
+From time to time, the Company has become involved in claims and other legal matters arising in the ordinary course of business. The Company investigates these claims as they arise. The Company records a loss contingency when it is probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. The Company also discloses material contingencies when it is believed a loss is not probable but reasonably possible. Accounting for contingencies requires the Company to use judgment related to both the likelihood of a loss and the estimate of the amount or range of loss.
+Foreign Currency
+The functional currency of the Company's foreign subsidiaries is predominately the respective local currency. Foreign currency-denominated assets and liabilities of foreign subsidiaries, where the local currency is the functional currency, are translated into U.S. dollars using the exchange rates in effect at the balance sheet dates, and income and expenses are translated at the average exchange rate during the period. The resulting foreign currency translation adjustments are recorded in accumulated other comprehensive loss, a component of stockholders' equity (deficit). Gains and losses from foreign currency transactions are included in other income (expense) net, in the consolidated statements of operations.
+Advertising Expense
+Advertising costs are expensed as incurred and are included in sales and marketing expense in the consolidated statements of operations. Advertising expense was $10.3 million, $6.7 million and $2.5 million for the years ended January 31, 2021, 2020 and 2019, respectively.
+Net Loss Per Share Attributable to Common Stockholders
+The Company computes basic and diluted net loss per share attributable to common stockholders using the two-class method required for companies with participating securities. The Company's basic net loss per share attributable to common stockholders is computed by dividing the net loss attributable to common stockholders by the weighted-average number of shares of common stock outstanding during the period, less the weighted-average unvested common stock subject to repurchase. The diluted net income per share attributable to common stockholders is computed by giving effect to all potentially dilutive common shares equivalents outstanding during the period. The effects of options to purchase common stock, convertible debt, convertible preferred stock, RSUs, the common stock warrant and the preferred stock warrant are excluded from the computation of diluted net loss per share attributable to common stockholders for all periods presented because the effect is antidilutive.
+ Impact of Recently Adopted Accounting Pronouncements
+In February 2016 the FASB issued Accounting Standards Update (ASU) No. 2016-02, Leases (Topic 842), as amended, which requires lessees to put most leases on their balance sheets, whether operating or financing, while continuing to recognize the expenses on their income statements in a similar manner to current practice. 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The Company adopted ASU No. 2016-02 in the fourth quarter of fiscal year 2021 with an effective date as of February 1, 2020, using the effective date transition method, which applies the provisions of the new guidance at the effective date without adjusting the comparative periods presented. The Company has elected certain practical expedients, which allows the Company not to reassess (i) whether any expired or existing contracts as of the adoption date are or contain a lease, (ii) lease classification for any expired or existing leases as of the adoption date and (iii) initial direct costs for any existing leases as of the adoption date. The Company has elected to account for lease and non-lease components as a single lease component. In addition, the Company has elected not to recognize ROU assets and lease liabilities for short-term leases with terms of twelve months or less. 
+The adoption of ASU No. 2016-02 effective February 1, 2020, resulted in the recognition of 1) ROU assets of $41.3 million adjusted for deferred rent and lease incentives as of the adoption date, and 2) lease liabilities for operating leases of $42.5 million on its consolidated balance sheets, with no material impact to its consolidated statements of operations and cash flows. 
+In June 2016 the FASB issued ASU No. 2016-13, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, as amended, which requires the measurement and recognition of expected credit losses for financial assets not held at fair value. ASU No. 2016-13 replaces the existing incurred loss impairment model with a forward-looking expected credit loss model which will result in earlier recognition of credit losses. The Company adopted ASU No. 2016-13 in the fourth quarter of fiscal year 2021 with an effective date as of February 1, 2020 and the impact of the adoption was not material to the Company’s consolidated financial statements and related disclosures.
+In August 2017 the FASB issued ASU No. 2017-12, Derivatives and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging Activities, as amended. The ASU is intended to better align an entity's risk management activities and financial reporting for hedging relationships through changes to both the designation and measurement guidance for qualifying hedging relationships and the presentation of hedge results. The Company adopted ASU No. 2017-12 in the fourth quarter of fiscal year 2021 with an effective date as of February 1, 2020 and the impact of the adoption was not material to the Company’s consolidated financial statements and related disclosures. 
+Recently Issued Accounting Pronouncements But Not Yet Adopted
+In August 2020 the FASB issued ASU No. 2020-06, Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity, which simplifies the accounting for certain convertible instruments, amends the guidance on derivative scope exceptions for contracts in an entity's own equity, and modifies the guidance on diluted earnings per share calculations as a result of these changes.This new standard is effective for the Company for fiscal year ending January 31, 2023 and interim periods within that fiscal year. The amendment is to be adopted through either a fully retrospective or modified retrospective method of transition. Early adoption is permitted.The Company is in the process of evaluating the impact of this accounting standard.
+2. Revenue
+Contract Balances and Remaining Performance Obligations
+Contract assets represent revenue recognized for contracts that have not yet been invoiced to customers, typically for multi-year arrangements.Total contract assets were $3.5 million and $2.1 million as of January 31, 2021 and January 31, 2020, respectively. These balances are included within trade and other receivables, net, on the consolidated balance sheets.
+Contract liabilities consist of deferred revenue. Revenue is deferred when the Company has the right to invoice in advance of services being provided. The Company recognized revenue of $263.1 million and $210.7 million for the years ended January 31, 2021 and 2020, respectively, that were included in the deferred revenue balances at the beginning of the respective periods.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The Company applied a practicable expedient allowing it not to disclose the amount of the transaction price allocated to the remaining performance obligations for contracts with an original expected duration of one year or less, which includes certain professional service contracts.
+Remaining performance obligations represent contracted revenue that has not yet been recognized, and include deferred revenue, and amounts that will be invoiced and recognized as revenue in future periods. As of January 31, 2021 the Company's remaining performance obligations were $800.1 million, approximately 49% of which it expects to recognize as revenue over the next 12 months and the remaining balance will be recognized thereafter. As of January 31, 2020 the Company's remaining performance obligations were $679.0 million, approximately 51% of which it expects to recognize as revenue over the next 12 months and the remaining balance will be recognized thereafter.
+Disaggregation of Revenue by Geographic Region
+The following table sets forth revenue by geographic region based on the billing address of the customers' parent for the periods presented (in thousands):
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+North America | $ | 368,114 | | | $ | 305,600 | | $ | 232,175
+EMEA | 69,639 | | | 65,681 | | | 57,851
+Other | 39,468 | | | 31,182 | | | 23,616
+Total | $ | 477,221 | | | $ | 402,463 | | $ | 313,642
+
+The United States comprised 73%, 72% and 70% of the Company's revenue during the year ended January 31, 2021, 2020 and 2019, respectively. No other country comprised 10% or greater of the Company's revenue during each of the years ended January 31, 2021, 2020 and 2019.
+3. Fair Value of Assets and Liabilities
+The Company estimates the fair value of cash equivalents, marketable securities and foreign currency derivative contracts by applying the following hierarchy, which prioritizes the inputs used to measure fair value into three levels and bases the categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
+Level 1: Quoted prices in active markets for identical assets or liabilities.
+Level 2: Observable inputs such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical assets and liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data or other means.
+Level 3: Unobservable inputs that are supported by little or no market activity and are significant to the fair value of the assets or liabilities. The inputs require significant management judgment or estimation.
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+All of the Company's cash equivalents, marketable securities and foreign currency derivative contracts are classified within Level 1 or Level 2 because the Company's cash equivalents, marketable securities and foreign 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+currency derivative contracts are valued using quoted market prices or alternative pricing sources and models utilizing observable market inputs.
+The following tables represents the fair value of assets and liabilities measured at fair value on a recurring basis using the above hierarchy (in thousands):
+
+ | January 31, 2021 | | January 31, 2020
+ | Level 1 | | Level 2 | | Level 3 | | Total | Level 1 | | Level 2 | Level 3 | | Total
+Assets: | | | | | | | | | | | | | 
+Cash equivalents: | | | | | | | | | | | | | 
+Money market funds | $ | 265,945 | | | $ | — | | $ | — | | $ | 265,945 | | | $ | 92,272 | | $ | — | $ | — | $ | 92,272 
+Commercial paper | — | | | 18,997 | | | — | | 18,997 | | — | | | 17,667 | | | — | | 17,667 
+U.S. government and agency securities | — | | | 24,999 | | | — | | 24,999 | | — | | | 17,978 | | | — | | 17,978 
+Total cash equivalents | 265,945 | | | 43,996 | | | — | | 309,941 | | 92,272 | | | 35,645 | | | — | | 127,917
+Marketable securities: | | | | | | | | | | | | | 
+Corporate notes and bonds | — | | | 45,057 | | | — | | 45,057 | | — | | | 5,675 | | | — | | 5,675 
+Commercial paper | — | | | 42,472 | | | — | | 42,472 | | — | | | 13,712 | | | — | | 13,712 
+U.S. government and agency securities | — | | | 166,532 | | | — | | 166,532 | | — | | | 97,446 | | | — | | 97,446 
+Total marketable securities | — | | | 254,061 | | | — | | 254,061 | | — | | | 116,833 | | | — | | 116,833
+Derivative assets | — | | | 1,027 | | | — | | 1,027 | | — | | | 683 | | | — | | 683 
+Total assets measured at fair value | $ | 265,945 | | | $ | 299,084 | | $ | — | | $ | 565,029 | | | $ | 92,272 | | $ | 153,161 | $ | — | $ | 245,433
+Liabilities: | | | | | | | | | | | | | 
+Derivative liabilities | $ | — | | | $ | 1,965 | | $ | — | | $ | 1,965 | | | $ | — | | $ | 342 | $ | — | $ | 342 
+Total liabilities measured at fair value | $ | — | | | $ | 1,965 | | $ | — | | $ | 1,965 | | | $ | — | | $ | 342 | $ | — | $ | 342 
+
+Convertible Senior Notes
+In September 2020 the Company issued $575.0 million aggregate principal amount 0.125% convertible senior notes due 2025 as described in Note 9, Debt. As of January 31, 2021 the fair value of these Notes was approximately $758.6 million. The fair value was determined based on the quoted price for the Notes in an over-the-counter market on the last trading day of the reporting period and is considered as Level 2 in the fair value hierarchy.
+4. Cash Equivalents and Marketable Securities
+As of January 31, 2021 cash equivalents and marketable securities consisted of the following (in thousands):
+
+ | Amortized Cost | | Unrealized Gains | | Unrealized Losses | | Aggregate Fair Value
+Money market funds | $ | 265,945 | | | $ | — | | $ | — | $ | 265,945
+Corporate notes and bonds | 45,059 | | | — | | | (2) | | 45,057 
+Commercial paper | 61,469 | | | — | | | — | | 61,469 
+U.S. government and agency securities | 191,504 | | | 27 | | | — | | 191,531
+Total | $ | 563,977 | | | $ | 27 | | $ | (2) | $ | 564,002
+Included in cash and cash equivalents | $ | 309,941 | | | $ | — | | $ | — | $ | 309,941
+Included in marketable securities | $ | 254,036 | | | $ | 25 | | $ | — | $ | 254,061
+
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+As of January 31, 2020 cash equivalents and marketable securities consisted of the following (in thousands):
+
+ | Amortized Cost | | Unrealized Gains | | Unrealized Losses | | Aggregate Fair Value
+Money market funds | $ | 92,272 | | | $ | — | | $ | — | $ | 92,272 
+Corporate notes and bonds | 5,665 | | | 9 | | | — | | 5,674 
+Commercial paper | 31,379 | | | — | | | — | | 31,379 
+U.S. government and agency securities | 115,412 | | | 13 | | | — | | 115,425
+Total | $ | 244,728 | | | $ | 22 | | $ | — | $ | 244,750
+Included in cash and cash equivalents | $ | 127,917 | | | $ | — | | $ | — | $ | 127,917
+Included in marketable securities | $ | 116,811 | | | $ | 22 | | $ | — | $ | 116,833
+
+As of January 31, 2021 and 2020, all marketable securities had a stated maturity date of less than one year.
+5. Derivative Instruments
+Cash Flow Hedges
+As of January 31, 2021 and January 31, 2020 the Company had outstanding foreign currency forward contracts designated as cash flow hedges with total notional values of $13.7 million and $5.8 million, respectively. All contracts have maturities not greater than 13 months.The notional value represents the amount that will be bought or sold upon maturity of the forward contract.
+During the years ended January 31, 2021, 2020 and 2019 all cash flow hedges were considered effective.
+Foreign Currency Forward Contracts Not Designated as Hedges
+As of January 31, 2021 and January 31, 2020 the Company had outstanding forward contracts not designated as hedges with total notional values of $45.4 million and $23.5 million, respectively. All contracts have maturities not greater than 13 months.
+The fair values of outstanding derivative instruments were as follows (in thousands):
+
+ | January 31, 2021 | | January 31, 2020
+Derivative assets (recorded in prepaid expenses and other current assets): | | | 
+Foreign currency forward contracts designated as cash flow hedges | $ | 713 | | | $ | 384
+Foreign currency forward contracts not designated as hedges | 314 | | | 299 | 
+Derivative liabilities (recorded in accrued expenses and other current liabilities): | | | 
+Foreign currency forward contracts designated as cash flow hedges | $ | 919 | | | $ | 76 
+Foreign currency forward contracts not designated as hedges | 1,046 | | | 266 | 
+
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Gains (losses) associated with foreign currency forward contracts designated as cash flow hedges were as follows (in thousands):
+
+ | Consolidated Statements of Operations and Statements of Comprehensive Loss (OCI) Locations | | Year Ended January 31,
+ | | 2021 | | 2020 | 2019 
+Gains (losses) recognized in OCI (effective portion) | Change in unrealized gains (losses) on cash flow hedges, net of tax | | $ | (747) | | $ | (15) | | $ | 248
+Gains reclassified from OCI into income (effective portion) | Revenues | | 586 | | 458 | | | (1) 
+Gains (losses) reclassified from OCI into income (effective portion) | General and administrative | | 102 | | (549) | | | (675)
+Losses recognized in income (amount excluded from effectiveness testing and ineffective portion) | Other income (expense), net | | (63) | | (121) | | | 19 
+
+Prior to the adoption of ASU No. 2017-12, Derivatives and Hedging (Topic 815), the changes in value of these foreign currency forward contracts resulting from changes in forward points were excluded from the assessment of hedge effectiveness and were recorded as incurred in other income (expense), net on the consolidated statements of operations. Upon adoption of ASU No. 2017-12, in the fourth quarter of fiscal year 2021 with an effective date as of February 1, 2020 the Company elected to prospectively include changes in the value of these contracts resulting from changes in forward points in the assessment of hedge effectiveness. These immaterial changes are recorded in OCI on the consolidated balance sheets and will subsequently be reclassified to the related revenue or expense line item on the consolidated statements of operations in the same period that the underlying revenues are earned or expenses are incurred.
+Of the gains (losses) recognized in OCI for the foreign currency forward contracts designated as cash flow hedges as of  January 31, 2021, $0.3 million is expected to be reclassified out of OCI within the next 12 months.
+Gains (losses) associated with foreign currency forward contracts not designated as cash flow hedges were as follows (in thousands):
+
+ | Consolidated Statements of Operations Location | Year Ended January 31,
+Derivative Type | 2021 | 2020 | | 2019
+Foreign currency forward contracts not designated as hedges | Other income (expense), net | $ | (2,338) | | $ | 368 | 625
+
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+As of January 31, 2021 information related to offsetting arrangements was as follows (in thousands):
+
+ | Gross Amounts of Recognized Assets | | Gross Amounts Offset in the Consolidated Balance Sheets | | Net Amounts of Assets in the Consolidated Balance Sheets | | Gross Amounts Not Offset in the Consolidated Balance Sheets | Net Assets Exposed 
+ | Financial Instruments | | Cash Collateral Received | 
+Derivative assets: | | | | | | | | | 
+Counterparty A | $ | — | | | $ | — | | $ | — | $ | — | | $ | — | $ | — 
+Counterparty B | 1,027 | | | — | | | 1,027 | | (1,027) | — | | — | 
+Total | $ | 1,027 | | | $ | — | | $ | 1,027 | $ | (1,027) | | $ | — | $ | — 
+ | Gross Amounts of Recognized Liabilities | | Gross Amounts Offset in the Consolidated Balance Sheets | | Net Amounts of Liabilities in the Consolidated Balance Sheets | | Gross Amounts Not Offset in the Consolidated Balance Sheets | Net Liabilities Exposed
+ | | | | Financial Instruments | | Cash Collateral Pledged | 
+Derivative liabilities: | | | | | | | | | 
+Counterparty A | $ | — | | | $ | — | | $ | — | $ | — | | $ | — | $ | — 
+Counterparty B | 1,965 | | | — | | | 1,965 | | (1,027) | — | | 938 | 
+Total | $ | 1,965 | | | $ | — | | $ | 1,965 | $ | (1,027) | | $ | — | $ | 938
+
+As of January 31, 2020 information related to offsetting arrangements was as follows (in thousands):
+
+ | Gross Amounts of Recognized Assets | | Gross Amounts Offset in the Consolidated Balance Sheets | | Net Amounts of Assets in the Consolidated Balance Sheets | | Gross Amounts Not Offset in the Consolidated Balance Sheets | Net Assets Exposed
+ | | | | Financial Instruments | | Cash Collateral Received | 
+Derivative assets: | | | | | | | | | 
+Counterparty A | $ | 102 | | | $ | — | | $ | 102 | $ | (5) | | $ | — | $ | 97 
+Counterparty B | 581 | | | — | | | 581 | | (337) | — | | 244 | 
+Total | $ | 683 | | | $ | — | | $ | 683 | $ | (342) | | $ | — | $ | 341
+
+
+ | Gross Amounts of Recognized Liabilities | | Gross Amounts Offset in the Consolidated Balance Sheets | | Net Amounts of Liabilities in the Consolidated Balance Sheets | | Gross Amounts Not Offset in the Consolidated Balance Sheets | Net Liabilities Exposed
+ | | | Financial Instruments | | Cash Collateral Pledged | 
+Derivative liabilities: | | | | | | | | | 
+Counterparty A | $ | 5 | | | $ | — | | $ | 5 | $ | (5) | | $ | — | $ | —
+Counterparty B | 337 | | | — | | | 337 | | (337) | — | | — | 
+Total | $ | 342 | | | $ | — | | $ | 342 | $ | (342) | | $ | — | $ | —
+
+6. Business Combinations
+On September 14, 2020 the Company acquired Sense360 Inc. (Sense360), a privately-held company, for a purchase price of $45.7 million in cash. Sense360 provides always-on, consumer and competitive intelligence from buyer and non-buyer segments and answers pressing questions such as what is driving traffic, what are the growth opportunities in a specific market and which competitors are gaining share and why.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+On September 8, 2020 the Company acquired StellaServices Inc. (Stella Connect), a privately-held company, for a purchase price of $99.6 million in cash. Stella Connect is a customer feedback and quality management platform that helps customer support teams to analyze and improve performance in real time. 
+On May 1, 2020 the Company acquired Voci Technologies, Inc. (Voci), a privately-held company, for a purchase price of $59.6 million in cash. Voci is a real-time speech to text platform, that delivers a rich single view of the customer that can power an exceptional customer experience. Voci offers subscription on-premise software licenses which provide the customer with a right to use the software when made available. 
+On February 19, 2020 the Company acquired LivingLens Enterprise Ltd. (LivingLens), a privately-held company, for a purchase price of $26.8 million in cash. LivingLens provides a video feedback platform to humanize feedback and bring the voice of the customer and employee to life.
+On October 3, 2019 the Company acquired Crowdicity Limited (Crowdicity), a privately-held company, for a purchase price of $16.6 million in cash. Crowdicity is an idea and innovation management platform.
+On September 23, 2019 the Company acquired Zingle Inc. (Zingle), a privately-held company, for a purchase price of $47.3 million in cash. Zingle is a leading multi-channel mobile messaging and customer engagement solution.
+On July 15, 2019 the Company acquired Promoter.io Inc. (Promoter.io), a privately-held company, for a purchase price of $2.3 million in cash. Promoter.io is a Net Promoter Score (NPS) platform for small and medium sized businesses that can measure loyalty and customer sentiment using the NPS.
+On June 17, 2019 the Company acquired Cooladata Ltd. (Cooladata), a privately-held company, for a purchase price of $7.6 million in cash. Cooladata is a cloud-based behavioral analytics platform that can derive and predict customer sentiment.
+On May 16, 2019 the Company acquired Strikedeck Inc. (Strikedeck), a privately-held company, for a purchase price of $11.0 million in cash. Strikedeck is a customer success platform for business-to-business customers.
+The above transactions were each accounted for as business combinations. Accordingly, assets acquired and liabilities assumed were recorded at their estimated fair values as of the acquisition date when control was obtained. The Company expensed all transaction costs in the period in which they were incurred. The fair value of developed technologies was determined using either the Multiple Period Excess Earnings Method or the Royalty Relief Method, the fair value of customer relationships was determined by using the Multiple Period Excess Earnings Method, the fair value of trademarks was determined using the Royalty Relief Method, and the fair value of backlog was determined using the Multiple Period Excess Earnings Method. The excess of the consideration paid over the fair value of the net tangible assets and liabilities and identifiable intangible assets acquired is recorded as goodwill. The goodwill resulting from the acquisitions are largely attributable to the synergies expected to be realized. None of the goodwill recorded from the acquisitions will be deductible for income tax purposes.
+The Company is in the process of settling working capital adjustments for Sense360, Stella Connect and Voci, and therefore the provisional measurements of identifiable assets and liabilities, and the resulting goodwill related to these acquisitions are subject to change and the final purchase price accounting could be different from the amounts presented herein.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The following table summarizes the purchase consideration, net of cash acquired, and the related fair values of the assets acquired and liabilities assumed (in thousands):
+
+ | Purchase Consideration, Net of Cash Acquired | | Net Liabilities Assumed | | Identifiable Intangible Assets | | Goodwill
+Sense360 | $ | 45,273 | | | $ | (351) | | $ | 10,500 | $ | 35,124
+Stella Connect | 98,822 | | | (3,478) | | | 20,800 | | 81,500
+Voci | 55,285 | | | (1,385) | | | 12,600 | | 44,070
+LivingLens | 25,894 | | | (715) | | | 5,700 | | 20,909
+Crowdicity | 15,865 | | | (2,350) | | | 4,811 | | 13,404
+Zingle | 42,702 | | | (665) | | | 8,715 | | 34,652
+Promoter.io | 1,694 | | | (431) | | | 900 | | 1,225 
+Cooladata | 7,346 | | | (2,784) | | | 4,600 | | 5,530 
+Strikedeck | 10,498 | | | (439) | | | 4,000 | | 6,937 
+
+The following table sets forth each component of identifiable intangible assets acquired in connection with the acquisitions (in thousands):
+
+ | Developed Technology | | Customer Relationships | | Other(1)
+Sense360 | $ | 5,000 | | | $ | 5,200 | | $ | 300
+Stella Connect | 9,400 | | | 10,000 | | | 1,400
+Voci | 7,700 | | | 4,600 | | | 300 
+LivingLens | 3,100 | | | 2,200 | | | 400 
+Crowdicity | 2,406 | | | 2,105 | | | 300 
+Zingle | 4,915 | | | 3,000 | | | 800 
+Promoter.io | 700 | | | — | | | 200 
+Cooladata | 4,600 | | | — | | | — 
+Strikedeck | 4,000 | | | — | | | — 
+
+(1) Other includes trademarks and backlog.
+The useful lives of developed technology, customer relationships and other are five years, five years and one to five years, respectively. 
+The financial results for the above acquisitions are included in the Company's consolidated financial statements from the date of acquisition through January 31, 2021.
+The pro forma impact of these acquisitions on consolidated revenue, income (loss) from operations and net loss was not material.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+7. Goodwill and Intangible Assets, Net
+Goodwill represents the excess of the purchase price in a business combination of the fair value of net assets acquired. Goodwill amounts are not amortized, but rather tested for impairment at least annually during the fourth quarter. The changes in goodwill are as follows (in thousands):
+
+Balance as of January 31, 2019 | $ | 16,745 
+Acquisitions | 61,748 | 
+Foreign currency exchange | 831 | 
+Balance as of January 31, 2020 | 79,324 | 
+Acquisitions | 181,603 | 
+Foreign currency exchange | 2,015 | 
+Balance as of January 31, 2021 | $ | 262,942
+
+The changes in intangible assets for fiscal 2021 and the net book value of intangible assets as of January 31, 2021 and January 31, 2020 were as follows (in thousands, except years):
+
+ | Intangible Assets, Gross | | Accumulated Amortization | | Intangible Assets, Net | | 
+ | January 31, 2020 | | Identifiable Intangible Assets Acquired(1) | | January 31, 2021 | | January 31, 2020 | Amortization Expense | | January 31, 2021 | January 31, 2020 | | January 31, 2021 | | Weighted Average Remaining Useful Life (years)
+Developed technology | $ | 18,670 | | | $ | 25,521 | | $ | 44,191 | | $ | (3,473) | | | $ | (6,433) | | $ | (9,906) | $ | 15,197 | $ | 34,285 | 4.2
+Customer relationships | 5,237 | | | 22,248 | | | 27,485 | | (351) | | (3,396) | | | (3,747) | | | 4,886 | | 23,738 | 4.3
+Other(2) | 1,320 | | | 2,441 | | | 3,761 | | (97) | | (1064) | | | (1,161) | | | 1,223 | | 2,600 | 2.6
+ | $ | 25,227 | | | $ | 50,210 | | $ | 75,437 | | $ | (3,921) | | | $ | (10,893) | | $ | (14,814) | $ | 21,306 | $ | 60,623 | 4.2
+
+(1) Amounts also include any changes in intangible asset balances for the periods presented that resulted from foreign currency translation.
+(2) Other includes trademarks and backlog.
+The changes in intangible assets for fiscal 2020 and the net book value of intangible assets as of January 31, 2020 and January 31, 2019 were as follows (in thousands, except years):
+
+ | Intangible Assets, Gross | | Accumulated Amortization | | Intangible Assets, Net | | 
+ | January 31, 2019 | | Identifiable Intangible Assets Acquired(1) | | January 31, 2020 | | January 31, 2019 | Amortization Expense | | January 31, 2020 | January 31, 2019 | | January 31, 2020 | | Weighted Average Remaining Useful Life (years)
+Developed technology | $ | 1,900 | | | $ | 16,770 | | $ | 18,670 | | $ | (1,594) | | | $ | (1,879) | | $ | (3,473) | $ | 306 | $ | 15,197 | 4.5
+Customer relationships | — | | | 5,237 | | | 5,237 | | — | | (351) | | | (351) | | | — | | 4,886 | 4.7
+Other(2) | — | | | 1,320 | | | 1,320 | | — | | (97) | | | (97) | | | — | | 1,223 | 4.6
+ | $ | 1,900 | | | $ | 23,327 | | $ | 25,227 | | $ | (1,594) | | | $ | (2,327) | | $ | (3,921) | $ | 306 | $ | 21,306 | 4.6
+
+(1) Amounts also include any changes in intangible asset balances for the periods presented that resulted from foreign currency translation.
+(2) Other includes trademarks.
+The total amortization expense for intangible assets was $10.9 million, $2.3 million and $0.4 million for the year ended January 31, 2021, 2020, and 2019 respectively.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+ Amortization expense related to the intangible assets is as follows (in thousands):
+
+Year Ending January 31: | 
+2022 | $ | 15,240
+2023 | 14,210 | 
+2024 | 14,210 | 
+2025 | 12,312 | 
+2026 | 4,651 | 
+Thereafter | — | 
+Total | $ | 60,623
+
+8. Balance Sheet Components
+Deferred Commissions
+Sales commissions earned by the sales force are considered incremental and recoverable costs of obtaining a contract with a customer. Sales commissions for initial contracts are deferred and then amortized on a straight-line basis over a period of benefit that the Company has determined to be five years. The Company determined the period of benefit by taking into consideration its customer contracts, technology and other factors. Sales commissions for renewal contracts (which are not considered commensurate with sales commissions for new revenue contracts) are deferred and amortized on a straight-line basis over the related contractual renewal period. Amortization expense is included in sales and marketing expenses in the consolidated statements of operations.
+Commissions earned and capitalized during the years ended January 31, 2021 and 2020 and 2019 were $52.8 million, $41.4 million and $27.2 million respectively. Amortization expense for deferred commissions during the years ended January 31, 2021, 2020 and 2019 were $26.8 million, $19.0 million, and $13.2 million, respectively.
+Property and Equipment, Net
+The table below summarizes property and equipment which consists of the following (in thousands):
+
+ | January 31, 2021 | | January 31, 2020
+Computer equipment and software | $ | 77,257 | | | $ | 56,758
+Furniture, fixtures and equipment | 1,018 | | | 1,028 | 
+Leasehold improvements | 5,651 | | | 6,941 | 
+Finance leases, right- of-use assets | 17,750 | | | 11,687 | 
+Construction-in-progress | 2,538 | | | 3,113 | 
+Total property and equipment, gross | 104,214 | | | 79,527 | 
+Less accumulated depreciation and amortization | (63,546) | | | (44,648) | 
+Property and equipment, net | $ | 40,668 | | | $ | 34,879
+
+Depreciation and amortization expense during the years ended January 31, 2021, 2020 and 2019 totaled $18.1 million, $13.2 million, and $13.5 million respectively, which includes amortization of assets recorded under finance leases of $4.7 million, $3.6 million, and $0.9 million for the years ended January 31, 2021, 2020 and 2019 respectively. 
+Property and equipment located outside the U.S. was $15.7 million and $13.4 million as of January 31, 2021 and 2020, respectively.
+During the fiscal year ended January 31, 2020 the Company recorded a net gain of approximately $4.0 million as a result of the termination of its lease for its former corporate headquarters which included the gain on the reversal of deferred rent of $34.5 million, partially offset by the impairment of property and equipment of $20.7 million and cash payments associated with the termination and other fees of $9.8 million.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Accrued Expenses and Other Current Liabilities
+The table below summarizes accrued expenses and other current liabilities which consists of the following (in thousands):
+
+ | January 31, 2021 | | January 31, 2020
+Finance lease liability, current | $ | 5,349 | | | $ | 4,316 
+Operating lease liability, current | 10,628 | | | — | 
+Federal, state and local taxes | 6,801 | | | 3,932 | 
+Indemnity holdback related to acquisitions | 1,748 | | | 1,573 | 
+Other | 15,230 | | | 10,447 | 
+Accrued expenses and other current liabilities | $ | 39,756 | | | $ | 20,268
+
+Accrued Compensation
+The table below summarizes accrued compensation which consists of the following (in thousands):
+
+ | January 31, 2021 | | January 31, 2020
+Accrued salaries and bonus | $ | 7,856 | | | $ | 8,312 
+Accrued commissions | 14,125 | | | 11,280 | 
+Accrued vacation | 4,425 | | | 3,906 | 
+Employee stock purchase plan | 6,389 | | | 8,693 | 
+Payroll taxes | 9,497 | | | 4,969 | 
+Accrued compensation | $ | 42,292 | | | $ | 37,160
+
+9. Debt
+Convertible Senior Notes
+In September 2020 the Company issued 0.125% convertible senior notes due September 15, 2025, for an aggregate principal amount of $575.0 million in a private placement to qualified institutional buyers. The Notes are senior unsecured obligations and interest is payable in cash in arrears at a fixed rate of 0.125% on March 15 and September 15 of each year, beginning on March 15, 2021. The Notes will mature on September 15, 2025, unless repurchased, redeemed, or converted pursuant to the terms of the Notes.
+The terms of the Notes are governed by an Indenture (the Indenture) by and between the Company and U.S. Bank National Association, as trustee.
+The initial conversion rate of the Notes is 25.4113 shares of common stock per $1,000 principal amount of Notes, which is equivalent to an initial conversion price of approximately $39.35 per share of common stock. The conversion rate is subject to adjustment upon the occurrence of certain specified events in accordance with the Indenture. As of January 31, 2021, the if-converted value of the Notes exceeded the principal amount by $31.4 million. 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The Company may redeem for cash all or any portion of the Notes, at its option, on or after September 20, 2023 and prior to the 41st scheduled trading day immediately preceding the maturity date, at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest thereto, but excluding, the redemption date, if the last reported sale price of the Company’s common stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which the Company provides written notice of redemption. No sinking fund is provided for the Notes.
+Holders of the Notes may convert all or a portion of their Notes prior to the close of business on the business day immediately preceding June 15, 2025 in multiples of $1,000 principal amount, only under the following circumstances (the conditional conversion feature):
+•during any fiscal quarter commencing after January 31, 2021 and only during such fiscal quarter, if the last reported sale price of the Company’s common stock for at least 20 trading days (whether or not consecutive) during a period of 30 consecutive trading days ending on, and including, the last trading day of the immediately preceding fiscal quarter is greater than or equal to 130% of the conversion price of the Notes on each applicable trading day;
+•during the five business day period after any five consecutive trading day period in which, for each trading day of that period, the trading price per $1,000 principal amount of the Notes for such trading day was less than 98% of the product of the last reported sale price of the Company’s common stock and the conversion rate of the Notes on each such trading day;
+•upon the Company’s notice that it is redeeming any Notes, the Notes the Company calls for redemption (or, at the Company’s election, all outstanding Notes) may be converted at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; or 
+•upon the occurrence of specified corporate events, as described in the Indenture.
+On or after June 15, 2025 until the close of business on the second scheduled trading day immediately preceding the maturity date of the Notes, holders of the Notes may convert all or any portion of their Notes regardless of the foregoing conditions, and such conversions will settle upon maturity. Upon conversion, the Company will pay or deliver, as the case may be, either cash, shares of its common stock or a combination of cash and shares of its common stock, at the Company’s election. The Company intends to settle the principal amount of the Notes using cash.
+Holders of the Notes who convert their Notes in connection with such make-whole fundamental change or during the relevant redemption period (each as defined in the Indenture) are, under certain circumstances, entitled to an increase in the conversion rate. Additionally, upon the occurrence of a fundamental change (as defined in the Indenture) prior to the maturity date, subject to certain conditions, holders of the Notes may require the Company to repurchase all or a portion of the Notes for cash at a price equal to 100% of the principal amount of the Notes to be repurchased, plus any accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+As of January 31, 2021 the Notes are classified as noncurrent in the consolidated balance sheets since the criteria for conversion was not met.
+The Company separated the Notes into liability and equity components. The carrying amount of the liability component was calculated by measuring the fair value of similar liabilities that do not have associated convertible features. The carrying amount of the equity component of $122.5 million, representing the conversion option, was determined by deducting the fair value of the liability component from the par value of the Notes. This difference represents the debt discount that is amortized to interest expense over the term of the Notes at an effective interest rate of 5.00%. 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The Company allocated the total amount of issuance costs incurred to the liability and equity components based on the respective values of the liability and equity components of the Notes. Issuance costs attributable to the liability component were recorded as a reduction to the convertible senior notes, net in the consolidated balance sheets and are being amortized to interest expense over the term of the Notes using the effective interest rate method. The issuance costs attributable to the equity component were recorded as a reduction to additional paid-in capital in the consolidated balance sheets. Upon issuance of the Notes, the Company recorded liability issuance costs of $13.2 million and equity issuance costs of $3.6 million.
+The net carrying amount of the liability component of the Notes recorded in convertible senior notes, net in the consolidated balance sheets was as follows (in thousands):
+
+ | January 31, 2021
+Principal | $ | 575,000
+Unamortized debt discount | (114,480) | 
+Unamortized issuance costs | (12,456) | 
+Net carrying amount of the liability component | $ | 448,064
+
+The net carrying amount of the equity component of the Notes recorded in additional paid-in capital in the consolidated balance sheets was $118.7 million, net of issuance costs of $3.6 million as of January 31, 2021.
+The following table sets forth the interest expense related to the Notes recognized in other income (expense), net on the consolidated statements of operations (in thousands):
+
+ | Year Ended January 31,
+Contractual interest expense | $ | 264 
+Amortization of debt discount | 8,006 | 
+Amortization of issuance costs | 736 | 
+Total interest expense related to the Notes | $ | 9,006
+
+Capped Call Transactions
+In connection with the offering of the Notes, the Company entered into privately negotiated capped call transactions (the Capped Calls) with respect to its common stock at a cost of approximately $61.9 million. The Capped Calls each have an initial strike price of approximately $39.35 per share, subject to certain adjustments, which corresponds to the initial conversion price of the Notes. The Capped Calls cover, subject to anti-dilution adjustments, approximately 14.6 million shares of the Company’s common stock. The Capped Calls were purchased in order to reduce or offset the potential dilution to the Company’s common stock upon any conversion of the Notes, subject to a cap of $58.30 per share and certain adjustments. The Capped Calls settle in components with the last component scheduled to expire on September 11, 2025 and are subject to either adjustment or termination upon the occurrence of specified extraordinary events affecting the Company, including a merger event; a tender offer; and a nationalization, insolvency or delisting involving the Company. In addition, the Capped Calls are subject to certain specified additional disruption events that may give rise to a termination of the Capped Calls, including changes in law, failures to deliver, insolvency filings, and hedging disruptions. 
+The Capped Calls are separate transactions and are not part of the terms of the Notes. The $61.9 million paid for the Capped Calls was included as a reduction to additional paid-in capital on the consolidated balance sheets because they are not designated as separate derivative financial instruments.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Wells Fargo Bank Credit Facility
+On September 4, 2020 the Company entered into the Wells Fargo Bank, National Association (Wells Fargo) credit facility to provide for a senior secured revolving line of credit of up to $50.0 million with the right (subject to certain conditions) to add incremental revolving commitments of up to $50.0 million in the aggregate. The revolving line of credit provides a sublimit of up to $40.0 million to be available for the issuance of letters of credit. The outstanding balance, if any, is due at the maturity date in September 2023. Loans bear interest, at the Company’s option, at an annual rate based on LIBOR or a base rate. Loans based on LIBOR shall bear interest at a rate of LIBOR plus 1.75%. Loans based on the base rate shall bear interest at a rate of the base rate plus 0.75%. The Company is required to pay a commitment fee equal to 0.25% per annum on the undrawn portion available under the revolving line of credit. As of January 31, 2021, no amounts were outstanding on this credit facility.
+ As of January 31, 2021 $50.0 million was available for borrowing under the revolving line of credit. As of January 31, 2021 the Company was in compliance with the financial covenants contained in the revolving line of credit and no amounts were outstanding under the revolving line of credit.
+Silicon Valley Bank Credit Facility
+The Company maintained a revolving line of credit that matured in September 2020 and provided for aggregate borrowings of up to $50.0 million. On September 4, 2020 the Company paid all outstanding amounts owing under the Silicon Valley Bank revolving line of credit and terminated the credit facility. The Company continues to have unsecured letters of credit issued by Silicon Valley Bank in the face amount of $4.6 million outstanding as of January 31, 2021.
+10. Leases
+The Company has entered into operating leases primarily for office facilities and finance leases primarily for equipment purchases. These leases have terms which typically range from 1 year to 10 years. 
+During the year ended January 31, 2021, the Company recorded aggregate impairment charges of $16.8 million, of which $13.5 million relates to the impairment of ROU assets related to certain vacant office leases and $3.3 million related to the impairment of leasehold improvements. The Company has the intent and ability to sub-lease these vacant office facilities which it has ceased using and as such, has considered estimated future sub-lease income including the consideration of the local real estate market conditions, in measuring the amount of the ROU assets impairment. The Company also factored into its estimate the time to identify a tenant and to enter into an agreement. Impairment charges were recorded to general and administrative expenses within the consolidated statement of operations.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The components of lease expense were as follows (in thousands): 
+
+ | Year Ended January 31, 2021
+Operating lease costs | $ | 11,732
+Finance lease costs: | 
+Amortization of assets | $ | 4,667 
+Interest on lease liabilities | 587 | 
+ | $ | 5,254 
+
+Supplemental cash flow information related to operating and finance leases were as follows (in thousands):
+
+ | Year Ended January 31, 2021
+Operating leases: | 
+Cash paid for operating lease liabilities | $ | 10,278
+Right-of-use assets obtained in exchange for lease obligations | $ | 22,679
+Finance leases: | 
+Finance leases obtained for equipment | $ | 6,158 
+
+Supplemental balance sheet information related to operating leases was as follows (in thousands, except lease term and discount rate):
+
+ | January 31, 2021
+Operating lease liabilities reported as: | 
+Accrued expenses and current liabilities | $ | 10,628
+Lease liability, non current | 47,631 
+Total operating lease liabilities | $ | 58,259
+Weighted average remaining lease term (in years) | 5.5 
+Weighted average discount rate | 4.8 | % 
+
+Supplemental balance sheet information related to finance leases was as follows (in thousands, except lease term and discount rate):
+
+ | January 31, 2021
+Finance lease liabilities reported as: | 
+Accrued expenses and current liabilities | $ | 5,349 
+Other liabilities | 5,004 
+Total finance lease liabilities | $ | 10,353
+Weighted average remaining lease term (in years) | 2.3 
+Weighted average discount rate | 5.5 | % 
+
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Future minimum lease payments under operating leases and finance leases as of January 31, 2021 are presented in the table below (in thousands):
+
+ | January 31, 2021
+ | Operating leases | | Finance leases
+Year Ending January 31, | | | 
+2022 | $ | 12,122 | | | $ | 5,772 
+2023 | 11,920 | | | 2,472 | 
+2024 | 11,720 | | | 1,759 | 
+2025 | 10,849 | | | 1,051 | 
+2026 | 8,944 | | | 23 | 
+Thereafter | 11,744 | | | — | 
+Total future lease payments | 67,299 | | | 11,077 | 
+Less interest payments | (9,040) | | | (724) | 
+Total present value of minimum lease payments | $ | 58,259 | | | $ | 10,353
+
+Future minimum lease payments under operating leases and finance leases as of January 31, 2020, prior to the Company’s adoption of the new lease standard, were as follows:
+
+ | January 31, 2020
+ | Operating Leases | | Finance Leases
+Year Ending January 31: | | | 
+2021 | $ | 9,505 | | | $ | 4,765
+2022 | 9,989 | | | 3,891 | 
+2023 | 7,382 | | | 690 | 
+2024 | 6,564 | | | — | 
+2025 | 5,571 | | | — | 
+Thereafter | 11,471 | | | — | 
+Total minimum payments | 50,482 | | | 9,346 | 
+Less interest payments | — | | | (628) | 
+Total present value of minimum lease payments | $ | 50,482 | | | $ | 8,718
+
+Under ASC 840, the previous lease standard, total rent expense under operating leases during the years ended January 31, 2020 and 2019 was $14.9 million and $16.5 million, respectively.
+11. Commitments and Contingencies
+Purchase obligations
+The Company has unconditional purchase commitments, primarily related to distribution fees, software license fees and marketing services, of $14.1 million as of January 31, 2021, of which $7.7 million and $6.4 million will be settled during fiscal year 2022 and fiscal year 2023, respectively.
+Warranties, Indemnification, and Contingent Obligations
+The Company's arrangements generally include provisions indemnifying customers against liabilities if their customer data is compromised due to a breach of information security, or if the Company's applications or services 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+infringe a third-party's intellectual property rights. To date, the Company has not incurred any costs as a result of such indemnification and has not accrued any liabilities related to such obligations in the consolidated financial statements.
+The Company enters into service level agreements with customers which warrant defined levels of uptime and support response times and permit those customers to receive credits for prepaid amounts in the event that those performance and response levels are not met. To date, the Company has not experienced any significant failures to meet defined levels of performance and response. In connection with the service level agreements, the Company has not incurred any significant costs and has not accrued any liabilities in the consolidated financial statements. The Company's subscription services agreements also generally include a warranty that the service performs in accordance with the applicable specifications document. The Company's professional services are generally warranted to be performed in a professional manner and in a manner that will comply with the terms of the customer agreements. To date, the Company has not incurred any material costs associated with these warranties.
+12. Income Taxes
+The components of loss before provision for income taxes are as follows (in thousands):
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Domestic | $ | (150,064) | | | $ | (112,376) | | $ | (69,464)
+Foreign | 1,486 | | | 575 | | | (10,991)
+Loss before provision for income taxes | $ | (148,578) | | | $ | (111,801) | | $ | (80,455)
+
+The provision for (benefit from) income taxes are as follows (in thousands):
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Current: | | | | | 
+Federal | $ | 1,378 | | | $ | 1,024 | | $ | 202 
+State | 103 | | | 88 | | | 43 
+Foreign | 539 | | | 821 | | | 1,594
+Total | 2,020 | | | 1,933 | | | 1,839
+Deferred: | | | | | 
+Federal | (1,003) | | | (658) | | | — 
+State | (762) | | | (173) | | | — 
+Foreign | (177) | | | (570) | | | (60) 
+Total | (1,942) | | | (1,401) | | | (60) 
+Provision for income taxes | $ | 78 | | | $ | 532 | | $ | 1,779
+
+Due to the Company's history of net operating losses and the full valuation allowance against the Company's deferred tax assets, the provision for income taxes primarily relates to foreign income and withholding taxes for the periods presented. In addition, the Company recognized deferred tax benefits for the years ended January 31, 2021 and January 31, 2020 as a result of its acquisitions.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The reconciliation between effective statutory tax rate and the Company's tax rate is as follows ( in percentages):
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Federal statutory rate | 21.0 | % | | 21.0 | % | 21.0 | %
+Effect of: | | | | | 
+Foreign tax rate differences | (1.0) | % | | (1.0) | % | (4.0) | %
+Research tax credits | 3.1 | % | | 1.0 | % | 1.4 | %
+State tax, net of federal benefit | 0.5 | % | | 0.1 | % | 3.2 | %
+Stock-based compensation | 45.1 | % | | 12.7 | % | (3.8) | %
+Change in valuation allowance | (68.4) | % | | (34.3) | % | (24.2) | %
+Other | (0.4) | % | | 0.1 | % | 4.3 | %
+ | (0.1) | % | | (0.4) | % | (2.1) | %
+
+For the year ended January 31, 2021, the Company recorded an expense for income taxes of $0.1 million, resulting in an effective tax rate of (0.1)%. The effective tax rate is different than the statutory United States federal tax rate primarily due to the full valuation allowance on the Company’s United States, Israel, United Kingdom, and Argentina deferred tax assets, the mix of income and losses among the Company’s foreign jurisdictions, and withholding taxes.
+The components of deferred tax assets and liabilities for federal and state income taxes consists of the following (in thousands):
+
+ | January 31,
+ | 2021 | | 2020
+Net operating loss carryforwards | $ | 208,340 | | | $ | 118,318
+Federal and state credit carryforwards | 16,829 | | | 9,478 | 
+Deferred revenue | 2,928 | | | 382 | 
+Stock-based compensation | 17,732 | | | 24,113 | 
+Deferred lease incentive | — | | | 153 | 
+Accrued liabilities and allowances not currently deductible | 2,346 | | | 1,858 | 
+Depreciation | 2,167 | | | 2,226 | 
+Lease liability | 13,704 | | | — | 
+Capitalized R&D | 41,660 | | | — | 
+Other | 2,284 | | | — | 
+Total deferred tax assets | 307,990 | | | 156,528 | 
+Deferred commissions expense | (23,978) | | | (17,970) | 
+Amortization | (10,385) | | | (1,216) | 
+Convertible debt | (27,136) | | | — | 
+ROU asset | (9,204) | | | — | 
+Other | — | | | (211) | 
+Total deferred tax liabilities | (70,703) | | | (19,397) | 
+Valuation allowance | (237,635) | | | (137,368) | 
+Net deferred tax liabilities | $ | (348) | | | $ | (237) 
+
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The Company accounts for deferred taxes, which involves weighing positive and negative evidence concerning the realizability of the Company’s deferred tax assets in each jurisdiction. The Company evaluated its ability to realize the benefit of its deferred tax assets, net of deferred tax liabilities, and weighted all available positive and negative evidence both objective and subjective in nature. In determining the need for a valuation allowance, the weight given to positive and negative evidence is commensurate with the extent to which the evidence may be objectively verified. Based on the weight of the available evidence, which includes the Company's historical operating losses, lack of taxable income, and accumulated deficit, as of January 31, 2021 and 2020, the Company provided a full valuation allowance against the federal, state and foreign deferred tax assets.
+As of January 31, 2021, 2020, and 2019, $16.2 million, $12.8 million, and $7.5 million respectively, of undistributed earnings from non-U.S. operations held by the Company's foreign subsidiaries which are designated as permanently reinvested outside the United States. Accordingly, no additional U.S. income taxes or additional foreign withholding taxes have been provided thereon. Determination of the amount of unrecognized deferred tax liability related to these earnings is not practicable.
+Operating losses by jurisdiction which begin to expire consists of the following (in thousands):
+
+ | 2021 | | 2020 | | Expiration Year
+United States Federal | $ | 822,490 | | | $ | 450,262 | | 2031
+United States - California | 125,521 | | | 58,858 | | | 2031 
+United States - Other states | 278,739 | | | 136,528 | | | 2022 
+Israel | 37,734 | | | 36,851 | | | Indefinite
+United Kingdom | 10,755 | | | 830 | | | Indefinite
+
+Research and development credits by jurisdiction which begin to expire consists of the following (in thousands):
+
+ | 2021 | | 2020 | | Expiration Year
+United States Federal | $ | 20,600 | | | $ | 10,875 | | 2029
+United States - California | 16,750 | | | 10,450 | | | Indefinite
+
+The following table summarizes the activity related to unrecognized tax benefits (in thousands):
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Beginning balance | $ | 12,531 | | | $ | 9,200 | | $ | 7,000
+Increases related to tax positions taken during a prior year | 326 | | | 1,142 | | | 400 
+Decreases related to tax positions taken during the prior year | — | | | (78) | | | — 
+Increases related to tax positions taken during the current year | 7,716 | | | 2,267 | | | 1,800
+Ending balance | $ | 20,573 | | | $ | 12,531 | | $ | 9,200
+
+As of January 31, 2021, the Company had unrecognized tax benefits of $20.6 million, of which $0.2 million of unrecognized benefits, if recognized would reduce the effective tax rate.The Company does not reasonably believe that the total amounts of unrecognized tax benefits will significantly increase or decrease within the following 12 months.
+The Company is subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which the Company is subject to potential examination include the United States, Israel, 
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Argentina, and the United Kingdom. The Company is currently not under examination by the Internal Revenue Service (IRS) or by any local taxing authority for any tax years. All tax years remain open to examination by the IRS and local taxing authorities.
+13. Equity Incentive Plans 
+Equity Incentive Plans
+In June 2019, the Company’s board of directors adopted, and the stockholders approved, the 2019 Equity Incentive Plan (the 2019 Plan), with an initial share reserve of 19,000,000, plus any reserved but unissued shares under the 2017 Plan. The 2019 Plan became effective July 17, 2019 and is the successor to and continuation of the 2008 and 2017 Plans. The reserve is automatically increased at the beginning of the fiscal year by the lesser of (a) 19 million shares, or (b) up to 5% of the Company's outstanding common, subject to the Company's board approval. Stock options and RSU’s granted generally vest between three to four years.
+In June 2019, the Company’s board of directors adopted, and the stockholders approved, the Employee Stock Purchase Plan (ESPP), which qualifies as an "employee stock purchase plan" under Section 423 of the Internal Revenue Code, and pursuant to which 4,000,000 shares of common stock were reserved for future issuance with an annual automatic increase at the beginning of each fiscal year of up to 1% of the Company's outstanding common, subject to the Company's board approval. The ESPP became effective on July 17, 2019. The ESPP is designed to enable eligible employees to purchase shares of the Company's common stock at a discount on a periodic basis through payroll deductions. Each offering period under the ESPP covers six months and consists generally of one six-month purchase period, except for the first purchase period post-IPO which consists of eight months. The purchase price for shares of common stock purchased under the ESPP is 85% of the lesser of the fair market value of the Company's common stock on the first day of the applicable offering period and the fair market value of the Company's common stock on the last day of each purchase period.
+The Plan activity is as follows:
+
+ | Year Ended January 31,
+ | 2021 | 2020 | | 2019
+Opening balance | 23,050,732 | | 4,023,140 | | 3,725,180 
+Shares authorized(1) | 6,617,320 | | 24,000,000 | | 22,000,000 
+Options and RSUs granted | (4,615,733) | | (8,827,186) | | (28,118,877)
+Cancelled shares | 1,648,394 | | 3,854,778 | | 6,386,036 
+Repurchase of early exercise of options | — | | — | | 30,801 
+Ending balance | 26,700,713 | | 23,050,732 | | 4,023,140 
+
+(1) Reflects an automatic increase to the number of shares of common stock reserved for issuance pursuant to future awards under the 2019 Plan, which annual increase is provided for in the 2019 Plan.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The stock-based compensation expense by line item in the consolidated statements of operations is summarized as follows (in thousands):
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Cost of subscription revenue | $ | 3,650 | | | $ | 3,058 | | $ | 1,143 
+Cost of professional services revenue | 10,266 | | | 8,824 | | | 2,379
+Research and development expense | 25,469 | | | 18,176 | | | 7,563
+Sales and marketing expense | 37,625 | | | 28,519 | | | 6,813
+General and administrative expense | 27,795 | | | 50,879 | | | 9,960
+Total stock-based compensation | $ | 104,805 | | | $ | 109,456 | | $ | 27,858
+
+Restricted Stock Units Activity
+The following table summarizes restricted stock unit activities:
+
+ | Restricted Stock Units | Performance Based Restricted Stock Units
+ | Number of Shares | Weighted Average Grant Date Fair Value | | Number of Shares | Weighted Average Grant Date Fair Value
+Balance as of January 31, 2019 | 3,155,197 | | $ | 6.29 | | — | | $ | — 
+Stock units granted | 7,448,329 | | 18.78 | | 900,579 | | 13.91 | 
+Stock units vested | (1,170,861) | | 6.98 | | | 
+Stock units cancelled and expired | (412,984) | | 16.10 | | (74,246) | | 13.41 | 
+Balance as of January 31, 2020 | 9,019,681 | | 16.07 | | 826,333 | | 13.95 | 
+Stock units granted | 4,265,788 | | 25.37 | | 349,945 | | 22.30 | 
+Stock units vested | (4,826,720) | | 16.30 | | — | | — | 
+Stock units cancelled and expired | (705,401) | | 20.89 | | (127,825) | | 14.27 | 
+Balance as of January 31, 2021 | 7,753,348 | | $ | 20.61 | | 1,048,453 | | $ | 19.79
+
+ The total unrecognized compensation expense related to the RSUs was $123.6 million, $98.5 million and $19.9 million as of January 31, 2021, 2020 and 2019 and will be recognized over a weighted-average remaining period of 2.1 years, 2.4 years, and 3.5 years, respectively. Certain RSUs, in addition to the satisfaction of the service-based performance vesting conditions, also require the fulfillment of performance vesting conditions which include subscription revenue growth targets and a combination of subscription revenue growth and operating margin targets.
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+Option Activity
+The fair value of each stock option granted to employees was estimated at the date of grant using the Black-Scholes-Merton option-pricing model with the following assumptions. Options were not granted during fiscal year 2021.
+
+ | Year Ended January 31,
+ | 2020 | | 2019 
+Risk free interest rate | 2.5 | % | | 2.50% - 3.00%
+Expected volatility | 41 | % | | 40% - 44% 
+Expected term (years) | 5.85 | | 5.50 - 6.69
+Expected dividend rate | — | | | — 
+
+The following table summarizes the stock option activity:
+
+ | Options Outstanding
+ | Number of Shares | Average Exercise Price per Share | | Weighted Average Remaining Contractual Term (years) | Aggregate Intrinsic Value (in thousands)
+Balance as of Balance as of January 31, 2019 | 52,797,213 | | $ | 5.27 | | 8.12 | | $ | 388,531
+Options granted | 478,278 | | 12.63 | | | | 
+Options exercised | (7,972,770) | | 4.31 | | | | $ | 339,899 | 
+Options cancelled or expired | (3,367,548) | | 6.14 | | | | 
+Balance as of January 31, 2020 | 41,935,173 | | $ | 5.47 | | 7.29 | | $ | 954,124
+Options exercised | (16,782,477) | | 4.67 | | | | 618,160 | 
+Options cancelled or expired | (815,168) | | 6.65 | | | | 
+Balance as of January 31, 2021 | 24,337,528 | | $ | 5.98 | | 6.85 | | $ | 864,527
+Exercisable as of January 31, 2021 | 16,399,672 | | $ | 5.69 | | 6.50 | | $ | 587,313
+
+The weighted-average grant-date fair value of stock options granted during the years ended January 31, 2021, 2020 and 2019 was nil, $5.38, $2.88 per share, respectively. The grant date fair value of stock options vested during the years ended January 31, 2021, 2020 and 2019 was $21.7 million, $35.2 million and $23.3 million respectively. Total unrecognized compensation expense related to stock options was $22.3 million, $45.6 million and $82.5 million as of January 31, 2021, 2020 and 2019, which are expected to be recognized over a weighted-average remaining recognition period of 1.3 years, 2.5 years and 3.0 years respectively.
+Employee Stock Purchase Plan
+The fair value of each Employee Stock Purchase Plan (ESPP) share is estimated on the enrollment date of the offering period using the Black-Scholes-Merton option-pricing model and the assumptions noted in the following table: 
+
+ | January 31, 2021
+Risk-free interest rate | 0.1% 
+Expected volatility | 67% 
+Expected term (in years) | 0.5 
+Expected dividend rate | — 
+
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+The fair value of stock purchase rights to be granted under the ESPP during the six-month period from September 15, 2021 was $9.25 per share. As of January 31, 2021 the Company had $0.7 million of unrecognized compensation expense related to ESPP subscriptions that will be recognized over 0.1 years.
+14. Employee Benefit Plans
+The Company has a 401(k) retirement plan that covers substantially all of its U.S. employees. The 401(k) retirement plan provides for voluntary salary contributions of eligible participants' annual compensation, subject to the maximum allowed by law. During the year ended January 31, 2021 the Company provided a matching contribution equal to 50% of eligible participants' contributions, up to a maximum of $4,000 per participant during the plan year. During the year ended January 31, 2020 the Company provided a matching contribution equal to 50% of eligible participants' contributions, up to a maximum of $2,000 per participant during the plan year. The Company recognized approximately $4.0 million and $2.5 million in expense related to the 401(k) match for the year ended January 31, 2021 and 2020, respectively. During the year ended January 31, 2019 the Company did not provide matching contributions.
+15. Net Loss Per Share Attributable to Common Stockholders
+The following table sets forth the computation of basic and diluted net loss per share attributable to common stockholders (in thousands, except per share data):
+
+ | Year Ended January 31,
+ | 2021 | | 2020 | | 2019
+Net loss attributable to common stockholders | $ | (148,656) | | | $ | (112,333) | $ | (82,234)
+Weighted-average shares used in computing net loss per share attributable to common stockholders, basic and diluted | 144,563 | | | 83,269 | | 26,770 
+Net loss per share attributable to common stockholders, basic and diluted | $ | (1.03) | | | $ | (1.35) | $ | (3.07) 
+
+ The potential shares of common stock that were excluded from the computation of diluted net loss per share attributable to common stockholders for the periods presented because including them would have been antidilutive are as follows (in thousands):
+
+ | Year Ended January 31,
+ | 2021 | 2020 | | 2019
+Convertible preferred stock | — | | — | | 72,483 
+Stock options | 24,337 | | 41,935 | | 52,797 
+Restricted stock units | 8,802 | | 9,846 | | 3,155 
+ESPP | 377 | | 683 | | — 
+Unvested early exercises subject to repurchase | — | | — | | 147 
+Convertible preferred stock warrant | — | | — | | 56 
+Convertible stock warrant | — | | — | | 75 
+Convertible senior notes (if-converted) | 14,611 | | — | | — 
+Total | 48,127 | | 52,464 | | 128,713
+
+Medallia, Inc.
+Notes to Consolidated Financial Statements
+
+16.Selected Quarterly Financial Information (unaudited)
+Selected summarized quarterly financial information for fiscal years ended January 31, 2021 and 2020 is as follows (in thousands):
+
+ | Year Ended January 31, 2021 | | Year Ended January 31, 2020
+ | Q4 | | Q3 | | Q2 | | Q1 | Q4 | | Q3 | Q2 | | Q1
+ | (stated in thousands, except per share amounts)
+Total revenue | $ | 128,047 | | | $ | 120,958 | | $ | 115,525 | | $ | 112,691 | | | $ | 110,100 | | $ | 103,074 | $ | 95,670 | $ | 93,619 
+Total cost of revenue | 46,101 | | | 43,848 | | | 41,172 | | 39,563 | | 39,116 | | | 38,595 | | | 34,883 | | 32,595 
+Gross profit | 81,946 | | | 77,110 | | | 74,353 | | 73,128 | | 70,984 | | | 64,479 | | | 60,787 | | 61,024 
+Operating expense | 123,149 | | | 106,655 | | | 108,869 | | 105,892 | | 103,750 | | | 106,146 | | | 99,239 | | 63,069 
+Loss from operations | (41,203) | | | (29,545) | | | (34,516) | | (32,764) | | (32,766) | | | (41,667) | | | (38,452) | | (2,045) 
+Net loss | $ | (48,770) | | | $ | (32,159) | | $ | (35,198) | | $ | (32,529) | | | $ | (31,870) | | $ | (39,620) | $ | (38,284) | $ | (2,559)
+Weighted average shares used in computing net loss per share attributable to common stockholders, basic and diluted | 151,663 | | | 147,930 | | | 142,479 | | 135,993 | | 129,365 | | | 127,715 | | | 43,986 | | 30,430 
+Net loss per share attributable to common stockholders, basic and diluted | $ | (0.32) | | | $ | (0.22) | | $ | (0.25) | | $ | (0.24) | | | $ | (0.25) | | $ | (0.31) | $ | (0.87) | $ | (0.08) 
+
+17. Subsequent Event
+On March 12, 2021, the Company acquired Decibel Group London Ltd. (Decibel), a privately-held company, for approximately $162.5 million in cash. Decibel is a leader in digital experience analytics. With this acquisition, the Company's leading customer experience and engagement platform will seamlessly include always-on, unsolicited digital feedback, providing a single view of all customers and prospective customers at every point of the customers journey across all channels.
+PART II—OTHER INFORMATION
