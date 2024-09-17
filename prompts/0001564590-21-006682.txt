@@ -1,0 +1,335 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1. Business
+Overview
+ SurveyMonkey is a leader in agile software solutions that help companies turn stakeholder feedback into action. Our platform empowers users to collect, analyze, and act on feedback from customers, employees, website and app users, and market research audiences. SurveyMonkey’s products enable more than 345,000 organizations to deliver better customer experiences, increase employee retention, and unlock growth and innovation.
+ We are continuing our rapid evolution from a self-serve online survey tool provider into an enterprise Software-as-a-Service (“SaaS”) company. Through a combination of product innovations and acquisitions, we now offer SaaS feedback solutions across three major product pillars—Surveys, Customer Experience, and Market Research. Concurrently, we are building a sales force to increase new sales and cross-sell our SaaS offerings into small, midsize, and large enterprises. In 2020, approximately 29% of our total revenue was generated from customers who purchased software through our enterprise sales force, up from 21% in 2019. 
+ To capitalize on the virality of our platform and the scale of business use cases in our user base, we are executing against a two-part growth strategy: 1) deliver new features and product tiers to drive platform usage and increase the conversion of free users to paid subscribers in our self-serve channel; and 2) continue investing in product innovation and go-to-market initiatives to win new customers and convert existing self-serve subscribers to the enterprise offerings within our three product pillars. As we execute on this strategy and sell more of our products into enterprises directly, we believe we can accelerate our revenue growth profile and increase our customer retention rates over time.
+ Impact of COVID-19
+ In March 2020, the World Health Organization declared the outbreak of COVID-19 as a pandemic, which continues to spread throughout the United States and the world. As a result of the COVID-19 pandemic, we have modified certain aspects of our business, including restricting employee travel, requiring employees to work from home, transitioning our employee onboarding and training processes to remote or online programs, and canceling certain events and meetings, among other modifications. We continue to actively monitor and evaluate the situation and may take further actions that alter our business operations as may be required by federal, state, or local authorities or that we determine are in the best interests of our employees, customers, partners, and stockholders. The effects of these operational modifications are unknown and may not be realized until further reporting periods. The full impact of the rapidly changing market and economic conditions due to the COVID-19 pandemic is uncertain as the businesses of our customers and partners have been, and in some cases continue to be, disrupted. We have experienced a more challenging enterprise sales environment, longer sales cycles, and an increase in attrition rates, particularly among customers in segments and industries more severely impacted by the ongoing effects of the COVID-19 pandemic, such as travel and hospitality. In addition, some of our existing and potential customers are financially constrained in their ability to purchase our products, which we expect may negatively impact our ability to collect payments, acquire new customers, or renew subscriptions with or sell additional subscriptions to our existing customers. We expect such impacts on our revenue and costs to continue through the duration of this crisis. We expect that our business and consolidated results of operations will be impacted and that our financial condition in the future could be impacted as well. While we have not experienced significant disruptions from the COVID-19 pandemic thus far, we are unable to accurately predict the full impact that the COVID-19 pandemic will have due to numerous uncertainties, including the severity of the disease, the duration of the pandemic, actions that may be taken by governmental authorities, the impact to the businesses of our customers and partners, and other factors identified in Part I, Item 1A “Risk Factors” in this Annual Report on Form 10-K. The extent to which the COVID-19 pandemic may materially impact our financial condition, liquidity, or results of operations is uncertain, and the effect of the COVID-19 pandemic may not be fully reflected in our results of operations until future periods. We are continuously evaluating the nature and extent of the impact to our business, consolidated results of operations, and financial condition.
+ 
+
+
+4
+
+
+
+Our Products
+ Through a combination of product innovation and acquisitions, we have evolved our product from one-size-fits-all survey software to a set of leading agile software solutions for collecting and acting on feedback. We believe our products are differentiated in the market due to their ease-of-implementation, ease-of-use, price relative to alternatives, and ability to integrate with our customers’ third-party systems of record, such as those provided by Salesforce, ServiceNow, and Microsoft.
+ Our current product portfolio is structured into three primary product pillars—Surveys, Customer Experience, and Market Research—which are summarized below. We believe that these three pillars, combined with our emerging sales force go-to-market motion, will enable us to increase our penetration of enterprise customers. Today, we offer products from our Surveys and Market Research pillars on a self-serve basis through our website, and we offer a suite of enterprise-grade feedback software solutions from all three pillars through a direct sales force. We generate revenue from these offerings either on a subscription or transactional basis, depending on the product.
+ Surveys
+ Our Survey Platform
+ Our leading survey software products enable our customers to measure, benchmark, and act on stakeholder feedback, and we have designed our products to optimize the quality of stakeholder feedback and maximize response rates. Our platform provides functionality that supports our survey products, including:
+
+• | Templates: Our library of more than 180 customizable survey templates and certified questions, designed by a team of survey scientists and further enhanced by our machine learning and AI-based analysis of the millions of surveys created on our survey platform, facilitates an easy-to-use and methodologically-sound survey creation process.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Ease-of-Use: Our products are flexible and easy to use, which enables individuals and organizations of all sizes to collect and analyze stakeholder feedback. Our survey platform leverages SurveyMonkey Genius, our proprietary AI-based survey creation assistant, which uses insights extracted from our massive data set to guide and optimize survey creation.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Benchmarking: Our customers can analyze and benchmark the data they have collected. Our benchmarking capabilities allow our customers to assess stakeholder feedback accurately and compare themselves to industry, geographic, and functional baselines as well as their own past performance and trends.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Analysis: Our products enable the filtering and comparing of data by cohort, geography, gender, time period, collection method, and more. We help customers weave together data to form a narrative that answers the “why,” which enables them to better understand customer and employee attitudes, predict market appetite, and identify meaningful opportunities more quickly.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Integrations: Our products integrate with a customer’s existing systems of record, allowing them to act on the insights we deliver in the systems they already use to get work done. This allows our customers to improve retention and satisfaction of their customers, maximize employee engagement and retention, and tailor new products to the demands of prospective customers, among other things.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Individual Plans
+ We offer our basic survey plan to individuals at no charge. We also offer multiple tiers of subscriptions to individual paying users and teams, providing basic integrations with third-party applications and other additional features and functionality. For organizations we offer an enterprise-grade version of our survey platform and purpose-built solutions with enhanced collaboration, integration, administration, and customization tools. Revenue from our Surveys solutions is generated primarily on a subscription basis. 
+ 
+
+
+
+5
+
+
+
+Business Plans
+ SurveyMonkey Teams: SurveyMonkey Teams’ plans are oriented for small groups of users seeking to collaborate on survey projects. In addition to the features available in certain individual paid plans, SurveyMonkey Teams provides additional sharing, commenting, and analysis functionality, as well as a shared asset library for team users. Teams plans start at three users per team, billed annually on a subscription basis, and are sold primarily through our self-serve channel as well as through our enterprise sales channels.
+ SurveyMonkey Enterprise: For organizations, we offer SurveyMonkey Enterprise, which extends our survey platform with enterprise-grade security and an enhanced set of capabilities (including managed user accounts, customized company branding, collaboration capabilities, and deep integrations with a broad set of leading software applications) that enable users to customize and distribute more tailored questions for their target audience. Features include:
+  
+• | Enterprise-Grade Security: We provide centralized data ownership and access management across accounts with encryption and compliance with key standards, including ISO 27001, Health Insurance Portability and Accountability Act of 1996, as amended (“HIPAA”) and the General Data Protection Regulation (“GDPR”). Our security protocols have passed the requirements of large, global customers across industries, including the defense, financial services and healthcare sectors.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Integration and Compatibility: We also offer over 100 pre-built integrations, data portability and single sign-on identity with applications such as those offered by Salesforce, Marketo, Tableau, Microsoft, and Oracle.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Managed Accounts and Users: Our survey platform enables organizations to centrally manage users and teams. Within an organization, all survey accounts can be consolidated under a single corporate identity to centralize billing, administration, and access management.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Collaboration: Users can create and share surveys between and within departments allowing others to review, add comments and make edits. Teams gain access to a shared library that ensures consistent organizational branding and survey methodology across all team member accounts, utilizing the images, themes, style preferences and templates that fit an organization’s preferences.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ SurveyMonkey Enterprise is sold through our sales force. Deployments are negotiated with organizations based on functionality, the number of users, and the volume of data collected.
+ Customer Experience
+ Our Customer Experience offering, the GetFeedback CX platform, enables companies to deliver exceptional experiences that engage and retain their customers based on the ability to continuously listen and act on digital feedback. GetFeedback captures a company’s customer feedback from across digital channels, analyzes this feedback for a deeper understanding of their customers and their preferences, and automates feedback-based actions through integrations with that company’s existing system of record. We differentiate our Customer Experience offering in the market based on our software’s ease-of-implementation, ease-of-use, price-to-value, and time-to-value relative to alternative solutions, and third-party platform integrations.
+ The GetFeedback CX platform consists of products acquired through the acquisitions of Usabilla (April 2019) and GetFeedback (September 2019) and includes updated features, such as:
+  
+• | Cohesive User Experience: A cohesive user experience for customers to manage programs across any digital channel.
+--+------------------------------------------------------------------------------------------------------------------
+
+
+• | Workspaces: An analytics experience that unifies feedback from multiple channels and includes AI-powered text analysis and segmentation by varying customer attributes.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Agile Experience Platform: Through the Agile Experience Platform, users can unify Customer Experience data and customer attributes in one place, automate Customer Experience programs, and integrate with the other apps they already use to get work done, such as Microsoft, Salesforce, Slack, and Jira.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+6
+
+
+
+
+We offer the following Customer Experience packages:
+  
+• | GetFeedback Digital: GetFeedback Digital provides continuous, in-the-moment customer feedback from a company’s website, web apps and mobile apps through seamless integration. GetFeedback Digital captures targeted feedback based on a company’s customer behaviors and demographic profiles.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | GetFeedback Direct: GetFeedback Direct enables survey deployment to a company’s customers via email and SMS that matches a company’s look and feel, automates feedback throughout a customer’s journey, and integrates deeply with Salesforce for survey triggering and personalization.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | GetFeedback Complete: GetFeedback Complete is an end-to-end Customer Experience solution that combines GetFeedback Digital and GetFeedback Direct.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+ We sell the GetFeedback CX platform on a subscription basis through our sales team.
+ Market Research
+ Our Market Research offerings enable customers to quickly collect and analyze feedback on a number of market research projects, including analyzing target markets, measuring brand awareness, and gaining insights on existing and future product lines. Revenue from Market Research solutions is generated by subscription or on a transactional basis, depending on the product.
+
+• | SurveyMonkey Audience: Audience is our market research panel solution for organizations interested in market research from stakeholders with whom they do not have a direct relationship. SurveyMonkey Audience enables organizations to collect and analyze real‐time actionable data from targeted panelists spanning 80 million people in 100+ countries.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Expert solutions: Expert solutions provides a suite of pre-built market research software modules for customers to test product and marketing concepts with a global audience on a do-it-yourself basis, displacing the need for expensive and time-consuming market research professional services. The solutions combine SurveyMonkey’s research capabilities, including built-in methodology for research design, artificial intelligence-powered insights for robust data analysis and pattern recognition, and a global panel of respondents through SurveyMonkey Audience. The expert solutions modules include:
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Ad Creative analysis: Measures the effectiveness of ad campaigns.
+--+------------------------------------------------------------------
+
+
+o | Product Concept analysis: Validates product concepts and ideas before market launch.
+--+-------------------------------------------------------------------------------------
+
+
+o | Video Creative analysis: Measures the impact of video creative.
+--+----------------------------------------------------------------
+
+
+o | Packaging Design analysis: Ensures new package designs are optimized for the shelf.
+--+------------------------------------------------------------------------------------
+
+
+o | Logo Design analysis: Measures the visual appeal of new logo designs.
+--+----------------------------------------------------------------------
+
+
+o | Brand Name analysis: Tests brand and product names before market launch.
+--+-------------------------------------------------------------------------
+
+
+o | Messaging & Claims analysis: Tests messaging statements and taglines.
+--+----------------------------------------------------------------------
+
+Other Purpose-Built Solutions
+ In addition to our three major product pillars above, we offer a number of additional products, such as:
+  
+• | Customer Advocacy: TechValidate is our marketing content automation solution. TechValidate collects feedback from a company’s customers at scale and automatically converts it into validated marketing content, including statistics, charts, testimonials, and case studies.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Grant Application Management: SurveyMonkey Apply is our application management solution that is primarily used by educational institutions and non-profits seeking to allocate scholarships and grants.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Forms: Wufoo is our easy-to-use form builder that helps users create web and mobile forms, collect file uploads, and receive online payments.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+7
+
+
+
+Our Customers
+ Our global customer base is diversified across multiple industries, including financial services, internet, technology, healthcare, media and entertainment, consumer goods and retail, transportation and logistics, government agencies, manufacturing, energy, education, professional services and non-profit organizations. As of December 31, 2020, we had over 20 million active users, of which approximately 820,300 were paying users and of our paying users we had approximately 8,200 customers who purchased our software through our enterprise sales channel. No customer represented more than 10% of our revenue in any of the years ended December 31, 2020, 2019, and 2018.
+ We define an active user as someone who has registered an account with us or logged in to their account on our survey platform in the last twelve months. Some of our active users may use our products less frequently than others, which may reduce the opportunities to convert such active users to paying users.
+ Our Growth Strategy
+ Our survey platform is inherently viral, as existing users send surveys and share survey results that introduce potential new users and customers to our products. This virality, combined with the ease-of-use and price-disruptive nature of our products and the strength of the SurveyMonkey brand, has enabled us to build an efficient, online self-serve channel for selling versions our survey products. Additionally, our user base includes individuals and teams within organizations who are using our software to collect feedback for business use cases related to their employees, current customers, and potential new customers and markets. Thus, our self-serve channel also serves as a renewable source of prospective customers for our sales team to introduce SurveyMonkey Enterprise and our newer Customer Experience and Market Research enterprise offerings. We believe this installed base of organization-based customers represents a significant opportunity to expand our business with enterprises, which we believe can increase our revenue growth and customer retention rates over time.
+ To capitalize on the virality of our platform and the scale of business use cases in our user base, we are executing against a two-part growth strategy: 1) deliver new features and product tiers to drive platform usage and increase the conversion of free users to paid subscribers in our self-serve channel; and 2) continue investing in product innovation and go-to-market initiatives to win new customers and convert existing self-serve subscribers to our enterprise offerings. As we execute on this strategy and sell more of our products into enterprises directly, we believe we can accelerate our revenue growth profile and increase our customer retention rates over time.
+ Self-Serve Initiatives
+ Our initiatives to drive continued growth in self-serve include:
+  
+• | Optimization of traffic to our website through search engine optimization (“SEO”), search engine marketing (“SEM”) and other paid digital marketing programs, and marketing on the end page of surveys deployed;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continued account verification to reduce unauthorized account sharing;
+--+-----------------------------------------------------------------------
+
+
+• | Further changes in self-serve product tiers to convert more users of our free “Basic” survey plan into paid subscription plans. As an example, we lowered the number of responses permitted to be collected per survey in our Basic product from 100 to 40 in April 2020 and saw an uplift in the conversion of Basic users as a result;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Deeper and additional product integrations with popular third-party business applications like Microsoft Teams and Zoom Video Communications to drive increased usage of our survey platform, which helps drive more self-serve product usage and subscriptions and identifies potential customers and SurveyMonkey Enterprise prospects; and
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Continued scaling of our multi-user SurveyMonkey Teams that enables small groups to collaborate on survey creation and analysis and provides an upsell opportunity for SurveyMonkey Enterprise.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+
+8
+
+
+
+Enterprise Growth Initiatives
+ Our enterprise growth strategy starts with our brand recognition, our existing user base within organizations, and use of our technology to identify opportunities to convert active users to paying users, upsell organizations to SurveyMonkey Enterprise and cross-sell our Customer Experience and Market Research solutions. Our goal is to increase our total number of enterprise customers and expand our business with existing enterprise customers over time. As we execute on this strategy, we expect to accelerate our revenue growth rate and increase both monetization and retention within organizations over time. 
+
+• | Our enterprise growth strategy includes:
+--+-----------------------------------------
+
+
+o | Mining the Base: Analyzing our self-serve customer base to identify and market to prospective purchasers of SurveyMonkey Enterprise and our Customer Experience and Market Research enterprise offerings;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Expanding Relationships with Existing Organizational Customers: Once we win business in one functional area of an organization (e.g. human resources), we seek to expand our relationship with other parts of the customer’s organization through up-selling more of the enterprise product pillar already purchased by the customer and/or cross-selling our other enterprise product pillars, depending on the needs of the customer;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Go-to-Market: Driving continued increased productivity of our sales team through continued investments in enablement, training, cross-selling, and new pricing models, such as consumption-based pricing to better align our economics with the value we provide customers. We also expect to add new sales team members with experience in selling Customer Experience and Market Research solutions;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Product Innovation: We continue to add new features to SurveyMonkey Enterprise, Customer Experience and Market Research products; and
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Partnerships/Integrations: We plan to increasingly leverage our 100+ existing integrations with platforms offered by Microsoft, Salesforce, ServiceNow, HubSpot, Zendesk, and others to power insights within an enterprise customer’s existing systems of record and drive greater adoption of our enterprise offerings.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Other Growth Initiatives
+  
+• | Expanding our business in key international markets: For the years ended December 31, 2020, 2019, and 2018, we generated 35%, 35% and 36% of our revenue from customers outside of the United States, respectively, and we see significant opportunity for growth internationally. We are investing in marketing our self-serve products and increasing awareness of our brand, developing a more localized product experience and expanding our international data center presence to improve user experience and website speed, and to provide locally hosted data. We are expanding our international workforce in Dublin, Ireland; Ottawa, Canada; and Amsterdam, the Netherlands across all of our business functions.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Selectively pursuing acquisitions: We believe our large user base, extensive data set, integration capabilities, and products provide opportunities for us to drive value-added growth through opportunistic acquisitions in key areas such as product, market and geographic expansion.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Technology Infrastructure and Operations
+ Our products are centered on innovation in the following areas:
+ Scalable Data Collection: Data can be collected via iOS and Android mobile apps, web browsers, personalized emails and social media or collaboration platforms such as Facebook Messenger and Slack. In addition, data collection can be programmatically embedded and customized to sit within a customer’s website or mobile app and popup invitations. Additionally, we offer access via SurveyMonkey Anywhere, our offline data collection mode and via QR codes.
+ Data Storage and Analysis: Our architecture allows us to collect data in multiple geographic locales. Our primary systems are hosted in U.S. and European regions within Amazon Web Services. We operate a secondary disaster 
+ 9
+
+
+recovery data center in Las Vegas, NV. In addition, we enable certain accounts to store their SurveyMonkey data in other geographic regions hosted by Amazon Web Services.
+ Reliability: We have designed our products to be highly available under peak global load conditions.  To enable redundancy and backup, we replicate customer data across multiple data centers in multiple availability zones in each of the U.S. and European regions within Amazon Web Services.
+ Security: Our survey platform can be connected to enterprise identity management systems such as Microsoft Active Directory and OKTA and can be configured to enable administrators to automate the management of licenses and system access. 
+ Integration into Customer Systems and Processes: Companies can integrate SurveyMonkey into their systems and processes by using our prebuilt connectors, using one of many third-party applications built on our survey platform, or via a custom integration using our open APIs. 
+ We are focused on research and development to enhance our survey platform, develop new products and features, and improve our infrastructure.
+ Sales, Marketing, and Customer Success
+ We believe the SurveyMonkey brand is globally synonymous with collecting feedback. We benefit from the virality of our platform, where survey creators increase our exposure organically among the respondents to their surveys, and every person who takes a survey is a potential future customer. In addition, our marketing function supports our sales effort targeted at organizations currently using our survey platform as well as prospective new customers seeking enterprise-grade solutions across our three product pillars.
+ In our self-serve channel, we conduct direct response marketing and engage and reactivate users through communication channels such as in-product notifications, demand generation campaigns, mobile notifications and lifecycle email marketing. We also create brand awareness through search engine optimization, content marketing, social media marketing, public relations and earned media with partners.
+ In our enterprise sales channel, we are building a direct, inside sales team focused on new sales and cross-sales of our SaaS offerings into small, midsize, and large enterprises.
+ Our customer success initiatives include an online knowledge base and help center, localized in 16 languages, as well as phone-based, email-based, and dedicated customer support that correspond to the product tier customers have purchased across our product pillars. In December 2020, we announced the hiring of our first Chief Customer Officer who will lead and expand our customer success, professional services and support team functions. 
+ Competition
+ Competitors in the various product pillars we offer include Qualtrics, Alchemer (formerly SurveyGizmo), Typeform, Google Forms and Microsoft Forms in the Surveys pillar; Medallia, MaritzCX and Salesforce surveys in the Customer Experience pillar; and Nielsen, Kantar and YouGov in the Market Research pillar. We also compete with offline methods of feedback collection, such as pen-and-paper surveys and telephone surveys. We believe that the principal competitive factors in our markets include the following:
+
+• | ease of use and deployment of applications;
+--+--------------------------------------------
+
+
+• | quality and timeliness of data and insight generation;
+--+-------------------------------------------------------
+
+
+• | product features, quality and functionality;
+--+---------------------------------------------
+
+
+• | volume of data for benchmarking, data science models and AI and machine learning applications;
+--+-----------------------------------------------------------------------------------------------
+
+
+• | pricing, total cost of ownership and visibility into cost over time;
+--+---------------------------------------------------------------------
+
+
+• | brand awareness and reputation;
+--+--------------------------------
+
+
+• | breadth of customer base and level of user adoption;
+--+-----------------------------------------------------
+
+
+• | ability to integrate with other applications and systems;
+--+----------------------------------------------------------
+
+
+• | security, reliability and scalability across organizations;
+--+------------------------------------------------------------
+
+ 10
+
+
+
+ 
+• | flexibility to cover a wide breadth of use cases globally;
+--+-----------------------------------------------------------
+
+
+• | ability to enable collaboration within teams and across different business lines;
+--+----------------------------------------------------------------------------------
+
+
+• | effectiveness of sales and marketing;
+--+--------------------------------------
+
+
+• | customer experience; and
+--+-------------------------
+
+
+• | vision for the market and product innovation.
+--+----------------------------------------------
+
+ Some of our competitors may have significantly greater financial, marketing and product development resources than we have, larger sales and marketing budgets and resources, broader distribution or established relationships, or lower labor and research and development costs. Our competitors may devote greater resources and time on developing and testing products and solutions, undertake more extensive marketing campaigns, adopt more aggressive pricing policies or otherwise develop more commercially successful products and solutions than we do.
+ Regulatory Matters
+ We are subject to a variety of laws in the United States and abroad, including laws regarding privacy, data protection, data security, data retention, consumer protection, accessibility, sending and storing of electronic messages, human resource services, employment and labor laws, workplace safety, intellectual property and the provision of online payment services, including credit card processing, consumer protection laws, anti-bribery and anti-corruption laws, import and export controls, federal securities laws and tax regulations, which are continuously evolving and developing. We also have privacy-related terms and guidelines for third-party developers to create applications that connect to our products.
+Intellectual Property
+ We rely on trademarks, patents, copyrights, trade secrets, license agreements, intellectual property assignment agreements, confidentiality procedures, non-disclosure agreements and employee non-disclosure and invention assignment agreements to establish and protect our proprietary rights. Though we rely in part upon these legal and contractual protections, we believe that factors such as the skills and ingenuity of our employees and the functionality and frequent enhancements to our solutions are larger contributors to our success in the marketplace.
+ As of December 31, 2020, we had seven issued patents and two pending patent applications in the United States. These patents and patent applications seek to protect our proprietary inventions relevant to our business.
+ Human Capital Resources
+ In response to the COVID-19 pandemic, we focused our health and safety efforts on protecting our employees. We swiftly implemented changes, such as having our employees work from home, that we determined were in the best interest of our employees and the communities in which we operate, and which are aligned with guidance from the Centers for Disease Control and Prevention and in compliance with government regulations. As of December 31, 2020, we had 1,367 employees worldwide, of whom 475 were based outside of the United States. We are a rapidly growing company and have continued to invest in our workforce, as 25% of our employees have been with us for less than one year and 34% have been with us for more than one year but less than two years as of December 31, 2020. Our employees in the Netherlands are represented by a works council and none of our other employees are represented by a labor union. We have experienced no work stoppages and believe that our employee relations are in good standing, as indicated by the results of our internal survey on employee engagement. 
+ At SurveyMonkey we are on a mission to Power the Curious. Our employee value proposition is to be: A Place Where the Curious Come to Grow and our values guide us every day. We believe our team around the world delivers value to our customers and drives our business outcomes, and as such we make significant investments to attract, retain, grow and develop our employees. We strive to offer competitive total rewards which include: salary, short term incentives, long term incentives, benefits, and perks to our team around the globe. Our goal is to create an environment where everyone—no matter their background—can succeed, feel a sense of belonging, and learn from one another. We believe that diversity, equity, and inclusion improve employee experience, help us understand and serve our customers better, and make us a stronger business. With the strong support of our CEO and leadership, and true passion from our employees, we strive to be an industry leader, create an inspiring culture and have a positive impact in the communities where we live and work.
+ 11
+
+
+
+Corporate Information
+ SVMK Inc. was incorporated in October 2011 as a Delaware corporation and is the successor to operations originally begun in 1999. Our principal executive offices are located at One Curiosity Way, San Mateo, California 94403, and our telephone number is (650) 543-8400. Our website address is www.surveymonkey.com.
+ SurveyMonkey, the SurveyMonkey logo, the Goldie logo, SVMK and our other registered or common law trademarks, service marks or trade names appearing in this prospectus are the property of SurveyMonkey Inc., our wholly-owned subsidiary. NPS is a registered trademark of Bain & Company, Inc., Fred Reichheld and Satmetrix Systems, Inc., and other trademarks and trade names referred to in this Annual Report on Form 10-K are the property of their respective owners.
+ Available Information
+ Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Exchange Act are filed with the U.S. Securities and Exchange Commission, or the SEC. We are subject to the informational requirements of the Exchange Act and files or furnishes reports, proxy statements and other information with the SEC. Such reports and other information filed by us with the SEC are available free of charge at investor.surveymonkey.com/financial-information/sec-filings when such reports are available on the SEC’s website. The SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov. 
+ We periodically provide other material information for investors on our corporate website, www.surveymonkey.com, the investor relations page on our corporate website, investor.surveymonkey.com, press releases, public conference calls and public webcasts. We use these channels, as well as social media, to communicate with investors and the public about us, our offerings and other issues. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media and others interested in us to review the information we post on the U.S. social media channels listed on the investor relations page on our website. Any updates to the list of disclosure channels through which we will announce information will be posted on the investor relations page on our website. The information contained on the websites referenced in this Annual Report on Form 10-K is not incorporated by reference into this filing. Further, our references to website URLs in this Annual Report on Form 10-K are intended to be inactive textual references only.
+ 

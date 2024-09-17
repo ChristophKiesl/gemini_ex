@@ -1,0 +1,398 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1.    BUSINESS
+RISK FACTOR SUMMARY
+Our business involves significant risks and uncertainties that make an investment in us speculative and risky. The following is a summary list of the principal risk factors that could materially adversely affect our business, financial condition, liquidity and results of operations. These are not the only risks and uncertainties we face, and you should carefully review and consider the full discussion of our risk factors in the section titled “Risk Factors”, together with the other information in this Annual Report on Form 10-K. 
+Risks Related to the Company and its Banking Operations
+
+● | COVID-19 has resulted in a significant global economic downturn which has adversely affected, and is expected to continue to adversely affect, our business and results of operations, and the future impacts of the pandemic on the global economy and our business, results of operations, liquidity and financial condition remain uncertain.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We are subject to risks associated with geographic and customer concentration in our lending operations and deposit base, which could negatively impact our asset quality and liquidity, respectively.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our loan portfolio consists largely of commercial real estate and commercial and industrial loans, which carries higher credit risk than other loans that could adversely affect our financial condition and results of operations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Lending to small businesses, franchisees and high-growth businesses may expose us to additional risks.
+--+-------------------------------------------------------------------------------------------------------
+
+
+● | Our SBA lending program is dependent on the federal government and our status as an SBA Preferred Lender, and we face risks associated with originating and selling SBA loans.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | PPP loan originations may result in a large number of low-yield loans remaining on our consolidated balance sheets.
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+● | Our growing deposit and processing focused business may expose us to additional risks not associated with the provision of core banking products and services.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Regulatory changes related to widely used reference interest rates could adversely affect our revenue, expenses, the value of our loans and other financial instruments, and our interest rate risk.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | An economic downturn in the commercial loan market, the commercial real estate industry, and/or in our markets generally could adversely affect our financial condition, results of operations or cash flows.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our allowance for loan losses may not be adequate to cover actual losses, and we may be required to materially increase our allowance, which may adversely affect our capital, financial condition and results of operations.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Changes in accounting policies or standards could materially affect how we report our financial results and condition.
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+● | Changes in policies of monetary authorities and government action could materially adversely affect our profitability.
+--+-----------------------------------------------------------------------------------------------------------------------
+
+
+● | Fluctuations in interest rates could reduce our profitability.
+--+---------------------------------------------------------------
+
+
+● | We are subject to risks in the event of certain borrower defaults, which could have an adverse impact on our liquidity position and results of operations.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We may need to rely on the financial markets to provide needed capital.
+--+------------------------------------------------------------------------
+
+
+● | Negative publicity about financial institutions, generally, or about us, specifically, could damage our reputation and adversely impact our liquidity, business operations or financial results.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Certain changes in interest rates, inflation, deflation or the financial markets could affect demand for our products and our results of operations and cash flows.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Liquidity risk could impair our ability to fund operations and jeopardize our financial condition.
+--+---------------------------------------------------------------------------------------------------
+
+
+● | We face strong competition from larger, more established competitors that may inhibit our ability to compete.
+--+--------------------------------------------------------------------------------------------------------------
+
+
+● | The soundness of other financial institutions with which we do business could adversely affect us.
+--+---------------------------------------------------------------------------------------------------
+
+
+● | Environmental liability associated with lending activities could result in losses.
+--+-----------------------------------------------------------------------------------
+
+
+● | We may not be able to retain, attract and motivate qualified individuals.
+--+--------------------------------------------------------------------------
+
+
+● | A breach of our operational or security systems, or those of our third-party service providers, could disrupt our business, result in unintentional disclosure or misuse of confidential information, or damage our reputation.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our business is dependent on technology, and an inability to invest in technological improvements or obtain reliable technology and technological support may adversely affect our business, financial condition and results of operations.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1
+
+
+
+
+● | The value of our goodwill and other intangible assets may decline in the future.
+--+---------------------------------------------------------------------------------
+
+
+● | We face risks related to potential changes in legislation, including but not limited to, tax law, privacy and information security and anti-money laundering and anti-terrorism, and federal agency leadership, policies, and priorities.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | As a participating lender in the SBA’s PPP, we are dependent on the federal government’s continuation and support of the program and on our compliance with program requirements.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Various regulators periodically examine our business and may require us to remediate adverse examination findings.
+--+-------------------------------------------------------------------------------------------------------------------
+
+​
+Risks Related to Ownership of Our Common Stock
+​
+
+● | Limited trading in our common stock may impact the ability of shareholders to sell their shares and the price of our common stock.
+--+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We are no longer an “emerging growth company” and are therefore subject to certain increased disclosure and governance requirements.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our stock repurchase program may not enhance long-term stockholder value and stock repurchases, if any, could increase the volatility of the price of our common stock and will diminish our cash reserves.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | A number of factors could cause the price of our common stock to be volatile or to decline.
+--+--------------------------------------------------------------------------------------------
+
+
+● | The holders of our subordinated notes have rights that are senior to those of our shareholders.
+--+------------------------------------------------------------------------------------------------
+
+
+● | We may borrow funds or issue additional debt and equity securities or securities convertible into equity securities, any of which may be senior to our common stock as to distributions and in liquidation, which could negatively affect the value of our common stock.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Our ability to pay dividends to our shareholders is limited.
+--+-------------------------------------------------------------
+
+
+● | We may not be able to raise additional capital on terms favorable to us or at all.
+--+-----------------------------------------------------------------------------------
+
+​
+Background
+Atlantic Capital Bancshares, Inc. (“we,” “us,” “Atlantic Capital,” or the “Company”), a Georgia corporation organized in 2006 and headquartered in Atlanta, Georgia, is the parent of Atlantic Capital Bank, N.A. (the “Bank”). We were founded by a team of senior bankers that recognized a market opportunity to bring large bank expertise and capabilities to small and middle market companies in the Atlanta market. The entrepreneurial spirit that promoted Atlantic Capital to seize the market opportunity is still woven into the Bank’s culture. 
+​
+In 2015, we became a publicly held company through our acquisition of First Security, a $1.14 billion financial institution headquartered in Chattanooga, Tennessee. In 2019, we completed our exit of the Tennessee and northwest Georgia markets with the sale of 14 branches located in those markets and the residential mortgage banking business associated with those branches. This sale had a positive impact on our financial results, including long-term cost savings, the reallocation of resources to the Atlanta market and in high-growth businesses, improved capital to support our strategic initiatives, and improved profitability.
+​
+The advent of the COVID-19 pandemic in 2020 presented unique and unprecedented organizational and economic challenges. Our risk management philosophy served us well during the pandemic. Strong capital levels along with prudent liquidity and risk management allowed us to not only quickly address internal issues, but also help our customers and the communities we serve navigate the pandemic. 
+​
+In the first half of 2020, we concentrated on providing assistance to our borrowers, including delivering PPP loans. We funded $234 million loans in PPP loans to over 800 borrowers. Every qualified client that applied for a PPP loan with our company received funding. In the latter portion of the year, our clients had modified their business models to operate in the pandemic. We saw a meaningful increase in financings and other activity leading to strong growth in our commercial banking efforts, including commercial real estate. Our fintech and payments business was also very active as these customers were able to continue to grow their businesses during the pandemic.
+​
+Our Business Strategy
+Our objective is to fuel the prosperity of entrepreneurs and businesses in the markets that we serve. 
+
+2
+
+
+
+We are a team of talented, experienced and entrepreneurial bankers focused on serving commercial and not-for-profit enterprises, fintech and other processing companies, commercial real estate developers and individual clients that value high-touch relationships and deep expertise. Atlanta is our hometown and we are here for our Atlanta clients. In addition, our products and service capabilities and our focus on entrepreneurs are effective in targeted businesses nationally where our flexibility and expertise are highly valued and sought after.
+We believe our strengths differentiate us from our competitors and allow us to address the financial needs of our clients. We also believe that these clients will present us with opportunities to originate loans and utilize our treasury management expertise. We will continue to focus on maintaining industry diversity in our target client base to mitigate our loan portfolio risk, increase market presence and leverage the broad industry experience of our commercial and business banking teams.
+We recognize that the success of our franchise depends upon the success of our bankers. We are focused on hiring and retaining experienced bankers, providing them with the business development and client service tools they need to build and maintain long-term banking relationships through a deep understanding of each client’s business. We also construct client service teams with the range of expertise necessary to provide collaborative and seamless high-touch service across product lines. We are committed to continued investment through recruiting and employee development as well as product innovation, primarily in our core commercial banking business and our deposit-based and payment processing businesses. We continually evaluate our product offerings, and we rely heavily on input from our bankers as we refine our products to provide creative financial solutions tailored to the changing needs of our clients.
+To support our strategic initiatives, we focus on maintaining a balance sheet with strong capital levels, high liquidity, and excellent credit quality, which we believe enable us to not only nimbly expand our teams of service providers as hiring opportunities arise, but also to originate larger loans, invest in new business lines, and attract deposits from high transaction volume payments and financial technology businesses.
+We regularly evaluate the profitability and viability of our existing lines of business, the strategic advantages associated with investment in the organic development or acquisition of lines of business that better serve our core banking customers, and the termination of under-used or unprofitable lines of business.
+Commercial and Not-for-Profit Banking
+We offer a full range of commercial and business banking products to fund our Georgia-based clients’ strategic growth, capital expenditures, working capital requirements and strategic corporate finance activities. Our solutions include working capital and equipment loans, loans supported by owner-occupied real estate and strategic financing funded through both revolving lines of credit and term loans. We also offer outstanding cash and treasury management services with exceptional client service.
+We focus on banking small businesses with revenues up to $10 million and middle market companies primarily based in Georgia. We also participate in syndicated loans to larger borrowers, generally located in the Southeast. In addition to customary commercial loans, we offer SBA loans and franchise finance loans to small businesses across a wide range of industries in the Southeast and nationally through a dedicated team of bankers with expertise in these specialized forms of lending. We offer SBA loans under the 7a program as well as the 504 program and periodically offer loans guaranteed by the United States Department of Agriculture. 
+The terms of our commercial, not-for-profit and business banking loans vary by purpose and by the underlying collateral. The vast majority of these loans are secured by assets of the borrower; however, we periodically make unsecured loans to our most creditworthy clients when circumstances support such activity. Loans to support working capital typically have terms not exceeding one year and are usually fully-secured by accounts receivable and inventory, as well as by personal guarantees of the principals or owners of the business. For loans secured by accounts receivable or inventory, the principal balance is repaid as the assets securing the loan are converted into cash. For loans secured with other types of collateral, the principal balance generally amortizes over the term of the loan. The quality of the commercial borrower’s management and its ability to both properly evaluate and respond to changes affecting its business operations and operating environment are significant factors we evaluate with respect to a commercial borrower’s creditworthiness. In addition to analyzing the 
+
+3
+
+
+
+creditworthiness of franchisee borrowers, we also perform analysis on the franchisors to ensure these franchisees have adequate support from a financially sound franchisor.
+Fintech and Payments Businesses 
+Through our highly experienced Fintech, Payments and Treasury Services teams, we provide an array of high volume payment processing solutions, treasury management and deposit services to companies located throughout the United States.
+Our payment technologies and treasury services capabilities are tailored to the needs of clients located across the country in particular industries, such as financial technology, payroll service bureaus and business service clients relying upon high volume funds transfer solutions. Our Fintech and Payments teams assist high transaction volume clients with payment processing through the Automated Clearing House and FedWire systems as well as with transaction compliance, risk monitoring and management. We offer an array of corporate treasury management services designed to improve our clients’ financial efficiency through effective collection and disbursement of funds as well as real time online execution and reporting capabilities.
+Commercial Real Estate Finance
+Through our commercial real estate team, we offer a full range of treasury management services and a wide variety of loan products, including secured construction loans, secured mini permanent loans and, less frequently, secured or unsecured lines of credit. A large majority of our commercial real estate loan portfolio is secured by a first mortgage security interest in the property financed. Our primary focus is providing loans for our core commercial real estate property types: multifamily (primarily for-rent) housing, office, industrial and retail properties. We occasionally extend unsecured credit to certain commercial real estate clients, which we believe to have exceptional credit quality. The majority of our commercial real estate customers and the largest proportion of our commercial real estate collateral are located in the Atlanta area. We have occasionally extended credit to select clients outside our primary markets, and expect to continue to do so in certain circumstances. 
+The majority of our commercial real estate loans finance stabilized income producing assets. We also extend loans for construction and development purposes and lines of credit. We seek to actively manage and balance our commercial real estate loan portfolio across various property types and industries to assure appropriate diversification and to manage our exposure to market conditions. We have arranged and participated in syndicated commercial real estate loans to diversify and mitigate our client concentration risk and to support our loan growth goals, and we may continue both in the future.
+Private Banking
+Through our private banking business team, we offer personal credit products, an array of checking and savings products and online and mobile banking services.
+Our private banking credit products include loans to individuals and professional services businesses for personal and investment purposes, such as secured installment and term loans and home equity lines of credit. Repayment of these loans is often primarily dependent upon the borrower’s financial profile and is more likely to be adversely affected by personal hardships as compared to other types of loans. Credit decisions are based on a review of a borrower’s credit and debt history, past income levels and cash flow to assess the ability of the borrower to make future payments. Home equity lines of credit are underwritten based upon our assessment of the borrower’s credit profile and ability to repay the entirety of the obligation.
+Competition
+We face substantial competition in all areas of our operations from a variety of competitors, many of which are larger and may have more financial resources than we do. Such competitors primarily include national and regional banks within the various markets in which we operate. We also face competition from many other types of financial institutions, including, 
+
+4
+
+
+
+without limitation, savings and loan associations, credit unions, finance companies, brokerage firms, insurance companies, and other financial intermediaries.
+The financial services industry could become even more competitive as a result of legislative, regulatory, and technological changes and continued consolidation. In particular, recent consolidations and disruption in our Atlanta market could result in increased competition as both established institutions and new market entrants position themselves to attract new customers and employees. Banks, securities firms, and insurance companies can merge under the umbrella of a financial holding company, which can offer virtually any type of financial service, including banking, securities underwriting, insurance agency and underwriting, and merchant banking. Also, technology has lowered barriers to entry and made it possible for non-banks to offer products and services traditionally provided by banks. Many of our non-bank competitors have fewer regulatory constraints and may have lower cost structures. Additionally, due to their size, many competitors may be able to achieve economies of scale and, as a result, may offer a broader range of products and services as well as better pricing for those products and services than we can.
+As of June 30, 2020, according to the FDIC, there were approximately 77 banks and thrifts with operations in metropolitan Atlanta. Large national, super-regional and regional banks may lack the consistency of decision making authority and local focus necessary to provide superior service to our target clients. Conversely, smaller community banks typically lack the sophisticated products, capital and management experience to provide the level of service that our target clients demand. We believe that our product offerings are more robust than those offered by community banks and more tailored to suit our clients’ needs than those offered by large regional and national competitors. In addition, we believe that our collaborative team approach, the decision-making authority vested in our seasoned bankers and our streamlined credit approval process allow us to provide high-touch service at a level not offered by our competitors.
+Human Capital Resources
+As of December 31, 2020, we employed 201 full-time equivalent individuals. All of our employees are only employees of the Bank. We are not a party to a collective bargaining agreement, and we consider our relations with employees to be good.
+Our business strategy relies heavily on professional relationships and the quality of expertise and service provided by our employees. Accordingly, we strive to recruit and retain talented, high-caliber employees who share our values and support our strategic objectives. We offer a comprehensive benefits program to our employees and have designed our compensation programs to attract, retain, and reward employees, mitigate undue risk, and to align with company performance and shareholder value.
+Our employment practices are designed to encourage an inclusive, respectful and rewarding workplace, with opportunities for our employees to grow and develop their careers. We provide equal opportunity for all in recruitment, career development, promotion and compensation without regard to age, color, non-disqualifying disability, gender, national origin, race, marital status, veteran status, religion or any other basis that is protected under applicable law. These policies are consistent with, and are an extension of, our existing Code of Business Conduct and Ethics and reflect our commitment to sustainability, diversity and accountability.
+We believe that diversity and inclusion are critical to our success and are committed to fostering an environment that encourages diverse viewpoints, backgrounds and experiences. With the support of our management and Board of Directors, we continue to explore additional diversity, equity, inclusion and belonging efforts.
+Additional Information
+Our principal internet address is www.atlanticcapitalbank.com. The information contained on, or that can be accessed through, our website is not incorporated by reference into this Annual Report on Form 10-K. We have included our website address as a factual reference and do not intend it as an active link to our website. We provide our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and all amendments to those reports, free of charge on www.atlanticcapitalbank.com, as soon as reasonably practicable after they are electronically filed with, or furnished to, the SEC.
+
+5
+
+
+
+Supervision and Regulation
+Bank holding companies and national banks are extensively regulated under both federal and state law. The following is a brief summary of certain statutes and rules and regulations that affect or will affect us. This summary is not intended to be an exhaustive description of the statutes or regulations applicable to their respective businesses. Supervision, regulation and examination of us by regulatory agencies are intended primarily for the protection of depositors rather than of our shareholders. We cannot predict whether or in what form any proposed statute or regulation will be adopted or the extent to which our business may be affected by a statute or regulation. The discussion is qualified in its entirety by reference to applicable laws and regulations. Changes in such laws and regulations may have a material effect on our business and prospects.
+Atlantic Capital Bancshares, Inc.
+As a bank holding company, we are subject to regulation under the BHCA, as amended and to the regulation, supervision, and examination by the Federal Reserve.
+Acquisitions
+The BHCA requires every bank holding company to obtain the Federal Reserve’s prior approval before (1) acquiring direct or indirect ownership or control of more than 5% of the voting shares of any bank that it does not already control; (2) acquiring all or substantially all of the assets of a bank; and (3) subject to certain exceptions, merging or consolidating with any other bank holding company. In addition, a bank holding company is generally prohibited from engaging in, or acquiring a direct or indirect interest in or control of more than 5% of the voting shares of any company engaged in, non-banking activities. This prohibition does not apply to activities listed in the BHCA or found by the Federal Reserve, by order or regulation, to be closely related to banking or managing or controlling banks as to be a proper incident thereto.
+The BHCA further provides that the Federal Reserve may not approve any transaction that would result in a monopoly or that would substantially lessen competition in the banking business, unless the public interest in meeting the needs of the communities to be served outweighs the anti-competitive effects. The Federal Reserve is also required to consider the financial and managerial resources and future prospects of the bank holding companies and banks involved and the convenience and needs of the communities to be served. Consideration of financial resources generally focuses on capital adequacy and consideration of convenience and needs issues, which focuses, in part, on the performance under the CRA.
+Change in Bank Control
+Subject to various exceptions, the BHCA and the Change in Bank Control Act, together with related regulations, require Federal Reserve approval prior to any person or company acquiring “control” of a bank holding company. Control is conclusively presumed to exist if an individual or company acquires 25% or more of any class of voting securities of a bank holding company. Control is also presumed to exist, although rebuttable, if a person or company acquires 10% or more, but less than 25%, of any class of voting securities and the bank holding company has registered securities under Section 12 of the Exchange Act.
+Permitted Activities
+Except in certain situations prescribed by statute (including exemptions for financial holding companies), the BHCA generally prohibits a bank holding company from engaging in, or acquiring 5% or more of the voting stock of a company that is not a bank holding company or a bank, and from engaging in activities other than banking; managing or controlling banks or other permissible subsidiaries and performing servicing activities for subsidiaries; and engaging in any activities other than activities that the Federal Reserve has determined by order or regulation are so closely related to banking as to be a proper incident included thereto under the BHCA. In determining whether a particular activity is permissible, the Federal Reserve considers whether performing the activity can be expected to produce benefits to the public that outweigh possible adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interest or unsound banking practices. The Federal Reserve has the power to order a bank holding company or its subsidiaries to 
+
+6
+
+
+
+terminate any activity or control of any subsidiary when the continuation of the activity or control constitutes a serious risk to the financial safety, soundness or stability of any bank subsidiary of that bank holding company.
+Under the BHCA, a bank holding company may file an election with the Federal Reserve to be treated as a financial holding company and engage in additional financial activities. The election must be accompanied by a certification that the Company’s insured depository institution subsidiary is “well capitalized” and “well managed.” Additionally, the CRA rating of each subsidiary bank must be satisfactory or better. We have not elected to be treated as a financial holding company.
+Support of Bank Subsidiaries
+We are required to act as a source of financial and managerial strength for the Bank and to commit resources to support the Bank. This support may be required at times when it would not be in the best interests of our shareholders or creditors to provide it. In addition, any capital loans made by us to the Bank will be repaid only after the Bank’s deposits and various other obligations are repaid in full.
+Atlantic Capital Bank, N.A.
+The Bank is chartered by the OCC and thus is subject to regulation, supervision and examination by the OCC.
+Bank Merger Act
+Section 18(c) of the Federal Deposit Insurance Act, commonly known as the “Bank Merger Act,” requires the prior written approval of the OCC before any national bank may (i) merge or consolidate with, (ii) purchase or otherwise acquire the assets of, or (iii) assume the deposit liabilities of, another bank if the resulting institution is to be a national bank.
+The Bank Merger Act prohibits the OCC from approving any proposed merger transaction that would result in a monopoly or would further a combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States. Similarly, the Bank Merger Act prohibits the OCC from approving a proposed merger transaction whose effect in any section of the country may be to lessen competition substantially, or to tend to create a monopoly, or which in any other manner would be in restraint of trade. An exception may be made in the case of a merger transaction whose effect would be to substantially lessen competition, tend to create a monopoly, or otherwise restrain trade, if the OCC finds that the anticompetitive effects of the proposed transaction are clearly outweighed by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
+In every proposed merger transaction, the OCC must also consider the financial and managerial resources and future prospects of the existing and resulting institutions, the convenience and needs of the communities to be served, and the effectiveness of each insured depository institution involved in the proposed merger transaction in combating money-laundering activities, including in overseas branches.
+Capital Adequacy
+The final rule adopted by the federal banking regulators implementing the capital reforms published by the Basel Committee on Banking Supervision in Basel III established prompt corrective action requirements for all banks and includes a CET1 risk-based capital measure. CET1 consists of common stock and paid in capital and retained earnings. CET1 is reduced by goodwill, certain intangible assets, net of associated deferred tax liabilities, deferred tax assets that arise from tax credit and net operating loss carryforwards, net of any valuation allowance, and certain other items specified in the Basel III capital rules. The capital rules also provide for a number of adjustments to CET1. These include the requirement that mortgage servicing rights, certain deferred tax assets arising from temporary differences that could not be realized through net operating loss carrybacks and significant investments in non-consolidated financial entities be deducted from CET1 to the extent such items exceed 10% of CET1 individually or 15% of CET1 in the aggregate.
+​
+The risk-based capital and leverage capital requirements under the final rule are set forth in the table that follows.
+
+7
+
+
+
+​
+
+​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ | ​ 
+-------------------------------+---+-------------------------------------+---+-------------------+---+-----------------+---+---------------
+​ | ​ | Total Risk Based | ​ | Tier 1 Risk Based | ​ | CET1 Risk Based | ​ | ​ 
+Requirement | | Capital Ratio | | Capital Ratio | | Capital Ratio | | Leverage Ratio
+Well Capitalized | | ≥ 10% | ​ | ≥ 8% | ​ | ≥ 6.5% | ​ | ≥ 5% 
+Adequately Capitalized | | ≥ 8% | ​ | ≥ 6% | ​ | ≥ 4.5% | ​ | ≥ 4% 
+Undercapitalized | | ≥ 8% | ​ | ≥ 6% | ​ | ≥ 4.5% | ​ | ≥ 4% 
+Significantly Undercapitalized | | ≥ 6% | ​ | ≥ 4% | ​ | ≥ 3% | ​ | ≥ 3% 
+Critically Undercapitalized | | Tangible equity to total assets ≤ 2 | | | | | | 
+
+​
+The final rule also established a “capital conservation buffer” of 2.5% (which was fully phased in as of January 1, 2019), consisting of CET1 capital, above the regulatory minimum capital ratios. Accordingly, an institution will be subject to limitations on capital distributions, dividend payments, share repurchases and payment of discretionary bonuses to executive officers if the institution’s capital falls below the following minimum ratios: (i) total risk-based capital ratio of 10.5%, (ii) Tier 1 risk-based capital ratio of 8.5%, and (iii) a CET1 risk-based capital ratio of 7.0%.
+The final rule includes comprehensive guidance with respect to the measurement of risk-weighted assets. For residential mortgages, Basel III retains the risk-weights contained in the current capital rules which assign a risk-weight of 50% to most first-lien exposures and 100% to other residential mortgage exposures. The final rule increased the risk-weights associated with certain on-balance sheet assets, including 150% for high volatility commercial real estate acquisition, development and construction loans, and for the unsecured portion of non-residential mortgage loans that are more than 90 days past due or in nonaccrual status. Capital requirements were also increased for equity exposures, securities lending transactions, OTC derivatives and loan commitments with an original maturity of one year or less.
+Under the final rule, certain banking organizations, including the Company and the Bank, are permitted to make a one-time election to continue the current treatment of excluding from regulatory capital most AOCI components, including amounts relating to unrealized gains and losses on available-for-sale debt securities and amounts attributable to defined benefit post-retirement plans. Institutions that elect to exclude most AOCI components from regulatory capital under Basel III will be able to avoid volatility that would otherwise be caused by things such as the impact of fluctuations in interest rates on the fair value of available-for-sale debt securities. The Company and the Bank elected to exclude AOCI components from regulatory capital under Basel III.
+In December 2017, the Basel Committee published an update of Basel III (“Basel IV”). The Basel Committee stated that a key objective of Basel IV is to reduce excessive variability of risk-weighted assets in order to enhance comparability of financial institutions’ capital ratios; constrain the use of internally modeled approaches; and complement the risk-weighted capital ratio with a finalized leverage ratio and a revised minimum capital requirement. The federal banking agencies are considering how to appropriately apply the Basel IV standards to institutions in the United States. It is uncertain which of the Basel IV standards will be incorporated into the capital regulations and what effect those standards might have on the Company or the Bank.
+On October 29, 2019, the federal banking regulators adopted a final rule, which was effective as of January 1, 2020, to simplify the regulatory capital requirements for certain community banks and holding companies that opt into the CBLR framework. In order to be eligible to opt in to the CBLR framework, an institution must have less than $10 billion in average consolidated assets and a leverage ratio of at least 9.0%, and meet certain other asset-related requirements. If the election is made, the institution would be considered to have satisfied the capital requirements of Basel III adopted by the federal banking regulators, and would be able to satisfy the regulatory capital requirements by calculating and reporting a single leverage ratio, reducing the time associated with risk-weighting assets for capital ratio reporting purposes. An eligible institution may opt in to the CBLR framework in connection with any regulatory financial report, and may opt out of the CBLR framework at any time by completing the Basel III capital ratio calculations in connection with any regulatory financial report. The rule establishes a two-quarter grace period for institutions whose leverage ratio falls below 9.0% but remains above 8.0%. The Company and the Bank have not opted in to the CBLR framework.
+Failure to meet capital guidelines could subject a bank to a variety of enforcement remedies, including issuance of a capital directive, the termination of deposit insurance by the FDIC, ineligibility for expedited treatment of regulatory applications, restrictions on certain acquisitions, a prohibition on accepting brokered deposits and certain other restrictions on its 
+
+8
+
+
+
+business. An institution may be downgraded to, or deemed to be in, a capital category that is lower than is indicated by its capital ratios if it is determined to be in an unsafe or unsound condition or if it receives an unsatisfactory examination rating with respect to certain matters.
+The FDI Act requires the federal regulatory agencies to take “prompt corrective action” if a depository institution does not meet minimum capital requirements as set forth above. Generally, a receiver or conservator for a bank that is “critically undercapitalized” must be appointed within specific time frames. The regulations also provide that a capital restoration plan must be filed within 45 days of the date a bank is deemed to have received notice that it is “undercapitalized,” “significantly undercapitalized” or “critically undercapitalized.” Any holding company for a bank required to submit a capital restoration plan must guarantee the lesser of (i) an amount equal to 5% of the bank’s assets at the time it was notified or deemed to be undercapitalized by regulator, or (ii) the amount necessary to restore the bank to adequately capitalized status. This guarantee remains in place until the bank is notified that it has maintained adequately capitalized status for specified time periods. Additional measures with respect to undercapitalized institutions include a prohibition on capital distributions, growth limits and restrictions on activities.
+The FDI Act generally prohibits an FDIC-insured bank from making a capital distribution (including payment of a dividend) or paying any management fee to its holding company if the bank would thereafter be “undercapitalized.” “Undercapitalized” banks are subject to growth limitations and are required to submit a capital restoration plan. The federal regulators may not accept a capital plan without determining, among other things, that the plan is based on realistic assumptions and is likely to succeed in restoring the bank’s capital. In addition, for a capital restoration plan to be acceptable to regulators, the bank’s parent holding company must guarantee that the institution will comply with such capital restoration plan. The aggregate liability of the parent holding company is limited to the lesser of: (i) an amount equal to 5% of the bank’s total assets at the time it became “undercapitalized”; and (ii) the amount which is necessary (or would have been necessary) to bring the institution into compliance with all capital standards applicable with respect to such institution as of the time it fails to comply with the plan. If a bank fails to submit an acceptable plan, it is treated as if it is “significantly undercapitalized.”
+“Significantly undercapitalized” insured banks may be subject to a number of requirements and restrictions, including orders to sell sufficient voting stock to become “adequately capitalized,” requirements to reduce total assets and the cessation of receipt of deposits from correspondent banks. “Critically undercapitalized” institutions are subject to the appointment of a receiver or conservator. A bank that is not “well capitalized” is also subject to certain limitations relating to brokered deposits.
+As of December 31, 2020, the Bank had capital levels that qualify as “well capitalized” and that meet the “capital conservation buffer” requirements under applicable regulations.
+For further detail on capital and capital ratios, see the discussion under “Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations – Liquidity and Capital Resources” and Note 17 – Regulatory Matters, to the consolidated financial statements.
+FDIC Insurance Assessments
+The FDIC, through the DIF, insures the deposits of the Bank up to prescribed limits for each depositor (currently, $250,000 per depositor). The assessment paid by each DIF member institution is based on its relative risk of default as measured by regulatory capital ratios and other factors. Specifically, the assessment rate is based on the institution’s capitalization risk category and supervisory subgroup category. The deposit insurance assessment is calculated on the average total consolidated assets of insured depository institutions during the assessment period, less the average tangible equity of the institution during the assessment period as opposed to solely bank deposits at an institution. An institution’s capitalization risk category is based on the FDIC’s determination of whether the institution is well capitalized, adequately capitalized or less than adequately capitalized. The Bank’s insurance assessments during 2020, 2019, and 2018 were $629,000, $275,000, and $745,000, respectively.
+
+9
+
+
+
+Insurance of deposits may be terminated by the FDIC upon a finding that an institution has engaged in unsafe or unsound practices, is in an unsafe or unsound condition to continue operations or has violated any applicable law, regulation, rule, order or condition imposed by the FDIC.
+Payment of Dividends 
+The Company is a legal entity that is separate and distinct from the Bank. While there are various legal and regulatory limitations under federal and state law governing the extent to which banks can pay dividends or otherwise supply funds to holding companies, the principal source of cash revenues for the Company are dividends from the Bank. The relevant federal regulatory agencies also have authority to prohibit a national bank or bank holding company from engaging in conduct that, in the opinion of such regulatory agency, constitutes an unsafe or unsound practice in conducting its business. The payment of dividends could, depending upon the financial condition of a bank, be deemed to constitute an unsafe or unsound practice in conducting its business.
+Insured depository institutions, such as the Bank, are prohibited from making capital distributions, including the payment of dividends, if, after making such distribution, the institution would become “undercapitalized” (as such term is defined in the applicable law and regulations). In addition, capital rules limit capital distributions, including dividends, if the depository institution does not have a “capital conservation buffer.” See further details above under “—Capital Adequacy.”
+National banks are required by federal law to obtain the prior approval of the OCC in order to declare and pay dividends if the total of all dividends declared in any calendar year would exceed the total of (1) such bank’s net profits (as defined and interpreted by regulation) for that year plus (2) its retained net profits (as defined and interpreted by regulation) for the preceding two calendar years, less any required transfers to surplus. In addition, these banks may only pay dividends to the extent that retained net profits (including the portion transferred to surplus) exceed bad debts (as defined by regulation).
+The Federal Reserve has issued a policy statement that a bank holding company should pay cash dividends only to the extent that the holding company’s net income for the past year is sufficient to cover both the cash dividends and a rate of earning retention that is consistent with the holding company’s capital needs, asset quality and overall financial condition. The Federal Reserve also indicated that it would be inappropriate for a holding company experiencing serious financial problems to borrow funds to pay dividends. Furthermore, under the prompt corrective action regulations adopted by the Federal Reserve, the Federal Reserve may prohibit a bank holding company from paying any dividends if one or more of the holding company’s bank subsidiaries are classified as undercapitalized.
+Stock Repurchases
+A bank holding company is required to give the Federal Reserve prior written notice of any purchase or redemption of its outstanding equity securities if the gross consideration for the purchase or redemption, when combined with the net consideration paid for all such purchases or redemptions during the preceding 12 months, is equal to 10% or more of its consolidated net worth. The Federal Reserve may disapprove such a purchase or redemption if it determines that the proposal would constitute an unsafe or unsound practice or would violate any law, regulation, Federal Reserve order or any condition imposed by, or written agreement with, the Federal Reserve. In addition, the Federal Reserve has indicated that bank holding companies should review their dividend policies, and has discouraged dividend payment ratios that are at maximum allowable levels unless both asset quality and capital levels are strong.
+Transactions with Affiliates
+Federal laws strictly limit the ability of banks to engage in transactions with their affiliates, including their bank holding companies. Regulations promulgated by the Federal Reserve limit the types and amounts of these transactions (including extensions of credit to affiliates, investment in affiliates, the purchase of assets from affiliates, and lending that results in credit exposure to affiliates) that may take place and generally require those transactions to be on an arm’s-length basis. In general, these regulations require that any “covered transactions” between a subsidiary bank and its parent company or the nonbank subsidiaries of the bank holding company be limited to 10% of the bank subsidiary’s capital and surplus and, with respect to such parent company and all such nonbank subsidiaries, to an aggregate of 20% of the bank subsidiary’s 
+
+10
+
+
+
+capital and surplus. Further, loans and extensions of credit to affiliates generally are required to be secured by eligible collateral in specified amounts.
+Interstate Banking and Branching
+The Dodd-Frank Act relaxed previous restrictions on interstate branching and national banks and state banks are able to establish branches in any state if that state would permit the establishment of the branch by a state bank chartered in that state. The FDIA requires that the OCC review (1) any merger with an insured bank into a national bank, or (2) any establishment of branches by an insured bank. See “—Bank Merger Act.”
+Loans to Directors, Executive Officers and Principal Shareholders
+The authority of the Bank to extend credit to its directors, executive officers and principal shareholders, including their immediate family members, corporations and other entities that they control, is subject to substantial restrictions and requirements under the Federal Reserve Act and Regulation O promulgated thereunder, as well as the Sarbanes-Oxley Act. These statutes and regulations impose specific limits on the amount of loans that the Bank may make to directors and other insiders, and specified approval procedures must be followed in making loans that exceed certain amounts. In addition, all loans the Bank makes to directors and other insiders must satisfy the following requirements:
+●the loans must be made on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with persons not affiliated with the Bank;
+●the Bank must follow credit underwriting procedures at least as stringent as those applicable to comparable transactions with persons who are not affiliated with the Bank; and
+●the loans must not involve a greater than normal risk of non-payment or include other features not favorable to the Bank.
+​
+Furthermore, the Bank must periodically report all loans made to directors and other insiders to the bank regulators, and these loans are closely scrutinized by the regulators for compliance with Sections 22(g) and 22(h) of the Federal Reserve Act and Regulation O. Each loan to a director or other insider must be pre-approved by the Bank’s board of directors with the interested director abstaining from voting.
+Community Reinvestment Act
+The CRA requires the federal bank regulatory agencies to encourage financial institutions to meet the credit needs of low and moderate-income areas. An institution’s size and business strategy determines the type of examination that it will receive. Large, retail-oriented institutions are examined using a performance-based lending, investment and service test. Small institutions are examined using a streamlined approach. All institutions may opt to be evaluated under a strategic plan formulated with community input and pre-approved by the bank regulatory agency.
+The CRA regulations provide for certain disclosure obligations. Each institution must post a notice advising the public of its right to comment to the institution and its regulator on the institution’s CRA performance and to review the institution’s CRA public file. Each lending institution must maintain for public inspection a file that includes a listing of branch locations and services, a summary of lending activity, a map of its communities and any written comments from the public on its performance in meeting community credit needs. The CRA requires public disclosure of a financial institution’s written CRA evaluations. This requirement promotes enforcement of CRA principles by providing the public with the status of a particular institution’s community reinvestment record.
+The GLBA made various changes to the CRA. Among other changes, CRA agreements with private parties must be disclosed. A bank holding company will not be permitted to become a financial holding company and no new activities authorized under the GLBA may be commenced by a holding company or by a bank financial subsidiary if any of its bank subsidiaries received less than a satisfactory CRA rating in its latest examination. In April 2018, the U.S. Department of Treasury issued a memorandum to the federal banking regulators with recommended changes to the CRA’s implementing regulations to reduce their complexity and associated burden on banks. Subsequently, in December 2019, the OCC and FDIC issued a notice of proposed rulemaking intended to update and modernize the CRA's implementing regulations. On 
+
+11
+
+
+
+May 20, 2020, the OCC finalized its rule while the FDIC, which had joined the OCC’s proposed rulemaking, did not proceed with a final rule. The Federal Reserve, which did not join the OCC and FDIC’s proposal, in October 2020 put forth its own advance notice of proposed rulemaking focused on CRA modernization. We will continue to evaluate the impact of any changes to the regulations implementing the CRA. In late 2020, the OCC approved the our CRA strategic plan, which covers 2021 and 2022 and will be a basis for subsequent CRA examinations. In its last CRA examination, the Bank received a “Satisfactory” rating.
+​
+Consumer Laws and Regulations
+The Bank is also subject to certain consumer laws and regulations that are designed to protect consumers in transactions with banks. While the following list is not exhaustive, these laws and regulations include the Truth in Lending Act, the Truth in Savings Act, the Electronic Funds Transfer Act, the Expedited Funds Availability Act, the Equal Credit Opportunity Act, The Fair and Accurate Credit Transactions Act, The Real Estate Settlement Procedures Act and the Fair Housing Act, among others. These laws and regulations, among other things, prohibit discrimination on the basis of race, gender or other designated characteristics and mandate various disclosure requirements and regulate the manner in which financial institutions must deal with customers when taking deposits or making loans to such customers. These and other laws also limit finance charges or other fees or charges earned in the Bank’s activities.
+In addition, the Dodd-Frank Act created the CFPB, which has broad rulemaking and enforcement authority, with respect to a wide range of consumer financial laws, including the authority to prohibit “unfair, deceptive, or abusive” acts and practices. The CFPB has the authority to investigate potential violations of consumer protection laws, issue cease-and-desist orders, and institute civil proceedings in order to impose civil money penalties or injunctions.
+Technology Risk Management and Consumer Privacy
+Banks are generally expected to prudently manage technology-related risks as part of their comprehensive risk management policies by identifying, measuring, monitoring and controlling risks associated with the use of technology. Under Section 501 of the GLBA, the federal banking agencies have established appropriate standards for financial institutions regarding the implementation of safeguards to ensure the security and confidentiality of customer records and information, protection against any anticipated threats or hazards to the security or integrity of such records and protection against unauthorized access to or use of such records or information in a way that could result in substantial harm or inconvenience to a customer. Among other matters, the rules require each bank to implement a comprehensive written information security program that includes administrative, technical and physical safeguards relating to customer information, as well as processes to enable recovery of data and business operations, rebuild network capabilities and restore data.
+Under the GLBA, a financial institution must also provide its customers with a notice of privacy policies and practices and may not disclose nonpublic personal information about a customer to nonaffiliated third parties unless the institution satisfies various notice and opt-out requirements and the customer has not elected to opt out of the disclosure. All banks are also required to develop initial and annual privacy notices which describe in general terms the bank’s information sharing practices. Banks that share nonpublic personal information about customers with nonaffiliated third parties must also provide customers with an opt-out notice and a reasonable period of time for the customer to opt out of any such disclosure (with certain exceptions). Limitations are placed on the extent to which a bank can disclose an account number or access code for credit card, deposit or transaction accounts to any nonaffiliated third party for use in marketing.
+In addition, on December 18, 2020, the federal banking regulators proposed a new cybersecurity-related notification rule that would require banking organizations, including the Company and the Bank, to notify their primary federal regulator promptly of the occurrence of certain significant computer-security incidents. The proposed rule would also impose requirements on bank service providers to notify their affected banking organization customers of certain computer-security incidents.
+State regulators have also been increasingly active in implementing privacy and cybersecurity standards and regulations. Recently, several states have adopted regulations requiring certain financial institutions to implement cybersecurity 
+
+12
+
+
+
+programs and providing detailed requirements with respect to these programs, including data encryption requirements. Many states have also recently implemented or modified their data breach notification and data privacy requirements.
+UDAP and UDAAP
+Banking regulatory agencies have increasingly used a general consumer protection statute to address “unethical” or otherwise “bad” business practices that may not necessarily fall directly under the purview of a specific banking or consumer finance law. The law of choice for enforcement against such business practices has been Section 5 of the Federal Trade Commission Act, referred to as the FTC Act, which is the primary federal law that prohibits unfair or deceptive acts or practices, referred to as UDAP, and unfair methods of competition in or affecting commerce. “Unjustified consumer injury” is the principal focus of the FTC Act. Prior to the Dodd-Frank Act, there was little formal guidance to provide insight to the parameters for compliance with UDAP laws and regulations. However, UDAP laws and regulations have been expanded under the Dodd-Frank Act to apply to “unfair, deceptive or abusive acts or practices,” referred to as UDAAP.
+Anti-Terrorism and Anti-Money Laundering Reporting
+Under the BSA, financial institutions are required to monitor and report unusual or suspicious account activity that might signify money laundering, tax evasion or other criminal activities, as well as transactions involving the transfer or withdrawal of amounts in excess of prescribed limits. The BSA is sometimes referred to as an AML law. Several AML statutes, including provisions in Title III of the USA PATRIOT Act of 2001, have been enacted to amend the BSA. Under the USA PATRIOT Act, financial institutions are subject to prohibitions against specified financial transactions and account relationships as well as enhanced due diligence and “know your customer” standards in their dealings with financial institutions and foreign customers. Under the USA PATRIOT Act, financial institutions are also required to establish anti-money laundering programs. The USA PATRIOT Act sets forth minimum standards for these programs, including:
+
+● | the development of internal policies, procedures, and controls;
+--+----------------------------------------------------------------
+
+
+● | the collection of information regarding, and the verification of the identity of, customers opening new accounts;
+--+------------------------------------------------------------------------------------------------------------------
+
+
+● | ongoing customer due diligence;
+--+--------------------------------
+
+
+● | the designation of a compliance officer;
+--+-----------------------------------------
+
+
+● | an ongoing employee training program; and
+--+------------------------------------------
+
+
+● | an independent audit function to test the programs.
+--+----------------------------------------------------
+
+​
+In addition, under the USA PATRIOT Act, the U.S. Department of the Treasury, has adopted rules addressing a number of related issues, including increasing the cooperation and information sharing between financial institutions, regulators, and law enforcement authorities regarding individuals, entities and organizations engaged in, or reasonably suspected based on credible evidence of engaging in, terrorist acts or money laundering activities. Any financial institution complying with these rules will not be deemed to violate the privacy provisions of the GLBA that are discussed below. Finally, under the regulations of OFAC, we are required to monitor and block transactions with certain “specially designated nationals” who OFAC has determined pose a risk to U.S. national security.
+Response to COVID-19
+As the pandemic affected all areas of economic and social life, we responded with measures to protect the health of our community, customers and employees. We implemented work-from-home initiatives for employees when possible and ceased non-essential business related travel.
+Additionally, we have taken the following steps to assist customers during these challenging times, consistent with sound banking practice:
+
+● | funding loans for business borrowers through the PPP with $192.2 million outstanding as of December 31, 2020;
+--+--------------------------------------------------------------------------------------------------------------
+
+13
+
+
+
+
+● | evaluating business segments in our market areas to identify areas of need and focusing our assessment and management of portfolio risk;
+--+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | communicating with customers to assess developing credit situations and needs assessment; and
+--+----------------------------------------------------------------------------------------------
+
+
+● | offering payment deferrals to existing customers with a streamlined loan modification process when appropriate.
+--+----------------------------------------------------------------------------------------------------------------
+
+Annual Disclosure Statement
+This Annual Report on Form 10-K also serves as the annual disclosure statement of Atlantic Capital pursuant to Part 350 of the FDIC’s rules and regulations. This statement has not been reviewed or confirmed for accuracy or relevance by the FDIC.
+​

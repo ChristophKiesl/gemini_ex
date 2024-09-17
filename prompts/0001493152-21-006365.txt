@@ -1,0 +1,170 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+Item 1.Business
+Overview
+ 
+Wireless Telecom Group, Inc., a New Jersey corporation, together with its subsidiaries (“we”, “us”, “our” or the “Company”), specializes in the design and manufacture of advanced radio frequency and microwave devices which enable the development, testing and deployment of wireless technology. The Company provides unique, highly customized and configured solutions which drive innovation across a wide range of traditional and emerging wireless technologies.
+ 
+Wireless Telecom Group is comprised of five brands – Microlab, Boonton, Noisecom, CommAgility and Holzworth. The Company is organized as one reporting segment as of result of certain internal reorganizations occurring in the six to nine months prior to June 2020. Prior to June 2020, the Company was organized in three reporting segments. In June 2020 we determined that the Chief Operating Decision Maker (“CODM”) as defined in Accounting Standards Codification (“ASC”) 280 Segment Reporting evaluates operating results and makes decisions on how to allocate resources at the consolidated level. Although the CODM reviews key performance indicators including bookings, shipments and gross profit at a product group level, this information by itself is not sufficient enough to make operating decisions. Rather, operating decisions are made based on review of consolidated profitability metrics rather than the individual results of each product group. The Company continues to report gross profit at the product group level. Our product groups are organized as follows: Radio Frequency Components (“RFC”) is comprised of our Microlab brand; Radio, Baseband, Software (“RBS”) is comprised of our CommAgility brand; and Test and Measurement (“T&M”) is comprised of our Boonton, Noisecom and Holzworth brands.
+ 
+Our customers include wireless carriers, aerospace and defense companies, military and government agencies, satellite communication companies, network equipment manufacturers, tower companies, semiconductor companies, system integrators, neutral host providers, medical device manufacturers and other global technology companies.
+ 
+Our products include components, modules, instruments, systems and software used across the lifecycle of wireless connectivity and communication development, deployment and testing. Our services include software customization, calibration, repair and maintenance. Our customers use these products in the development and deployment of long-term evolution (“LTE”) and 5G private networks, small cell solution development and deployment, 5G test environments, automated test environments, research labs, network densification and deployment, expansion and upgrade of distributed antenna systems, and medical device manufacturing In addition, the Company’s products are used in the development and testing of satellite communication systems, radar systems, semiconductor manufacturing, automotive electronics and avionics.
+ 
+The consolidated financial statements for the 2020 fiscal year include the accounts of Wireless Telecom Group, Inc., doing business as, and operating under the trade name Noise Com, Inc., and its wholly owned subsidiaries including Boonton Electronics Corporation, Microlab/FXR, Wireless Telecommunications Ltd., CommAgility Limited and Holzworth Instrumentation, Inc. The corporate website address is www.wirelesstelecomgroup.com. Noise Com, Inc., Boonton Electronics Corporation, Microlab/FXR, CommAgility Limited Ltd., and Holzworth Instrumentation, Inc. are hereinafter referred to as “Noisecom”, “Boonton”, “Microlab”, “CommAgility” and “Holzworth”, respectively.
+ 
+Market
+ 
+Since the Company’s incorporation in the State of New Jersey in 1985, it has been primarily engaged in supplying noise source components and instruments, electronic testing and measurement instruments, and radio frequency (“RF”) passive components to customers. With the CommAgility acquisition in February 2017, the Company expanded to include the delivery of digital signal processing hardware cards and the delivery, implementation and configuration of LTE and 5G physical layer and stack software. In February 2020, we acquired Holzworth which specializes in supplying signal generators and phase noise analyzers to global aerospace and defense companies, the semiconductor industry and government labs. Approximately 82% and 93% of the Company’s consolidated revenues in fiscal years 2020 and 2019, respectively, were derived from commercial customers. The remaining consolidated revenues (approximately 18% and 7% in 2020 and 2019, respectively) were comprised of revenues from the United States government (particularly the armed forces) and prime defense contractors.
+
+3
+-
+
+Brands and Products
+ 
+Microlab
+ 
+Microlab designs and manufactures a wide selection of RF components and integrated subsystems for signal conditioning and distribution in the wireless infrastructure markets as well as for use in medical devices. Microlab products are used in small cell deployments, distributed antenna systems, in-building wireless solutions and cellular base-stations. In 2020, Microlab expanded its portfolio of RF components for ultra-wide band frequency ranges enabling the deployment of commercial wireless networks utilizing new licensed and unlicensed mid-band spectrum allocations. Management believes mid-band spectrum is especially well suited for 5G mobile broadband due to its wide coverage, low latency and high reliability.
+ 
+Microlab components possess unique capabilities in the area of broadband frequency coverage, minimal loss and low passive intermodulation (“PIM”). High performance components – such as power combiners, directional couplers, attenuators, terminators and filters – are developed for broadband applications to support commercial in-building wireless networks, public safety networks, rail and transportation deployments, corrosive salt/fog environment build-outs and global positioning system (“GPS”) signal distribution.
+ 
+Along with components and integrated subsystems, the Microlab portfolio also includes system performance monitoring and timing synchronization solutions. These products include a portfolio of GPS digital repeaters and splitters for cellular timing synchronization as well as a passive systems monitor for real-time diagnostics of an in-building distributed antenna system.
+ 
+Boonton
+ 
+Boonton is a leader in high performance RF and microwave test equipment for radar, avionics, electronic warfare, electromagnetic interference compatibility, and satellite and wireless communications applications due to our product quality and measurement speed and accuracy. Used across the semiconductor, military, aerospace, medical and commercial communications industries, Boonton products enable a wide range of power measurements and signal analysis for RF product design, production, maintenance and testing.
+ 
+Boonton designs and produces electronic test and measurement equipment including power meters, power sensors, voltmeters, and audio and modulation analyzers. These products measure and analyze the performance of RF and microwave systems used by the military and commercial sectors. Boonton products are also used to test terrestrial and satellite communications, radar and telemetry. Certain power meter products are designed for measuring signals based on wideband modulation formats, allowing a variety of measurements to be made, including maximum power, peak power, average power and minimum power.
+ 
+Noisecom
+ 
+Noisecom is a leader in RF and microwave noise sources for signal jamming, system impairment, reference level comparison and calibration, receiver robustness testing, and jitter injection due to our product quality and product design flexibility. Noisecom designs and produces noise generation instruments, calibrated noise sources, noise modules and diodes. Noisecom noise products are used to provide wide band interference and test signals for sophisticated commercial communication and defense applications, and as a stable reference standard for advanced systems found in radar applications and satellite communications. Noise source products:
+
+● | simulate challenging signaling conditions in data and radio frequency transmission systems, such as jitter testing for high speed data lines used in modern computer architecture; 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | send signals for noise measurement to allow wireless receivers and transmitters to be optimized; 
+● | are used for jamming radio frequency signals, blocking or disturbing enemy radar and other communications and insulating and protecting friendly communications; and 
+● | comprise components in radar systems as part of built-in test equipment to continuously monitor the radar receiver and in-satellite communications where the use of back-up receivers is becoming more common. 
+
+ 
+Electronic noise generation devices from Noisecom come in a variety of product types including noise diodes, built-in-test modules (“BITE”), calibrated noise sources, jitter sources, cryogenic noise standards and programmable instruments. Calibrated noise sources are available from audio to millimeter wavelengths in coaxial or waveguide modules. Programmable instruments are highly configurable and able to generate precise carrier-to-noise, signal-to-noise and broadband white noise levels. Noisecom products are customizable to meet the unique needs of challenging applications and can be designed for high power, high crest factor, and specific filtering.
+ 
+
+4
+-
+
+Holzworth
+ 
+Holzworth designs and manufactures specialty phase noise analyzers and signal generators used by aerospace and defense companies, government labs, the semiconductor industry, and network equipment providers. Holzworth products are used in, among other things, research and automated test environments and for quantum computing. Holzworth signal generators are optimized for ultra-low phase noise performance, spectral purity and fast switching speeds and their phase noise analyzers are of the same innovative design philosophy, optimized for measurement speed, z540 traceable accuracy and high reliability while measuring to noise floors at the theoretical limit.
+ 
+CommAgility
+ 
+CommAgility develops the software which enables specialized LTE and 5G deployments, applications and private network solutions including the LTE physical layer and stack software, for mobile network and related applications. CommAgility also develops embedded signal processing hardware and RF modules which enable 5G and LTE mobile network and application solutions. Combining the latest digital processing platforms and RF technologies with advanced, industry-leading software, CommAgility provides compact, powerful and reliable products for integration into high performance test equipment, specialized radio and intelligence systems, satellite systems and research and development demonstrators.
+ 
+CommAgility engineers work closely with customers to provide hardware and software solutions for the most demanding real-time signal processing, test and control challenges in wireless baseband, private and specialized networks, satellite communications, radar and electronic warfare. Additionally, CommAgility licenses, implements and customizes 5G and LTE physical layer and stack software for private networks supporting satellite communications, the military and aerospace industries, offering our customers unique implementation capabilities built on 3rd Generation Partnership Project (“3GPP”) standards.
+ 
+In January 2020, CommAgility announced a collaboration agreement with NXP Semiconductors in connection with the NXP Layerscape Access Programmable Baseband Processors for 5G New Radio Platforms. The collaboration enables CommAgility to accelerate 5G hardware and software development and enhance the performance of its 5G platform, providing advantages to customers developing 5G solutions and reducing their time of development. The collaboration will help CommAgility address needs for private and specialized network solutions.
+ 
+Marketing and Sales
+ 
+The Company’s products are sold globally through our in-house sales force, industry-specific manufacturers’ representatives and through a network of authorized distributors. The Company promotes the sale of its products through its website, product literature, published articles, technical conference presentations, direct mailings, trade advertisements and trade show exhibitions.
+ 
+The Company’s relationships with its manufacturers’ representatives and distributors are governed by written contracts that either run for one-year renewable periods terminable by either party on 30 to 60 days prior notice or have indefinite lives terminable by either party on 30 to 60 days prior notice. The contracts generally provide for territorial and product representation.
+ 
+Customers
+ 
+The Company currently sells the majority of its products to aerospace and defense companies, distributors, telecommunications service providers, systems integrators, neutral host operators, global technology and services companies, U.S. and foreign governments, and medical device manufacturers. For the year ended December 31, 2020, no one customer accounted for more than 10% of total consolidated revenues. For the year ended December 31, 2019 one customer, Viavi Solutions, accounted for 24.8% of total consolidated revenues.
+Competition
+ 
+We compete against many companies which utilize similar technology, some of which are larger and have substantially greater resources and expertise in financial, technical and marketing areas than us. Some of these companies include Keysight Technologies, Inc., Rohde & Schwarz GmbH & Co. KG, Anritsu Corporation, Kathrein, Commscope, Qualcomm, Mavenir, Altiostar and Azcom. We also compete against smaller offshore vendors with significantly lower costs and expenses than us, such as Sym Technology, Inc., Innowave RF and Wireless Supply.
+
+5
+-
+
+ 
+
+The Company believes its competitive strengths include:
+ 
+
+● | long-standing relationships with a core group of diverse customers in the wireless, telecommunication, satellite, military, aerospace, semiconductor and medical industries 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+● | agility in providing highly customized and configured solutions to the customer’s technical specifications 
+● | a long tradition of developing highly engineered wireless solutions through our strong design capabilities and technology know-how 
+● | long-standing, well-established sales channels and relationships which allow us to bring new solutions to market quickly 
+● | diversification across multiple customer segments, providing solutions to enable development, testing and deployment 
+● | being an approved vendor at all three of the major U.S. carriers with hundreds of approved Microlab products 
+● | an embedded base of products and instruments which leads to recurring purchases of our Boonton, Noisecom and Holzworth products 
+● | extensive knowhow and IP related to 3GPP, LTE and 5G wireless standards which enable us to address complex and customized requirements for specialized networks 
+
+Backlog
+ 
+The Company’s consolidated backlog of firm orders to be shipped in the next twelve months was approximately $8.3 million at December 31, 2020, compared to approximately $3.8 million at December 31, 2019. The increase in backlog from the prior year is due to the addition of Holzworth, as well as an increase in CommAgility backlog. It is anticipated that the majority of the backlog orders at December 31, 2020 will be filled during the current year. The stated backlog is not necessarily indicative of Company revenues for any future period nor is a backlog any assurance that the Company will realize a profit from the orders.
+Inventory, Supplies and Manufacturing
+ 
+The Company purchases components, devices and subassemblies from a wide variety of sources. The Company’s procurement policy requires maintaining adequate levels of raw materials inventory to minimize the Company’s production lead times with third-party suppliers and to improve the Company’s capacity to expedite fulfillment of customer orders. Although the procurement team focuses its efforts to work closely with its suppliers to avoid adverse effects of shortages or delays in delivery of inventories, delays in the future may have an adverse impact on the Company’s operations. For the year ended December 31, 2020, two suppliers accounted for 14% of total consolidated inventory purchases, respectively. For the year ended December 31, 2019, three suppliers accounted for 18%, 14%, and 10%, respectively, of total consolidated inventory purchases.
+ 
+The Company is not party to any long term contracts regarding the deliveries of its supplies and components. It generally purchases such items pursuant to written purchase orders of both the individual and blanket variety. Blanket purchase orders usually cover the purchase of a larger amount of items at fixed prices for delivery and payment on specific dates.
+ 
+For Boonton and Noisecom products, the Company develops, designs, manufactures, assembles, calibrates and tests the products at our facility in Parsippany, New Jersey. Testing of Boonton and Noisecom products is generally accomplished at the end of the manufacturing process and is performed in-house, as are all quality control processes.
+ 
+Approximately 46% of Microlab’s revenues are traced to products that are sourced from offshore vendors. The majority of Microlab products that come from offshore suppliers are subject to tariffs. The impact of tariffs has decreased our consolidated gross profit margin by approximately 1%. The remainder of Microlab products are designed and manufactured by the Company in Parsippany, New Jersey. All Microlab products are tested by the Company in Parsippany, New Jersey.
+ 
+CommAgility hardware products are built by contract manufacturers to CommAgility designs and tested either by the contract manufacturer or by CommAgility. Software products are licensed to customers through a system that allows the customer to download the software once access has been granted.
+ 
+Holzworth products are designed, developed, assembled and tested in our facility in Boulder, Colorado.
+ 
+
+6
+-
+
+Warranty and Service
+ 
+The Company typically provides one to three year warranties on all of its products covering both parts and labor. The Company, at its option, repairs or replaces products that are defective during the warranty period if the proper preventive maintenance procedures have been followed by its customers.
+ 
+In cases of defective products the customer typically returns them to the Company’s facility. The Company’s service personnel typically repair the defective items and ship them back to the customer. Generally, all servicing is done at the Company’s facility, and the Company charges its customers a fee for those service items that are not covered by warranty. If the defective product cannot be repaired, the Company typically replaces the product free of charge but unrepairable products are an infrequent occurrence.
+ 
+Product Liability Coverage
+ 
+The testing of electronic communications equipment and the accurate transmission of information entail a risk of product liability to the Company. Product liability claims could be asserted against the Company by end-users of any of the Company’s products. The Company maintains product liability insurance coverage. No claims have been asserted for product liability due to a defective or malfunctioning device in the past five years.
+Intellectual Property
+ 
+We believe that our intellectual property, including its methodologies, is critical to our success and competitive position. We rely on a combination of U.S. and foreign patents, copyrights, trademarks and trade secrets, as well as confidentiality agreements to establish and protect our proprietary rights. All employees are subject to the Company’s policies to ensure that all of the Company’s intellectual property and business information are maintained in confidence. Key employees have signed non-disclosure and non-competition agreements.
+Regulation
+ 
+Environmental
+ 
+The Company’s operations are subject to various federal, state and local environmental laws, ordinances and regulations that limit discharges into the environment, establish standards for the handling, generation, use, emission, release, discharge, treatment, storage and disposal of, or exposure to, hazardous materials, substances and waste, and require cleanup of contaminated soil and groundwater.
+ 
+At this time, the Company believes that it is in material compliance with all environmental laws, does not anticipate any material expenditure to meet current or pending environmental requirements, and generally believes that its processes and products do not present any unusual environmental concerns. The Company is unaware of any existing, pending or threatened contingent environmental liability that may have a material adverse effect on its ongoing business operations.
+ 
+Workplace Safety
+ 
+The Company’s operations are also governed by laws and regulations relating to workplace safety and worker health. The Company believes it is in material compliance with these laws and regulations and does not believe that future compliance with such laws and regulations will have a material adverse effect on its results of operations or financial condition. As described in the Recent Developments section of Item 7 the Company has implemented additional safety measures for staff working in our facilities as a result of the COVID-19 pandemic (also see Pandemic Risks risk factor).
+ 
+ITAR and Export Controls
+ 
+Certain of the Company’s products may be subject to International Traffic in Arms Regulation, or ITAR. ITAR requires export licenses from the U.S. Department of State for products shipped outside the U.S. that have military or strategic applications. Because some of the Company’s products could have military or strategic applications, it must ensure its compliance with ITAR.
+ 
+In addition, the Company is subject to the Export Administration Regulations, or EAR, which regulates the export of certain “dual use” items and technologies and, in some instances, requires a license from the U.S. Department of Commerce in connection with sales of the Company’s products.
+ 
+The Company believes it is in material compliance with all such export regulations.
+ 
+
+7
+-
+
+FAR and DFARS
+ 
+Certain of the Company’s contracts with the U.S. Government are subject to Federal Acquisition Regulations (“FAR”) regarding government procurement. Further, certain of the Company’s contracts are subject to the IT security requirements of Defense Federal Acquisition Regulation Supplement (“DFARS”) for controlled unclassified information.
+ 
+The Company believes it is in material compliance with applicable requirements of FAR and DFARS.
+ 
+Employees
+ 
+As of March 1, 2021, the Company has 150 full time employees. The Company is not subject to collective bargaining agreements in the United States or internationally and considers its relationship with its employees to be good.
+Investor Information
+ 
+The Company is subject to the disclosure requirements of the Securities Exchange Act of 1934, as amended (“Exchange Act”). Therefore, the Company files periodic reports, proxy statements and other information with the Securities and Exchange Commission (“SEC”). The SEC maintains an Internet site (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers that file electronically.
+ 
+You can access financial and other information, including copies of our recent SEC filings, at the Company’s Investor Relations page on its website. The address of the website is www.wirelesstelecomgroup.com. The Company makes available, free of charge, copies of its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the SEC.
+ 
