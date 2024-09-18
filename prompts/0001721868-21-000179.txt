@@ -1,0 +1,310 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS.
+----------------------------------+----------
+
+Background
+ 
+ALR TECHNOLOGIES INC. (the “Company” or “ALRT”) was incorporated under the laws of the State of Nevada on March 24, 1987 as Mo Betta Corp. In April 1998, the Company changed its business purpose to marketing a pharmaceutical compliance device.
+ 
+In December 1998, the common shares of the Company began trading on the Bulletin Board operated by the National Association of Securities Dealers Inc. under the symbol “MBET.” On December 28, 1998, the Company changed its name from Mo Betta Corp. to ALR Technologies Inc. Subsequently the symbol was changed to “ALRT.”
+ 
+In 2011, the Company located its headquarters at 7400 Beaufont Springs Drive, Suite 300, Richmond, Virginia, 23225.
+ 
+During 2011, the Company received FDA clearance and achieved HIPAA compliance for its Diabetes Management System. With these key achievements and successful clinical trials completed, the Company began implementing its commercialization strategy which included a pilot program with patients in Kansas in 2014. The Company obtained significant findings from this pilot program which led to the development of its Insulin Dosage Adjustment, for which it received FDA clearance in 2017, and Predictive A1C, for which it has submitted for worldwide patent application under the patent cooperation treaty to the World Intellectual Property Organization. The Company is actively seeking to commence revenue generating activities.
+
+-3-
+---
+
+Products
+ 
+ALRT has developed its Diabetes Solution product by utilizing internet-based technologies to facilitate the health care provider’s ability to monitor their diabetes patients’ health and ensure adherence to health maintenance activities.
+ 
+The ALRT Diabetes Solution is a remote monitoring and care facilitation platform that allows patients to upload the blood glucose data from their meters of a weekly basis. The ALRT System processes and converts each data set to a Predictive A1C value and shares it with the patient’s physician. The System provides the physician with therapy advancement suggestions based on current clinical practice guidelines. Patients receive therapy assessments and adjustments in much shorter cycles, keeping A1Cs at target, mitigating diabetes complications and lowering costs of care.
+ 
+ALRT previously conducted a clinical trial utilizing manual blood glucose data analysis and follow-up care. The trial demonstrated that remote diabetes care is associated with significant lowering of A1C levels. The study concluded that continuing intervention using an internet-based glucose monitoring system is an effective way of improving glucose control compared to conventional care. A second clinical trial demonstrated that this type of Internet-based Blood Glucose Monitoring System (IBGMS) was associated with comparable reductions in A1C levels with that of more expensive Continuing Glucose Monitoring Systems (CGMS). The Company is planning further trials to demonstrate the added value of the predictive A1C and therapy advancement features of the ALRT System.
+ 
+In the future, the Company may seek to adapt its Diabetes Solution to be used in the management of other chronic diseases. The Company may be required to obtain additional clearance from the FDA prior to commencing selling activities in the United States for other chronic health conditions.
+ 
+Diabetes is a leading cause of death, serious illness and disability across North America. By the year 2030, it is expected that 1 in 10 adults, globally, will have diabetes (diagnosed and undiagnosed instances). We believe diabetes is a global pandemic.
+ 
+Data from the American Diabetes Association shows 30 million Americans have diabetes and 84 million have prediabetes. That’s 1 in 3 Americans coping with the disease or serious threat of it. The total cost of diagnosed diabetes is staggering at $327 billion annually ($237 billion in direct medical costs and $90 billion in reduced productivity), putting serious drag on an already strained health care system. Taking a broader view, the global cost of diabetes was estimated at a whopping $825 billion annually in 2016.
+ 
+Diabetes is a lifelong chronic disease with no cure. However, people with diabetes can take steps to control their disease and reduce the risk of developing the associated serious complications, thereby controlling health care costs. The Canadian Diabetes Association Clinical Practice Guidelines Expert Committee reports that, “Successful diabetes care depends on the daily commitment of persons with diabetes mellitus to self-manage through the balance of lifestyle and medication. Diabetes care should be organized around a multi- and interdisciplinary diabetes health care team that can establish and sustain a communication network between the person with diabetes and the necessary health care and community systems”. Diabetes incidence rates, economic costs and human costs are increasing even though we know how to control the disease. The Diabetes Control and Complication Trial conducted from 1983 to 1993 outlined management as follows:
+ 
+
+· | Testing blood glucose levels four or more times per day; 
+--+--------------------------------------------------------------------------------------------------
+
+
+· | Injecting insulin at least three times a day or using an insulin pump; 
+--+----------------------------------------------------------------------------------------------------------------
+
+
+· | Adjust insulin dose according to food intake and exercise; 
+--+----------------------------------------------------------------------------------------------------
+
+
+· | Following a diet and exercise plan; and 
+--+---------------------------------------------------------------------------------
+
+
+· | Monthly visits to health care team. 
+--+-----------------------------------------------------------------------------
+
+
+-4-
+---
+
+ 
+We believe there are five causes for diabetes to not be controlled:
+ 
+1. | Patient non-adherence; 
+---+----------------------------------------------------------------
+
+
+2. | Unreliable data; 
+---+----------------------------------------------------------
+
+
+3. | Data overload; 
+---+--------------------------------------------------------
+
+
+4. | Clinical inertia; and 
+---+---------------------------------------------------------------
+
+
+5. | Insulin under prescription. 
+---+---------------------------------------------------------------------
+
+ 
+As noted in Patrick Connole, “UnitedHealth care, Other Large Insurers Seek Better Adherence to Diabetes Care”, Health Plan Week, February 11, 2013 Volume 23 Issue 5, 80% of United States patients with diabetes do not follow their prescribed care plan. Central to conventional diabetes care is patient self-management.
+ 
+Unreliable Data
+ 
+As noted in Gonder-Frederick, L.A., et al, “Self-Measurement of Blood Glucose: Accuracy of Self-Reporting Data and Adherence to Recommended Regimen” Diabetes Care, Volume 11, no. 7, July 1988, 77% of patient data contain errors.
+Data Overload
+ 
+Health care professionals (the “HCPs”) face a lack of timely and reliable blood glucose data, resulting in delays to advance therapy and sub-optimal insulin dosing. The amount of patient data for clinicians to analyze is too vast and significant during 15-minute clinical appointments and the information they have is unreliable.
+Clinical Inertia 
+ 
+As noted in Khunti, K., et al, “Clinical Inertia in People with Type 2 Diabetes: A Retrospective Cohort Study of More than 80,000 People.” Diabetes Care, Volume 36, no. 11, July 2013, across over 80,000 patients, when A1C goals were not met, therapy intensification was late across every measure. It took on average 19 months to escalate patients with an average A1C of 8.7% from single medication to dual therapy and 82 months to escalate patients with an average A1C of 8.8% from dual medication to triple therapy. Furthermore, they found that it took approximately 20 years to advance patients with an average A1C of over 9% to insulin. At the end of the study, less than 50% of the patients had their treatment intensified.
+ 
+Furthermore, in Treatment intensification for patients with type 2 diabetes and poor glycaemic control by Fu and Sheenan, it was noted that out of 11,525 patients investigated with an A1C greater than 8% patients received intensification as follows:
+ ·         37% within 6 months; 
+ ·         11% within 6-12 months; and
+ ·         52% never.
+ 
+Failure to respond to higher than targeted A1C with treatment intensification puts patients with escalated A1C at risk for complications and diabetes-associated co-morbidities.
+ 
+Insulin Under Prescription 
+ 
+Insulin dosing is complex requiring review of large amounts of data, which takes significant amounts of time. We believe HCPs routinely under prescribe insulin to ensure they avoid insulin dosage adjustments, which could result in hypoglycemia for their patients.
+
+-5-
+---
+
+Cleveland Clinic Study 
+ 
+A team at Cleveland Clinic examined historical electronic medical record data of more than 7,300 patients with type 2 diabetes and concluded that there is a pervasiveness of clinical inertia for the management of type 2 diabetes in real-world clinical practice settings.
+ 
+The selected patients had an A1C value of ≥ 7% on a stable regimen of two oral anti-diabetic agents for at least 6 months (from 2005 to 2016). The median time to treatment intensification after A1C was above target was longer than one year. For patients with an A1C of ≥ 9%, therapy was not intensified in 44% of patients.
+ 
+According to lead study author Dr. Kevin Pantalone of Cleveland Clinic’s Endocrinology & Metabolism Institute, “Short of a patient reporting non-adherence to their existing regimen of diabetes therapies, it is hard to imagine a reason why treatment intensification was not observed more frequently, when indicated, particularly in patients with an A1C ≥ 9%. In general, if intensification does not occur, the A1C can be expected to stay the same or get worse, it is not magically going to get better”. (emphasis added)
+ 
+ALRT Diabetes System for Diabetes Monitoring
+ 
+ALR has created the Diabetes Solution to address the diabetes marketplace globally. The Company’s Diabetes Solution consists of hardware, software and diabetes test supplies. We designed the Diabetes Solution to be focused on the HCP and is agnostic and proactive. Our software operates on iOS, Android, Windows and MacOS systems. Enrollment into the ALRT Diabetes Solution will include a branded glucose meter, diabetes test strips, lancets and a carrying case. Our technology collects all the blood glucose data from the glucose meters, uploads it to a secure account and ships diabetes test strips as required. The patient data is aggregated to a Predictive A1C value for a comprehensive view of the treatment plan and patient adherence to the plan, with the data available (and messaged) to authorized people.
+ 
+The ALRT Diabetes Management Solution addresses the five causes for not controlling diabetes with:
+ ·         Active patient monitoring;
+ ·         Direct meter uploads;
+ ·         Machine intelligent data processing;
+ ·         Predictive A1C; and
+ ·         Insulin dosage adjustment.
+ 
+Active Patient Monitoring
+ 
+Industry data indicates that 50% or more of people on medications do not take them as prescribed, and that this non-compliance contributes to 10% of hospitalizations and billions of dollars spent annually in excessive and preventable health care costs. Reminding a person to take an action is the first step in our system; monitoring their actions and their data is the second, and intervention when needed is the important follow-up.
+ 
+The ALRT system monitors patient uploads and the underlying data providing more timely access to patient blood glucose data. Our system initiates interventions by notifying the HCP of out-of-range results, or failure to upload data in accordance with the requirements of the care plan. The ALRT system does not rely upon the patient for uploading data. The ALRT Diabetes Solution provides the notifications and audit trail needed for achieving best practice results. Its performance tracking allows care teams to identify areas in treatment plans that require change of improvement.
+ 
+Direct Meter Uploads
+ 
+Data is uploaded via Bluetooth directly from the glucometer into the ALRT application. This ensures that the data is accurate and reliable based on the results of testing.
+
+-6-
+---
+
+Machine Intelligent Data Processing
+ 
+Our machine intelligence processes large amounts of data, notifies relevant stakeholders and flags patients for review making collaboration real time. Across segments and populations, this also provides significant data points on use of diabetes test strips and insulin, which may be significant for businesses in those industries.
+Predicative A1C
+ 
+Predictive A1C is a patent-pending unique feature for monitoring the effectiveness of care plans. This technology utilizes data diagnostics to compare targeted A1C with indicated results. Weekly patient blood glucose data is evaluated, and HCPs are notified as needed for care plan review when blood glucose values exceed parameters set by the HCPs. Our platform provides HCPs with patient prioritization reports and alerts based on the Predictive A1C measures and other related diagnostics. Predictive A1C was designed to assist HCPs in addressing clinical inertia in diabetes care.
+Insulin Dose Adjustment
+ 
+Insulin Dose Adjustment is an FDA-cleared feature that makes optimal insulin adjustment suggestions to HCPs based on dosing guidelines from organizations like American Diabetes Association. This ensures that HCPs are making timely insulin dosage assessments based on the blood testing results uploaded. ALRT’s next phase of technology advancement will produce an algorithm for advancing non-insulin diabetes therapies according to clinical practice guidelines.
+Background
+ 
+In August 2010, the Company received the results of a clinical trial conducted by Dr. Hugh Tildesley using the ALRT Health-e-Connect System. The trial showed A1C dropping from 8.8% to 7.6% for the Intervention Group using ALRT’s Health-e-Connect System as part of a diabetes management program. The A1C test is important in diabetes treatment management as a long-term measure of control over blood glucose for diabetes patients. According to the Center for Disease Control and Prevention, “In general, every percentage drop in A1C blood test results (e.g., from 8% to 7%), can reduce the risk of microvascular complications (eye, kidney and nerve diseases) by 40%”. The trial served as the basis for an article titled Effect of Internet Therapeutic Intervention on A1C Levels in Patients with Type 2 Diabetes Treated with Insulin, which was published in the August 2010 Diabetes Care publication.
+ 
+In July 2011, the follow-up results of the Dr. Tildesley clinical trial were published in the Canadian Journal of Diabetes. Dr. Tildesley conducted a 12-month study using Health-e-Connect System as an Internet Based Blood Glucose Monitoring System (IBGMS) to provide intensive blood glucose control to determine the effects of internet-based blood glucose monitoring on A1C levels in patients with type 2 diabetes treated with insulin. Dr Tildesley concluded that, “While IBGMS intervention was not a substitute for the patient–physician interaction in a clinical setting, it significantly improved A1C and, over time, we observed better glycemic control and patient satisfaction”.
+ 
+In October 2011, the Company received 510(k) clearance from the U.S. Food and Drug Administration (FDA) for its Diabetes Management System (then known as the Health-e-Connect System) for remote monitoring of patients in support of effective diabetes management programs. The 510(k) clearance enables the Company to commence with the United States marketing and sales launch of its Health-e-Connect System.
+ 
+In September 2014, the Company initiated its pilot program with one of the Kansas City Metropolitan Physician Association clinics to deploy its Diabetes Management System. Data from the KCMPA pilot program indicated that a number of patients had achieved reductions in their A1C levels. Furthermore, the data indicated that patients that left the pilot program had increases in A1C subsequent.
+ 
+
+-7-
+---
+
+ 
+On February 18, 2015, the Company filed a 510(k) application with the FDA to add a remote insulin dosing recommendation feature to the Company’s Diabetes Management System. The Company utilized the publicly available algorithm of the AACE and ADA. This feature allows the Company to regularly run a patient’s blood glucose data (and other key data) through the AACE and ADA algorithm. When the algorithm indicated that the patient’s dose may not be optimal, the Diabetes Management System would provide the health care provider that a dose change may be warranted and what the change would be based on AACE and ADA guidelines. The decision about the dose change would rest entirely with the health care provider. However, this new feature may make a significant contribution to improving the outcomes of diabetes patients if it allowed HCPs to keep their patients at the optimal dose for longer periods. On September 18, 2017, the Company received clearance from the FDA for its Insulin Dosage Adjustment feature within the Company’s Diabetes Management System.
+ 
+On June 20, 2017, the Company’s Chief Executive Officer filed a worldwide patent application under the Patent Cooperation Treaty to the World Intellectual Property Office for Predictive A1C feature. The Company holds the rights to use the Predictive A1C feature. During the 2019 year, the Company and the Chairman have entered into the National Phase for the applications by applying to target member countries.
+ 
+During 2019, the Company added automated patient management to the Diabetes Management Solution. The Company is also seeking to have a private label glucometer, diabetes test strips, lancets and carrying cases produced as part of the Diabetes Management Solution. The Company is in talks with a manufacturer that has global operations.
+ 
+During 2019, the Company initiated support for continuous glucose monitoring (“CGM”) systems with the ALRT Diabetes Management Solution. CGM has become the standard of care for patients with type 1 diabetes and is quickly gaining favor with type 2 diabetes patients who use insulin.
+ 
+Reimbursement for Health Professionals
+ 
+The Company continues to work to obtain confirmation that the Diabetes Management System will allow for services to be provided by physicians that will be reimbursed by health insurance companies. The reimbursement will be a breakthrough, as physicians will be paid to provide these important new services to their patients with chronic conditions.
+Business Development and Marketing Strategy
+ 
+The Company is focusing its efforts on introducing and marketing its Diabetes Management Solution for medical clinics, hospitals and HCPs to provide direct care to patients and be reimbursed by the patients’ health benefit plans, as well as to employers due to the significant return on investment they can achieve by keeping employees/plan members healthy.
+ 
+The Company is first targeting customers located in the United States because of the large market potential but will also seek to obtain regulatory clearance and establish selling operations/agreements for sales and distribution in Canada, Europe, Australia, Singapore, and selected countries in Asia and South America.
+ 
+Other Products
+ 
+The Company does not have any other products outside of the Diabetes Management Solution.
+ 
+Manufacturers
+ 
+The Company does not have any designated manufacturers at this time. The Company is in discussions with an international manufacturer of glucometers, diabetes test supplies and lancets for ALRT branded offerings.
+
+-8-
+---
+
+Selling Activities
+ 
+The Company is actively seeking alliances with health care organizations, pharmaceutical companies, insulin providers and other health care companies that can act as catalysts to effect positive change for containing health care costs and improving health outcomes. We will work with these types of organizations to introduce the ALRT Diabetes Management System to their network and seek to start significant pilot projects that will lead to revenue-generating arrangements.
+Patents and Trademarks
+ 
+
+· | US Patent D446, 740 received on August 21, 2001 for Ornamental design of a Medication Alert Device in the shape of a heart. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | US Patent D446,739 received on August 21, 2001 for Ornamental Design of a Medication Alert Device in the shape of a dog bone. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | US Patent D447,074 received on August 28, 2001 for Ornamental Design of a Medication Alert Device in the shape of a stylized paw. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | US Patent 6,934,220 received on August 23, 2005 entitled Portable Programmable Medical Alert Device. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+· | US Patent 7,607,431 issued October 27, 2009 for patient compliance and remote monitoring of patient’s use of nebulizer compressors. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Company has the following patent applications pending:
+ 
+· | Provisional Patent Application serial number 61/271,852 filed on July 27, 2009. Title is Patient Care Coordination System Including Home Use of Medical Apparatus. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+The Company’s Chairman and Chief Executive Officer has the following patent applications under the PCT:
+ 
+· | PCT/CA2017/050753 dated June 27, 2017. Title is “method and system for monitoring a diabetes treatment plan”. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+This patent application has been submitted to Canada, the United States of America, Europe, Singapore and Australia. The Company holds an exclusive license to the patent applications.
+ 
+Competition
+ 
+The Company competes with other corporations that produce diabetes compliance devices, monitoring systems and wellness applications, many of whom have greater financial, marketing and other resources than we do. A few companies currently offer compliance monitoring systems, but either a) at much higher prices, b) have fewer benefits than our system, or c) they do not have FDA clearance. The Company’s competition includes, but is not limited to, Livongo, Glooko, WellDoc, Medtronics, iGlucose and Microsoft HealthVault.
+ 
+We feel none of these companies currently offer a comprehensive compliance system that offers the full spectrum of benefits and features that our Diabetes Management System does with the potential cost efficiencies. We believe that while some of the competitors address the issues of unreliable data and patient non-adherence, none of the competition address data overload, clinical inertia or insulin under prescription from our perspective.
+ 
+Employees and Independent Contractors
+ 
+The Company has one employee, 18 personnel under independent contractor and consulting arrangements and 3 contract sales agents. The consultants of the Company have contracts that outline their roles and responsibilities as independent contractor, as well as outline the confidentiality requirements for all matters pertaining to the Company.
+
+-9-
+---
+
+Recent Developments 
+ 
+On February 11, 2020, the Company entered into an agreement with Singapore General Hospital to jointly undertake a novel remote diabetes management pilot to prove the efficacy of the ALRT Diabetes Solution in insulin-treated diabetes patients.
+ 
+On February 14, 2020, the Company entered into a debt settlement agreement with an unrelated party whereby the parties agreed to settle the amount of $80,000, consisting of $60,000 accounts payable and $20,000 for the provision of services under a Services Agreement dated January 1, 2020, with the issuance of 2,000,000 restricted shares of common stock of the Company.
+ 
+On April 1, 2020, the Company granted one consultant the option to acquire 10,000,000 shares of common stock at a price of $0.035 per share for a term of five years.
+ 
+On May 12, 2020, the Company amended the option to acquire 40,000,000 shares of common stock granted on June 12, 2019 to extend the period of vesting from May 31, 2020 to December 31, 2020. None of these options have vested to date.
+ 
+On May 18, 2020, the Company granted one consultant the option to acquire 500,000 shares of common stock of the Company at a price of $0.035 per share until May 17, 2024.
+ 
+On May 20, 2020, the Company signed agreements with clinics of Centrus Health Kansas City to conduct a clinical pilot with four Centrus Health primary care clinics. The pilot is intended to demonstrate the clinical usefulness of the ALRT Diabetes Solution in improving diabetes patient outcomes while reducing the cost of care.
+ 
+On June 1, 2020, the Company granted one consultant the option to acquire 10,000,000 shares of common stock of the Company at a price of $0.035 per share until May 31, 2025 subject to the consultant contributing to the successful launch of the ALRT Diabetes Solution in Canada, including the enrolment of at least 20,000 patients.
+ 
+On June 5, 2020, the Company granted one sales agent the option to acquire 10,000,000 shares of common stock of the Company at a price of $0.035 per share until May 31, 2025 subject to the agent enrolling 20,000 patients into the ALRT Diabetes Solution by May 31, 2021.
+ 
+On June 30, 2020, the Company entered into an agreement with Bionime Corporation (“Bionime”) to market and sell the ALRT Diabetes Solution to diabetes patients of private physicians in Singapore. ALRT offers a comprehensive approach to diabetes and includes Bionime’s Rightest GM700SB blood glucose meter and test strips. Bionime's marketing team will call on the private physician practices in Singapore and the larger private practice groups. The doctors will provide an enrollment package that contains a Bionime blood glucose meter and all testing supplies. Refills of testing supplies will be picked up by patients at their doctor’s office on a quarterly basis. Patients will be instructed to download the free ALRT App for mobile phones or tablets, compatible with Android and iOS devices, and use Bluetooth to upload their blood glucose readings from their meters once per week. The cost of the ALRT Diabetes Solution offering will be less than the cost of test supplies available in pharmacy chains.
+ 
+On August 24, 2020, the Company issued 242,800 restricted shares of common stock at a price of $0.05 per share for proceeds of $12,140.
+ 
+On August 26, 2020, the Company entered into a Memorandum of Understanding with Diabetes Singapore, establishing the collaboration between to the two parties to raise the diabetes management standard in Singapore. The collaboration intends to develop a diabetes management program for current and prospective members of Diabetes Singapore. The parties held a launch event in October 2020 and are working towards a definitive agreement.
+ 
+
+-10-
+----
+
+ 
+On September 1, 2020, the Company granted 13 individuals the option to acquire an aggregate 74,500,000 options at an exercise price of $0.05 per share; 22,000,000 stock options, which vested at the time of grant, will expire on May 17, 2024 and 52,500,000 stock options, which vest upon achievement of performance conditions, will expire on May 31, 2025. None of the stock options with performance vesting conditions have vested.
+ 
+On September 21, 2020, the Company entered into two shares for debt agreements with the Chairman and his spouse to issue an aggregate 240,000,000 restricted shares of common stock at a price of $0.05 per share for a purchase price of $12,000,000 in exchange for the retirement of $12,000,000 of liabilities. As part of this debt settlement agreements, the Chairman and the Company agreed to cancel the convertible debenture offering announced on September 25, 2017, and as further updated on June 13, 2018, September 20, 2018 and April 18, 2019.
+ 
+On October 12, 2020, the Company granted eight individuals the option to acquire an aggregate of 34,800,000 shares of common stock at an exercise price of $0.05 per share until May 31, 2025; 18,300,000 of the options vested at the time of grant while 16,500,000 of the options will vest upon the achievement of performance conditions.
+ 
+On December 4, 2020, the Company filed a Form S-1 Registration Statement to distribute subscription rights to purchase up to an aggregate 127,522,227 shares of our common stock at a price of $0.05 per share for maximum aggregate offering proceeds of $6,376,111. On January 29, 2021 the Company issued 14,496,635 unrestricted shares of common stock related to proceeds received of $724,832.
+ 
+On January 28, 2021 the Company’s board of directors approved the grant of options to acquire an aggregate of 47,000,000 shares of common stock at an exercise price of $0.05 per share with expiry dates between May 17, 2024 and December 31, 2025. All of the options granted have vesting conditions, of which 12,000,000 are time-based vesting conditions and 35,000,000 are performance based vesting conditions.
+ 
+On February 8, 2021, the Company issued 800,000 shares of common stock for proceeds of $12,000 for the exercise of options at $0.015 per share.
+ 
+On February 22, 2021 the Company granted three individuals the option to acquire an aggregate of 5,000,000 shares of common stock at an exercise price of $0.05 per share until May 17, 2024. All of the options granted will not vest until immediately before expiry.
+ 
+
+-11-
+----
+
+Additional Financing
+ 
+Convertible Debenture Financing
+ 
+On September 25, 2017, the Company announced that it had authorized a private placement up to $5 million for the issuance of convertible debentures that are convertible into shares of common stock of the Company at a price of $0.05 per share (the “Note”).
+ 
+On June 13, 2018, the Chairman and Chief Executive Officer of the Company accepted a proposal from the Board of Directors of the Company to purchase the $5,000,000 convertible debenture financing (the “Financing”). The Note will be convertible for a period of 5 years, will bear interest at a rate of 8 percent per annum and will be repayable in four equal semi-annual instalments commencing 42 months after its issuance until maturity. The Note will be transferable or saleable by the Chairman or other holder thereof, in whole or in part, at any time without notice to the Company.
+ 
+On September 20, 2018, the parties agreed to increase the proposed Financing from $5,000,000 to $7,000,000. On October 25, 2018, the parties agreed to increase the proposed Financing from $7,000,000 to $8,500,000 (the “Amended Financing”). On April 18, 2019, the parties agreed to increase the proposed financing from $8,500,000 to $22,000,000. The Company had reserved up to 500,000,000 shares of common stock with respect to the possible exercise of the Note.
+ 
+The convertible debenture financing was never formalized and cancelled by mutual agreement by the Company and the Chairman concurrent with a debt settlement agreement undertaken on September 21, 2020.
+ 
+Line of Credit Financing 
+ 
+On December 11, 2019, the Company and the Chairman entered into an amendment agreement to increase the borrowing limit on the line of credit provided by the Chairman to the Company from $8,500,000 to $10,300,000. The terms of amounts to be advanced under the amendment are consistent with the line of credit.
+Rights Offering 
+ 
+On December 4, 2020, the Company filed a Form S-1 Registration Statement to distribute subscription rights to purchase up to an aggregate 127,522,227 shares of our common stock at a price of $0.05 per share. On January 28, 2021 the Company issued 14,496,635 unrestricted shares of common stock related to proceeds received of $724,832.
