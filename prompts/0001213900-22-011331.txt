@@ -1,0 +1,1938 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ Item 1. Business
+
+
+
+COMPANY OVERVIEW
+
+
+
+FREYR Battery was incorporated as a public limited liability company (“société anonyme”) under the laws of the Grand Duchy of Luxembourg on January 20, 2021. Pursuant to the business combination agreement (the “BCA”) entered into to effect a merger between Alussa Energy Acquisition Corp., a Cayman Islands exempted company (“Alussa”) and FREYR AS, a private limited liability company organized under the laws of Norway (“FREYR Legacy”) (the “Business Combination”), the Company was formed to complete the Business Combination and related transactions and carry on the business of FREYR Legacy. FREYR serves as the successor entity to FREYR Legacy, the predecessor entity.
+
+
+
+FREYR’s mission and vision are to accelerate the decarbonization of the transportation sector and energy systems by delivering some of the world’s cleanest and most cost-effective batteries. FREYR aims to produce some of the most cost-competitive batteries with the lowest carbon footprints, which could further support the acceleration of the energy transition. FREYR is currently working to develop an application of its in-licensed technology and planning the building of battery factories in Mo i Rana, Norway. Following the investment decision of the Customer Qualification Plant (“CQP”), construction work is on-going in Mo i Rana, Norway. The CQP production line will be based on our in-licensed technology from 24M. As of December 31, 2021, FREYR has not derived revenue from its principal business activities. FREYR will initially target energy storage systems (“ESS”), marine applications, commercial vehicles and electric vehicles (“EV”) with slower charge requirements, and then plans to target additional markets, including consumer EVs, through both licensing and joint venture models. FREYR plans to produce faster charge battery cells for the broader consumer EV segment through the 24M platforms, as well as through the joint venture business model and potentially additional licensing partnerships.
+
+
+
+On July 9, 2021, FREYR consummated the Business Combination with FREYR Legacy and Alussa pursuant to the terms of the BCA dated January 29, 2021, by and between the Company, FREYR Legacy, Alussa, Alussa Energy Sponsor LLC (the “Sponsor”), ATS AS (“Shareholder Representative”), Norway Sub 1 AS, a private limited liability company organized under the laws of Norway (“Norway Merger Sub 1”), Norway Sub 2 AS, a private limited liability company organized under the laws of Norway (“Norway Merger Sub 2”), Adama Charlie Sub, a Cayman Islands exempted company (“Cayman Merger Sub”) and the shareholders of FREYR Legacy named therein (the “Major Shareholders”).
+
+
+
+Pursuant to the terms of the BCA, among other things (a) FREYR Legacy’s wind farm business was transferred to Sjonfjellet Vindpark Holding AS (“SVPH”), a private limited liability company incorporated by way of a Norwegian demerger (the “Norway Demerger”), resulting in such business becoming held by FREYR Legacy’s shareholders through SVPH, (b) Alussa merged with and into Cayman Merger Sub, with Alussa continuing as the surviving entity and a wholly owned subsidiary of FREYR (the “Cayman Merger” and the “First Closing”), (c) following the First Closing, Alussa distributed all of its interests in Norway Merger Sub 1 to FREYR, (d) FREYR Legacy merged with and into Norway Merger Sub 2, with Norway Sub 2 continuing as the surviving entity (the “Norway Merger”), (e) FREYR acquired all preferred shares of Norway Merger Sub 1 (which were issued in exchange for the FREYR Legacy redeemable preferred shares as a part of the Norway Merger) from certain former holders of FREYR Legacy redeemable preferred shares in exchange for a number of newly issued shares of FREYR and (f) Norway Merger Sub 1 merged with and into FREYR, with FREYR continuing as the surviving entity (the “Cross-Border Merger”) (the events in (d), (e) and (f), the “Second Closing”). In connection with the consummation of the transactions contemplated by the BCA, FREYR Legacy and Alussa became wholly owned subsidiaries of FREYR. Following the First Closing on July 7, 2021, the Company’s Ordinary Shares and Warrants began trading on the New York Stock Exchange.
+
+
+
+
+
+1
+
+
+
+
+
+
+
+FREYR Investment Highlights
+
+
+
+Clean and Low-Cost Battery Cells
+
+
+
+
+● | FREYR is targeting its carbon emissions to be approximately 15 kg CO2e/kWh of life cycle emissions, more than 80% lower than the current global battery industry average of approximately 80 kg CO2e/kWh. 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | FREYR is targeting a total cost that is substantially lower than the global battery industry’s projected average cost in 2025. This cost leadership is intended to be achieved by: 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Implementing our in-licensing based technology strategy at large industrial giga-scale based on what is, in our opinion, the best available technology, which lowers footprint and costs; 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Low-carbon energy, favorable logistics and a highly skilled workforce for efficient production; 
+--+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Leveraging a deep partnership model to unlock value chain innovation and lower internal research and development (“R&D”) costs (see “— Partnerships” for more information); 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Catalyzing a Nordic ecosystem for supply of localized raw materials and inputs that leverages low-cost, low-carbon energy, favorable logistics and a highly skilled workforce for efficient production. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+High Growth Battery Market
+
+
+
+
+● | The global battery market is fast-growing. It is projected to grow from 241 GWh in 2020 to almost 5,300 GWh in 2030, an estimated 97% of FREYR’s target total addressable market. (See “— Markets” for more information.) 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Innovative and Disruptive SemiSolid™ Technology
+
+
+
+
+● | FREYR has entered into a licensing and servicing agreement to use a SemiSolid™ cell design and process technology developed by 24M. This innovative platform reduces the number of production steps in electrode manufacturing from an estimated 15 steps in a conventional factory (including solvent recovery and cleaning steps) to five main steps, which substantially reduces raw material needs, energy and labor costs while reducing manufacturing waste, capital costs and footprint. FREYR expects to be able to apply this process technology to existing and future anode and cathode chemistries for a wide range of product applications. (See “— Licensing Strategy” for more information.) 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Advantaged Margins from a Partnership-Based Business Model
+
+
+
+
+● | FREYR expects to achieve and later maintain industry leading margins due to: 
+--+-------------------------------------------------------------------------------------------------------------------------
+
+
+o | Utilization of state-of-the-art production technology to significantly simplify manufacturing process and reduce raw material and manufacturing costs (see “— Licensing Strategy” for more information) 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | A partnership-based licensing approach that provides FREYR with a faster and lower cost route to market versus an in-house research and development (“R&D”) approach 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | FREYR’s long-term ambition to foster a Norwegian and Nordic ecosystem across all aspects of the battery supply chain, from cathode, anode and other materials to recycling, which is expected to further bolster FREYR’s low-cost and margin advantages as well as its environmental sustainability. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Experienced Execution Team
+
+
+
+
+● | FREYR has a diversified and experienced management team. The team combines strategic partnership and battery expertise, project execution and operational excellence track-record from large scale industry and renewable energy projects, and experience from disruptive technology and battery and electrical automotive industries. The FREYR team has robust global licensing experience with a deep understanding of licensing and partnership best practices. 
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+FREYR Business Model
+
+
+
+FREYR’s initial focus is on production of the battery cell, which represents approximately 32% of battery value chain revenues and is one of the more energy intensive parts of the value chain.
+
+
+
+FREYR’s manufacturing platform will have the capabilities to host many types of battery specifications, as determined by customer demand. FREYR expects to pursue (1) licensing-based partnerships to develop and enhance next-generation technology and (2) partnerships with conventional battery cell technology providers.
+
+
+
+Licensing Strategy
+
+
+
+FREYR executed a license and services agreement with 24M, dated December 15, 2020, as amended (the “24M License”) to use 24M’s SemiSolidTM lithium-ion battery platform technology in FREYR’s planned facilities in Mo i Rana, Norway. Founded in 2010 and headquartered in Cambridge, Massachusetts, 24M has been developing a low-cost battery cell design structure and simplified manufacturing platform for over a decade. 24M’s SemiSolidTM lithium-ion cell architecture and associated production process has reduced the number of steps required to manufacture traditional lithium-ion battery cells, while still using conventional lithium-ion raw materials.
+
+
+
+The 24M License provides FREYR with rights to produce battery cells based on 24M’s current and future technology, subject to the restrictions discussed below. This includes all patents and patent applications owned or controlled by 24M or any of its affiliates as of December 15, 2020, or that 24M or an affiliate develops or acquires ownership or control of at any time during the term of the 24M License that are necessary or useful for, or otherwise related to, the manufacture, assembly, test, operation and service of SemiSolidTM battery cells and SemiSolidTM battery modules.
+
+
+
+The 24M License also provides that 24M will provide services to FREYR, including the technical training of engineers, the provision of information relevant to construct and operate the factory and on-site support. The 24M License continues until the expiration, lapse, cancellation, abandonment or invalidation of the last Valid Claim (as defined in the 24M License) of the licensed patents and patent applications, unless terminated earlier by either party pursuant to the terms of the license. 24M may terminate the 24M License if FREYR fails to achieve a sustained production rate of at least 1 GWh per year by December 31, 2024.
+
+
+
+The 24M License excludes rights to (a) manufacture battery cells within each of Japan and the ASEAN until December 31, 2022 and (b) sell and offer to sell battery cells within each of Japan and the ASEAN until a future date currently estimated for each to be December 31, 2022. Furthermore, the 24M License only provides for limited exclusivity. With the exception of direct grants to any company that produces more than 500,000 cars and/or more than 10,000 trucks or buses annually, 24M will refrain from granting any license to manufacture battery cells within (i) the Scandinavian Region through December 31, 2023 and (ii) the EEA, excluding the Scandinavian Region and the grant of no more than two licenses, inclusive of that granted to FREYR in the 24M License, through December 31, 2023, in either case wherein the battery cells are produced for use, used or sold for grid connected electricity storage system applications that have more than 200 kWh of lithium-ion battery storage capacity, excluding any applications related to automotive charging or discharging.
+
+
+
+Pursuant to the 24M License and a letter agreement dated December 18, 2020, the Company has committed to pay $20.0 million for the rights to the production of battery cells based on 24M’s current and future technology, as well as the provision of services to the Company, including technical training of engineers, the provision of information relevant to construct and operate the factory and on-site support. $0.7 million was paid and expensed in 2020 at the signing of the memorandum of understanding prior to entering into a definitive agreement. The Company determined that the remaining $19.3 million payable would be recognized straight-line over the service period through December 31, 2022, which was extended to December 31, 2023 through the first amendment to the definitive agreement dated January 18, 2021. The Company paid $2.5 million on both January 12, 2021 and July 27, 2021, with final commitment of $14.3 million paid on December 28, 2021. In accordance with the definitive agreement, the Company will also pay an ongoing royalty fee based on sales volumes with minimum annual payments of $3.0 million beginning on the three-year anniversary of the effective date.
+
+
+
+
+
+3
+
+
+
+
+
+
+
+The 24M process incorporates technology that can reduce raw material needs, manufacturing waste, energy consumption, labor requirement and capital costs to enable the production of low-cost, higher energy-density batteries. These will be used in residential and commercial ESS, EVs with slower charge requirements and specialized transportation markets, including commercial vehicles and maritime solutions. FREYR expects to be able to apply this battery cell and production process technology to any commercially available cathode and anode chemistry for a wide range of applications. 24M is also developing faster charge EV solutions for the broader consumer EV segment based on the 24M production platform which could further increase the market penetration and adoption of the technology.
+
+
+
+The advantages of the 24M process technology, as FREYR understands it, includes:
+
+
+
+
+● | Less raw materials are needed for the 24M manufacturing method in factories with comparable capacity (approximately 20% lower bill of materials costs based upon 2020 estimates) 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Battery production process is free of 1-methyl-2-pyrrolidone (“NMP”), an industrial solvent subject to regulation in Europe and a complex and costly recovery process 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Chemistry-agnostic platform features supporting current and next generation anode and cathode chemistries, such as higher silicon content anodes, higher voltage cathodes, dual electrolyte systems and pre-lithiation implementation 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Elimination of several typical process steps — while the conventional battery cell electrode manufacturing process requires several complicated integrated units (including solvent recovery), the 24M process significantly reduces the number of production steps 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Significant reduction of the total manufacturing area compared to the conventional process, mainly due to the elimination of multiple production process steps as described above potentially resulting in substantially lower construction costs and lower depreciation than other battery manufacturers 
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Material reduction of energy consumption compared to conventional process, again due to the fewer production steps above, several of which are energy intensive 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Significant reduction in the use of inactive raw materials, due to thicker electrodes with more active, energy carrying material 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Reduced labor requirements, again due to fewer production steps 
+--+------------------------------------------------------------------------------------------------------------
+
+
+● | Larger cell formats 
+--+----------------------------------------------------------------
+
+
+● | Simplified recycling process, enabling a simpler recycling process relative to conventional battery cells, primarily due to the elimination of the need for a binder in the 24M process 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FREYR’s Planned Production Process Based on 24M’s Platform
+
+
+
+With 24M’s technology, it is possible to develop different sizes, formats, and chemistries to meet customer requirements, supporting the penetration of a larger total addressable market for FREYR’s products.
+
+
+
+Licensing 24M’s chemistry-flexible process technology could allow FREYR to shorten the time to market and maintain flexibility to provide production capacity for a range of customers with varied needs and chemistry preferences. The 24M License will allow FREYR to approach potential customers in the energy storage system (“ESS”) market by providing 24M produced samples in advance of the completion of FREYR’s customer qualification plant. As compared to an in-house R&D approach, licensing gives FREYR a faster and lower cost route to market, access to the latest technologies, and greater ability to adapt to market changes due to more flexibility in selection of partners and technologies.
+
+
+
+
+
+4
+
+
+
+
+
+
+
+While FREYR’s current next-generation technology platform is based on the existing 24M License, FREYR will continue to investigate and validate new, emerging technologies for potential in-licensing opportunities.
+
+
+
+Original Equipment Manufacturer (“OEM”) Partnership Strategy
+
+
+
+FREYR plans to target in-licensing and/or joint venture-based partnerships with top battery cell producers from Asia or elsewhere. FREYR intends to use its partner’s design and process technology blueprint to develop and construct a Gigawatt-scale production facility to produce battery cells to be sold in the European market. Through such potential in-licensing and/or joint venture structure, potential up- and downstream activities could also be provided, which will further support FREYR’s plans to add increased scale to build a clean and sustainable Nordic supply chain.
+
+
+
+FREYR has identified several large suppliers to battery cell production who have ambitions and robust plans to expand their industrial footprint and business in Europe where demand for batteries is growing exponentially. FREYR can provide suppliers to battery cells producers with a scalable, environmentally friendly, European-based solution to increased battery manufacturing requirements.
+
+
+
+FREYR Full-Cycle Sustainability
+
+
+
+FREYR defines full-cycle sustainability as environmentally-friendly, ethical practices across all aspects of the battery supply chain, from sourcing raw materials upstream to manufacturing to recycling. FREYR’s ambition is to achieve full-cycle sustainability by:
+
+
+
+
+● | Upstream:
+--+----------
+
+
+o | Low-carbon, low-impact sourcing raw materials — FREYR is working with some of the leading companies along the supply chain, targeting to build a Nordic ecosystem of industrial partners who are focused on sustainable production and sourcing. Among the key raw materials involved in battery manufacturing, the majority (including but not limited to graphite, LFP, nickel, cobalt, copper and carbon black) can potentially be supplied from Nordic countries as well as from other locations across Europe. In addition to working with suppliers who employ carbon-conscious extraction techniques, a more localized supply chain could also lower carbon emissions by reducing transportation requirements. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Upholding human and labor rights — FREYR is committed to strong standards and policies supporting human and labor rights and plans to factor these matters into our supply chain decision-making. FREYR will seek suppliers that have stated standards and ambitions which are similar to FREYR’s standards prior to adding them to the FREYR supply chain. This aspect of our strategy will be overseen by our board of directors, to be supported by policies and procedures (e.g., our Code of Business Conduct and Ethics and Supplier Code of Conduct) to be put in place under their guidance and supervision. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Manufacturing:
+--+---------------
+
+
+o | Simplifying the manufacturing process — The 24M technology has five main manufacturing process steps for electrode manufacturing, which is a substantial reduction compared to electrode production in conventional battery cell production. The elimination of these process steps through the 24M technology platform reduces material inputs and required energy consumption, lowering overall carbon footprint. In addition, the design of FREYR’s manufacturing facilities will target zero emissions of toxic substances and other waste from the manufacturing process. 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Leveraging available low-carbon, low-cost energy supply — Norway’s focus on climate risk mitigation means that low carbon energy supply is very accessible. FREYR’s manufacturing power source will draw primarily from carbon-free hydropower that is readily available in the region. In addition, the cool, dry climate in Norway helps reduce energy consumption and ready access to cooling water is a key factor in battery cell production. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+o | Reducing scrap rates — FREYR’s ambition is to establish a “zero defect” production system through enhanced engineering, process testing, and simplified production processes. This can significantly reduce materials waste, as well as manufacturing costs. 
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+o | Responsible labor practices — FREYR is committed to strong standards and policies for human and labor rights within our manufacturing facilities. This aspect of our strategy will be overseen by our board of directors. 
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Recyclability:
+--+---------------
+
+
+o | Simplifying the recycling process — the 24M process is both solvent-free and binder-free, which reduces the need for hazardous materials in production, and should significantly increase the recyclability of batteries after their use, because the absence of these components enables mechanical recycling and allows active materials to be re-used directly in the production process without any need for refinement or processing. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Significant Reduction Versus Average Carbon Emissions
+
+
+
+Through its focus on the full-cycle sustainability of its products, FREYR’s target is approximately 15 kg CO2e/kWh of life cycle carbon emissions, more than 80% lower than the current global battery industry average of approximately 80 kg CO2e/kWh.
+Markets
+
+
+
+The global battery market is fast-growing — projected to grow from 241 GWh in 2020 to almost 5,300 GWh in 2030. FREYR believes that its total addressable market will be over 5,100 GWh in 2030.
+
+
+
+FREYR, with 24M technology, is employing an optimized and lower-cost production process and battery technology that is currently best suited for applications that require high energy density over power density. FREYR is therefore initially targeting ESS and commercial vehicle markets — battery markets with the highest projected compound annual growth rate (“CAGR”) from 2018 to 2030, 44% and 41%, respectively. FREYR will also initially target markets for marine applications and EVs with slower charge requirements.
+
+
+
+FREYR will target additional markets, including consumer EVs, through both the joint venture model as well as through the licensing model. FREYR plans to produce faster charge battery cells for the broader consumer EV segment through the 24M platforms as well as through joint ventures and potentially additional licensing partnerships.
+
+
+
+Competition
+
+
+
+FREYR’s competitors include major battery manufacturers currently supplying the markets, automotive OEMs, and potential new entrants, including CATL (China), BYD (China), LG Chem (South Korea), Samsung SDI (South Korea), SK Innovation (South Korea), Panasonic (Japan), and Northvolt (Sweden). Additionally, there are several development-stage companies seeking to improve conventional lithium-ion batteries or to develop new technologies for batteries. These companies are in varying stages of development and commercialization.
+Development Plan
+
+
+
+Customer Qualification Plant — FREYR has made the final investment decision and has started construction of an industrial-scale customer qualification plant in an existing 13,000m2 building in Mo i Rana. Production from the customer qualification plant will be used to provide samples to enable early customer engagement and to test new material suppliers and new solutions over time.
+
+
+
+
+
+6
+
+
+
+
+
+
+
+Fast-Track Gigafactories (1-2) — FREYR is currently considering combining the first two plants to be located in an existing 70,000m2 levelled and compacted plot within the Mo Industripark in Mo i Rana and to build out the capacity based on a combination of LFP and NMC technology. FREYR also expects to primarily target the ESS market with Gigafactories 1-2, or the combined Gigafactory. FREYR has an exclusive right to access and develop the 70,000m2 plot, as described in the section titled “— Partnerships”.
+
+
+
+Fast-Track Gigafactories (3-4) — the second two plants are planned to have a total nominal capacity of 22 GWh per year (based on NMC battery chemistry) and to be located at another 100,000m2 within Mo Industripark adjacent to the customer qualification plant. FREYR currently plans to target the EV market with Gigafactories 3-4.
+
+
+
+In addition to the locations identified for the customer qualification plant and the fast-track gigafactories, FREYR has identified locations with favorable logistics access and power availability, including and up to an additional 1,000,000m2 near Mo Industripark. These locations may in the future be relevant for one or more of the Joint Venture Gigafactories or additional production Gigafactories (5-6), with an aggregated estimate of nominal production capacity of 48 GWh per year (based on a combination of NMC and LFP battery chemistry). FREYR has entered into non-binding memoranda of understanding to explore manufacturing, supply and other business opportunities for alternative sites for Gigafactory production in Finland and Sweden.
+
+
+
+Based on the above production estimates, FREYR is targeting approximately 83 GWh per year (based on a combination of NMC and LFP battery chemistry) of total nominal capacity by 2028.
+
+
+
+As of 2022, FREYR’s Mo i Rana production location has about 6 terrawatt-hours of surplus power that is nearly 100% generated from low carbon sources, including hydropower and wind power. FREYR’s Mo i Rana production location has pre-existing industrial infrastructure, including a deepwater port, nearby railway and road access, and available warehouse capacity which is expected to enable FREYR to have cost advantaged transportation logistics and shorten the development time.
+
+
+
+FREYR’s stage-gated development approach is expected to enable us to quickly qualify products, demonstrate manufacturing processes, and produce sample cells through the customer qualification plant at Megawatt-scale. Subsequent development of additional gigawatt-scaled capacity in close cooperation with equipment and system suppliers is expected to establish FREYR as a world leading Gigawatt-scale battery provider. This manufacturing flexibility is expected to allow FREYR to scale modularly to meet customer demand and thus further enhance its competitive advantages.
+
+
+
+The number of employees at the manufacturing site was 26 at the end of 2021, and FREYR estimates that the number of employees at the manufacturing plants will be approximately as follows: 350 employees at the end of 2022, 1,000 employees at the end of 2024, and 1,500 employees at the end of 2025. These estimates assume that there will be no delays in FID, construction activities or equipment deliveries, travel for employees or other transportation issues due to the COVID-19 pandemic or other unpredictable circumstances.
+
+
+
+Manufacturing Process
+
+
+
+
+In Fast-Track Gigafactories (1-4), FREYR plans to use the five main manufacturing process steps for electrode manufacturing licensed by FREYR pursuant to the 24M License, as further described in “—FREYR Business Model — Licensing Strategy” and “— FREYR Business Model — FREYR’s Planned Production Process Based on 24M Technologies’ Platform”. For later plants, FREYR will implement licensed 24M or other technologies or a joint venture model with existing, well-established battery cell technology owners, primarily targeting the passenger vehicle space. In the joint venture plants, FREYR will use the partner’s technology blueprint to develop and construct a Gigawatt-scale production facility based on the partner’s design and process technology to produce battery cells mainly for the European and U.S. markets. FREYR made the final investment decision to proceed with the construction of its customer qualification plant in early third quarter 2021. On-site construction work is on-going and production equipment is expected delivered on site beginning in the third quarter of 2022.
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+Material Suppliers
+
+
+
+There are many suppliers of materials for battery cell manufacturing, many of which are currently located in Asia. Initially, FREYR will rely on qualified suppliers through 24M’s supply chain while embarking on internal qualification of new material providers which could take between 12 and 24 months.
+
+
+
+Ultimately, FREYR anticipates the migration of its supply chain into the Nordic region. FREYR is currently in discussions with several raw material suppliers to source material supply in the Nordic region. FREYR believes that regional raw material supply will expand its low cost, margin, and sustainability advantages by minimizing the distance supplies must travel and ensuring supply chain consistency. FREYR also expects that material supply from the Nordic region will make it a more attractive trade partner given potential trade policy developments, increased supply chain tracing in Europe and North America, and logistical challenges of global manufacturing highlighted by COVID-19. FREYR is currently in early-stage dialogues with existing global material suppliers to expand into the Nordic region to further leverage low-cost “green” electricity and Norway’s skilled engineering-based labor force from the country’s legacy energy industry.
+
+
+
+Partnerships
+
+
+
+FREYR has had discussions with numerous potential suppliers and partners in fiscal year 2021. The list below describes the status of discussions with some of these potential suppliers and partners. Unless otherwise indicated, FREYR has not entered into binding agreements with these parties.
+31 GWh Inaugural Offtake Agreement with Leading Global ESS Provider
+
+
+
+On December 16, 2021, FREYR announced that it executed its inaugural offtake agreement for at least 31 GWh of low-carbon battery cells with an undisclosed, leading global publicly listed manufacturer and provider of ESS. The two companies have agreed to jointly develop innovative technology solutions for the global ESS market based on battery cells manufactured by FREYR.
+
+
+
+Under the terms and subject to the conditions of the agreement, FREYR is to deliver at least 31 GWh of battery cells from 2023 to 2028 from its Norwegian manufacturing facilities. The anticipated volumes represent close to half the currently estimated production in Gigafactory 1 in Mo i Rana, Norway in the period. FREYR’s total potential revenues from this agreement could equate to approximately $3 billion from 2023 – 2028 based on FREYR’s current price forecasts. The parties will package FREYR’s sustainable, next-generation battery cells using 24M’s design and process platform.
+
+
+
+Teaming Agreement with Honeywell (Including Offtake of 19 GWh of Battery Cells)
+
+
+
+On December 10, 2021, FREYR and Honeywell entered into a teaming agreement pursuant to which Honeywell will purchase 19 GWh of battery cells produced by FREYR from 2023 through 2030 for a multitude of energy storage systems application and FREYR will, subject to viability, leverage Honeywell’s leading technology offerings, including integrated automation, field instrumentation and security integration solutions in their manufacturing process.
+
+
+
+Through the agreement, Honeywell and FREYR intend to provide smart energy storage solutions to address the needs of a wide range of commercial and industrial customers alike. Subject to viability, FREYR will leverage Honeywell’s broad automation and software expertise including automation systems, quality assurance and controls, and industrial software to provide manufacturing capacity at scale in Europe and the U.S.
+
+
+
+The battery cells produced through this project can be utilized by “behind-the-meter” or industrial locations, as well as “front-of-the-meter” locations like large solar and wind renewable power generation sites.
+
+
+
+
+
+8
+
+
+
+
+
+
+
+Supplier Agreement with Glencore International AG (“Glencore”)
+
+
+
+On November 15, 2021, FREYR entered into a contract with Glencore for the supply of up to 1,500 metric tons of high grade, sustainably sourced cobalt metal cut cathodes made from at least 50% recycled cobalt produced at Glencore’s Nikkelverk facility in Norway. The supply contract follows the Letter of Intent between FREYR and Glencore announced on February 9, 2021. Cobalt is a core component in our lithium-ion battery cells. FREYR and Glencore plan on collaborating closely to minimize our carbon footprint and define actions and milestones to meet the common ambition of developing carbon neutral material, including the potential use of carbon offsets schemes. FREYR will also collaborate to develop a scheme to introduce recycling certificates to document the delivery of recycled material as well as on the collection and processing of battery scrap generated during the production of battery material and cells.
+
+
+
+FREYR and Glencore will also explore potential collaboration for battery material and battery scrap recycling and work together to assure responsible sourcing and recycling through third-party audits.
+
+
+
+Joint Venture with Koch Strategic Platforms (“KSP”)
+
+
+
+On October 8, 2021, FREYR formed a joint venture with KSP with a 50%/50% ownership structure. The joint venture has been formed to advance the development of clean battery cell manufacturing in the United States. As part of this agreement, both parties agreed to contribute $3.0 million for the initial costs related to developing the first gigafactory to project concept selection. The joint venture has secured a license from 24M to deploy 24M’s SemiSolidTM platform technology (see Financial Statements - Note 14 for more information). In conjunction, KSP and FREYR has invested $70 million in convertible promissory notes with 24M, under which KSP and FREYR invested $50 million and $20 million, respectively (see Financial Statements - Note 15 for more information).
+
+
+
+
+24M
+
+
+
+FREYR has entered into the binding 24M License to use 24M’s process technology and accelerate FREYR’s time to market. The 24M License excludes rights to manufacture, offer for sale or sell battery cells within Japan and the ASEAN until December 31, 2022. Furthermore, the 24M License provides for limited but relevant exclusivity within certain market segments (see “FREYR Business Model — Licensing Strategy” and “FREYR Business Model — FREYR’s Planned Production Process Based on 24M Technologies’ Platform” for more information).
+
+
+
+Mpac
+
+
+
+On July 23, 2021, FREYR entered into a contract for the provision of a casting and unit cell assembly machine (the “Purchase Agreement”) with Mpac Lambert Limited (“Mpac”). Mpac will supply the casting and unit cell assembly machine for FREYR’s customer qualification plant. This will include the design, engineering, construction and installation of such equipment, as well as training of FREYR personnel.
+
+
+
+FREYR has the option of extending the contract to FREYR’s planned Gigafactories 1, 2 and 3, subject to the terms and conditions of the Purchase Agreement. The contract price is approximately $13.8 million, of which 40% was paid upon signing of the contract; 40% was paid upon the commencement of building the equipment; 5% is payable when factory acceptance testing is completed and the factory acceptance testing checklist is approved by Mpac and FREYR, and 15% is payable when commissioning and site acceptance test are completed and when the site acceptance test checklist is confirmed by the Mpac and FREYR.
+
+
+
+
+FREYR may cancel or suspend the contract upon notice at any time. Following such cancellation, FREYR shall pay the unpaid balance due to Mpac for the part of the work already performed and for materials ordered prior to the cancellation, and certain other costs and expenses. Mpac may terminate the contract with immediate effect if FREYR becomes insolvent or unable to pay debts when due. If FREYR breaches the contract, Mpac is entitled to request an adjustment to the contract schedule or price. The contract contains representations, warranties and indemnities that are customary to commercial agreements of this nature.
+
+
+
+Mo Industripark
+
+
+
+On July 19, 2021, FREYR entered into two lease agreements with Mo Industripark with respect to the area to be used for the customer qualification plant. In addition, FREYR and Mo Industripark AS have signed a letter of intent for a brownfield industrial area available to FREYR for developing sustainable lithium-ion battery cell production facilities in Mo i Rana, Norway, using 100% renewable energy. The letter of intent provides FREYR with an exclusive right to lease and develop a further 70,000m2 brownfield industrial site and a first right of refusal for a third brownfield industrial site area of 100,000m2, all within the Mo Industripark.
+
+
+
+
+
+9
+
+
+
+
+
+
+
+Finnish Minerals Group and the City of Vaasa, Finland
+
+
+
+On May 31, 2021 FREYR entered into two non-binding memoranda of understanding (“MoUs”) with Finnish Minerals Group and the City of Vaasa, Finland for strategic collaborations on the potential development of industrial scale battery cell technology and production in Finland.
+
+
+
+Finnish Minerals Group acts as a holding company in the Finnish mining and chemical industries, provides low-carbon materials to the battery industry and is supportive of establishing local Nordic and European battery technology supply chains. The MoU with Finnish Minerals Group aims to create a potential industrial scaling of battery cell technology including the development of both traditional and next-generation production capacity within Finland. The MoU with the City of Vaasa provides FREYR with the exclusive right to a 90-hectare (900,000m2) site for a potential battery cell plant and states that the parties will explore opportunities for joint site-development to accelerate supply of low-carbon and low-cost batteries in Finland.
+
+
+
+Research & Development and Intellectual Property
+
+
+
+FREYR’s two business models, licensing and joint venture, will both allow it to scale its production by leveraging the intellectual property of its licensing and joint venture partners. FREYR also plans to establish an R&D lab and a test center within its customer qualification plant in order to qualify new suppliers and have full testing capabilities of cells and materials for ongoing quality assurance.
+
+
+
+FREYR is considering expanding R&D capabilities over time to support raw material localization, customer testing, in-house cell design and new technology integration. FREYR also plans to utilize R&D collaboration networks with technology providers and research organizations.
+
+
+
+Employees and Human Capital
+
+
+
+FREYR’s people are vital to its success battery cell industry, and its long-term success depends on its people. FREYR strives to make its employees feel as though they are a top priority. FREYR’s goal is to ensure that it has the right talent, in the right place, at the right time. It does that through its commitment to attracting, developing and retaining its employees.
+
+
+
+FREYR has a diversified and experienced management team. The team combines strategic partnership and battery expertise, execution track-record from large scale industry and renewable energy projects as well as experience from disruptive technology and battery and electrical automotive industries. The FREYR team has relevant global in and out-licensing experience with a deep understanding of licensing best practices.
+
+
+
+As of December 31, 2021, FREYR had 119 employees.
+
+
+
+FREYR strives to attract individuals who are people-focused and share its values. FREYR has competitive programs dedicated to selecting new talent and enhancing the skills of its employees. In its recruiting efforts, it strives to have a diverse group of candidates to consider for its roles. To that end, it has strong relationships with a variety of industry associations that represent diverse professionals and with diversity groups on university and college campuses where it recruits.
+
+
+
+FREYR has designed a compensation structure, including an array of benefit plans and programs, that it believes is attractive to current and prospective employees. FREYR also plans to offer employees the opportunity to participate in a variety of professional and leadership development programs. Its program includes a variety of industry, product, technical, professional, business development and leadership trainings.
+
+
+
+FREYR seeks to retain its employees by using their feedback to create and continually enhance programs that support their needs. FREYR has formal annual goal setting and performance review processes for its employees. It has a values-based culture, an important factor in retaining its employees. FREYR’s training to share and communicate its culture to all employees plays an important part in this process. FREYR is committed to having a diverse workforce, and an inclusive work environment is a natural extension of its culture. FREYR recently renewed its commitment to ensuring that all its employees feel welcomed, valued, respected and heard so that they can fully contribute their unique talents for the benefit of their careers, the Company and its stakeholders.
+
+
+
+
+
+10
+
+
+
+
+
+
+
+FREYR takes a proactive approach to philanthropy and driving meaningful change in the world, holding itself accountable to leading by example. FREYR monitors and evaluates various turnover and attrition metrics throughout its management teams. Its annualized voluntary turnover is forecasted to be relatively low, as is the case for turnover of its top performers, a record which it attributes to its strong values-based culture, commitment to career development and attractive compensation and benefit programs.
+
+
+
+Since FREYR’s workplace technologies can be securely accessed remotely, during the ongoing COVID-19 pandemic, FREYR transitioned to a partly remote workforce. FREYR has prioritized virtual communications, wellness programs and work-life balance adaptation that has increased engagement and supports its trust-first mentality. Recognizing safety as a priority, once safe to return, FREYR’s people will have the opportunity to work at its office locations with a continued hybrid set-up allowing for some remote office days.
+
+
+
+Government Regulation/Compliance
+
+
+
+FREYR intends to comply with and operate in accordance with Norwegian health, safety and environment requirements for projects in Norway, including health and safety regulations for employees and contractors, both in project development, construction and operation of facilities. FREYR will also be subject to specific safety regulations applicable to the business, for instance in relation to handling of high voltage electricity in the production facilities, chemicals and materials handling and explosion hazard. The Norwegian Directorate for Civil Protection (DSB) has, based on information from FREYR, concluded that the company will not be subject to the regulation related to MAPP (Major Accident Prevention Policy).
+
+
+
+There are government regulations pertaining to battery safety, transportation of batteries, factory safety, and disposal of hazardous materials, reuse and recycling, and emissions to land, water and air. The license and sale of our batteries abroad could be subject to export controls in the future, and the draft new EU Battery Regulations introduce additional requirements on documentation on reuse of materials, CO2 footprint, and sourcing of materials, and on single battery traceability and reporting.
+
+
+
+Compliance with these rules and regulations will increase FREYR’s legal and financial compliance costs, make some activities more difficult, time-consuming or costly and increase demand on FREYR’s systems and resources.
+
+
+
+
+Government Grants
+
+
+
+Innovation Norway
+
+
+
+On February 12, 2021, FREYR was awarded a grant of approximately NOK 39 million ($4.6 million based on NOK/USD exchange rate at the time of the transaction) for research, development and innovation in the environmental technology category by Innovation Norway. The grant will be paid out in three installments based on meeting certain milestones in the agreement, in which the last payment milestone is payable after the final project report is approved. The grant is subject to certain conditions and will be earned only upon successful completion of these conditions. Two payments were received in 2021, with the last milestone payment expected during first half of 2022, pending project completion and final project report. As of December 31, 2021, we recognized $1.3 million as deferred income within the consolidated balance sheet. For the year ended December 31, 2021, $2.3 million was recognized as other income within the consolidated statements of operations and comprehensive loss.
+ENOVA
+
+
+
+On March 1, 2021, FREYR was awarded a grant of approximately NOK 142 million ($16.5 million based on NOK/USD exchange rate at the time of the transaction) from the Norwegian Ministry of Climate and Environment through ENOVA SF as part financing for the development and construction of the customer qualification plant in Mo i Rana, Norway. ENOVA is an enterprise owned by the Ministry of Climate and Environment. This grant will be paid as reimbursements of 25% of the costs incurred for the customer qualification plant from December 1, 2020 to December 1, 2024, in responses to requests made by FREYR for such reimbursement, which must be made at a minimum of twice per year. FREYR can begin to make requests for reimbursements when it can document that financing for such customer qualification plant has been secured, meaning that requests can be made following the closing of the Business Combination. ENOVA will withhold 20% of the grant until the customer qualification plant is completed, which in accordance with the terms of the grant must happen before December 1, 2024. The grant is subject to certain conditions and will be earned only upon successful completion of these conditions. As of December 31, 2021, we had not yet satisfied the requirements and thus have not reduced the carrying amount of the pilot plant by any grant amount.
+
+
+
+
+
+
+11
+
+
+
+
+
+
+
+PROPOSED ORGANIZATIONAL STRUCTURE UPDATE
+
+
+
+
+In December 2021, FREYR began contemplating an updated organizational structure, which was subsequently announced to all global employees in January 2022. As the global battery landscape is extremely dynamic, FREYR reviewed and ultimately decided to effect a new organizational model that would allow it to transition from a single-player industry player to a geographically diverse and more competitive company with a focus on establishing scale and expanding its global footprint.
+
+
+
+To address FREYR’s expansion across several regions, including the U.S. and Finland, the Company has decided to modify its organizational structure, commencing in fiscal year 2022, with (i) a small but highly capable and dedicated team globally at the FREYR Battery level to focus on international sales, growth initiatives and strategic mergers and acquisitions opportunities and global coordination and (ii) the addition of country-specific business units in Norway, the U.S. and Finland (with FREYR Battery Norway AS to serve as a service provider for FREYR Battery, FREYR Battery Finland Oy and FREYR Battery US Holding, Inc. for matters related to global human resources and recruitment services, global communication and global ESG and sustainability efforts). FREYR Battery Norway AS will also act as a center of excellence for all FREYR entities, with a focus on material sourcing, technology, project execution and operational excellence workstreams. For further information on FREYR’s subsidiaries, see Exhibit 21.1 (List of Subsidiaries).
+
+
+
+Further developments regarding the updated organizational structure, including the selection of management of the country-specific business units, will be finalized and communicated throughout fiscal year 2022.
+
+
+
+Available Information
+
+
+
+Our website is www.freyrbattery.com. Interested readers can access, free of charge, our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Act, through the SEC website at www.sec.gov and searching with our ticker symbol “FREY.” Such reports are generally available the day they are filed. Upon request, we will furnish interested readers a paper copy of such reports free of charge by contacting Jeffrey Spittel, Vice President, Investor Relations at jeffrey.spittel@freyrbattery.com.
+Item 1. Financial Statements.
+FREYR BATTERY
+
+CONSOLIDATED BALANCE SHEETS
+
+(In Thousands, Except Share Amounts)
+
+
+
+
+ | As of December 31, | 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+---------
+ | 2021 | | | 2020 | 
+Assets | | | | | 
+Current assets | | | | | 
+Cash and cash equivalents | $ | 563,956 | | | $ | 14,749 | 
+Restricted cash | | 1,671 | | | | 196 | 
+Prepaid assets | | 15,882 | | | | 464 | 
+Other current assets | | 1,282 | | | | 442 | 
+Total current assets | | 582,791 | | | | 15,851 | 
+Property and equipment, net | | 21,062 | | | | 80 | 
+Convertible note | | 20,000 | | | | - | 
+Equity method investment | | 2,938 | | | | - | 
+Other long-term assets | | 242 | | | | - | 
+Total assets | $ | 627,033 | | | $ | 15,931 | 
+Liabilities and shareholders’ equity | | | | | | | 
+Current liabilities | | | | | | | 
+Accounts payable | $ | 3,813 | | | $ | 888 | 
+Accrued liabilities | | 15,065 | | | | 1,693 | 
+Accounts payable and accrued liabilities - related party | | 3,316 | | | | 322 | 
+Redeemable preferred shares | | - | | | | 7,574 | 
+Deferred income | | 1,380 | | | | - | 
+Share-based compensation liability | | 2,211 | | | | 460 | 
+Other current liabilities | | 12 | | | | - | 
+Total current liabilities | | 25,797 | | | | 10,937 | 
+Warrant liability | | 49,124 | | | | - | 
+Long-term share-based compensation liability | | 6,627 | | | | 38 | 
+Total liabilities | | 81,548 | | | | 10,975 | 
+Commitments and contingencies (Note 7) | | | | | | | 
+Shareholders’ equity | | | | | | | 
+Ordinary share capital, no par value, 245,000,000 ordinary shares authorized and 116,853,504 ordinary shares issued and outstanding as of December 31, 2021 and 37,452,359 shares authorized, issued and outstanding as of December 31, 2020 | | 116,854 | | | | - | 
+Additional paid-in capital | | 533,418 | | | | 15,183 | 
+Accumulated other comprehensive (loss) income | | (524 | ) | | | 658 | 
+Accumulated deficit | | (104,263 | ) | | | (10,885 | )
+Total shareholders’ equity | | 545,485 | | | | 4,956 | 
+Total liabilities and shareholders’ equity | $ | 627,033 | | | $ | 15,931 | 
+
+
+
+
+See accompanying notes to consolidated financial statements
+
+
+
+
+
+F-3
+
+
+
+
+
+
+
+
+
+FREYR BATTERY
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+(In Thousands, Except Share and per Share Amounts)
+
+
+
+
+ | For the year ended December 31, | 
+-----------------------------------------------------------------+----------------------------------+-----------
+ | 2021 | | | 2020 | 
+Operating expenses: | | | | | 
+General and administrative | $ | 61,635 | | | $ | 7,043 | 
+Research and development | | 13,816 | | | | 1,865 | 
+Depreciation | | 120 | | | | 15 | 
+Equity in losses from investee | | 62 | | | | - | 
+Total operating expenses | | 75,633 | | | | 8,923 | 
+Loss from operations | | (75,633 | ) | | | (8,923 | )
+Other income (expense): | | | | | | | 
+Warrant liability fair value adjustment | | (21,859 | ) | | | (1,670 | )
+Redeemable preferred shares fair value adjustment | | 75 | | | | (70 | )
+Convertible notes fair value adjustment | | - | | | | (201 | )
+Gain on settlement of warrant liability | | - | | | | 466 | 
+Interest income | | 317 | | | | 20 | 
+Interest expense | | (3 | ) | | | (53 | )
+Foreign currency transaction gain | | 1,325 | | | | 38 | 
+Other income, net | | 2,400 | | | | 788 | 
+Loss before income taxes | | (93,378 | ) | | | (9,605 | )
+Income tax expense | | - | | | | - | 
+Net loss | | (93,378 | ) | | | (9,605 | )
+Other comprehensive income (loss): | | | | | | | 
+Foreign currency translation adjustments | | (1,182 | ) | | | 662 | 
+Total comprehensive loss | $ | (94,560 | ) | | $ | (8,943 | )
+Basic and diluted weighted-average ordinary shares outstanding | | 75,362,870 | | | $ | 28,312,125 | 
+Basic and diluted net loss attributable to ordinary shareholders | $ | (1.24 | ) | | $ | (0.34 | )
+
+
+
+
+See accompanying notes to consolidated financial statements
+
+
+
+
+
+F-4
+
+
+
+
+
+
+
+
+
+FREYR BATTERY
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY (DEFICIT)
+
+(In Thousands, Except Share Amounts)
+
+
+
+
+ | Ordinary Shares | | Additional Paid-in | | | Accumulated Other Comprehensive (Loss) | | Accumulated | | Total Shareholders’ Equity | 
+------------------------------------------------------------------------------+-----------------+-------------+--------------------+---+---------+----------------------------------------+---+-------------+---+-----------------------------+-------
+ | Shares | | Amount | | | Capital | | Income | | Deficit | | | (Deficit) | 
+Balance as of January 1, 2020 | | 21,250,776 | | $ | - | | $ | 335 | | $ | (4 | ) | | $ | (1,280 | ) | $ | (949 | )
+Share-based compensation expense | | - | | | - | | | 535 | | | - | | | | - | | | 535 | 
+Capital contributions from Rana municipality, net of issuance costs | | 1,193,529 | | | - | | | 996 | | | - | | | | - | | | 996 | 
+Capital contributions from private placement, net of issuance costs | | 12,827,098 | | | - | | | 10,554 | | | - | | | | - | | | 10,554 | 
+Capital contributions from conversion of convertible debt to ordinary shares | | 1,785,504 | | | - | | | 1,704 | | | - | | | | - | | | 1,704 | 
+Capital contributions from settlement of the warrant liability | | 395,452 | | | - | | | 1,059 | | | - | | | | - | | | 1,059 | 
+Net loss | | - | | | - | | | - | | | - | | | | (9,605 | ) | | (9,605 | )
+Other comprehensive income | | - | | | - | | | - | | | 662 | | | | - | | | 662 | 
+Balance as of December 31, 2020 | | 37,452,359 | | $ | - | | $ | 15,183 | | $ | 658 | | | $ | (10,885 | ) | $ | 4,956 | 
+Share-based compensation expense | | - | | | - | | | 14,055 | | | - | | | | - | | | 14,055 | 
+Reclassification of share-based compensation expense from equity to liability | | - | | | - | | | (8,984 | ) | | - | | | | - | | | (8,984 | )
+Norway Demerger | | - | | | - | | | (2,897 | ) | | - | | | | - | | | (2,897 | )
+Issuance of ordinary shares in settlement of FREYR Legacy preferred shares | | 1,489,500 | | | - | | | 14,895 | | | - | | | | - | | | 14,895 | 
+PIPE Investment, net of transaction costs | | 60,000,000 | | | - | | | 579,000 | | | - | | | | - | | | 579,000 | 
+Business Combination, net of redemptions and transaction costs | | 17,498,332 | | | - | | | 39,020 | | | - | | | | - | | | 39,020 | 
+Luxembourg Reorganization | | - | | | 116,441 | | | (116,441 | ) | | - | | | | - | | | - | 
+Capital contribution from conversion of warrants to ordinary shares | | 413,313 | | | 413 | | | (413 | ) | | - | | | | - | | | - | 
+Net loss | | - | | | - | | | - | | | - | | | | (93,378 | ) | | (93,378 | )
+Other comprehensive income | | - | | | - | | | - | | | (1,182 | ) | | | | | | (1,182 | )
+Balance as of December 31, 2021 | | 116,853,504 | | $ | 116,854 | | $ | 533,418 | | $ | (524 | ) | | $ | (104,263 | ) | $ | 545,485 | 
+
+
+
+
+See accompanying notes to consolidated financial statements
+
+
+
+
+
+F-5
+
+
+
+
+
+ FREYR BATTERY
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+
+(In Thousands)
+
+
+
+
+ | For the year ended December 31, | 
+-----------------------------------------------------------------------------------------------+--------------------------------------+--------
+ | 2021 | | | 2020 | 
+Cash flows from operating activities | | | | | 
+Net loss | $ | (93,378 | ) | | $ | (9,605 | )
+Adjustments to reconcile net loss to cash used in operating activities: | | | | | | | 
+Share-based compensation expense | | 14,818 | | | | 535 | 
+Depreciation | | 120 | | | | 15 | 
+Redeemable preferred shares fair value adjustment | | (75 | ) | | | 70 | 
+Warrant liability fair value adjustment | | 21,859 | | | | 1,670 | 
+Convertible notes fair value adjustment | | - | | | | 201 | 
+Gain on settlement of warrant liability | | - | | | | (466 | )
+Equity in losses from investee | | 62 | | | | - | 
+Other | | (56 | ) | | | (725 | )
+Changes in assets and liabilities: | | | | | | | 
+Prepaid assets | | (15,598 | ) | | | (408 | )
+Other current assets | | (821 | ) | | | (231 | )
+Other long-term assets | | (230 | ) | | | - | 
+Accounts payable and accrued liabilities | | 8,716 | | | | 1,347 | 
+Accounts payable and accrued liabilities - related party | | 4 | | | | 226 | 
+Other current liabilities | | 12 | | | | - | 
+Deferred income | | 1,431 | | | | - | 
+Other long-term liabilities | | - | | | | 35 | 
+Net cash used in operating activities | | (63,136 | ) | | | (7,336 | )
+Cash flows from investing activities | | | | | | | 
+Purchases of property and equipment | | (13,775 | ) | | | (71 | )
+Investment in convertible note | | (20,000 | ) | | | - | 
+Purchases of other long-term assets | | (12 | ) | | | - | 
+Net cash used in investing activities | | (33,787 | ) | | | (71 | )
+Cash flows from financing activities | | | | | | | 
+Proceeds from Business Combination | | 70,836 | | | | - | 
+Proceeds from PIPE Investment | | 600,000 | | | | - | 
+Capital contributions - ordinary shares | | - | | | | 12,351 | 
+Issuance cost | | (26,334 | ) | | | (799 | )
+Proceeds from issuance of redeemable preferred shares | | 7,500 | | | | 7,500 | 
+Payments for the Norway Demerger | | (3,002 | ) | | | - | 
+Proceeds from issuance of convertible debt | | - | | | | 1,104 | 
+Proceeds from issuance of convertible debt - related party | | - | | | | 427 | 
+Payments related to convertible debt | | - | | | | (125 | )
+Net cash provided by financing activities | | 649,000 | | | | 20,458 | 
+Effect of changes in foreign exchange rates on cash, cash equivalents, and restricted cash | | (1,395 | ) | | | 1,637 | 
+Net increase in cash, cash equivalents, and restricted cash | | 550,682 | | | | 14,688 | 
+Cash, cash equivalents, and restricted cash at beginning of period | | 14,945 | | | | 257 | 
+Cash, cash equivalents, and restricted cash at end of period | $ | 565,627 | | | $ | 14,945 | 
+Supplementary disclosures of cash flow information | | | | | | | 
+Cash paid for interest | $ | 3 | | | $ | 14 | 
+Cash paid for income taxes | | - | | | | - | 
+Supplementary disclosures for noncash activities | | | | | | | 
+Warrant liability assumed from business combination | $ | 27,265 | | | $ | - | 
+Settlement of redeemable preferred shares through issuance of ordinary shares | | 14,895 | | | | - | 
+Reclassification of share-based compensation expense from equity to liability | | 8,984 | | | | - | 
+Accrued purchases of property and equipment | | 7,559 | | | | - | 
+Investment in equity method investment through assumption of liability | | 3,000 | | | | - | 
+Settlement of accrued liabilities through issuance of non-employee warrants | | 460 | | | | - | 
+Settlement of other long-term liabilities through issuance of employee options | | 38 | | | | - | 
+Net liabilities assumed from Business Combination | | 149 | | | | - | 
+Reconciliation to consolidated balance sheets | | | | | | | 
+Cash and cash equivalents | $ | 563,956 | | | $ | 14,749 | 
+Restricted cash | | 1,671 | | | | 196 | 
+Cash, cash equivalents, and restricted cash | $ | 565,627 | | | $ | 14,945 | 
+
+
+
+
+See accompanying notes to consolidated financial statements.
+
+
+
+
+F-6
+
+
+
+
+
+
+
+1. Business and Basis of Presentation
+
+
+
+Description of the Business
+
+
+
+FREYR is a battery manufacturing company. We are in the initial design and testing phase related to our battery production and have yet to bring a completed product to market.Business Combination 
+
+
+
+Pursuant to the Business Combination Agreement (the “BCA”) entered into to effect a merger between Alussa Energy Acquisition Corp., a Cayman Islands exempted company (“Alussa”) and FREYR AS, a private limited liability company organized under the laws of Norway (“FREYR Legacy”) (the “Business Combination”), FREYR, a Luxembourg public limited liability company was formed to complete the Business Combination and related transactions and carry on the business of FREYR Legacy. FREYR serves as the successor entity to FREYR Legacy, the predecessor entity.
+
+
+On July 9, 2021, FREYR consummated the Business Combination with FREYR Legacy and Alussa pursuant to the terms of the BCA dated January 29, 2021. Pursuant to the terms of the BCA, among other things, FREYR Legacy’s wind farm business was transferred to Sjonfjellet Vindpark Holding AS (“SVPH”), resulting in SVPH shares being held by FREYR Legacy’s shareholders. In connection with the consummation of the transactions contemplated by the BCA, FREYR Legacy and Alussa became wholly owned subsidiaries of FREYR. Following the First Closing on July 7, 2021, FREYR’s ordinary shares and warrants began trading on the New York Stock Exchange.
+
+
+The Business Combination was accounted for as a reverse recapitalization in accordance with U.S. GAAP. Under this method of accounting, Alussa was treated as the “acquired” company for financial reporting purposes. This determination was primarily based on the following factors: (i) FREYR Legacy’s existing operations comprise the ongoing operations of the combined company, (ii) FREYR Legacy’s senior management comprises the senior management of the combined company and (iii) no shareholder has control of the board of directors or a majority voting interest in the combined company. In accordance with guidance applicable to these circumstances, the Business Combination was treated as the equivalent of FREYR issuing shares for the net assets of Alussa, accompanied by a recapitalization. The net assets of Alussa were stated at historical cost, with no goodwill or other intangible assets recorded.
+
+
+As a result, the consolidated financial statements included herein reflect (i) the historical operating results of FREYR Legacy prior to the Business Combination, (ii) the combined results of FREYR, FREYR Legacy and Alussa following the closing of the Business Combination, (iii) the assets and liabilities of FREYR Legacy at their historical cost, (iv) the assets and liabilities of FREYR and Alussa at their historical cost, which approximates fair value, and (v) FREYR’s equity structure for all periods presented.
+
+
+In accordance with Accounting Standards Codification (“ASC”) 805, Business Combinations, guidance applicable to these circumstances, the equity structure has been restated in all comparative periods up to the closing date, to reflect the number of shares of FREYR’s ordinary shares issued to FREYR Legacy’s shareholders in connection with the recapitalization transaction. As such, the shares and corresponding capital amounts and earnings per share related to FREYR Legacy’s ordinary shares prior to the Business Combination have been retroactively restated as shares reflecting the exchange ratio established in the Business Combination.
+
+
+Basis of Presentation
+
+
+
+The consolidated financial statements have been prepared in conformity with the accounting principles generally accepted in the United States of America (“U.S. GAAP”). The consolidated financial statements include the accounts of FREYR and its wholly owned subsidiaries. All intercompany accounts and transactions have been eliminated. Certain prior period balances and amounts have been reclassified to conform with the current year’s presentation in the consolidated financial statements and the accompanying notes.Risks and Uncertainties
+
+
+
+We are subject to those risks common in the renewable energy and manufacturing industries and also those risks common to early stage development companies, including, but not limited to, the possibility of not being able to successfully develop or market our products, the ability to obtain or maintain licenses and permits to support future business, competition, dependence on key personnel and key external alliances, loss of our grant contributor, the ability to maintain and establish relationships with current and future vendors and suppliers, the successful protection of our proprietary technologies, the possibility of the factory development being disrupted, compliance with government regulations, and the possibility of not being able to obtain additional financing when needed.F-7
+
+
+
+
+
+
+
+These financial statements have been prepared by management in accordance with U.S. GAAP and this basis assumes that we will continue as a going concern, which contemplates the realization of assets and the satisfaction of liabilities and commitments in the normal course of business.
+
+
+As of the date of this report, our existing cash resources, which were provided as a result of the business combination, are sufficient to support planned operations for the next 12 months. As a result, management believes that our existing financial resources are sufficient to continue operating activities for at least one year past the issuance date of the financial statements.
+
+
+
+2. Summary of Significant Accounting Policies
+
+
+
+Use of Estimates
+
+
+
+The preparation of the consolidated financial statements in accordance with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. On an ongoing basis, we evaluate our estimates, including those critical accounting estimates related to the valuation of share-based compensation, our valuation of warrant liability and our valuation of the convertible note. We base these estimates on historical experiences and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying amounts of assets and liabilities that are not readily apparent from other sources. Actual results may differ materially from these estimates.Cash and Cash Equivalents
+
+
+
+Cash and cash equivalents consist of cash on deposit with banks and highly liquid investments with maturities of 90 days or less from the date of purchase.Restricted Cash 
+
+
+Restricted cash consists of funds held in a restricted account for payment of upfront rental lease deposits and income tax withholdings to the Norwegian government, payable every other month.Fair Value Measurement and Fair Value Option
+
+
+
+We define fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities, which are required to be recorded at fair value, we consider the principal or most advantageous market in which we would transact and the market-based risk measurements or assumptions that market participants would use in pricing the asset or liability, such as risks inherent in valuation techniques, transfer restrictions and credit risk. Fair value is estimated by applying the following hierarchy, which prioritizes the inputs used to measure fair value into three levels and bases the categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
+
+
+Level 1 - Quoted prices in active markets for identical assets or liabilities.
+
+
+Level 2 - Observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
+
+
+
+Level 3 - Inputs that are generally unobservable and typically reflect management’s estimate of assumptions that market participants would use in pricing the asset or liability.
+
+
+
+
+Under the fair value option under US GAAP, the Company has the irrevocable option to report most financial assets and financial liabilities at fair value on an instrument-by-instrument basis, with changes in fair value reported in earnings. Any changes in the fair value of liabilities resulting from changes in the instrument-specific credit risk would be reported in other comprehensive income.
+
+
+
+
+F-8
+
+
+
+
+
+
+
+Property and Equipment
+
+
+
+Property and equipment is recorded at cost less accumulated depreciation. Depreciation is computed using the straight-line method over the estimated useful life of the related asset or the remaining lease term, whichever is shorter.
+Property and Equipment | 
+---------------------------------------+--------------------------------------------------------
+Computer software and office equipment | Three to five years 
+Leasehold improvements | Lesser of estimated useful life or remaining lease term
+
+
+
+
+The useful lives of our property and equipment are determined by management when those assets are initially recognized and are routinely reviewed for the remaining estimated useful lives. Our current estimate of useful lives represents the best estimate of the useful lives based on current facts and circumstances but may differ from the actual useful lives due to changes in future circumstances such as changes to our business operations, changes in the planned use of assets, and technological advancements. When we change the estimated useful life assumption for any asset, the remaining carrying amount of the asset is accounted for prospectively and depreciated or amortized over the revised estimated useful life. Historically, changes in useful lives have not resulted in material changes to our depreciation and amortization expense.
+
+
+
+Maintenance and repairs are charged to expense as incurred and improvements are capitalized. When assets are retired or otherwise disposed of, the cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is reflected in the accompanying consolidated statements of operations and comprehensive loss.
+
+
+Assets held within construction in progress are not depreciated. Construction in progress is related to the construction or development of property and equipment that have not yet been placed in service.
+
+
+
+Leases
+
+
+
+We account for leases under ASC 840, Leases. Under this guidance, lessees classify arrangements meeting the definition of a lease as either operating or capital leases. Leases are classified as capital leases whenever the terms of the lease transfer substantially all of the risks and rewards of ownership to the lessee. All other leases are recorded as operating leases. As of December 31, 2021, all of our leases were operating leases. We recognize rent expense on a straight-line basis over the lease term.Grants
+
+
+
+For the grants related to the CQP, we reduce the carrying amount of the CQP as the grants are received and the conditions for receiving the grants have been fulfilled. We recognize other grants received as other income over the periods in which the related costs are incurred and the conditions for receiving the grants have been fulfilled.Research and Development Cost
+
+
+
+Research and development costs that do not meet the criteria for capitalization are expensed as incurred. Research and development costs consist of compensation, employee benefits, and share-based compensation for employees engaged in research and development activities, as well as fees paid for external engineering, supplies and services, allocation of indirect costs and contributions to research institutions.Foreign Currency Translation and Transaction Gains and Losses
+
+
+
+Our functional currency is U.S. dollars. Generally, the functional currency of our subsidiaries is the local currency. We translate the financial statements of these subsidiaries to U.S. dollars using period-end exchange rates for assets and liabilities.  Revenues and expenses are translated into U.S. dollars using the average exchange rates prevailing for each period presented. We record translation gains and losses in accumulated other comprehensive income. We reflect net foreign exchange transaction gains and losses resulting from the conversion of the transaction currency to functional currency as a component of foreign currency exchange gain (loss) in other income (expense), net.F-9
+
+
+
+
+
+
+
+Share-Based Compensation
+
+
+
+Our share-based compensation includes stock options, warrants and awards that may be settled in our shares. We measure and record compensation expense for all equity-classified awards based on estimated fair values of the underlying stock at the grant date. We initially measure and record liability-classified awards based on estimated fair values of the underlying stock at the grant date and subsequently remeasure to fair value at each reporting date until settlement. We recognize compensation expense for all employee awards with service-based vesting requirements on a straight-line basis over the requisite service period of the awards, which is generally the award’s vesting period. We recognize compensation expense for all employee awards with performance-based vesting requirements using accelerated attribution based on the performance factor probable of achievement as of the reporting date. We account for all forfeitures as they occur.
+
+
+Warrant liability
+
+
+
+We account for Private Warrants as derivative liabilities on the consolidated balance sheets. We measured the fair value at the close of the Business Combination and each reporting date, with changes in fair value recognized in the consolidated statements of operations and comprehensive loss in the period of change.
+
+
+Investments under the equity method
+
+
+
+We utilize the equity method to account for investments, including joint ventures, when we possess the ability to exercise significant influence, but not control, over the operating and financial policies of the investee. The ability to exercise significant influence is presumed when the investor possesses more than 20% of the voting interests of the investee. This presumption may be overcome based on specific facts and circumstances that demonstrate that the ability to exercise significant influence is restricted.
+
+
+In applying the equity method, we record the investment at cost and subsequently increase or decrease the carrying amount of the investment by our proportionate share of the net earnings or losses and other comprehensive income of the investee.
+
+
+Defined Contribution Plan
+
+
+
+We have defined contribution plans in accordance with Norwegian law for employees residing in Norway, as well as abroad. We made contributions to our defined contribution plans of $0.6 million and $0.1 million in the years ended December 31, 2021 and 2020.
+
+
+
+Income Taxes
+
+
+
+Deferred income tax assets and liabilities are computed on differences between the financial statement bases and tax bases of assets and liabilities at the enacted tax rates. Changes in deferred income tax assets and liabilities associated with components of other comprehensive income are charged or credited directly to other comprehensive income. Otherwise, changes in deferred income tax assets and liabilities are included as a component of income tax expense. The effect on deferred income tax assets and liabilities attributable to changes in enacted tax rates are charged or credited to income tax expense in the period of enactment. Valuation allowances are established for certain deferred tax assets when realization is not likely. Changes in the valuation allowances occurring in subsequent periods are included in the consolidated statements of operations and comprehensive loss.
+
+
+Assets and liabilities are established for uncertain tax positions taken or positions expected to be taken in income tax returns when such positions, in our judgment, do not meet a more-likely-than-not threshold based on the technical merits of the positions. Estimated interest and penalties related to uncertain tax positions are included as a component of income tax expense. There were no unrecognized tax benefits and no amounts accrued for interest and penalties as of December 31, 2021 or 2020.
+
+
+
+
+Segment Information
+
+
+
+Our focus is the development of batteries as our primary business and our Chief Executive Officer (“CEO”), who is the chief operating decision-maker, manages our operations as a single operating segment for purposes of allocating resources and evaluating financial performance.Concentrations of Credit Risk
+
+
+
+Financial instruments that are potentially subjected to credit risk consist of cash and cash equivalents and the convertible note. Cash and cash equivalents are placed with major financial institutions. We have not experienced any credit loss related to our cash and cash equivalents or the convertible note.F-10
+
+
+
+
+
+
+
+Emerging Growth Company
+
+
+
+Section 102(b)(1) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies (that is, those that have not had a Securities Act registration statement declared effective or do not have a class of securities registered under the Exchange Act) are required to comply with the new or revised financial accounting standards. The JOBS Act provides that a company can elect to opt-out of the extended transition period and comply with the requirements that apply to non-emerging growth companies, but any such election to opt-out is irrevocable. We qualify as an emerging growth company, as defined in the JOBS Act, and therefore intend to take advantage of certain exemptions from various public company reporting requirements, including delaying the adoption of new or revised accounting standards until those standards apply to private companies. The effective dates shown below reflect the election to use the extended transition period.Recently Issued Accounting Pronouncement
+
+
+
+In December 2019, the FASB issued ASU 2019-12, Income Taxes (ASC 740): Simplifying the Accounting for Income Taxes, which removes certain exceptions to the general principles in ASC 740 and also clarifies and amends existing guidance to improve the consistent application. We will adopt the new standard effective January 1, 2022. We do not expect the new standard to have a material impact on the consolidated financial statements.
+
+
+In February 2016, the FASB issued Accounting Standards Update No. 2016-02, Leases (ASC 842) (ASU 2016-02), as amended, which generally requires lessees to recognize operating and financing lease liabilities and corresponding right-of-use assets on the balance sheet and to provide enhanced disclosures surrounding the amount, timing and uncertainty of cash flows arising from leasing arrangements. We will adopt the new standard effective January 1, 2022, on a modified retrospective basis and will not restate comparative periods. We will elect the package of practical expedients permitted under the transition guidance, which allows us to carry forward our historical lease classification, our assessment on whether a contract is or contains a lease, and our initial direct costs for any leases that exist before the adoption of the new standard. We will also elect to combine lease and non-lease components and to keep leases with an initial term of 12 months or less off the balance sheet and recognize the associated lease payments in the consolidated statements of income on a straight-line basis over the lease term.
+
+
+We currently lease our corporate headquarters, CQP, as well as other properties. Upon adoption of ASC 842 management expects that based on our current portfolio of leases, assets and liabilities on the consolidated balance sheet will increase by between $8 million and $10 million due to the recognition of right-of-use assets and corresponding lease liabilities. The adoption of the standard is not expected to significantly impact accumulated deficit.
+
+
+Adoption of Accounting Pronouncements
+
+
+
+In August 2020, the FASB issued ASU 2020-06, Debt — Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging — Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity, as amended, which is intended to simplify the accounting for convertible instruments by removing certain separation models and amending the disclosure requirements. We early adopted this guidance as of January 1, 2021. Adoption of the standard did not have a material impact on the consolidated financial statements.
+3. Business Combination
+
+
+
+As discussed in Note 1 – Business and Basis of Presentation, we completed the Business Combination on July 9, 2021. Immediately before the closing of the Business Combination, all outstanding redeemable preferred shares of FREYR Legacy were converted into ordinary shares of FREYR. Upon the consummation of the Business Combination, each share of FREYR Legacy issued and outstanding was canceled and converted into the right to receive 0.179038 ordinary shares in FREYR (the “Exchange Ratio”).
+
+
+
+Upon the closing of the Business Combination, our articles of association were amended and restated to, among other things, increase the total number of authorized shares to 245,000,000 shares without par value.
+
+
+In connection with the Business Combination, on January 29, 2021, Alussa and FREYR entered into separate subscription agreements with a number of investors (each a “Subscriber”), pursuant to which the Subscribers agreed to purchase, and FREYR agreed to sell to the Subscribers, an aggregate of 60,000,000 ordinary shares (the “PIPE Shares”), for a purchase price of $10.00 per share and an aggregate purchase price of $600.0 million, in a private placement pursuant to the subscription agreements (the “PIPE Investment”). The PIPE Investment closed simultaneously with the consummation of the Business Combination.
+
+
+The Business Combination was accounted for as a reverse recapitalization in accordance with U.S. GAAP. Under this method of accounting, Alussa was treated as the “acquired” company for financial reporting purposes. See Note 1 – Business and Basis of Presentation for further details. Accordingly, for accounting purposes, the Business Combination was treated as the equivalent of FREYR issuing shares for the net assets of Alussa, accompanied by a recapitalization. The net assets of Alussa were stated at historical cost, with no goodwill or other intangible assets recorded.
+
+
+
+
+F-11
+
+
+
+
+
+
+
+The following table reconciles the elements of the Business Combination and PIPE Investment to the consolidated statement of cash flows and the consolidated statement of shareholders’ equity for the year ended December 31, 2021 (in thousands):
+ | Recapitalization | 
+---------------------------------------------------------+------------------+--------
+Cash - Alussa trust and cash, net of redemptions | $ | 104,535 | 
+Cash - PIPE Investment | | 600,000 | 
+Less: Non-cash net liabilities assumed from Alussa | | (26,129 | )
+Less: Transaction costs | | (60,386 | )
+Net Business Combination and PIPE Investment | | 618,020 | 
+Add back: Non-cash net liabilities assumed from Alussa | | 26,129 | 
+Add: Accrued transaction costs | | 353 | 
+Net cash contribution from Business Combination and PIPE | $ | 644,502 | 
+
+
+
+
+
+The number of ordinary shares issued immediately following the consummation of the Business Combination:
+
+
+
+ | Number of Shares | 
+---------------------------------------------------------------------------------+------------------+------------
+Alussa Class A ordinary shares, outstanding prior to Business Combination | | 28,750,000 | 
+Less: redemption of Alussa Class A ordinary shares | | (18,439,168 | )
+Alussa Class A ordinary shares | | 10,310,832 | 
+Alussa Class B founder ordinary shares | | 7,187,500 | 
+Ordinary shares issued in PIPE Investment | | 60,000,000 | 
+Ordinary shares issued to FREYR Legacy preferred shareholders | | 1,489,500 | 
+Business Combination and PIPE Investment ordinary shares | | 78,987,832 | 
+FREYR Legacy ordinary shares (1) | | 37,452,359 | 
+Total ordinary shares immediately after Business Combination and PIPE Investment | | 116,440,191 | 
+
+
+(1) | The number of FREYR Legacy ordinary shares was determined from the 209,196,827 of FREYR Legacy ordinary shares outstanding prior to the closing of the Business Combination converted at the exchange ratio of 0.179038. All fractional shares were rounded down.
+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. Property and Equipment
+
+
+
+Property and equipment consisted of the following (in thousands):
+
+
+
+ | As of December 31, | 
+------------------------------------------------+--------------------+-------
+ | 2021 | | | 2020 | 
+Office equipment | $ | 1,180 | | | $ | 98 | 
+Less: Accumulated depreciation and amortization | | (135 | ) | | | (15 | )
+Construction in progress | | 20,017 | | | | - | 
+Less: Foreign currency translation effects | | - | | | | (3 | )
+Property and equipment, net | $ | 21,062 | | | $ | 80 | 
+
+
+
+
+Construction in progress primarily includes costs related to the construction of the CQP in Mo i Rana and the related production equipment.
+
+
+
+
+
+
+F-12
+
+
+
+
+
+
+
+5. Accrued Liabilities
+
+
+
+Accrued liabilities consisted of the following (in thousands):
+
+
+
+ | As of December 31, | 
+---------------------------------------------+--------------------+-------
+ | 2021 | | 2020 | 
+Accrued purchases | $ | 8,165 | | $ | 690 
+Accrued payroll and payroll related expenses | | 6,476 | | | 518 
+Accrued other operating costs | | 424 | | | 485 
+Total accrued liabilities | $ | 15,065 | | $ | 1,693
+
+6. Leases
+
+
+
+We currently lease our corporate headquarters, CQP, as well as other properties, that are classified as operating leases. Total rent expense was $1.0 million and $0.1 million for the years ended December 31, 2021 and 2020, respectively. We do not have any contingent rent expense or capital leases. Substantially all of the Company’s leases have renewal options.
+
+
+Minimum rentals payable under all non-cancelable operating leases with terms greater than one year as of December 31, 2021, are as follows (in thousands):
+
+
+
+Year ending December 31: | | 
+--------------------------------+---+-------
+2022 | $ | 1,714 
+2023 | | 1,696 
+2024 | | 1,692 
+2025 | | 1,748 
+2026 | | 1,748 
+Later years | | 3,832 
+Total minimum payments required | $ | 12,430
+
+7. Commitments and Contingencies
+
+
+
+Commitments
+
+
+
+On December 1, 2020, we entered into a definitive licensing and services agreement effective December 15, 2020, with 24M to use its SemiSolidTM lithium-ion battery platform technology in our planned facilities in Mo i Rana, Norway. In accordance with this agreement and a letter agreement dated December 18, 2020, we committed to pay $20.0 million for the rights to the production of battery cells based on 24M’s current and future technology, as well as services, including technical training of engineers, the information relevant to construct and operate the factories and on-site support. $0.7 million was paid and expensed in 2020 at the signing of the memorandum of understanding before entering into a definitive agreement. We determined that the remaining $19.3 million payable would be recognized straight-line over the service period through December 31, 2022, which was extended to December 31, 2023, through the first amendment to the definitive agreement dated January 18, 2021. As of December 31, 2020, $0.4 million was accrued related to the agreement. As of December 31, 2021, we had a prepaid asset of $12.8 million and no remaining commitment related to the agreement. In accordance with the definitive agreement, we will also pay an ongoing royalty fee based on sales volumes with minimum annual payments of $3.0 million beginning on the third anniversary of the effective date. All expenses related to this definitive agreement are recognized as research and development costs within the consolidated statements of operations and comprehensive loss.Contingent Liabilities - Litigation
+
+
+
+From time to time, we may be subject to legal and regulatory actions that arise in the ordinary course of business. The assessment as to whether a loss is probable or reasonably possible, and as to whether such loss or a range of such loss is estimable, often involves significant judgment about future events. Management believes that any liability of ours that may arise out of or with respect to these matters will not materially, adversely affect our consolidated financial position, results of operations, or liquidity.
+F-13
+
+
+
+
+
+
+
+8. Warrants
+
+
+
+As of December 31, 2021, we have 24,625,000 warrants outstanding. As part of the Business Combination, as described in Note 3 – Business Combination, the 14,375,000 public warrants of Alussa were each exchanged for one public warrant in FREYR (the “Public Warrants”) and the 10,250,000 private warrants of Alussa were each exchanged for one private warrant in FREYR (the “Private Warrants”). The Public and Private Warrants (collectively, “Warrants”) are subject to the terms and conditions of the warrant agreement entered into between Alussa, Continental Stock Transfer & Trust Company and FREYR (the “Amended and Restated Warrant Agreement”).
+
+
+The Warrants entitle the holder thereof to purchase one of our ordinary shares at a price of $11.50 per share, subject to adjustments. The Warrants will expire on July 9, 2026, or earlier upon redemption or liquidation.
+
+
+The Private Warrants are identical to the Public Warrants, except that so long as they are held by the Sponsor or any of its permitted transferees, the Private Warrants: (i) may be exercised for cash or on a cashless basis and (ii) shall not be redeemable by FREYR.
+
+
+We may call the Public Warrants for redemption once they become exercisable, in whole and not in part, at a price of $0.01 per Public Warrant, so long as we provide at least 30 days prior written notice of redemption to each Public Warrant holder, and if, and only if, the reported last sales price of our ordinary shares equals or exceeds $18.00 per share for each of 20 trading days within the 30 trading-day period ending on the third trading day before the date on which we send the notice of redemption to the Public Warrant holders.
+
+
+We determined that the Public Warrants are equity classified as they are indexed to our ordinary shares and qualify for classification within shareholders’ equity. As such, the Public Warrants are presented within additional paid-in capital on the consolidated balance sheets herein. However, we determined that the Private Warrants are not considered indexed to our ordinary shares as the holder of the Private Warrants impacts the settlement amount and thus, they are liability classified. The Private Warrants are presented within warrant liability on the consolidated balance sheets herein. See Note 9 – Fair Value Measurement for further details.
+
+
+
+9. Fair Value Measurement
+
+
+
+The following table sets forth, by level within the fair value hierarchy, the accounting of our financial assets and liabilities at fair value on a recurring basis according to the valuation techniques we use to determine their fair value (in thousands):
+ | As of December 31, 2021 | 
+--------------------+-------------------------+--
+ | Level 1 | | Level 2 | | | Level 3 | | Total 
+Assets | | | | | | | | 
+Convertible Note | $ | - | | $ | - | | $ | 20,231 | $ | 20,231
+Total | $ | - | | $ | - | | $ | 20,231 | $ | 20,231
+Liabilities | | | | | | | | | | 
+Warrant Liabilities | $ | - | | $ | - | | $ | 49,124 | $ | 49,124
+Total | $ | - | | $ | - | | $ | 49,124 | $ | 49,124
+
+
+ | As of December 31, 2020 | 
+----------------------------+-------------------------+--
+ | Level 1 | | Level 2 | | | Level 3 | | Total
+Liabilities | | | | | | | | 
+Redeemable Preferred Shares | $ | - | | $ | - | | $ | 7,574 | $ | 7,574
+Total | $ | - | | $ | - | | $ | 7,574 | $ | 7,574
+
+
+
+
+In some circumstances, the inputs used to measure fair value might be categorized within different levels of the fair value hierarchy. In those instances, the fair value measurement is categorized in its entirety in the fair value hierarchy based on the lowest level input that is significant to the fair value measurement.
+
+
+For the nine convertible notes issued in 2020 (“2020 Convertible Notes”), we elected the fair value option. Such election was irrevocable and applied on an instrument-by-instrument basis at initial recognition. Any changes in the fair value of these securities were recognized in the consolidated statements of operations and comprehensive loss. Interest expense on the 2020 Convertible Notes for which the fair value option was elected was based on stated interest rates and was recorded as interest expense within the consolidated statements of operations and comprehensive loss.
+
+
+
+
+F-14
+
+
+
+
+
+
+
+We measured our Private Warrants and convertible note as of December 31, 2021 and our preferred shares as of December 31, 2020 at fair value based on significant inputs not observable in the market, which caused them to be classified as Level 3 measurements within the fair value hierarchy. The valuation of the Private Warrants, convertible note and preferred shares used assumptions and estimates that we believed would be made by a market participant in making the same valuation. Changes in the fair value of the preferred shares related to updated assumptions and estimates were recognized as a redeemable preferred shares fair value adjustment within the consolidated statements of operations and comprehensive loss. Changes in the fair value of the Private Warrants related to updated assumptions and estimates were recognized as a warrant liability fair value adjustment within the consolidated statements of operations and comprehensive loss. Changes in the fair value of the convertible note related to updated assumptions and estimates were recognized as a convertible note fair value adjustment, and interest earned recognized as interest income within the consolidated statement of operations and comprehensive loss.
+
+
+As of December 31, 2021 and 2020, the carrying value of all other financial assets and liabilities approximated their respective fair values.
+
+
+
+Private Warrants
+
+
+
+The Private Warrants outstanding on December 31, 2021, were valued using the Black-Scholes-Merton option pricing model. No Private Warrants were outstanding on December 31, 2020. See Note 8 – Warrants above for further detail. Our use of the Black-Scholes-Merton option pricing model for the Private Warrants as of December 31, 2021, required the use of subjective assumptions:
+● | The risk-free interest rate assumption was based on the U.S. Treasury Rates, which were commensurate with the contractual terms of the Private Warrants, which expire on the earlier of (i) five years after the completion of the Business Combination or July 9, 2026 and (ii) redemption or liquidation. An increase in the risk-free interest rate, in isolation, would increase the fair value measurement of the Private Warrants and vice versa.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The expected term was determined to be 4.53 years as of December 31, 2021, given the expiration of the Private Warrants as noted above. An increase in the expected term, in isolation, would increase the fair value measurement of the Private Warrants and vice versa.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | The expected volatility assumption was based on the implied volatility from a set of comparable publicly traded companies as determined based on the size and industry. An increase in expected volatility, in isolation, would increase the fair value measurement of the Private Warrants and vice versa.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Using this approach, an exercise price of $11.50 and a share price of $11.18, we determined that the fair value of the Private Warrants was $49.1 million as of December 31, 2021.
+
+
+Convertible Note
+
+
+
+As of December 31, 2021, we had an investment in a convertible note from 24M that was fair valued pursuant to the election of the fair value option under ASC 825, Financial Instruments. See Note 15 – Convertible Note for further detail. The Company considers this to provide a more accurate reflection of the current economic environment of the instrument. This convertible note was valued using a scenario-based framework. This analysis assumed various scenarios that were weighted based on the likelihood of occurrence. Within each scenario, an income approach, specifically the discounted cash flow approach, was utilized based on the expected payoffs upon the event, the discount rate and the expected timing and then the expected probability of occurrence was applied, all of which management determined were significant assumptions. Using this approach, we determined that the fair value of the convertible note as of December 31, 2021 was $20.2 million. We noted that a change in the expected payoffs, discount rate, timing, or expected probability would result in a change to the fair value ascribed to the convertible note. No convertible note was outstanding on December 31, 2020. For the year ended December 31, 2021, the total change in fair value of the convertible note, including interest income, of $0.2 million was recognized as interest income within the consolidated statement of operations and comprehensive loss and within other long-term assets on the consolidated balance sheet.
+Preferred Shares
+
+
+
+The preferred shares outstanding on December 31, 2020, were valued using a scenario-based framework. No preferred shares were outstanding on December 31, 2021, as they were settled as part of the Business Combination. See Note 1 – Business and Basis of Presentation and Note 3 – Business Combination for further detail. Within each scenario, an income approach, specifically the discounted cash flow approach, was utilized based on the expected payoffs upon the conversion or redemption event, the estimated yield and the expected probability of occurrence, which we determined was a significant assumption. Using this approach, FREYR Legacy determined that the fair value of the redeemable preferred shares was $7.6 million as of December 31, 2020. FREYR Legacy noted that a change in the weighting of the expected forms of settlement would result in a change of the fair value to the redeemable preferred shares. See Note 10 – Redeemable Preferred Shares for further discussion.F-15
+
+
+
+
+
+
+2020 Convertible Notes
+
+
+
+In 2020, FREYR Legacy issued the 2020 Convertible Notes, of which seven were issued to third-party investors and two were issued to related parties. FREYR Legacy elected to apply the fair value option to the 2020 Convertible Notes at the time they were first recognized. On July 2, 2020 and July 8, 2020, the 2020 Convertible Notes were settled. Before settlement, the 2020 Convertible Notes were valued using a scenario-based framework. This analysis assumed two scenarios that were weighted based on the likelihood of occurrence, one in which a qualified financing event occurred and the other in which no qualified financing event occurred and the 2020 Convertible Notes were redeemed at maturity.Warrant Liability (Settled in 2020)
+
+
+
+On June 10, 2019, FREYR Legacy entered into an agreement with a third-party investor (the “Investment Agreement”) to issue warrants in exchange for the investor funding cash investments in tranches to support FREYR Legacy’s two battery projects for the period from the effective date of the agreement through September 30, 2021. The warrant liability was initially valued using a scenario-based framework that assumed varying levels of tranches of investments and the related equity valuation, which caused it to be classified as a Level 3 measurement within the fair value hierarchy. As of June 30, 2020, FREYR Legacy measured its warrant liability using the indicated transaction price for the private placement that was finalized shortly after the period end. This change in the valuation methodology was a result of the availability of inputs corroborated by an observable market transaction, which caused it to be classified as a Level 2 measurement within the fair value hierarchy. As of September 30, 2020, and through settlement on November 23, 2020, FREYR Legacy measured the fair value of the warrant liability based on inputs corroborated by observable market transactions using the over-the-counter (“OTC”) trading price. The warrant liability was settled on November 23, 2020.
+
+
+The following table presents changes in the Level 3 instruments measured at fair value for the years ended December 31, 2021 and 2020, respectively (in thousands):
+
+
+
+ | For the year ended December 31, 2021 | 
+-----------------------------------+--------------------------------------+-------
+ | Private Warrants | | Redeemable preferred shares | | | 2020 Convertible Notes | | Warrant liability | Convertible Note | 
+Balance (beginning of period) | $ | - | | $ | 7,574 | | $ | - | $ | - | $ | - 
+Additions | | 27,265 | | | 7,500 | | | - | | - | | 20,000
+Fair value measurement adjustments | | 21,859 | | | (74 | ) | | - | | - | | 231 
+Foreign current exchange effects | | - | | | - | | | - | | - | | - 
+Settlements | | - | | | (15,000 | ) | | - | | - | | - 
+Balance (end of period) | $ | 49,124 | | $ | - | | $ | - | $ | - | $ | 20,231
+
+
+ | For the year ended December 31, 2020 | 
+-----------------------------------+--------------------------------------+--
+ | Private Warrants | | Redeemable preferred shares | | | 2020 Convertible Notes | | Warrant liability | | Convertible Note | 
+Balance (beginning of period) | $ | - | | $ | - | | $ | - | | $ | 93 | | $ | -
+Additions | | - | | | 7,500 | | | 1,531 | | | 76 | | | -
+Accrued interest | | - | | | - | | | 33 | | | - | | | -
+Fair value measurement adjustments | | - | | | 70 | | | 201 | | | 233 | | | -
+Foreign current exchange effects | | - | | | 4 | | | - | | | (6 | ) | | -
+Transfer to Level 2 | | - | | | - | | | - | | | (396 | ) | | -
+Settlements | | - | | | - | | | (1,765 | ) | | - | | | -
+Balance (end of period) | $ | - | | $ | 7,574 | | $ | - | | $ | - | | $ | -
+
+10. Redeemable Preferred Shares
+
+
+
+On November 11, 2020, 7,500,000 redeemable preferred shares were issued, each with a nominal value of NOK 0.01 per share for an aggregate subscription amount of NOK 71.5 million ($7.5 million) to two affiliates of Alussa in exchange for a cash contribution of $7.5 million (the “Preferred Share Preference Amount”). Concurrently, FREYR Legacy issued 92,500,000 warrants that were subscribed together with the preferred shares and considered an embedded feature as they were not separately exercisable. FREYR Legacy determined that the preferred shares and warrants should be considered a single financial instrument and recognized as a liability within the consolidated balance sheets. As such, the liability was measured at fair value and was subsequently remeasured at each reporting date with changes being recorded as a redeemable preferred shares fair value adjustment within the consolidated statements of operations and comprehensive loss. As of December 31, 2020, the fair value of the preferred shares and warrants was $7.6 million. See Note 9 – Fair Value Measurement for further information on the preferred shares and warrants.
+
+
+On February 16, 2021, an additional 7,500,000 redeemable preferred shares were issued, each with a nominal value of NOK 0.01 per share for an aggregate subscription amount of NOK 64.1 million ($7.5 million) to three affiliates of Alussa in exchange for a Preferred Share Preference Amount of $7.5 million. As part of the Business Combination and after the Norway Demerger, the FREYR Legacy preferred shares were repurchased by FREYR at an adjusted Preferred Share Preference Amount of $14.9 million and the holders received 1,489,500 ordinary shares of FREYR. No preferred shares exist as of December 31, 2021.
+
+
+
+
+
+F-16
+
+
+
+
+
+
+
+11. Shareholders’ Equity
+
+
+
+Ordinary Shares
+
+
+
+As of December 31, 2021, 245,000,000 ordinary shares without par value are authorized. Holders of ordinary shares are entitled to receive dividends when, as, and if, declared by our Board of Directors. As of December 31, 2021, we have not declared any dividends. The holder of each ordinary share is entitled to one vote per share. As of December 31, 2021, there are 116,853,504 ordinary shares outstanding.Employee Awards – 2019 Plan
+
+
+
+FREYR Legacy had an Incentive Stock Option Plan (the “2019 Plan”) issued on September 11, 2019. According to the 2019 Plan, options or warrants could be granted to eligible employees, and a total of 895,190 ordinary shares could be issued. On December 1, 2020, the board of directors approved to increase the number of ordinary shares to be issued under the 2019 Plan by 895,190 ordinary shares.
+
+
+In general, the options or warrants were determined to be granted every quarter over two years and could be exercised at the earliest three years and at the latest five years after the date of the first legal grant date. The options granted to three of FREYR Legacy’s executives were determined to vest based on service-based conditions for a portion of the awards and upon service-based conditions and the achievement of a liquidity-event-driven performance condition for the remainder of the awards. In the event of a change of control, defined as a corporate transaction involving 50% or more of the combined voting power of the equity interests in FREYR Legacy, the stock options and warrants and performance stock options and warrants already granted or earmarked for an employee’s first year of employment would vest immediately.
+
+
+On January 29, 2021, FREYR Legacy entered into the BCA, which was simultaneously approved by the board of directors. See Note 1 – Business and Basis of Presentation and Note 3 – Business Combination for further information on the BCA and related Business Combination. Pursuant to the BCA, the exercise prices for certain employee awards that were not previously known were established. As such, a grant date for accounting purposes was achieved for these employee awards as there was a mutual understanding of the terms and conditions. In addition to establishing a mutual understanding of the key terms and conditions for certain employee awards, the BCA also established a performance condition that would adjust the exercise price of certain options and warrants upon the close of the Business Combination. As a result of the consummation of the Business Combination on July 9, 2021, the performance condition was met. As such, the employee awards vested immediately on July 9, 2021, and share-based compensation was recognized for the remaining unrecognized fair value of the employee awards. Effective as of the close of the Business Combination, the 2019 Plan was modified to require cash-settlement after a lock-up period of either (i) one year for all non-executive employees or (ii) two years for all executive employees. As a result, $8.9 million of share-based compensation expense previously recognized in additional paid-in capital was reclassified to liabilities in the consolidated balance sheets at December 31, 2021. Share-based compensation expense, inclusive of the changes to the fair value of the share-based compensation liability, is recognized separately in general and administrative expense and research and development expense within the consolidated statements of operations and comprehensive loss.
+
+
+The following table sets forth the activity relating to the employee options and warrants outstanding under the 2019 Plan for the year ended December 31, 2021 (aggregate intrinsic value in thousands):
+
+
+
+For the Year Ended December 31, 2021 | Number | | Weighted average exercise price | | | Weighted average remaining contractual life (years) | Aggregate intrinsic value
+------------------------------------------+--------+-----------+---------------------------------+---+------+-----------------------------------------------------+--------------------------
+Awards outstanding at beginning of period | | 179,037 | | $ | 0.99 | | | | 
+Awards granted | | 832,427 | | $ | 3.20 | | | | 
+Awards forfeited | | 3,580 | | $ | 2.79 | | | | 
+Awards outstanding at end of period | | 1,007,884 | | $ | 2.81 | | 3.70 | $ | 8,434
+Awards exercisable at end of period | | 1,007,884 | | $ | 2.81 | | 3.70 | $ | 8,434
+
+
+
+
+Assumptions used to determine the fair value of employee awards under the 2019 Plan using the Black-Scholes-Merton option pricing model are as follows:
+
+
+
+ | For the Year Ended December 31, 2021 | 
+------------------------+--------------------------------------+------
+ | Range of Assumptions | 
+Valuation assumptions: | | | | 
+Expected term (years) | | 3.25 | | - | 4.87 | 
+Expected volatility | | 45.50 | % | - | 56.90 | %
+Expected dividend yield | | 0.00 | % | - | 0.00 | %
+Risk-free interest rate | | -0.66 | % | - | 0.81 | %
+
+
+
+
+The expected option and warrant terms were calculated using the remaining contractual term as the employee awards were deeply in-the-money as of the valuation date. The expected volatilities were derived from the average historical daily stock volatilities of a peer group of public companies that we consider to be comparable to our business over a period equivalent to the expected terms of the share-based awards. The expected dividend yield was based on our expectation of not paying dividends in the foreseeable future. Consequently, the expected dividend yield used is zero. The risk-free interest rates were based on the US Treasury Rates.
+
+
+
+
+
+F-17
+
+
+
+
+
+
+
+Compensation expense recorded for the employee awards in general and administrative for the year ended December 31, 2021 was $7.1 million. Compensation expense recorded for the employee awards in research and development for the year ended December 31, 2021 was $1.7 million. For the year ended December 31, 2020, compensation expense recorded for the employee awards in general and administrative was less than $0.1 million. As of December 31, 2021, all employee awards had vested.Employee Awards – 2021 Plan
+
+
+
+We have a Long-Term Incentive Plan (the “2021 LTIP”) that was issued on July 9, 2021. According to the 2021 LTIP, at the discretion of our board of directors, but at least on an annual basis, stock options may be granted to eligible employees. The aggregate number of additional shares authorized under the 2021 LTIP plan will not exceed 10% of the current number of shares in issue over the next five years, excluding any options or warrants granted before the 2021 LTIP plan.
+
+
+All options granted were determined to vest annually in equal thirds and can be exercised up to five years after the grant date. There are no performance requirements for vesting except that the share price must exceed the exercise price and the individual must remain employed.
+
+
+The following table sets forth the activity relating to the employee options outstanding under the 2021 LTIP for the year ended December 31, 2021 (aggregate intrinsic value in thousands):
+
+
+
+For the Year Ended December 31, 2021 | Number | | Weighted average exercise price | | | Weighted average remaining contractual life (years) | Aggregate intrinsic value
+------------------------------------------+--------+-----------+---------------------------------+---+-------+-----------------------------------------------------+--------------------------
+Awards outstanding at beginning of period | | - | | $ | - | | | | 
+Awards granted | | 2,105,527 | | $ | 10.05 | | | | 
+Awards forfeited | | 3,555 | | $ | 10.00 | | | | 
+Awards outstanding at end of period | | 2,101,972 | | $ | 10.05 | | 4.74 | $ | 2,376
+Awards exercisable at end of period | | - | | $ | - | | - | $ | - 
+
+
+
+
+
+
+Assumptions used to determine the fair value of employee options under the 2021 LTIP using the Black-Scholes-Merton option pricing model are as follows:
+
+
+
+ | For the Year Ended December 31, 2021 | 
+---------------------------------+--------------------------------------+------
+ | Range of Assumptions | 
+Grant date fair value per option | $ | 3.57 | | $ | 5.21 | 
+Valuation assumptions: | | | | | | 
+Expected term (years) | | 3.29 | | | 3.50 | 
+Expected volatility | | 56.40 | % | | 57.41 | %
+Expected dividend yield | | 0.00 | % | | 0.00 | %
+Risk-free interest rate | | 0.95 | % | | 0.98 | %
+
+
+
+
+The Company used the simplified method when calculating the expected term due to insufficient historical exercise data. The expected volatilities were derived from the average historical daily stock volatilities of a peer group of public companies that we consider to be comparable to our business over a period equivalent to the expected terms of the share-based awards. The expected dividend yield was based on our Company’s expectation of not paying dividends in the foreseeable future. Consequently, the expected dividend yield used is zero. The risk-free interest rates were based on the US Treasury Rates.
+
+
+After our Business Combination, option awards were granted out of the money, and we determined a lattice model was required for pricing the awards granted. Assumptions used to determine the fair value of employee options under the 2021 LTIP using a lattice option pricing model are as follows:
+
+
+
+ | For the Year Ended December 31, 2021 | 
+---------------------------------+--------------------------------------+------
+ | Range of Assumptions | 
+Grant date fair value per option | $ | 3.26 | | - | $ | 3.41 | 
+Valuation assumptions: | | | | | | | 
+Expected volatility | | 49.70 | % | - | | 50.80 | %
+Expected dividend yield | | 0.00 | % | - | | 0.00 | %
+Risk-free interest rate | | 0.78 | % | - | | 0.82 | %
+
+F-18
+
+
+
+
+
+
+
+As the awards were issued out of the money, an assumption was made that the holders would choose to exercise when a certain exercise ratio was achieved of the share price over the exercise price, upon which the expected life was calculated. The expected volatilities were derived from the average historical daily stock volatilities of a peer group of public companies that we consider to be comparable to our business over a period equivalent to the expected terms of the share-based awards. The expected dividend yield was based on our Company’s expectation of not paying dividends in the foreseeable future. Consequently, the expected dividend yield used is zero. The risk-free interest rates were based on the US Treasury Rates.
+
+
+The weighted-average grant-date fair value of the options granted during the years ended December 31, 2021 and 2020 was $3.62 and nil, respectively. Compensation expense recorded for the employee awards in general and administrative for the year ended December 31, 2021 was $0.6 million. Compensation expense recorded for the employee awards in research and development for the year ended December 31, 2021 was $0.1 million. No compensation expense was recorded for the year ended December 31, 2020. As of December 31, 2021, unrecognized compensation expense related to non-vested share-based compensation arrangements was $6.9 million. The expense is expected to be fully recognized over 2.9 years.
+
+
+CEO Option Awards
+
+
+
+On June 16, 2021, our Chief Executive Officer (“CEO”) entered into a stock option agreement, as an appendix to an employment agreement, effective upon the consummation of the Business Combination. Under the stock option agreement, our CEO was awarded 850,000 options to acquire our shares at an exercise price of $10.00 (the “CEO Option Awards”). The CEO Option Awards are subject to the board of directors’ assessment of the CEO’s performance pursuant to nine KPIs, which will occur during Q1 2022 and Q1 2023. The performance of each KPI will award the CEO with 1/9 of the maximum options. For each KPI, options that are confirmed in Q1 2022 will vest in equal thirds on December 31, 2022, September 30, 2023 and June 1, 2024. Options that are confirmed in Q1 2023 will vest in equal halves on September 30, 2023 and June 1, 2024. Failure to perform a KPI will reduce the maximum conditionally awarded options pro-rata and preclude the KPI from subsequently being earned by the CEO.
+
+
+The CEO Option Awards were determined to be granted on July 13, 2021 and compensation cost will be recognized if we conclude that it is probable that the performance condition will be achieved. As of December 31, 2021, no compensation expense has been recognized.
+
+
+Nonemployee Awards – Related Party
+
+
+
+On March 1, 2019, FREYR Legacy entered into a consulting agreement with EDGE Global LLC (“EDGE”) for FREYR Legacy’s CEO and Chief Commercial Officer to be hired to perform certain services related to leadership, technology selection and operational services (the “2019 EDGE Agreement”). Per the 2019 EDGE Agreement, FREYR Legacy agreed to issue 1,488,862 warrants to EDGE equaling 6.5% of the total outstanding shares of FREYR Legacy as of the effective date of the 2019 EDGE Agreement. On July 8, 2020, FREYR Legacy resolved to issue 1,488,862 warrants to EDGE under the 2019 EDGE Agreement upon the consummation of a New Capital Raise as defined in the 2019 EDGE Agreement. The warrants may be exercised at the latest of May 15, 2024. Each warrant shall give the right to subscribe for one new ordinary share of FREYR Legacy with a subscription price of $0.95 per share.
+
+
+On September 1, 2020, FREYR Legacy amended the 2019 EDGE Agreement, effective as of July 1, 2020 (the “2020 EDGE Agreement”). This amendment extended the term of the 2019 EDGE Agreement to December 31, 2021, and also set forth the new terms and conditions governing EDGE’s engagement with FREYR Legacy. Under the 2020 EDGE Agreement, FREYR Legacy agreed to issue 687,219 warrants to EDGE. The warrants will vest over an eighteen-month graded vesting period and expire on September 30, 2025. Each warrant provided the right to subscribe for one new ordinary share of FREYR Legacy with a subscription price of $0.99 per share. On September 25, 2020, the board approved the modification of the subscription price to be $1.22 per share. On October 6, 2020, the issuance of warrants was approved by FREYR Legacy’s shareholders at the extraordinary general meeting reclassifying the award from liability to equity after which the fair value of the award was no longer remeasured. Upon the consummation of the Business Combination, all unvested awards vested immediately. The following table sets forth the activity relating to warrants outstanding for the year ended December 31, 2021 (aggregate intrinsic value in thousands):
+
+
+
+For the Year Ended December 31, 2021 | Number | | Weighted average exercise price | | | Weighted average remaining contractual life (years) | Aggregate intrinsic value
+--------------------------------------------+--------+-----------+---------------------------------+---+------+-----------------------------------------------------+--------------------------
+Warrants outstanding at beginning of period | | 2,176,081 | | $ | 1.03 | | | | 
+Warrants granted | | - | | $ | - | | | | 
+Warrants outstanding at end of period | | 2,176,081 | | $ | 1.03 | | 2.81 | $ | 22,084
+Warrants exercisable at end of period | | 2,176,081 | | $ | 1.03 | | 2.81 | $ | 22,084
+
+F-19
+
+
+
+
+
+
+
+Assumptions used to determine the fair value of warrants under the EDGE Agreements using the Black-Scholes-Merton option pricing model are as follows:
+
+
+
+ | July 8, 2020 | | | October 6, 2020 | 
+----------------------------------+--------------+-------+---+-----------------+--
+Grant date fair value per warrant | $ | 0.28 | | | $ | 0.39 | 
+Valuation assumptions: | | | | | | | 
+Expected term (years) | | 4.00 | | | | 2.80 | 
+Expected volatility | | 43.29 | % | | | 43.10 | %
+Expected dividend yield | | 0.00 | % | | | 0.00 | %
+Risk-free interest rate | | -0.65 | % | | | -0.71 | %
+
+
+
+
+The expected term was calculated using the simplified method based on the warrants vesting term and contractual terms as there was not sufficient relevant historical information to develop reasonable expectations about future exercise patterns and post-vesting employment termination behavior. The expected volatility was derived from the average historical daily stock volatilities of a peer group of public companies that we consider to be comparable to our business over a period equivalent to the expected term of the share-based grants. The expected dividend yield was based on our expectation of not paying dividends in the foreseeable future. Consequently, the expected dividend yield used is zero. The risk-free interest rate was based on the AAA-Rated Euro Area Central Government Bond Yields.
+
+
+The weighted-average grant-date fair value of the warrants granted during the years ended December 31, 2021 and 2020 was nil and $0.31, respectively. Compensation expense recorded for the years ended December 31, 2021 and 2020 for the warrants was $0.2 million and $0.5 million, respectively. As of December 31, 2021, all compensation expense for the warrants was recognized.
+
+
+Nonemployee Awards
+
+
+
+On December 4, 2020, FREYR Legacy agreed with a third-party service provider for its support in initiating and enabling high-level discussions with Japanese technology providers to enter into license agreements. In accordance with the agreement, FREYR Legacy planned to issue 413,313 warrants as payment-in-kind. Per the agreement, the warrants vest immediately and may be exercised at any time with the latest being September 30, 2023. As of December 31, 2020, as the warrants had yet to be approved by the shareholders, they were treated as cash-settled liability awards. Until the share issuance is approved by the shareholders, the third-party service provider retains a put option to demand cash payment of EUR 0.4 million ($0.4 million), which was recognized as accrued share-based compensation expense within accrued liabilities in FREYR Legacy’s consolidated balance sheet as of December 31, 2020. On February 16, 2021, FREYR Legacy’s shareholders resolved to issue the 413,313 warrants with an exercise price of NOK 0.01. On March 8, 2021, the warrants were subscribed for by the third-party service provider, and as the put option was no longer in the control of the third-party service provider, the warrants were reclassified from liability to equity and remeasured to the fair value on the date of subscription. As part of this reclassification, the share-based compensation liability of $0.5 million recognized in accrued liabilities as of December 31, 2020, was reclassified to equity. On November 26, 2021, the warrants were exchanged on one-for-one basis for ordinary shares.
+
+
+The following table sets forth the activity relating to warrants outstanding for the year ended December 31, 2021 (aggregate intrinsic value in thousands):
+
+
+
+For the Year Ended December 31, 2021 | Number | | Weighted average exercise price | | | Weighted average remaining contractual life (years) | Aggregate intrinsic value
+--------------------------------------------+--------+---------+---------------------------------+---+------+-----------------------------------------------------+--------------------------
+Warrants outstanding at beginning of period | | 413,313 | | $ | 0.01 | | | | 
+Warrants granted | | - | | $ | - | | | | 
+Warrants exercised | | 413,313 | | $ | 0.01 | | | $ | 4,618
+Warrants outstanding at end of period | | - | | $ | - | | - | $ | - 
+
+
+
+
+Assumptions used to determine the fair value of warrants using the Black-Scholes-Merton option pricing model are as follows:
+
+
+
+ | March 8, 2021 | 
+----------------------------------+---------------+------
+Grant date fair value per warrant | $ | 10.17 | 
+Valuation assumptions: | | | 
+Expected term (years) | | 3.00 | 
+Expected volatility | | 49.80 | %
+Expected dividend yield | | 0.00 | %
+Risk-free interest rate | | -0.66 | %
+
+F-20
+
+
+
+
+
+
+
+The expected term is the contractual term per the agreement between us and the third-party service provider. The expected volatility was derived from the average historical daily stock volatilities of a peer group of public companies that we consider to be comparable to our business over a period equivalent to the expected term of the warrants. The expected dividend yield was based on our expectation of not paying dividends in the foreseeable future. Consequently, the expected dividend yield used is zero. The risk-free interest rate was based on the AAA-Rated Euro Area Central Government Bond Yields.
+
+
+The weighted-average grant-date fair value of the warrants granted during the years ended December 31, 2021 and 2020 was $10.17 and nil, respectively. Compensation expense recorded for the years ended December 31, 2021 and 2020 for the warrants was $3.7 million and $0.5 million, respectively. As of December 31, 2021, all compensation expense was recognized related to the share-based compensation arrangement.
+
+
+
+12. Government Grants
+
+On February 10, 2021, we were awarded a grant of NOK 2.5 million ($0.3 million based on NOK/USD exchange rate at the time of the transaction) for research, development and innovation in battery cell technology. The grant was awarded to assist with the costs incurred associated with employees and staff, contract research and consultants, overhead and operating expenses and purchased research and development. The grant will be paid out over two years. During the three months ended June 30, 2021, an initial grant was made for 50% of the expected grant for 2021. We will be required to submit annual expense reports with supporting documentation of costs incurred that must be approved before payment. The grant will cover up to 70% of total expected project costs with 75% being granted upon receipt of the annual expense report and the remaining 25% being paid upon the approval of the final project report and third-party attestation. Although a payment of the initial grant has been received, support for the related expenses will not be approved until the submission of the first annual expense report. As such, as of December 31, 2021, we recognized $0.1 million as deferred income in the consolidated balance sheet. For the year ended December 31, 2021, no other income was recognized within the consolidated statements of operations and comprehensive loss.
+
+
+On February 12, 2021, we were awarded a grant of NOK 39.0 million ($4.6 million based on NOK/USD exchange rate at the time of the transaction) for research, development and innovation in environmental technology. The grant was awarded to assist with the costs incurred associated with employees and staff, contract research and consultants, overhead and operating expenses and intellectual property, patents and licenses. The grant is paid out in three installments based on meeting certain milestones in the agreement, in which the last milestone is payable after the final project report is approved. The grant is subject to meeting certain business size thresholds and conditions, such as documenting and supporting costs incurred, obtaining a third-party attestation of our related records and implementing policies that demonstrate good corporate governance. For the portion of any grant received for which costs have not yet been either incurred or supported through the appropriate documentation, we recognize deferred income in the consolidated balance sheets. The first milestone of 30% and the second milestone of 50% were met during the three months ended March 31, 2021 and three months ended June 30, 2021, respectively, and payment was received. However, as of December 31, 2021, the appropriate documentation of the financing of project costs and third-party attestation had only occurred for the second milestone. As such, as of December 31, 2021, we recognized $1.3 million as deferred income within the consolidated balance sheet. For the year ended December 31, 2021, $2.3 million was recognized as other income within the consolidated statements of operations and comprehensive loss.
+
+
+On March 1, 2021, we were awarded a grant of NOK 142 million ($16.5 million based on NOK/USD exchange rate at the time of the transaction) for the development and construction of the pilot plant in Mo i Rana, Norway. The grant was awarded to assist with the costs incurred associated with payroll, rent and depreciation, research and development costs, costs directly related to the production of the pilot plant and other operating expenses. The grant is paid in arrears upon request based on progress and accounting reports with the last milestone becoming payable after the final project report is approved. The grant is subject to achieving successful financing of the pilot plant and other conditions, such as documenting and supporting costs incurred and obtaining a third-party attestation of our related records. As of December 31, 2021, we had not yet satisfied the requirements and thus have not reduced the carrying amount of the pilot plant by any grant amount.
+
+
+
+13. Income Taxes
+
+
+
+We had no provision for income taxes for the years ended December 31, 2021 and 2020. Additionally, we had no current tax expense, as a result of historical losses, and have no current deferred tax expense, as a result of the valuation allowance against our deferred tax assets.F-21
+
+
+
+
+
+
+
+A reconciliation of the effective rate of tax and tax rate in our countries of registration, Luxembourg, in 2021, and Norway in 2020 are as follows (in thousands, except percentages):
+ | For the year ended December 31, | 
+--------------------------------------------------+----------------------------------+--------
+ | 2021 | | | 2020 | 
+Pretax net loss | $ | (93,378 | ) | | $ | (9,605 | )
+Statutory tax rate | | 25 | % | | | 22 | %
+Income taxes calculated at the statutory tax rate | $ | (23,288 | ) | | $ | (2,113 | )
+Non-deductible stock-compensation expense | | 898 | | | | - | 
+Loss on warrant liability | | 5,452 | | | | - | 
+Foreign tax rate differential | | 1,513 | | | | - | 
+Transaction costs | | (807 | ) | | | | 
+Changes in valuation allowance | | 16,605 | | | | 1,728 | 
+Other permanent tax items | | 374 | | | | 385 | 
+Tax expense | $ | - | | | | - | 
+Effective rate of tax | | 0 | % | | | 0 | %
+
+
+
+
+Deferred tax assets and liabilities are as follows (in thousands):
+
+
+
+ | As of December 31, | 
+-----------------------------------------------------+--------------------+--------
+ | 2021 | | | 2020 | 
+Deferred tax assets | | | | | 
+Tax losses carryforwards | $ | 16,295 | | | $ | 2,494 | 
+Stock-based compensation | | 2,861 | | | | - | 
+Total deferred tax assets before valuation allowance | | 19,156 | | | | 2,494 | 
+Valuation allowance | | (19,121 | ) | | | (2,397 | )
+Total deferred tax assets | | 35 | | | | 97 | 
+Deferred tax liabilities | | | | | | | 
+Property and equipment | | 35 | | | | 2 | 
+Prepayment and deferred income | | - | | | | 95 | 
+Total deferred tax liabilities | | 35 | | | | 97 | 
+Net deferred tax asset | $ | - | | | $ | - | 
+
+
+
+
+The valuation allowance increased by $16.7 million and $1.7 million for the years ended December 31, 2021 and 2020, respectively. The increase in the valuation allowance was primarily related to an increase in net operating loss carryforwards. For the years ended December 31, 2021 and 2020, we had net operating loss carryforwards of approximately $70.7 million and $11.3 million, respectively. The Group has significant net operating loss carryforwards in Norway and Luxembourg. In Luxembourg net operating losses can be carried forward for 17 years to offset future income or profits. In Norway net operating losses can be carried forward indefinitely.
+
+
+
+We are subject to income taxes in our locations of operations. The material jurisdictions in which we are subject to potential examination include Luxembourg and Norway. Tax regulations within each jurisdiction are subject to the interpretation of the related tax laws. Our tax years remain open for examination by all tax authorities since inception. We have not identified any uncertain tax positions.
+
+
+
+
+14. Related Party Transactions
+
+
+
+EDGE Agreements
+
+
+
+The 2019 EDGE Agreement provided that FREYR Legacy shall pay EDGE a monthly retainer fee. See Note 11 – Shareholders’ Equity for further discussion on the warrant agreements between FREYR Legacy and EDGE. Furthermore, the FREYR Legacy agreed to make certain milestone payments to EDGE based on the closing of certain additional financing rounds as defined within the 2019 EDGE Agreement. The 2019 EDGE Agreement was superseded on September 1, 2020, by the 2020 EDGE Agreement which extended the term of the 2019 EDGE agreement to December 31, 2021 and set forth the new terms and conditions governing EDGE’s engagement with FREYR Legacy. On January 18, 2021, the board resolved to terminate the 2020 EDGE Agreement and enter into an employment contract with the continuing CEO and a consulting contract with the prior Chief Commercial Officer, subject to the closing of the Business Combination. See below for further detail on the consulting agreement with the prior Chief Commercial Officer.
+
+
+
+The expenses incurred in relation to the consulting services provided for the years ended December 31, 2021 and 2020 were $4.3 million and $0.6 million, respectively. These expenses are recognized as general and administrative expenses within the consolidated statements of operations and comprehensive loss. The unpaid amount of nil and less than $0.1 million was recognized in accounts payable and accrued liabilities – related party as of December 31, 2021 and 2020, respectively.
+
+
+
+
+F-22
+
+
+
+
+
+
+
+Consulting Agreement
+
+
+
+Concurrent with the consummation of the Business Combination, we agreed to a consulting agreement with the prior Chief Commercial Officer and current member of the board of directors. Per the consulting agreement, the consultant will provide services related to scaling sustainable energy storage, as well as any other services requested by us, for a term of three years. During this term, we will pay the consultant an annual fee of $0.4 million. Per the agreement, the consultant is also entitled to participate in our benefit plans made available to our senior executives. The expenses incurred for consulting services for the years ended December 31, 2021 and 2020 were $0.2 million and nil, respectively. These expenses are recognized as general and administrative expenses within the consolidated statements of operations and comprehensive loss. The unpaid amount of less than $0.1 million and nil was recognized in accounts payable and accrued liabilities - related party as of December 31, 2021 and 2020, respectively.
+Metier
+
+
+
+In 2020, we entered into a framework agreement with Metier OEC, which provides primarily project management and administrative consulting services. The CEO of Metier OEC is the brother of our current Executive Vice President Projects. The expenses incurred for consulting services for the years ended December 31, 2021 and 2020 were $4.7 million and $0.9 million, respectively. These expenses are recognized as general and administrative expenses within the consolidated statements of operations and comprehensive loss. The unpaid amount of $0.3 million and $0.3 million was recognized in accounts payable and accrued liabilities — related party as of December 31, 2021 and 2020, respectively.
+Equity Method Investment
+
+
+
+
+We hold a 50% common stock ownership in FREYR Battery KSP JV, LLC that is accounted for under the equity method. FREYR along with Koch Strategic Platforms, who also holds 50% common stock ownership, formed FREYR Battery KSP JV, LLC in October 2021 to advance the development of clean battery cell manufacturing in the United States. As part of this agreement, both parties agreed to contribute $3.0 million for the initial costs related to developing the first gigafactory to project concept selection. Project concept selection remains under development as of December 31, 2021. The initial capital contributions by both parties were made in January 2022. For the period from inception to December 31, 2021, FREYR Battery KSP JV, LLC reported a net loss of $0.1 million.
+
+
+
+
+Convertible Debt 
+
+
+
+During the year ended December 31, 2020, we issued 2020 Convertible Notes to two related parties. See Note 9 – Fair Value Measurement for further discussion.
+
+
+
+15. Convertible Note 
+
+
+
+On October 8, 2021, we invested $20 million in an unsecured convertible note from 24M, our battery platform technology licensor for our current planned facilities in Norway. See Note 7 – Commitments and Contingencies for further detail on 24M. The note matures on October 8, 2024. The note carries an annual interest rate of 5% and is convertible into common stock or preferred stock at our option beginning on October 8, 2023 or automatically upon a qualified initial public offering or direct listing in excess of our conversion price. Additionally, the note contains a change of control provision that would result in repayment of 1.75x the note’s original investment value plus any accrued interest. We have elected to account for the convertible note using the fair value option. See Note 9 – Fair Value Measurement for details on the valuation methodology.
+16. Net Loss Per Share
+
+
+
+
+We compute net loss per share using the two-class method required for participating securities. Under the two-class method, undistributed earnings for the period are allocated to participating securities, including the redeemable preferred shares that were settled as part of the Business Combination, based on the contractual participation rights of the security to share in the current earnings as if all current period earnings had been distributed. As there was no contractual obligation for the redeemable preferred shares to share in losses, our basic net loss per share attributable to ordinary shareholders for the years ended December 31, 2021, and 2020, is computed by dividing net loss attributable to ordinary shareholders by the weighted-average number of ordinary shares outstanding. No dividends were declared or paid for the years ended December 31, 2021 and 2020.
+
+
+
+
+
+Diluted net loss per share attributable to ordinary shareholders adjusts basic net loss per share attributable to ordinary shareholders to give effect to all potential ordinary shares that were dilutive and outstanding during the year. For the years ended December 31, 2021, and 2020, the treasury stock method was used to assess our warrants and share-based payment awards while the if-converted method was used to assess our convertible debt and preferred shares; however, no instrument was determined to have a dilutive effect.
+
+
+
+
+
+F-23
+
+
+
+
+
+
+
+
+The following table sets forth the computation of our basic and diluted net loss per share attributable to ordinary shareholders for the years ended December 31, 2021, and 2020 (amounts in thousands, except share and per share amounts):
+
+ | For the year ended December 31, | 
+-------------------------------------------------------------------+----------------------------------+-----------
+ | 2021 | | | 2020 | 
+Numerator: | | | | | 
+Net loss attributable to ordinary shareholders - basic and diluted | $ | (93,378 | ) | | $ | (9,605 | )
+Denominator: | | | | | | | 
+Weighted average ordinary shares outstanding - basic and diluted | | 75,362,870 | | | | 28,312,125 | 
+Net loss per ordinary share: | | | | | | | 
+Basic and diluted | $ | (1.24 | ) | | $ | (0.34 | )
+
+
+
+
+
+The following table discloses the outstanding securities that could potentially dilute basic net loss per share in the future that were not included in the computation of diluted net loss per share as the impact would be anti-dilutive:
+
+
+
+
+
+
+
+
+ | As of December 31, | 
+-----------------------------------+--------------------+-----------
+ | 2021 | | 2020
+EDGE warrants | | 2,176,081 | | 2,176,081 
+Other nonemployee warrants | | - | | 413,313 
+Employee awards | | 2,101,972 | | - 
+Share-based compensation liability | | 1,007,884 | | 179,037 
+Private Warrants | | 10,250,000 | | - 
+Public Warrants | | 14,375,000 | | - 
+Redeemable preferred shares | | - | | 7,500,000 
+Total | | 29,910,937 | | 10,268,431
+
+
+
+
+
+For the year ended December 31, 2021 the Company excluded the 850,000 CEO Option Awards, as it is not yet probable that the performance conditions will be achieved.
+
+
+
+
+F-24
+
+
+
+
+
+
+

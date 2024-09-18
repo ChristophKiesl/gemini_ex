@@ -1,0 +1,463 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+------------+----------
+
+Overview
+
+
+Vyant Bio, Inc. (the “Company”, “Vyant Bio”, “VYNT” or “we”), is an innovative biotechnology company reinventing drug discovery for complex neurodevelopmental and neurodegenerative disorders. Our central nervous system (“CNS”) drug discovery platform combines human-derived organoid models of brain disease, scaled biology, and machine learning. Our platform is designed to: 1) elucidate disease pathophysiology; 2) formulate key therapeutic hypotheses; 3) identify and validate drug targets, cellular assays, and biomarkers to guide candidate molecule selection; and 4) guide clinical trial patient selection and trial design. Our current programs are focused on identifying repurposed and novel small molecule clinical candidates for rare CNS genetic disorders including Rett Syndrome (“Rett”), CDKL5 Deficiency Disorders (“CDD”) and familial Parkinson’s Disease (“PD”). The Company’s management believes that drug discovery needs to progressively shift as the widely used preclinical models for predicting safe and effective drugs have under-performed, as evidenced by the time and cost of bringing novel drugs to market. As a result, Vyant Bio is focused on combining sophisticated data science capabilities with highly functional human cell derived disease models. We leverage our ability to identify validated targets and molecular-based biomarkers to screen and test thousands of small molecule compounds in human diseased 3D brain organoids in order to create a unique approach to assimilating biological data that supports decision making iteratively throughout the discovery phase of drug development to identify both novel and repurposed drug candidates.
+
+
+In December 2021, the Company’s Board of Directors approved a plan to sell the vivoPharm Pty Ltd (“vivoPharm”) business to allow the Company to focus on the development of neurological developmental and degenerative disease therapeutics. We engaged an investment banker in December 2021 to sell the vivoPharm business before the end of 2022.
+
+
+StemoniX Merger
+ 
+On March 30, 2021, Vyant Bio, formerly known as Cancer Genetics, Inc. (“CGI”), completed its business combination (the “Merger”) with StemoniX, Inc., a Minnesota corporation (“StemoniX”), in accordance with the Agreement and Plan of Merger and Reorganization, dated as of August 21, 2020 (the “Initial Merger Agreement”) by and among the Company, StemoniX and CGI Acquisition, Inc., a Minnesota corporation and wholly-owned subsidiary of the Company (“Merger Sub”), as amended by Amendment No. 1 thereto made and entered into as of February 8, 2021 (the “First Amendment”) and Amendment No. 2 thereto made and entered into as of February 26, 2021 (the “Second Amendment”) (the Initial Merger Agreement, as amended by the First Amendment and Second Amendment, the “Merger Agreement”), pursuant to which Merger Sub merged with and into StemoniX, with StemoniX surviving the Merger as a wholly-owned subsidiary of the Company.
+ 
+The Merger was accounted for as a reverse acquisition with StemoniX being the accounting acquirer of CGI using the acquisition method of accounting. Under acquisition accounting, the assets and liabilities (including executory contracts, commitments and other obligations) of CGI, as of March 30, 2021, the closing date of the Merger, were recorded at their respective fair values and added to the historical accounts of StemoniX. The excess of purchase price consideration over the fair values of the identifiable net assets was recorded as goodwill. The total consideration paid by StemoniX in the Merger amounted to $59.9 million, which represents the fair value of CGI’s 11,007,186 shares of Common Stock or $50.74 million, 2,157,686 Common Stock warrants or $9.04 million and 55,907 Common Stock options outstanding on the closing date of the Merger with a fair value of $139 thousand. In addition, at the effective time of the Merger, existing StemoniX shareholders received an additional 804,711 incremental shares in accordance with the conversion ratio set forth in the Merger Agreement.
+ 
+Effective with the Merger, the historical financial statements of StemoniX, as the accounting acquiror, became the historical financial statements of the Company under U.S. generally accepted accounting principles (“US GAAP”) and Cancer Genetics, Inc. was renamed Vyant Bio, Inc. Therefore, the underlying operations of CGI and subsidiaries are consolidated in the Vyant Bio consolidated financial statements from March 30, 2021 onward. The discussions regarding the Company’s business herein reflect the operations of StemoniX prior to the Merger as well as the post-Merger combined operations of Vyant Bio and StemoniX.
+ 
+vivoPharm Business
+
+
+vivoPharm has a large set of anti-tumor referenced data based on xenograft, syngeneic predictive orthotopic tumor models to provide discovery services such as contract research services, focused on predictive and unique specialized models to guide drug discovery with a major focus in immuno-oncology. vivoPharm offers a suite of protocols and standard of care (“SoC”) data and supports planning and conducting unique, specialized studies to guide drug discovery and development programs. These studies range from early compound selection to developing comprehensive sets of in vitro and in vivo data, as needed for investigational new drug (“IND”) applications as required by regulatory bodies, such as the United States Food and Drug Administration (“FDA”), the European Medicines Agency (“MEA”) and Therapeutic Goods Administration (“TGA”) in Australia. vivoPharm’s current discovery services include preclinical anti-tumor efficacy, good laboratory practice (“GLP”) compliant toxicity studies and small and bio-molecule analytical services. vivoPharm provides the tools and testing methods for companies and researchers seeking to identify and to develop new compounds and molecular-based biomarkers for diagnostics and therapeutics.
+ 
+
+3
+-
+
+ 
+
+vivoPharm’s international presence enables it to access global market opportunities. vivoPharm’s headquarters in Australia specializes in safety and toxicology studies, including mammalian, genetic and in vitro, along with bioanalytical services including immune-analytical capabilities. vivoPharm operates from multiple locations in Melbourne (VIC) and Adelaide (SA). vivoPharm’s U.S.-based laboratory, located at the Hershey Center for Applied Research in Hershey, Pennsylvania, primarily focuses on screening and efficacy testing for a wide range of pharmaceutical and chemical products. The third location, in Munich, Germany, hosts project management and business development personnel for the European customers.
+ 
+As of December 31, 2021, the Company has accounted for vivoPharm as discontinuing operations. For further information, see section entitled “Discontinuing Operations” later in this Part I, and Note 3, Discontinuing Operations, to the Company’s Consolidated Financial Statements included in Part II. Item 8 herein.
+ 
+Business Strategy
+ 
+Drug Discovery
+
+
+The Company’s strategy is to continue building a unique and robust “human-first” drug discovery platform to discover repurposed and novel therapeutics to treat neurodevelopmental and neurodegenerative diseases, initially focusing on rare CNS genetic disorders including Rett, CDD and familial PD. Key to the Company’s strategy is the development and continued enhancement of specialized disease models by utilizing human-derived induced pluripotent stem cells (“iPSC”) to generate three dimensional organoids that exhibit spontaneous synchronized neuronal activity that can be detected in a high-throughput fashion. Vyant Bio has industrialized the production of iPSC-derived organoids into standard multi-well plate formats that we believe are sufficiently robust and reproducible to enable high throughput drug screening and provide insightful data for optimized selection of therapeutic candidates.
+
+
+The human organoid platform is combined with software analytics and machine learning systems, branded by the Company as its proprietary AnalytiX™ system. This integrated approach enables standardized, high-throughput screening of drug candidates to establish t human efficacy prior to conducting human clinical studies, mitigating or in some cases avoiding the inadequacies of testing in clonal cell lines or preclinical animal models. The Company believes that its technologies will permit drug discovery in human disease areas that are difficult to address using current methodologies, such as brain diseases, accelerate preclinical drug discovery and development, reduce risk of clinical failure, predict with greater degrees of confidence and, ultimately, reduce the cost of discovering new therapeutic agents. The Company’s strategy is to strive to file two IND applications with the FDA starting in 2023. The Company intends to license its therapeutic candidates to third parties before or after Phase I clinical trials for subsequent clinical development and receive a mixture of upfront payments, licensing fees, milestone-based fees, and ongoing royalty payments.
+
+
+The Company began transforming its Maple Grove, Minnesota facility to a high throughput manufacturing and screening facility in the fourth quarter of 2021 to expand the Company’s research and development capabilities. This transition is in line with the Company’s strategy to leverage its iPSC technology to pursue wholly owned and partnered drug discovery projects that yield higher valued proprietary therapeutic assets. This facility transformation is expected to be completed in the second half of 2022. Previously, the Company derived revenue from the sale of iPSC-based microOrganTM plates to pharmaceutical, biotechnology and research customers and through the performance of Discovery as a Service (“DaaS”) for these customers. The Company anticipates revenue generated from these activities will substantially cease in the first half of 2022 as the Company plans to use those resources to support its internal disease model and therapeutic drug development. The Company is also exploring potential opportunities to out-license access to its proprietary iPSC technologies to be used by pharmaceutical and biotechnology companies in their internal drug discovery programs.
+
+
+Therapeutic Programs
+ 
+The Company is actively seeking to discover repurposed and novel (New Chemical Entity, or “NCE”) lead candidates for Rett, CDD and familial PD which will become the foundation of the Company’s therapeutic platform. The Company’s therapeutic asset pipeline is as follows:
+Rett Syndrome (“Rett”)
+ 
+Rett is a rare genetic neurological disorder that occurs almost exclusively in girls and leads to severe impairments, affecting nearly every aspect of the child’s life including their ability to speak, walk, eat, and even breathe easily. The hallmark of Rett is near constant repetitive hand movements. Rett is usually recognized in children between 6 to 18 months as they begin to miss developmental milestones or lose abilities they had gained. Rett is caused by mutations on the X chromosome in a gene called MECP2. There are more than 900 different mutations found on the MECP2 gene. Most of these mutations are found in eight different “hot spots.” Rett is not a degenerative disorder with individuals living to middle age or beyond. Rett occurs worldwide in 1 of every 10,000 female births and is even rarer in boys. Rett can present with a wide range of disability ranging from mild to severe. The course and severity of Rett is determined by the location, type and severity of the mutation and X-inactivation. A 2022 report from Mellalta estimates the total global market opportunity for Rett therapeutic treatments is approximately $1.5 billion.
+
+4
+-
+
+ 
+
+The Company currently has two programs focused on Rett, that were identified based on a phenotypic screen of the SMART library provided by the International Rett Syndrome Foundation on our Rett patient-derived organoids: a repurposing candidate (VYNT0126) and several novel compounds.
+
+
+The VYNT0126 molecule is a promising repurposed candidate for several reasons. The compound has already been approved by the FDA as a cognition-enhancing medication for dementia related to Alzheimer’s disease, and there is readily available safety data. VYNT0126 exhibits a consistent dose-dependent rescue of the functional diseased Rett phenotype on our Rett patient-derived organoids and across additional functional readouts such as multielectrode electrophysiology assays, and cellular phenotypes (synaptogenesis).
+
+
+The Company is also pursuing novel compounds for Rett identified in the SMART screen in collaboration with Atomwise (as described below). We are applying machine learning to drive compound progression and we expect to complete our hit-to-lead optimization efforts in 2022 and commence IND-enabling studies in the first half of 2023.
+
+
+CDKL5 Deficiency Disorder (“CDD”)
+
+
+CDD is a neurodevelopmental condition characterized by early-onset seizures, intellectual delay, and motor dysfunction. Although crucial for proper brain development, the precise targets of CDKL5 and its relation to patients’ symptoms are under investigation. Our microBrain organoid screening platform enlightens cellular, molecular, and neural network mechanisms of genetic epilepsy that we are researching to ultimately promote novel therapeutic opportunities for patients. While genetic testing is currently available to determine if patients have mutation in the CDKL5 gene, the limited knowledge of pathology has hindered development of therapeutics, leaving CDD as an ultra-rare disease with a defined unmet medical need and no currently approved therapeutic treatments.
+
+
+The Company’s researchers screened approximately 5,200 custom library compounds composed of FDA approved molecules, molecules that passed Phase 1 clinical trials, and a panel of phenotypic screening compounds. This effort led to the potential to identify both internal NCE’s and potential repurposing molecules. Approximately 288 compounds showed some degree of rescue of the CDD hyperexcitability phenotype, and we are conducting further confirmatory screening followed by dose response studies and pharmacologic deconvolution. In collaboration with Cyclica (as described below), we are applying machine learning to identity in silico molecules for screening of 3 novel CDD targets. To drive hit-to-lead optimization we are establishing in vitro binding and cell-based functional assays for these targets to examine the relationship between target potency and degree of phenotypic rescue.
+
+
+Parkinson’s Disease (“PD”)
+ 
+PD is a progressive neurodegenerative disorder that affects predominately dopamine-producing (“dopaminergic”) neurons in a specific area of the brain called substantia nigra. PD symptoms generally develop slowly over time and include tremors, muscle rigidity, gait and balance problems, and slow, imprecise movements. PD afflicts more than 10 million people worldwide, with 60,000 new cases per annum diagnosed in the US alone, typically middle-aged and elderly people. The market for therapeutics to treat the many symptoms and different types of Parkinson’s disease is expected to expand to $7.2 billion by 2028, according to business intelligence provider Coherent Market Insights.
+ 
+The etiology of PD is poorly understood but it is widely accepted that a combination of genetics and environmental factors are the cause. About 10-15 percent of people with PD have a family history of the condition, and family-linked cases can result from genetic mutations in a group of genes, including GBA, LRRK2, PARK2, PARK7, PINK1 or the SNCA gene.
+ 
+Joint Venture and Collaborations 
+
+
+Joint Venture
+ 
+Atomwise Joint Venture
+ 
+On December 3, 2019, StemoniX announced a non-exclusive joint venture with Atomwise, Inc., a San Francisco based company, which combines StemoniX’s human microOrgan platform with Atomwise’s structure-based Artificial Intelligence (“AI”) technology to enable the rapid discovery and development of novel small molecule therapies. The joint venture is initially targeting Rett. In the joint venture, Atomwise is using its AI technology to analyze billions of compounds in silico to identify potent and selective binders for proteins that are important for Rett. StemoniX is currently testing the compounds on its human microBrain 3D disease model to determine biological activity. We believe this joint effort will decrease the traditional medicinal chemistry timeline as well as increase the number of promising compounds that can be tested, and thereby result in an efficient path to successful drug development. Each party owns 50% of this venture and is required to fund their respective development activities related to this arrangement.
+
+5
+-
+
+Ordaos Collaboration
+
+
+We had a collaboration to design and qualify biomarker-specific small protein therapeutics in an arrangement that included Ordaos’ generative AI technology to accelerate and optimize small protein (50 to 100 amino acids) drug discovery and development processes. In this collaboration, Ordaos provided a pipeline of digitally optimized therapeutics for further development. Preliminary data from newly-designed optimized proteins indicates the design parameters generated an improved class of proteins that were sufficient to predict ELISA EC50 binding in nanomolar (“nM”) range. We are working together to further optimize proteins for future drug development.
+Cyclica Collaboration
+
+On August 12, 2021, we entered into a non-exclusive Strategic Collaboration Agreement (“SCA”) with Cyclica, Inc., a Toronto, Ontario-based company that uses a proprietary AI and machine learning (“ML”) platform to identify potential new therapeutic targets, re-purposed compounds, and NCEs. In this collaboration we are currently focusing on identifying new targets and NCE for CDD,. The collaboration combines patient-derived neural organoids of the Company’s human-first neural platform with Cyclica’s in-silico platform to generate a disease-based, proteome-wide, discovery platform. The clinically linked biological signal of the CDD organoids and their responses to biologically active compounds drives the Cyclica platform to generate high-quality predictions for therapeutic targets based on their proprietary knowledge and structure-based algorithms. The predictions are tested in the Company’s platform, and if verified, advanced into AI/ML-based NCE synthesis. Together the platforms enable rapid interrogation of the human proteome to accelerate the discovery of new cures for this debilitating disease and the SCA has identified four novel targets, three of which are being actively pursued under the SCA. The Company owns all inventions and discoveries resulting from the collaboration (“Work Product”). Cyclica is entitled to a decreasing percentage of any consideration that the Company receives for the sale, licensing, or other disposition of Work Product, ranging from the mid-double digits in the early preclinical stages of development down to the mid-single digits from and after late-stage clinical development.
+
+
+OrganoTherapeutics Collaboration
+ 
+On March 29, 2022, we announced a collaboration with OrganoTherapeutics to advance our work on the identification of lead compounds to address the complexities of Parkinson’s Disease, with our initial focus on the GBA and LRRK2 familial mutations. Haploinsufficiency of the GBA gene which makes the enzyme glucocerebrosidase is the most common genetic mutation that causes PD. People with PD who have the GBA mutation tend to experience motor symptom deficits sooner, cognitive decline more rapidly and have particular difficulty with their gait and postural balance.
+ 
+NIH Collaboration
+ 
+In April 2019, the National Center for the Advancement of Translational Sciences (“NCATS”), the institute charged with finding better technology models for the National Institutes of Health (“NIH”), and StemoniX entered into a Research Collaboration Agreement (“RCA”). The RCA is part of the HEAL (Helping to End Addiction Long-Term) Initiative, a multi-institute effort to fight the opioid epidemic, and screening of over 300 compounds has been completed. The analysis by the NIH was supported with AnalytiX, described above, and provided an unbiased and deep analysis of the microBrain waveforms. The resulting output was developed into a joint publication that demonstrated how the Company’s neural platform responds across a wide range of chemicals and drugs and can be used to separate different mechanisms of action. More importantly, the joint project validated a high-throughput, human-based platform for further insight into drug action and provided a foundation for future drug development that would treat pain without opioids with a goal of combatting the opioid crisis.
+
+
+
+6
+-
+
+Competition
+ 
+The pharmaceutical industry is intensely competitive, where a company’s proprietary advancements in science and technology play a critical role in its competitive advantage. Any product candidates that we may successfully discover and develop, may compete with existing therapies, or new therapies that may become available in the future. Our commercial opportunities could be reduced or eliminated if our competitors develop and commercialize products that are more effective, have fewer side effects, are more convenient or are less expensive than any products that we may develop.
+ 
+At this time, our primary competitors are other pharmaceutical and biotechnology or biomedical development companies that are trying to discover and develop compounds to be used in the treatment of Rett, CDKL5, PD and other CNS diseases, including those companies already doing so. Some of those companies include Acadia Pharmaceuticals (NASDAQ:ACAD), Anavex Life Sciences (NASDAQ:AVXL) Biogen (NASDAQ:BIIB), Pfizer Inc. (NYSE:PFE), Abbvie Plc (NYSE:ABBV), Novartis AG (NYSE:NVS), GlaxoSmithKline Plc (NYSE:GSK), Merck & Co. Inc. (NYSE:MRK), Eli Lilly & Co. (NYSE: LLY), Johnson & Johnson (NYSE:JNJ), Roche Holding AG (VTX:ROG), Zogenix (NASDAQ:ZGNX), UCB (Euronext:UCB) and Marinus Pharmaceuticals, Inc. (NASDAQ:MRNS). We also face competition from academic institutions and government agencies, both in the United States and abroad.
+
+
+Intellectual Property
+ 
+Patents and Trade Secrets
+ 
+We protect and expand our intellectual property primarily through a combination of patent filings, trade secrets and exclusive/non-exclusive in-licensing. For processes and products that can be reverse-engineered, we typically file utility patent applications.
+
+
+Regarding our patent portfolio, the Company does not rely on a singular patent to execute our business plan. Our objective is to create a significant barrier to entry for competitors by applying for patents not only on our lead products and processes but also on possible workarounds. Our intellectual property portfolio (including both owned patent applications and licensed-in technology) covers stem cells, manufacturing processes, product packaging, digital cellular electronics, cell micro-environments and structure, and cell networks. Each patent application includes its own strategy, which may involve the use of provisional patent application filings and related domestic and foreign patent applications that claim the benefits of the provisional applications and that are intended to provide the Company coverage in key geographical markets. Our patent portfolio is designed to grow with our Company.
+ 
+The Company has 12 issued patents in various countries globally, defined in the table below:
+ 
+
+TITLE | COUNTRY | APP NUMBER | PATENT NUMBER | GRANT DATE | PRIORITY DATE | PUBLICATION NUMBER 
+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------+----------------+-------------------+----------------+-------------------+-----------------------
+METHOD OF FABRICATING CELL ARRAYS AND USES THEREOF | Japan | 2017-530976 | 6510649 | Apr 12, 2019 | Aug 28, 2014 | 2017532061 
+METHOD OF FABRICATING CELL ARRAYS AND USES THEREOF | Singapore | 11201701540P | 11201701540P | May 22, 2020 | Aug 28, 2014 | 
+METHOD OF FABRICATING CELL ARRAYS AND USES THEREOF | United States of America | 14/839,170 | 10,625,234 | Apr 21, 2020 | Aug 28, 2014 | US20160059203A1 
+SURFACE ENERGY DIRECTED CELL SELF ASSEMBLY | United States of America | 15/199,419 | 11,248,212 | Feb 15, 2022 | Jun 30, 2015 | US20170002324A1 
+METHOD OF MANUFACTURING OR DIFFERENTIATING MAMMALIAN PLURIPOTENT STEM CELLSOR PROGENITOR CELLS USING A HOLLOW FIBER BIOREACTOR | United States of America | 15/293,563 | 10,760,053 | Sep 1, 2020 | Oct 15, 2015 | US20170107488A1 
+CELL MEDIUM FORMULATION FOR CELL STABILIZATION | Switzerland | 17701262.2 | 3402330 | Dec 29, 2021 | Jan 12, 2016 | 3402330 
+CELL MEDIUM FORMULATION FOR CELL STABILIZATION | Germany | 17701262.2 | 602017051503.5 | Dec 29, 2021 | Jan 12, 2016 | 3402330 
+CELL MEDIUM FORMULATION FOR CELL STABILIZATION | European Patent Office | 17701262.2 | 3402330 | Dec 29, 2021 | Jan 12, 2016 | 3402330 
+CELL MEDIUM FORMULATION FOR CELL STABILIZATION | France | 17701262.2 | 3402330 | Dec 29, 2021 | Jan 12, 2016 | 3402330 
+CELL MEDIUM FORMULATION FOR CELL STABILIZATION | United Kingdom | 17701262.2 | 3402330 | Dec 29, 2021 | Jan 12, 2016 | 3402330 
+PROJECTED CAPACITIVE MULTI ELECTRODE EUKARYOTIC CELL ARRAY | United States of America | 15/588,154 | 11,054,408 | Jul 6, 2021 | May 6, 2016 | US20170322194A1 
+HIGH THROUGHPUT OPTICAL ASSAY OF HUMAN MIXED CELL POPULATION SPHEROIDS | United States of America | 16/035,039 | 11,193,159 | Dec 7, 2021 | Jul 14, 2017 | US20190017097A1 
+
+ 
+We believe our combination of owned and licensed-in patents, covering both our products and processes and our ownership of intellectual property that provides protection against anticipated workarounds by potential competitors, and trade secrets is a unique advantage.
+
+
+
+7
+-
+
+Trademarks
+ 
+The Company has the following registered trademarks: StemoniX, microHeart, microBrain, microKidney, microNerve, microLiver, microTumor, microPancreas, BeYourCure, Person-on-a-Plate, Clinical Trial on-a-Plate, and microOrgan VyantBio, Vyant Bio, and Human-powered and the following pending trademark application: Biological Intelligence. In addition, the Company claims common law trademark rights with respect to the mark AnalytiX.
+Licenses
+ 
+The Company licenses multiple patents and protocols from the University of California, San Diego, as well as from (1) Academia Japan for technology that we need in order to create and sell induced pluripotent stem cells, (2) ID Pharma for the Sendai virus vector technology, and (3) the Max Plank Innovation GmbH for mid-brain organoid production.
+ 
+In the context of our drug development effort, whenever possible, we obtain licenses from customers to use the data we collect while providing drug screening services to those customers. We believe that this data will have significant value to our business as it refines its screening models.
+ 
+IDP License Agreement
+ 
+StemoniX entered into a Non-Exclusive License Agreement (the “IDP License Agreement”) with ID Pharma Co., Ltd., a Japanese corporation (“IDP”) effective as of January 29, 2016. Under the terms of the IDP License Agreement, IDP has granted StemoniX a royalty bearing, non-exclusive and non-transferable license in the United States and, upon exercise of the option described below, worldwide, to use the technology and processes covered by certain patents owned by IDP (the “IDP Licensed Patents”) to (i) generate iPSCs covered by the IDP Licensed Patents and differentiated cells derived from such iPSCs (collectively, the “IDP Licensed Products”), (ii) sell the IDP Licensed Products that are differentiated cells, and (iii) provide services involving the IDP Licensed Products (the “IDP Licensed Services”).
+ 
+Pursuant to the IDP License Agreement, StemoniX agreed to pay IDP a non-credible and non-refundable up-front fee. The IDP License Agreement provides StemoniX the option, at any time during the term of the IDP License Agreement, to pay IDP an additional non-creditable and non-refundable fee in exchange for the rights to sell the IDP Licensed Products and IDP Licensed Services worldwide. Additionally, StemoniX has agreed to pay IDP a single digit percentage royalty on net sales of IDP Licensed Products sold by StemoniX. Royalties are payable within 60 days after the close of each consecutive 12-month period after the effective date of the IDP License Agreement, and annual minimum royalties apply. The IDP License Agreement may be terminated by either party upon an uncured breach of any material provision of the IDP License Agreement by the other party and under certain other circumstances.
+ 
+Academia Japan License Agreement
+ 
+StemoniX signed an Amended and Restated Non-Exclusive License Agreement (the “AJ License Agreement”) with iPS Academia Japan, Inc., a Japanese corporation (“Academia Japan”) effective as of April 1, 2017. Under the terms of the AJ License Agreement, Academia Japan has granted StemoniX a royalty bearing, non-exclusive, non-transferable license to use the technology and processes covered by two groups of patents owned by Academia Japan (collectively, the “AJ Licensed Patents”) to (i) develop, make, use, sell, have sold by one or more distributors, offer to sell and have offered to sell by one or more distributors iPSCs covered by the AJ Licensed Patents and differentiated cells derived from such iPSCs (collectively, the “AJ Licensed Products”), and (ii) provide services involving the AJ Licensed Products (the “AJ Licensed Services”). Similarly, StemoniX granted Academia Japan a non-exclusive, worldwide, royalty free license to certain of its patents solely for academic and educational purposes.
+ 
+Pursuant to the AJ License Agreement, StemoniX has agreed to pay Academia Japan a non-creditable and non-refundable upfront fee as well as running royalties for the AJ Licensed Patents, with single digit percentage royalties payable at varying rates depending on the applicable group of AJ Licensed Patents and the applicable group of AJ Licensed Products and/or AJ Licensed Services.
+ 
+The AJ License Agreement may be terminated by Academia Japan upon a material, uncured breach of the AJ License Agreement by StemoniX, and under certain other circumstances.
+ 
+Manufacturing and Supply
+ 
+We manufacture iPSC microOrgans at our facilities in Maple Grove, Minnesota and La Jolla, California. We do not have any manufacturing facilities or personnel for our therapeutic assets. We expect to rely on third parties to manufacture our therapeutic product candidates for preclinical and clinical testing.
+Sales and Marketing
+ 
+We have and plan to utilize third-party, specialized business development firms to support our internal staff as we pursue licenses for our proprietary disease models and, once developed, our therapeutic assets.
+Government Regulation
+ 
+Government authorities in the United States, at the federal, state and local level, and other countries extensively regulate, among other things, the research, development, testing, manufacture, quality control, approval, labeling, packaging, storage, record-keeping, promotion, advertising, distribution, marketing and export and import of products such as those we are developing. A new drug must be approved by the FDA before it may be legally marketed in the United States. We are subject to various government regulations in connection with the development of our pipeline.
+ 
+U.S. Drug Development and Regulation
+ 
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act and its implementing regulations (“FDCA”). The process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign statutes and regulations require the expenditure of substantial time and financial resources. Failure to comply with the applicable U.S. requirements at any time during the product development process, approval process or after approval may subject an applicant to administrative or judicial sanctions. These sanctions could include the FDA’s refusal to approve pending applications, withdrawal of an approval, a clinical hold, warning letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution, disgorgement or civil or criminal penalties. Any agency or judicial enforcement action could have a material adverse effect on us.
+ 
+Once a drug candidate is identified for development, it enters the preclinical testing stage. Preclinical tests include laboratory evaluations of product chemistry, toxicity and formulation, as well as animal studies. An ND sponsor must submit the results of the preclinical tests, together with manufacturing information and analytical data, to FDA as part of the IND. The sponsor must also include a protocol detailing, among other things, the objectives of the first phase of clinical trials, the parameters to be used in monitoring the safety of the trial, and the effectiveness criteria to be evaluated should the first phase lend itself to an efficacy evaluation. Some preclinical testing may continue even after the IND is submitted. The IND automatically becomes effective thirty (30) days after receipt by FDA, unless FDA, within the 30-day time period, places the clinical trial on a clinical hold. Clinical holds also may be imposed by the FDA at any time before or during clinical trials due to safety concerns about on-going or proposed clinical trials or non-compliance with specific FDA requirements, and the trials may not begin or continue until the FDA notifies the sponsor that the hold has been lifted.
+ 
+
+8
+-
+
+ 
+
+All clinical trials must be conducted under the supervision of one or more qualified investigators in accordance with FDA good clinical practice (“GCP”) requirements, which include a requirement that all research subjects provide their informed consent in writing for their participation in any clinical trial. Clinical trials must be conducted under protocols detailing the objectives of the trial, dosing procedures, subject selection and exclusion criteria and the safety and/or effectiveness criteria to be evaluated. Each protocol must be submitted to FDA as part of the IND, and timely safety reports must be submitted to FDA and the investigators for serious and unexpected adverse events. An Institutional Review Board (“IRB”) at each institution participating in the clinical trial must review and approve each protocol before a clinical trial may commence at the institution and must also approve the information regarding the trial as well as the consent form that must be provided to each trial subject or his or her legal representative, monitor the study until completed and otherwise comply with all applicable IRB regulation.
+ 
+Human clinical trials are typically conducted in three sequential phases that may overlap or be combined in certain cases:
+ 
+Phase 1: The compound is initially introduced into healthy human subjects and tested for safety, dosage tolerance, absorption, metabolism, distribution and excretion and, if possible, to gain an early indication of its effectiveness. In most cases, initial Phase 1 clinical trials are conducted with healthy volunteers. However, where the compound being evaluated is for the treatment of severe or life-threatening diseases, such as cancer, and especially when the product may be too toxic to ethically administer to healthy volunteers, the initial human testing may be conducted on patients with the target disease or condition. Sponsors sometimes subdivide their Phase 1 clinical trials into Phase 1a and Phase 1b clinical trials. Phase 1b clinical trials are typically aimed at confirming dosage, pharmacokinetics and safety in a larger number of patients. Some Phase 1b studies evaluate biomarkers or surrogate markers that may be associated with efficacy in patients with specific types of diseases or conditions.
+ 
+Phase 2: This phase involves clinical trials in a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases or conditions and to confirm dosage tolerance and appropriate dosage.
+ 
+Phase 3: Phase 3 clinical trials are undertaken to further evaluate dosage, clinical efficacy and safety in an expanded patient population, generally at geographically dispersed clinical study sites. These clinical trials, often referred to as “pivotal” clinical trials, are intended to establish the overall risk-benefit ratio of the compound and provide, if appropriate, an adequate basis for product labeling.
+ 
+FDA or the sponsor may suspend a clinical trial at any time on various grounds, including any finding that the research subjects or patients are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected, serious harm to study subjects. In addition, clinical trials may be overseen by an independent group of qualified experts organized by the sponsor, known as a data safety monitoring board or committee. Depending on its charter, this committee may determine whether a trial may move forward at designated check points based on access to certain data from the trial.
+ 
+Post-approval trials may also be conducted after a drug receives initial marketing approval. These trials, often referred to as “Phase 4” trials, are used to gain additional experience from the treatment of patients in the intended therapeutic indication. In certain instances, FDA may mandate the performance of such clinical trials as a condition of approval of a drug.
+
+
+
+9
+-
+
+ 
+
+During the development of a new drug, sponsors are given several opportunities to meet with FDA. These meetings can provide an opportunity for the sponsor to share information about the progress of the application or clinical trials, for the FDA to provide advice, and for the sponsor and the FDA to reach agreement on the next phase of development. These meetings may occur prior to the submission of an IND, at the end of Phase 2 clinical trials, or before a New Drug Application (“NDA”) is ultimately submitted. Sponsors typically use the meetings at the end of the Phase 2 trials to discuss Phase 2 clinical results and present plans for the pivotal Phase 3 clinical trials that they believe will support approval of the new drug. Meetings at other times may be made upon request.
+ 
+Concurrent with clinical trials, companies typically complete additional animal and laboratory studies, develop additional information about the chemistry and physical characteristics of the drug, and finalize a process for manufacturing the product in commercial quantities in accordance with FDA’s current Good Manufacturing Practices (“cGMP”) requirements. The manufacturing process must consistently produce quality batches of the drug, and, among other things, the manufacturer must develop methods for testing the identity, strength, quality and purity of the final drug. In addition, appropriate packaging must be selected and tested, and stability studies must be conducted to demonstrate the effectiveness of the packaging and that the compound does not undergo unacceptable deterioration over its shelf life.
+ 
+While the IND is active, progress reports summarizing the results of ongoing clinical trials and nonclinical studies performed since the last progress report must be submitted on at least an annual basis to FDA, and written IND safety reports must be submitted to FDA and investigators for serious and unexpected adverse events, findings from other studies suggesting a significant risk to humans exposed to the same or similar drugs, findings from animal or in vitro testing suggesting a significant risk to humans, and any clinically important, increased incidence of a serious adverse reaction compared to that listed in the protocol or investigator brochure.
+ 
+There are also requirements governing the submission of certain clinical trials and completed trial results to public registries. Sponsors of certain clinical trials of FDA-regulated products are required to register and disclose specified clinical trial registration and results information, which is made publicly available at www.clinicaltrials.gov. Failure to properly report clinical trial results can result in civil monetary penalties. Disclosure of clinical trial results can often be delayed until the new product or new indication being studied has been approved.
+ 
+U.S. review and approval process
+ 
+The results of product development, preclinical and other non-clinical studies and clinical trials, along with descriptions of the manufacturing process, analytical tests conducted on the chemistry of the drug, proposed labeling and other relevant information are submitted to FDA as part of an NDA. The submission of an NDA is subject to the payment of substantial user fees; a waiver of which may be obtained under certain limited circumstances.
+ 
+FDA reviews NDAs to determine, among other things, whether the product is safe and effective for its intended use and whether it is manufactured in a cGMP-compliant manner, which will assure and preserve the product’s identity, strength, quality and purity. Under the Prescription Drug User Fee Act (“PDUFA”), FDA has a goal of ten months from the date of “filing” of a standard, completed NDA for a new molecular entity to review and act on the submission. This review typically takes twelve months from the date the NDA is submitted to FDA because FDA has approximately two months to make a “filing” decision after the application is submitted. FDA conducts a preliminary review of all NDAs within the first sixty days after submission, before accepting them for filing, to determine whether they are sufficiently complete to permit substantive review. FDA may request additional information rather than accept an NDA for filing. In this event, the NDA must be resubmitted with the additional information. The resubmitted application also is subject to review before the FDA accepts it for filing.
+ 
+
+10
+--
+
+ 
+
+FDA may refer an application for a new drug to an advisory committee within FDA. An advisory committee is a panel of independent experts, including clinicians and other scientific experts, that reviews, evaluates and provides a recommendation as to whether and under what conditions the application should be approved. FDA is not bound by the recommendations of such an advisory committee, but it considers advisory committee recommendations carefully when making decisions.
+ 
+Before approving an NDA, FDA will also inspect the facility where the product is manufactured. FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and are adequate to assure consistent production of the product within required specifications. Before approving an NDA, FDA may also inspect one or more clinical trial sites to assure compliance with GCP requirements.
+ 
+After the FDA evaluates an NDA, it will issue an approval letter or a Complete Response Letter. A Complete Response Letter indicates that the review cycle of the application is complete, and the application will not be approved in its present form. A Complete Response Letter usually describes the specific deficiencies in the NDA identified by FDA and may require additional clinical data, such as an additional pivotal Phase 3 trial or other significant and time-consuming requirements related to clinical trials, nonclinical studies or manufacturing. If a Complete Response Letter is issued, the sponsor must resubmit the NDA, addressing all of the deficiencies identified in the letter, or withdraw the application. Even if such data and information are submitted, FDA may decide that the NDA does not satisfy the criteria for approval. An approval letter authorizes commercial marketing of the drug with prescribing information for specific indications.
+ 
+The Pediatric Research Equity Act (“PREA”) requires IND sponsors to conduct pediatric clinical trials for most drugs, for a new active ingredient, new indication, new dosage form, new dosing regimen or new route of administration. Under PREA, original NDAs and supplements must contain a pediatric assessment unless the sponsor has received a deferral or waiver. The required assessment must evaluate the safety and effectiveness of the product for the claimed indications in all relevant pediatric subpopulations and support dosing and administration for each pediatric subpopulation for which the product is safe and effective. The sponsor or FDA may request a deferral of pediatric clinical trials for some or all of the pediatric subpopulations. A deferral may be granted for several reasons, including a finding that the drug is ready for approval for use in adults before pediatric clinical trials are complete or that additional safety or effectiveness data needs to be collected before the pediatric clinical trials begin. FDA must send a non-compliance letter to any sponsor that fails to submit the required assessment, keep a deferral current or fails to submit a request for approval of a pediatric formulation.
+ 
+If a drug receives FDA approval, the approval may be limited to specific diseases and dosages, which could restrict the commercial value of the product. In addition, FDA may require testing and surveillance programs to monitor the safety of approved products which have been commercialized and may require a sponsor to conduct post-marketing clinical trials, which are designed to further assess a drug’s safety and effectiveness after NDA approval. FDA may also place other conditions on approval, including a requirement for a risk evaluation and mitigation strategy (“REMS”) to assure the safe use of the drug. If FDA concludes a REMS is needed, the sponsor of the NDA must submit a proposed REMS. FDA will not approve the NDA without an approved REMS, if required. A REMS could include medication guides, physician communication plans or elements to assure safe use, such as restricted distribution methods, patient registries and other risk minimization tools. Any of these limitations on approval or marketing could restrict the commercial promotion, distribution, prescribing or dispensing of products. Marketing approval may be withdrawn for non-compliance with REMS or other regulatory requirements, or if problems occur following initial marketing.
+ 
+Post-approval requirements
+ 
+Once an approval is granted, FDA may withdraw the approval if compliance with regulatory standards is not maintained or if problems occur after the drug reaches the market. Later discovery of previously unknown problems with a drug may result in restrictions on the drug or even complete withdrawal of the drug from the market. After approval, some types of changes to the approved drug, such as adding new indications, certain manufacturing changes and additional labeling claims, are subject to further FDA review and approval. Manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with FDA and certain state agencies and are subject to periodic unannounced inspections by FDA and certain state agencies for compliance with cGMP regulations and other laws and regulations.
+
+
+
+11
+--
+
+ 
+
+Any drug product manufactured or distributed by us pursuant to FDA approval will be subject to continuing regulation by FDA, including, among other things, record-keeping requirements, reporting of adverse experiences with the drug, providing FDA with updated safety and efficacy information, drug sampling and distribution requirements, complying with certain electronic records and signature requirements, and complying with FDA promotion and advertising requirements. FDA strictly regulates labeling, advertising, promotion and other types of information regarding approved drugs that are placed on the market, and imposes requirements and restrictions on drug manufacturers, such as those related to direct-to-consumer advertising, the prohibition on promoting products for uses or in patient populations that are not described in the product’s approved labeling (known as “off-label use”), industry-sponsored scientific and educational activities, and promotional activities involving the internet. Discovery of previously unknown problems or the failure to comply with the applicable regulatory requirements may result in restrictions on the marketing of a product for a certain indication or withdrawal of the product from the market as well as possible civil or criminal sanctions. Failure to comply with the applicable governmental requirements at any time during the product development process, approval process or after approval, may subject an applicant or manufacturer to administrative or judicial civil or criminal sanctions and adverse publicity. FDA sanctions could include refusal to approve pending applications, withdrawal of an approval, clinical holds on post-marketing clinical trials, enforcement letters, product recalls, product seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, mandated corrective advertising or communications with doctors, debarment, restitution, disgorgement of profits, or civil or criminal penalties.
+ 
+Expedited development and review programs
+ 
+The FDA administers a number of programs that can expedite the development and review of new drugs.
+
+
+The fast track designation program is intended to expedite or facilitate the process for reviewing new drug products that meet certain criteria. Specifically, new drugs are eligible for fast track designation if they are intended to treat a serious or life-threatening disease or condition and demonstrate the potential to address unmet medical needs for the disease or condition. With regard to a fast track product, FDA may consider for review sections of the NDA on a rolling basis before the complete application is submitted, if the sponsor provides a schedule for the submission of the sections of the NDA, FDA agrees to accept sections of the NDA and determines that the schedule is acceptable, and the sponsor pays any required user fees upon submission of the first section of the NDA.
+ 
+A product is eligible for priority review if it is intended to treat a serious condition, and if approved, would provide a significant improvement in safety or efficacy compared to currently marketed products. FDA will attempt to direct additional resources to the evaluation of an application for a new drug designated for priority review in an effort to facilitate the review. FDA endeavors to review applications with priority review designations within six months of the filing date, as compared to ten months for review of NDAs under its current PDUFA review goals.
+ 
+In addition, a product may be eligible for accelerated approval. Drugs intended to treat serious or life-threatening diseases or conditions may be eligible for accelerated approval upon a determination that the product has an effect on a surrogate endpoint that is reasonably likely to predict a clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. As a condition of approval, the FDA may require that a sponsor of a drug receiving accelerated approval perform adequate and well-controlled post-marketing clinical trials. Drugs receiving accelerated approval may be subject to expedited withdrawal procedures if the sponsor fails to conduct the required post-marketing trials or if such trials fail to verify the predicted clinical benefit. In addition, the FDA currently requires as a condition for accelerated approval pre-approval of promotional materials, which could adversely impact the timing of the commercial launch of the product.
+ 
+
+12
+--
+
+ 
+
+The Food and Drug Administration Safety and Innovation Act (“FDASIA”) established a category of drugs referred to as “breakthrough therapies” that may be eligible to receive breakthrough therapy designation. A sponsor may seek FDA designation of a compound as a “breakthrough therapy” if the product is intended, alone or in combination with one or more other products, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the product may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. The designation includes all of the fast track program features, as well as more intensive FDA interaction and guidance. The breakthrough therapy designation is a distinct status from both accelerated approval and priority review, which can also be granted to the same drug if relevant criteria are met. If a product is designated as breakthrough therapy, FDA will work to expedite the development and review of such drug.
+ 
+Fast track designation, priority review and breakthrough therapy designation do not change the standards for approval but may expedite the development or approval process. However, even if a product qualifies for one or more of these programs, FDA may later decide that the product no longer meets the conditions for qualification or decide that the time period for FDA review or approval will not be shortened.
+ 
+Orphan drug designation
+ 
+Under the Orphan Drug Act, FDA may grant orphan designation to a drug intended to treat a rare disease or condition, which is a disease or condition that affects fewer than 200,000 individuals in the United States or, if it affects more than 200,000 individuals in the United States, there is no reasonable expectation that the cost of developing and making a drug product available in the United States for this type of disease or condition will be recovered from sales of the product. Orphan designation must be requested before an NDA is submitted. After FDA grants orphan designation, the identity of the therapeutic agent and its potential orphan use are publicly disclosed by FDA. Orphan designation does not convey any advantage in or shorten the duration of the regulatory review and approval process.
+ 
+If a product that has orphan designation subsequently receives the first FDA approval for the disease or condition for which it has such designation, the product is entitled to orphan product exclusivity, which means that FDA may not approve any other applications to market the same drug for the same indication for seven years, except in limited circumstances, such as a showing of clinical superiority to the product with orphan exclusivity or inability to manufacture the product in sufficient quantities. The designation of such drug also entitles a party to financial incentives such as opportunities for grant funding towards clinical trial costs, tax advantages and user-fee waivers. However, competitors, may receive approval of different products for the indication for which the orphan product has exclusivity or obtain approval for the same product but for a different indication for which the orphan product has exclusivity. Orphan exclusivity also could block the approval of one of our compounds for seven years if our compound is determined to be contained within the competitor’s product for the same indication or disease, or if a competitor obtains approval of the same drug as defined by the FDA. In addition, if an orphan designated product receives marketing approval for an indication broader than what is designated, it may not be entitled to orphan exclusivity.
+ 
+Marketing exclusivity
+ 
+Market exclusivity provisions under the FDCA can delay the submission or approval of certain marketing applications. The FDCA provides a five-year period of non-patent marketing exclusivity within the United States to the first applicant to obtain approval of an NDA for a new chemical entity. A drug is a new chemical entity if FDA has not previously approved any other new drug containing the same active moiety, which is the molecule or ion responsible for the action of the drug substance.
+ 
+During the exclusivity period, the FDA may not approve or even accept for review an abbreviated new drug application (“ANDA”), or an NDA submitted under Section 505(b)(2) (a “505(b)(2) NDA”), submitted by another company for another drug based on the same active moiety, regardless of whether the drug is intended for the same indication as the original innovative drug or for another indication, where the applicant does not own or have a legal right of reference to all the data required for approval. However, an application may be submitted after four years if it contains a certification of patent invalidity or non-infringement to one of the patents listed with the FDA by the innovator NDA holder.
+ 
+
+13
+--
+
+ 
+
+The FDCA alternatively provides three years of marketing exclusivity for an NDA, or supplement to an existing NDA, if new clinical investigations, other than bioavailability studies, that were conducted or sponsored by the applicant are deemed by the FDA to be essential to the approval of the application, for example new indications, dosages or strengths of an existing drug. This three-year exclusivity covers only the modification for which the drug received approval on the basis of the new clinical investigations and does not prohibit the FDA from approving ANDAs or 505(b)(2) NDAs for drugs containing the active ingredient for the original indication or condition of use. Five-year and three-year exclusivity will not delay the submission or approval of a full NDA. However, an applicant submitting a full NDA would be required to conduct or obtain a right of reference to all of the preclinical studies and adequate and well-controlled clinical trials necessary to demonstrate safety and effectiveness.
+ 
+Pediatric exclusivity is another type of marketing exclusivity available in the United States. Pediatric exclusivity provides for an additional six months of marketing exclusivity attached to another period of exclusivity if a sponsor conducts clinical trials in children in response to a written request from the FDA. The issuance of a written request does not require the sponsor to undertake the described clinical trials. In addition, orphan drug exclusivity, as described above, may offer a seven-year period of marketing exclusivity, except in certain circumstances.
+ 
+Foreign Sales
+ 
+Sales outside the United States of potential drug compounds we develop will also be subject to foreign regulatory requirements governing human clinical trials and marketing for drugs. The requirements vary widely from country to country, but typically the registration and approval process takes several years and requires significant resources. In most cases, if the FDA has not approved a potential drug compound for sale in the United States, the potential drug compound may be exported for sale outside of the United States, only if it has been approved in any one of the following: the European Union, Canada, Australia, New Zealand, Japan, Israel, Switzerland and South Africa. There are specific FDA regulations that govern this process.
+Health Insurance Portability and Accountability Act
+ 
+The Health Insurance Portability and Accountability Act, as amended by the Health Information Technology for Economic and Clinical Health Act (“HITECH”), and implementing regulations thereunder (collectively, “HIPAA”) requires certain healthcare providers, health plans and healthcare clearinghouses who conduct specified electronic healthcare transactions (“covered entities”), as well as their independent contractors and agents who conduct certain activities involving protected health information on their behalf (“business associates”) to comply with enumerated requirements relating to the privacy, security and transmission of protected health information. Failure to comply with HIPAA can result in corrective action, as well as civil fines and penalties and government oversight. Among other changes, HITECH made HIPAA security standards directly applicable to business associates, increased the tiered civil and criminal fines and penalties that may be imposed against covered entities, business associates and possibly other persons, and gave state attorneys general new authority to file actions to enforce HIPAA. Further, the breach notification rule implemented under HITECH requires covered entities to notify affected individuals, the U.S. Department of Health and Human Services Office of Civil Rights (“OCR”), the agency that enforces HIPAA, and for breaches affecting more than 500 individuals, the media, of any breaches of unsecured protected health information. HIPAA does not create a private right of action for individuals, though individuals may submit complaints related to HIPAA to OCR.
+
+14
+--
+
+European General Data Protection Regulation
+ 
+The collection and use of personal health data in the European Union had previously been governed by the provisions of the Data Protection Directive, which has been replaced by the General Data Protection Regulation (“GRPR”) which became effective on May 25, 2018 While the Data Protection Directive did not apply to organizations based outside the EU, the GDPR has expanded its reach to include any business, regardless of its location, that provides goods or services to residents in the EU. This expansion would incorporate the Company’s clinical trial activities in EU members states. The GDPR imposes strict requirements on controllers and processors of personal data, including special protections for “sensitive information” which includes health and genetic information of data subjects residing in the EU. GDPR grants individuals the opportunity to object to the processing of their personal information, allows them to request deletion of personal information in certain circumstances, and provides the individual with an express right to seek legal remedies in the event the individual believes his or her rights have been violated. Further, the GDPR imposes strict rules on the transfer of personal data out of the European Union to the United States or other regions that have not been deemed to offer “adequate” privacy protections. Failure to comply with the requirements of the GDPR and the related national data protection laws of the European Union Member States, which may deviate slightly from the GDPR, may result in fines of up to 4% of global revenue, or €20,000,000, whichever is greater. As a result of the implementation of the GDPR, the Company may be required to put in place additional mechanisms ensuring compliance with the new data protection rules.
+ 
+The Company’s research activities in the EU are currently limited to non-human preclinical studies, and as such, the Company does not collect, store, maintain, process, or transmit any Personal Data (as that term is defined under the GDPR) of trial subjects. However, since the Company currently has three employees located in the EU, its processing and transfer for employee Personal Data is subject to GDPR requirements. The Company has implemented a privacy and security program that is designed to adhere to the requirements of the GDPR in order to protect employee Personal Data, and in the event the Company progresses to research or clinical trials involving humans, to protect participant Personal Data. However, there is significant uncertainty related to the manner in which data protection authorities will seek to enforce compliance with GDPR. For example, it is not clear if the authorities will conduct random audits of companies doing business in the EU, or if the authorities will wait for complaints to be filed by individuals who claim their rights have been violated. Enforcement uncertainty and the costs associated with ensuring GDPR compliance be onerous and adversely affect the Company’s business, financial condition, results of operations and prospects. As a result, the Company cannot predict the impact of the GDPR regulations on its current or future business, either in the US or the EU.
+ 
+Other Regulatory Requirements
+ 
+The Company’s laboratory is subject to federal, state and local regulations relating to the handling and disposal of regulated medical waste, hazardous waste and biohazardous waste, including chemical, biological agents and compounds, blood and bone marrow samples and other human tissue. Typically, the Company uses outside vendors who are contractually obligated to comply with applicable laws and regulations to dispose of such waste. These vendors are licensed or otherwise qualified to handle and dispose of such waste.
+ 
+OSHA has established extensive requirements relating to workplace safety for health care employers, including requirements to develop and implement programs to protect workers from exposure to blood-borne pathogens by preventing or minimizing any exposure through needle stick or similar penetrating injuries.
+ 
+
+15
+--
+
+Discontinuing Operations
+ 
+vivoPharm Business
+ 
+In December 2021, the Company’s Board of Directors approved a plan to sell the vivoPharm business to focus the Company on the development of neurological developmental and degenerative disease therapeutics. As noted in Note 3 to the Company’s Consolidated Financial Statements contained in Part II. Item 8 herein, we have accounted for the vivoPharm business as discontinuing operations as of December 31, 2021. We plan to sell the vivoPharm business during 2022.
+ 
+Overview - vivoPharm
+ 
+vivoPharm offers preclinical services such as predictive tumor models, human orthotopic xenografts and syngeneic immuno-oncology relevant tumor models in its Hershey, PA facility, and is a leader in the field of immuno-oncology preclinical services and orthotopic predictive models. This service is supplemented with GLP toxicology and extended bioanalytical services in the Company’s Australian-based facilities in Melbourne, Victoria, and Adelaide, South Australia.
+
+
+The vivoPharm business is based on demand for preclinical and discovery services from biotechnology and pharmaceutical companies, academia and the research community. Biotechnology and pharmaceutical companies engaged in drug development with the desire to run clinical trials to determine the safety and effectiveness of treatments and therapeutics continuously benefit from its services. vivoPharm’s preclinical development of biomarker detection methods, response to immuno-oncology directed novel treatments and early prediction of clinical outcome is supported by its extended portfolio of orthotopic, xenografts and syngeneic tumor test systems as a specialized service offering in the immuno-oncology space.
+
+
+vivoPharm has developed industry recognized capabilities in early phase development and discovery, especially in immuno-oncology models, tumor micro-environment studies, and specialized pharmacology services that support basic discovery, preclinical and phase 1 clinical trials. vivoPharm’s studies have been utilized to support over 300 IND submissions to date across a range of therapeutic indications, including lymphomas, leukemia, breast cancer, GI-cancers, liver cancer, pancreatic cancer, non-small cell lung cancer, and other non-cancer rare diseases. vivoPharm is presently serving over 50 biotechnology and pharmaceutical companies across four continents in over 100 studies and trials with highly specialized development, clinical and preclinical research. Over the past 18 years, vivoPharm has also generated an extensive library of human xenograft and syngeneic tumor models, including subcutaneous, orthotopic and metastatic models. vivoPharm offers its expertise in small and bio-molecules.
+
+
+vivoPharm continues to leverage its international presence to access global market opportunities. vivoPharm’s headquarters in Australia specializes in safety and toxicology studies, including mammalian, genetic and in vitro, along with bioanalytical services including immune-analytical capabilities. vivoPharm operates from multiple locations in Victoria and South Australia. vivoPharm’s U.S.-based laboratory, located at the Hershey Center for Applied Research in Hershey, Pennsylvania, primarily focuses on screening and efficacy testing for a wide range of pharmaceutical and chemical products. The third location, in Munich, Germany, hosts project management and business development personnel.
+ 
+vivoPharm Market Overview
+ 
+United States Clinical Oncology Market Overview
+ 
+Despite many advances in the treatment of cancer, it remains one of the greatest areas of unmet medical need. In 2021, the World Health Organization attributed 10 million deaths globally to cancer, which prior to the COVID-19 was approximately about 1 in 6 deaths. Within the United States, excluding COVID-19 related deaths, cancer is the second most common cause of death, exceeded only by heart disease, accounting for nearly one out of every four deaths.
+United States and International Clinical Trials Market Overview
+ 
+The global preclinical Contract Research Organization (“CRO”) market size was valued at $4.5 billion in 2020 and is expected to grow at a compound annual growth rate (“CAGR”) of 8.1% from 2021 to 2028. Increased R&D budget for drug development is leading to rising demand for preclinical CRO services, thus boosting the market growth during the forecast period, according to a September 2021 report published by Grand View Research, Inc. Outside of the United States, growth in the pharmaceuticals and clinical trials market is continuing, and trials are increasingly becoming more complex. Growth in the European pharma market is anticipated to be driven largely by the United Kingdom, Germany, Spain, France and Italy.
+
+16
+--
+
+ 
+
+While oncology drugs have the potential to be among the most personalized therapeutics, very few successfully make it to market. The application of pharmacogenomics to oncology clinical trials enables researchers to better predict differences, initially driven by data derived in preclinical research. The Company believes a growing demand for faster development of personalized medicines and more effective clinical trials are growth drivers of this market, and its core expertise is preclinical efficacy, toxicity and bioanalytical services.
+ 
+vivoPharm has a particularly strong set of experiences working in the preclinical area of checkpoint inhibitors and specifically immunotherapies. Drug development is continuing to attract biotech companies transforming scientific innovation into practice-changing cancer drugs, thereby driving demand for vivoPharm’s services. When considering druggable targets within the different immuno-oncology drug classes, T cell immunomodulators and cell therapies had the largest increase in new targets in the past 2 years, which suggests that more innovation is going into these drug classes than the other immune-oncology drug classes.
+ 
+vivoPharm is currently focused on delivering its pre-clinical CRO and drug discovery services to a diverse group of market participants, including biotechnology and pharmaceutical companies; governmental agencies; and academic research centers. These participants require syngeneic and xenograft tumor models to support the development of novel biomarkers and increasing technological expertise to collect key data sets for their clinical trials, understand and manage therapeutic development and design customized therapy choices. vivoPharm believes that its approach to rapidly translate research insights about the genetics and molecular mechanisms of cancer into the research community will lead to innovative products being developed, particularly in the area of immuno-oncology therapies.
+ 
+vivoPharm’s Service Offerings
+ 
+vivoPharm’s focus on the preclinical market, its services are primarily sought by biotechnology and pharmaceutical companies engaged in designing and preparing to run clinical trials, for their value and efficacy in oncology and immuno-oncology treatments and therapeutics. vivoPharm believes trial participants’ likelihood of experiencing either favorable or adverse responses to the trial treatment can be determined first by its extended portfolio of orthotopic, xenografts and syngeneic tumor test systems, and in early development through biomarker identification and development, thereby increasing trial efficiency, participant safety and trial success rates. Biotechnology and pharmaceutical companies also seek vivoPharm’s services in preclinical trial design and drug development, in order to effectively and efficiently select those therapeutic candidates most likely to progress to clinical treatment options. vivoPharm’s services are also sought by researchers and research groups seeking to identify biomarkers and panels and develop methods for diagnostic technologies and tests for disease.
+vivoPharm Discovery Services
+ 
+vivoPharm offers proprietary preclinical test systems valued by the pharmaceutical industry, biotechnology companies and academic research centers. In particular, vivoPharm’s preclinical development of biomarker detection methods, response to immuno-oncology directed novel treatments and early prediction of clinical outcome is supported by its extended portfolio of orthotopic, xenografts and syngeneic tumor test systems. vivoPharm specializes in conducting studies tailored to guide drug development, starting from compound libraries and ending with a comprehensive set of in vitro and in vivo data and reports, as needed for Investigational New Drug filing. vivoPharm operates in AAALAC accredited and GLP-compliant audited facilities. vivoPharm provides its preclinical services, with a focus on efficacy models, from its Hershey, PA facility for the U.S. and European markets, and supplemented with GLP toxicology and extended bioanalytical services in its Australia-based facility in Melbourne, Victoria, and Adelaide, South Australia.
+ 
+vivoPharm’s Discovery Services provide the tools and testing methods for companies and researchers seeking to identify new molecular- and biomarker-based indicators for disease and to determine the pharmacogenomics, safety and effectiveness of potential therapeutic candidate compounds. Discovery Services offered include development of both xenograft and syngeneic animal models, toxicology and genetic toxicology services, pharmacology testing, pathology services, and validation of biomarkers for diseases including cancers. vivoPharm also provides consulting, guidance and preparation of samples and clinical trial design. vivoPharm believes the ability to analyze variations in biomarkers, tumor cells and compounds, and to interpret results into meaningful predictors of disease or indicators of therapeutic success is essential to discovering new molecular markers for cancer, new therapeutics, and targets for therapies.
+ 
+
+17
+--
+
+ 
+
+vivoPharm executes its market strategy by delivering results-oriented information and insights which we believe is or will become important to drug discovery and development and ultimately to accelerated therapy approvals and commercialization.
+ 
+vivoPharm’s Discovery Services aim to accelerate the development of novel treatment candidates and precision medicine, with a current focus in oncology. vivoPharm believes the level of personalized treatment required to optimize a patient’s treatment regimen and to maximize clinical trial success rates may be significantly improved using molecular- and biomarker-based characterization.
+ 
+Solid Tissue Cancers
+ 
+The term “solid tumors” encompasses abnormal masses of cells that do not include fluid areas (e.g., blood) or cysts. Solid tumors are composed of abnormal cell growths that originate in organs or soft tissue and are normally named after the types of cells that form them. Examples of solid tumors include breast cancer, lung cancer, ovarian cancer and melanoma. Solid tumors may be benign (not cancerous) or malignant (cancerous) and may spread from their primary tissue of origin to other locations in the body (metastasis). There are over 200 individual chemotherapeutic drugs available for combating solid tumor cancers. Selection of an appropriate course of treatment for a patient may depend on identification of the gene mutation or mutations present in their particular cancer and on determining the cancer’s tissue of origin. Metastatic tumors with an uncertain primary site can be a difficult clinical problem. In tens of thousands of oncology patients every year, no confident diagnosis is ever issued, making standard-of-care treatment impossible.
+Sales and Marketing
+ 
+vivoPharm’s sales and marketing efforts consist of both direct and indirect efforts, with the majority of efforts focused on direct sales in the United States, Europe and Australia. vivoPharm collaborates with preclinical development and translational science teams at pharmaceutical and biotech companies on studies involving tumor models and therapeutic candidate compound testing.
+ 
+vivoPharm’s U.S. and European business development and sales professionals have scientific backgrounds in hematology, pathology, and laboratory services, with many years of experience in biopharmaceutical and clinical oncology sales, esoteric laboratory sales from leading biopharmaceutical, pharmaceutical or specialty reference laboratory companies. VivoPharm currently has a team of four business development and sales professionals in the United States and Europe.
+ 
+vivoPharm also promotes its services through marketing channels commonly used by the biopharma and pharmaceutical industries, such as internet, medical meetings and broad-based publication of its scientific and economic data. In addition, vivoPharm provides easy-to-access information to its customers over the internet through dedicated websites. vivoPharm’s customers value easily accessible information in order to quickly review patient or study information.
+ 
+Competition
+ 
+The largest competitors in the global preclinical CRO market are companies like Pharmaceutical Product Development, LLC (US), MD Biosciences (US)., IQVIA (US), PAREXEL International Corporation (US), Envigo (US), Charles River (US), Inotiv (US), ICON PLC (Dublin), PRA Health Sciences (US), Medpace (US), Laboratory Corporation of America Holdings (US), WuXi AppTec (China) and Eurofins Scientific (Luxembourg). The players operating in the global preclinical CRO market are focusing on product unveilings, along with intensifying their global presence by entering untouched markets.
+ 
+Projects related to the molecular mechanisms driving cancer development have received increased government funding, both in the United States and internationally. The National Cancer Institutes’ Cancer Moonshot is anticipated to increase both patient awareness and federal government funding for research and clinical trials. The Federal Government has committed $1.8 billion over a 7-year period to fund the 21st Century Cures Act. As more information regarding cancer genomics and biomarkers becomes available to the public, vivoPharm anticipates that more products aimed at identifying targeted treatment options will be developed and that these products may compete with its products.
+ 
+Third-Party Suppliers
+ 
+vivoPharm currently relies on third-party suppliers for its specialized research and scientific instrumentation and related supplies of reagents, tumor cell lines, and other inventory for it to successfully perform its CRO services for its customers. vivoPharm does not believe a short-term disruption from any one of these suppliers would have a material effect on its business, nor has vivoPharm experienced any material disruptions due to COVID-19.
+ 
+
+18
+--
+
+Operations and Production Facilities
+ 
+As a preclinical oncology CRO, vivoPharm’s leased facilities are built to house immunocompromised mice, conventional rodents and specialized models. They incorporate surgical suites, gowning rooms, and holding rooms. In order to ensure an environment of utmost sterility, while also minimizing the workload by negating dependency on cage-wash infrastructure, vivoPharm relies on its landlords and licensors to manage the vivariums at its animal facilities. This allows for capacity utilization flexibility and focus of time and energy into scientific endeavors.
+Quality Assurance
+ 
+vivoPharm is committed to maintaining a standard of excellence and to providing reliable and accurate laboratory services to its customers. To that goal, vivoPharm’s independent Quality Assurance Unit (“QAU”) has implemented a comprehensive and integrated Quality Management System (“QMS”) designed to drive consistent high quality testing services while ensuring the highest ethical standards across its business. vivoPharm’s QMS satisfies FDA requirements for nonclinical studies conduct and content, computer systems validation, electronic records and signatures, and GLP.
+vivoPharm Governmental Regulations
+
+
+vivoPharm’s Pennsylvania and Australia research laboratory facilities comply with GLP” to the extent required by the FDA, Environmental Protection Agency, USDA, Organization for Economic Co-operation and Development (“OECD”), as well as other international regulatory agencies. Furthermore, vivoPharm’s early-stage discovery work, which is not subject to GLP standards, is typically carried out under a quality management system or internally developed quality systems. vivoPharm’s facilities are regularly inspected by U.S. and other regulatory compliance monitoring authorities, its clients’ quality assurance departments, and its own internal quality assessment program.
+Other Discontinuing Operations
+ 
+In July 2019, CGI sold all assets related to its BioPharma and Clinical businesses. As of December 31, 2021, $409 thousand of liabilities relating to these businesses are classified as other current liabilities – discontinuing operations on the Company’s consolidated balance sheets.
+Employees and Human Capital Management
+ 
+As of March 15, 2022, we had 34 full-time employees, including 8 with Ph.D. degrees in our continuing Vyant Bio and StemoniX operations. Of these employees, 24 are in research and development and 10 are general and administrative. As of March 15, 2022, we had 38 full-time employees in our vivoPharm business, including 10 with Ph.D. degrees. We have never had a work stoppage, and none of our employees are represented by a labor organization or under any collective-bargaining arrangements. We consider our employee relations to be good.
+
+
+Our human capital management objectives include, as applicable, identifying, recruiting, retaining, incentivizing and integrating our existing and new employees, advisors and consultants. The principal purposes of our equity and cash incentive plans, along with a comprehensive benefits package and a 401(k) plan, are to attract, retain and reward personnel through the granting of stock-based and cash-based compensation awards.
+ 
+The Company’s employees are in high demand in the industries in which we operate. We have experienced higher employee turnover in the past year given the demand for our employees and overall employment market conditions, including increased salaries and a high number of job openings, which have been part of the “Great Resignation” that has been experienced by many companies that are highly dependent on human capital talent. The retention of our employees is a high priority as well as recruiting key talent to meet our business goals.
+
+
+
+19
+--
+
+Segment and Geographical Information
+ 
+The Company operates in one reportable business segment and derive revenue from multiple countries, with 61% and 80% of its continuing operations revenue coming from the United States in fiscal year 2021 and 2020, respectively.
+Corporate and Available Information
+ 
+The Company was incorporated in the State of Delaware on April 8, 1999. On March 30, 2021, the Company completed its Merger with StemoniX, which is now a wholly-owned subsidiary of the Company.
+ 
+The Company’s principal executive offices are located at 2370 State Route 70 West, Two Executive Campus, Suite 310, Cherry Hill, NJ 08002-4102. The Company’s telephone number is (201) 479-1357 and the corporate website address is www.vyantbio.com. The Company included the website address in this annual report on Form 10-K only as an inactive textual reference and does not intend it to be an active link to the Company website. The information on the website is not incorporated by reference in this annual report on Form 10-K.
+ 
+This annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports, as well as other documents the Company files with the U.S. Securities and Exchange Commission (“SEC”), are available free of charge through the Investors section of the Company website at https://ir.vyantbio.com/sec-filings as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC. The public can obtain documents that the Company files with the SEC at www.sec.gov.
+ 

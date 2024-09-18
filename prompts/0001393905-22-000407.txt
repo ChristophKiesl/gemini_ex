@@ -1,0 +1,181 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. DESCRIPTION OF BUSINESS.
+THE COMPANY
+ 
+(1) Form and year of organization
+ 
+AS-IP Tech, Inc. (formerly ASI Entertainment, Inc.) was formed on April 29, 1998 as a Delaware corporation. The Company has an authorized capital of 500,000,000 shares of Common Stock, par value of $0.0001 per share (the “Common Stock”) and 50,000,000 shares of preferred stock, par value $0.0001 per share. All shares of Common Stock have equal voting rights, are non-assessable, and have one vote per share. The executive offices of the Company are located at 1/15 Castles Drive, Torquay, Victoria, 3228, Australia. The United States offices of the Company are located at 100 Park Ave, 16th Floor, New York, NY 10017. The Company’s telephone number is +1 424-888-2212.
+ 
+BUSINESS
+ 
+(1) Principal products or services and their markets;
+ 
+The Company’s intellectual property comprises two product lines called fflya and BizjetMobile.
+ 
+fflya
+ 
+The Company has launched a new standard in inflight connectivity for Low-Cost Airlines (LCA’s). The justification is simple, LCA passengers on a budget won’t pay for Wi-Fi.
+The Company achieved this via a proprietary disruptive technology, and business model which has been validated by thousands of passengers inflight, sending tens of thousands of messages on Wizz Air, and can be summarised as follows:
+Technical
+ ·
+Core revenue platform is messaging. Communication and social contact drives everything. 
+ ·
+AS-IP’s flight proven free messaging service, Email, SMS and WhatsApp are embedded into an airlines existing booking app providing immediate access to a huge database without app marketing costs. 
+ ·
+Eliminates the high costs associated with conventional Wi-Fi installations by creating an ultra-low-cost system and certification process, making it simple and economical for an airline to install. 
+ ·
+Remotely controls the passenger app interface by flight, to engage and influence what passengers do and see while captive for 2-4 hours. 
+
+1
+
+
+Business Model
+ ·
+
+Use Free messaging as the draw card to create revenue from paid promotions in the app. 
+ ·
+
+Implement a Social Network invite only approach to drive promotion before passengers fly. Flight tests confirm inviting friends to chat expands the database by a multiple of three. 
+ ·
+Create virtual autonomous gateways that eliminate the conventional ISP facilities required by Wi-Fi systems. 
+ 
+The combination of these components is why after 16 years of inflight Wi-Fi on major airlines, multibillion dollar organisations such as, VIASAT/INMARSAT, UTELSAT and INTELSAT, are still unable to address the LCA market, including the new Starlink (Elon Musk) Wi-Fi service. On the ground, Starlink charges double the price of the incumbent networks. With inflight Wi-Fi already expensive, convincing airlines to switch to a faster service, with the control the incumbents have over the existing 8,000 major airlines aircraft will be a major challenge.
+ 
+Regardless, LCA passengers on a budget won’t pay for Wi-Fi, and this is clearly understood by the major LCA’s in Europe, Wizz Air, Ryanair, Jet2 and EasyJet, who operate over 1,400 aircraft, leaving this unique market opportunity to the Company and its proprietary technology.
+ 
+fflya provides airlines with a customized global inflight connectivity approach, based on the latest mobile App technology, narrowband satellite links and Bluetooth technology. The fflya platform reduces the installation, certification, and equipment costs by up to 95% compared to inflight broadband. In addition, it uses a cloud-based messaging platform capable of delivering real-time demographics.
+ 
+Passengers get:
+ ·
+Free SMS, WhatsApp and Email, and they don’t need Wi-Fi to do it. 
+ 
+Airlines get: -
+ ·
+A free satellite system. 
+ ·
+New ancillary revenue streams. 
+ ·
+A free real time, in-flight, fully verified credit card payment platform for In-app and EFTPOS that will eliminates card default problems. 
+ ·
+Live feed telemetry data to enhance operation without data charges. 
+ 
+The Company’s airline business model is based on a revenue sharing basis. Revenue is generated from embedded advertising, E-Commerce, live payment and destination sponsors.
+ 
+BizjetMobile
+ 
+BizjetMobile provides corporate jets with an alternative global inflight connectivity solution and is marketed under the brand names CrewX, CHiiMP and BizjetInternet. Each product is a mobile App which deliver a combination of highly optimized inflight text, chat, email, voice and internet for passengers and crew. The on-board network comprises an integrated satellite transceiver incorporating a Bluetooth hotspot that uses a set of algorithms and file management protocols that are custom built for aviation satellite networks. All communications are managed by a cloud-based gateway and report by user, flight, aircraft, file, and message type. As a result, passengers and crew receive unlimited inflight connectivity for a flat low monthly rate.
+ 
+The Company has commissioned over 110 BizjetMobile systems since launch, operating across Asia Pacific, the America’s, Europe and the Middle East.
+ 
+Markets
+ 
+fflya’s target market is primarily low cost airlines (“LCA”) operating single aisle aircraft, for example, Boeing 737 and Airbus A320, that struggle to justify equipping their fleets with expensive Wi-Fi platforms as their business model targets passengers who are unwilling to pay. Of the 18,000 commercial airliners currently in operation, the B737/A320 series account for 13,000, of which approximately 75% are operated by regional airlines and LCA’s. Single aisle aircraft represent 75% of the 35,000 new aircraft forecast to be delivered over the next 20 years.
+ 
+BizjetMobile’s target market is the business aviation industry, specifically international corporate jets searching for an alternative low-cost global inflight connectivity solution or an-add on service to reduce their operational costs.
+
+2
+
+
+(2) Distribution methods of the products or services;
+ 
+BizjetMobile distributors are related parties controlled by the Chapman family for the Americas, Europe and Asia Pacific, and market the products on a commission basis.
+ 
+fflya marketing is controlled by the Chapman family in conjunction with agents, who will receive commissions from successful airline programs.
+ 
+(3) Status of any publicly announced new product or service;
+ 
+fflya - Following 3 months of flight trials, the Company announced a final agreement with Wizz Air to equip its UK fleet of nineteen A32X series aircraft. The first aircraft is equipped and in operation and further installations will commence in October. More recently, the Company successfully flight tested on Wizz Air, fflya’s world’s first in flight Bluetooth payment solution incorporating live in-app credit card payment. To demonstrate the capability, the Company incorporated the Food and Boutique menu into the fflya messaging app, allowing an order to be placed, paid for by credit card and a receipt return to the app.
+ 
+The fflya hardware, apps, gateway and support system are developed and supplied by a related party, ASiQ Pty Ltd (ASiQ), under the IP acquisition agreement and comprises, a router that connects passengers via Bluetooth, and a revolutionary window antenna system that connects to the Iridium satellite network. The Company contracts the service and hardware under commercial terms on a program-by-program basis.
+ 
+BizjetMobile – BizjetMobile LLC has announced the first corporate aircraft test bed was equipped with the Bizjetinternet Certus service, connecting via the new next generation Iridium satellites.
+ 
+(4) Competitive business conditions and the small business issuer’s competitive position in the industry and methods of competition;
+ 
+Competition
+ 
+Airlines
+ 
+The landscape of the airline Wi-Fi market has changed over the past 18 months, due to the impact of Covid. Intelsat acquired GOGO’s airline business, Eutelsat acquired GEE, VIASAT and INMARSAT have proposed a merger.
+ 
+New satellite operators, Starlink and OneWeb will compete with these companies in 2023, proposing a faster service, however they will face the same issue in that research shows that less than 10% of passengers are prepared to pay for Wi-Fi, plus the incumbents already control the market space with long term contracts. These new satellite networks cost up to 3-4 time more than the incumbents and their business models also rely on paying for Wi-Fi. As they operate in the identical K-band transmission frequencies, the equipment, installation and service cost will still be high. The net effect is similar to migration from 4G versus 5G. The user gets more data faster, but the price remains virtually the same.
+ 
+The primary market for all these vendors is predominantly Tier 1 airlines and national flag carriers. These airlines provide business travellers with an adequate level of internet connectivity at a cost per flight similar to the daily rate of many 5-star hotels. In some cases, first and business class passengers receive this service free of charge.
+ 
+Equipment, installation and certification costs on Wi-Fi platforms are substantial and where possible, most airlines will exercise the option to have it factory installed on new aircraft. Approximately one third of the world’s airlines are equipped with inflight Wi-Fi, the majority of which are either in the U.S.A or are long haul wide body aircraft. Recent forecasts suggest that half of the world’s airlines will be fully equipped by 2025.
+ 
+The challenge for the Company to compete, is to target the remaining market and create a platform and business model that eliminates the financial risk, generates new revenue, enhances the passenger experience, and removes the high operational/user costs associated with heavy and expensive Wi-Fi platforms.
+ 
+The Company meets these challenges by targeting only the LCA market with a platform that is 95% lighter and cheaper and controlled by a proprietary gateway protocol that is up to 95% more efficient in delivering today’s 
+
+3
+
+mobile App-based communications. This creates the ability to deliver a sponsored free texting service and generate new revenue from multiple inflight e-commerce opportunities. AS-IP’s unique program targets LCA’s which represent approximately 50% of the airline world, flying mainly Boeing B737 and Airbus A320 series aircraft and annually carry around 2 billion disconnected leisure passengers.
+ 
+fflya’s Bluetooth technology leverages off new generation Iridium Low Earth Orbit satellites (LEO’s). As LEO’s operate 800 kilometres above the earth, latency is similar to a mobile phone network. Iridium Next LEOs offer a midband service so their low cost and low latency is perfectly suited to connect fflya’s Bluetooth app-based technology.
+ 
+fflya is future proofed as it does not rely on the high cost of broadband or Wi-Fi to deliver its services. There are three key components that suit LCA’s: Text, Telemetry and Credit Card Payment. All are delivered via short burst data which specifically suits the fflya Bluetooth and Iridium data platforms.
+ 
+The Company believes it will be able to compete with other companies in the commercial airline field because of AS-IP’s very low equipment costs, unique business model and little or no certification issues.
+ 
+Business Jet
+ 
+BizjetMobile is focused on the global market because of its use of satellite communications. In the USA, the business jet market is dominated GOGO Inc. (formally Aircell). GOGO’s system connects passenger devices via Wi-Fi, having implemented an exclusive terrestrial wireless radio network across the domestic United States for transmission off the aircraft. GOGO has approximately 5,000+ domestic business jets connected to its system. A second company, SmartSky Networks, is building a similar USA terrestrial network to compete with GOGO.
+ 
+Internationally GOGO has equipped a further 4,737 aircraft with the Aircell (division of GOGO) Iridium satellite telephone systems. These are legacy satellite systems that cannot deliver Internet. The ChiiMP system enhances the Iridium telephone with messaging services and several BizjetMobile customers are connected via the Aircell Iridium systems. GOGO is also an INMARSAT reseller and has equipped several international aircraft with Wi-Fi. These systems are mainly installed at factory on larger jets and range in price from $150K - $650K. A second company VIASAT, also competes for the large jets with a similar $650K international solution.
+ 
+Other non US business jet competition.
+ 
+While there are multiple Iridium Telephone System resellers globally and some with basic Iridium messaging capability, none can match the capabilities of the BizjetMobile product range as BizjetMobile is the leader in inflight Bluetooth connectivity.
+ 
+(5) Sources and availability of raw materials and the names of principal suppliers; amortization, engineering, marketing and communication costs
+ 
+The principal supplier of systems and services to the company is ASiQ, controlled by Ron Chapman, the President of the Company. As part of the original IP acquisition agreement, the Company was required to secure the service of Ron Chapman. It is Ron and ASIQ’s reputation in the aviation industry, that provides the credibility, drives the direction, and creates the programs for the Company. The Chapman family controls all marketing on behalf of the Company.
+ 
+(6) Dependence on one or a few major customers.
+ 
+The Company will be dependent on its distribution network to market the product to generate income from hardware sales and service fees and its airline marketing partners to secure airline programs. The timing and extent of that marketing will be dependent on the resources and efforts of the Company, its distributors, and partners.
+ 
+(7) Patents, trademarks, licenses, franchises, concessions, royalty agreements or labor contracts, including duration;
+ 
+The Company originally acquired the application for an Australian patent and received notification that the International Preliminary Report on Patentability had been established. The Company filed national phase patent applications in Australia, the United States, China and European Union. In January 2010, the Company received the Australian patent. In January 2012, the Company received the Chinese patent. With the advent of Bluetooth 
+
+4
+
+Smart, the technology and the Company’s IP has advanced to a point where the patent was no longer relevant. The Company subsequently decided to proceed no further with the patents, as the technology is predominately software based and protected by copyright.
+ 
+(8) Need for any government approval of principal products or services. If government approval is necessary and the small business issuer has not yet received that approval, discuss the status of the approval within the government approval process.
+ 
+Installation and use of aircraft avionics in aircraft requires prior certification and approval by the Federal Aviation Administration (“FAA”) and equivalent regulatory authorities of foreign governments on each aircraft type and for each airline, although FAA approval is generally globally acceptable.
+ 
+Normally the certification process begins with the installation of the system on an aircraft after which it is certified by an accredited engineer and organisation. The certification is then applicable to similar aircraft types and modified for other aircraft type. In countries other than the United States, the equivalent aviation authority procedures will apply to the certification of the system, but the United States FAA is generally accepted by local certifying authorities throughout the world. Prior to certification and approval, the manufacturer demonstrate that the system has been designed and manufactured and complies with the appropriate aviation standards. Historically, ASiQ has followed the certification path of DO-160 for hardware and DO-178 for software. Following this step, the system must be installed on an aircraft and tested, including a ground and flight test.
+ 
+Due to Covid over the previous 12-month period, the Company’s industrial partner ASiQ, was forced to take an alternative approach. As AS-IP’s launch customer Wizz Air’s head office is in Hungary, we selected one of their UK registered aircraft for the flight trial. This enabled ASiQ to engage EU/UK aviation certified companies to produce the engineering/certification package and manufacture the certified installation kit.
+ 
+ASiQ originally designed the business aircraft system to be is installed as a “Portable Electronic Device” PED and as such, little or no certification is required. The Company utilises the same process for airlines, which will ultimately lead to a lower cost certifiable platform.
+ 
+As the App is installed on a mobile phone or tablet, which are regarded as carry on devices and operated in “flight” or “offline” mode, no aircraft certification is required however, in the majority of cases the final approval for use in flight will be at the discretion of the aircraft operator.
+ 
+Finally, both programs’ Android and IOS Apps are based on a Bluetooth network and Bluetooth has been tested and documented as safe for use in aircraft, which simplifies the operator acceptance process.
+ 
+(9) Effect of existing or probable governmental regulations on the business;
+ 
+The company must maintain good standing, comply with applicable local business licensing requirements, prepare and file periodic reports under the Securities Exchange Act of 1934, as amended, and comply with other applicable securities laws, rules and regulations.
+ 
+Existing or probable governmental regulations have not impacted AS-IP’s operations except for the increased costs of compliance with reporting obligations. These additional costs remain consistent as long as the company continues as a reporting corporation.
+ 
+(10) Estimate of the amount spent during each of the last two fiscal years on research and development activities, and if applicable the extent to which the cost of such activities is borne directly by customers;
+ 
+The Company estimates over the last 2 years, it has expended in excess of $500,000 on research and development, none of which has been borne by the customers.
+ 
+(11) Costs and effects of compliance with environmental laws (federal, state and local); and
+ 
+Not applicable
+ 
+(12) Number of total employees and number of full time employees.
+
+5
+
+The company does not have any employees, instead contracts the Chief Financial Officer, as well as contracting marketing and technical services as required.
+ 

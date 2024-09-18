@@ -1,0 +1,94 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+History
+ 
+We were originally incorporated in the State of Colorado in 1996 under the name Nelx Marketing Inc., and then changed our name to Mind 2 Market, Inc. (1996), then to Health Partnership, Inc. (2005), then to Naerodynamics, Inc. (2008). In January 2020, our company redomiciled to the State of Delaware and changed corporate name to NDYN Merger Corp. In February 2020, NDYN Merger Corp. enacted a Holding Company Reorganization pursuant to Section 251(g) of the Delaware General Corporation Law and, in connection therewith, changed our corporate name to Vinings Holdings, Inc. Effective July 12, 2021, our corporate name changed to “Coeptis Therapeutics, Inc.” and our trading symbol changed to “COEP.”
+Reverse Merger Transaction. On February 12, 2021, Coeptis Acquisition Sub, Inc. (“Acquisition Corp.”), a wholly-owned subsidiary of our company, merged (the “Merger”) with and into Coeptis Pharmaceuticals, Inc., a Delaware corporation (“Acquired Coeptis”). Acquired Coeptis was the surviving corporation of that Merger. As a result of the Merger, our company acquired the business of Acquired Coeptis and now continues the existing business operations of Acquired Coeptis as a wholly-owned subsidiary. Simultaneously with the closing of the Merger, all of the issued and outstanding shares of Acquired Coeptis common stock converted, on a 1-for-1 basis, into shares of the company’s common stock. As of the closing of the Merger, there were no Acquired Coeptis options or warrants outstanding to purchase shares of Acquired Coeptis common stock.
+ 
+Prior to the Merger, our company was a “shell company,” as defined in Rule 12b-2 of the Securities Exchange Act of 1934. Descriptions of our company’s business in this Annual Report of Form 10-K relate to the historical business operations of Acquired Coeptis, unless the context requires otherwise.
+ 
+Acquired Coeptis. Coeptis Pharmaceuticals, Inc. (Acquired Coeptis) was formed in November 2018, and its sole subsidiary, Coeptis Pharmaceuticals, LLC, was formed in July 2017. Through our subsidiaries, we focus on the development and/or acquisition of pharmaceutical products and technologies which offer improvements to current therapies, thereby improving patient outcomes.
+ 
+Our current business model is designed around commercializing and furthering the development of our current product portfolio. We are continually exploring partnership opportunities with companies that have novel therapies in various stages of development or companies with technologies that improve the way that drugs are delivered to patients. We will continue to seek the best strategic relationships for our portfolio, which relationships could include in-license agreements, out-license agreements, co-development arrangements and other strategic partnerships in new and exciting therapeutic areas such as auto-immune disease and oncology.
+ 
+Collaborations for Product Development – Research and Development
+ 
+Vy-Gen Bio, Inc. In May 2021, we entered into two exclusive option agreements (the “CD38 Agreements”) relating to separate technologies (described below) designed to improve the treatment of CD38-related cancers (e.g., multiple myeloma, chronic lymphocytic leukemia, and acute myeloid leukemia) with VyGen-Bio, Inc. (“Vy-Gen”), a majority-owned subsidiary of Vycellix, Inc., a Tampa, Florida-based private, immuno-centric discovery life science company focused on the development of transformational platform technologies to enhance and optimize next-generation cell and gene-based therapies, including T cell and Natural Killer (NK) cell-based cancer therapies. In August 2021, we exercised those two options and acquired a 50% ownership interest in such technologies, with the ownership interest scalable down to 20% under certain circumstances. In December 2021, we completed our purchase of the 50% ownership interest in the CD38-Diagnostic and adjusted the downward adjustment percentage for the CD38-GEAR-NK product candidate to 25%.
+
+5
+-
+
+ 
+
+The CD38 Agreements relate to two separate Vy-Gen drug product candidates, as follows:
+ 
+
+– | CD38-GEAR-NK. This Vy-Gen drug product candidate is designed to protect CD38+ NK cells from destruction by anti-CD38 monoclonal antibodies, or mAbs. CD38-GEAR-NK is an autologous, NK cell-based therapeutic that is derived from a patient’s own cells and gene-edited to enable combination therapy with anti-CD38 mAbs. We believe CD38-GEAR-NK possesses the potential to minimize the risks and side effects from CD38-positive NK cell fratricide.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Market Opportunity. We believe CD38-GEAR-NK could potentially revolutionize how CD38-related cancers are treated, by protecting CD38+ NK cells from destruction by anti-CD38 mAbs, thereby promoting the opportunity to improve the treatment of CD38-related cancers, including multiple myeloma, chronic lymphocytic leukemia, and acute myeloid leukemia.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Multiple myeloma is expected to be the first cancer indication targeted with CD38-GEAR-NK. The global multiple myeloma market was $19.48B in 2018 and is expected to reach $31B by 2026 [Source: Fortune Business Reports].
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+– | CD38-Diagnostic. This Vy-Gen drug product candidate is an in vitro diagnostic tool to analyze if cancer patients might be appropriate candidates for anti-CD38 mAb therapy. CD38-Diagnostic is an in vitro screening tool that is intended to provide the ability to pre-determine which cancer patients are most likely to benefit from targeted anti-CD38 mAb therapies, either as monotherapy or in combination with CD38-GEAR-NK. Our management believes that CD38-Diagnostic also has the potential to develop as a platform technology beyond CD38, including to identify patients likely to benefit for broad range of mAb therapies across a myriad of indications.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Market Opportunity. We believe CD38-Diagnostic provides opportunity to make more cost-effective medical decisions for the treatment of B cell malignancies with high CD38 expression, including multiple myeloma, which may help to avoid unnecessary administration of anti-CD38 therapies. CD38-Diagnostic is anticipated to reduce the number of patients that are subjected to ineffective therapy and to potentially result in significant savings to healthcare systems.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CD38-Diagnostic is viewed as a potential companion diagnostic for determining patient suitability and likelihood of positive treatment outcomes for CD38-GEAR-NK and/or CD38 monoclonal antibody therapies.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+GEAR-NK Product Overview. GEAR-NK is an autologous, gene-edited, natural killer cell-based therapeutic development platform that allows for modified NK cells to be co-administered with targeted mAbs, which, in the absence of the GEAR-NK, would otherwise be neutralized by mAb therapy.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+In May 2021, we made initial payments totaling $750,000 under the CD38 Agreements, to acquire the exclusive options to acquire co-development rights with respect to CD38-GEAR-NK and CD38-Diagnostic. On August 15, 2021, we entered into amendments to each of the CD038 Agreements. In connection with the two amendments, we delivered to VyGen promissory notes aggregating $3,250,000 with maturity dates of December 31, 2021, and made a cash payment of $1,000,000, upon which cash payment we exercised the two definitive option purchase agreements. In December 2021, we completed our payment obligations to secure the 50% ownership interest in the CD38-Diagnostic, and also entered into an amendment of the CD038-GEAR-NK promissory note to extend the maturity date to March 31, 2022 and to increase the scalable downward adjustment percentage for the CD38-GEAR-NK product candidate to 25%. Pursuant to the CD038-GEAR-NK amendment, if the promissory note is timely paid by March 31, 2022, Coeptis will maintain its 50% ownership interest in the CD38-GEAR-NK product candidate, and if the CD38-GEAR-NK promissory note is not timely paid by March 31, 2022, Coeptis’ ownership interest in such assets will automatically be reduced to 25% and the promissory note will be automatically cancelled and will no longer be due or payable. Details of the two August amendments and the December amendment are summarized in the amendments attached at Exhibits 4.1 and 4.2 to our Current Report on Form 8-K dated August 19, 2021 and Exhibits 4.2 to the our Current Report on Form 8-K dated December 27, 2021.
+ 
+
+
+6
+-
+
+ 
+
+In connection with the Vy-Gen relationship and the Company’s ownership in the two product candidates described above, in December 2021 the Company and Vy-Gen entered into a co-development and steering committee agreement. The co-development and steering committee agreement provides for the governance and economic agreements between the Company and Vy-Gen related of the development of the two Vy-Gen drug product candidates and the revenue sharing related thereto, including each company having a 50% representation on the steering committee and each company receiving 50% of the net revenues related to the Vy-Gen product candidates (scalable downward to 25% for the CD38-GEAR-NK as described above). Details of the co-development and steering committee agreement are summarized in our Current Report on Form 8-K dated December 27, 2021, including Exhibits 4.1 and 4.2 thereto.
+ 
+Statera BioPharma. Coeptis executed a binding Letter of Intent (LOI) with Statera BioPharma, a clinical stage biopharmaceutical company developing immunotherapy via its proprietary AIMS platform. The LOI details a collaboration between the two companies for STAT-201, a product in development for Crohn’s disease. Coeptis is to assist Statera BioPharma in its efforts to develop and commercialize STAT-201 in adult and pediatric populations. Coeptis is to receive development fees and commercial milestones under the to-be-completed definitive agreement.
+ 
+Vici Health Sciences, LLC. In 2019, Coeptis entered into a co-development agreement with Vici Health Sciences, LLC (“Vici”). Through this partnership, Vici and Coeptis would co-develop, seek FDA approval and share ownership rights to CPT60621, a novel, ready to use, easy to swallow, oral liquid version of an already approved drug used for the treatment of Parkinson’s Disease (PD). As Coeptis continues to direct its operational focus towards the Vy-Gen opportunities previously described, we have recently stopped allocating priority resources to the development of CPT60621. Coeptis and Vici are currently in negotiations in which Vici intends to buy-out most or all of Coeptis’ remaining ownership rights.
+Sales and Marketing
+ 
+We currently do not have in-house commercial capabilities required to market and distribute FDA-approved products. Therefore, we will be required to partner with firms who are capable of conducting all sales, marketing, distribution, contracting and pricing for our future products. There is no assurance that we will be able to secure the services of such a firm or that any such firm will be able to achieve sales expectations.
+Our Growth Strategy
+ 
+To achieve our goals, Coeptis intends to deploy an aggressive, four-pronged, growth strategy listed below that we believe will help us maximize our success and deleverage some of the risk of finding, solely developing and funding our own products.
+Strategic Partnerships – We will focus on expanding our existing pipeline through establishing strategic partnerships with companies that have interesting products and technologies. We intend to focus on novel, early-stage and preclinical assets in a variety of therapeutic areas, including oncology and autoimmune diseases. In connection with our strategic partnership growth strategy, as discussed elsewhere herein, we recently entered into two option purchase agreements regarding a co-development opportunity for two early-stage product candidates, as disclosed in and discussed in our Current Report on Form 8-K that was filed on May 11, 2021.
+Business Development – We will continue to seek to for acquisition, investment or partnering novel products and technologies that we believe will improve patient outcomes. We will seek to identify companies with products and technologies that are seeking assistance in developing and commercializing these assets. We will assess the commercial market opportunities for all potential products and technologies to determine if there are enough advantages to allow them to be viable, if they are developed.
+Commercial Development – A key focus of our company is to participate and assist in the commercial development activities of its assets with our strategic partners. Commercial development activities may include, but are not limited to, clinical development, CMC manufacturing, supply chain management, market research, healthcare economics, market access, sales/marketing, and commercial launch strategies.
+Portfolio Optimization – We will continue to evaluate, prioritize, optimize, and make appropriate changes in our pipeline portfolio as market development dynamics and/or product opportunities change. For example, it may be a strategic business decision for us to divest certain products and/or agreements to other companies so it can best focus on its core assets.
+
+7
+-
+
+Employees
+ 
+Currently, we have five employees, of which four are full-time employees, and one is a part-time employee. Our employees are not represented by any labor union or any collective bargaining arrangement with respect to their employment with us. We have never experienced any work stoppages or strikes as a result of labor disputes. We believe that our employee relations are good.
+ 
+Certain of our employees have been reporting to work remotely due to the COVID-19 outbreak. Our operations or productivity may continue to be impacted throughout the duration of the COVID-19 outbreak and government-mandated closures.
+
+Legal Proceedings
+ 
+From time to time, we may become involved in various lawsuits and legal proceedings, which arise in the ordinary course of business. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm our business. We are currently not aware of any such legal proceedings or claims that we believe will have a material adverse effect on our business, financial condition or operating results.
+Available Information
+ 
+We file annual, quarterly and current reports and other information with the United States Securities and Exchange Commission (“SEC”) that are publicly available through the SEC’s website at www.sec.gov. Our SEC filings will also be available free of charge through the home page of our website https://coeptistx.com as soon as reasonably practicable after they are filed with or furnished to the SEC. Our website and the information contained on or connected to that site are not incorporated into this Annual Report on Form 10-K.

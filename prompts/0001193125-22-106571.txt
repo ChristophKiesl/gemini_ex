@@ -1,0 +1,447 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+--------+----------
+
+Introduction 
+ We are a Delaware corporation formerly known as ECP Environmental Growth Opportunities Corp., and as a result of the business combination with Fast Radius Operations, Inc. (formerly known as Fast Radius, Inc.) (“Legacy Fast Radius”) on February 4, 2022, we changed our name to Fast Radius, Inc. (which we refer to throughout this Annual Report as the “Business Combination”). The disclosure in Items 1 and 1A of this Annual Report gives effect to the Business Combination and includes the operations of Legacy Fast Radius prior to the Business Combination. For additional information about Legacy Fast Radius, please refer to the Company’s Current Report on Form 8-K/A filed with the SEC on March 30, 2022 for (a) the Management’s Discussion and Analysis of Financial Condition and Results of Operations of Legacy Fast Radius for the years ended December 31, 2020 and 2021 and (b) the audited financial statements of Legacy Fast Radius as of and for the years ended December 31, 2020 and 2021. 
+ Unless the context otherwise requires, references in this subsection to “we,” “our,” “Fast Radius” and the “Company” refer to the business and operations of Legacy Fast Radius and its consolidated subsidiaries prior to the Business Combination and to Fast Radius, Inc. (formerly known as ECP Environmental Growth Opportunities Corp.) and its consolidated subsidiaries following the consummation of the Business Combination. 
+ Our Mission 
+ Our mission is to Make New Things Possible to advance the state of the world. We believe in the importance of manufacturing—not just for the things we make, but the things we make possible. We also believe that how the world currently makes and moves things is fundamentally broken and that traditional global supply chains are rigid, wasteful, and inaccessible. Our vision is to build a new infrastructure to design, make, and move physical products in the digital age. 
+Company Overview 
+ Fast Radius is a leading cloud manufacturing and digital supply chain company. Founded in 2017, Fast Radius is headquartered in Chicago with offices in Atlanta, Louisville, and Singapore and microfactories in Chicago and at the United Parcel Service (“UPS”) Worldport facility in Louisville, Kentucky. Fast Radius has approximately 325 full-time employees and works with companies across industries and throughout the product design and manufacturing lifecycle. 
+ Since 2017, we have served more than 2,000 customers, produced over 12 million parts, and our Cloud Manufacturing Platform has evaluated over 85,000 unique designs. We serve customers of all sizes and across industries, including early-stage start-ups, established mid-size companies, and larger firms, including over 45 of the Fortune 500. 
+ We have built our Cloud Manufacturing Platform which includes both physical infrastructure—Fast Radius microfactories and third-party supplier factories—and a proprietary digital infrastructure software layer. Our Cloud Manufacturing Platform supports engineers, product developers, and supply chain professionals across what we consider the three critical stages of product design and manufacturing: Design, Make, and Move: 
+ 
+
+• | Design: Via an online experience, the platform provides engineers with real-time design insights and feedback across a range of manufacturing technologies and materials to help engineers optimize designs, improve yields, and select the right approach to manufacture their parts. Engineers also have the ability to compare technologies and materials. This machine-learning powered tool leverages proprietary data captured during the production of parts in our microfactories.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+4 
+
+  
+• | Make: When customers are ready to order parts, the platform provides a modern front-end user experience to facilitate the ordering and procurement process for industrial-grade parts. Users also have access to a set of features that shows exactly where their part is in the production process, enhancing visibility into production and order status.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Move: The platform allows engineers to store part designs in our Virtual Warehouse and eliminate the need for expensive and wasteful physical storage.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+We believe our Cloud Manufacturing Platform ultimately enables a new infrastructure to make and move physical products—one that is more flexible, sustainable, and accessible than current global supply chains. 
+ We offer a wide range of manufacturing technologies including additive manufacturing (often referred to as 3D Printing), Computer Numerically Controlled (“CNC”) machining, injection molding, sheet metal, urethane casting, and other manufacturing methods. We offer these manufacturing capabilities through our own microfactories as well as a network of curated third-party suppliers. 
+ As of December 2021, we have four microfactories leveraging the following manufacturing technologies: (1) CNC machining, (2) Carbon DLS, (3) HP Multi-Jet Fusion, and (4) Stratasys FDM. Our Chicago location was recognized in 2018 by the World Economic Forum as one of the nine most advanced factories in the world embracing the tools of Industry 4.0. In addition to our full microfactories, we also have a suite of other technologies that we offer for small scale application and development, including machines from Formlabs and Desktop Metal. We plan to continue expanding the breadth of our microfactories in the coming years across a wide range of manufacturing technologies. In December 2021, we launched a new solution that allows customers to partner with us to design and stand up customized advanced microfactories, which are owned and operated by Fast Radius but tailored to a customer’s production needs and manufacturing methods. 
+ In addition to our own microfactories, we utilize a network of third-party suppliers to produce parts on behalf of our customers. These suppliers are curated and vetted for quality and key capabilities. 
+ We have grown our revenue at a compound annual growth rate (“CAGR”) of approximately 60% from 2017 through 2021. Since 2017, we have served more than 2,000 customers, produced over 12 million parts, and our Cloud Manufacturing Platform has evaluated over 85,000 unique designs. This growth has been driven by both an increase in revenue of existing customers and the on-boarding of new customers to our platform. Our Net Promoter 
+ 
+5 
+
+  Score (“NPS”) as of February 2022 was 80,1 which exceeds the industry average NPS of 51% for manufacturing companies and is reflective of our commitment to providing a best-in-class customer service experience.2
+We are an early-stage company with a history of losses since our incorporation in 2017 and have funded our cash flow deficits primarily through the issuance of capital stock and debt. As of December 31, 2021, we had an accumulated deficit of approximately $123.3 million, including 2021 net losses of approximately $67.9 million. We expect to continue to incur operating losses and negative cash flow as we continue to invest significantly in research and development efforts, sales and marketing and other aspects of our business. See the section entitled “Risk Factors—Risks Related to Our Operating History” for more information. 
+ We are led by Co-Founder and CEO Lou Rassey, a manufacturing industry pioneer who helped architect and lead McKinsey & Company’s work in Industry 4.0. Our leadership team includes other experienced, visionary executives with proven track records across high-growth technology businesses. We believe the team we have assembled is uniquely suited to continue scaling our Cloud Manufacturing Platform. 
+ Industry Background 
+ According to management estimates and third-party reports, we estimate that our total addressable market (“TAM”) is over $350 billion globally. This TAM includes the manufacturing of custom parts in volumes less than 100,000 units across the following manufacturing methods: CNC machining, injection molding, sheet metal, and additive manufacturing. We believe that our emphasis on production volumes (as opposed to prototypes) allows us to serve customers up to the 100,000 unit volume threshold and, in turn, allows us to address the full $350 billion market. 
+
+1 | Our Net Promoter Score is a three-month rolling average of our NPS score derived through regular online surveys we send to customers after parts have been shipped to and/or received by the customer.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2 | NPS is a score that measures the likelihood of users to recommend a company’s products or services to others, and ranges from a low of negative 100 to high of positive 100, and benchmark scores can vary significantly by industry. A score greater than zero represents a company having more promoters than detractors. Industry average NPS is based on survey data from Clearly Rated: https://www.clearlyrated.com/solutions/2021-nps-benchmarks-for-b2b-service-industries/.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+6 
+
+  The custom parts manufacturing market is experiencing a wide range of disruptive innovations broadly characterized as “Industry 4.0.” This includes new technologies across nearly every stage of the product development and manufacturing value chain, many of which are directly incorporated into the Fast Radius Cloud Manufacturing Platform as highlighted below: 
+ 
+
+
+In addition to these Industry 4.0 innovations, we are seeing other trends in our industry which we believe will be supportive to our industry and business model, including: 
+ 
+
+• | Expertise gap in Industry 4.0: These Industry 4.0 technologies and innovations are here, but we see a skill gap to embrace these new tools. Engineers and companies need support to fully capitalize on the potential of these new tools.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Consumerization of B2B: Professionals are demanding a modern, digital-first customer experience when interacting with their vendors, just as they experience in their consumer lives. On-demand fulfillment is now expected by customers and new, digital-driven ways of working have been accelerated by the COVID-19 pandemic.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | More agile and sustainable supply chains: Customers and countries are demanding more resilient and sustainable supply chains, including more distributed, localized production to mitigate risk and drive more localized sourcing.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Market Opportunity 
+ Today’s infrastructure to make and move physical products is rigid, wasteful, and inaccessible. Parts are often produced in centralized mega-factories, shipped in slow-moving, carbon-intensive supply chains, and stored in massive warehouses where trillions of dollars of inventory are tied up. At the other end of the spectrum are the sub-scale manufacturers. 
+ 
+7 
+
+  These sub-scale manufacturers are highly fragmented; for example, based on data from the U.S. Census Bureau, approximately 90% of the machining in the U.S. is done by sub-scale firms with less than 500 employees and approximately 68% is done by firms with less than 100 employees.3 While these manufacturers have played an important role in the manufacturing economy of the past generation, we believe that many of these companies may not have the expertise or investment capital to deliver a modern, software-driven customer experience, to invest in next-generation factory infrastructure embracing Industry 4.0, or to allocate meaningful resources to new customer acquisition. 
+ Fast Radius’ Solution—Cloud Manufacturing Platform
+ Fast Radius is displacing this rigid, wasteful, and outdated infrastructure with a new approach—our Cloud Manufacturing Platform—which is a more flexible, sustainable, and accessible infrastructure to design, make and move physical products: 
+
+• | Instead of centralized mega-factories, Fast Radius will be building localized microfactories, enabling a more distributed manufacturing footprint which allows for products be produced closer to the point of consumption.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Instead of slow-moving, carbon intensive supply chains, Fast Radius will allow customers to move parts “at the speed of light” by shipping digital part files across the internet and producing them in a local microfactory.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Instead of physical inventory, the Fast Radius Virtual Warehouse enables a new paradigm of digital inventory where part designs and manufacturing instructions are stored in the Virtual Warehouse and will be produced on-demand when and where they are needed.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Instead of sub-scale operators struggling to embrace Industry 4.0 innovations, the Fast Radius Cloud Manufacturing Platform embraces the new tools of Industry 4.0 to enable a modern, software-driven end-to-end customer experience that is accessible to anyone with a browser.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3 | Census Bureau, 2017 Statistics of U.S. Businesses Annual Data Tables by Establishment Industry: https://www.census.gov/data/tables/2017/econ/susb/2017-susb-annual.html; U.S. Census Bureau, 2017 County Business Patterns and Economic Census: https://www2.census.gov/programs-surveys/susb/tables/2017/us_state_naics_detailedsizes_2017.xlsx.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+8 
+
+  The Fast Radius Cloud Manufacturing Platform consists of the physical and digital infrastructure that ultimately enables this new, more flexible, sustainable, and accessible way to make and move products around the world. Specifically, our Cloud Manufacturing Platform consists of the following layers: 
+ 
+
+• | Infrastructure: This includes the physical factories—both our own microfactories and our network of third-party factories—which are used to manufacture parts and gather proprietary manufacturing data throughout the process.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Digital Thread and Learning Engine: Our digital thread is the “DNA” of how every part is manufactured. This includes not just the CAD file, but also all the manufacturing instructions and data from when the part is made and fulfilled. Within this layer, we also have a learning engine which utilizes machine learning to allow us to get smarter with every part we make. The learning engine provides real-time insights on costs, manufacturability, anticipated yield, and other manufacturing feedback.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Operating System: Our operating system powers the end-to-end customer experience. It includes orchestration across sales, marketing, customer, factory operations, and fulfillment. This operating system is designed to host applications and services—both Fast Radius-developed applications and, over time, applications developed by third parties.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Applications & Services: This is the customer-facing layer which includes the applications and services which we provide to our customers. Currently we have three applications running on our Cloud Manufacturing Platform: (1) Fast Radius On-Demand, (2) Fast Radius Additive Launch, and (3) Fast Radius Virtual Warehouse.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+We also have a roadmap of additional applications and services that we plan to build on our Cloud Manufacturing Platform, including applications and services which will be developed by third-party developers and hosted on our platform. A description of the current applications on the platform are as follows: 
+ 
+
+• | Fast Radius On-Demand: Our customers use this offering to compare manufacturing technologies and material types and then ultimately process an order for on-demand parts. The On-Demand application is built for production, not just prototyping, allowing customers to scale to high-volume production on the platform.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+9 
+
+  
+• | Fast Radius Additive Launch: This application is designed for customers who are seeking to utilize additive manufacturing in production applications (as opposed to just prototyping). These customers leverage the Fast Radius Additive Launch application to gain design insights for various additive manufacturing techniques, with a goal to launch a new product with additive manufacturing.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Fast Radius Virtual Warehouse: Instead of storing parts physically in a warehouse, this application allows our customers to store their part designs and manufacturing instructions digitally in the Fast Radius Cloud Manufacturing Platform and produce them when and where they are needed, driving material savings and waste reduction by eliminating the need for physical inventory.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Customer Examples 
+ We work with customers across industries, including industries that have exceptional requirements for quality, such as aerospace, automotive, and medical devices. Below are customer case studies that provide more context on how customers engage with the various application and service offerings of the Cloud Manufacturing Platform. 
+ Fast Radius On-Demand
+An example customer for our On-Demand offering is Curtiss Motorcycle (“Curtiss”). Curtiss is developing a new electric motorcycle and originally came to Fast Radius looking for prototype parts for their new bike. When they realized that the Fast Radius On-Demand offering allowed them to ramp to volume production, they expanded well beyond prototyping and are using Fast Radius to manufacture their electric motorcycle leveraging 8 different manufacturing technologies across over 100 parts. 
+ The On-Demand application allows Curtiss and other customers to compare materials and manufacturing types, process orders, and gain visibility into the status of production. 
+ As we see with many of our customers, once Curtiss understood the benefits of the Fast Radius Cloud Manufacturing Platform, they expanded their relationship with Fast Radius. Curtiss expanded from the first part to now over 119 parts across two bike models. 
+ Fast Radius Additive Launch 
+ Fast Radius is a world-recognized leader in production-grade additive manufacturing (also referred to as 3D printing), having earned the distinction from the World Economic Forum as having one of the nine most advanced factories in the world. Given this, customers often come to us looking for support in launching new products and applications uniquely enabled by additive manufacturing. 
+ The Fast Radius Additive Launch service includes a combination of software tools and technical expertise to support customers through the lifecycle—from determining the right manufacturing technology, material type, and part design all the way through to volume production and product launch. 
+ One customer example is Aptiv, a leading tier-1 automotive supplier. Aptiv came to Fast Radius because they understood the cost and flexibility benefits of additive manufacturing and were looking for a partner to help launch new products to embrace these benefits. The Fast Radius Additive Launch application allowed Aptiv to gain design feedback from our software, engage with technical expertise to iterate on product designs, and ultimately to leverage a world-class additive manufacturing production capability. 
+ 
+10 
+
+  Aptiv now relies on Fast Radius for numerous production parts which are being used in vehicles on the road today. Aptiv continues to expand their relationship with Fast Radius, adding more parts to the Platform and further strengthening the long-term partnership with Fast Radius. 
+ 
+Fast Radius Virtual Warehouse 
+ One of the benefits of the Fast Radius Cloud Manufacturing Platform is the ability to store part designs and manufacturing instructions virtually. This is more than just the CAD file. Fast Radius has architected a proprietary “build package,” which codifies all the manufacturing instructions, historical manufacturing data, and knowledge about part-specific variability. This “build package” allows Fast Radius to produce parts consistently across multiple locations, allowing customers to store their parts digitally. Customers then have the confidence that when they need to replenish their parts, they can do so knowing that the part will have consistent quality over time and future microfactory locations. We call this application our Virtual Warehouse. 
+ 
+11 
+
+  One example of a customer leveraging our Virtual Warehouse is Satair, a subsidiary of Airbus. Satair was looking for a supply chain solution to manage their key parts for airplane maintenance. The Fast Radius Virtual Warehouse allows Satair/Airbus to obtain airplane repair parts when and where they need them with much faster turnaround times than their prior approach. Fast Radius currently hosts dozens of parts for Satair/Airbus in the Virtual Warehouse and this library of parts for Satair/Airbus continues to expand as Fast Radius and Satair/Airbus evaluate additional parts which would be benefit for the Virtual Warehouse. 
+ 
+
+Our Growth Strategy 
+ Over the last several years, we have developed a model to drive meaningful growth across commercial and operational infrastructure. Our long-term growth strategy includes the following elements: 
+
+• | Existing customer expansion
+--+----------------------------
+
+
+• | New customer acquisition
+--+-------------------------
+
+
+• | Manufacturing capability expansion
+--+-----------------------------------
+
+
+• | Geographic expansion
+--+---------------------
+
+
+• | Continued development of our apps and services ecosystem
+--+---------------------------------------------------------
+
+
+• | Opportunistic acquisitions to accelerate capability and geographic expansion
+--+-----------------------------------------------------------------------------
+
+Existing Customer Expansion 
+ We have experienced a significant “flywheel” of growth across many of our customers. Once we become a trusted supplier for a customer, we often see an expansion in both the number of unique parts we are producing for that customer and an expansion in the number of engineers or pods of engineers that we are working with at a customer. Examples of this “flywheel” include what we’ve experienced with Curtiss, Aptiv, and Satair/Airbus as described above. 
+ 
+12 
+
+  We are investing heavily in customer expansion with Fast Radius Account Executives who are tasked with expanding the size of our existing customers. We are also investing in various digital marketing tactics to target individuals at existing customers to raise awareness of our capabilities and existing relationship with an incumbent customer. 
+ In addition, customers often look to us as they ramp up from prototyping and initial production to volume production in the tens of thousands of units. We believe our focus on production-grade quality will allow us to continue this expansion and increase revenue within our existing customers. 
+ New Customer Acquisition 
+ We have three primary customer acquisition channels: 
+ 
+
+• | Digital Marketing. We have built a modern digital marketing technology stack which allows us to efficiently target late-funnel, high value prospects through various digital channels and on-board them to our Cloud Manufacturing Platform.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Inside Sales. Our inside sales channel is similarly scalable with a technology-based platform which allows us to train, manage and coach our inside sales professionals to improve their prospecting and yield.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Business Development. We have many customers who individually represent an addressable market measured in the hundreds of millions of dollars or more. For these customers, we are investing in a higher-touch business development motion, often dedicating a meaningful portion of an engineer and sales professional’s time to onboard and expand these customers within our Cloud Manufacturing Platform.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+In each of these channels, we have demonstrated an ability to acquire new customers in a cost-efficient, scalable way. Moreover, when we acquire a new customer, our “flywheel” of growth expands to these new customers as well. 
+ Manufacturing Capability Expansion 
+ As of December 2021, we had four microfactories leveraging the following manufacturing technologies: CNC machining, Carbon DLS, HP Multi-Jet Fusion, and Stratasys FDM. We plan to continue expanding the breadth of our microfactories in the coming years across a wide range of manufacturing technologies. In December 2021, we also launched a new solution that allows customers to partner with us to design and stand up customized advanced microfactories, which are owned and operated by Fast Radius but tailored to a customer’s production needs and manufacturing methods. 
+ Our microfactories are designed to be “copy and pasted” for scale, with each element of the physical and digital workflow operating the same way across locations. This allows us to both control the quality of production regardless of the location of the microfactory and facilitates our ability to scale our microfactory footprint quickly and cost-efficiently. 
+ As we expand our microfactory footprint, our network of distributed microfactories will enable a new level of supply chain resiliency. Because each microfactory is a “copy”, our customers will have the confidence that regardless which microfactory (or continent) a part is produced in, the part will have the same quality and consistency. This will enable entirely new supply chain models in which parts are produced closest to where they are needed, reducing waste throughout the supply chain. 
+ In addition to the expansion of our microfactories, we will continue to expand our relationships with third-party suppliers. This includes on-boarding new partners with additional capabilities and geographic coverage. We will also continue deepening the partnerships with existing suppliers to include further software-driven integration with the Cloud Manufacturing Platform, including software tools to support production scheduling, manufacturing, quality, and fulfillment. 
+ 
+13 
+
+  Geographic expansion 
+ In the coming years, we plan to expand our microfactory model across multiple geographies around the world. We believe our geographic expansion strategy will allow us to both serve our existing customers more broadly, while also expanding our potential customer base within these new geographies. 
+ We have a partnership with UPS, which includes a commitment to provide UPS a “right of first offer” on supporting the expansion of new facilities. This commitment does not limit Fast Radius’s ability to select the location that is right for us, but it does provide a helpful partner as we evaluate specific locations for our global expansion. We see many benefits of locating these facilities strategically adjacent to UPS hubs and other strategic partners as it allows us to provide more efficient supply chain solutions to our customers. 
+ Applications and Services Expansion 
+ Our Cloud Manufacturing Platform is designed to host a range of software applications and services developed by both Fast Radius and by third-party developers. Going forward we believe this evolving ecosystem of applications and services will drive additional production revenue from our customers by increasing the utility and stickiness of the platform. 
+ Our software roadmap also calls for applications and services which will drive direct software revenue. To date we are providing all of our applications and services without any direct cost to our customers. We believe this approach facilitates production revenue and reduces friction to bring new customers on to the Cloud Manufacturing Platform. However, over time, we plan to charge directly for various premium applications and services, which will drive incremental revenue above and beyond the parts production revenue. 
+ Opportunistic Acquisitions 
+ We believe our organic growth plan is economically and operationally attractive. We also believe there will be accretive acquisition opportunities to accelerate software development, manufacturing capabilities, and geographic expansion. In evaluating any potential acquisitions, we will understand the costs of organically building a capability or geographic presence and weigh this cost with the cost of an acquisition. If we believe an acquisition is the most attractive path to increase enterprise value, we expect to pursue these acquisitions. 
+Our Competitive Strengths 
+ The Fast Radius Cloud Manufacturing Platform is a fully-integrated physical and digital infrastructure that creates tangible benefits for companies bringing physical products to the world. This infrastructure also creates a more sustainable way to make and move products around the world—ultimately making Fast Radius’ offerings attractive to customers who value more sustainable solutions. 
+ As the Fast Radius Cloud Manufacturing Platform scales, we are also creating a compelling competitive moat. The execution of this plan is being led by a world-class management team with deep experience building high-growth technology-based businesses. 
+ Benefits 
+ Benefits of our platform include: 
+ 
+
+• | Access. Our cloud gives anyone access to manufacturing services across the product lifecycle that can be accessed wherever and whenever a customer needs them.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Speed. The Cloud Manufacturing Platform enables innovation and production in manufacturing to be much faster. With access to new technologies like industrial-grade additive manufacturing, and simplified supply chains, customers can get their parts in days instead of months.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+14 
+
+  
+• | Elasticity. With our platform, customers use only the resources they need and can scale-up with their demand. The platform can produce a few parts or a few thousand parts, with carbon-friendly digital warehouses, rather than wasteful physical storage, and on-demand human expertise when customers need it, rather than constant hiring.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Knowledge. The data collected through our microfactories and supplier network feeds our learning engine on top of which all of our apps and services are built. Our software is making this knowledge universally available.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Global Reach. With a combination of our growing network of internal microfactories and our extensive international supplier network, parts can be produced and shipped where customers need them when they need them.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Cost Advantage. Our Cloud Manufacturing Platform, capital expenses (factory equipment, physical storage, maintenance) are traded for variable expenses (production and virtual warehousing) when customers need them. We bring advanced manufacturing technologies many companies could not afford to invest in alone.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sustainability 
+ The Fast Radius Cloud Manufacturing Platform provides for a fundamentally more sustainable way to make and move parts around the world. Drivers of a more sustainable supply chain include: 
+
+• | Reduced Transportation Emissions. Local on-demand microfactory model enables on-shore production, cutting off significant amounts of transportation emissions.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reduced Energy Consumption. Bundling together digital warehousing and local on-demand part production enables reduction in inventory and cuts the emissions generated by the warehousing.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Reduced Material Waste. Additive manufacturing enables optimized part design, reducing consumption of production materials.
+--+----------------------------------------------------------------------------------------------------------------------------
+
+
+Making, storing, and moving parts through the Cloud Manufacturing Platform reduces emissions from transportation, reduces waste from storage and obsolete inventory, all while empowering engineers to make smarter design choices from the start. 
+ Competitive Moat 
+ We believe we are building a sustainable competitive moat with the following key attributes: 
+ 
+
+• | Proprietary technology. Proprietary Cloud Manufacturing Platform protected by patent filings, trade secrets and application-specific expertise.
+--+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Operations advantage. Microfactory orchestration and end-to-end technology platform delivers consistent and positive customer experience.
+--+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Systems integration and scale advantage. Hard to replicate integrated system, with a world-recognized factory combined with a network, proprietary operating system, and applications platform.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Network effects. Application, user, data, and network flywheels: more users, more parts, more insights, more team members, better production.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+15 
+
+  
+• | High switching costs. Customers invest fixed costs to certify Fast Radius for production and Fast Radius owns the manufacturing process data.
+--+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Customers 
+ Since 2017, we have served more than 2,000 customers, produced over 12 million parts, and our Cloud Manufacturing Platform has evaluated over 85,000 unique designs. Our customers are companies that make physical products and need custom manufactured components. We serve customers across industries, including in the automotive, aerospace, medical device, industrial, and consumer verticals. Approximately 95% of our revenue in 2021 came from customers in the Americas. For the year ended December 31, 2021, no individual customer comprised more than 10% of our revenue. 
+ For many of our customers, we are a certified production supplier. This typically means that the customer has conducted on-site audits of our factories, assessed our quality management system, and verified our certification statuses. For these customers, we are producing both prototypes and parts that are used in end-use, final production products. We serve customers of all sizes, including early-stage start-ups, established mid-size companies, and larger firms, including over 45 of the Fortune 500. 
+ We provide our customers with parts produced across manufacturing technologies, including CNC machining, injection molding, additive manufacturing, and other manufacturing techniques. The majority of our order volume is with customers who ordered parts from us across more than one manufacturing technology. In the future, Fast Radius also expects to earn revenue directly from software in addition to custom manufactured components. 
+ Research and Development 
+ The manufacturing market is undergoing rapid technological advancements across software, automation, and manufacturing technologies. We invest significant resources into ongoing research and development programs because we believe that our ability to maintain and extend our market position depends in part on technologies that offer unique benefits to our customers and differentiation versus our competitors. Our research and development team is responsible for the development of new products and product improvements as well as the development of new technologies that enable those products with scalable automation and differentiated product features. Our research and development team has talented individuals with engineers, scientists, and technicians with expertise in software systems and architecture, data science and engineering, product design, mechanical 
+ 
+16 
+
+  engineering, and manufacturing engineering. Our team has deep experience in these disciplines and experience working in respected organizations that focus on these technologies across our key industry verticals. 
+ Our primary areas of focus in research and development include, but are not limited to: 
+ 
+
+• | Software applications that provide our customers with a modern software experience and the ability to access our cloud manufacturing infrastructure;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Data science and engineering that gathers data across our operations and connects our factories and supply chain in order to drive highly informed data driven decisions and operations;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Data analysis and machine learning technologies that analyze manufacturing data and information to optimize our factory operations and provide customers with insights and expertise;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Factory technologies including factory software and automation, metrology and quality systems, and computer vision;
+--+--------------------------------------------------------------------------------------------------------------------
+
+
+• | Digital design, including software tools that streamline and optimize design of mechanical components; and
+--+-----------------------------------------------------------------------------------------------------------
+
+
+• | Integration with other third-party software and computing infrastructure which can further expand the capabilities of the cloud platform (for example, connectivity with data science and engineering software tools).
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Intellectual Property 
+ We will continue to invest in and protect our intellectual property rights, both in the United States and abroad, through a combination of patent, trademark, copyright, and trade secret laws, as well as nondisclosure and invention assignment agreements with our consultants and employees and through non-disclosure agreements with our vendors and business partners. Unpatented research, development, know-how and engineering skills make an important contribution to our business, but we pursue patent protection when we believe it is possible and consistent with our overall strategy for safeguarding intellectual property. 
+ As of March 31, 2022, we have filed four non-provisional patent applications in the United States, and we have licensed one non-provisional patent application in the United States. We also have numerous trademarks registered in the United States and other countries. Fast Radius’s patent applications are directed toward, among other inventions, cloud manufacturing software, online user experiences and tools for cloud manufacturing, and digital factory operations. 
+ Human Capital Management 
+ Our employees are our most important assets and set the foundation for our ability to achieve our strategic objectives. They contribute to our success and, in particular, the employees in our manufacturing, sales, research and development and quality assurance departments are instrumental in driving operational execution and financial performance, advancing innovation and maintaining a strong quality and compliance program. As of December 31, 2021, we had approximately 325 full-time employees, primarily based in the greater Chicago, Illinois area, an increase of close to 200% compared to December 31, 2020 based on the growth in our business. We also engage numerous consultants and contractors to supplement our permanent workforce. A majority of our employees are engaged in engineering, research and development, sales, operations, and related functions. To date, we have not experienced any work stoppages and consider our relationship with our employees to be in good standing. None of our employees are subject to a collective bargaining agreement or represented by a labor union. We are committed to building a diverse, equitable, and inclusive workplace across all roles. 
+ The success and growth of our business depends in large part on our ability to attract, retain and develop a diverse population of talented and high-performing employees at all levels of our organization, including the individuals who comprise our workforce as well as executive officers and other key personnel. To succeed in a competitive labor market, we have developed recruitment and retention strategies, objectives and measures that 
+ 
+17 
+
+  we focus on as part of the overall management of our business. These strategies, objectives and measures form our human capital management framework and are advanced through the following: 
+ 
+
+• | Competitive Pay and Benefits. Our compensation programs are designed to align the compensation of our employees with our performance and to provide the proper incentives to attract, retain and motivate employees to achieve superior results. The structure of our compensation programs balances incentive earnings for both short-term and long-term performance.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Health and Safety. Health and safety are firmly rooted across our business. In response to the COVID-19 pandemic and related mitigation measures, we implemented changes in our business in 2020 in an effort to better protect our employees and customers, and to support appropriate health and safety protocols. For example, we implemented extensive cleaning and sanitation processes for both production and office administration spaces and implemented broad work-from-home initiatives for employees in our administrative functions. While our essential workers (manufacturing employees) have continued to work at our facilities and provide services to our customers, most employees in our administrative functions have effectively worked remotely since March 2020. We continually evaluate our COVID-19 safety protocols and will adjust our remote work and other policies over time.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Recruitment, Training and Development. Our talent acquisition team uses internal and external resources to recruit highly skilled and talented workers, and we encourage employee referrals for open positions. We prioritize and invest in creating opportunities to help employees grow and build their careers, through a multitude of training and development programs. These include online, instructor-led and on-the-job learning formats.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Facilities 
+ Our corporate headquarters is located in an approximately 17,500 square foot facility that we lease in Chicago, Illinois. Our lease for this facility is on a month-to-month basis. We also lease additional facilities in Illinois, Kentucky, Georgia, and Singapore which are summarized below. In November 2021, we entered into a new agreement for Sales & Operations in Chicago. We have an option to renew our lease with UPS at their Worldport facility in Louisville, Kentucky for 12 months in December 2022. We believe that our facilities are adequate for our needs through at least mid-2022. We are actively building our microfactory expansion roadmap. When we need additional space for this expansion, we believe we will be able to obtain additional space on commercially reasonable terms. 
+
+Location | ~Size(sq. ft.) | Lease Expiration | Purpose 
+Chicago, IL (Main) | 17,500 | Month-to-Month | Headquarters, Innovation Center, and Microfactories
+Chicago, IL | 50,000 | February 2026 | Microfactories 
+Chicago, IL | 30,000 | August 2023 | Sales & Operations 
+Louisville, KY | 3,000 | December 2022 | Microfactory located on UPS’s Worldport facility 
+Atlanta, GA | 2,000 | February 2023 | Sales & Operations 
+Singapore | 500 | May 2022 | Operations 
+
+Government Regulations 
+ We are subject to various laws, regulations and permitting requirements of federal, state and local authorities, including related to environmental, health and safety, anti-corruption and export controls. We believe that we are in material compliance with all such laws, regulations and permitting requirements. 
+Environmental Matters 
+ We are subject to domestic and foreign environmental laws and regulations governing our operations, including, but not limited to, emissions into the air and water and the use, handling, disposal and remediation of hazardous 
+ 
+18 
+
+  substances. A certain risk of environmental liability is inherent in our production activities. These laws and regulations govern, among other things, the generation, use, storage, registration, handling and disposal of chemicals and waste materials, the presence of specified substances in electrical products, the emission and discharge of hazardous materials into the ground, air or water, the cleanup of contaminated sites, including any contamination that results from spills due to our failure to properly dispose of chemicals and other waste materials and the health and safety of our employees. We are required to obtain environmental permits from governmental authorities for certain operations. 
+ The export of our products internationally from our production facilities subjects us to environmental laws and regulations concerning the import and export of chemicals and hazardous substances such as TSCA and REACH. These laws and regulations require the testing and registration of some chemicals that we ship along with, or that form a part of, our systems and other products. 
+ See “Risk Factors—We are subject to environmental, health and safety laws and regulations related to our operations, which could subject us to compliance costs and/or potential liability” for additional information about the environmental, health and safety laws and regulations that apply to our business. 
+ Export and Trade Matters 
+ We are subject to anti-corruption laws and regulations imposed by governments around the world with jurisdiction over our operations, including the U.S. Foreign Corrupt Practices Act (the “FCPA”) and the U.K. Bribery Act 2010, as well as the laws of the countries where we do business. We are also subject to various trade restrictions, including trade and economic sanctions and export controls, imposed by governments around the world with jurisdiction over our operations. For example, in accordance with trade sanctions administered by the Office of Foreign Assets Control and the U.S. Department of Commerce, we are prohibited from engaging in transactions involving certain persons and certain designated countries or territories, including Cuba, Iran, Syria, North Korea, Russia and the Crimea Region of Ukraine. In addition, our products are subject to export regulations that can involve significant compliance time and may add additional overhead cost to our products. In recent years the United States government has a renewed focus on export matters. For example, the Export Control Reform Act of 2018 and regulatory guidance thereunder have imposed additional controls and may result in the imposition of further additional controls, on the export of certain “emerging and foundational technologies.” Our current and future products may be subject to these heightened regulations, which could increase our compliance costs. 
+ See “Risk Factors—Failure of our global operations to comply with anti-corruption laws and various trade restrictions, such as sanctions and export controls, could have an adverse effect on our business” for additional information about the export and trade laws and regulations that apply to our business. 
+ In October 2021, based on an internal review, we became aware of certain additional customs duties likely owed to U.S. Customs and Border Protection (“CBP”). We initiated a voluntary prior disclosure to CBP in late 2021 of certain possible errors in the declaration of imported products relating to value, classification, and other matters. As part of our disclosure, we conducted a comprehensive review of our import practices and in March 2022 made a further submission to CBP providing details regarding the possible errors. Based on currently known information, we recognized a $1.0 million charge within “Cost of revenues” in our Consolidated Statement of Operations for the year ended December 31, 2021 included in the financial statements in our Current Report on Form 8-K/A filed with the SEC on March 30, 2022. The information we submitted will be reviewed by CBP and we may be liable to CBP for additional unpaid duties and interest. The resolution of this prior disclosure could be material to our cash flows in a future period and to our results of operations for any period. See “Risk Factors—Our existing and planned global operations subject us to a variety of risks and uncertainties that could adversely affect our business and operating results. Our business is subject to risks associated with selling custom parts and other products in non-United States locations” for additional information about the import duties and regulations imposed by CBP that apply to our business. 
+ 
+19 
+
+  Competition 
+ Our primary competitors are the fragmented, sub-scale manufacturing firms which serve the majority of our market today. For example, based on data from the U.S. Census Bureau, approximately 90% of machining in the U.S. is done by sub-scale firms with less than 500 employees and 68% is done by firms with less than 100 employees. These competitors often do not have the scale or expertise to provide the modern, digital end-to-end experience the Fast Radius Cloud Manufacturing Platform provides. 
+ Other companies are also bringing new business models to this fragmented industry, including digital brokerage platforms, on-demand and additive manufacturing providers, and large-scale contract manufacturers. 
+ We believe that our cloud manufacturing technology offers customer benefits that are highly desired by the market and not available from alternative solutions. We are well-positioned to compete in our industry based on the following competitive strengths: 
+
+• | Our platform was designed from the beginning to support production at scale up to 100,000 units. We also serve companies in the prototyping and end-of-life transition stages where the volumes are lower, given the elastic nature of our platform. This production focus is backed by a quality management system that has been certified to produce parts at production volumes for leading manufacturers across industries including automotive, aerospace, and medical devices. We believe this volume production and industrial-quality focus will allow us to capture a much larger portion of the addressable market than many other competitive solutions optimized for lower volumes and prototype-grade quality.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our Cloud Manufacturing Platform is designed for applications and services to be built on top of it. Some competitors offer on-demand manufacturing, but our platform offers a growing suite of applications, including Fast Radius On-Demand, Fast Radius Additive Launch, and Fast Radius Virtual Warehouse. We and third-party developers plan to continue expanding this library of software applications and manufacturing services, creating a unique ecosystem built on a foundation of proprietary data.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our Cloud Manufacturing Platform includes applications that leverage data collected from our factories. These applications provide users with feedback and information about how to design their parts and configure their orders for best results and lowest cost. We believe most competitors cannot capture the same level of data fidelity since they do not manufacture the parts themselves (e.g., digital brokerages) or they do not have the Industry 4.0 factory infrastructure (e.g. sub-scale, fragmented machine shops).
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Our Cloud Manufacturing Platform provides an end-to-end manufacturing service solution, with user applications and services, digital and physical infrastructure, a learning engine powered by data aggregated from user orders and manufacturing operations, and an operating system that links the components and orchestrates the platform.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | The Fast Radius platform covers the entire product lifecycle, allowing users to monitor where these parts are during production and fulfillment.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We operate our factories using our own manufacturing execution software, which allows us to monitor and control factory operations in real time.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | We have a quality system for internal production that is very capable and that can satisfy customer requirements across multiple industries. The quality system for our suppliers is rigorous and scalable.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+20 
+
+  Market Landscape 
+ The term Cloud Manufacturing draws its name from cloud computing, and there are many similarities between the two. Both employ internet-connected facilities where users access shared physical resources; both use software to orchestrate operations between systems and information; and both allows users to build applications without having to invest in complex infrastructure. The chart below draws a direct comparison to the components of each concept. 
+ 
+
+
+With this framing in mind, Fast Radius is positioned at a unique intersection of next-generation infrastructure, software, and Industry 4.0 innovations around advanced manufacturing. 
+ Legal Proceedings 
+ We may be subject from time to time subject to various claims, lawsuits and other legal and administrative proceedings arising in the ordinary course of business. Some of these claims, lawsuits and other proceedings may involve highly complex issues that are subject to substantial uncertainties, and could result in damages, fines, penalties, non-monetary sanctions or relief. We intend to recognize provisions for claims or pending litigation when we determine that an unfavorable outcome is probable and the amount of loss can be reasonably estimated. Due to the inherent uncertain nature of litigation, the ultimate outcome or actual cost of settlement may materially vary from estimates. 

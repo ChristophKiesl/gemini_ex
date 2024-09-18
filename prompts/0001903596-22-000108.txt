@@ -1,0 +1,405 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+ITEM 1. | BUSINESS.
+--------+----------
+
+ 
+References in this Form 10-K to “ALR”, “ALRT”, “ALR Technologies”, “the Company”, “we”, “us”, or “our”, unless the context otherwise requires, refer to ALR TECHNOLOGIES INC., a Nevada corporation, together with its consolidated subsidiaries.
+ 
+This Form 10-K includes “forward-looking statements”, as such term is used within the meaning of the Private Securities Litigation Reform Act of 1995. These “forward-looking statements” are not based on historical fact and involve assessments of certain risks, developments and uncertainties in our business looking to the future. Such forward-looking statements can be identified by the use of terminology such as “may”, “will”, “should”, “expect”, “anticipate”, “estimate”, “intend”, “continue”, “believe”, or the negatives or other variations of these terms or comparable terminology. Forward-looking statements may include projections, forecasts or estimates of future performance and developments. Forward-looking statements contained in this prospectus are based upon assumptions and assessments that we believe to be reasonable as of the date of this prospectus. Whether those assumptions and assessments will be realized will be determined by future factors, developments and events, which are difficult to predict and may be beyond our control. Actual results, factors, developments and events may differ materially from those we assumed and assessed. Risks, uncertainties, contingencies and developments, including those identified in the Risk Factors section of filings we make with the Securities and Exchange Commission (the “SEC”) pursuant to Section 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), incorporated by reference herein, could cause our future operating results to differ materially from those set forth in any forward-looking statement. There can be no assurance that any such forward-looking statement, projection, forecast or estimate contained can be realized, or that actual returns, results or business prospects will not differ materially from those set forth in any forward-looking statement. Given these uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We disclaim any obligation to update any such factors or to publicly announce the results of any revisions to any of the forward-looking statements contained herein to reflect future results, events or developments.
+ 
+Background
+ 
+ALRT is a data management company that developed a comprehensive approach to diabetes care that includes: (i) a Food and Drug Administration (“FDA”) cleared and Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) compliant diabetes management system (as previously defined, the “Diabetes Solution”) that collects data directly from blood glucose meters (“BGM”) (and which was subsequently modified to integrate with continuous glucose monitoring (“CGM”) devices), (ii) a patent pending Predictive A1C algorithm to track treatment success between lab reports, and (iii) an FDA-cleared Insulin Dosing Adjustment program. From this technology portfolio, the Company has developed the Diabetes Solution for human health, and the GluCurve, a modified version of the Diabetes Solution, for animal health (“GluCurve”).
+ 
+ALRT was incorporated under the laws of the state of Nevada on March 24, 1987 as Mo Betta Corp. In April 1998, the Company changed its business purpose to marketing a pharmaceutical compliance device. In December 1998, the common shares of the Company began trading on the Bulletin Board operated by the National Association of Securities Dealers Inc. under the symbol “MBET”. On December 28, 1998, the Company changed its name from Mo Betta Corp. to ALR Technologies Inc. Subsequently the symbol was changed to “ALRT.”
+ 
+The Company has two subsidiaries:
+ 
+
+Entity | Jurisdiction | Ownership Percentage | Incorporation Date 
+-----------------------------------------+--------------+--------------------------+-----------------------
+ALR Technologies SG Pte. Ltd. | Singapore | 100% | May 16, 2020 
+Canada Diabetes Solution Centre Inc. | Canada | 100% | June 9, 2021 
+
+
+-3-
+---
+
+ 
+During 2011, the Company received FDA clearance and achieved HIPAA compliance for an early version of its Diabetes Solution. The Company subsequently completed a clinic trial and pilot programs, which led to the development of its “Insulin Dosage Adjustment” technology, for which it received FDA clearance in 2017, and its “Predictive A1C” technology, for which it has submitted a worldwide patent application under the Patent Cooperation Treaty (the “PCT”) to the World Intellectual Property Organization. Subsequently the Company has continued making advancements to its Diabetes Solution technology by increasing functionality and capability to improve diabetes care for patients. The Company is actively seeking to commence revenue-generating activities for the Diabetes Solution.
+ 
+In 2020, the Company: (i) entered in an agreement with Bionime Corporation (“Bionime”) whereby the Company will bundle its Diabetes Solution application (or “app”) with Bionime BGM and diabetes test supplies and sell the bundle to diabetes patients of private medical clinics in Singapore, (ii) initiated a clinical pilot with Singapore General Hospital to prove the efficacy of the ALRT Diabetes Solution in insulin-treated diabetes patients, (iii) entered into a memorandum of understanding (“MOU”) to form a collaboration with Diabetes Singapore, a non-profit Singapore-based organization serving the Singapore Minister for Health and a member of the International Diabetes Federation, with the view of raising the diabetes management standard in Singapore, and (iv) advanced its Diabetes Solution to integrate with CGM devices. See page 9 for discussion on CGM.
+ 
+In 2021: (i) the Company announced it had advanced its Diabetes Solution for animal health purposes under the brand name “GluCurve” and (ii) the Company announced its intent to redomicile to Singapore.
+ 
+While the ALRT Diabetes Solution is offered both individually and bundled with BGMs, the Company is focused on offering the ALRT Diabetes Solution with a cost effective CGM. ALRT believes that the current trend in diabetes care is shifting from the use of traditional BGM to diabetes care management using CGM and that CGM will become the future standard of diabetes care. ALRT believes it is uniquely positioned to bundle it Diabetes Solution application with CGM to improve health outcomes globally at a price point that is reasonable for wide scale adoption. The Company is focusing its resources on seeking opportunities in the ASEAN (Association of Southeast Asia Nations) area to secure supply of CGM through one or more strategic transactions.
+ As it continues to try to identify a suitable strategic CGM transaction, as of the time of filing this Report, ALRT desires to complete its redomestication transaction to Singapore, even though it has not yet identified a suitable CGM source for human health or finalized its supply arrangement for animal health. The Company’s proposed redomestication to Singapore continues to be subject to the board’s final analysis of the impacts such a change could have on the Company, its tax obligations, and other considerations relevant to its business and its shareholders. However, ALRT currently considers both its proposed redomestication, and also its ongoing search for a CGM supply source, as critical to its successful commercial launch for both human and animal health. No assurance can be given as to the timing or successful completion of either the redomestication or a strategic CGM transaction.
+ 
+Animal Health
+ 
+On December 7, 2021 the Company entered into a non-binding MOU with Infinovo Medical Co. Ltd. (“Infinovo”) to assess how the parties can work towards entering into a global supply agreement for the Infinovo CGM for use by ALRT in the animal health sector. Founded in 2016, Infinovo is a medical technology company focused on developing an accurate and affordable CGM for patients that will be available for both Type 1 and Type 2 Diabetics. Under the terms of the MOU, ALR and Infinovo will collaborate to integrate Infinovo’s CGM with ALRT’s GluCurve platform. In February 2022, the Company completed integration between the GluCurve platform and the Infinovo CGM. The Company is expected to conduct a validation study and a non-inferiority study, both of which are to be completed by the end of April 2022. If the results of i) integration of the Infinovo CGM into the GluCurve platform and ii) the results of testing the GluCurve platform utilizing the Infinovo CGM are both satisfactory, the parties will seek to negotiate a definitive global supply agreement for the Infinovo CGM for use by the Company under its name for the global animal health marketplace. No assurance can be given as to the timing of completion or the likelihood of success of the studies, or that if those are completed, that the parties will enter into a definitive agreement.
+Human Health
+ 
+ALRT is preparing for a CGM clinical trial and subsequent FDA submission to be completed during 2022. The Company is evaluating CGM suppliers for the human health market. ALRT is targeting to offer its Diabetes Solution bundled with CGM in 2023, with pricing to compete with the standalone BGM offerings. No assurance can be given that the Company will apply for FDA clearance to market CGM for human health, or commercialize CGM for human health thereafter.
+
+-4-
+---
+
+The Diabetes Pandemic
+ 
+Diabetes is a leading cause of death, serious illness and disability Globally. By the year 2030, it is expected that 1 in 10 adults, globally, will have diabetes (diagnosed and undiagnosed instances). We believe diabetes is a global pandemic.
+ 
+Data from the American Diabetes Association (“ADA”) shows 30 million Americans have diabetes and 84 million have prediabetes. That is 1 in 3 Americans coping with the disease or serious threat of it. The total cost of diagnosed diabetes is staggering at $327 billion annually ($237 billion in direct medical costs and $90 billion in reduced productivity), putting serious drag on an already strained health care system. Taking a broader view, the global cost of diabetes was estimated at a whopping $825 billion annually in 2016.
+ 
+Diabetes is a lifelong chronic disease with no cure. However, people with diabetes can take steps to control their disease and reduce the risk of developing the associated serious complications, thereby controlling health care costs. The Canadian Diabetes Association Clinical Practice Guidelines Expert Committee reports that, “Successful diabetes care depends on the daily commitment of persons with diabetes mellitus to self-manage through the balance of lifestyle and medication. Diabetes care should be organized around a multi- and interdisciplinary diabetes health care team that can establish and sustain a communication network between the person with diabetes and the necessary health care and community systems”. Diabetes incidence rates, economic costs and human costs are increasing even though we know how to control the disease. The Diabetes Control and Complication Trial conducted from 1983 to 1993 outlined management as follows:
+ 
+
+· | Testing blood glucose levels four or more times per day; 
+--+-----------------------------------------------------------------------------------------------------
+
+
+· | Injecting insulin at least three times a day or using an insulin pump; 
+--+-------------------------------------------------------------------------------------------------------------------
+
+
+· | Adjust insulin dose according to food intake and exercise; 
+--+-------------------------------------------------------------------------------------------------------
+
+
+· | Following a diet and exercise plan; and 
+--+------------------------------------------------------------------------------------
+
+
+· | Monthly visits to health care team. 
+--+--------------------------------------------------------------------------------
+
+Failure to Control Diabetes
+ 
+We believe there are five causes for diabetes to not be controlled:
+ 
+1. | Patient non-adherence; 
+---+-------------------------------------------------------------------
+
+
+2. | Unreliable data; 
+---+-------------------------------------------------------------
+
+
+3. | Data overload; 
+---+-----------------------------------------------------------
+
+
+4. | Clinical inertia; and 
+---+------------------------------------------------------------------
+
+
+5. | Insulin under prescription. 
+---+------------------------------------------------------------------------
+
+ 
+Patient Non-Adherence 
+ 
+As noted in Patrick Connole, “UnitedHealth care, Other Large Insurers Seek Better Adherence to Diabetes Care”, Health Plan Week, February 11, 2013 Volume 23 Issue 5, 80% of United States (or “U.S.”) patients with diabetes do not follow their prescribed care plan. Central to conventional diabetes care is patient self-management.
+ 
+Unreliable Data
+ 
+As noted in Gonder-Frederick, L.A., et al, “Self-Measurement of Blood Glucose: Accuracy of Self-Reporting Data and Adherence to Recommended Regimen” Diabetes Care, Volume 11, no. 7, July 1988, 77% of patient data contain errors.
+Data Overload
+ 
+Health care professionals (“HCPs”) face a lack of timely and reliable blood glucose data, resulting in delays to advance therapy and sub-optimal insulin dosing. The amount of patient data for clinicians to analyze is too vast and significant during 15-minute clinical appointments and the information they have is unreliable.
+
+-5-
+---
+
+Clinical Inertia 
+ 
+As noted in Khunti, K., et al, “Clinical Inertia in People with Type 2 Diabetes: A Retrospective Cohort Study of More than 80,000 People.” Diabetes Care, Volume 36, no. 11, July 2013, across over 80,000 patients, when A1C goals were not met, therapy intensification was late across every measure. It was noted that clinical inertia means the failure to intensify therapy when the need is clinically indicated. It took on average 19 months to escalate patients with an average A1C of 8.7% from single medication to dual therapy and 82 months to escalate patients with an average A1C of 8.8% from dual medication to triple therapy. Furthermore, they found that it took approximately 20 years to advance patients with an average A1C of over 9% to insulin. At the end of the study, less than 50% of the patients had their treatment intensified.
+ 
+Furthermore, in Treatment intensification for patients with Type 2 diabetes and poor glycaemic control by Fu and Sheenan, it was noted that out of 11,525 patients investigated with an A1C greater than 8% patients received intensification as follows:
+ ·         37% within 6 months; 
+ ·         11% within 6-12 months; and
+ ·         52% never.
+ 
+Failure to respond to higher than targeted A1C with treatment intensification puts patients with escalated A1C at risk for complications and diabetes-associated co-morbidities.
+ 
+Insulin Under Prescription 
+ 
+Insulin dosing is complex requiring review of large amounts of data, which takes significant amounts of time. We believe HCPs routinely under prescribe insulin to ensure they avoid insulin dosage adjustments, which could result in hypoglycemia for their patients.
+Cleveland Clinic Study 
+ 
+A team at Cleveland Clinic examined historical electronic medical record data of more than 7,300 patients with Type 2 diabetes and concluded that there is a pervasiveness of clinical inertia for the management of Type 2 diabetes in real-world clinical practice settings.
+ 
+The selected patients had an A1C value of ≥ 7% on a stable regimen of two oral anti-diabetic agents for at least 6 months (from 2005 to 2016). The median time to treatment intensification after A1C was above target was longer than one year. For patients with an A1C of ≥ 9%, therapy was not intensified in 44% of patients.
+ 
+According to lead study author Dr. Kevin Pantalone of Cleveland Clinic’s Endocrinology & Metabolism Institute, “Short of a patient reporting non-adherence to their existing regimen of diabetes therapies, it is hard to imagine a reason why treatment intensification was not observed more frequently, when indicated, particularly in patients with an A1C ≥ 9%. In general, if intensification does not occur, the A1C can be expected to stay the same or get worse, it is not magically going to get better”. (emphasis added)
+ 
+Company Products
+ 
+ALRT Diabetes Solution
+ 
+ALRT has created the Diabetes Solution to address the diabetes marketplace globally. The Diabetes Solution utilizes internet-based technologies to facilitate the HCP’s ability to monitor their diabetes patients’ health and ensure adherence to health maintenance activities.
+
+-6-
+---
+
+ 
+The Diabetes Solution is a comprehensive approach to diabetes care that includes: an FDA-cleared and HIPAA-compliant diabetes management system that collects data directly from BGM and CGM devices; a patent pending Predictive A1C algorithm to track treatment success between lab reports and an FDA-cleared Insulin Dosing Adjustment program. The Diabetes Solution system processes and converts each data set to a Predictive A1C value and shares it with the patient’s physician. The system provides the physician with therapy advancement suggestions based on current clinical practice guidelines. Patients receive therapy assessments and adjustments in much shorter cycles, keeping A1Cs at target, mitigating diabetes complications and lowering costs of care.
+ 
+In addition to insulin dosage adjustment, the ALRT Diabetes Solution also offers an algorithm to provide prescribers support for timely non-insulin medication advancements. The overall goal is to optimize diabetes drug therapies to drive improved patient outcomes. The program tracks performance of all clinical activities to ensure best practices are followed. The ALRT Diabetes Solution gives health care providers a platform for remote diabetes care, helping to minimize patient exposure to potential infections in clinical settings. Currently, the Company is focused on diabetes and will expand its services to cover other chronic diseases anchored on verifiable data.
+ 
+The Company’s Diabetes Solution consists of hardware, software and diabetes test supplies. We designed the Diabetes Solution to be focused on the health care provider and is agnostic and proactive. Our software operates on iOS, Android, Windows and MacOS systems. Enrollment into the ALRT Diabetes Solution will include a branded glucose meter, diabetes test strips, lancets and a carrying case. Our technology collects all the blood glucose data from the glucose meters, uploads it to a secure account and ships diabetes test strips as required. The patient data is aggregated to a Predictive A1C value for a comprehensive view of the treatment plan and patient adherence to the plan, with the data available (and messaged) to authorized people.
+ 
+The ALRT Diabetes Solution addresses the five causes for not controlling diabetes with:
+ ·         Active patient monitoring;
+ ·         Direct meter uploads;
+ ·         Machine intelligent data processing;
+ ·         Predictive A1C; and
+ ·         Insulin dosage adjustment.
+ 
+Active Patient Monitoring
+ 
+Industry data indicates that 50% or more of people on medications do not take them as prescribed, and that this non-compliance contributes to 10% of hospitalizations and billions of dollars spent annually in excessive and preventable health care costs. Reminding a person to take an action is the first step in our system; monitoring their actions and their data is the second, and intervention when needed is the important follow-up.
+ 
+The ALRT system monitors patient uploads and the underlying data providing more timely access to patient blood glucose data. Our system initiates interventions by notifying the HCP of out-of-range results or failure to upload data in accordance with the requirements of the care plan. The ALRT system does not rely upon the patient for uploading data. The ALRT Diabetes Solution provides the notifications and audit trail needed for achieving best practice results. Its performance tracking allows care teams to identify areas in treatment plans that require change or improvement.
+ 
+Direct Meter Uploads
+ 
+Data is uploaded via Bluetooth directly from the glucometer into the ALRT application. This ensures that the data is accurate and reliable based on the results of testing.
+
+-7-
+---
+
+Machine Intelligent Data Processing
+ 
+Our machine intelligence processes large amounts of data, notifies relevant stakeholders and flags patients for review making collaboration real time. Across segments and populations, this also provides significant data points on use of diabetes test strips and insulin, which may be significant for businesses in those industries.
+Predicative A1C
+ 
+Predictive A1C is a patent-pending unique feature included into the ALRT Diabetes Solution for monitoring the effectiveness of care plans. This technology utilizes data diagnostics to compare targeted A1C with indicated results. Weekly patient blood glucose data is evaluated, and HCPs are notified as needed for care plan review when blood glucose values exceed parameters set by the HCPs. Our platform provides HCPs with patient prioritization reports and alerts based on the Predictive A1C measures and other related diagnostics. Predictive A1C was designed to assist HCPs in addressing clinical inertia in diabetes care.
+Insulin Dose Adjustment
+ 
+Insulin Dose Adjustment is an FDA-cleared feature that makes optimal insulin adjustment suggestions to HCPs based on dosing guidelines from organizations like the ADA. This ensures that HCPs are making timely insulin dosage assessments based on the blood testing results uploaded. ALRT’s next phase of technology advancement will produce an algorithm for advancing non-insulin diabetes therapies according to clinical practice guidelines.
+Background
+ 
+In August 2010, the Company received the results of a clinical trial conducted by Dr. Hugh Tildesley using the ALRT Health-e-Connect System (subsequently advanced and rebranded as the Diabetes Solution). The trial showed A1C dropping from 8.8% to 7.6% for the Intervention Group using ALRT’s Health-e-Connect System as part of a diabetes management program. The A1C test is important in diabetes treatment management as a long-term measure of control over blood glucose for diabetes patients. According to the Center for Disease Control and Prevention, “In general, every percentage drop in A1C blood test results (e.g., from 8% to 7%), can reduce the risk of microvascular complications (eye, kidney and nerve diseases) by 40%”. The trial served as the basis for an article titled Effect of Internet Therapeutic Intervention on A1C Levels in Patients with Type 2 Diabetes Treated with Insulin, which was published in the August 2010 Diabetes Care publication.
+ 
+In July 2011, the follow-up results of the Dr. Tildesley clinical trial were published in the Canadian Journal of Diabetes. Dr. Tildesley conducted a 12-month study using Health-e-Connect System as an Internet Based Glucose Management System (“IBGMS”) to provide intensive blood glucose control to determine the effects of internet-based blood glucose monitoring on A1C levels in patients with Type 2 diabetes treated with insulin. Dr Tildesley concluded that, “While IBGMS intervention was not a substitute for the patient–physician interaction in a clinical setting, it significantly improved A1C and, over time, we observed better glycemic control and patient satisfaction”.
+ 
+In October 2011, the Company received 510(k) clearance from the FDA for this iteration of the Health-e-Connect System. This system offered remote monitoring of patients in support of effective diabetes management programs. The 510(k) clearance enabled the Company to commence with the United States marketing and sales of its Health-e-Connect System.
+ 
+In September 2014, the Company initiated its pilot program with one of the Kansas City Metropolitan Physician Association (“KCMPA”) clinics to deploy its Health-e-Connect System. Data from the KCMPA pilot program indicated that a number of patients had achieved reductions in their A1C levels. Furthermore, the data indicated that patients that left the pilot program had increases in A1C subsequent.
+ 
+
+-8-
+---
+
+ 
+On February 18, 2015, the Company filed a 510(k) application with the FDA to add a remote insulin dosing recommendation feature to the Company’s Diabetes Solution. The Company utilized the publicly available algorithm of the American Association of Clinical Endocrinologists (“AACE”) and ADA. This feature allows the Company to regularly run a patient’s blood glucose data (and other key data) through the AACE and ADA algorithm. When the algorithm indicated that the patient’s dose may not be optimal, the Diabetes Solution would provide the health care provider that a dose change may be warranted and what the change would be based on AACE and ADA guidelines. The decision about the dose change would rest entirely with the health care provider. However, this new feature may make a significant contribution to improving the outcomes of diabetes patients if it allowed HCPs to keep their patients at the optimal dose for longer periods. On September 18, 2017, the Company received clearance from the FDA for its Insulin Dosage Adjustment feature within the Company’s Diabetes Solution.
+ 
+On June 20, 2017, the Company’s Chief Executive Officer (or “CEO”) filed a worldwide patent application under the PCT to the World Intellectual Property Office for the Predictive A1C feature. The Company holds the rights to use the Predictive A1C feature. During the 2019 year, the Company and the CEO entered into the National Phase for the applications by applying to target member countries.
+ 
+During 2019, the Company added automated patient management to the Diabetes Solution. The Company was previously seeking to have a private label glucometer, diabetes test strips, lancets and carrying cases produced as part of the Diabetes Solution globally. The Company is now focused on securing supply of CGM to bundle with the Diabetes Solution for the global marketplace.
+ 
+Also during 2019, the Company initiated support for CGM systems with the ALRT Diabetes Solution. CGM has become the standard of care for patients with Type 1 diabetes and is quickly gaining favor with Type 2 diabetes patients who use insulin. During 2020, the Company advanced its ALRT Diabetes Solution to integrate with CGM.
+ 
+During 2021, the Company enrolled a small number of patients with Diabetes Singapore into the Diabetes Solution, which provided for improved efficacy of the Diabetes Solution.
+ 
+The Company is preparing for a clinical trial for its Diabetes Solution for human health utilizing CGM and to concurrently submit an FDA application for clearance to sell the Diabetes Solution in the United States submitted thereafter. ALR is targeting to offer the ALRT Diabetes Solution for sale bundled with CGM in 2023, with pricing to compete with the standalone BGM offerings.
+ 
+Continuous Glucose Monitoring 
+ 
+A CGM is a medical device that is worn on the body of a diabetic subject for up to 14 days and continually takes glucose (blood sugar) readings every 1-5 minutes. A CGM consists of three pieces:
+
+1) | a sensor that measures glucose levels in the interstitial fluid that is attached to the skin of the subject via an adhesive pad; 
+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2) | a Bluetooth transmitter that wirelessly sends the glucose readings to a mobile device or reader and can be integrated into the sensor or come as a separate piece that clips into the sensor; and 
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3) | an applicator that applies the sensor onto the subject. 
+---+----------------------------------------------------------------------------------------------------
+
+ 
+A CGM can be factory calibrated thus eliminating the need for diabetics to prick their finger to test blood on a strip inserted into a BGM throughout the day. A CGM works by utilizing glucose oxidase-based enzymes that are coated onto an electrode that is inserted into the subcutaneous tissue when the sensor is applied to the skin. The transmitter than securely sends the data wirelessly to a receiver, such as a mobile device, where the data is organized and displayed for the user.
+  
+-9-
+---
+
+ 
+All subjects have a target blood glucose range. Time in range is the amount a subject spends in the target blood glucose range. The time in range method works with the data provided by the CGM’s data by looking at the amount of time your blood sugar has been in target range and the times you have had high blood sugar or low blood sugar. This data is helpful in finding out which types of foods and what activity level causes your blood sugar to rise and fall and assessing adherence to a care plan.
+ 
+ALRT Pre-Diabetes System 
+ 
+A prevention-based feature of the Diabetes Solution, the ALRT Prediabetes System, has been designed in direct response to discussions with government health care authorities for a scalable solution to the growing problem of prediabetes. The Prediabetes System provides patients with educational videos and supplemental content formatted for mobile devices and a private online community to discuss disease management (e.g., support, weight loss, diet, etc.). Most importantly, the Prediabetes System tracks patients and reminds them to test their A1C according to payer protocols.
+ 
+ALR GluCurve for Pets
+ 
+ALR has developed the GluCurve Pet CGM to address an unmet need in diabetes care for felines and canines by combining the hardware of a CGM with the software of an adapted version of its Diabetes Solution platform for use by veterinarians in animal health.
+ 
+The GluCurve Pet CGM platform allows the blood glucose readings from the medical device placed on the pet to be uploaded to the Cloud where the data is processed and converted into daily glucose curve graphs and data sets that can be reviewed and compared by the veterinarian at any time. The system provides the doctor with insulin dose calculators and recommendations based on current clinical practice guidelines.
+ 
+The current method to monitor glucose levels in diabetic felines and canines is to prepare an in-clinic glucose curve that consists of the following steps:
+ 
+1) | The pet is dropped off at a veterinary clinic; 
+---+-------------------------------------------------------------------------------------------
+
+
+2) | The pet is given an insulin shot; 
+---+------------------------------------------------------------------------------
+
+
+3) | The clinic staff will draw blood every 2 hours for 10-12 hours, performing the following steps each time: 
+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+a. | test the blood in a BGM; 
+---+---------------------------------------------------------------------
+
+
+b. | record readings; 
+---+-------------------------------------------------------------
+
+
+c. | plot the data into a graph; 
+---+------------------------------------------------------------------------
+
+
+d. | assess the effectiveness of the insulin dose and glycemic control; and 
+---+-------------------------------------------------------------------------------------------------------------------
+
+
+4) | The pet is picked up by their owner. 
+---+---------------------------------------------------------------------------------
+
+ 
+The GluCurve Pet CGM solves the multiple issues that arise from doing an in-clinic glucose curve:
+ ·         Inaccurate data;
+ ·         Manual process of data collection, review and analysis; and
+ ·         Burden on the clinic staff and the pet owner.
+ 
+Inaccurate Data
+ 
+A CGM is placed on the pet by the veterinarian in minutes and the pet is sent home where the glucose readings will be automatically taken and uploaded for up to 14 days. This eliminates the stress on the animal from being housed in the clinic and from getting its blood drawn, which can elevate glucose levels. A CGM also provides readings every 5 minutes, which gives better insight to the veterinarian of the highs and lows of the pet’s glucose levels throughout the day. This is often missed when only checking every 2 hours during an in-clinic glucose curve.
+
+-10-
+----
+
+Manual Process of Data Collection, Review and Analysis
+ 
+A CGM automatically uploads 288 glucose readings per day to the ALRT Cloud, where the data is analyzed, organized, then displayed on the platform for the veterinarian to view. The GluCurve platform provides the pet owner and practitioner with the historical blood glucose data to allow for management of the pet’s health and tracking.
+Burden on Clinic Staff and Pet Owner 
+ 
+A CGM is placed on the pet in minutes, after which they are sent home, greatly reducing the time spent by the staff during an in-clinic glucose curve of caring for the pet and manually drawing blood and recording readings every 2 hours. The platform also greatly reduces the time needed by the doctor to review and make insulin dose adjustments by offering dosing calculators, guidelines and decision flowcharts based on current clinical practice guidelines.
+Current Status 
+ 
+The Company is starting validation and non-inferiority studies with a United States-based veterinary clinic on the GluCurve CGM app and the CGM supplies being bundled with the GluCurve app. If the results are successful, the Company will seek to finalize a strategic transaction with a pharmaceutical company with a global sales network in order to commercialize the GluCurve CGM. The Company has made the GluCurve app available on Google Play and the Apple Store for users of the validation and non-inferiority studies.
+Reimbursement for Health Professionals
+ 
+The Company continues to work to obtain confirmation that the Diabetes Solution will allow for services to be provided by physicians that will be reimbursed by health insurance companies. The reimbursement will be a breakthrough, as physicians will be paid to provide these important new services to their patients with chronic conditions.
+Business Development and Marketing Strategy
+ 
+The Company is focusing its efforts on introducing and marketing its Diabetes Solution and GluCurve products to medical clinics, veterinary clinics, hospitals, health care providers and pharmaceutical companies. We believe health care and health benefit plans can achieve a significant return on investment from utilizing the product by keeping employees/plan members healthy.
+ 
+The Company has achieved collaborations with entities in Singapore and is targeting organizations with global operations in order to work with their sales network to distribute the Company’s products.
+ 
+Other Products
+ 
+The Company does not have any other products outside of the Diabetes Solution and GluCurve.
+ 
+Manufacturers
+ 
+·         The Company has entered into an agreement with Bionime to market and sell the ALRT Diabetes Solution to diabetes patients of private physicians in Singapore. The ALRT Diabetes Solution offering in Singapore includes Bionime’s Rightest GM700SB blood glucose meter and test strips. 
+ ·         The Company is evaluating its options for diabetes hardware and supplies to be combined with the ALRT Diabetes Solution for the human health sector for the rest of the world. 
+ ·         On December 7, 2021 the Company entered into an MOU with Infinovo to assess how the parties can work towards entering into a global supply agreement for the Infinovo CGM for use by ALRT in the animal health sector.
+ 
+
+-11-
+----
+
+Selling Activities
+ 
+The Company is actively seeking alliances with health care organizations, pharmaceutical companies, insulin providers and other health care companies that can act as catalysts to effect positive change for containing health care costs and improving health outcomes. We will work with these types of organizations to introduce the ALRT Diabetes Solution and GluCurve product to their network and seek to start significant pilot projects that will lead to revenue-generating arrangements.
+Patents and Trademarks
+ 
+The Company’s Chairman and Chief Executive Officer has the following patent applications under the PCT:
+ ·         PCT/CA2017/050753 dated June 27, 2017. Title is “method and system for monitoring a diabetes treatment plan”.
+ 
+This patent application has been submitted to Canada, the United States, Europe, Singapore and Australia. The Company holds an exclusive license to the patent applications.
+ 
+The Company has submitted a trademark application in the United States for GluCurve dated July 15, 2021 under the serial number 90830675.
+ 
+Competition
+ 
+The Company competes with other corporations that produce diabetes compliance devices, monitoring systems and wellness applications, many of whom have greater financial, marketing and other resources than we do. A few companies currently offer compliance monitoring systems, but either a) at much higher prices, b) have fewer benefits than our system, or c) they do not have FDA clearance. The Company’s competition includes, but is not limited to, Livongo, Glooko, WellDoc, Medtronic, iGlucose and Microsoft HealthVault.
+ 
+We feel none of these companies currently offer a comprehensive compliance system that offers the full spectrum of benefits and features that our Diabetes Solution does with the potential cost efficiencies. We believe that while some of the competitors address the issues of unreliable data and patient non-adherence, none of the competition address data overload, clinical inertia or insulin under prescription from our perspective.
+ 
+Employees and Independent Contractors
+ 
+The Company has six employees, 21 personnel under independent contractor and consulting arrangements, and three contract sales agents. The consultants of the Company have contracts that outline their roles and responsibilities as independent contractor, as well as outline the confidentiality requirements for all matters pertaining to the Company.
+Recent Developments 
+ 
+On January 28, 2021, the Company’s Board of Directors approved the grant of options to six individuals to acquire an aggregate 32,000,000 shares of common stock at an exercise price of $0.05 per share with expiry dates between May 17, 2024 and December 31, 2025. All of the options granted have vesting conditions, of which 12,000,000 are time-based vesting conditions and 20,000,000 are performance vesting conditions.
+ 
+On February 22, 2021, the Company granted three individuals the option to acquire an aggregate 5,000,000 shares of common stock at an exercise price of $0.05 per share until May 17, 2024. All of the options granted will not vest until immediately before expiry.
+ 
+On April 14, 2021, the Company’s Board of Directors approved the grant of options to five individuals to acquire an aggregate 28,500,000 shares of common stock at a price of $0.05 per share until December 31, 2025. The options to acquire shares will vest according to performance- or time-based conditions and none of these options granted had vested as of the date of this report.
+  
+-12-
+----
+
+ 
+
+The Company entered into two Debt Settlement Agreements whereby the Company has agreed to issue an aggregate 4,400,000 shares of common stock to two creditors of the Company to extinguish $194,186 in accounts payable and $23,000 in promissory notes and interest. The shares were issued on May 10, 2021. The Company also issued commitment letters to two creditors offering them an aggregate 20,000,000 shares of common stock in exchange for the extinguishment of $1,511,377 in promissory notes and interest payable prior to December 31, 2021. These offer letters expired on December 31, 2021 without the parties executing any settlements. On March 18, 2022, the Company extended the offer letters from December 31, 2021 to December 31, 2022.
+ 
+On May 12, 2021, the Company’s Board of Directors amended the option to acquire 2,000,000 shares, previously granted on January 28, 2021 to a consultant, to 3,000,000 shares of common stock at a price of $0.05 per share until December 31, 2025. All other terms of the January 28, 2021 grant remain the same and the options are subject to performance vesting conditions.
+ 
+On May 31, 2021, the Company granted one consultant the option to acquire 5,000,000 shares of common stock of the Company at a price of $0.05 per share until December 31, 2025, subject to performance vesting conditions.
+ 
+On June 1, 2021, the Company announced that it is taking steps to redomicile the Company to Singapore. As part of the process, the Company intends to effect a share exchange plan of merger under the laws of Nevada and Singapore in which shareholders will exchange their shares of the Company for shares in a Singapore entity, on a one-for-one basis, with the Singapore entity becoming the parent company. The transaction will be subject to shareholder approval and approval of the relevant corporate and securities regulatory authorities in both jurisdictions where required.
+ 
+On June 8, 2021, the Company announced the establishment of the ALRT Animal Health Division, a new business division, which will introduce the world’s first and only CGM device for diabetic companion animals.
+ 
+On June 22, 2021, the Company provided termination notices to four individuals that included that they would have 30 days to exercise their options, or those options would be cancelled. As a result, a total of 22,500,000 stock options granted in 2019 with an exercise price of $0.035 per option expired unexercised on July 22, 2021.
+ 
+On June 27, 2021, the Company’s Board of Directors cancelled 7,400,000 stock options granted in previous years to three individuals with an average exercise price of $0.033 per option. These individuals have not provided services to the Company since mid-2020. All of the options had vested in previous years.
+ 
+On June 27, 2021, the Company’s Board of Directors approved the grant of the option to acquire an aggregate 21,000,000 shares of common stock at a price of $0.05 per share until June 30, 2026 to four individuals. All of the options will vest according to performance or time-based conditions. None of these options have vested to date.
+ 
+On June 30, 2021, the Company amended the option to acquire 4,365,001,300 shares of common stock granted on July 1, 2016 by extending the expiry date from July 1, 2021 to April 12, 2024. All of the options had vested in previous years.
+ 
+On July 19, 2021, the Company elected to extend the outside date to place the remaining rights under the rights offering from July 31, 2021 to October 29, 2021. The Company extended the rights offering further to March 15, 2022 and may allow exercise of any such shareholders until April 1, 2022 under a case-by-case basis (see below under Additional Financing).
+ 
+On August 27, 2021, the Company granted a member of our Board of Directors the option to acquire 5,000,000 shares of common stock at a price of $0.05 per share until June 30, 2026. The options were fully vested at grant.
+ 
+
+-13-
+----
+
+ 
+On October 4, 2021, the Company granted two individuals the option to acquire an aggregate 17,500,000 options at an exercise price of $0.05 per share until September 30, 2026; 15,000,000 of the options will vest according to time-based conditions and 2,500,000 will vest according to performance vesting conditions.
+ 
+On December 10, 2021, the Company granted one creditor the option to acquire 40,000,000 shares of common stock of the Company at a price of $0.05 per share until December 31, 2026 in connection with receiving line of credit financing.
+ 
+On December 10, 2021, the Company granted one consultant the option to acquire 10,000,000 shares of common stock of the Company at a price of $0.05 per share until December 31, 2026, subject to performance vesting conditions.
+ 
+On December 14, 2021, the Company filed a post-effective amendment to extend the outside date to place the remaining rights under the rights offering from October 29, 2021 to January 31, 2022, and subsequently further extended on January 18, 2022 to March 15, 2022 (see below under Additional Financing). On such case-by-case basis, the Company will allow for the exercise of any such shareholders until April 1, 2022.
+ 
+Additional Financing
+ 
+Line of Credit Financing 
+ 
+On December 10, 2021, the Company and the spouse of the Chairman entered into an amendment agreement to increase the borrowing limit on the line of credit provided by the spouse of the Chairman to the Company from $2,000,000 to $4,000,000. The terms of amounts to be advanced under the amendment are consistent with the line of credit.
+Rights Offering 
+ 
+On December 4, 2020, the Company filed a Form S-1 Registration Statement to distribute subscription rights to purchase up to an aggregate 127,522,227 shares of our common stock at a price of $0.05 per share. As at December 31, 2021, the Company issued 26,496,635 unrestricted shares of common stock related to proceeds received of $1,324,832. The Company had until October 29, 2021 to sell the remaining 101,025,592 shares of common stock for total proceeds of $5,051,280, if exercised. On December 14, 2021, the Company filed a post-effective amendment to distribute subscription rights to purchase up to an aggregate 101,025,592 shares of our common stock at a price of $0.05 per share. Each stockholder as of the record date of the December 4, 2020 Form S-1 Registration Statement who received rights and had not previously exercised those subscription rights as of the expiration date of January 22, 2021, received one subscription right for each previous subscription right held as at such time. The rights expired March 15, 2022. On such case-by-case basis, the Company will allow for the exercise of any such shareholders until April 1, 2022. Management may, at its discretion, allocate unexercised subscription rights to non-shareholders within 150 days following the expiration date of March 15, 2022.
+Exercise of Stock Options
+ 
+On February 8, 2021, the Company issued 800,000 shares of common stock at a price of $0.015 per share for proceeds of $12,000 for the exercise of options.
+  
+-14-
+----
+

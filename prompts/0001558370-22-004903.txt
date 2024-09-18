@@ -1,0 +1,660 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+--------+----------
+
+​
+Overview 
+​
+We are a biopharmaceutical company with a business strategy focused on the clinical development, and ultimately the commercialization, of drug candidates for rare disease indications characterized by small, well-defined patient populations with serious unmet medical needs. Our current focus is to identify and acquire rights to novel development and commercial stage rare disease programs through new business development opportunities, including additional strategic alternatives. We have in the past and may in the future explore collaborative alliances to support development and commercialization of any of our drug candidates.
+​
+Until May 2021, we were developing intratumoral tilsotolimod for the treatment of anti-PD1 refractory metastatic melanoma in combination with ipilimumab, an anti-CTLA4 antibody marketed as Yervoy® by Bristol Myers Squibb Company (“BMS”), in a Phase 3 registration trial (ILLUMINATE-301). During the first quarter of 2021, we announced that ILLUMINATE-301 did not meet its primary endpoint of Objective Response Rate (“ORR”). Based on subsequent evaluation of the full data set, in May 2021 we announced that we would not continue the trial to its Overall Survival (“OS”) primary endpoint.
+​
+Through December 2021, we were also evaluating intratumoral tilsotolimod in combination with nivolumab, an anti-PD1 antibody marketed as Opdivo® by BMS, and ipilimumab for the treatment of multiple solid tumors in a multicohort Phase 2 trial. In December 2021, we announced that preliminary data from the second 10 patients dosed in the safety cohort of ILLUMINATE-206 showed a safety profile consistent with the first 10 patients in ILLUMINATE-206 and with prior studies. No further enrollment in ILLUMINATE-206 is planned at this time. 
+​
+While our clinical trials with tilsotolimod have not yet translated into a new treatment alternative for patients, data supporting tilsotolimod’s mechanism of action and encouraging safety profile from across the array of pre-clinical and clinical work to date, together with its intellectual property protection, are noteworthy. As a result, in December 2021, we announced that we will consider an out-licensing arrangement so that tilsotolimod’s full potential may continue to be explored on behalf of patients who do not respond to traditional immunotherapy. 
+​
+Recent Events and Updates
+​
+Reduction-in-Force
+​
+In April 2021, we began to implement a reduction-in-force, which affected approximately 50% of our workforce. The decision was made to align our workforce to our needs considering the topline data results from ILLUMINATE-301’s ORR endpoint and the subsequent decision not to continue to the study’s OS endpoint. In connection with these actions, we incurred termination costs during the second and third quarters of 2021, which included severance, benefits, and related costs, totaling approximately $1.3 million. No further reduction in force was taken related to the decision to stop enrollment in ILLUMINATE-206.
+​
+We are actively evaluating other novel therapeutic assets, including developmental and potentially commercial-stage assets, which may represent an opportunity to expand our pipeline.
+​
+Nasdaq Compliance
+As previously disclosed, on November 26, 2021, we received a deficiency letter (the “Nasdaq Letter”) from the Nasdaq Listing Qualifications Department, notifying us that we are not in compliance with Nasdaq Listing Rule 5550(a)(2), which requires us to maintain a minimum bid price of at least $1 per share for continued listing on The Nasdaq Capital Market (the “Minimum Bid Requirement”). The Company’s failure to comply with the Minimum Bid Requirement was based on the Company’s common stock per share price being below the $1 threshold for a period of 30 consecutive business days. In accordance with Nasdaq Listing Rule 5810(c)(3)(A) (the “Compliance Period Rule”), the Company has been provided an initial period of 180 calendar days (the “Compliance Date”), to regain compliance with the Minimum Bid Requirement. If, at any time before the Compliance Date, the bid price for the Company’s common stock closes at $1.00 or more per share for a minimum of 10 consecutive business 
+
+1
+
+
+
+
+days, as required under Nasdaq requirements, the Staff will provide written notification to the Company that it complies with the Minimum Bid Requirement, unless the Staff exercises its discretion to extend this 10-day period pursuant to Nasdaq Listing Rule 5810(c)(3)(H). 
+If the Company does not regain compliance with the Minimum Bid Requirement by the Compliance Date, the Company may be eligible for an additional 180 calendar day compliance period (the “Second Compliance Period”). To qualify, the Company would need to meet the continued listing requirement for the market value of publicly held shares and all other initial listing standards of the Nasdaq Capital Market, with the exception of the Minimum Bid Requirement, and provide written notice to the Staff of its intention to cure the deficiency during the Second Compliance Period.
+Neither the Nasdaq Letter nor the Company’s noncompliance with the Minimum Bid Requirement have an immediate effect on the listing or trading of the Company’s common stock, which continues to trade on The Nasdaq Capital Market under the symbol “IDRA.”
+Clinical Development
+​
+Tilsotolimod (IMO-2125) 
+​
+Tilsotolimod is a synthetic phosphorothioate oligonucleotide that acts as a direct agonist of TLR9 to stimulate the innate and adaptive immune systems. It was developed for administration via intratumoral injection in combination with systemically administered checkpoint inhibitors and costimulation therapies for the treatment of various solid tumors. We referred to our tilsotolimod development program as the ILLUMINATE development program. See additional information under the heading “Collaborative Alliances” for information on the development of tilsotolimod in collaboration with AbbVie Inc. (“AbbVie”) for patients with head and neck squamous cell carcinoma (“HNSCC”).
+​
+​
+ILLUMINATE-206 - Phase 2 Trial of Tilsotolimod (IMO-2125) in Combination with Nivolumab and Ipilimumab for the treatment of Solid Tumors
+​
+In September 2019, we initiated a Phase 2, open-label, global, multicohort study to evaluate the safety and effectiveness of tilsotolimod administered intratumorally in combination with nivolumab and ipilimumab for the treatment of solid tumors. We refer to this study as ILLUMINATE-206. 
+​
+The first solid tumor investigated under ILLUMINATE-206 was relapsed/refractory Microsatellite-Stable Colorectal Cancer (“MSS-CRC”) in immunotherapy-naïve patients (the “MSS-CRC Study”). To investigate the safety profile of the combination of tilsotolimod, nivolumab and ipilimumab, ILLUMINATE-206 was designed with a stepwise approach to ipilimumab dosage. An initial group of ten patients in the safety cohort of the MSS-CRC Study, many of whom were heavily pre-treated and rapidly progressing, received 8 mg of intratumoral tilsotolimod and 3 mg/kg of intravenous (IV) nivolumab every two weeks, along with 1 mg/kg of IV ipilumab every eight weeks (the “Low-Dose, Low-Frequency Cohort”). This regimen was generally well tolerated; no patients discontinued treatment due to adverse events (“AEs”) and no patients experienced Grade 4 or 5 AEs. As of the response data cutoff date, per Response Evaluation Criteria in Solid Tumors V1.1 (“RECIST V1.1”) criteria, one patient experienced stable disease (“SD”) and nine patients progressed. Investigators reported that six of the progressing patients had stability or reduction in size of injected lesions and six had stability or reduction in overall size of uninjected lesions.
+Based on these results, we enrolled an additional ten patients in the MSS-CRC Study. Changes in the study design intended to improve potential outcomes in the targeted patient population included increasing the frequency of ipilimumab dosing to every three weeks and limiting the number of allowed prior lines of treatment to two. Accordingly, the second group of ten patients enrolled in the MSS-CRC Study received 8 mg of intratumoral tilsotolimod (total of 9 doses over approximately 28 weeks) and 3 mg/kg of intravenous (IV) nivolumab every three 
+
+2
+
+
+
+
+weeks followed by 480 mg of IV nivolumab every four weeks, along with 1 mg/kg of IV ipilimumab every three weeks for four doses (the “Low-Dose, High-Frequency Cohort”).
+​
+In December 2021, we announced that preliminary data from the second ten patients dosed in the safety cohort of ILLUMINATE-206 showed a safety profile consistent with the first ten patients in ILLUMINATE-206 and with prior studies. 
+​
+Of the eight patients who had a post-baseline disease assessment evaluated per RECIST v1.1, one experienced SD with disease control for more than six months; the remaining patients experienced Progressive Disease (“PD”). However, one of the RECIST v1.1 PD patients was determined to have experienced pseudo-progression, meaning that the initial increase from baseline in overall tumor burden was followed by a decrease from baseline in overall tumor burden and, based on the total decrease from baseline, was considered an Immune-Related Partial Response (“irPR”) by Immune-Related RECIST (“irRECIST”). The patient continued in active treatment, as allowed per protocol, through February 2022, when they withdrew due to travel constraints. As a result, we are in process of concluding all study-related activities for ILLUMINATE-206.
+​
+As further discussed in this annual report under the caption “Item 1. Business - Collaborative Alliances”, in March 2019 we entered into a clinical trial collaboration and supply agreement with BMS, under which BMS agreed to manufacture and supply ipilimumab and nivolumab, at its cost and for no charge to us, for use in ILLUMINATE-206.
+​
+
+​
+ILLUMINATE-301 - Phase 3 Trial of Tilsotolimod (IMO-2125) in Combination with Ipilimumab in Patients with Anti-PD1 Refractory Melanoma
+​
+In the first quarter of 2018, we initiated a Phase 3 trial of intratumoral tilsotolimod in combination with ipilimumab in patients with anti-PD-1 refractory melanoma, which we referred to as ILLUMINATE-301. This trial compared the results of the tilsotolimod–ipilimumab combination to those of ipilimumab alone in a 1:1 randomization. The family of primary endpoints of the trial consisted of ORR by blinded independent central review RECIST v1.1 and median OS. 
+​
+As discussed above, in March 2021, we reported that ILLUMINATE-301 did not meet its primary endpoint of ORR. In May 2021, following evaluation of the full data set, we announced we would not continue ILLUMINATE-301 to its OS primary endpoint.
+​
+Collaborative Alliances
+​
+Our current alliances include collaborations with Scriptr Global, Inc. (“Scriptr”), AbbVie, and BMS. We may seek to enter into new collaborative alliances to support development and commercialization of additional drug candidates.
+​
+Collaboration with Scriptr
+​
+In February 2021, we entered into a collaboration and option agreement with Scriptr, pursuant to which (i) Scriptr and Idera will conduct a research collaboration utilizing Scriptr Platform Technology (“SPT”) to identify, research and develop gene therapy candidates (each, a “Collaboration Candidate”) for the treatment, palliation, diagnosis or prevention of (a) myotonic dystrophy type 1 (“DM1 Field”) and (b) Friedreich’s Ataxia (“FA Field”) on a Research Program-by-Research Program basis, as applicable, and (ii) we were granted an exclusive option, in our sole discretion, to make effective the Scriptr License Agreement, as defined below, for a given Research Program, as defined below, to make use of Collaboration Candidates and related intellectual property (collectively, the “Scriptr Agreement”). 
+​
+Pursuant to the Scriptr Agreement, Scriptr will use commercially reasonable efforts to carry out research activities set forth in accordance with the applicable DM1 Field and FA Field research plans, including certain pre-clinical proof of concept studies, to identify research Collaboration Candidates utilizing SPT (each, a “Research Program”). Following the completion of activities under a given Research Program, Scriptr will prepare and submit 
+
+3
+
+
+
+
+to us a comprehensive data package (each, a “Data Package”) that summarizes, on a Research Program-by-Research Program basis, any Collaboration Candidates researched under the Research Program, including any data and results. Upon receipt of a Data Package, we have, in our sole discretion, up to two-hundred seventy (270) calendar days to make effective the exclusive license agreement entered into by and between Scriptr and us, pursuant to which, among other things, Scriptr grants us exclusive rights and licenses with respect to the development, manufacture and commercialization of licensed candidates and products, subject to certain conditions and limitations (the “Scriptr License Agreement”), for a given Research Program (each licensed Research Program, a “Licensed Program”). The Scriptr License Agreement provides for customary development milestones on candidates developed under a Licensed Program and royalties on licensed products, if any.
+​
+In partial consideration of the rights granted by Scriptr to us under the Scriptr Agreement, we made a one-time, non-creditable and non-refundable payment to Scriptr during the first quarter of 2021. In order to fund the Research Programs, we will reimburse Scriptr for costs incurred by or on behalf of Scriptr in connection with the conduct of each Research Program during the research term in accordance with the applicable Research Program budget and payment schedule. We incurred approximately $2.1 million in research and development expenses under the Scriptr Agreement during the year ended December 31, 2021. 
+​
+Collaboration with AbbVie
+​
+Effective August 27, 2019, we entered into a clinical trial collaboration and supply agreement (the “AbbVie Agreement”) with AbbVie, a global, research-based biopharmaceutical company, to conduct a clinical study to evaluate the efficacy and safety of combinations of an OX40 agonist (ABBV-368), tilsotolimod, nab-paclitaxel and/or an anti-programmed cell death 1 (PD-1) antagonist (ABBV-181). Under the AbbVie Agreement, we agreed to provide a clinical trial supply of tilsotolimod to AbbVie and AbbVie will sponsor, fund and conduct the study entitled “A Phase 1b, Multicenter, Open-Label Study to Determine the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of ABBV-368 plus Tilsotolimod and Other Therapy Combinations in Subjects with Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma” (the “AbbVie Study”). 
+​
+In December 2021, AbbVie announced the discontinuation of further patient enrollment in the AbbVie Study. The decision to discontinue the AbbVie Study was not related to safety concerns. Current patient treatment and follow-up is ongoing. 
+ ​
+Collaboration with Bristol-Meyers Squibb
+​
+We entered into two clinical collaboration agreements with BMS, the first in May 2018 and the second in March 2019, to support ILLUMINATE-301 and ILLUMINATE-206, respectively. 
+​
+Under the May 2018 BMS Agreement, BMS granted us a non-exclusive, non-transferrable, royalty-free license (with a right to sublicense) under its intellectual property to use ipilimumab in ILLUMINATE-301 and agreed to manufacture and supply ipilimumab, at its cost and for no charge to us, for use in ILLUMINATE-301.
+​
+Under the March 2019 BMS Agreement, BMS granted us a non-exclusive, non-transferrable, royalty-free license (with a right to sublicense) under its intellectual property to use ipilimumab and nivolumab in ILLUMINATE-206 and agreed to manufacture and supply both ipilimumab and nivolumab, at its cost and for no charge to us, for use in ILLUMINATE-206. 
+​
+Academic and Research Collaborations
+​
+We have entered into research collaborations with scientists at leading academic research institutions. These research collaborations allow us to augment our internal research capabilities and obtain access to specialized knowledge and expertise. In general, our research collaborations may require us to supply compounds and pay various amounts to support the research. Under these research agreements, if a collaborator, solely or jointly with us, creates any invention, we may own exclusively such invention, have an automatic paid-up, royalty-free non-exclusive license or have an option to negotiate an exclusive, worldwide, royalty-bearing license to such invention. Inventions developed solely by our scientists in connection with research collaborations are owned exclusively by us. These collaborative agreements are non-exclusive and may be terminated with limited notice. 
+​
+
+4
+
+
+
+
+Research and Development Expenses
+​
+We are committed to redefining the treatment of certain cancers and rare diseases and have historically dedicated a significant portion of our resources to our efforts on the discovery and development of our drug candidates. For the years ended December 31, 2021, 2020, and 2019, we spent approximately $16.4 million, $24.8 million, and $34.9 million, respectively, on research and development activities. We plan to continue to invest in research and development. Accordingly, we anticipate a significant portion of our operating expenses will continue to be related to research and development in 2022 and beyond.
+​
+
+5
+
+
+
+
+Patents, Proprietary Rights and Trade Secrets
+​
+Our success depends in part on our ability to obtain and maintain proprietary protection for our drug candidates, technology and know-how, to operate without infringing the proprietary rights of others and to prevent others from infringing our proprietary rights. We use a variety of methods to seek to protect our proprietary position, including filing U.S. and foreign patent applications related to our proprietary technology, inventions and improvements that are important to the development of our business. We also rely on trade secrets, know-how, continuing technological innovation, and in-licensing opportunities to develop and maintain our proprietary position. 
+​
+We have devoted and continue to devote a substantial amount of our resources into establishing intellectual property protection for: 
+
+● | Novel chemical entities that function as agonists of TLR3, TLR7, TLR8 or TLR9;
+--+-------------------------------------------------------------------------------
+
+
+● | Novel chemical entities that function as antagonists of TLR7, TLR8 or TLR9; and
+--+--------------------------------------------------------------------------------
+
+
+● | Composition and use of our nucleic acid chemistry compounds to treat and prevent a variety of diseases.
+--+--------------------------------------------------------------------------------------------------------
+
+​
+On November 5, 2019, the U.S. Patent and Trademark Office (“USPTO”) issued to us U.S. Patent No. 10,463,686 entitled “Immune Modulation With TLR9 Agonists For Cancer Treatment,” which includes tilsotolimod. The patent includes 24 claims directed to methods of treating melanoma with intratumoral administration of tilsotolimod in combination with certain immune checkpoint inhibitor therapies, including inhibitors of the CTLA-4 and PD-1/PD-L1 pathways. The patent is expected to expire in September 2037.
+​
+On September 15, 2020, the USPTO issued U.S. Patent No. 10,772,907 (the “‘907 Patent”) to us, entitled “Immune Modulation with TLR9 Agonists for Cancer Treatment,” which includes our investigational therapy tilsotolimod. The ‘907 Patent includes 26 claims directed to methods of treating colorectal cancer (“CRC”) with intratumoral administration of tilsotolimod in combination with certain immune checkpoint inhibitor therapies, including CTLA-4, PD-1 or PD-L1 inhibitors. 
+​
+On November 17, 2020, the USPTO issued to us U.S. Patent No. 10,835,550 (the “‘550 Patent”) entitled “Immune Modulation with TLR9 Agonists for Cancer Treatment,” which includes our investigational therapy tilsotolimod. The ‘550 Patent includes 29 claims directed to methods of treating HNSCC with intratumoral administration of tilsotolimod in combination with certain immune checkpoint inhibitor therapies, including CTLA-4, PD-1 or PD-L1 inhibitors. 
+​
+On January 18, 2022, the USPTO issued to us U.S. Patent No. 11,224,611 (the “‘611 Patent” and, together with ‘907 Patent and the ‘550 Patent, the “New Patents”) entitled “immune Modulation with TLR9 Agonists for Cancer Treatment,” which includes our investigational therapy tilsotolimod. The ‘611 Patent includes 30 claims directed to methods of treating kidney cancer with intratumoral administration of tilsotolimod in combination with certain immune checkpoint inhibitor therapies, including CTLA-4, PD-1 or PD-L1 inhibitors. 
+​
+The New Patents expand protection of the first tilsotolimod method-of-use patent, which was directed to methods of treating metastatic melanoma and was issued in November 2019. The New Patents provide exclusivity for certain uses of tilsotolimod through September 2037. 
+​
+As of March 15, 2022, we owned approximately 56 U.S. patents and patent applications and about 192 patents and patent applications throughout the rest of the world for our TLR-targeted immune modulation technologies. These patents and patent applications include claims covering the chemical compositions of matter and methods of use of our IMO compounds, such as IMO-8400, IMO-9200 and tilsotolimod (IMO-2125), as well as other compounds. These patents and patent applications (if granted) expire at various dates ranging from 2020 to 2042. With respect to IMO-8400, we have ten issued U.S. patents that cover the chemical composition of matter of IMO-8400 and certain methods of its use, the latest of which expires in 2031. With respect to IMO-9200, we have nine issued U.S. patents that cover the chemical composition for IMO-9200 and methods of its use, the latest of which expires in 2034. With respect to tilsotolimod, we have issued U.S. patents that cover the chemical composition of matter of tilsotolimod that will expire between 2023 and 2026, and we have additional U.S. patents 
+
+6
+
+
+
+
+that cover methods of its use, the latest of which will expire in 2037. We have pending applications in the United States and outside of the United States that cover methods of treatment or use of tilsotolimod, which, if granted, will expire between 2035 and 2042.
+​
+Because patent applications in the United States and many foreign jurisdictions are typically not published until 18 months after filing, or in some cases not at all, and because publications of discoveries in the scientific literature often lag behind actual discoveries, neither we nor our licensors can be certain that we or they were the first to make the inventions claimed in issued patents or pending patent applications, or that we or they were the first to file for protection of the inventions set forth in these patent applications. 
+​
+Litigation may be necessary to defend against or assert claims of infringement, to enforce patents issued to us, to protect trade secrets or know-how owned by us, or to determine the scope and validity of the proprietary rights of others or to determine the appropriate term for an issued patent. In addition, USPTO may declare interference proceedings to determine the priority of inventions with respect to our patent applications or reexamination or reissue proceedings to determine if the scope of a patent should be narrowed. Litigation or any of these other proceedings could result in substantial costs to and diversion of effort by us, even if the eventual outcome is favorable to us, and could have a material adverse effect on our business, financial condition and results of operations. These efforts by us may not be successful. 
+​
+The term of individual patents depends upon the legal term for patents in the countries in which they are obtained. In most countries, including the United States, the patent term is 20 years from the earliest filing date of a non-provisional patent application. In the United States, a patent’s term may be lengthened by patent term adjustment, which compensates a patentee for administrative delays by the USPTO in examining and granting a patent. A patent’s term may also be shortened if a patent is terminally disclaimed over an earlier filed patent. The term of a patent that covers a drug, biological product, or medical device approved pursuant to a pre-market approval may also be eligible for patent term extension when U.S. Food and Drug Administration (“FDA”) approval is granted, provided statutory and regulatory requirements are met. The length of the patent term extension is related to the length of time the drug is under regulatory review and development. The Drug Price Competition and Patent Term Restoration Act of 1984 (the “Hatch-Waxman Act”) permits a patent term extension of up to five years beyond the expiration date set for the patent. Patent extension cannot extend the remaining term of a patent beyond a total of 14 years from the date of product approval, only one patent applicable to each regulatory review period may be granted an extension and only those claims reading on the approved drug are extended. Similar provisions are available in Europe and other foreign jurisdictions to extend the term of a patent that covers an approved drug.
+​
+We may rely, in some circumstances, on trade secrets and confidentiality agreements to protect our technology. Although trade secrets are difficult to protect, wherever possible, we use confidentiality agreements to protect the proprietary nature of our technology. We regularly implement confidentiality agreements with our employees, consultants, scientific advisors, and other contractors and collaborators. However, there can be no assurance that these agreements will not be breached, that we will have adequate remedies for any breach, or that our trade secrets and/or proprietary information will not otherwise become known or be independently discovered by competitors. To the extent that our employees, consultants or contractors use intellectual property owned by others in their work for us, disputes may also arise as to the rights in related or resulting know-how and inventions. 
+​
+Manufacturing
+​
+We do not currently own or operate manufacturing facilities for the production of clinical or commercial quantities of any of our drug candidates. We currently rely and expect to continue to rely on other companies to manufacture our drug candidates for preclinical and clinical development. We source our bulk drug manufacturing requirements from a limited number of contract manufacturers through the issuance of work orders on an as-needed basis. We currently do not have any long-term supply contracts. We depend and will continue to depend on our contract manufacturers to manufacture our drug candidates in accordance with current Good Manufacturing Practices (“cGMP”) regulations for use in clinical trials. We will ultimately depend on contract manufacturers for the manufacture of our products for commercial sale, if and when our drug candidates are approved. Contract manufacturers are subject to extensive governmental regulation. 
+​
+
+7
+
+
+
+
+Competition
+​
+The biotechnology and pharmaceutical industries are characterized by rapidly advancing technologies, intense competition and a strong emphasis on proprietary products. We recognize that other companies, including large pharmaceutical companies, may be developing or have plans to develop products and technologies that may compete with those we may acquire. Many of our competitors have substantially greater financial, technical, and human resources than we have. In addition, many of our competitors have significantly greater experience than we have in undertaking preclinical studies and human clinical trials of new pharmaceutical products, obtaining FDA and other regulatory approvals of products for use in health care and manufacturing, and marketing and selling approved products. Our competitors may discover, develop or commercialize products or other novel technologies that are more effective, safer, or less costly than any that we may develop. Our competitors may also obtain FDA or other regulatory approval for their products more rapidly than we may obtain approval for ours. 
+​
+We anticipate that the competition with our drug candidates or technologies that we may acquire will be based on a number of factors including product efficacy, safety, availability, and price. The timing of market introduction of products and competitive products will also affect competition among products. We expect the relative speed with which we can develop products, complete the clinical trials and approval processes, and supply commercial quantities of the products to the market to be important competitive factors. Our competitive position will also depend upon our ability to attract and retain qualified personnel, to obtain patent protection or otherwise develop proprietary products or processes, protect our intellectual property, and to secure sufficient capital resources for the period between technological conception and commercial sales.
+ ​
+Risks related to our competitors and our competitive position are discussed in further detail in the section entitled “Risk Factors” of this Annual Report on Form 10-K. 
+​
+​
+
+8
+
+
+
+
+Government Regulation
+​
+Government authorities in the United States, at the federal, state and local level, and in other countries and jurisdictions, including the European Union, extensively regulate, among other things, the research, development, testing, manufacture, quality control, approval, packaging, storage, recordkeeping, labeling, advertising, promotion, distribution, marketing and sales, pricing, post-approval monitoring and reporting, and import and export of pharmaceutical products. The processes for obtaining regulatory approvals in the United States and in foreign countries and jurisdictions, along with subsequent compliance with applicable statutes and regulations and other regulatory authorities, require the expenditure of substantial time and financial resources. Regulatory requirements are also continually evolving. By example, in light of the COVID-19 pandemic, the FDA has issued a number of guidance documents to assist companies navigating product development, and manufacturing concerns raised by COVID-19.
+​
+Review and Approval of Drugs in the United States 
+​
+In the United States, the FDA regulates drugs under the Federal Food, Drug, and Cosmetic Act (“FDCA”) and associated implementing regulations and guidance. The failure to comply with the FDCA and other applicable U.S. requirements at any time during the product development process, approval process or after approval may subject an applicant and/or sponsor to a variety of administrative or judicial sanctions, including refusal by the FDA to approve pending applications, withdrawal of an approval, imposition of a clinical hold, issuance of warning letters and other types of enforcement letters, product recalls, product seizures, operating restrictions such as the total or partial suspension of production or distribution, import bans, injunctions, fines, refusals of government contracts, restitution, disgorgement of profits, or civil or criminal investigations and penalties brought by the FDA and the Department of Justice (“DOJ”) or other governmental entities, including state agencies. 
+​
+An applicant seeking approval to market and distribute a new drug product in the United States must typically undertake the following: 
+​
+
+● | completion of preclinical laboratory tests, animal studies and formulation studies in compliance with the FDA’s good laboratory practice (“GLP”) regulations;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | submission to the FDA of an investigational new drug (“IND”) application, which must take effect before human clinical trials may begin in the United States;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | initial and continuing approval by an independent institutional review board (“IRB”), representing each clinical site before each clinical trial may be initiated;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | performance of adequate and well-controlled human clinical trials in accordance with good clinical practices (“GCP”) to establish the safety and efficacy of the proposed drug product for each indication;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | preparation and submission to the FDA of a new drug application (“NDA”);
+--+-------------------------------------------------------------------------
+
+​
+
+● | review of the product candidate by an FDA advisory committee, where appropriate or if applicable;
+--+--------------------------------------------------------------------------------------------------
+
+​
+
+● | satisfactory completion of one or more FDA inspections of the manufacturing facility or facilities at which the product, or components thereof, are produced to assess compliance with cGMP requirements and to assure that the facilities, methods and controls are adequate to preserve the product’s identity, strength, quality and purity;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | satisfactory completion of FDA audits of clinical trial sites to assure compliance with GCPs and the integrity of the clinical data;
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | payment of user fees and securing FDA approval of the NDA; and
+--+---------------------------------------------------------------
+
+​
+
+● | compliance with any post-approval requirements, including Risk Evaluation and Mitigation Strategies (“REMS”) where applicable, and post-approval studies required by the FDA.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+9
+
+
+
+
+Preclinical Studies and Submission of an IND 
+​
+Before an applicant begins testing a product candidate with potential therapeutic value in humans, the product candidate enters the preclinical testing stage. Preclinical studies include laboratory evaluation of the chemistry, pharmacology, toxicity, purity, and stability, among other attributes, of the manufactured drug substance or active pharmaceutical ingredient and the formulated drug or drug product, as well as in vitro and animal studies to assess the safety and activity of the drug for initial testing in humans and to establish a rationale for therapeutic use. The conduct of preclinical studies is subject to federal regulations and requirements, including GLP regulations. The results of the preclinical tests, together with manufacturing information, analytical data, any available clinical data or literature and plans for clinical studies, among other things, are submitted to the FDA as part of an IND. Additional preclinical testing, such as animal tests of reproductive adverse events and carcinogenicity, may continue after the IND is submitted. 
+​
+Human Clinical Studies in Support of an NDA 
+​
+Clinical trials involve the administration of the investigational product to human subjects under the supervision of qualified investigators in accordance with GCP requirements, which include, among other things, the requirement that all research subjects provide their informed consent in writing before their participation in any clinical trial. Clinical trials are conducted under written study protocols detailing, among other things, the objectives of the study, inclusion and exclusion criteria, the parameters to be used in monitoring safety and the effectiveness criteria to be evaluated, and a statistical analysis plan. A protocol for each clinical trial and any subsequent protocol amendments must be submitted to the FDA as part of the IND. Once an IND is in effect, unapproved product candidates may be shipped in interstate commerce for use in an investigational clinical trial and the investigational product may be administered to humans as part of a clinical trial. An IND automatically becomes effective 30 days after receipt by the FDA, unless before that time the FDA raises concerns or questions related to a proposed clinical trial and places the trial on clinical hold or partial clinical hold. In such a case, the IND sponsor and the FDA must resolve any outstanding concerns before the clinical trial can begin. Depending on the conditions under development, multiple INDs may be required for the same drug product.
+​
+In addition to the foregoing IND requirements, an IRB representing each institution participating in the clinical trial must review and approve the plan for any clinical trial before it commences at that institution, and the IRB must conduct continuing review and reapprove the study at least annually. The IRB must review and approve, among other things, the study protocol, protocol amendments, communications to study subjects and informed consent information to be provided to study subjects. An IRB must operate in compliance with FDA regulations. Information about certain clinical trials must be submitted within specific timeframes to the National Institutes of Health (“NIH”) for public dissemination on their ClinicalTrials.gov website. Sponsors or distributors of investigational products for the diagnosis, monitoring, or treatment of one or more serious disease or conditions must also have a publicly available policy on evaluating and responding to requests for expanded access. Investigators must also provide certain information to clinical trial sponsors to allow the sponsors to make certain financial disclosures to the FDA.
+​
+Additionally, some trials are overseen by an independent group of qualified experts organized by the trial sponsor, known as a data monitoring committee (“DMC”). This group provides recommendations as to whether a trial should move forward at designated check points based on access that only the group maintains to available data from the study. Suspension or termination of development during any phase of clinical trials can occur if it is determined that the participants or patients are being exposed to an unacceptable health risk. Other reasons for suspension or termination may be made by us based on evolving business objectives and/or competitive climate. 
+​
+Human clinical trials are typically conducted in three sequential phases, which may overlap or be combined: 
+​
+Phase 1:    The drug is initially introduced into healthy human subjects or patients with the target disease (e.g. cancer) or condition and tested for safety, dosage tolerance, structure-activity relationships, mechanism of action, absorption, metabolism, distribution, excretion, and pharmacokinetics and, if possible, to gain an early indication of its effectiveness and to determine optimal dosage.
+​
+Phase 2:    The drug is administered to a limited patient population to identify possible adverse effects and safety risks, to preliminarily evaluate the efficacy of the product for specific targeted diseases and to determine dosage tolerance and optimal dosage. 
+
+10
+
+
+
+
+​
+Phase 3:    The drug is administered to an expanded patient population, generally at geographically dispersed clinical trial sites, in well-controlled clinical trials to generate enough data to statistically evaluate the efficacy and safety of the product for approval, to establish the overall risk-benefit profile of the product, and to provide adequate information for the labeling of the product. 
+​
+The manufacture of investigational drugs for the conduct of human clinical trials is subject to cGMP requirements. Investigational drugs and active ingredients imported into the United States are also subject to regulation by the FDA. Further, the export of investigational products outside the United States is subject to regulatory requirements of the receiving country as well as U.S. export requirements under the FDCA.
+​
+Progress reports detailing the results of the clinical trials must be submitted at least annually to the FDA and to the IRB and more frequently if serious adverse events occur. In addition, IND safety reports must be submitted to the FDA for any of the following: serious and unexpected suspected adverse reactions; findings from other studies or animal or in vitro testing that suggest a significant risk in humans exposed to the drug; and any clinically important increase in the case of a serious suspected adverse reaction over that listed in the protocol or investigator brochure. Phase 1, Phase 2 and Phase 3 clinical trials may not be completed successfully within any specified period, or at all. Furthermore, the FDA, the sponsor or the data monitoring committee for a clinical trial may suspend or terminate the clinical trial at any time on various grounds, including a finding that the research subjects are being exposed to an unacceptable health risk. Similarly, an IRB can suspend or terminate approval of a clinical trial at its institution, or an institution it represents, if the clinical trial is not being conducted in accordance with the IRB’s requirements or if the drug has been associated with unexpected serious harm to patients. The FDA will typically inspect one or more clinical sites to assure compliance with GCP and the integrity of the clinical data submitted. 
+​
+Section 505(b)(2) NDAs 
+​
+NDAs for most new drug products are based on clinical studies conducted by or for the product sponsor. These applications are submitted under Section 505(b)(1) of the FDCA. The FDA is, however, authorized to approve an alternative type of NDA under Section 505(b)(2) of the FDCA. This type of application allows the applicant to rely, in part, on the FDA’s previous findings of safety and efficacy for a similar product, or published literature. Specifically, Section 505(b)(2) applies to NDAs for a drug for which the investigations made to show whether or not the drug is safe for use and effective in use and relied upon by the applicant for approval of the application “were not conducted by or for the applicant and for which the applicant has not obtained a right of reference or use from the person by or for whom the investigations were conducted.” 
+​
+Thus, Section 505(b)(2) authorizes the FDA to approve an NDA based on safety and effectiveness data that was not developed by the applicant. NDAs filed under Section 505(b)(2) may provide an alternate and potentially more expeditious pathway to FDA approval for new or improved formulations or new uses of previously approved products. If the Section 505(b)(2) applicant can establish that reliance on the FDA’s previous approval or a similar product or that the applicant’s reliance on published data is scientifically appropriate, such as through bridging studies, the applicant may eliminate the need to conduct certain preclinical or clinical studies of the new product. Companies using this pathway, however, must conduct studies to support any differences from an approved product. The FDA may then approve the new drug candidate for all or some of the label indications for which the referenced product has been approved, as well as for any new indication sought by the Section 505(b)(2) applicant. 
+​
+Submission of an NDA to the FDA 
+​
+Assuming successful completion of required clinical testing and other requirements, the results of the preclinical and clinical studies, together with detailed information relating to the product’s chemistry, manufacture, controls and proposed labeling, among other things, are submitted to the FDA as part of an NDA requesting approval to market the drug product for one or more indications. Under federal law, the submission of most NDAs is subject to a substantial application user fee. The sponsor of an approved NDA is also subject to an annual program fee. Exceptions or waivers for these fees exist for a small company (fewer than 500 employees, including employees and affiliates) satisfying certain requirements and products with orphan drug designation for a particular indication are not subject to a fee provided there are no other intended uses in the NDA and provided other exemption requirements are met.
+
+11
+
+
+
+
+​
+The FDA conducts a preliminary review of an NDA within 60 calendar days of its receipt and strives to inform the sponsor by the 74th day after the FDA’s receipt of the submission of any filing review issues. The FDA may request additional information rather than accept an NDA for filing. In this event, the application must be resubmitted with the additional information. The resubmitted application is also subject to review before the FDA accepts it for filing. Once the submission is accepted for filing, the FDA begins an in-depth substantive review. 
+​
+The FDA has agreed to specified performance goals under the Prescription Drug User Fee Act (“PDUFA”) guidelines in the review process of NDAs. Under PDUFA, 90% of applications seeking approval of New Molecular Entities (“NMEs”), are meant to be reviewed within ten months from the date on which the FDA accepts the NDA for filing, and 90% of applications for NMEs that have been designated for “priority review” are meant to be reviewed within six months of the filing date. For applications seeking approval of drugs that are not NMEs, the ten-month and six-month review periods run from the date that the FDA receives the application. The review process may be extended by the FDA for three additional months to consider new information or clarification provided by the applicant to address an outstanding deficiency identified by the FDA following the original submission. This review period may change as the PDUFA statute must be reauthorized by the U.S. Congress by September 2022.
+​
+Before approving an NDA, the FDA typically will inspect the facility or facilities where the product is or will be manufactured. These pre-approval inspections cover all facilities associated with an NDA submission, including drug component manufacturing (such as active pharmaceutical ingredients), finished drug product manufacturing, and control testing laboratories. The FDA will not approve an application unless it determines that the manufacturing processes and facilities are in compliance with cGMP requirements and adequate to assure consistent production of the product within required specifications. Additionally, before approving an NDA, the FDA will typically inspect one or more clinical sites to assure compliance with GCP. 
+​
+In addition, as a condition of approval, the FDA may require an applicant to develop a REMS. REMS use risk minimization strategies beyond the professional labeling to ensure that the benefits of the product outweigh the potential risks. To determine whether a REMS is needed, the FDA will consider the size of the population likely to use the product, seriousness of the disease, expected benefit of the product, expected duration of treatment, seriousness of known or potential adverse events, and whether the product is a new molecular entity. REMS can include medication guides, physician communication plans for healthcare professionals, and elements to assure safe use (“ETASU”). ETASU may include, but are not limited to, special training or certification for prescribing or dispensing, dispensing only under certain circumstances, special monitoring, and the use of patient registries. The FDA may require a REMS before approval or post-approval if it becomes aware of a serious risk associated with use of the product. The requirement for a REMS can materially affect the potential market and profitability of a product. The REMS strategy must be approved by the FDA. In addition, the REMS must include a timetable to assess the strategy at 18 months, three years, and seven years after the strategy’s approval.
+​
+The FDA is required to refer an application for a novel drug to an advisory committee or explain why such referral was not made. Typically, an advisory committee is a panel of independent experts, including clinicians and other scientific experts, that reviews, evaluates and provides a recommendation as to whether the application should be approved and under what conditions. The FDA is not bound by the recommendations of an advisory committee, but it considers such recommendations carefully when making decisions. 
+​
+Fast Track, Breakthrough Therapy and Priority Review Designations 
+​
+The FDA is authorized to designate certain products for expedited review if they are intended to address an unmet medical need in the treatment of a serious or life-threatening disease or condition. These programs are fast track designation, breakthrough therapy designation and priority review designation. 
+​
+Specifically, the FDA may designate a product for fast track review if it is intended, whether alone or in combination with one or more other drugs, for the treatment of a serious or life-threatening disease or condition, and it demonstrates the potential to address unmet medical needs for such a disease or condition. For fast track products, sponsors may have greater interactions with the FDA and the FDA may initiate review of sections of a fast track product’s NDA before the application is complete. This rolling review may be available if the FDA determines, after preliminary evaluation of clinical data submitted by the sponsor, that a fast track product may be effective. The sponsor must also provide, and the FDA must approve, a schedule for the submission of the remaining information and the sponsor must pay applicable user fees. However, the FDA’s time period goal for reviewing a 
+
+12
+
+
+
+
+fast track application does not begin until the last section of the NDA is submitted. In addition, the fast track designation may be withdrawn by the FDA if the FDA believes that the designation is no longer supported by data emerging in the clinical trial process. 
+​
+In 2012, Congress enacted the Food and Drug Administration Safety and Innovation Act (“FDASIA”). This law established a new regulatory scheme allowing for expedited review of products designated as “breakthrough therapies.” A product may be designated as a breakthrough therapy if it is intended, either alone or in combination with one or more other drugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the product may demonstrate substantial improvement over existing therapies on one or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. The FDA may take certain actions with respect to breakthrough therapies, including holding meetings with the sponsor throughout the development process; providing timely advice to the product sponsor regarding development and approval; involving more senior staff in the review process; assigning a cross-disciplinary project lead for the review team; and taking other steps to design the clinical trials in an efficient manner. Like fast track designation, breakthrough designation may be rescinded if the product no longer meets the qualifying criteria.
+​
+Third, the FDA may designate a product for priority review if it is a drug that treats a serious condition and, if approved, would provide a significant improvement in safety or effectiveness. The FDA determines, on a case-by-case basis, whether the proposed drug represents a significant improvement when compared with other available therapies. Significant improvement may be illustrated by evidence of increased effectiveness in the treatment of a condition, elimination or substantial reduction of a treatment-limiting drug reaction, documented enhancement of patient compliance that may lead to improvement in serious outcomes, and evidence of safety and effectiveness in a new subpopulation. A priority designation is intended to direct overall attention and resources to the evaluation of such applications, and to shorten the FDA’s goal for taking action on a marketing application from ten months to six months. 
+​
+Accelerated Approval Pathway 
+​
+The FDA may grant accelerated approval to a drug for a serious or life-threatening condition that provides meaningful therapeutic advantage to patients over existing treatments based upon a determination that the drug has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit. The FDA may also grant accelerated approval for such a condition when the product has an effect on an intermediate clinical endpoint that can be measured earlier than an effect on irreversible morbidity or mortality (“IMM”), and that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. Drugs granted accelerated approval must meet the same statutory standards for safety and effectiveness as those granted traditional approval. 
+​
+For the purposes of accelerated approval, a surrogate endpoint is a marker, such as a laboratory measurement, radiographic image, physical sign, or other measure that is thought to predict clinical benefit, but is not itself a measure of clinical benefit. Surrogate endpoints can often be measured more easily or more rapidly than clinical endpoints. An intermediate clinical endpoint is a measurement of a therapeutic effect that is considered reasonably likely to predict the clinical benefit of a drug, such as an effect on IMM. The FDA has limited experience with accelerated approvals based on intermediate clinical endpoints, but has indicated that such endpoints generally may support accelerated approval where the therapeutic effect measured by the endpoint is not itself a clinical benefit and basis for traditional approval, if there is a basis for concluding that the therapeutic effect is reasonably likely to predict the ultimate clinical benefit of a drug. 
+​
+The accelerated approval pathway is most often used in settings in which the course of a disease is long and an extended period of time is required to measure the intended clinical benefit of a drug, even if the effect on the surrogate or intermediate clinical endpoint occurs rapidly. Thus, accelerated approval has been used extensively in the development and approval of drugs for treatment of a variety of cancers in which the goal of therapy is generally to improve survival or decrease morbidity and the duration of the typical disease course requires lengthy and sometimes large trials to demonstrate a clinical or survival benefit. 
+​
+The accelerated approval pathway is usually contingent on a sponsor’s agreement to conduct, in a diligent manner, additional post-approval confirmatory studies to verify and describe the drug’s clinical benefit. As a result, a drug candidate approved on this basis is subject to rigorous post-marketing compliance requirements, including 
+
+13
+
+
+
+
+the completion of Phase 4 or post-approval clinical trials to confirm the effect on the clinical endpoint. Failure to conduct required post-approval studies, or confirm a clinical benefit during post-marketing studies, would allow the FDA to withdraw the drug from the market on an expedited basis. All promotional materials for drug candidates approved under accelerated regulations are subject to prior review by the FDA. 
+​
+The FDA’s Decision on an NDA 
+​
+On the basis of the FDA’s evaluation of the NDA and accompanying information, including the results of the inspection of the manufacturing facilities, the FDA may issue an approval letter or a complete response letter. An approval letter authorizes commercial marketing of the product with specific prescribing information for specific indications. A complete response letter generally outlines the deficiencies in the submission and may require substantial additional testing or information in order for the FDA to reconsider the application. If and when those deficiencies have been addressed to the FDA’s satisfaction in a resubmission of the NDA, the FDA will issue an approval letter. The FDA has committed to reviewing such resubmissions in two or six months depending on the type of information included. Even with submission of this additional information, the FDA ultimately may decide that the application does not satisfy the regulatory criteria for approval. 
+​
+If the FDA approves a product, it may limit the approved indications for use for the product, require that contraindications, warnings or precautions be included in the product labeling, require that post-approval studies, including Phase 4 clinical trials, be conducted to further assess the drug’s safety after approval, require testing and surveillance programs to monitor the product after commercialization, or impose other conditions, including distribution restrictions or other risk management mechanisms, including REMS, which can materially affect the potential market and profitability of the product. The FDA may prevent or limit further marketing of a product based on the results of post-market studies or surveillance programs. After approval, many types of changes to the approved product, such as adding new indications, manufacturing changes and additional labeling claims, are subject to further testing requirements and FDA review and approval. 
+​
+Post-Approval Requirements 
+​
+Drugs manufactured or distributed pursuant to FDA approvals are subject to pervasive and continuing regulation by the FDA, including, among other things, requirements relating to recordkeeping, periodic reporting, product sampling and distribution, advertising and promotion and reporting of adverse experiences with the product. After approval, most changes to the approved product, such as adding new indications or other labeling claims, are subject to prior FDA review and approval. There also are continuing, annual user fee requirements for any marketed products and the establishments at which such products are manufactured, as well as new application fees for supplemental applications with clinical data. 
+​
+In addition, drug manufacturers and other entities involved in the manufacture and distribution of approved drugs are required to register their establishments with the FDA and state agencies, are required to list their distributed products, and are subject to periodic unannounced inspections by the FDA and these state agencies for compliance with cGMP requirements. The information that must be submitted to FDA regarding manufactured products was expanded through the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”) to include the volume of drugs produced during the prior year. Changes to the manufacturing process are strictly regulated and often require prior FDA approval before being implemented. FDA regulations also require investigation and correction of any deviations from cGMP and impose reporting and documentation requirements upon the sponsor and any third-party manufacturers that the sponsor may decide to use. Accordingly, manufacturers must continue to expend time, money, and effort in the area of production and quality control to maintain cGMP compliance.
+​
+Once an approval is granted, the FDA may withdraw the approval if compliance with regulatory requirements and standards is not maintained or if problems occur after the product reaches the market. Later discovery of previously unknown problems with a product, including adverse events of unanticipated severity or frequency, or with manufacturing processes, or failure to comply with regulatory requirements, may result in revisions to the approved labeling to add new safety information; imposition of post-market studies or clinical trials to assess new safety risks; or imposition of distribution or other restrictions under a REMS program. Other potential consequences include, among other things: 
+​
+
+● | restrictions on the marketing or manufacturing of the product, suspension of the approval, complete withdrawal of the product from the market or product recalls;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+14
+
+
+
+
+​
+
+● | warning letters, untitled letters, cyber letters, or holds or termination of post-approval clinical trials;
+--+------------------------------------------------------------------------------------------------------------
+
+​
+
+● | refusal of the FDA to approve pending NDAs or supplements to approved NDAs, or suspension or revocation of product license approvals;
+--+--------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | product seizure or detention, or refusal to permit the import or export of products; or
+--+----------------------------------------------------------------------------------------
+
+​
+FDA debarment, injunctions, fines, consent decrees, corporate integrity agreements, suspension and debarment from government contracts, refusal of orders under existing government contracts, exclusion from participation in federal and state healthcare programs, restitution, disgorgement, or the imposition of civil or criminal penalties, including fines and imprisonment, and adverse publicity.
+​
+FDA post-approval requirements are continually evolving. For example, in March 2020, the U.S. Congress passed the CARES Act, which includes various provisions regarding FDA drug shortage and manufacturing volume reporting requirements, as well as provisions regarding supply chain security, such as risk management plan requirements, and the promotion of supply chain redundancy and domestic manufacturing. 
+​
+The FDA strictly regulates the marketing, labeling, advertising and promotion of prescription drug products placed on the market. This regulation includes, among other things, standards and regulations for direct-to-consumer advertising, communications regarding unapproved uses, industry-sponsored scientific and educational activities, and promotional activities involving the Internet and social media. Promotional claims about a drug’s safety or effectiveness are prohibited before the drug is approved. After approval, a drug product may not be promoted for uses that are not approved by the FDA, as reflected in the product’s prescribing information. In the United States, health care professionals are generally permitted to prescribe drugs for such uses not described in the drug’s labeling, known as off-label uses, because the FDA does not regulate the practice of medicine. However, FDA regulations impose rigorous restrictions on manufacturers’ communications, prohibiting the promotion of off-label uses. It may be permissible, under very specific, narrow conditions, for a manufacturer to engage in nonpromotional, non-misleading communication regarding off-label information, such as distributing scientific or medical journal information.
+​
+If a company is found to have promoted off-label uses, it may become subject to adverse public relations and administrative and judicial enforcement by the FDA, the DOJ, or the Office of the Inspector General of the Department of Health and Human Services, as well as state authorities. This could subject a company to a range of penalties that could have a significant commercial impact, including civil and criminal fines and agreements that materially restrict the manner in which a company promotes or distributes drug products. The federal government has levied large civil penalties and criminal fines against companies for alleged improper promotion and has also requested that companies enter into consent decrees or permanent injunctions under which specified promotional conduct is changed or curtailed.
+​
+In addition, the distribution of prescription pharmaceutical products is subject to the Prescription Drug Marketing Act (“PDMA”), and its implementing regulations, as well as the Drug Supply Chain Security Act (“DSCSA”). The PDMA regulate and limit the distribution and tracing of prescription drug samples at the federal level. The DSCSA imposes requirements to ensure accountability in distribution, that requires certain licensing and licensing standards, and to identify and remove counterfeit and other illegitimate products from the market.
+​
+Abbreviated New Drug Applications for Generic Drugs
+​
+In 1984, with passage of the Hatch-Waxman Amendments to the FDCA, Congress authorized the FDA to approve generic drugs under abbreviated approval requirements. To obtain approval of a generic drug, an applicant must submit an Abbreviated New Drug Application (“ANDA”) to the agency. In support of such applications, a generic manufacturer may rely on the preclinical and clinical testing previously conducted for a drug product previously approved under an NDA, known as the Reference Listed Drug (“RLD”). Many states also regulate the distribution of drug product samples and commercial product.
+​
+Specifically, in order for an ANDA to be approved, the FDA must find that the generic version is identical to the RLD with respect to the active ingredients, the route of administration, the dosage form, and the strength of the drug, among other requirements. Certain differences, however, between the reference listed drug and ANDA 
+
+15
+
+
+
+
+product may be permitted pursuant to a suitability petition. Certain labeling differences may also be permitted if information in the reference listed drug’s label is protected by patent or exclusivities. At the same time, the FDA must also determine that the generic drug is “bioequivalent” to the innovator drug. Under the statute, a generic drug is bioequivalent to a RLD if “the rate and extent of absorption of the drug do not show a significant difference from the rate and extent of absorption of the listed drug.”
+​
+Upon approval of an ANDA, the FDA indicates whether the generic product is “therapeutically equivalent” to the RLD in its publication “Approved Drug Products with Therapeutic Equivalence Evaluations,” also referred to as the “Orange Book.” Physicians and pharmacists consider a therapeutic equivalent generic drug to be fully substitutable for the RLD, subject to state law requirements. In addition, by operation of certain state laws and numerous health insurance programs, the FDA’s designation of therapeutic equivalence often results in automatic substitution of the generic drug at the pharmacy.
+​
+In an effort to increase competition in the drug and biologic product marketplace, Congress, the executive branch, and FDA have taken certain legislative and regulatory steps. For example, measures have been proposed and implemented to facilitate product importation. Moreover, the 2020 Further Consolidated Appropriations Act included provisions requiring that sponsors of approved drug products, including those subject to REMS, provide samples of the approved products to persons developing 505(b)(2) NDA or ANDA drug products within specified timeframes, in sufficient quantities, and on commercially reasonable market-based terms. Failure to do so can subject the approved product sponsor to civil actions, penalties, and responsibility for attorney’s fees and costs of the civil action. This same bill also includes provisions with respect to shared and separate REMS programs for reference and generic drug products.
+​
+Hatch-Waxman Exclusivities
+​
+Under the Hatch-Waxman Amendments, the FDA may not approve an ANDA or 505(b)(2) application until any applicable period of non-patent exclusivity for the RLD has expired. The FDCA provides a period of five years of non-patent exclusivity for a new drug containing a new chemical entity. For the purposes of this provision, a new chemical entity (“NCE”), is a drug that contains no active moiety that has previously been approved by the FDA in any other NDA. An active moiety is the molecule or ion, excluding those appended portions of the molecule that cause the drug to be an ester, salt, or other noncovalent derivative, responsible for the physiological or pharmacological action of the drug substance. In cases where such exclusivity has been granted, an ANDA or 505(b)(2) application may not be filed with the FDA until the expiration of five years unless the submission is accompanied by a Paragraph IV certification, in which case the applicant may submit its application four years following the original product approval. The FDCA also provides for a period of three years of exclusivity if the NDA includes reports of one or more new clinical investigations, other than bioavailability or bioequivalence studies, that were conducted by or for the applicant and are essential to the approval of the application. This three-year exclusivity period prevents FDA from making a drug approval effective for the same changes to a previously approved drug product, such as a new dosage form, route of administration, combination or indication, as the product that holds the exclusivity. The three-year and five-year exclusivities, however, do not prevent the filing or approval of full NDAs.
+​
+Hatch-Waxman Patent Certification and the 30-Month Stay 
+​
+Upon approval of an NDA or a supplement thereto, NDA sponsors are required to list with the FDA each patent with claims that cover the applicant’s product or an approved method of using the product. Each of the patents listed by the NDA sponsor is published in the Orange Book. When an ANDA or 505(b)(2) applicant files its application with the FDA, the applicant is required to provide a certification to the FDA concerning any patents listed for the reference product in the Orange Book, except for patents covering methods of use for which the ANDA applicant is not seeking approval. 
+​
+Specifically, the applicant must certify with respect to each patent that: 
+​
+
+● | the required patent information has not been filed;
+--+----------------------------------------------------
+
+​
+
+● | the listed patent has expired;
+--+-------------------------------
+
+​
+
+16
+
+
+
+
+
+● | the listed patent has not expired, but will expire on a particular date and approval is sought after patent expiration; or
+--+---------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | the listed patent is invalid, unenforceable or will not be infringed by the new product.
+--+-----------------------------------------------------------------------------------------
+
+​
+A certification that the new product will not infringe the already approved product’s listed patents or that such patents are invalid or unenforceable is called a Paragraph IV certification. If the applicant does not challenge the listed patents or indicates that it is not seeking approval of a patented method of use, the application will not be approved until all the listed patents claiming the referenced product have expired (other than method of use patents involving indications for which the ANDA applicant is not seeking approval). The applicant may also elect to submit a “Section VIII” statement certifying that its proposed label does not contain (or carves out) any language regarding the patented method-of-use rather than certifying to a listed method-of-use patent.
+​
+If the ANDA or 505(b)(2) applicant has provided a Paragraph IV certification to the FDA, the applicant must also send notice of the Paragraph IV certification to the NDA and patent holders within certain specified timeframes. The NDA and patent holders may then initiate a patent infringement lawsuit in response to the notice of the Paragraph IV certification. The filing of a patent infringement lawsuit within 45 days after the receipt of a Paragraph IV certification automatically prevents the FDA from approving the ANDA or 505(b)(2) application until the earlier of 30 months after the receipt of the Paragraph IV notice, expiration of the patent, or a decision in the infringement case that is favorable to the ANDA applicant.
+​
+Pediatric Studies and Exclusivity 
+​
+Under the Pediatric Research Equity Act (“PREA”) of 2003, an NDA or supplement thereto must contain data that are adequate to assess the safety and effectiveness of the drug product for the claimed indications in all relevant pediatric subpopulations, and to support dosing and administration for each pediatric subpopulation for which the product is safe and effective. With enactment of the FDASIA in 2012, sponsors must also submit pediatric study plans prior to the assessment data. Those plans must contain an outline of the proposed pediatric study or studies the applicant plans to conduct, including study objectives and design, any deferral or waiver requests, and other information required by regulation. The applicant, the FDA, and the FDA’s internal review committee must then review the information submitted, consult with each other, and agree upon a final plan. The FDA or the applicant may request an amendment to the plan at any time. 
+​
+The FDA may, on its own initiative or at the request of the applicant, grant deferrals for submission of some or all pediatric data until after approval of the product for use in adults, or full or partial waivers from the pediatric data requirements. Additional requirements and procedures relating to deferral requests and requests for extension of deferrals are contained in the FFDCA. Unless otherwise required by regulation, the pediatric data requirements do not apply to products with orphan designation. 
+​
+In addition, the FDA Reauthorization Act of 2017 introduced a new provision regarding required pediatric studies. Under this statute, for product candidates intended for the treatment of adult cancer which are directed at molecular targets that the FDA determines to be substantially relevant to the growth or progression of pediatric cancer, original application sponsors must submit, with the marketing application, reports from molecularly targeted pediatric cancer investigations designed to yield clinically meaningful pediatric study data, gathered using appropriate formulations for each applicable age group, to inform potential pediatric labeling. The FDA may, on its own initiative or at the request of the applicant, grant deferrals or waivers of some or all of this data, as above. Unlike PREA, orphan products are not exempt from this requirement.
+​
+Pediatric exclusivity is another type of non-patent marketing exclusivity in the United States and, if granted, provides for the attachment of an additional six months of marketing protection to the term of any existing regulatory exclusivity, including the non-patent and orphan exclusivity and on listed patents. This six-month exclusivity may be granted if an NDA sponsor submits pediatric data that fairly respond to a written request from the FDA for such data. The data do not need to show the product to be effective in the pediatric population studied; rather, if the clinical trial is deemed to fairly respond to the FDA’s request, the additional protection is granted. If reports of requested pediatric studies are submitted to and accepted by the FDA within the statutory time limits, whatever statutory or regulatory periods of exclusivity or patent protection cover the product are extended by six months. This is not a patent term extension, but it effectively extends the regulatory period during which the FDA cannot approve another application. 
+
+17
+
+
+
+
+​
+Orphan Drug Designation and Exclusivity 
+​
+Under the Orphan Drug Act, the FDA may designate a drug product as an “orphan drug” if it is intended to treat a rare disease or condition (generally meaning that it affects fewer than 200,000 individuals in the United States, or more in cases in which there is no reasonable expectation that the cost of developing and making a drug product available in the United States for treatment of the disease or condition will be recovered from sales of the product). A company must request orphan product designation before submitting an NDA. If the request is granted, the FDA will disclose the identity of the therapeutic agent and its potential use. Orphan product designation does not convey any advantage in or shorten the duration of the regulatory review and approval process, although it does convey certain advantages such as tax benefits and exemption from Prescription Drug User Fee Act fees.
+​
+If a product with orphan status receives the first FDA approval for the disease or condition for which it has such designation or for a select indication or use within the rare disease or condition for which it was designated, the product generally will receive orphan product exclusivity. Orphan product exclusivity means that the FDA may not approve any other applications for the same product for the same indication for seven years, except in certain limited circumstances. Competitors may receive approval of different products for the indication for which the orphan product has exclusivity and may obtain approval for the same product but for a different indication. If a drug or drug product designated as an orphan product ultimately receives marketing approval for an indication broader than what was designated in its orphan product application, it may not be entitled to exclusivity. 
+​
+Orphan drug exclusivity will not bar approval of another product under certain circumstances, including if a subsequent product with the same drug for the same condition is shown to be clinically superior to the approved product on the basis of greater efficacy or safety, or providing a major contribution to patient care, or if the company with orphan drug exclusivity is not able to meet market demand. 
+​
+Patent Term Restoration and Extension 
+​
+A patent claiming a new drug product may be eligible for a limited patent term extension under the Drug Price Competition and Patent Term Restoration Act of 1984, which permits a patent restoration of up to five years for patent term lost during product development and the FDA regulatory review. The restoration period granted is typically one-half the time between the effective date of an IND and the submission date of an NDA, plus the time between the submission date of an NDA and the ultimate approval date. Patent term restoration cannot be used to extend the remaining term of a patent past a total of 14 years from the product’s approval date. Only one patent applicable to an approved drug product is eligible for the extension, and the application for the extension must be submitted prior to the expiration of the patent in question. A patent that covers multiple drugs for which approval is sought can only be extended in connection with one of the approvals. The USPTO reviews and approves the application for any patent term extension or restoration in consultation with the FDA. 
+​
+Review and Approval of Drug Products in the European Union 
+​
+In order to market any product outside of the United States, a company must also comply with numerous and varying regulatory requirements of other countries and jurisdictions regarding quality, safety and efficacy and governing, among other things, clinical trials, marketing authorization, commercial sales and distribution of drug products. Whether or not it obtains FDA approval for a product, the company would need to obtain the necessary approvals by the comparable foreign regulatory authorities before it can commence clinical trials or marketing of the product in those countries or jurisdictions. The approval process ultimately varies between countries and jurisdictions and can involve additional product testing and additional administrative review periods. The time required to obtain approval in other countries and jurisdictions might differ from and be longer than that required to obtain FDA approval. Regulatory approval in one country or jurisdiction does not ensure regulatory approval in another, but a failure or delay in obtaining regulatory approval in one country or jurisdiction may negatively impact the regulatory process in others. 
+​
+Clinical Trial Approval in the EU
+​
+Pursuant to the European Clinical Trials Directive, a system for the approval of clinical trials in the European Union (“EU”) has been implemented through national legislation of the member states. Under this system, an applicant must obtain approval from the competent national authority of a EU member state in which the clinical 
+
+18
+
+
+
+
+trial is to be conducted. Furthermore, the applicant may only start a clinical trial after a competent ethics committee has issued a favorable opinion. Clinical trial application must be accompanied by an investigational medicinal product dossier with supporting information prescribed by the European Clinical Trials Directive and corresponding national laws of the member states and further detailed in applicable guidance documents. In April 2014, the EU adopted a new Clinical Trials Regulation, which will be directly applicable to and binding without the need for any national implementing legislation. Under the new coordinated procedure for the approval of clinical trials, the sponsor of a clinical trial will be required to submit a single application for approval of a clinical trial to a reporting EU Member State (RMS) through an EU Portal. The submission procedure will be the same irrespective of whether the clinical trial is to be conducted in a single EU member state or in more than one EU member state. The Clinical Trials Regulation also aims to streamline and simplify the rules on safety reporting for clinical trials. 
+​
+Orphan Drug Designation and Exclusivity 
+​
+Regulation 141/2000 provides that a drug shall be designated as an orphan drug if its sponsor can establish: that the product is intended for the diagnosis, prevention, or treatment of a life-threatening or chronically debilitating condition affecting not more than five in ten thousand persons in the [EU] when the application is made, or that the product is intended for the diagnosis, prevention, or treatment of a life-threatening, seriously debilitating, or serious and chronic condition in the [EU] and that without incentives it is unlikely that the marketing of the drug in the [EU] would generate sufficient return to justify the necessary investment. For either of these conditions, the applicant must demonstrate that there exists no satisfactory method of diagnosis, prevention, or treatment of the condition in question that has been authorized in the [EU] or, if such method exists, the drug will be of significant benefit to those affected by that condition. 
+​
+Regulation 847/2000 sets out criteria and procedures governing designation of orphan drugs in the EU. Specifically, an application for designation as an orphan product can be made any time prior to the filing of an application for approval to market the product. Marketing authorization for an orphan drug leads to a ten-year period of market exclusivity. This period may, however, be reduced to six years if, at the end of the fifth year, it is established that the product no longer meets the criteria for orphan drug designation, for example because the product is sufficiently profitable not to justify market exclusivity. Market exclusivity can be revoked only in very selected cases, such as consent from the marketing authorization holder, inability to supply sufficient quantities of the product, demonstration of “clinically relevant superiority” by a similar medicinal product, or, after a review by the Committee for Orphan Medicinal Products, requested by a member state in the fifth year of the marketing exclusivity period (if the designation criteria are believed to no longer apply). Medicinal products designated as orphan drugs pursuant to Regulation 141/2000 shall be eligible for incentives made available by the [EU] and by the EU member states to support research into, and the development and availability of, orphan drugs.
+​
+Pharmaceutical Coverage, Pricing and Reimbursement 
+​
+Significant uncertainty exists as to the coverage and reimbursement status of products approved by the FDA and other government authorities. Sales of products will depend, in part, on the extent to which the costs of the products will be covered by third-party payors, including government healthcare programs in the United States such as Medicare and Medicaid, commercial health insurers and managed care organizations. The process for determining whether a payor will provide coverage for a product may be separate from the process for setting the price or reimbursement rate that the payor will pay for the product once coverage is approved. Third-party payors are increasingly challenging the prices charged, examining the medical necessity, and reviewing the cost-effectiveness of medical products and services and imposing controls to manage costs. Our rebate payments may increase or our prices be adjusted under value-based purchasing arrangements based on evidence-based measures or outcomes-based measures for a patient or beneficiary based on use of our drug. Third-party payors may also limit coverage to specific products on an approved list, or formulary, which might not include all of the approved products for a particular indication, or may impose other market access or utilization management controls. 
+​
+In order to secure coverage and reimbursement for any product that might be approved for sale, a company may need to conduct expensive pharmacoeconomic studies in order to demonstrate the medical necessity and cost-effectiveness of the product, in addition to the costs required to obtain FDA or other comparable regulatory approvals. A payor’s decision to provide coverage for a drug product does not imply that an adequate reimbursement rate will be approved. Third-party reimbursement may not be sufficient to maintain price levels high enough to realize an appropriate return on investment in product development.
+
+19
+
+
+
+
+​
+The containment of healthcare costs also has become a priority of federal, state and foreign governments and the prices of drugs have been a focus in this effort. Governments have shown significant interest in implementing cost-containment programs, including price controls, increases in rebates paid, restrictions on reimbursement, and requirements for substitution of generic products. Adoption of price controls and cost-containment measures, and adoption of more restrictive policies in jurisdictions with existing controls and measures, could further limit a company’s revenue generated from the sale of any approved products. Coverage policies and third-party reimbursement rates may change at any time. Even if favorable coverage and reimbursement status is attained for one or more products for which a company or its collaborators receive marketing approval, less favorable coverage policies and reimbursement rates may be implemented in the future. In the EU, pricing and reimbursement schemes vary widely from country to country. Some countries provide that drug products may be marketed only after a reimbursement price has been agreed. Some countries may require the completion of additional studies that compare the cost-effectiveness of a particular drug candidate to currently available therapies, or so-called health technology assessments, in order to obtain reimbursement or pricing approval. For example, the EU provides options for its member states to restrict the range of drug products for which their national health insurance systems provide reimbursement and to control the prices of medicinal products for human use. EU member states may approve a specific price for a drug product or may instead adopt a system of direct or indirect controls on the profitability of the company placing the drug product on the market. Other EU member states allow companies to fix their own prices for drug products, but monitor and control company profits. The downward pressure on health care costs in general, particularly prescription drugs, has become intense. As a result, increasingly high barriers are being erected to the entry of new products. In addition, in some countries, cross-border imports from low-priced markets exert competitive pressure that may reduce pricing within a country. Any country that has price controls or reimbursement limitations for drug products may not allow favorable reimbursement and pricing arrangements. 
+​
+Healthcare Law and Regulation 
+​
+Healthcare providers, physicians and third-party payors play a primary role in the recommendation and prescription of drug products that are granted marketing approval. Arrangements with providers, consultants, third-party payors and customers are subject to broadly applicable fraud and abuse and other healthcare laws and regulations. Such restrictions under applicable federal and state healthcare laws and regulations, include the following: 
+​
+
+● | the federal Anti-Kickback Statute prohibits, among other things, persons from knowingly and willfully soliciting, offering, receiving or providing remuneration, directly or indirectly, in cash or in kind, to induce or reward either the referral of an individual for, or the purchase, order or recommendation of, any good or service, for which payment may be made, in whole or in part, under a federal healthcare program such as Medicare and Medicaid;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | the federal False Claims Act imposes civil penalties, and provides for civil whistleblower or qui tam actions, against individuals or entities for knowingly presenting, or causing to be presented, to the federal government, claims for payment that are false or fraudulent or knowingly making, using, or causing to be made or used a false record or statement material to a false or fraudulent claim, or making a false statement to avoid, decrease or conceal an obligation to pay money to the federal government, with potential substantial liability including mandatory treble damages at trial and significant per-claim penalties;
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | the Affordable Care Act included a provision requiring certain providers and suppliers of items and services to federal healthcare programs to report and return overpayments within sixty days after they are “identified” (the “Overpayment Statute”), after which the recipient of the overpayment incurs federal civil False Claims Act liability;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | the Affordable Care Act authorized the imposition of civil monetary penalties on manufactures participating in the 340B program for failure to charge the statutory ceiling price, and required HHS to promulgate regulations establishing the standards for implementing this Civil Monetary Penalty, or CMP, authority. CMS’ final CMP rule went into effect January 1, 2019;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+20
+
+
+
+
+
+● | the federal Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), imposes criminal and civil liability for executing a scheme to defraud any healthcare benefit program or making false statements relating to healthcare matters;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act and their respective implementing regulations, including the Final Omnibus Rule published in January 2013, also imposes obligations, including mandatory contractual terms, with respect to safeguarding the privacy, security and transmission of individually identifiable health information and sanctions for failing to meet those obligations;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | the federal false statements statute prohibits knowingly and willfully falsifying, concealing or covering up a material fact or making any materially false statement in connection with the delivery of or payment for healthcare benefits, items or services;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | the federal transparency requirements under the Health Care Reform Law, known as the federal Physician Payments Sunshine Act, require manufacturers of covered drugs, devices, biologics and medical supplies to report to the Centers for Medicare & Medicaid Services (“CMS”) within the Department of Health and Human Services information related to certain payments and other transfers of value to US-licensed physicians, physician assistants, nurse practitioners, certified registered nurse anesthetists and certified nurse midwifes and US teaching hospitals and to physician ownership and investment interests held by physicians and their immediate family members; and 
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+
+● | analogous state and foreign laws and regulations, such as state anti-kickback and false claims laws, may apply to sales or marketing arrangements and claims involving healthcare items or services reimbursed by non-governmental third-party payors, including private insurers.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+Some state laws require pharmaceutical companies to comply with the pharmaceutical industry’s voluntary compliance guidelines and the relevant compliance guidance promulgated by the federal government in addition to requiring drug manufacturers to report information related to payments to physicians and other health care providers or marketing expenditures. State and foreign laws also govern the privacy and security of health information in some circumstances, many of which differ from each other in significant ways and often are not preempted by HIPAA, thus complicating compliance efforts. 
+​
+Healthcare Reform in the United States
+​
+A primary trend in the United States healthcare industry and elsewhere is cost containment. There have been a number of federal and state proposals during the last several years regarding the pricing of pharmaceutical and biopharmaceutical products, limiting coverage and reimbursement for drugs and other medical products, government control and other changes to the healthcare system in the United States.
+​
+By way of example, the United States and state governments continue to propose and pass legislation designed to reduce the cost of healthcare. In March 2010, the United States Congress enacted the Patient Protection and Affordable Care Act (the “PPACA”) which, among other things, includes changes to the coverage and payment for products under government health care programs. Moreover, in 2017, the U.S. Congress modified and amended certain provisions of the PPACA, which could have an impact on coverage and reimbursement for healthcare items and services covered by the federal and state healthcare programs as well as plans in the private health insurance market. The so-called “individual mandate” was repealed as part of tax reform legislation adopted in December 2017. Legal challenges to the PPACA may continue to arise and there may continue to be future efforts to modify, repeal, or otherwise invalidate all, or certain provisions of the Affordable Care Act. The Biden administration is expected to continue to take measures to further facilitate the implementation of the PPACA. Among the provisions of the PPACA of importance to potential drug candidates are:
+
+● | an annual, nondeductible fee on any entity that manufactures or imports specified branded prescription drugs and biologic agents, apportioned among these entities according to their market share in certain government healthcare programs, although this fee would not apply to sales of certain products approved exclusively for orphan indications;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+21
+
+
+
+
+
+● | expansion of eligibility criteria for Medicaid programs by, among other things, allowing states to offer Medicaid coverage to certain individuals with income at or below 133% of the federal poverty level, thereby potentially increasing a manufacturer’s Medicaid rebate liability;
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | expanded manufacturers’ rebate liability under the Medicaid Drug Rebate Program by increasing the minimum rebate for both branded and generic drugs and revising the definition of “average manufacturer price” (“AMP”) for calculating and reporting Medicaid drug rebates on outpatient prescription drug prices and extending rebate liability to prescriptions for individuals enrolled in Medicare Advantage plans;
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | addressed a new methodology by which rebates owed by manufacturers under the Medicaid Drug Rebate Program are calculated for drugs that are inhaled, infused, instilled, implanted or injected;
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | expanded the types of entities eligible for the 340B drug discount program;
+--+----------------------------------------------------------------------------
+
+
+● | established the Medicare Part D coverage gap discount program by requiring manufacturers to provide a point-of-sale-discount off the negotiated price of applicable brand drugs to eligible beneficiaries during their coverage gap period as a condition for the manufacturers’ outpatient drugs to be covered under Medicare Part D;
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | established a new Patient-Centered Outcomes Research Institute to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research;
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | established the Independent Payment Advisory Board (“IPAB”) which has authority to recommend certain changes to the Medicare program to reduce expenditures by the program that could result in reduced payments for prescription drugs, subsequently repealed through the Bipartisan Budget Act of 2018; and
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | established the Center for Medicare and Medicaid Innovation within CMS to test innovative payment and service delivery models to lower Medicare and Medicaid spending, potentially including prescription drug spending. Other legislative changes have been proposed and adopted since the PPACA was enacted. These changes include the Budget Control Act of 2011, which, among other things, led to aggregate reductions to Medicare payments to providers of up to 2% per fiscal year that started in 2013 , were paused from May 1, 2020 through December 31, 2021, and will continue through 2031 unless additional Congressional action is taken, and the American Taxpayer Relief Act of 2012, which, among other things, reduced Medicare payments to several types of providers and increased the statute of limitations period for the government to recover overpayments to providers from three to five years. These new laws may result in additional reductions in Medicare and other healthcare funding and otherwise affect the prices we may obtain for any of our product candidates for which we may obtain regulatory approval or the frequency with which any such product candidate is prescribed or used. 
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+​
+More recently, Congress amended the Medicaid statute, effective October 1, 2019, to exclude prices paid by secondary manufacturers for an authorized generic drug (but not a product approved under the BLA process) from the NDA holder’s AMP for the brand, thereby increasing the rebate amount and the 340B price for the brand. This was implemented by CMS in a final rule issued December 31, 2020. The rule also expanded the definition of products identified as “line extensions” and, in certain circumstances, required inclusion of patient copay assistance in Medicaid best price (effective January 1, 2023), thereby potentially increasing Medicaid rebates paid by manufacturers for such drugs. 340B program guidance regulations on civil monetary penalties for statutory violations, which had been finalized in early 2017 but deferred, also recently went into effect. On November 27, 2020, CMS issued an interim final rule implementing a Most Favored Nation payment model under which reimbursement for certain Medicare Part B drugs and biologicals will be based on a price that reflects the lowest per capita Gross Domestic Product-adjusted (GDP-adjusted) price of any non-U.S. member country of the Organization for Economic Co-operation and Development (OECD) with a GDP per capita that is at least sixty percent of the U.S. GDP per capita. This rule now has been rescinded, but similar programs have been described in recent legislative proposals. 
+​
+
+22
+
+
+
+
+These healthcare reforms, as well as other healthcare reform measures that may be adopted in the future, may result in additional reductions in Medicare and other healthcare funding, payment of increased rebates, more rigorous coverage criteria, new payment methodologies and additional downward pressure on the price for any approved product and/or the level of reimbursement physicians receive for administering any approved product. Reductions in reimbursement levels may negatively impact the prices or the frequency with which products are prescribed or administered. Any reduction in reimbursement from Medicare or other government programs may result in a similar reduction in payments from private payors. Since enactment of the PPACA, there have been numerous legal challenges and congressional actions to repeal and replace provisions of the law. 
+​
+Further, there have been several recent U.S. congressional inquiries and proposed federal and proposed and enacted state legislation designed to, among other things, bring more transparency to drug pricing, review the relationship between pricing and manufacturer patient programs, reduce the costs of drugs under Medicare and reform government program reimbursement methodologies for drug products. At the federal level, Congress and the recent administrations have indicated that they will continue to seek new legislative and/or administrative measures to control drug costs. At the state level, individual states are increasingly aggressive in passing legislation and implementing regulations designed to control pharmaceutical and biological product pricing, including price or patient reimbursement constraints, discounts, restrictions on certain product access and marketing cost disclosure and transparency measures, and, in some cases, designed to encourage importation from other countries and bulk purchasing. In addition, regional health care authorities and individual hospitals are increasingly using bidding procedures to determine what pharmaceutical products and which suppliers will be included in their prescription drug and other health care programs. These measures could reduce the ultimate demand for our products, once approved, or put pressure on our product pricing.
+​
+​
+Human Capital Resources
+​
+Our vision is to translate scientific breakthroughs into important new medicine. We have a culture where patients are at the center of all we do, with core values that connect us to each other and our stakeholders and define who we are, what we stand for, and how we work. 
+​
+We are focused on effective attraction, development, and retention of, and compensation and benefits to, human resource talent, including workforce and management development, diversity and inclusion initiatives, succession planning, and corporate culture and leadership quality, which are vital to our success. At December 31, 2021, our total workforce consisted of 13 full-time employees. We consider our relations with our employees to be good. 
+​
+During 2021, as we worked to manage through the effects of the human capital aspects of the ongoing COVID-19 pandemic, all employees were provided the option of working remotely or at our Exton, Pennsylvania office with appropriate safeguards.
+​
+​
+Corporate Information
+​
+We were incorporated in Delaware in 1989 and our office headquarters is located at 505 Eagleview Boulevard, Suite 212, Exton, Pennsylvania 19341. 
+​
+​
+Information Available on the Internet
+​
+Our internet address is www.iderapharma.com. We make available free of charge through our web site our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after we electronically file or furnish such materials to the SEC. The SEC maintains an internet site at www.sec.gov containing reports, proxies and information statements and other information regarding issuers that file electronically with the SEC.
+​
+
+23
+
+
+
+

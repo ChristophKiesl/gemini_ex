@@ -1,0 +1,209 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+ITEM 1. BUSINESS
+Overview
+Bionik Laboratories Corp. is a healthcare company focused on improving the quality of life of millions of people with neurological or mobility impairments by combining artificial intelligence and innovative robotics technology to help individuals from hospital to home to regain mobility, enhance autonomy, and regain self-esteem.
+The Company uses artificial intelligence and machine learning technologies to make rehabilitation methods and processes smarter and more intuitive to deliver greater recovery for patients with neurological or mobility impairments. These technologies allow large amounts of data to be collected and processed in real-time, enabling appropriately challenging and individualized therapy during every treatment session. This is the foundation of the InMotion® therapy. The Company’s rehabilitation therapy robots are built on an artificial intelligence platform, measuring the position, the speed and the acceleration of the patient’s upper limbs 200 times per second. The artificial intelligence platform is designed to adapt in real time to the patient’s needs and progress while providing quantifiable feedback of a patient’s progress and performance, in a way that the Company believes a trained clinician cannot.
+Based on this foundational work, the Company has two InMotion products currently on the market, which are focused on upper and lower extremity rehabilitation for stroke and other mobility-impaired individuals.
+The InMotion therapy uses the Company’s robots to assist patients to rewire a segment of their brains after injury, also known as neuroplasticity. They are designed to provide intelligent, adaptive therapy in a manner that has been clinically shown to improve neurorecovery. We offer the following products:
+
+● | InMotion ARM; and
+--+------------------
+
+
+● | InMotion ARM/HAND.
+--+-------------------
+
+The Company commenced developing a next generation home version of the InMotion upper-body rehabilitation technology. The Company intends to continue development of new products when the Company has sufficient funds and resources. We may in the future further augment our product portfolio through technology acquisition opportunities should they become available and if we are sufficiently capitalized to undertake these investments.
+The InMotion ARM, and InMotion ARM/HAND are robotic therapies for the upper limbs. InMotion robotic therapies have been characterized as Class II medical devices by the U.S. Food and Drug Administration, or FDA, and are listed with the FDA to market and sell in the United States. Approximately 450 of our clinical robotic products for stroke rehabilitation have been sold in over 15 countries, including the United States. In addition to these fully developed, clinical rehabilitation solutions, we also commenced developing “InMotion HomeTM”, which is an upper extremity product that allows the patient to extend their therapy for as long as needed while rehabilitating at home. This rehabilitation solution is being developed on the same design platform as the InMotion clinical products. We intend to continue development of “InMotion Home” when we have sufficient funds and resources.
+We believe payment changes in the U.S. marketplace proposed and finalized by the Centers for Medicare and Medicaid Services are creating a favorable environment for greater clinical adoption of our robotic technology. For instance, the Improving Medicare Post-Acute Care Transformation Act of 2014, or the Impact Act of 2014, began the shift toward standardizing patient assessment data for quality measures. The updated Prospective Payment System (PPS), SNF QRP (Quality Reporting Program) and SNF VBP (Value Based Purchasing) programs have further shifted reimbursement toward the needs of the patient and away from volume of services provided in the skilled nursing setting. Other programs have caused a similar shift in the Inpatient Rehabilitation Facility setting, as well, resulting in such providers being publicly ranked, as well as financially rewarded, for quality reporting and better outcomes.
+We have a growing body of clinical data for our products. More than 1,500 patients participated in trials using our InMotion robots, the results of which have been published in peer-reviewed medical journals (including the New England Journal of Medicine and Stroke).
+
+4
+
+
+
+With the collaboration of outside partners we developed a leading custom software solution called InMotion Connect in 2020. InMotion Connect is designed to target the critical need to link patient centric rehabilitation results to patient management portals. InMotion Connect provides the ability for hospital management to access remotely to management dashboards presenting the anonymized utilization data of each of their InMotion robotic devices and their robotic devices’ productivity. Customized reporting capabilities in the platform focus on facility and organization measurement dashboards to support effective decision making for clinicians and for hospital management. Through further customization with each hospital system, a patient’s progress during the therapy sessions and patient’s evaluation will be made available and ultimately feed electronic medical records (EMR) at any hospital or rehabilitation facility. We believe that this software platform will ensure the HL7 compliant InMotion Connect will seamlessly feed data through various existing hospital protocols, providing practitioners protected patient data and treatment results.
+In December 2018, we entered into a Sale of Goods Agreement (the “Agreement”) with CHC Management Services, LLC, or Kindred, pursuant to which, among other things, Kindred agreed to purchase from us in a first phase a minimum of 21 of the Company’s InMotion ARM Interactive Therapy Systems – a minimum of one for each of Kindred’s existing and soon-to-open affiliated inpatient rehabilitation hospitals and similar facilities described in the Agreement, and in a second phase a minimum of one InMotion ARM Interactive Therapy System for each future inpatient rehabilitation facilities of Kindred, during the four-year minimum term of the Agreement. As of March 31, 2022, 30 InMotion robots have been sold in total to Kindred.
+We have worked with industry leaders in manufacturing and design and have also expanded our development team through partnerships with researchers and academia.
+We have also entered into an agreement with Cogmedix Inc., a wholly owned subsidiary of Coghlin Companies, a medical device development and manufacturing company located in West Boylston, MA, to produce InMotion robots. The initial agreement is for turnkey, compliant manufacturing with the capability of scaling faster production to meet increased volume as the Company grows. In addition, our Massachusetts based quality assurance system is compliant with ISO-3485:2016 (valid until April 2024), MDD 93/42/EEC Annex-II (valid until May 2024), and FDA regulations governing products.
+We currently hold an intellectual property portfolio that includes 5 issued U.S. patents and 3 U.S. pending patent applications, as well as other patents under development. We may file provisional patent applications from time to time, and may, where deemed advisable, pursue non-provisional patent applications within 12 months of the filing date of such provisional patent applications. Additionally, we hold exclusive licenses to three additional patents.
+We have filed trademarks in the U.S. and European Union for InMotion, InMotion Home, InMotion Connect, InMotion Pulse™, and InMotion Insights™; the trademark for InMotion is registered in the European Union and in the U.S., the trademark for InMotion Connect is registered in the European Union and pending in the US, while InMotion Home, InMotion Pulse, and InMotion Insights are pending in both jurisdictions.
+We currently sell our products directly or can introduce customers to a third-party finance company to lease at a monthly fee over the term or other fee structure for our products to hospitals, clinics, distribution companies and/or buying groups that supply those rehabilitation facilities.
+Corporate Information
+We were incorporated on January 8, 2010 in the State of Colorado under the name Strategic Dental Management Corp. On July 16, 2013, we changed our name from Strategic Dental Management Corp. to Drywave Technologies, Inc. and changed our state of incorporation from Colorado to Delaware. Effective February 13, 2015, we changed our name to Bionik Laboratories Corp.
+Our global headquarters are located at 80 Coolidge Hill Road, Watertown, MA, USA 02472, telephone number 617-926-4800. Our website is www.bioniklabs.com. Information on our website does not constitute a part of this Annual Report on Form 10-K.
+Products in Market
+InMotion Robots
+Our suite of robotic rehabilitation products are the result of medical engineering research and original development at the Newman Laboratory for Biomechanics and Human Rehabilitation at the Massachusetts Institute of Technology (MIT).
+
+5
+
+
+
+We believe that our robotic products have exceptional capacity for measurement and immediate interactive response, which sets them apart from other therapy systems. Several of these factors include:
+
+● | The patient can be set up to rehabilitate on the InMotion robots within 2 minutes;
+--+-----------------------------------------------------------------------------------
+
+
+● | InMotion robots sense the patient’s movement and responds to a patient’s continually changing ability; and
+--+-----------------------------------------------------------------------------------------------------------
+
+
+● | InMotion robots use artificial intelligence that help guide the patient’s exercise treatment.
+--+----------------------------------------------------------------------------------------------
+
+Artificial intelligence within the robot assists the patient to initiate movement towards the target. If coordination is a problem, the artificial intelligence within the robot “guides” the movement, allowing the patient to move towards the target and confirming that the patient is practicing the movement the correct way. As the patient gains movement control, the artificial intelligence within the robot provides reduced assistance that continually challenges the patient.
+InMotion robots have been tested by leading medical centers in controlled clinical trials, including large randomized controlled clinical studies. Through research, we have determined that the best way to optimize robot therapy is by allowing the robots to focus on reducing impairments and allowing the therapist to assist on translating the gains into function.
+We believe that our modular systems approach to neuro-rehabilitation is designed to optimize the use of robotics in a manner that is consistent with the latest clinical research and neuroscience, taking into account the latest understanding on motor learning interference and motor memory consolidation.
+Approximately 450 InMotion robots have been sold for research and rehabilitation in over 15 countries, including the United States. Extensive research has shown the InMotion robots to be effective at patient rehabilitation, particularly those recovering from strokes. Based on clinical trials using the InMotion ARM, the American Heart Association (AHA) Stroke council and the U.S. Department of Veterans Affairs recommended, in 2010, the use of robot-assisted therapy to improve upper extremity motor coordination in individuals with some voluntary finger extension in outpatient and chronic care settings. In the trial conducted by the Department of Veterans Affairs, results demonstrated efficacy and a reduction in healthcare expenses when using the InMotion ARM when compared to non-robotic therapy.
+InMotion ARM
+The InMotion ARM is an evidence-based intelligent interactive rehabilitation technology that senses patient movements and limitations, providing assistance as needed in real time. It allows clinicians to effectively deliver optimum intensive sensor motor therapy to the shoulder and elbow to achieve the development of new neural pathways and helps patients regain motor function following a neurological condition or injury. In 2018, we launched a new version of the InMotion ARM, which has a 40% smaller footprint than the previous generation and has wireless report printing, among other improvements. The product is characterized as a Class II medical device by the U.S. Food and Drug Administration (FDA) and is listed with the FDA as 510(k) exempt, allowing the product to be marketed in the United States. The CE mark for the InMotion ARM was renewed under the Medical Devices Directive 93/42/EEC Annex-II Section 3 through May 2024.
+InMotion ARM/HAND
+The InMotion ARM/HAND provides support for therapy involving reaching with grasp and release movements, and individual hand movements. It allows clinicians to efficiently deliver optimal intensive sensory motor therapy to the hand to develop new neural pathways and helps patients regain motor function following a neurological condition or injury. The product is characterized as a Class II medical device by the U.S. Food and Drug Administration (FDA) and is listed with the FDA as 510(k) exempt, allowing the product to be marketed in the United States. The CE mark for the InMotion ARM/HAND was renewed under the Medical Devices Directive 93/42/EEC Annex-II Section 3 through May 2024.
+In January 2019, we announced the commercial launch of our newest generation InMotion ARM/HAND robotic system for clinical rehabilitation of stroke survivors and those with mobility impairments due to neurological conditions. The improved new generation InMotion ARM/HAND was developed according to the same principals of motor learning and neuro plasticity that were incorporated into the original InMotion ARM robotic system and utilizes artificial intelligence and data analysis to provide individualized therapy and reports that empower and inform patients. It includes the following features:
+
+6
+
+
+
+
+● | Enhanced hand-rehabilitation technology: The updated hand robot provides therapy focused on hand opening and grasping for patients ready to retrain reach and grasp functional tasks.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | InMotion EVAL: The InMotion ARM/HAND offers the ability to assess hand movements in a precise and objective manner, allowing the clinician to better measure and quantify a patient’s progress and response to therapy.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Improved, comprehensive reporting: Optimized report formats provide improved documentation of patient outcomes, improved ease of use and enhanced interpretation of evaluation results, allowing clearer indications of progress over their complete rehabilitation journey, all on one screen.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+InMotion CONNECT
+In June 2020, we launched our InMotion Connect platform, which consists of a hardware device connected to the InMotion Robot as well as a subscription to InMotion Connect Pulse. This platform provides anonymized data allowing us to focus activity to increase adoption and utilization of InMotion robotic technologies across healthcare systems.
+InMotion Connect is a cloud-based data analytics solution that securely streams and stores anonymized data from all connected InMotion robotics devices to our cloud server hosted by Amazon AWS, providing contextual and relevant data to reach hospital clinicians and management teams when it matters the most. It combines real-time data of each InMotion robotic device with the deep clinical knowledge and expertise of our clinical specialists to collaboratively partner with each clinic to promote utilization of the robotic devices and support clinician engagement, with the goal of enhancing patient care. Reporting capabilities in the platform focus on deep data analytics with customizable and adaptive dashboards to support effective decision making for clinicians and for hospital management.
+Since the launch of InMotion Connect, the solution was sold and deployed in approximately 30 hospitals in the U.S. The deployment follows a pilot program with Kindred participating in an initiative to use data to empower on-site and hospital system-wide decision making to drive better technology adoption. Cloud-based data analytics were combined with our clinical specialists to collaboratively partner with local staff to drive optimal use of InMotion technology, while the resulting data was utilized by both local and corporate hospital management to support better utilization of the robots as well as improved patient outcomes.
+InMotion Connect has been designed to target the critical need to link patient centric rehabilitation results to patient management portals. InMotion Connect provides the ability for hospital management to access remotely to management dashboards presenting the utilization data of each of their InMotion robotic devices and their robotic devices productivity. Customized reporting capabilities in the platform focus on facility and organization measurement dashboards to support effective decision making for clinicians and for hospital management. Upon further advancement and development as funds permit, and through further customization with each hospital systems, a patient’s progress during the therapy sessions and patient’s evaluation will be made available and ultimately feed electronic medical records (EMR) at any hospital or rehabilitation facility. With this further development, the HL7 compliant InMotion Connect is expected to seamlessly feed data through various existing hospital protocols, providing practitioners protected patient data and treatment results.
+During 2021, we implemented a machine learning prototype predictive model for the classification of the level of responsiveness of the InMotion therapy outcomes. This solution was developed with Bitstrapped, a Toronto-based data engineering firm specializing in machine learning infrastructure through their partnership with Google Cloud Platform. This prototype enables us to continually train the model on anonymized data collected in real-time with InMotion Connect in rehabilitation facilities and track improvements in performance. During the year ended March 31, 2022, we continued to move this strategy forward by working with our team of data scientists to analyze the data we currently have and start making correlations with the intent to enhance the patient experience. This approach will continue to advance and develop as funding permits.
+Product Pipeline
+In addition to our existing suite of products, we have other product candidates under development, all of which were paused as a result of the COVID-19 pandemic and cash constraints.
+
+7
+
+
+
+The InMotion Home is an upper extremity product that would allow patients to extend their therapy for as long as needed while rehabilitating at home and is being developed on the same design platform as the InMotion clinical products described above. This rehabilitation solution is being developed on the same design platform as the InMotion clinical products. We intend to continue development of “InMotion Home” when we have sufficient funds and resources.
+While we own the ARKE exoskeleton technology, we have ceased further development of this technology and product.
+We have exclusively licensed the rights to manufacture and sell products and methodologies covered by a patent for a lower limb robotic rehabilitation apparatus and method for rehabilitating gait, owned in part by Dr. Hermano Igo Krebs, one of our former directors and executive officers; however, this product has not yet been developed.
+We may from time to time expand our product offerings and enhance the strength of our Company through internal development, as well as through strategic and accretive partnerships or acquisitions.
+Competition and Competitive Advantage
+The medical technology equipment industry is characterized by strong competition and rapid technological change. There are several companies developing technologies that are competitive to our existing and proposed products, many of them, when compared to our Company, have significantly longer operational history and greater financial and other resources.
+The primary competitor for the InMotion product line of upper-body rehabilitation robots is Hocoma, a Swiss-based company. Other competitors include Motorika and Tyromotion as well as other known and unknown smaller potential competitors that may compete with us directly or indirectly. We believe that the InMotion product line’s primary advantage over Hocoma is the evidence based, research proven data that supports our robotic device products. Evidence based, research proven data is used to support reimbursement from health systems, insurance companies and governments.
+Robotic technology and its use is an accepted treatment inclinical settings is still determined to be a rapidly growing industry and is regulated by medical device regulatory agencies (such as the US Food and Drug Administration). We believe that we will face challenges of increased regulatory scrutiny, possible changes in regulatory requirements, meeting quality control standards of various government regulators, increased competition in the future based on other new technologies, additional features and customizability, reduced pricing, clinical outcomes and other factors. Our strength in this market will depend on our ability to achieve market acceptance, develop new technologies, develop new products, implement production plans, develop marketing strategies, secure regulatory approvals, secure necessary data for reimbursement, protect our intellectual property and have sufficient funding to meet all these challenges.
+The market for the Company’s other prospective products also has competition and is subject to rapid technological change and regulatory requirements. There can be no assurance that the Company will be in a strong position to respond quickly to potential acquisitions and other market opportunities, new or emerging technologies and changes in customer requirements. Failure to maintain and enhance our competitive position could materially affect our business and prospects.
+Market Strategy
+The Company’s current products are designed to be rehabilitation products and mobility solutions for patients in hospitals and clinics. We currently have two robotic products sold that are listed with the FDA, which are the products sold through our own sales team in the United States, as well as through a third party distributor model around the world. Our business plan in part relies on broad adoption of rehabilitation products to provide neuro rehabilitation to individuals who have suffered a neurological injury or disorder.
+The sales of our clinical and proposed products could depend, in part, on the extent to which healthcare providers and facilities or individual users are reimbursed by government authorities, private insurers and other third-party payers for the costs of our products or the services performed with our products.
+
+8
+
+
+
+The coverage policies and reimbursement levels of third-party payers, which can vary among public and private sources and by country, may affect which products are purchased by customers and the prices they are willing to pay for those products in a particular jurisdiction. Reimbursement rates can also affect the acceptance rate of new technologies. Legislative or administrative reforms to reimbursement systems in the United States or abroad, or changes in reimbursement rates by private payers, could significantly reduce reimbursement for procedures using the Company’s products or result in denial of reimbursement for those products, which would adversely affect customer demand or the price customers may be willing to pay for such products. The effect of the change at the end of 2019 under certain US government plans to reimburse SNF’s (Skilled Nursing Facilities) followed by IRF’s (Inpatient Rehabilitation Facilities) based on outcome and quality data is still being assessed.
+The Company has committed to a commercial strategy to maximize its efforts to position its solutions within individual rehabilitation clinics with additional emphasis on multi-location, high patient volume rehabilitation organizations. The Company believes its robotic systems are a good match to the patient care and business objectives relevant to these larger organizations operating on a regional or national basis.
+Outside of the US, our focus is to use distributors to sell in local markets and we currently have a distributor in South Korea. As a result of the termination of our cooperative joint venture in China in fiscal 2021, we are evaluating our China strategy. Our efforts to penetrate the European market are supported by having attained and renewed the CE marking which signifies that InMotion Arm and InMotion Arm/Hand products sold in the European Economic Area (EEA) have been assessed to meet high safety health and environmental protection requirements. To this point we maintain our inventory in Woburn Massachusetts, Watertown Massachusetts and in Paris France. Our market strategy also relies on identifying and entering into joint venture arrangements with third parties that can assist us with the development, commercialization and distribution of our technologies and products outside of the EU to include the Middle East, Asia Pac and South American Markets
+We currently sell our robots or can introduce customers to a third-party finance company to lease at a monthly fee over term or other fee structure for our products to hospitals, clinics, distribution companies and/or buying groups that supply those rehabilitation facilities. Additionally, we have the ability to offer a rental program to customers.
+For instance, we have entered a relationship with Curexo Inc. of South Korea to distribute our InMotion robots to that market.
+Intellectual Property
+We use intellectual property developed, acquired or licensed, including patents, trade secrets and technical innovations to provide our future growth and to build our competitive position. We currently hold an intellectual property portfolio that includes 4 issued U.S. patents and 3 U.S. pending patent applications, as well as other patents under development. As we continue to expand our intellectual property portfolio, it is critical for us to continue to invest in filing patent applications to protect our technology, inventions, and improvements. However, we can give no assurance that we will have sufficient funds to do so or that competitors will not infringe on our patent rights or otherwise create similar or non- infringing competing products that are technically patentable in their own right.
+Our patents and pending patents are as follows:
+​
+
+Patent | | Status 
+Robotics | ​ | Filed US 
+Algorithms & Control Systems | ​ | Issued in US
+Sensory Technology | ​ | Issued in US
+Robotics | ​ | Issued in US
+Robotics | ​ | Issued in US
+Robotics | ​ | Issued in US
+
+​
+Provided all maintenance fees are timely paid, the earliest issued patent is set to expire in 2033. We may file U.S. provisional patents from time to time, which may expire if we do not pursue full patents within 12 months of the filing date. Provisional patents may not be filed as full patents and new provisional patents may be filed as the technology evolves or changes.
+We have also taken steps to protect our brand in key jurisdictions by filing for and registering various trademarks. More specifically, we have:
+
+9
+
+
+
+
+● | registered the trademark InMotion in the U.S., U.K. and the European Union;
+--+----------------------------------------------------------------------------
+
+
+● | registered the trademark InMotion Connect in the U.K. and the European Union and have a pending application for the same mark in the U.S.;
+--+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | a pending trademark application for InMotion Pulse in the United States;
+--+-------------------------------------------------------------------------
+
+
+● | registered the trademark InMotion Insights in the U.K. and the European Union;
+--+-------------------------------------------------------------------------------
+
+
+● | the registered trademark InMotion Home in the U.K. and the European Union and have a pending application for the same in the U.S.; and
+--+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | registered the trademark ARKE in the European Union,
+--+-----------------------------------------------------
+
+These trademarks are to be used in association with the robots and software that Bionik develops and sells related to this product line.
+In addition, we acquired licenses to the following U.S. patents on April 21, 2016:
+​
+
+​ | ​ | ​ | ​ | ​ | ​ | ​ 
+----------+---+---------------------------------------------------------------------------------------------------------------+---+----------+---+-----------
+Patent # | | Description | | Date | | Expiration
+7,618,381 | | Wrist and Upper Extremity Motion (MIT License) | | 11/17/09 | | 10/27/2024
+​ | ​ | ​ | ​ | ​ | ​ | ​ 
+7,556,606 | | Pelvis Interface: key components for effective motor neuro- Rehabilitation of lower extremities (MIT License) | | 07/07/09 | | 05/17/2027
+
+​
+IMT entered into an Agreement, executed in December 1999, to license two of the above-referenced patents from MIT with a royalty of 3% on sales within the United States and 1.5% for sales outside the United States, with a minimum annual royalty of $10,000. To date, we have not determined whether we intend to commercialize the patent relating to the pelvis.
+We have to date and will continue to enter non-disclosure, confidentially and intellectual property assignment agreements with all new employees as a condition of employment. In addition, we also generally enter into confidentiality and non-disclosure agreements with consultants, manufacturers’ representatives, distributors, suppliers, investors, financial partners and others to attempt to limit access to, use and disclosure of our proprietary information.
+Research and Development
+Our research and development programs are pursued by engineers and scientists employed by us in Boston on a full- time basis or hired as per diem consultants. InMotion robots are based on research and development originally done at MIT. Our InMotion Wrist product is based on a patent that we license from MIT.
+We also work with advisors who are industry leaders in manufacturing and design and researchers and academia. Our leading robotic advisor is Dr. Neville Hogan of MIT. We are also working with subcontractors in developing specific components of our technologies. The primary objective of our research and development program is to advance the development of our existing and proposed products, to enhance the commercial value of such products.
+For the fiscal years ended March 31, 2022 and March 31, 2021, the Company incurred $1.0 million and $1.5 million, respectively, in research and development costs. Research and development expenses have decreased due to pauses in R&D projects due to certain employees being furloughed or having their hours reduced driven by the global pandemic during the fiscal years ended March 31, 2022 and March 31, 2021.
+As a result of steps we have taken to address the decrease in revenue caused by the COVID-19 pandemic, we have reduced working on our research and development projects to focus on the further enhancements of the InMotion Connect platform, to provide the ability for hospital management to access remotely to management dashboards presenting the utilization data of each of their InMotion robotic devices and their InMotion robotic devices productivity, as well as the artificial intelligence and machine learning analysis based on the data collected by InMotion Connect.
+
+10
+
+
+
+Government Regulations
+General
+Our medical technology products and operations are subject to regulation by the U.S. Food and Drug Administration (“FDA”) and various other federal and state agencies, as well as corresponding foreign governmental agencies. These agencies enforce laws and regulations that govern the development, testing, manufacturing, labeling, advertising, marketing and distribution, and market surveillance of our medical device products.
+In addition to the below, other regulations we encounter are the regulations that are common to all businesses, such as employment legislation, implied warranty laws, and environmental, health and safety standards, to the extent applicable. We will also encounter in the future industry-specific government regulations that would govern our new products, if and when developed for commercial use. It may become the case that other regulatory approvals will be required for the design and manufacture of our products and proposed products.
+U.S. Regulation
+Under the U.S. Federal Food, Drug, and Cosmetic Act, medical devices are classified into one of three classes — Class I, Class II or Class III — depending on the degree of risk associated with each medical device and the extent of control needed to ensure safety and effectiveness. The InMotion robots are classified as Class II 510(k) exempt products. Our manufacturing facility in Boston is compliant with ISO 13485:2016 (valid until April, 2024), and FDA regulations governing the InMotion ARM and InMotion ARM/HAND.
+We also are required to establish a suitable and effective quality management system, which establishes controlled processes for our product design, manufacturing, and distribution. We are doing this in compliance with the internationally recognized standard ISO 13485 Quality Management Systems. Following the introduction of a product, the FDA and foreign agencies may engage in periodic reviews of our quality systems, as well as product performance and advertising and promotional materials. These regulatory controls, as well as any changes in FDA or other foreign agencies’ policies, can affect the time and cost associated with the development, introduction, and continued availability of new products.
+Where possible, we anticipate these factors in our product development processes.
+These agencies possess the authority to take various administrative and legal actions against us, such as product recalls, product seizures and other civil and criminal sanctions.
+Foreign Regulation
+In addition to regulations in the United States, we will be subject to a variety of foreign regulations governing clinical trials and commercial sales and distribution of our products in foreign countries. InMotion robots have also been designated as Class IIa devices in the EU and are compliant with MDD 93/42/EEC Annex-II (valid until May, 2024). Whether or not we obtain FDA clearance for the marketing, sale and use of a product, we must obtain approval of a product by the comparable regulatory authorities of foreign countries before we can commence clinical trials or marketing of the product in those countries. The process varies from country to country, and the time may be longer or shorter than that required by the FDA.
+The requirements governing the conduct of clinical trials, product licensing, pricing and reimbursement vary greatly from country to country.
+The policies of the FDA and foreign regulatory authorities may change and or additional government regulations may be enacted which could prevent or delay regulatory approval of our products and could also increase the cost of regulatory compliance. We cannot predict the likelihood, nature or extent of adverse governmental regulation that might arise from future legislative or administrative action, either in the United States or abroad.
+
+11
+
+
+
+Employees and Human Capital Resources
+As of June 6, 2022, we had 12 full-time employees and 4 consultants who are based in our Toronto, Canada and Watertown, Massachusetts facilities. These employees oversee day-to-day operations of the Company supporting management, engineering, research and development, sales and marketing and administration functions of the Company. As required, we also engage consultants to provide services to the Company, including quality assurance and corporate services. We have no unionized employees.
+We believe that our future success will depend in part on our continued ability to attract, hire and retain qualified personnel. We provide our employees base wages and salaries that we believe are competitive and consistent with employee positions. As a result of the COVID-19 pandemic and our responses, including furloughs, layoffs, and salary reductions and deferrals, and decreases in revenue, we have experienced unprecedented challenges in retaining sufficient workforce to grow our business, and we can give no assurance that our remaining employees will not terminate their employment with us. Many of our remaining employees have effectively worked remotely since 2020 and continue to do so. We will need to hire additional employees as and if funds permit.
+
+
