@@ -1,0 +1,212 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business.
+--------+----------
+
+Overview 
+ 
+Bsquare develops and deploys technologies for the makers and operators of connected devices. Fleets of these devices, often called the Internet of Things (IoT), offer a powerful means to connect organizations, people, information, and ideas. Hundreds of millions of connected devices have already been deployed and it is estimated that billions more will be. Despite their growing prevalence, these devices and the systems in which they operate remain a significant source of complexity, unplanned and often uncontrolled expense, and operational risk. Bsquare provides technology that helps them capture the value of connected devices and reduces the cost and risk of doing so.
+ 
+Since our founding in 1994, Bsquare has helped embedded device manufacturers (“Original Equipment Manufacturers” or “OEMs”) with their operating and system software. For most of our history, we operated at the intersection of hardware and software, helping our customers select, develop, and configure system software for a variety of purpose-built devices, from point-of-sale systems to healthcare equipment to hospitality, gaming, and more. Our expertise in hardware, device configuration, and operating systems became essential to our customers’ design cycles and purchasing decisions. As our customers deployed ever-larger fleets of devices, our understanding of the requirements for large-scale device operations increased.
+ 
+More recently, our expertise and business prospects have shifted to cloud-connected devices that have been connected to create intelligent systems. This shift coincides with the overall growth of IoT technologies and with our customers’ recognition that connected intelligent devices create significant business opportunities. Device makers have increasingly specified their products not only to be connection-ready, but also to be enhanced by the breadth and depth of functionality that connection creates. We have taken to market a valuable and expanding portfolio of products and services that meet the needs of connected device makers. This portfolio captures our experience and our expertise can enable our customers to be more productive, flexible, and financially successful. And, in turn, our customers can then help make people and organizations more productive, improve quality of life, and reduce demands on the limited resources of our planet.
+ 
+Embedded Operating System Software and Services
+ 
+Customers engage us because of our technical expertise in device operating system (“OS”) image development and configuration, device software development and testing, and our experience in embedded and mobile systems design. Our long and successful history as a Microsoft Corporation (“Microsoft”) embedded OS distribution and technology partner is a source of many customer opportunities. We believe working with Bsquare engineers can result in shorter development cycles, faster time-to-market, lower overall development costs, and a more robust product. Our software and configuration services are designed to help ensure that our customers’ devices are secure, updateable, and operable as part of a connected IoT system. A decade ago, our customers typically built devices on a single OS. Today, they increasingly have a multi-OS product strategy. Accordingly, we believe that the need for our embedded OS expertise and services is expanding and accelerating. We recognize revenue and cost of sales for this segment of our business under the name “Partner Solutions”.
+ 
+Our target market for OS software and services includes makers of connected, intelligent devices such as point-of-sale terminals, kiosks, tablets and handheld data collection devices, smart vending machines, ATMs, essential equipment in buildings and facilities environments, digital signs, and healthcare, and entertainment devices. These devices work on a variety of operating systems, including the most common: Windows IoT, Android, and Linux. They are deployed in various cloud environments, such as Microsoft Azure, Amazon Web Services (“AWS”), or Google Cloud, and are typically connected to a network via a wired or wireless connection. Our customers for these smart devices include world-class OEMs, original design manufacturers (“ODMs”), silicon vendors, and peripheral vendors.
+ 
+IoT Operations Services and Software
+ 
+Our customers’ devices are frequently components of complicated operating networks, creating new requirements for updating, maintaining, and evolving the capabilities of devices in the fleet. Once configured and deployed, this device fleet then becomes part of an operational environment that requires long-term attention to the challenges of IoT operations. These demands have created operational burdens that are difficult to meet through traditional technologies and support models. For that reason, our customers are increasingly relying on Bsquare’s extensive experience developing, deploying, and operating large IoT systems at scale. Our experience using Microsoft Azure and AWS cloud services is an asset we believe to be seldom found inside a customer’s technology team. Outsourcing fleet management and 24/7 operations services to Bsquare can result in lower system development costs, greater security, better maintainability, lower operating costs, and improved return on investment (“ROI”) for a customer’s IoT system. We have built and now operate 24/7 mission critical IoT systems for customers of varying size and complexity, and we believe the software and processes we have used to do so may be a sustainable competitive advantage and a potential opportunity for new revenue. We recognize revenue and cost of sales for this segment of our business under the name “Edge to Cloud”.
+ 
+Our target market for our IoT operations service and software includes our OS and software OEM customers as well as companies that purchase from those OEMs and operate their devices as a fleet. This market represents business and industrial segments in a wide range of vertical markets such as retail, point of sale, medical equipment, gaming, buildings and facilities management, manufacturing, robotics, utility management, and transportation. The IoT market continues to evolve as companies understand the possibilities and economics of IoT technology and operations. Increasingly, customers are realizing that IoT operations are not core competencies of their business and that outsourcing operations can lower costs, reduce downtime, and mitigate the reputational risk of security and operational failures.
+ 
+    1 
+
+  
+
+Bsquare Solutions Portfolio
+ 
+We provide a suite of software, tools, and services to our customers that are packaged based on technical and business requirements that includes:
+ 
+Embedded OS and System Software Sales and Support
+ 
+We resell Windows IoT, Windows Embedded, and Windows Server IoT software as well as system utility software for Adobe and McAfee. We provide license compliance services, technical support, and manufacturing support. See Software Distribution and Relationship with Microsoft, below, for additional details about our Embedded OS and System Software products.
+OS Configuration Services
+ 
+We offer a suite of services to help customers specify and configure the OS software (Windows IoT, Linux, and Android) for their device based on their unique hardware configuration, application software, security policies, and operating environment. Our best practices ensure their OS software is configured to be secure, recoverable, upgradable, and updatable.  OS configuration services are typically of interest to new customers seeking to implement Windows IoT on a new product.
+Device Management Solutions
+ 
+For customers seeking to deploy, operate, and centrally manage their devices as part of a fleet or IoT system, we offer SquareOne, a software as a service (“SaaS”) product. SquareOne captures workflows to be stored and managed centrally and deployed as needed for the purposes of secure remote device management. The product supports devices running Windows, Linux, and Android operating systems and supports Intel’s VPro technology. Our solution unlocks the data and telemetry on devices to provide secure, accurate, and reliable intelligence. SquareOne registers and maps embedded devices to provide heartbeat monitoring, telemetry analysis, content updates, and preventative maintenance routines, which helps connected device fleets to become simultaneously secure, intelligent, and efficiently managed. 
+ 
+IoT and Fleet Transition Services
+ 
+Our professional services help transition a collection of devices to a specific OS and software configuration in preparation for management and operations as part of an intelligent system. We work with customers to understand and bring together multiple versions of OS software and hardware, connectivity, security, personnel, operating hours, and other factors that could affect previously deployed equipment. Bsquare also offers software utilities and professional services to migrate a fleet of devices to 24/7 IoT operations, allowing individual device and system performance to be managed centrally and integrated into existing business systems.
+ 
+24/7 IoT Operations
+ 
+Our outsourced IoT operations services include 24/7 infrastructure monitoring, automated issue escalation, incident response and troubleshooting, management protocols, uptime and service level reporting, and cloud instance management. We also offer related data engineering services to assist customers with the development and implementation of IoT systems and data-driven operations, including machine learning and predictive analytics that allow IoT systems to operate as an intelligent system.
+ 
+Software Distribution
+ 
+We maintain distribution agreements with multiple third-party software vendors. Our ability to resell these third-party software products, whether as stand-alone products or in conjunction with our own proprietary software and engineering service offerings, provides our customers with a comprehensive solution for their device project needs:
+
+● | For over 20 years, we have been a Microsoft Authorized Distributor of Windows Embedded and IoT operating system software and licenses, including major product families such as Windows 10 IoT Enterprise, Windows Server IoT, and SQL Server IoT. We are also authorized to sell Windows IoT operating systems in Canada, the United States, Argentina, Brazil, Chile, Mexico, Peru, Venezuela, Puerto Rico, Columbia, and several Caribbean countries.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We are an authorized distributor for Adobe Flash technologies and Adobe Reader. We have the right to distribute Adobe Flash Lite licenses on a worldwide basis.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | We are an authorized distributor of McAfee security software in North America.
+--+-------------------------------------------------------------------------------
+
+ 
+The majority of our revenue continues to be derived from reselling Microsoft Windows Embedded and IoT operating system software to device makers. The sale of Microsoft operating systems has historically accounted for substantially all of our Partner Solutions revenue.
+ 
+    2 
+
+  
+
+Relationship with Microsoft
+ 
+We have a long-standing relationship with Microsoft, which is important to the continuing success of our business:
+ 
+
+● | We have been one of Microsoft’s distributors of Windows Embedded and IoT operating systems for over 20 years.
+--+--------------------------------------------------------------------------------------------------------------
+
+
+● | We are a Gold level Data Analytics partner.
+--+--------------------------------------------
+
+
+● | We are a Gold level Application Integration partner.
+--+-----------------------------------------------------
+
+
+● | We are Silver level Application Development partner.
+--+-----------------------------------------------------
+
+
+● | Microsoft has engaged us on various engineering service projects.
+--+------------------------------------------------------------------
+
+
+● | We work closely with Microsoft executives, developers, product managers and sales personnel. We leverage these relationships in a variety of ways, including:
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+a. | We gain early access to new Microsoft embedded software and other technologies.
+---+--------------------------------------------------------------------------------
+
+
+b. | We leverage co-marketing resources, content and strategies from Microsoft, including market development funds, to support our own marketing and sales efforts.
+---+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+c. | We participate in Microsoft-sponsored trade shows, seminars, and other events.
+---+-------------------------------------------------------------------------------
+
+
+d. | We receive sales leads from Microsoft.
+---+---------------------------------------
+
+
+e. | We receive rebates from Microsoft based upon the achievement of predefined sales objectives.
+---+---------------------------------------------------------------------------------------------
+
+ 
+See Item 1A, “Risk Factors,” for more information regarding our relationship with Microsoft.
+ 
+Competition
+ 
+Microsoft controls who can distribute its OS software. Microsoft Authorized Distributors that we compete with include Advantech, Inc., Arrow Electronics, Inc., Avnet, Inc., and Dell Computer, Inc. Our competition is not limited to these Microsoft Authorized Distributors. We compete with other consulting firms for services related to device design and development, system software development, and engineering firms that offer similar services.
+ 
+Despite competition from these larger organizations, we have retained a loyal customer base, largely due to our technical support and business services. We are known as the company that can manage difficult problems at the intersection of hardware and software.  Our competitors have directed customers to us to resolve issues and Microsoft’s OS team regularly seeks our guidance on customer technical challenges. Further, as a software-only company with multi-OS experience, we have always offered customers independence from OS or hardware biases.
+ 
+Our history provides us with a unique position in the market. Our legacy OS distribution, our reputation as a technology provider, and our recent experience building and operating significant IoT systems sets us apart. These factors enable and enhance the market credibility of our claims of expertise, experience, and insight. As our customers evaluate products and services for purchasing decisions, we believe that they are and will remain more likely to buy from a company that has the history and experience to meet their requirements and provide a long-term operational perspective.
+ 
+Our product portfolio is composed of solutions that are highly complementary across our customers’ product lifecycles. Supplying a customer with OS configuration services and OS licensing put us in a unique position to sell SquareOne.
+ 
+The market for device software and engineering services is competitive and we face competition from the following:
+ 
+
+● | Our current and potential customers’ internal engineering and research and development departments, which may seek to provide their own IoT-related services or develop their own software solutions which could compete with our own service offerings and products.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Engineering service firms, including offshore development companies, such as Adeneo, Symphony Teleca, and Wipro.
+--+-----------------------------------------------------------------------------------------------------------------
+
+
+● | ODMs, particularly those in Taiwan and China, with their own software development capabilities.
+--+------------------------------------------------------------------------------------------------
+
+
+● | Contract manufacturers with their own software development capabilities.
+--+-------------------------------------------------------------------------
+
+ 
+Competition for our IoT software and operating services include:
+ 
+
+● | Large, established enterprise software and solution providers such as International Business Machines, Oracle Corporation, SAP SE, and SAS Software, Inc.
+--+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Cloud IoT providers such as AWS and Microsoft Azure. Although we are closely partnered with AWS and Microsoft, there are elements of their solutions with which we compete directly.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Mid-sized companies engaged in business transitions similar to our own, including PTC Inc. and TTTech Industrial North America, Inc.
+--+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+● | Startups funded to enter the IoT market, including C3.AI, Inc., Losant IOT Inc., and TeamViewer US, Inc.
+--+---------------------------------------------------------------------------------------------------------
+
+Sales and Marketing 
+ 
+We market our products and services utilizing a direct sales model. We have sales personnel in the United States and in the United Kingdom. Historically, we have not made significant use of resellers, channel partners, representative agents, or other indirect channels. Key elements of our sales and marketing strategy include direct marketing, digital marketing, content marketing, trade shows, event marketing, public relations, analyst relations, social media properties, customer and strategic alliance partner co-marketing programs, and a comprehensive website.
+ 
+Our sales and marketing efforts with embedded OS customers will also be beneficial in our efforts to attract customers for our IoT software and services, and vice versa. The two markets we have traditionally served are converging, and our sales and marketing will increasingly reflect that convergence. The cross-selling opportunities between our two primarily markets could be a source of strength as we continue to expand our presence and reputation among the makers of IoT devices and those responsible for IoT device operations.
+ 
+    3 
+
+  
+
+International Operations 
+ 
+Our international operations outside of North America are conducted through our offices in Trowbridge, UK. We maintain a European sales and marketing presence through the UK office exclusively in support of our IoT software and services, reported in our Edge to Cloud business segment. The majority of our global technical personnel also work from the UK office. 
+ 
+Our OEM Distribution Agreement with Microsoft for the sale of Microsoft Windows IoT operating systems is currently restricted to North America. As a result, the majority of our revenue continues to be generated from North America. Revenue generated from customers located outside of North America was approximately 8% of total revenue in 2022 and 14% in 2021.
+ 
+Human Capital 
+ 
+We had a total employee headcount of 44 on December 31, 2022, with 25 people located in North America and 19 in the United Kingdom. As compared to December 31, 2021, our total employee headcount was smaller by nine.
+Compensation and Benefits
+ 
+We strive to provide market-competitive compensation and benefits that attract and retain employees whose values align with our mission and goals. Our compensation packages include combinations of competitive base pay, sales commissions, performance based short-term incentives, health care, retirement benefits, paid time off and family leave. In addition, we offer employees the benefit of equity ownership in the Company through stock option grants. We also provide access to a variety of health and wellness resources.
+Intellectual Property and Other Proprietary Rights 
+ 
+We strive to protect our intellectual property rights primarily through copyright, trademark, and trade secret laws, through contractual arrangements, and occasionally through patent filings. While we cannot be certain that our efforts will be effective to prevent the misappropriation of our intellectual property, or to prevent the development and design by others of products or technologies similar to, or competitive with, those developed by us, we plan to continue to pursue appropriate protections for our intellectual property.
+ 
+Additionally, because a significant portion of our revenue relates to the sale of third-party software products, we also rely on our partners, particularly Microsoft, to appropriately protect their own intellectual property.
+ 
+See Item 1A, “Risk Factors,” for more information regarding our intellectual property and other proprietary rights.
+ 
+Available Information 
+ 
+We were incorporated in the State of Washington in July 1994. Our principal office is located at 1415 Western Ave, Suite 700, Seattle, Washington 98101, and our telephone number is (425) 519-5900. Our website address is www.bsquare.com. Information contained on or that can be accessed through our website is not a part of this Form 10-K.
+ 
+Our stock is traded on the NASDAQ Capital Market under the symbol BSQR. Our website may be visited at www.bsquare.com. We electronically file with or furnish to the Securities and Exchange Commission (SEC) our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934. We make available on our website, free of charge, copies of these reports, as soon as reasonably practicable after electronically filing such reports with, or furnishing them to the SEC.
+ 
+    4 
+
+  
+
