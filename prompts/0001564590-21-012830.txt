@@ -1,0 +1,175 @@
+Prompt: Summarize the business model from the following text. Answer with a continuous text and with fivehundredtwelve tokens at max. Set your focus on sources of revenue , the intended customer base , products , distribution channels  and details of financing . Use only information from the following text
+
+
+Item 1. | Business
+--------+---------
+
+Overview
+ CTG was incorporated in Buffalo, New York on March 11, 1966, and its corporate headquarters are located at 300 Corporate Parkway, Suite 214N, Amherst, New York 14226 (716-882-8000). CTG is an information and technology solutions company with operations in North and South America, Western Europe, and India. CTG’s employees and billable subcontractors total approximately 3,900 people worldwide at December 31, 2020. During 2020, the Company had thirteen operating subsidiaries: Computer Task Group of Canada, Inc. and La Societe de Tests StarDust Inc., providing services in Canada; Computer Task Group Belgium N.V., CTG ITS S.A., Computer Task Group IT Solutions, S.A., Computer Task Group Luxembourg PSF S.A., Computer Task Group (U.K.) Limited, CTG Health Solutions N.V., Soft Company SAS (“CTG France”), and StarDust SAS, each primarily providing services in Europe; Computer Task Information Technology Private Services Limited, providing services in India and CTG LATAM SAS, providing services in Colombia. The parent corporation, CTG, Inc., and CTG Federal Systems, LLC primarily provide services in North America.
+ The Company operates in one industry segment, providing information technology and related services to its clients. These services include information and technology-related solutions, including supplemental staffing as a solution. With solution services, the Company generally takes responsibility for the deliverables and some level of project and staff management, and services may include high-end advisory or business-related consulting. When providing staffing services, including managed staffing, staff augmentation, and volume staffing, personnel are provided to clients, who then, in turn, take their direction from the clients’ managers. 
+ 3
+
+Services
+ CTG is a leading provider of IT solutions and services, serving as a catalyst for our clients’ digital transformation. We increase project momentum and the speed at which our clients achieve their desired outcomes. Our solutions portfolio addresses critical challenges for clients in North America, South America, Western Europe, and India in high-growth industries. Clients we typically support are organizations with large, complex technology, information, and data requirements. Some have begun their digital transformation and are struggling to drive their desired results, while many are just starting to define their transformation needs and strategy. 
+ CTG's Digital Transformation Solutions portfolio spans three areas that collectively address many of our clients' most pressing transformation challenges and are designed to address their unique business, technology, and operational needs. Our capabilities ensure that our clients utilize the right information technology to meet their business needs, maximize their IT systems' value, and operate efficiently and effectively. The following describes the typical services provided:
+  
+• | Business Process Transformation Solutions ensure clients can meet today's challenges, map to tomorrow's growth, and align their organizations' technology solutions to their business objectives. We combine strategic advisory services, technologies and platforms, and implementation and integration processes to accelerate business outcomes, improve workflows, and drive efficiencies. These solutions services include Advisory, Data Strategy, Digital Workplace, Enterprise Platforms, Information Disclosure, and Regulatory and Compliance.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Technology Transformation Solutions accelerate digital transformation by keeping our clients ahead of the digital curve and delivering the sustainable business value they expect from their technology investments. CTG's Technology Transformation Solutions also help our clients stay ahead of their competition by rapidly adopting digital technologies with confidence through solutions that include Application Development, Automation, Cloud, Data Management, Enterprise Platform Implementation, and Testing.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Operations Transformation Solutions ensure our clients have the correct operations infrastructure in place to achieve the organizational agility necessary to accelerate their business velocity. Our Global Delivery Network supports our Operations Transformation Solutions, enabling cost-effective solutions delivery at optimal staffing levels to ensure exceptional customer service while reducing client costs. These solutions include Application support, IT Operations support, Cloud, and Infrastructure.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ CTG’s staffing services address a range of information and technology resource needs, from filling specific talent gaps to managing high-volume staffing programs. CTG recruits, retains, and manages IT talent for its clients, which are primarily large technology service providers and other companies with multiple locations and a significant need for high-volume professional IT resources. 
+ IT solutions and IT and other staffing revenue as a percentage of consolidated revenue for the three years ended December 31, 2020, 2019, and 2018 is as follows:
+ 
+ 
+ | 2020 | | | 2019 | | 2018
+----------------------+------+-----+---+------+-----+-----
+IT solutions | | 38 | % | | 36 | % | 31 | %
+IT and other staffing | | 62 | % | | 64 | % | 69 | %
+Total | | 100 | % | | 100 | % | 100 | %
+
+Capabilities
+ Our expertise in key technologies–what we call Digital Accelerators–underpins our solutions and ensure our clients get the most value from their digital technologies and methodologies. CTG's Digital Accelerators evolve to meet market needs and address the most innovative technology platforms and thinking. These Digital Accelerators include Agile and DevSecOps, Internet of Things (IoT), Intelligent Automation, Data and Analytics, Cloud, and Automated Testing. 
+ As the pace of change accelerates, CTG accelerates our clients' digital environment through a unique combination of Transformation Solutions, Digital Accelerators, leading industry talent, domain expertise, innovative tools and methodologies, a partner ecosystem, and a Global Delivery Network. 
+  
+• | Industry-leading Digital and Technology Talent. CTG cultivates a workplace that attracts, develops, and retains the best digital and technology experts. Being Great Place to Work® Certified validates our workplace culture that has made CTG a leading IT and digital solutions and services company for more than 50 years.
+--+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 4
+
+ 
+• | Deep Domain Expertise. CTG serves clients in high-growth sectors across the globe and brings industry experience that we leverage to build and deliver digital solutions customized for the unique challenges, requirements, and regulations companies face in each industry we serve. CTG serves clients in high-growth global sectors, such as healthcare, energy, manufacturing, financial services, technology service providers, and other general markets.
+--+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Innovative Tools and Methodologies. CTG leverages up-to-date best practices, technologies, and methodologies (e.g., Agile, SAFe, DASA, ITIL) to support our clients' need for greater speed-to-market, innovation, continuous improvement, and to support today's high-performance IT teams. CTG also builds and provides a number of proprietary tools and platforms (e.g., We Are Testers, BugTrapp) designed to meet the unique needs of our clients.
+--+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Partner Ecosystem. Given our clients' specialized and evolving needs and the accelerated pace at which new technologies emerge, we know that we must leverage industry partnerships to increase the value we provide to our clients. Our strong partner network, representing today's leading technologies, allows our clients to access and utilize today's leading technologies, coupled with our supporting Solutions, methodologies, and industry experience.
+--+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+• | Global Delivery Network. Through established operations in North and South America, Western Europe, and India, CTG's delivery centers leverage a centralized model to deliver a broad spectrum of high-quality, cost-effective services and solutions.
+--+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vertical Markets
+ The Company provides a majority of its services through five vertical market focus areas: technology service providers, financial services, healthcare (which includes services provided to healthcare providers, health insurers (payers), and life sciences companies), manufacturing, and energy. The remainder of CTG’s revenue is derived from general markets.
+ CTG’s revenue by vertical market as a percentage of consolidated revenue for the three years ended December 31, 2020, 2019, and 2018 is as follows:
+ 
+ 
+ | 2020 | | | 2019 | | 2018
+-----------------------------+------+-------+---+------+-------+-----
+Technology service providers | | 32.7 | % | | 32.2 | % | 32.4 | %
+Financial services | | 15.7 | % | | 13.8 | % | 15.2 | %
+Healthcare | | 14.9 | % | | 16.6 | % | 16.2 | %
+Manufacturing | | 13.5 | % | | 16.8 | % | 19.5 | %
+Energy | | 6.3 | % | | 5.2 | % | 4.7 | %
+General markets | | 16.9 | % | | 15.4 | % | 12.0 | %
+Total | | 100.0 | % | | 100.0 | % | 100.0 | %
+
+ 
+Revenue for the Company's technology service providers vertical market as a percentage of consolidated revenue increased slightly in 2020 as compared with 2019. Overall, the Company’s revenue decreased in 2020 as the global COVID-19 pandemic reduced demand for the Company’s staffing services. However, demand from our largest staffing client, IBM, which is included in this vertical market, decreased at a rate consistent with the Company’s overall decrease in revenue. The revenue as a percentage of consolidated revenue decrease in 2019 as compared with 2018 was due to a change in business mix as the Company focused on selling its IT Solutions services, which are not included in this vertical market.
+ Revenue for the Company’s financial services vertical market as a percentage of consolidated revenue increased in 2020 as compared with 2019 due to acquisitions completed by the Company in 2019 and 2020. Revenue decreased in 2019 as compared to 2018 due to lower demand in this vertical market throughout our European operations. 
+ In 2020, the demand from our healthcare clients decreased at a rate that was above the overall revenue decrease for the Company, which caused the percentage of total revenue to decrease. Additionally, a significant project in this vertical market was essentially complete by the end of 2019 and was not replaced in 2020. This was a reversal of the trend of an increase in 2019 as compared with 2018 as revenue increased in that year due to the large project previously mentioned.
+ 5
+
+The revenue in our manufacturing vertical market is primarily generated from several large staffing clients, including Lenovo (through SDI as a vendor manager for Lenovo), which is our second largest client. Revenue from Lenovo and other large clients decreased in 2020 as compared with 2019, and in 2019 as compared with 2018, as the demand for these services, which include some non-IT staffing, decreased in recent years. Additionally, the Company continues to disengage from its lowest margin staffing business, which is generally included in this vertical market. 
+ Revenue for the Company's energy vertical market increased as a percentage of consolidated revenue in both 2020 and 2019 given strong demand for our services in this vertical market.
+ For the year ended December 31, 2020, CTG provided its services to 601 clients, primarily in North America and Europe. In North America, the Company operates in the United States and Canada, with about 99% of 2020 North American revenue generated in the United States. In Europe, the Company operates in Belgium, Luxembourg, France, and the United Kingdom. Of total 2020 consolidated revenue of $366.1 million, approximately 56% was generated in North America and 44% in Europe. Revenue generated in India and Colombia was insignificant. One client, IBM, accounted for greater than 10% of CTG’s consolidated revenue in 2020.
+ Revenue Recognition and Backlog
+ The Company recognizes revenue when control of the promised good or service is transferred to clients, in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. For time-and-material contracts, revenue is recognized as hours are incurred and costs are expended. For contracts with progress billing schedules, primarily monthly, revenue is recognized as services are rendered to the client. Revenue for fixed-price contracts is recognized over time using an input-based approach. Over time revenue recognition best portrays the Company’s performance in transferring control of the goods or services to the client. On most fixed-price contracts, revenue recognition is supported through contractual clauses that require the client to pay for work performed to date, including cost plus a reasonable profit margin, for goods or services that have no alternative use to the Company. On certain contracts, revenue recognition is supported through contractual clauses that indicate the client controls the asset, or work in process, as the Company creates or enhances the asset. On a given project, actual salary and indirect labor costs incurred are measured and compared with the total estimate of costs of such items at the completion of the project. Revenue is recognized based upon the percentage-of-completion calculation of total incurred costs to total estimated costs. The Company infrequently works on fixed-price projects that include significant amounts of material or other non-labor related costs that could distort the percent complete within a percentage-of-completion calculation. The Company’s estimate of the total labor costs it expects to incur over the term of the contract is based on the nature of the project and our experience on similar projects, and includes management judgments and estimates that affect the amount of revenue recognized on fixed-price contracts in any accounting period. Losses on fixed-price projects are recorded when identified.
+ The Company’s revenue from contracts accounted for under time-and-material, progress billing, and percentage-of-completion methods as a percentage of consolidated revenue for the three years ended December 31, 2020, 2019, and 2018 is as follows:
+ 
+ 
+ | 2020 | | | 2019 | | 2018
+-------------------------+------+-------+---+------+-------+-----
+Time-and-material | | 81.0 | % | | 79.6 | % | 84.7 | %
+Progress billing | | 15.9 | % | | 10.2 | % | 10.5 | %
+Percentage-of-completion | | 3.1 | % | | 10.2 | % | 4.8 | %
+Total | | 100.0 | % | | 100.0 | % | 100.0 | %
+
+ 
+As of December 31, 2020 and 2019, the backlog for fixed-price and all managed-support contracts was approximately $50.9 million and $53.6 million, respectively. Approximately 70% or $35.7 million of the December 31, 2020 backlog is expected to be earned in 2021. Approximately 56% of the $53.6 million of backlog at December 31, 2019, or $30.3 million, was earned in 2020. Revenue is subject to slight seasonal variations, with a minor slowdown and a decrease in billable resource utilization in months of high vacation and legal holidays (July, August, and December). Backlog does not tend to be seasonal; however, it does fluctuate based upon the timing of entry into long-term contracts.
+ Competition
+ The IT services market, for both information and technology solutions and IT and professional staffing services, is highly competitive. The market is also highly fragmented with many providers and no single competitor maintaining clear market leadership. Competition varies by location, the type of service, and the client to whom services are provided. The Company’s competition comes from four major channels: large national or international companies, including major accounting and consulting firms and large companies headquartered in India; hardware vendors and suppliers of 
+ 6
+
+packaged software systems; small local firms or individuals specializing in specific programming services or applications; and from a client’s internal IT staff. CTG competes against all four of these channels for its share of the market. The Company believes that to compete successfully, it is necessary to have a local geographic presence, offer appropriate IT solutions, provide skilled professional resources, and price its services competitively.
+ Intellectual Property
+ The Company has registered its symbol and logo with the U.S. Patent and Trademark Office and has taken steps to preserve its rights in other countries where it operates. We regard patents, trademarks, copyrights and other intellectual property as important to our success, and we rely on them in the United States and foreign countries to protect our investments in products and technology. Our patents expire at various times, but we believe that the loss or expiration of any individual patent would not materially affect our business. We, like any other company, may be subject to claims of alleged infringement of the patents, trademarks and other intellectual property rights of third parties from time to time in the ordinary course of business. CTG has entered into agreements with various software and hardware vendors from time to time in the normal course of business, and has capitalized certain costs under software development projects.
+Human Capital Resources
+ Employees
+ CTG’s business depends on the Company’s ability to attract, develop and retain qualified professional staff to execute our strategy and provide services to its clients. The Company has a structured recruiting organization that works with its clients to meet their requirements by recruiting, retaining, and providing high quality, motivated staff. As the Company works with a number of subcontractors within CTG France, which was acquired on February 15, 2018, the Company now includes subcontractors in its total headcount, which equals approximately 3,900 total resources worldwide, with approximately 2,450 in the United States and Canada and 1,450 in Europe, as of December 31, 2020. Of these resources, approximately 91% are IT professionals and 9% are individuals who work in sales, recruiting, delivery, administrative and support positions. The Company believes that its relationship with its employees is good and supported by the Company’s 2020 recognition as a Great Place to Work® in North America, Belgium, and Luxembourg. No employees are covered by a collective bargaining agreement or are represented by a labor union. CTG is an equal opportunity employer.
+COVID-19 Response
+ The health, well-being and safety of our employees, clients and communities is our top priority. The Company began to focus on COVID-19 as a potentially significant issue during the first quarter of 2020 as we followed global developments and observed the impacts of COVID-19 in several European markets where we operate. Our senior management team initiated regular COVID-19 planning sessions to address the critical safety, operational and business risks associated with the pandemic. With our continued commitment to monitor, assess and implement guidance and best practices for the Company as recommended by the World Health Organization (WHO) and Centers for Disease Control and Prevention (CDC), we have been able to maintain the continuity of the essential services that we provide to our clients, while also managing the impact of the spread of the virus within our business, as well as promoting the health, well-being and safety of our employees, clients and communities. 
+ 7
+
+Financial Information About Geographic Areas
+ The following table sets forth certain financial information relating to the performance of the Company for the three years ended December 31, 2020, 2019, and 2018. This information should be read in conjunction with the audited consolidated financial statements and notes thereto included in Item 8, “Financial Statements and Supplementary Data” included in this report.
+
+ | 2020 | | | 2019 | | | 2018
+-------------------------------------------------+------+---------+---+------+---+---------+-----
+(amounts in thousands) | | | | | | | | | | 
+Revenue from External Clients: | | | | | | | | | | 
+United States | $ | 203,495 | | | $ | 241,038 | | $ | 232,178 | 
+Luxembourg (1) | | 66,411 | | | | 64,852 | | | 44,660 | 
+Belgium (2) | | 59,851 | | | | 52,468 | | | 48,585 | 
+Other countries | | 36,334 | | | | 35,812 | | | 33,346 | 
+Total foreign revenue | | 162,596 | | | | 153,132 | | | 126,591 | 
+Total revenue | $ | 366,091 | | | $ | 394,170 | | $ | 358,769 | 
+Operating Income (loss): | | | | | | | | | | 
+United States - pre-allocation | $ | (1,223 | ) | | $ | 733 | | $ | (3,083 | )
+Allocation to other countries (5) | | 1,840 | | | | 1,566 | | | 942 | 
+United States - post-allocation | | 617 | | | | 2,299 | | | (2,141 | )
+Belgium (2) | | 4,411 | | | | 1,159 | | | 1,528 | 
+Luxembourg (1) | | 3,491 | | | | 2,363 | | | 1,731 | 
+United Kingdom (4) | | 1,203 | | | | 1,199 | | | 671 | 
+France (3) | | 776 | | | | 1,346 | | | 1,129 | 
+Other countries | | 472 | | | | 112 | | | 104 | 
+Total foreign operating income - pre-allocation | | 10,353 | | | | 6,179 | | | 5,163 | 
+Allocation from the United States (5) | | (1,840 | ) | | | (1,566 | ) | | (942 | )
+Total foreign operating income - post-allocation | | 8,513 | | | | 4,613 | | | 4,221 | 
+Total operating income | $ | 9,130 | | | $ | 6,912 | | $ | 2,080 | 
+Total Assets: | | | | | | | | | | 
+United States | $ | 50,075 | | | $ | 54,043 | | $ | 39,488 | 
+Luxembourg (1) | | 47,047 | | | | 42,943 | | | 26,355 | 
+Belgium (2) | | 39,164 | | | | 30,159 | | | 27,128 | 
+France (3) | | 33,035 | | | | 26,500 | | | 27,425 | 
+Other countries | | 6,932 | | | | 5,061 | | | 3,725 | 
+Total foreign assets | | 126,178 | | | | 104,663 | | | 84,633 | 
+Total assets | $ | 176,253 | | | $ | 158,706 | | $ | 124,121 | 
+
+
+(1) | Revenue, operating income, and assets for our Luxembourg operations have been disclosed separately as they exceed 10% of the consolidated balances in at least one of the years presented.
+----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(2) | Revenue, operating income, and assets for our Belgium operations have been disclosed separately as they exceed 10% of the consolidated balances in at least one of the years presented.
+----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(3) | Operating income and assets for our France operations have been disclosed separately as they exceed 10% of the consolidated balances in at least one of the years presented.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(4) | Operating income for our United Kingdom operations has been disclosed separately as it exceeds 10% of the consolidated balance in at least one of the years presented.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+(5) | During 2020, 2019 and 2018, the Company allocated support costs primarily for management, finance and information technology services from the United States to our foreign operations to reflect costs that are recorded in the United States but support our foreign operations.
+----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Available Company Information
+ The Company’s annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (Exchange Act), and reports pertaining to the Company filed under Section 16 of the Exchange Act are available without charge on the Company’s website at www.ctg.com as soon as reasonably practicable after the Company electronically 
+ 8
+
+files the information with, or furnishes it to, the SEC. The SEC’s website, www.sec.gov, contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The Company’s code of ethics (Code of Conduct), committee charters and governance policies (including a fraud and insider trading policy) are also available without charge on the Company’s website at http://investors.ctg.com/corporate-governance/governance-documents. If applicable, the Company intends to disclose future amendments to, or waivers from, certain provisions of the Code of Conduct on the Company's website or in a current report on Form 8-K.
+ 
+
